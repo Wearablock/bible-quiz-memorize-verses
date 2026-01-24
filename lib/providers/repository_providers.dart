@@ -60,3 +60,9 @@ final defaultQuestionCountProvider = StreamProvider<int>((ref) {
   final repository = ref.watch(settingsRepositoryProvider);
   return repository.watchDefaultQuestionCount();
 });
+
+/// 선호 로케일 Provider
+final preferredLocaleProvider = StreamProvider<String?>((ref) {
+  final repository = ref.watch(settingsRepositoryProvider);
+  return repository.watchPreferredLocale();
+});

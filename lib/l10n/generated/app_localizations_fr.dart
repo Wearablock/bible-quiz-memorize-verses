@@ -138,4 +138,146 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get categoryFood => 'Gastronomie & Lifestyle';
+
+  @override
+  String get soundEffects => 'Effets sonores';
+
+  @override
+  String get soundEffectsDescription =>
+      'Jouer des sons pour les bonnes/mauvaises réponses';
+
+  @override
+  String get vibration => 'Vibration';
+
+  @override
+  String get vibrationDescription => 'Vibrer lors du retour';
+
+  @override
+  String get theme => 'Thème';
+
+  @override
+  String get themeLight => 'Clair';
+
+  @override
+  String get themeDark => 'Sombre';
+
+  @override
+  String get themeSystem => 'Système';
+
+  @override
+  String get selectTheme => 'Sélectionner le thème';
+
+  @override
+  String get language => 'Langue';
+
+  @override
+  String get selectLanguage => 'Sélectionner la langue';
+
+  @override
+  String get systemDefault => 'Par défaut du système';
+
+  @override
+  String get about => 'À propos';
+
+  @override
+  String get aboutDescription =>
+      'Testez vos connaissances avec des questions du monde entier !';
+
+  @override
+  String get resetAllData => 'Réinitialiser toutes les données';
+
+  @override
+  String get resetAllDataTitle => 'Réinitialiser toutes les données ?';
+
+  @override
+  String get resetAllDataMessage =>
+      'Cela supprimera tout votre historique de quiz et vos paramètres. Cette action est irréversible.';
+
+  @override
+  String get cancel => 'Annuler';
+
+  @override
+  String get reset => 'Réinitialiser';
+
+  @override
+  String get dataResetSuccess => 'Toutes les données ont été réinitialisées';
+
+  @override
+  String get exitQuiz => 'Quitter le quiz ?';
+
+  @override
+  String get progressWillBeLost => 'Votre progression sera perdue.';
+
+  @override
+  String get exit => 'Quitter';
+
+  @override
+  String get loadingQuestions => 'Chargement des questions...';
+
+  @override
+  String get timeUp => 'Temps écoulé !';
+
+  @override
+  String get showHint => 'Afficher l\'indice';
+
+  @override
+  String get watchAdForHint => 'Regardez une pub pour voir l\'indice';
+
+  @override
+  String get watching => 'Visionnage';
+
+  @override
+  String get loading => 'Chargement...';
+
+  @override
+  String get adLoadingMessage =>
+      'Chargement de la pub. Veuillez réessayer dans un instant.';
+
+  @override
+  String get messageOutstanding =>
+      'Exceptionnel ! Vous êtes un maître du trivia !';
+
+  @override
+  String get messageGreatJob => 'Excellent travail ! Continuez !';
+
+  @override
+  String get messageGoodEffort =>
+      'Bon effort ! C\'est en forgeant qu\'on devient forgeron !';
+
+  @override
+  String get messageKeepLearning =>
+      'Continuez à apprendre ! Vous ferez mieux la prochaine fois !';
+
+  @override
+  String get oopsSomethingWentWrong => 'Oups ! Une erreur s\'est produite';
+
+  @override
+  String get goBack => 'Retour';
+
+  @override
+  String get tryAgain => 'Réessayer';
+
+  @override
+  String get overallProgress => 'Progression globale';
+
+  @override
+  String get categoryProgress => 'Progression par catégorie';
+
+  @override
+  String get accuracy => 'Précision';
+
+  @override
+  String get accuracyRate => 'Taux de réussite';
+
+  @override
+  String get unique => 'Unique';
+
+  @override
+  String get unableToLoadStats => 'Impossible de charger les statistiques';
+
+  @override
+  String get youreDoingGreat => 'Vous vous en sortez très bien !';
+
+  @override
+  String get leaderboardComingSoon => 'Classement bientôt disponible !';
 }

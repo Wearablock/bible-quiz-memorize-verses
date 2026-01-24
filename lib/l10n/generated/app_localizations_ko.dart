@@ -137,4 +137,139 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get categoryFood => '음식/생활';
+
+  @override
+  String get soundEffects => '효과음';
+
+  @override
+  String get soundEffectsDescription => '정답/오답 시 효과음 재생';
+
+  @override
+  String get vibration => '진동';
+
+  @override
+  String get vibrationDescription => '피드백 시 진동';
+
+  @override
+  String get theme => '테마';
+
+  @override
+  String get themeLight => '라이트';
+
+  @override
+  String get themeDark => '다크';
+
+  @override
+  String get themeSystem => '시스템';
+
+  @override
+  String get selectTheme => '테마 선택';
+
+  @override
+  String get language => '언어';
+
+  @override
+  String get selectLanguage => '언어 선택';
+
+  @override
+  String get systemDefault => '시스템 기본값';
+
+  @override
+  String get about => '정보';
+
+  @override
+  String get aboutDescription => '전 세계의 퀴즈로 지식을 테스트하세요!';
+
+  @override
+  String get resetAllData => '모든 데이터 초기화';
+
+  @override
+  String get resetAllDataTitle => '모든 데이터를 초기화할까요?';
+
+  @override
+  String get resetAllDataMessage => '퀴즈 기록과 설정이 모두 삭제됩니다. 이 작업은 되돌릴 수 없습니다.';
+
+  @override
+  String get cancel => '취소';
+
+  @override
+  String get reset => '초기화';
+
+  @override
+  String get dataResetSuccess => '모든 데이터가 초기화되었습니다';
+
+  @override
+  String get exitQuiz => '퀴즈 종료';
+
+  @override
+  String get progressWillBeLost => '진행 상황이 사라집니다.';
+
+  @override
+  String get exit => '종료';
+
+  @override
+  String get loadingQuestions => '문제 로딩 중...';
+
+  @override
+  String get timeUp => '시간 초과!';
+
+  @override
+  String get showHint => '힌트 보기';
+
+  @override
+  String get watchAdForHint => '광고를 시청하고 힌트를 확인하세요';
+
+  @override
+  String get watching => '시청 중';
+
+  @override
+  String get loading => '로딩...';
+
+  @override
+  String get adLoadingMessage => '광고를 불러오는 중입니다. 잠시 후 다시 시도해주세요.';
+
+  @override
+  String get messageOutstanding => '훌륭해요! 당신은 퀴즈 마스터입니다!';
+
+  @override
+  String get messageGreatJob => '잘했어요! 계속 화이팅!';
+
+  @override
+  String get messageGoodEffort => '좋은 노력이에요! 연습하면 완벽해집니다!';
+
+  @override
+  String get messageKeepLearning => '계속 배워요! 다음엔 더 잘할 거예요!';
+
+  @override
+  String get oopsSomethingWentWrong => '앗! 문제가 발생했습니다';
+
+  @override
+  String get goBack => '돌아가기';
+
+  @override
+  String get tryAgain => '다시 시도';
+
+  @override
+  String get overallProgress => '전체 진행률';
+
+  @override
+  String get categoryProgress => '카테고리별 진행률';
+
+  @override
+  String get accuracy => '정확도';
+
+  @override
+  String get accuracyRate => '정답률';
+
+  @override
+  String get unique => '고유';
+
+  @override
+  String get unableToLoadStats => '통계를 불러올 수 없습니다';
+
+  @override
+  String get youreDoingGreat => '잘하고 있어요!';
+
+  @override
+  String get leaderboardComingSoon => '리더보드가 곧 출시됩니다!';
 }

@@ -126,7 +126,7 @@ abstract class AppLocalizations {
   /// No description provided for @appTitle.
   ///
   /// In en, this message translates to:
-  /// **'Global Trivia Quiz'**
+  /// **'Trivia Quiz'**
   String get appTitle;
 
   /// No description provided for @home.
@@ -362,6 +362,276 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Food & Lifestyle'**
   String get categoryFood;
+
+  /// No description provided for @soundEffects.
+  ///
+  /// In en, this message translates to:
+  /// **'Sound Effects'**
+  String get soundEffects;
+
+  /// No description provided for @soundEffectsDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'Play sounds on correct/wrong answers'**
+  String get soundEffectsDescription;
+
+  /// No description provided for @vibration.
+  ///
+  /// In en, this message translates to:
+  /// **'Vibration'**
+  String get vibration;
+
+  /// No description provided for @vibrationDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'Vibrate on feedback'**
+  String get vibrationDescription;
+
+  /// No description provided for @theme.
+  ///
+  /// In en, this message translates to:
+  /// **'Theme'**
+  String get theme;
+
+  /// No description provided for @themeLight.
+  ///
+  /// In en, this message translates to:
+  /// **'Light'**
+  String get themeLight;
+
+  /// No description provided for @themeDark.
+  ///
+  /// In en, this message translates to:
+  /// **'Dark'**
+  String get themeDark;
+
+  /// No description provided for @themeSystem.
+  ///
+  /// In en, this message translates to:
+  /// **'System'**
+  String get themeSystem;
+
+  /// No description provided for @selectTheme.
+  ///
+  /// In en, this message translates to:
+  /// **'Select Theme'**
+  String get selectTheme;
+
+  /// No description provided for @language.
+  ///
+  /// In en, this message translates to:
+  /// **'Language'**
+  String get language;
+
+  /// No description provided for @selectLanguage.
+  ///
+  /// In en, this message translates to:
+  /// **'Select Language'**
+  String get selectLanguage;
+
+  /// No description provided for @systemDefault.
+  ///
+  /// In en, this message translates to:
+  /// **'System Default'**
+  String get systemDefault;
+
+  /// No description provided for @about.
+  ///
+  /// In en, this message translates to:
+  /// **'About'**
+  String get about;
+
+  /// No description provided for @aboutDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'Test your knowledge with questions from around the world!'**
+  String get aboutDescription;
+
+  /// No description provided for @resetAllData.
+  ///
+  /// In en, this message translates to:
+  /// **'Reset All Data'**
+  String get resetAllData;
+
+  /// No description provided for @resetAllDataTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Reset All Data?'**
+  String get resetAllDataTitle;
+
+  /// No description provided for @resetAllDataMessage.
+  ///
+  /// In en, this message translates to:
+  /// **'This will delete all your quiz history and settings. This action cannot be undone.'**
+  String get resetAllDataMessage;
+
+  /// No description provided for @cancel.
+  ///
+  /// In en, this message translates to:
+  /// **'Cancel'**
+  String get cancel;
+
+  /// No description provided for @reset.
+  ///
+  /// In en, this message translates to:
+  /// **'Reset'**
+  String get reset;
+
+  /// No description provided for @dataResetSuccess.
+  ///
+  /// In en, this message translates to:
+  /// **'All data has been reset'**
+  String get dataResetSuccess;
+
+  /// No description provided for @exitQuiz.
+  ///
+  /// In en, this message translates to:
+  /// **'Exit Quiz?'**
+  String get exitQuiz;
+
+  /// No description provided for @progressWillBeLost.
+  ///
+  /// In en, this message translates to:
+  /// **'Your progress will be lost.'**
+  String get progressWillBeLost;
+
+  /// No description provided for @exit.
+  ///
+  /// In en, this message translates to:
+  /// **'Exit'**
+  String get exit;
+
+  /// No description provided for @loadingQuestions.
+  ///
+  /// In en, this message translates to:
+  /// **'Loading questions...'**
+  String get loadingQuestions;
+
+  /// No description provided for @timeUp.
+  ///
+  /// In en, this message translates to:
+  /// **'Time Up!'**
+  String get timeUp;
+
+  /// No description provided for @showHint.
+  ///
+  /// In en, this message translates to:
+  /// **'Show Hint'**
+  String get showHint;
+
+  /// No description provided for @watchAdForHint.
+  ///
+  /// In en, this message translates to:
+  /// **'Watch an ad to see the hint'**
+  String get watchAdForHint;
+
+  /// No description provided for @watching.
+  ///
+  /// In en, this message translates to:
+  /// **'Watching'**
+  String get watching;
+
+  /// No description provided for @loading.
+  ///
+  /// In en, this message translates to:
+  /// **'Loading...'**
+  String get loading;
+
+  /// No description provided for @adLoadingMessage.
+  ///
+  /// In en, this message translates to:
+  /// **'Loading ad. Please try again shortly.'**
+  String get adLoadingMessage;
+
+  /// No description provided for @messageOutstanding.
+  ///
+  /// In en, this message translates to:
+  /// **'Outstanding! You\'re a trivia master!'**
+  String get messageOutstanding;
+
+  /// No description provided for @messageGreatJob.
+  ///
+  /// In en, this message translates to:
+  /// **'Great job! Keep it up!'**
+  String get messageGreatJob;
+
+  /// No description provided for @messageGoodEffort.
+  ///
+  /// In en, this message translates to:
+  /// **'Good effort! Practice makes perfect!'**
+  String get messageGoodEffort;
+
+  /// No description provided for @messageKeepLearning.
+  ///
+  /// In en, this message translates to:
+  /// **'Keep learning! You\'ll do better next time!'**
+  String get messageKeepLearning;
+
+  /// No description provided for @oopsSomethingWentWrong.
+  ///
+  /// In en, this message translates to:
+  /// **'Oops! Something went wrong'**
+  String get oopsSomethingWentWrong;
+
+  /// No description provided for @goBack.
+  ///
+  /// In en, this message translates to:
+  /// **'Go Back'**
+  String get goBack;
+
+  /// No description provided for @tryAgain.
+  ///
+  /// In en, this message translates to:
+  /// **'Try Again'**
+  String get tryAgain;
+
+  /// No description provided for @overallProgress.
+  ///
+  /// In en, this message translates to:
+  /// **'Overall Progress'**
+  String get overallProgress;
+
+  /// No description provided for @categoryProgress.
+  ///
+  /// In en, this message translates to:
+  /// **'Category Progress'**
+  String get categoryProgress;
+
+  /// No description provided for @accuracy.
+  ///
+  /// In en, this message translates to:
+  /// **'Accuracy'**
+  String get accuracy;
+
+  /// No description provided for @accuracyRate.
+  ///
+  /// In en, this message translates to:
+  /// **'Accuracy Rate'**
+  String get accuracyRate;
+
+  /// No description provided for @unique.
+  ///
+  /// In en, this message translates to:
+  /// **'Unique'**
+  String get unique;
+
+  /// No description provided for @unableToLoadStats.
+  ///
+  /// In en, this message translates to:
+  /// **'Unable to load stats'**
+  String get unableToLoadStats;
+
+  /// No description provided for @youreDoingGreat.
+  ///
+  /// In en, this message translates to:
+  /// **'You\'re doing great!'**
+  String get youreDoingGreat;
+
+  /// No description provided for @leaderboardComingSoon.
+  ///
+  /// In en, this message translates to:
+  /// **'Leaderboard coming soon!'**
+  String get leaderboardComingSoon;
 }
 
 class _AppLocalizationsDelegate

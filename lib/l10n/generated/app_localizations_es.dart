@@ -9,7 +9,7 @@ class AppLocalizationsEs extends AppLocalizations {
   AppLocalizationsEs([String locale = 'es']) : super(locale);
 
   @override
-  String get appTitle => 'Quiz de Trivia Global';
+  String get appTitle => 'Quiz de Trivia';
 
   @override
   String get home => 'Inicio';
@@ -138,4 +138,145 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get categoryFood => 'Gastronomía y Estilo de Vida';
+
+  @override
+  String get soundEffects => 'Efectos de sonido';
+
+  @override
+  String get soundEffectsDescription =>
+      'Reproducir sonidos en respuestas correctas/incorrectas';
+
+  @override
+  String get vibration => 'Vibración';
+
+  @override
+  String get vibrationDescription => 'Vibrar en retroalimentación';
+
+  @override
+  String get theme => 'Tema';
+
+  @override
+  String get themeLight => 'Claro';
+
+  @override
+  String get themeDark => 'Oscuro';
+
+  @override
+  String get themeSystem => 'Sistema';
+
+  @override
+  String get selectTheme => 'Seleccionar tema';
+
+  @override
+  String get language => 'Idioma';
+
+  @override
+  String get selectLanguage => 'Seleccionar idioma';
+
+  @override
+  String get systemDefault => 'Predeterminado del sistema';
+
+  @override
+  String get about => 'Acerca de';
+
+  @override
+  String get aboutDescription =>
+      '¡Pon a prueba tus conocimientos con preguntas de todo el mundo!';
+
+  @override
+  String get resetAllData => 'Restablecer todos los datos';
+
+  @override
+  String get resetAllDataTitle => '¿Restablecer todos los datos?';
+
+  @override
+  String get resetAllDataMessage =>
+      'Esto eliminará todo tu historial de cuestionarios y configuraciones. Esta acción no se puede deshacer.';
+
+  @override
+  String get cancel => 'Cancelar';
+
+  @override
+  String get reset => 'Restablecer';
+
+  @override
+  String get dataResetSuccess => 'Todos los datos han sido restablecidos';
+
+  @override
+  String get exitQuiz => '¿Salir del cuestionario?';
+
+  @override
+  String get progressWillBeLost => 'Tu progreso se perderá.';
+
+  @override
+  String get exit => 'Salir';
+
+  @override
+  String get loadingQuestions => 'Cargando preguntas...';
+
+  @override
+  String get timeUp => '¡Se acabó el tiempo!';
+
+  @override
+  String get showHint => 'Mostrar pista';
+
+  @override
+  String get watchAdForHint => 'Mira un anuncio para ver la pista';
+
+  @override
+  String get watching => 'Viendo';
+
+  @override
+  String get loading => 'Cargando...';
+
+  @override
+  String get adLoadingMessage =>
+      'Cargando anuncio. Por favor, inténtalo de nuevo en breve.';
+
+  @override
+  String get messageOutstanding => '¡Excelente! ¡Eres un maestro del trivia!';
+
+  @override
+  String get messageGreatJob => '¡Buen trabajo! ¡Sigue así!';
+
+  @override
+  String get messageGoodEffort =>
+      '¡Buen esfuerzo! ¡La práctica hace al maestro!';
+
+  @override
+  String get messageKeepLearning =>
+      '¡Sigue aprendiendo! ¡Lo harás mejor la próxima vez!';
+
+  @override
+  String get oopsSomethingWentWrong => '¡Ups! Algo salió mal';
+
+  @override
+  String get goBack => 'Volver';
+
+  @override
+  String get tryAgain => 'Intentar de nuevo';
+
+  @override
+  String get overallProgress => 'Progreso general';
+
+  @override
+  String get categoryProgress => 'Progreso por categoría';
+
+  @override
+  String get accuracy => 'Precisión';
+
+  @override
+  String get accuracyRate => 'Tasa de aciertos';
+
+  @override
+  String get unique => 'Único';
+
+  @override
+  String get unableToLoadStats => 'No se pueden cargar las estadísticas';
+
+  @override
+  String get youreDoingGreat => '¡Lo estás haciendo genial!';
+
+  @override
+  String get leaderboardComingSoon => '¡Tabla de clasificación próximamente!';
 }

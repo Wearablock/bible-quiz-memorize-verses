@@ -137,6 +137,141 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get categoryFood => '美食生活';
+
+  @override
+  String get soundEffects => '音效';
+
+  @override
+  String get soundEffectsDescription => '答对/答错时播放音效';
+
+  @override
+  String get vibration => '振动';
+
+  @override
+  String get vibrationDescription => '反馈时振动';
+
+  @override
+  String get theme => '主题';
+
+  @override
+  String get themeLight => '浅色';
+
+  @override
+  String get themeDark => '深色';
+
+  @override
+  String get themeSystem => '跟随系统';
+
+  @override
+  String get selectTheme => '选择主题';
+
+  @override
+  String get language => '语言';
+
+  @override
+  String get selectLanguage => '选择语言';
+
+  @override
+  String get systemDefault => '系统默认';
+
+  @override
+  String get about => '关于';
+
+  @override
+  String get aboutDescription => '通过世界各地的问答测试您的知识！';
+
+  @override
+  String get resetAllData => '重置所有数据';
+
+  @override
+  String get resetAllDataTitle => '重置所有数据？';
+
+  @override
+  String get resetAllDataMessage => '这将删除您所有的答题记录和设置。此操作无法撤销。';
+
+  @override
+  String get cancel => '取消';
+
+  @override
+  String get reset => '重置';
+
+  @override
+  String get dataResetSuccess => '所有数据已重置';
+
+  @override
+  String get exitQuiz => '退出答题？';
+
+  @override
+  String get progressWillBeLost => '您的进度将会丢失。';
+
+  @override
+  String get exit => '退出';
+
+  @override
+  String get loadingQuestions => '加载题目中...';
+
+  @override
+  String get timeUp => '时间到！';
+
+  @override
+  String get showHint => '查看提示';
+
+  @override
+  String get watchAdForHint => '观看广告以查看提示';
+
+  @override
+  String get watching => '观看中';
+
+  @override
+  String get loading => '加载中...';
+
+  @override
+  String get adLoadingMessage => '正在加载广告，请稍后重试。';
+
+  @override
+  String get messageOutstanding => '太棒了！你是答题大师！';
+
+  @override
+  String get messageGreatJob => '做得好！继续保持！';
+
+  @override
+  String get messageGoodEffort => '不错的努力！熟能生巧！';
+
+  @override
+  String get messageKeepLearning => '继续学习！下次会更好！';
+
+  @override
+  String get oopsSomethingWentWrong => '哎呀！出了点问题';
+
+  @override
+  String get goBack => '返回';
+
+  @override
+  String get tryAgain => '重试';
+
+  @override
+  String get overallProgress => '总体进度';
+
+  @override
+  String get categoryProgress => '分类进度';
+
+  @override
+  String get accuracy => '准确率';
+
+  @override
+  String get accuracyRate => '正确率';
+
+  @override
+  String get unique => '独特';
+
+  @override
+  String get unableToLoadStats => '无法加载统计数据';
+
+  @override
+  String get youreDoingGreat => '你做得很好！';
+
+  @override
+  String get leaderboardComingSoon => '排行榜即将推出！';
 }
 
 /// The translations for Chinese, using the Han script (`zh_Hant`).
@@ -272,4 +407,139 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
 
   @override
   String get categoryFood => '美食生活';
+
+  @override
+  String get soundEffects => '音效';
+
+  @override
+  String get soundEffectsDescription => '答對/答錯時播放音效';
+
+  @override
+  String get vibration => '震動';
+
+  @override
+  String get vibrationDescription => '回饋時震動';
+
+  @override
+  String get theme => '主題';
+
+  @override
+  String get themeLight => '淺色';
+
+  @override
+  String get themeDark => '深色';
+
+  @override
+  String get themeSystem => '跟隨系統';
+
+  @override
+  String get selectTheme => '選擇主題';
+
+  @override
+  String get language => '語言';
+
+  @override
+  String get selectLanguage => '選擇語言';
+
+  @override
+  String get systemDefault => '系統預設';
+
+  @override
+  String get about => '關於';
+
+  @override
+  String get aboutDescription => '透過世界各地的問答測試您的知識！';
+
+  @override
+  String get resetAllData => '重置所有資料';
+
+  @override
+  String get resetAllDataTitle => '重置所有資料？';
+
+  @override
+  String get resetAllDataMessage => '這將刪除您所有的答題記錄和設定。此操作無法撤銷。';
+
+  @override
+  String get cancel => '取消';
+
+  @override
+  String get reset => '重置';
+
+  @override
+  String get dataResetSuccess => '所有資料已重置';
+
+  @override
+  String get exitQuiz => '退出答題？';
+
+  @override
+  String get progressWillBeLost => '您的進度將會遺失。';
+
+  @override
+  String get exit => '退出';
+
+  @override
+  String get loadingQuestions => '載入題目中...';
+
+  @override
+  String get timeUp => '時間到！';
+
+  @override
+  String get showHint => '查看提示';
+
+  @override
+  String get watchAdForHint => '觀看廣告以查看提示';
+
+  @override
+  String get watching => '觀看中';
+
+  @override
+  String get loading => '載入中...';
+
+  @override
+  String get adLoadingMessage => '正在載入廣告，請稍後重試。';
+
+  @override
+  String get messageOutstanding => '太棒了！你是答題大師！';
+
+  @override
+  String get messageGreatJob => '做得好！繼續保持！';
+
+  @override
+  String get messageGoodEffort => '不錯的努力！熟能生巧！';
+
+  @override
+  String get messageKeepLearning => '繼續學習！下次會更好！';
+
+  @override
+  String get oopsSomethingWentWrong => '哎呀！出了點問題';
+
+  @override
+  String get goBack => '返回';
+
+  @override
+  String get tryAgain => '重試';
+
+  @override
+  String get overallProgress => '整體進度';
+
+  @override
+  String get categoryProgress => '分類進度';
+
+  @override
+  String get accuracy => '準確率';
+
+  @override
+  String get accuracyRate => '正確率';
+
+  @override
+  String get unique => '獨特';
+
+  @override
+  String get unableToLoadStats => '無法載入統計資料';
+
+  @override
+  String get youreDoingGreat => '你做得很好！';
+
+  @override
+  String get leaderboardComingSoon => '排行榜即將推出！';
 }

@@ -137,4 +137,143 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get categoryFood => 'الطعام ونمط الحياة';
+
+  @override
+  String get soundEffects => 'المؤثرات الصوتية';
+
+  @override
+  String get soundEffectsDescription =>
+      'تشغيل الأصوات عند الإجابات الصحيحة/الخاطئة';
+
+  @override
+  String get vibration => 'الاهتزاز';
+
+  @override
+  String get vibrationDescription => 'الاهتزاز عند التفاعل';
+
+  @override
+  String get theme => 'السمة';
+
+  @override
+  String get themeLight => 'فاتح';
+
+  @override
+  String get themeDark => 'داكن';
+
+  @override
+  String get themeSystem => 'النظام';
+
+  @override
+  String get selectTheme => 'اختر السمة';
+
+  @override
+  String get language => 'اللغة';
+
+  @override
+  String get selectLanguage => 'اختر اللغة';
+
+  @override
+  String get systemDefault => 'الافتراضي للنظام';
+
+  @override
+  String get about => 'حول';
+
+  @override
+  String get aboutDescription => 'اختبر معلوماتك بأسئلة من جميع أنحاء العالم!';
+
+  @override
+  String get resetAllData => 'إعادة تعيين جميع البيانات';
+
+  @override
+  String get resetAllDataTitle => 'إعادة تعيين جميع البيانات؟';
+
+  @override
+  String get resetAllDataMessage =>
+      'سيؤدي هذا إلى حذف كل سجل الاختبارات والإعدادات. لا يمكن التراجع عن هذا الإجراء.';
+
+  @override
+  String get cancel => 'إلغاء';
+
+  @override
+  String get reset => 'إعادة تعيين';
+
+  @override
+  String get dataResetSuccess => 'تم إعادة تعيين جميع البيانات';
+
+  @override
+  String get exitQuiz => 'الخروج من الاختبار؟';
+
+  @override
+  String get progressWillBeLost => 'سيتم فقدان تقدمك.';
+
+  @override
+  String get exit => 'خروج';
+
+  @override
+  String get loadingQuestions => 'جاري تحميل الأسئلة...';
+
+  @override
+  String get timeUp => 'انتهى الوقت!';
+
+  @override
+  String get showHint => 'عرض التلميح';
+
+  @override
+  String get watchAdForHint => 'شاهد إعلاناً لرؤية التلميح';
+
+  @override
+  String get watching => 'جاري المشاهدة';
+
+  @override
+  String get loading => 'جاري التحميل...';
+
+  @override
+  String get adLoadingMessage =>
+      'جاري تحميل الإعلان. يرجى المحاولة مرة أخرى قريباً.';
+
+  @override
+  String get messageOutstanding => 'رائع! أنت سيد المعلومات!';
+
+  @override
+  String get messageGreatJob => 'عمل رائع! استمر!';
+
+  @override
+  String get messageGoodEffort => 'مجهود جيد! الممارسة تصنع الكمال!';
+
+  @override
+  String get messageKeepLearning =>
+      'استمر في التعلم! ستكون أفضل في المرة القادمة!';
+
+  @override
+  String get oopsSomethingWentWrong => 'عفواً! حدث خطأ ما';
+
+  @override
+  String get goBack => 'رجوع';
+
+  @override
+  String get tryAgain => 'حاول مرة أخرى';
+
+  @override
+  String get overallProgress => 'التقدم الإجمالي';
+
+  @override
+  String get categoryProgress => 'التقدم حسب الفئة';
+
+  @override
+  String get accuracy => 'الدقة';
+
+  @override
+  String get accuracyRate => 'نسبة الصحة';
+
+  @override
+  String get unique => 'فريد';
+
+  @override
+  String get unableToLoadStats => 'تعذر تحميل الإحصائيات';
+
+  @override
+  String get youreDoingGreat => 'أنت تبلي بلاءً حسناً!';
+
+  @override
+  String get leaderboardComingSoon => 'لوحة المتصدرين قريباً!';
 }

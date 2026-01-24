@@ -137,4 +137,139 @@ class AppLocalizationsJa extends AppLocalizations {
 
   @override
   String get categoryFood => '食・生活';
+
+  @override
+  String get soundEffects => '効果音';
+
+  @override
+  String get soundEffectsDescription => '正解/不正解時に効果音を再生';
+
+  @override
+  String get vibration => 'バイブレーション';
+
+  @override
+  String get vibrationDescription => 'フィードバック時に振動';
+
+  @override
+  String get theme => 'テーマ';
+
+  @override
+  String get themeLight => 'ライト';
+
+  @override
+  String get themeDark => 'ダーク';
+
+  @override
+  String get themeSystem => 'システム';
+
+  @override
+  String get selectTheme => 'テーマを選択';
+
+  @override
+  String get language => '言語';
+
+  @override
+  String get selectLanguage => '言語を選択';
+
+  @override
+  String get systemDefault => 'システムデフォルト';
+
+  @override
+  String get about => 'アプリについて';
+
+  @override
+  String get aboutDescription => '世界中のクイズで知識をテストしよう！';
+
+  @override
+  String get resetAllData => 'すべてのデータをリセット';
+
+  @override
+  String get resetAllDataTitle => 'すべてのデータをリセットしますか？';
+
+  @override
+  String get resetAllDataMessage => 'クイズの履歴と設定がすべて削除されます。この操作は元に戻せません。';
+
+  @override
+  String get cancel => 'キャンセル';
+
+  @override
+  String get reset => 'リセット';
+
+  @override
+  String get dataResetSuccess => 'すべてのデータがリセットされました';
+
+  @override
+  String get exitQuiz => 'クイズを終了しますか？';
+
+  @override
+  String get progressWillBeLost => '進行状況が失われます。';
+
+  @override
+  String get exit => '終了';
+
+  @override
+  String get loadingQuestions => '問題を読み込み中...';
+
+  @override
+  String get timeUp => '時間切れ！';
+
+  @override
+  String get showHint => 'ヒントを見る';
+
+  @override
+  String get watchAdForHint => '広告を見てヒントを確認';
+
+  @override
+  String get watching => '視聴中';
+
+  @override
+  String get loading => '読み込み中...';
+
+  @override
+  String get adLoadingMessage => '広告を読み込んでいます。しばらくしてからお試しください。';
+
+  @override
+  String get messageOutstanding => '素晴らしい！クイズマスターですね！';
+
+  @override
+  String get messageGreatJob => 'よくできました！その調子！';
+
+  @override
+  String get messageGoodEffort => 'いい努力です！練習あるのみ！';
+
+  @override
+  String get messageKeepLearning => '学び続けましょう！次はもっとうまくいきます！';
+
+  @override
+  String get oopsSomethingWentWrong => 'おっと！問題が発生しました';
+
+  @override
+  String get goBack => '戻る';
+
+  @override
+  String get tryAgain => '再試行';
+
+  @override
+  String get overallProgress => '全体の進捗';
+
+  @override
+  String get categoryProgress => 'カテゴリ別進捗';
+
+  @override
+  String get accuracy => '正確さ';
+
+  @override
+  String get accuracyRate => '正答率';
+
+  @override
+  String get unique => 'ユニーク';
+
+  @override
+  String get unableToLoadStats => '統計を読み込めません';
+
+  @override
+  String get youreDoingGreat => '順調ですね！';
+
+  @override
+  String get leaderboardComingSoon => 'リーダーボードは近日公開！';
 }

@@ -9,7 +9,7 @@ class AppLocalizationsEn extends AppLocalizations {
   AppLocalizationsEn([String locale = 'en']) : super(locale);
 
   @override
-  String get appTitle => 'Global Trivia Quiz';
+  String get appTitle => 'Trivia Quiz';
 
   @override
   String get home => 'Home';
@@ -137,4 +137,142 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get categoryFood => 'Food & Lifestyle';
+
+  @override
+  String get soundEffects => 'Sound Effects';
+
+  @override
+  String get soundEffectsDescription => 'Play sounds on correct/wrong answers';
+
+  @override
+  String get vibration => 'Vibration';
+
+  @override
+  String get vibrationDescription => 'Vibrate on feedback';
+
+  @override
+  String get theme => 'Theme';
+
+  @override
+  String get themeLight => 'Light';
+
+  @override
+  String get themeDark => 'Dark';
+
+  @override
+  String get themeSystem => 'System';
+
+  @override
+  String get selectTheme => 'Select Theme';
+
+  @override
+  String get language => 'Language';
+
+  @override
+  String get selectLanguage => 'Select Language';
+
+  @override
+  String get systemDefault => 'System Default';
+
+  @override
+  String get about => 'About';
+
+  @override
+  String get aboutDescription =>
+      'Test your knowledge with questions from around the world!';
+
+  @override
+  String get resetAllData => 'Reset All Data';
+
+  @override
+  String get resetAllDataTitle => 'Reset All Data?';
+
+  @override
+  String get resetAllDataMessage =>
+      'This will delete all your quiz history and settings. This action cannot be undone.';
+
+  @override
+  String get cancel => 'Cancel';
+
+  @override
+  String get reset => 'Reset';
+
+  @override
+  String get dataResetSuccess => 'All data has been reset';
+
+  @override
+  String get exitQuiz => 'Exit Quiz?';
+
+  @override
+  String get progressWillBeLost => 'Your progress will be lost.';
+
+  @override
+  String get exit => 'Exit';
+
+  @override
+  String get loadingQuestions => 'Loading questions...';
+
+  @override
+  String get timeUp => 'Time Up!';
+
+  @override
+  String get showHint => 'Show Hint';
+
+  @override
+  String get watchAdForHint => 'Watch an ad to see the hint';
+
+  @override
+  String get watching => 'Watching';
+
+  @override
+  String get loading => 'Loading...';
+
+  @override
+  String get adLoadingMessage => 'Loading ad. Please try again shortly.';
+
+  @override
+  String get messageOutstanding => 'Outstanding! You\'re a trivia master!';
+
+  @override
+  String get messageGreatJob => 'Great job! Keep it up!';
+
+  @override
+  String get messageGoodEffort => 'Good effort! Practice makes perfect!';
+
+  @override
+  String get messageKeepLearning =>
+      'Keep learning! You\'ll do better next time!';
+
+  @override
+  String get oopsSomethingWentWrong => 'Oops! Something went wrong';
+
+  @override
+  String get goBack => 'Go Back';
+
+  @override
+  String get tryAgain => 'Try Again';
+
+  @override
+  String get overallProgress => 'Overall Progress';
+
+  @override
+  String get categoryProgress => 'Category Progress';
+
+  @override
+  String get accuracy => 'Accuracy';
+
+  @override
+  String get accuracyRate => 'Accuracy Rate';
+
+  @override
+  String get unique => 'Unique';
+
+  @override
+  String get unableToLoadStats => 'Unable to load stats';
+
+  @override
+  String get youreDoingGreat => 'You\'re doing great!';
+
+  @override
+  String get leaderboardComingSoon => 'Leaderboard coming soon!';
 }

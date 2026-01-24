@@ -1,10 +1,21 @@
 import 'package:flutter/material.dart';
 
 class AppColors {
-  // Primary colors
-  static const Color primary = Color(0xFF6200EE);
-  static const Color primaryVariant = Color(0xFF3700B3);
-  static const Color secondary = Color(0xFF03DAC6);
+  // Brand colors - Light Bulb Theme (Yellow/Amber)
+  static const Color primary = Color(0xFFFFC107);        // Amber - 메인 전구 색상
+  static const Color primaryDark = Color(0xFFFFA000);    // Amber Dark
+  static const Color primaryLight = Color(0xFFFFD54F);   // Amber Light
+  static const Color secondary = Color(0xFF5D4037);      // Brown - 전구 소켓 색상
+  static const Color secondaryLight = Color(0xFF8D6E63); // Brown Light
+  static const Color accent = Color(0xFFFF6F00);         // Orange Accent - 따뜻한 빛
+
+  // Surface colors
+  static const Color surfaceLight = Color(0xFFFFFBF5);   // 따뜻한 화이트
+  static const Color surfaceDark = Color(0xFF1A1A1A);    // 다크 그레이
+
+  // On colors (for contrast)
+  static const Color onPrimary = Color(0xFF1A1A1A);      // 노란색 위의 텍스트
+  static const Color onSecondary = Color(0xFFFFFFFF);    // 브라운 위의 텍스트
 
   // Category colors
   static const Color geography = Color(0xFF2E7D32);

@@ -9,7 +9,7 @@ class AppLocalizationsId extends AppLocalizations {
   AppLocalizationsId([String locale = 'id']) : super(locale);
 
   @override
-  String get appTitle => 'Kuis Trivia Global';
+  String get appTitle => 'Kuis Trivia';
 
   @override
   String get home => 'Beranda';
@@ -137,4 +137,142 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get categoryFood => 'Makanan & Gaya Hidup';
+
+  @override
+  String get soundEffects => 'Efek suara';
+
+  @override
+  String get soundEffectsDescription => 'Putar suara saat jawaban benar/salah';
+
+  @override
+  String get vibration => 'Getaran';
+
+  @override
+  String get vibrationDescription => 'Getar saat ada umpan balik';
+
+  @override
+  String get theme => 'Tema';
+
+  @override
+  String get themeLight => 'Terang';
+
+  @override
+  String get themeDark => 'Gelap';
+
+  @override
+  String get themeSystem => 'Sistem';
+
+  @override
+  String get selectTheme => 'Pilih tema';
+
+  @override
+  String get language => 'Bahasa';
+
+  @override
+  String get selectLanguage => 'Pilih bahasa';
+
+  @override
+  String get systemDefault => 'Default sistem';
+
+  @override
+  String get about => 'Tentang';
+
+  @override
+  String get aboutDescription =>
+      'Uji pengetahuan Anda dengan pertanyaan dari seluruh dunia!';
+
+  @override
+  String get resetAllData => 'Reset semua data';
+
+  @override
+  String get resetAllDataTitle => 'Reset semua data?';
+
+  @override
+  String get resetAllDataMessage =>
+      'Ini akan menghapus semua riwayat kuis dan pengaturan. Tindakan ini tidak dapat dibatalkan.';
+
+  @override
+  String get cancel => 'Batal';
+
+  @override
+  String get reset => 'Reset';
+
+  @override
+  String get dataResetSuccess => 'Semua data telah direset';
+
+  @override
+  String get exitQuiz => 'Keluar dari kuis?';
+
+  @override
+  String get progressWillBeLost => 'Progres Anda akan hilang.';
+
+  @override
+  String get exit => 'Keluar';
+
+  @override
+  String get loadingQuestions => 'Memuat pertanyaan...';
+
+  @override
+  String get timeUp => 'Waktu habis!';
+
+  @override
+  String get showHint => 'Tampilkan petunjuk';
+
+  @override
+  String get watchAdForHint => 'Tonton iklan untuk melihat petunjuk';
+
+  @override
+  String get watching => 'Menonton';
+
+  @override
+  String get loading => 'Memuat...';
+
+  @override
+  String get adLoadingMessage => 'Memuat iklan. Silakan coba lagi sebentar.';
+
+  @override
+  String get messageOutstanding => 'Luar biasa! Anda master trivia!';
+
+  @override
+  String get messageGreatJob => 'Kerja bagus! Terus semangat!';
+
+  @override
+  String get messageGoodEffort => 'Usaha yang bagus! Latihan membuat sempurna!';
+
+  @override
+  String get messageKeepLearning =>
+      'Terus belajar! Anda akan lebih baik lain kali!';
+
+  @override
+  String get oopsSomethingWentWrong => 'Ups! Terjadi kesalahan';
+
+  @override
+  String get goBack => 'Kembali';
+
+  @override
+  String get tryAgain => 'Coba lagi';
+
+  @override
+  String get overallProgress => 'Progres keseluruhan';
+
+  @override
+  String get categoryProgress => 'Progres per kategori';
+
+  @override
+  String get accuracy => 'Akurasi';
+
+  @override
+  String get accuracyRate => 'Tingkat kebenaran';
+
+  @override
+  String get unique => 'Unik';
+
+  @override
+  String get unableToLoadStats => 'Tidak dapat memuat statistik';
+
+  @override
+  String get youreDoingGreat => 'Anda hebat!';
+
+  @override
+  String get leaderboardComingSoon => 'Papan peringkat segera hadir!';
 }

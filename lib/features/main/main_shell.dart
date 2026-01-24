@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
 import '../../l10n/generated/app_localizations.dart';
-import '../../presentation/screens/quiz/quiz_test_screen.dart';
+import '../../presentation/screens/home/home_screen.dart';
+import '../../presentation/screens/stats/stats_screen.dart';
+import '../../presentation/screens/review/review_screen.dart';
+import '../../presentation/screens/settings/settings_screen.dart';
+import '../../presentation/widgets/ads/banner_ad_widget.dart';
 
 class MainShell extends StatefulWidget {
   const MainShell({super.key});
@@ -19,90 +23,48 @@ class _MainShellState extends State<MainShell> {
     return Scaffold(
       body: IndexedStack(
         index: _selectedIndex,
-        children: [
-          // Home - Quiz Test
-          _HomeScreen(l10n: l10n),
-          Center(child: Text(l10n.stats)),
-          Center(child: Text(l10n.review)),
-          Center(child: Text(l10n.settings)),
+        children: const [
+          HomeScreen(),
+          StatsScreen(),
+          ReviewScreen(),
+          SettingsScreen(),
         ],
       ),
-      bottomNavigationBar: NavigationBar(
-        selectedIndex: _selectedIndex,
-        onDestinationSelected: (index) {
-          setState(() {
-            _selectedIndex = index;
-          });
-        },
-        destinations: [
-          NavigationDestination(
-            icon: const Icon(Icons.home_outlined),
-            selectedIcon: const Icon(Icons.home),
-            label: l10n.home,
-          ),
-          NavigationDestination(
-            icon: const Icon(Icons.bar_chart_outlined),
-            selectedIcon: const Icon(Icons.bar_chart),
-            label: l10n.stats,
-          ),
-          NavigationDestination(
-            icon: const Icon(Icons.close_outlined),
-            selectedIcon: const Icon(Icons.close),
-            label: l10n.review,
-          ),
-          NavigationDestination(
-            icon: const Icon(Icons.settings_outlined),
-            selectedIcon: const Icon(Icons.settings),
-            label: l10n.settings,
-          ),
-        ],
-      ),
-    );
-  }
-}
-
-class _HomeScreen extends StatelessWidget {
-  final AppLocalizations l10n;
-
-  const _HomeScreen({required this.l10n});
-
-  @override
-  Widget build(BuildContext context) {
-    return Center(
-      child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
+      bottomNavigationBar: Column(
+        mainAxisSize: MainAxisSize.min,
         children: [
-          const Icon(Icons.quiz, size: 80, color: Colors.blue),
-          const SizedBox(height: 24),
-          Text(
-            'Global Trivia Quiz',
-            style: Theme.of(context).textTheme.headlineMedium,
-          ),
-          const SizedBox(height: 8),
-          Text(
-            'Test your knowledge!',
-            style: Theme.of(context).textTheme.bodyLarge?.copyWith(
-                  color: Colors.grey,
-                ),
-          ),
-          const SizedBox(height: 32),
-          ElevatedButton.icon(
-            onPressed: () {
-              Navigator.push(
-                context,
-                MaterialPageRoute(
-                  builder: (context) => const QuizTestScreen(),
-                ),
-              );
+          // 배너 광고
+          const BannerAdWidget(),
+          // 네비게이션 바
+          NavigationBar(
+            selectedIndex: _selectedIndex,
+            onDestinationSelected: (index) {
+              setState(() {
+                _selectedIndex = index;
+              });
             },
-            icon: const Icon(Icons.play_arrow),
-            label: const Text('Start Quiz'),
-            style: ElevatedButton.styleFrom(
-              padding: const EdgeInsets.symmetric(
-                horizontal: 32,
-                vertical: 16,
+            destinations: [
+              NavigationDestination(
+                icon: const Icon(Icons.home_outlined),
+                selectedIcon: const Icon(Icons.home),
+                label: l10n.home,
               ),
-            ),
+              NavigationDestination(
+                icon: const Icon(Icons.bar_chart_outlined),
+                selectedIcon: const Icon(Icons.bar_chart),
+                label: l10n.stats,
+              ),
+              NavigationDestination(
+                icon: const Icon(Icons.replay_outlined),
+                selectedIcon: const Icon(Icons.replay),
+                label: l10n.review,
+              ),
+              NavigationDestination(
+                icon: const Icon(Icons.settings_outlined),
+                selectedIcon: const Icon(Icons.settings),
+                label: l10n.settings,
+              ),
+            ],
           ),
         ],
       ),

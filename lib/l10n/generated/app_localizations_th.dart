@@ -137,4 +137,140 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get categoryFood => 'อาหารและไลฟ์สไตล์';
+
+  @override
+  String get soundEffects => 'เอฟเฟกต์เสียง';
+
+  @override
+  String get soundEffectsDescription => 'เล่นเสียงเมื่อตอบถูก/ผิด';
+
+  @override
+  String get vibration => 'การสั่น';
+
+  @override
+  String get vibrationDescription => 'สั่นเมื่อมีการตอบรับ';
+
+  @override
+  String get theme => 'ธีม';
+
+  @override
+  String get themeLight => 'สว่าง';
+
+  @override
+  String get themeDark => 'มืด';
+
+  @override
+  String get themeSystem => 'ตามระบบ';
+
+  @override
+  String get selectTheme => 'เลือกธีม';
+
+  @override
+  String get language => 'ภาษา';
+
+  @override
+  String get selectLanguage => 'เลือกภาษา';
+
+  @override
+  String get systemDefault => 'ค่าเริ่มต้นของระบบ';
+
+  @override
+  String get about => 'เกี่ยวกับ';
+
+  @override
+  String get aboutDescription => 'ทดสอบความรู้ของคุณด้วยคำถามจากทั่วโลก!';
+
+  @override
+  String get resetAllData => 'รีเซ็ตข้อมูลทั้งหมด';
+
+  @override
+  String get resetAllDataTitle => 'รีเซ็ตข้อมูลทั้งหมด?';
+
+  @override
+  String get resetAllDataMessage =>
+      'การดำเนินการนี้จะลบประวัติควิซและการตั้งค่าทั้งหมด ไม่สามารถยกเลิกได้';
+
+  @override
+  String get cancel => 'ยกเลิก';
+
+  @override
+  String get reset => 'รีเซ็ต';
+
+  @override
+  String get dataResetSuccess => 'รีเซ็ตข้อมูลทั้งหมดแล้ว';
+
+  @override
+  String get exitQuiz => 'ออกจากควิซ?';
+
+  @override
+  String get progressWillBeLost => 'ความคืบหน้าของคุณจะหายไป';
+
+  @override
+  String get exit => 'ออก';
+
+  @override
+  String get loadingQuestions => 'กำลังโหลดคำถาม...';
+
+  @override
+  String get timeUp => 'หมดเวลา!';
+
+  @override
+  String get showHint => 'แสดงคำใบ้';
+
+  @override
+  String get watchAdForHint => 'ดูโฆษณาเพื่อดูคำใบ้';
+
+  @override
+  String get watching => 'กำลังดู';
+
+  @override
+  String get loading => 'กำลังโหลด...';
+
+  @override
+  String get adLoadingMessage => 'กำลังโหลดโฆษณา กรุณาลองอีกครั้งในอีกสักครู่';
+
+  @override
+  String get messageOutstanding => 'ยอดเยี่ยม! คุณเป็นปรมาจารย์ควิซ!';
+
+  @override
+  String get messageGreatJob => 'เยี่ยมมาก! ทำต่อไป!';
+
+  @override
+  String get messageGoodEffort => 'พยายามดี! ฝึกฝนทำให้สมบูรณ์แบบ!';
+
+  @override
+  String get messageKeepLearning => 'เรียนรู้ต่อไป! ครั้งหน้าจะทำได้ดีกว่า!';
+
+  @override
+  String get oopsSomethingWentWrong => 'อุ๊ปส์! เกิดข้อผิดพลาด';
+
+  @override
+  String get goBack => 'กลับ';
+
+  @override
+  String get tryAgain => 'ลองอีกครั้ง';
+
+  @override
+  String get overallProgress => 'ความคืบหน้าโดยรวม';
+
+  @override
+  String get categoryProgress => 'ความคืบหน้าตามหมวดหมู่';
+
+  @override
+  String get accuracy => 'ความแม่นยำ';
+
+  @override
+  String get accuracyRate => 'อัตราความถูกต้อง';
+
+  @override
+  String get unique => 'ไม่ซ้ำ';
+
+  @override
+  String get unableToLoadStats => 'ไม่สามารถโหลดสถิติได้';
+
+  @override
+  String get youreDoingGreat => 'คุณทำได้ดีมาก!';
+
+  @override
+  String get leaderboardComingSoon => 'กระดานผู้นำเร็วๆ นี้!';
 }

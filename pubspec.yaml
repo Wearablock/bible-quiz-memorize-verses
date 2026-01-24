@@ -30,9 +30,13 @@ dependencies:
   # firebase_analytics: ^11.3.6
   # firebase_crashlytics: ^4.1.6
 
-  # Monetization (uncomment when ready)
-  # google_mobile_ads: ^5.2.0
-  # in_app_purchase: ^3.2.0
+  # Monetization
+  google_mobile_ads: ^5.2.0
+  app_tracking_transparency: ^2.0.6
+
+  # Audio & Haptic
+  audioplayers: ^6.1.0
+  vibration: ^2.0.1
 
   # UI
   google_fonts: ^6.2.1
@@ -66,9 +70,20 @@ flutter:
   assets:
     - assets/data/
     - assets/data/questions/meta/
-    - assets/data/questions/ko/
     - assets/data/questions/en/
+    - assets/data/questions/ko/
     - assets/data/questions/ja/
-    - assets/data/questions/zh-Hans/
+    - assets/data/questions/zh/
     - assets/data/questions/zh-Hant/
+    - assets/data/questions/es/
+    - assets/data/questions/fr/
+    - assets/data/questions/de/
+    - assets/data/questions/pt/
+    - assets/data/questions/it/
+    - assets/data/questions/ru/
+    - assets/data/questions/ar/
+    - assets/data/questions/th/
+    - assets/data/questions/vi/
+    - assets/data/questions/id/
     - assets/images/
+    - assets/sounds/
