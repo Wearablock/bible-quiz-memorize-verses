@@ -3,30 +3,35 @@
     "question": "Ai đã vẽ bức tranh Mona Lisa?",
     "correct": "Leonardo da Vinci",
     "wrong": ["Michelangelo", "Raphael", "Botticelli"],
-    "explanation": "Leonardo da Vinci vẽ bức Mona Lisa trong khoảng thời gian từ năm 1503 đến năm 1519."
+    "explanation": "Leonardo da Vinci vẽ bức Mona Lisa trong khoảng thời gian từ năm 1503 đến năm 1519.",
+    "hint": "Nghệ sĩ thời Phục Hưng người Ý này cũng nổi tiếng với bức 'Bữa tối cuối cùng' và các bản vẽ thiết kế máy bay."
   },
   "q_art_002": {
     "question": "Nhà soạn nhạc nào đã sáng tác 'Bản giao hưởng số 9'?",
     "correct": "Ludwig van Beethoven",
     "wrong": ["Mozart", "Bach", "Chopin"],
-    "explanation": "Bản giao hưởng số 9 của Beethoven, hoàn thành năm 1824, bao gồm bài 'Ode to Joy' nổi tiếng."
+    "explanation": "Bản giao hưởng số 9 của Beethoven, hoàn thành năm 1824, bao gồm bài 'Ode to Joy' nổi tiếng.",
+    "hint": "Nhà soạn nhạc người Đức này đã bị điếc hoàn toàn khi hoàn thành tác phẩm này."
   },
   "q_art_003": {
     "question": "Bảo tàng Louvre nằm ở thành phố nào?",
     "correct": "Paris",
     "wrong": ["London", "Rome", "Madrid"],
-    "explanation": "Bảo tàng Louvre ở Paris là bảo tàng nghệ thuật lớn nhất thế giới."
+    "explanation": "Bảo tàng Louvre ở Paris là bảo tàng nghệ thuật lớn nhất thế giới.",
+    "hint": "Bảo tàng này nằm ở thủ đô nước Pháp, nổi tiếng với kim tự tháp kính ở lối vào."
   },
   "q_art_004": {
     "question": "Ai đã viết 'Romeo và Juliet'?",
     "correct": "William Shakespeare",
     "wrong": ["Charles Dickens", "Jane Austen", "Oscar Wilde"],
-    "explanation": "Shakespeare viết Romeo và Juliet vào khoảng năm 1594-1596."
+    "explanation": "Shakespeare viết Romeo và Juliet vào khoảng năm 1594-1596.",
+    "hint": "Nhà văn người Anh này sinh ra ở Stratford-upon-Avon, còn được gọi là 'Nhà thơ của Avon'."
   },
   "q_art_005": {
     "question": "Salvador Dalí thuộc về trường phái nghệ thuật nào?",
     "correct": "Siêu thực",
     "wrong": ["Ấn tượng", "Lập thể", "Biểu hiện"],
-    "explanation": "Dalí là nhân vật hàng đầu trong phong trào Siêu thực, nổi tiếng với những hình ảnh ấn tượng."
+    "explanation": "Dalí là nhân vật hàng đầu trong phong trào Siêu thực, nổi tiếng với những hình ảnh ấn tượng.",
+    "hint": "Trường phái này khám phá thế giới giấc mơ và tiềm thức, với bức tranh 'Những chiếc đồng hồ mềm' là tác phẩm tiêu biểu."
   }
 }

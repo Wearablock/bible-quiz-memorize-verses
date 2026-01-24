@@ -3,30 +3,35 @@
     "question": "Qui a peint la Joconde ?",
     "correct": "Leonard de Vinci",
     "wrong": ["Michel-Ange", "Raphael", "Botticelli"],
-    "explanation": "Leonard de Vinci a peint la Joconde entre 1503 et 1519."
+    "explanation": "Leonard de Vinci a peint la Joconde entre 1503 et 1519.",
+    "hint": "Ce genie italien de la Renaissance etait aussi inventeur et scientifique."
   },
   "q_art_002": {
     "question": "Quel compositeur a ecrit la 'Neuvieme Symphonie' ?",
     "correct": "Ludwig van Beethoven",
     "wrong": ["Mozart", "Bach", "Chopin"],
-    "explanation": "La Neuvieme Symphonie de Beethoven, achevee en 1824, comprend le celebre 'Hymne a la joie'."
+    "explanation": "La Neuvieme Symphonie de Beethoven, achevee en 1824, comprend le celebre 'Hymne a la joie'.",
+    "hint": "Ce compositeur allemand a continue a composer meme apres etre devenu sourd."
   },
   "q_art_003": {
     "question": "Dans quelle ville se trouve le musee du Louvre ?",
     "correct": "Paris",
     "wrong": ["Londres", "Rome", "Madrid"],
-    "explanation": "Le Louvre a Paris est le plus grand musee d'art du monde."
+    "explanation": "Le Louvre a Paris est le plus grand musee d'art du monde.",
+    "hint": "Ce musee est celebre pour sa pyramide de verre et abrite la Joconde."
   },
   "q_art_004": {
     "question": "Qui a ecrit 'Romeo et Juliette' ?",
     "correct": "William Shakespeare",
     "wrong": ["Charles Dickens", "Jane Austen", "Oscar Wilde"],
-    "explanation": "Shakespeare a ecrit Romeo et Juliette vers 1594-1596."
+    "explanation": "Shakespeare a ecrit Romeo et Juliette vers 1594-1596.",
+    "hint": "Ce dramaturge anglais est ne a Stratford-upon-Avon et a ecrit au Globe Theatre."
   },
   "q_art_005": {
     "question": "A quel mouvement artistique Salvador Dali appartenait-il ?",
     "correct": "Surrealisme",
     "wrong": ["Impressionnisme", "Cubisme", "Expressionnisme"],
-    "explanation": "Dali etait une figure majeure du mouvement surrealiste, connu pour ses images saisissantes."
+    "explanation": "Dali etait une figure majeure du mouvement surrealiste, connu pour ses images saisissantes.",
+    "hint": "Ce mouvement explore les reves et l'inconscient, avec des images oniriques et bizarres."
   }
 }

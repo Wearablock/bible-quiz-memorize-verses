@@ -3,30 +3,35 @@
     "question": "In quale anno e terminata la Seconda Guerra Mondiale?",
     "correct": "1945",
     "wrong": ["1944", "1946", "1943"],
-    "explanation": "La Seconda Guerra Mondiale termino nel 1945 con la resa della Germania a maggio e del Giappone a settembre."
+    "explanation": "La Seconda Guerra Mondiale termino nel 1945 con la resa della Germania a maggio e del Giappone a settembre.",
+    "hint": "Nello stesso anno furono sganciate le bombe atomiche su Hiroshima e Nagasaki."
   },
   "q_his_002": {
     "question": "Chi fu il primo Presidente degli Stati Uniti?",
     "correct": "George Washington",
     "wrong": ["Thomas Jefferson", "Abraham Lincoln", "John Adams"],
-    "explanation": "George Washington fu il primo Presidente degli Stati Uniti dal 1789 al 1797."
+    "explanation": "George Washington fu il primo Presidente degli Stati Uniti dal 1789 al 1797.",
+    "hint": "Il suo volto appare sulla banconota da un dollaro e la capitale porta il suo cognome."
   },
   "q_his_003": {
     "question": "Quale antica civilta costrui le piramidi di Giza?",
     "correct": "Antichi Egizi",
     "wrong": ["Romani", "Greci", "Mesopotamici"],
-    "explanation": "La Grande Piramide di Giza fu costruita intorno al 2560 a.C. per il faraone Cheope."
+    "explanation": "La Grande Piramide di Giza fu costruita intorno al 2560 a.C. per il faraone Cheope.",
+    "hint": "Questa civilta fioriva lungo il fiume Nilo e i suoi re erano chiamati faraoni."
   },
   "q_his_004": {
     "question": "In quale anno e caduto il Muro di Berlino?",
     "correct": "1989",
     "wrong": ["1987", "1991", "1985"],
-    "explanation": "Il Muro di Berlino cadde il 9 novembre 1989, segnando un momento cruciale nella fine della Guerra Fredda."
+    "explanation": "Il Muro di Berlino cadde il 9 novembre 1989, segnando un momento cruciale nella fine della Guerra Fredda.",
+    "hint": "Accadde pochi mesi prima del 1990, quando la Germania fu riunificata."
   },
   "q_his_005": {
     "question": "Quale impero fu governato da Gengis Khan?",
     "correct": "Impero Mongolo",
     "wrong": ["Impero Ottomano", "Impero Romano", "Impero Persiano"],
-    "explanation": "Gengis Khan fondo e governo l'Impero Mongolo, il piu grande impero terrestre contiguo della storia."
+    "explanation": "Gengis Khan fondo e governo l'Impero Mongolo, il piu grande impero terrestre contiguo della storia.",
+    "hint": "Questo impero nacque nelle steppe dell'Asia centrale, terra di guerrieri nomadi a cavallo."
   }
 }

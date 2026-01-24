@@ -37,12 +37,14 @@ class QuestionContent extends Equatable {
   final String question; // 질문
   final String correct; // 정답
   final List<String> wrong; // 오답 3개
+  final String? hint; // 힌트 (보상형 광고 후 제공)
   final String? explanation; // 해설 (선택)
 
   const QuestionContent({
     required this.question,
     required this.correct,
     required this.wrong,
+    this.hint,
     this.explanation,
   });
 
@@ -51,6 +53,7 @@ class QuestionContent extends Equatable {
       question: json['question'] as String,
       correct: json['correct'] as String,
       wrong: List<String>.from(json['wrong'] as List),
+      hint: json['hint'] as String?,
       explanation: json['explanation'] as String?,
     );
   }
@@ -60,12 +63,13 @@ class QuestionContent extends Equatable {
       'question': question,
       'correct': correct,
       'wrong': wrong,
+      if (hint != null) 'hint': hint,
       if (explanation != null) 'explanation': explanation,
     };
   }
 
   @override
-  List<Object?> get props => [question, correct, wrong, explanation];
+  List<Object?> get props => [question, correct, wrong, hint, explanation];
 }
 
 /// 통합 문제 모델 (메타 + 콘텐츠)
@@ -76,6 +80,7 @@ class Question extends Equatable {
   final String question;
   final String correct;
   final List<String> wrong;
+  final String? hint;
   final String? explanation;
 
   const Question({
@@ -85,6 +90,7 @@ class Question extends Equatable {
     required this.question,
     required this.correct,
     required this.wrong,
+    this.hint,
     this.explanation,
   });
 
@@ -100,6 +106,7 @@ class Question extends Equatable {
       question: content.question,
       correct: content.correct,
       wrong: content.wrong,
+      hint: content.hint,
       explanation: content.explanation,
     );
   }
@@ -124,6 +131,7 @@ class Question extends Equatable {
         question,
         correct,
         wrong,
+        hint,
         explanation,
       ];
 }

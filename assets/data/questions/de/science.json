@@ -3,30 +3,35 @@
     "question": "Was ist das chemische Symbol für Wasser?",
     "correct": "H2O",
     "wrong": ["CO2", "NaCl", "O2"],
-    "explanation": "Wasser besteht aus zwei Wasserstoffatomen und einem Sauerstoffatom."
+    "explanation": "Wasser besteht aus zwei Wasserstoffatomen und einem Sauerstoffatom.",
+    "hint": "Es besteht aus dem leichtesten Element und dem Element, das wir zum Atmen brauchen."
   },
   "q_sci_002": {
     "question": "Welcher Planet ist als der Rote Planet bekannt?",
     "correct": "Mars",
     "wrong": ["Venus", "Jupiter", "Saturn"],
-    "explanation": "Der Mars erscheint rot aufgrund von Eisenoxid (Rost) auf seiner Oberfläche."
+    "explanation": "Der Mars erscheint rot aufgrund von Eisenoxid (Rost) auf seiner Oberfläche.",
+    "hint": "Dieser Planet ist nach dem römischen Kriegsgott benannt."
   },
   "q_sci_003": {
     "question": "Was ist die härteste natürliche Substanz auf der Erde?",
     "correct": "Diamant",
     "wrong": ["Gold", "Eisen", "Quarz"],
-    "explanation": "Diamant erreicht 10 auf der Mohs-Härteskala, die höchste Bewertung."
+    "explanation": "Diamant erreicht 10 auf der Mohs-Härteskala, die höchste Bewertung.",
+    "hint": "Dieser kostbare Edelstein besteht aus reinem Kohlenstoff und wird oft in Verlobungsringen verwendet."
   },
   "q_sci_004": {
     "question": "Wie hoch ist die Lichtgeschwindigkeit im Vakuum?",
     "correct": "299.792 km/s",
     "wrong": ["150.000 km/s", "500.000 km/s", "1.000.000 km/s"],
-    "explanation": "Licht bewegt sich mit ungefähr 299.792 Kilometern pro Sekunde im Vakuum."
+    "explanation": "Licht bewegt sich mit ungefähr 299.792 Kilometern pro Sekunde im Vakuum.",
+    "hint": "Diese Geschwindigkeit ist ungefähr 300.000 km pro Sekunde und eine fundamentale Konstante der Physik."
   },
   "q_sci_005": {
     "question": "Was ist die kleinste Einheit der Materie?",
     "correct": "Atom",
     "wrong": ["Molekül", "Zelle", "Elektron"],
-    "explanation": "Obwohl subatomare Teilchen existieren, sind Atome die kleinsten Einheiten, die chemische Eigenschaften behalten."
+    "explanation": "Obwohl subatomare Teilchen existieren, sind Atome die kleinsten Einheiten, die chemische Eigenschaften behalten.",
+    "hint": "Der Name stammt aus dem Griechischen und bedeutet 'unteilbar'."
   }
 }

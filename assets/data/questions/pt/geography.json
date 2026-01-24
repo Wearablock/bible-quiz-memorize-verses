@@ -3,30 +3,35 @@
     "question": "Qual e a capital da Franca?",
     "correct": "Paris",
     "wrong": ["Londres", "Berlim", "Madrid"],
-    "explanation": "Paris e a capital da Franca desde o final do seculo X."
+    "explanation": "Paris e a capital da Franca desde o final do seculo X.",
+    "hint": "Esta cidade e famosa pela Torre Eiffel e e conhecida como a 'Cidade Luz'."
   },
   "q_geo_002": {
     "question": "Qual e o maior oceano da Terra?",
     "correct": "Oceano Pacifico",
     "wrong": ["Oceano Atlantico", "Oceano Indico", "Oceano Artico"],
-    "explanation": "O Oceano Pacifico cobre aproximadamente 165 milhoes de quilometros quadrados."
+    "explanation": "O Oceano Pacifico cobre aproximadamente 165 milhoes de quilometros quadrados.",
+    "hint": "Este oceano banha a costa oeste das Americas e a costa leste da Asia."
   },
   "q_geo_003": {
     "question": "Qual pais tem a maior linha costeira do mundo?",
     "correct": "Canada",
     "wrong": ["Russia", "Australia", "Indonesia"],
-    "explanation": "O Canada tem mais de 202.080 km de linha costeira."
+    "explanation": "O Canada tem mais de 202.080 km de linha costeira.",
+    "hint": "Este pais fica ao norte dos Estados Unidos e tem costas em tres oceanos diferentes."
   },
   "q_geo_004": {
     "question": "Qual e a capital da Australia?",
     "correct": "Camberra",
     "wrong": ["Sydney", "Melbourne", "Brisbane"],
-    "explanation": "Camberra foi selecionada como capital em 1908 como um compromisso entre Sydney e Melbourne."
+    "explanation": "Camberra foi selecionada como capital em 1908 como um compromisso entre Sydney e Melbourne.",
+    "hint": "Nao e a maior cidade do pais; foi construida especificamente para ser a capital."
   },
   "q_geo_005": {
     "question": "Qual rio atravessa o maior numero de paises?",
     "correct": "Danubio",
     "wrong": ["Nilo", "Amazonas", "Reno"],
-    "explanation": "O Danubio atravessa 10 paises na Europa."
+    "explanation": "O Danubio atravessa 10 paises na Europa.",
+    "hint": "Este rio europeu passa por Viena, Budapeste e Belgrado."
   }
 }

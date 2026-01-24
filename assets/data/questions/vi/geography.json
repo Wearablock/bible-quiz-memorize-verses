@@ -3,30 +3,35 @@
     "question": "Thủ đô của Pháp là gì?",
     "correct": "Paris",
     "wrong": ["London", "Berlin", "Madrid"],
-    "explanation": "Paris là thủ đô của Pháp từ cuối thế kỷ 10."
+    "explanation": "Paris là thủ đô của Pháp từ cuối thế kỷ 10.",
+    "hint": "Thành phố này nổi tiếng với tháp Eiffel và dòng sông Seine."
   },
   "q_geo_002": {
     "question": "Đại dương lớn nhất trên Trái Đất là gì?",
     "correct": "Thái Bình Dương",
     "wrong": ["Đại Tây Dương", "Ấn Độ Dương", "Bắc Băng Dương"],
-    "explanation": "Thái Bình Dương có diện tích khoảng 165 triệu km vuông."
+    "explanation": "Thái Bình Dương có diện tích khoảng 165 triệu km vuông.",
+    "hint": "Đại dương này nằm giữa châu Á và châu Mỹ, tên của nó có nghĩa là 'yên bình'."
   },
   "q_geo_003": {
     "question": "Quốc gia nào có đường bờ biển dài nhất thế giới?",
     "correct": "Canada",
     "wrong": ["Nga", "Úc", "Indonesia"],
-    "explanation": "Canada có hơn 202.080 km đường bờ biển."
+    "explanation": "Canada có hơn 202.080 km đường bờ biển.",
+    "hint": "Quốc gia Bắc Mỹ này nổi tiếng với lá cờ hình lá phong đỏ."
   },
   "q_geo_004": {
     "question": "Thủ đô của Úc là gì?",
     "correct": "Canberra",
     "wrong": ["Sydney", "Melbourne", "Brisbane"],
-    "explanation": "Canberra được chọn làm thủ đô vào năm 1908 như một sự thỏa hiệp giữa Sydney và Melbourne."
+    "explanation": "Canberra được chọn làm thủ đô vào năm 1908 như một sự thỏa hiệp giữa Sydney và Melbourne.",
+    "hint": "Thành phố này không phải là Sydney hay Melbourne, mà là một thành phố được xây dựng riêng để làm thủ đô."
   },
   "q_geo_005": {
     "question": "Con sông nào chảy qua nhiều quốc gia nhất?",
     "correct": "Sông Danube",
     "wrong": ["Sông Nile", "Sông Amazon", "Sông Rhine"],
-    "explanation": "Sông Danube chảy qua 10 quốc gia ở châu Âu."
+    "explanation": "Sông Danube chảy qua 10 quốc gia ở châu Âu.",
+    "hint": "Con sông châu Âu này bắt nguồn từ Đức và đổ ra Biển Đen, đi qua Vienna và Budapest."
   }
 }

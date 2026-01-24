@@ -3,30 +3,35 @@
     "question": "Who painted the Mona Lisa?",
     "correct": "Leonardo da Vinci",
     "wrong": ["Michelangelo", "Raphael", "Botticelli"],
+    "hint": "This Italian polymath also designed flying machines and studied anatomy.",
     "explanation": "Leonardo da Vinci painted the Mona Lisa between 1503 and 1519."
   },
   "q_art_002": {
     "question": "Which composer wrote the 'Ninth Symphony'?",
     "correct": "Ludwig van Beethoven",
     "wrong": ["Mozart", "Bach", "Chopin"],
+    "hint": "He was deaf when he composed this symphony featuring 'Ode to Joy'.",
     "explanation": "Beethoven's Ninth Symphony, completed in 1824, includes the famous 'Ode to Joy'."
   },
   "q_art_003": {
     "question": "In which city is the Louvre Museum located?",
     "correct": "Paris",
     "wrong": ["London", "Rome", "Madrid"],
+    "hint": "This museum has a famous glass pyramid entrance designed by I.M. Pei.",
     "explanation": "The Louvre in Paris is the world's largest art museum."
   },
   "q_art_004": {
     "question": "Who wrote 'Romeo and Juliet'?",
     "correct": "William Shakespeare",
     "wrong": ["Charles Dickens", "Jane Austen", "Oscar Wilde"],
+    "hint": "This playwright was born in Stratford-upon-Avon and wrote for the Globe Theatre.",
     "explanation": "Shakespeare wrote Romeo and Juliet around 1594-1596."
   },
   "q_art_005": {
     "question": "Which art movement did Salvador Dalí belong to?",
     "correct": "Surrealism",
     "wrong": ["Impressionism", "Cubism", "Expressionism"],
+    "hint": "This movement explored dreams and the unconscious mind in art.",
     "explanation": "Dalí was a leading figure in the Surrealist movement known for his striking imagery."
   }
 }

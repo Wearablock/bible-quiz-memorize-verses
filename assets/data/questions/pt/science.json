@@ -3,30 +3,35 @@
     "question": "Qual e o simbolo quimico da agua?",
     "correct": "H2O",
     "wrong": ["CO2", "NaCl", "O2"],
-    "explanation": "A agua consiste em dois atomos de hidrogenio e um atomo de oxigenio."
+    "explanation": "A agua consiste em dois atomos de hidrogenio e um atomo de oxigenio.",
+    "hint": "A formula combina o simbolo do hidrogenio com o do oxigenio, indicando a proporcao de atomos."
   },
   "q_sci_002": {
     "question": "Qual planeta e conhecido como o Planeta Vermelho?",
     "correct": "Marte",
     "wrong": ["Venus", "Jupiter", "Saturno"],
-    "explanation": "Marte parece vermelho devido ao oxido de ferro (ferrugem) em sua superficie."
+    "explanation": "Marte parece vermelho devido ao oxido de ferro (ferrugem) em sua superficie.",
+    "hint": "Este planeta recebeu o nome do deus romano da guerra e tem duas pequenas luas."
   },
   "q_sci_003": {
     "question": "Qual e a substancia natural mais dura da Terra?",
     "correct": "Diamante",
     "wrong": ["Ouro", "Ferro", "Quartzo"],
-    "explanation": "O diamante tem nota 10 na escala de dureza de Mohs, a classificacao maxima."
+    "explanation": "O diamante tem nota 10 na escala de dureza de Mohs, a classificacao maxima.",
+    "hint": "Esta gema preciosa e formada por carbono puro cristalizado sob alta pressao."
   },
   "q_sci_004": {
     "question": "Qual e a velocidade da luz no vacuo?",
     "correct": "299.792 km/s",
     "wrong": ["150.000 km/s", "500.000 km/s", "1.000.000 km/s"],
-    "explanation": "A luz viaja a aproximadamente 299.792 quilometros por segundo no vacuo."
+    "explanation": "A luz viaja a aproximadamente 299.792 quilometros por segundo no vacuo.",
+    "hint": "E aproximadamente 300 mil quilometros por segundo, uma constante fundamental da fisica."
   },
   "q_sci_005": {
     "question": "Qual e a menor unidade da materia?",
     "correct": "Atomo",
     "wrong": ["Molecula", "Celula", "Eletron"],
-    "explanation": "Embora existam particulas subatomicas, os atomos sao as menores unidades que mantem propriedades quimicas."
+    "explanation": "Embora existam particulas subatomicas, os atomos sao as menores unidades que mantem propriedades quimicas.",
+    "hint": "Esta unidade e composta por protons, neutrons e eletrons, e seu nome vem do grego 'indivisivel'."
   }
 }

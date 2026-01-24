@@ -3,30 +3,35 @@
     "question": "Quelle est la capitale de la France ?",
     "correct": "Paris",
     "wrong": ["Londres", "Berlin", "Madrid"],
-    "explanation": "Paris est la capitale de la France depuis la fin du Xe siecle."
+    "explanation": "Paris est la capitale de la France depuis la fin du Xe siecle.",
+    "hint": "Cette ville est surnommee la 'Ville Lumiere' et abrite la Tour Eiffel."
   },
   "q_geo_002": {
     "question": "Quel est le plus grand ocean de la Terre ?",
     "correct": "Ocean Pacifique",
     "wrong": ["Ocean Atlantique", "Ocean Indien", "Ocean Arctique"],
-    "explanation": "L'ocean Pacifique couvre environ 165 millions de kilometres carres."
+    "explanation": "L'ocean Pacifique couvre environ 165 millions de kilometres carres.",
+    "hint": "Cet ocean separe l'Asie et l'Australie des Ameriques."
   },
   "q_geo_003": {
     "question": "Quel pays possede le plus long littoral au monde ?",
     "correct": "Canada",
     "wrong": ["Russie", "Australie", "Indonesie"],
-    "explanation": "Le Canada possede plus de 202 080 km de littoral."
+    "explanation": "Le Canada possede plus de 202 080 km de littoral.",
+    "hint": "Ce pays nord-americain est borde par trois oceans et a la feuille d'erable comme symbole."
   },
   "q_geo_004": {
     "question": "Quelle est la capitale de l'Australie ?",
     "correct": "Canberra",
     "wrong": ["Sydney", "Melbourne", "Brisbane"],
-    "explanation": "Canberra a ete choisie comme capitale en 1908 comme compromis entre Sydney et Melbourne."
+    "explanation": "Canberra a ete choisie comme capitale en 1908 comme compromis entre Sydney et Melbourne.",
+    "hint": "Ce n'est ni Sydney ni Melbourne, mais une ville construite specifiquement pour etre la capitale."
   },
   "q_geo_005": {
     "question": "Quel fleuve traverse le plus grand nombre de pays ?",
     "correct": "Danube",
     "wrong": ["Nil", "Amazone", "Rhin"],
-    "explanation": "Le Danube traverse 10 pays en Europe."
+    "explanation": "Le Danube traverse 10 pays en Europe.",
+    "hint": "Ce fleuve europeen prend sa source en Allemagne et se jette dans la mer Noire."
   }
 }

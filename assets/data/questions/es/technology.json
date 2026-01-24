@@ -3,30 +3,35 @@
     "question": "A quien se le atribuye la invencion del telefono?",
     "correct": "Alexander Graham Bell",
     "wrong": ["Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
-    "explanation": "Alexander Graham Bell patento el telefono en 1876."
+    "explanation": "Alexander Graham Bell patento el telefono en 1876.",
+    "hint": "Este inventor escoces-canadiense tambien trabajo con personas sordas."
   },
   "q_tec_002": {
     "question": "Que significa 'HTTP'?",
     "correct": "Protocolo de Transferencia de Hipertexto",
     "wrong": ["Protocolo Tecnico de Alta Tecnologia", "Proceso Tecnico de Hipertexto", "Protocolo de Transferencia de Herramientas"],
-    "explanation": "HTTP es la base de la comunicacion de datos en la World Wide Web."
+    "explanation": "HTTP es la base de la comunicacion de datos en la World Wide Web.",
+    "hint": "Es lo que aparece al principio de las direcciones web antes de los dos puntos."
   },
   "q_tec_003": {
     "question": "En que ano se lanzo el primer iPhone?",
     "correct": "2007",
     "wrong": ["2005", "2008", "2010"],
-    "explanation": "Apple lanzo el primer iPhone el 29 de junio de 2007."
+    "explanation": "Apple lanzo el primer iPhone el 29 de junio de 2007.",
+    "hint": "Steve Jobs lo presento en enero de ese ano, el mismo ano que salio el primer Kindle."
   },
   "q_tec_004": {
     "question": "Que lenguaje de programacion es conocido por su uso en navegadores web?",
     "correct": "JavaScript",
     "wrong": ["Python", "Java", "C++"],
-    "explanation": "JavaScript es el lenguaje principal para contenido web interactivo en navegadores."
+    "explanation": "JavaScript es el lenguaje principal para contenido web interactivo en navegadores.",
+    "hint": "Su nombre incluye una referencia a otro lenguaje popular, aunque no estan relacionados."
   },
   "q_tec_005": {
     "question": "Quien fundo Microsoft?",
     "correct": "Bill Gates y Paul Allen",
     "wrong": ["Steve Jobs", "Mark Zuckerberg", "Jeff Bezos"],
-    "explanation": "Bill Gates y Paul Allen fundaron Microsoft en 1975."
+    "explanation": "Bill Gates y Paul Allen fundaron Microsoft en 1975.",
+    "hint": "Uno de ellos fue el hombre mas rico del mundo durante muchos anos y ahora se dedica a la filantropia."
   }
 }

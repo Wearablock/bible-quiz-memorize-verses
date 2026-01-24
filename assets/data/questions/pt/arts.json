@@ -3,30 +3,35 @@
     "question": "Quem pintou a Mona Lisa?",
     "correct": "Leonardo da Vinci",
     "wrong": ["Michelangelo", "Rafael", "Botticelli"],
-    "explanation": "Leonardo da Vinci pintou a Mona Lisa entre 1503 e 1519."
+    "explanation": "Leonardo da Vinci pintou a Mona Lisa entre 1503 e 1519.",
+    "hint": "Este genio do Renascimento italiano tambem projetou maquinas voadoras e estudou anatomia."
   },
   "q_art_002": {
     "question": "Qual compositor escreveu a 'Nona Sinfonia'?",
     "correct": "Ludwig van Beethoven",
     "wrong": ["Mozart", "Bach", "Chopin"],
-    "explanation": "A Nona Sinfonia de Beethoven, concluida em 1824, inclui a famosa 'Ode a Alegria'."
+    "explanation": "A Nona Sinfonia de Beethoven, concluida em 1824, inclui a famosa 'Ode a Alegria'.",
+    "hint": "Este compositor alemao continuou compondo mesmo depois de ficar completamente surdo."
   },
   "q_art_003": {
     "question": "Em qual cidade esta localizado o Museu do Louvre?",
     "correct": "Paris",
     "wrong": ["Londres", "Roma", "Madrid"],
-    "explanation": "O Louvre em Paris e o maior museu de arte do mundo."
+    "explanation": "O Louvre em Paris e o maior museu de arte do mundo.",
+    "hint": "Este museu fica na capital francesa e tem uma famosa piramide de vidro na entrada."
   },
   "q_art_004": {
     "question": "Quem escreveu 'Romeu e Julieta'?",
     "correct": "William Shakespeare",
     "wrong": ["Charles Dickens", "Jane Austen", "Oscar Wilde"],
-    "explanation": "Shakespeare escreveu Romeu e Julieta por volta de 1594-1596."
+    "explanation": "Shakespeare escreveu Romeu e Julieta por volta de 1594-1596.",
+    "hint": "Este dramaturgo ingles nasceu em Stratford-upon-Avon e e considerado o maior escritor da lingua inglesa."
   },
   "q_art_005": {
     "question": "A qual movimento artistico Salvador Dali pertenceu?",
     "correct": "Surrealismo",
     "wrong": ["Impressionismo", "Cubismo", "Expressionismo"],
-    "explanation": "Dali foi uma figura importante do movimento Surrealista, conhecido por suas imagens marcantes."
+    "explanation": "Dali foi uma figura importante do movimento Surrealista, conhecido por suas imagens marcantes.",
+    "hint": "Este movimento explorava o mundo dos sonhos e do inconsciente, com imagens oniricas e fantasticas."
   }
 }

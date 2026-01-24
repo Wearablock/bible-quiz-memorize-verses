@@ -3,30 +3,35 @@
     "question": "Cual es la capital de Francia?",
     "correct": "Paris",
     "wrong": ["Londres", "Berlin", "Madrid"],
-    "explanation": "Paris ha sido la capital de Francia desde finales del siglo X."
+    "explanation": "Paris ha sido la capital de Francia desde finales del siglo X.",
+    "hint": "Esta ciudad es famosa por la Torre Eiffel y el rio Sena."
   },
   "q_geo_002": {
     "question": "Cual es el oceano mas grande de la Tierra?",
     "correct": "Oceano Pacifico",
     "wrong": ["Oceano Atlantico", "Oceano Indico", "Oceano Artico"],
-    "explanation": "El Oceano Pacifico cubre aproximadamente 165 millones de kilometros cuadrados."
+    "explanation": "El Oceano Pacifico cubre aproximadamente 165 millones de kilometros cuadrados.",
+    "hint": "Su nombre significa 'tranquilo' y separa Asia de America."
   },
   "q_geo_003": {
     "question": "Que pais tiene la linea costera mas larga del mundo?",
     "correct": "Canada",
     "wrong": ["Rusia", "Australia", "Indonesia"],
-    "explanation": "Canada tiene mas de 202,080 km de costa."
+    "explanation": "Canada tiene mas de 202,080 km de costa.",
+    "hint": "Este pais norteamericano tiene costas en tres oceanos y comparte frontera con EE.UU."
   },
   "q_geo_004": {
     "question": "Cual es la capital de Australia?",
     "correct": "Canberra",
     "wrong": ["Sidney", "Melbourne", "Brisbane"],
-    "explanation": "Canberra fue seleccionada como capital en 1908 como compromiso entre Sidney y Melbourne."
+    "explanation": "Canberra fue seleccionada como capital en 1908 como compromiso entre Sidney y Melbourne.",
+    "hint": "No es la ciudad mas grande del pais; fue construida especificamente como capital."
   },
   "q_geo_005": {
     "question": "Que rio atraviesa mas paises?",
     "correct": "Danubio",
     "wrong": ["Nilo", "Amazonas", "Rin"],
-    "explanation": "El Danubio atraviesa 10 paises en Europa."
+    "explanation": "El Danubio atraviesa 10 paises en Europa.",
+    "hint": "Este rio europeo pasa por Viena, Budapest y Belgrado."
   }
 }

@@ -3,30 +3,35 @@
     "question": "Which country is the origin of sushi?",
     "correct": "Japan",
     "wrong": ["China", "Korea", "Thailand"],
+    "hint": "This country is also famous for ramen, tempura, and sake.",
     "explanation": "Sushi originated in Japan, with early forms dating back to the 8th century."
   },
   "q_foo_002": {
     "question": "What is the main ingredient in guacamole?",
     "correct": "Avocado",
     "wrong": ["Tomato", "Pepper", "Onion"],
+    "hint": "This green fruit is also called 'alligator pear'.",
     "explanation": "Guacamole is a Mexican dip made primarily from mashed avocados."
   },
   "q_foo_003": {
     "question": "Which vitamin is found abundantly in citrus fruits?",
     "correct": "Vitamin C",
     "wrong": ["Vitamin A", "Vitamin D", "Vitamin B12"],
+    "hint": "Sailors ate citrus fruits to prevent scurvy.",
     "explanation": "Citrus fruits like oranges and lemons are rich sources of Vitamin C."
   },
   "q_foo_004": {
     "question": "What type of pasta is shaped like small rice grains?",
     "correct": "Orzo",
     "wrong": ["Penne", "Fusilli", "Farfalle"],
+    "hint": "Its Italian name means 'barley' and it's often used in soups.",
     "explanation": "Orzo is a rice-shaped pasta often used in soups and salads."
   },
   "q_foo_005": {
     "question": "Which spice gives curry its yellow color?",
     "correct": "Turmeric",
     "wrong": ["Paprika", "Cumin", "Coriander"],
+    "hint": "This root spice contains curcumin and is also used in traditional medicine.",
     "explanation": "Turmeric contains curcumin, which gives curry its distinctive yellow color."
   }
 }

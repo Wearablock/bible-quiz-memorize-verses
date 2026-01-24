@@ -3,30 +3,35 @@
     "question": "Combien de joueurs une equipe de football a-t-elle sur le terrain ?",
     "correct": "11",
     "wrong": ["9", "10", "12"],
-    "explanation": "Chaque equipe de football aligne 11 joueurs, y compris le gardien de but."
+    "explanation": "Chaque equipe de football aligne 11 joueurs, y compris le gardien de but.",
+    "hint": "C'est le meme nombre que dans une equipe de cricket ou de hockey sur gazon."
   },
   "q_spo_002": {
     "question": "Dans quel sport effectue-t-on un slam dunk ?",
     "correct": "Basketball",
     "wrong": ["Volleyball", "Tennis", "Baseball"],
-    "explanation": "Un slam dunk est un mouvement de basketball ou un joueur saute et marque en mettant le ballon directement dans le panier."
+    "explanation": "Un slam dunk est un mouvement de basketball ou un joueur saute et marque en mettant le ballon directement dans le panier.",
+    "hint": "Ce sport se joue avec un ballon orange et des paniers situes a 3,05 metres de hauteur."
   },
   "q_spo_003": {
     "question": "Quel pays a remporte le plus de titres de la Coupe du Monde FIFA ?",
     "correct": "Bresil",
     "wrong": ["Allemagne", "Italie", "Argentine"],
-    "explanation": "Le Bresil a remporte la Coupe du Monde FIFA 5 fois (1958, 1962, 1970, 1994, 2002)."
+    "explanation": "Le Bresil a remporte la Coupe du Monde FIFA 5 fois (1958, 1962, 1970, 1994, 2002).",
+    "hint": "Ce pays sud-americain est connu pour ses maillots jaunes et a produit Pele."
   },
   "q_spo_004": {
     "question": "Quel est le score maximum possible au bowling a 10 quilles ?",
     "correct": "300",
     "wrong": ["200", "250", "350"],
-    "explanation": "Une partie parfaite de bowling marque 300 points avec 12 strikes consecutifs."
+    "explanation": "Une partie parfaite de bowling marque 300 points avec 12 strikes consecutifs.",
+    "hint": "Ce score correspond a 12 strikes consecutifs dans une partie parfaite."
   },
   "q_spo_005": {
     "question": "Quel tournoi du Grand Chelem de tennis se joue sur terre battue ?",
     "correct": "Roland-Garros",
     "wrong": ["Wimbledon", "US Open", "Open d'Australie"],
-    "explanation": "Roland-Garros est le seul Grand Chelem joue sur terre battue."
+    "explanation": "Roland-Garros est le seul Grand Chelem joue sur terre battue.",
+    "hint": "Ce tournoi se deroule a Paris au printemps sur une surface orange."
   }
 }

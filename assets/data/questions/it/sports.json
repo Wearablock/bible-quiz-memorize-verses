@@ -3,30 +3,35 @@
     "question": "Quanti giocatori ci sono in una squadra di calcio in campo?",
     "correct": "11",
     "wrong": ["9", "10", "12"],
-    "explanation": "Ogni squadra di calcio schiera 11 giocatori, compreso il portiere."
+    "explanation": "Ogni squadra di calcio schiera 11 giocatori, compreso il portiere.",
+    "hint": "E lo stesso numero delle formazioni iniziali che vedi prima delle partite."
   },
   "q_spo_002": {
     "question": "In quale sport si esegue una schiacciata?",
     "correct": "Pallacanestro",
     "wrong": ["Pallavolo", "Tennis", "Baseball"],
-    "explanation": "Una schiacciata e una mossa della pallacanestro in cui un giocatore salta e segna mettendo la palla direttamente nel canestro."
+    "explanation": "Una schiacciata e una mossa della pallacanestro in cui un giocatore salta e segna mettendo la palla direttamente nel canestro.",
+    "hint": "In questo sport si segna mettendo la palla in un canestro appeso a 3,05 metri."
   },
   "q_spo_003": {
     "question": "Quale paese ha vinto piu titoli della Coppa del Mondo FIFA?",
     "correct": "Brasile",
     "wrong": ["Germania", "Italia", "Argentina"],
-    "explanation": "Il Brasile ha vinto la Coppa del Mondo FIFA 5 volte (1958, 1962, 1970, 1994, 2002)."
+    "explanation": "Il Brasile ha vinto la Coppa del Mondo FIFA 5 volte (1958, 1962, 1970, 1994, 2002).",
+    "hint": "Questo paese sudamericano e la patria di Pele e ha la maglia giallo-verdeoro."
   },
   "q_spo_004": {
     "question": "Qual e il punteggio massimo possibile nel bowling a 10 birilli?",
     "correct": "300",
     "wrong": ["200", "250", "350"],
-    "explanation": "Una partita perfetta di bowling segna 300 punti con 12 strike consecutivi."
+    "explanation": "Una partita perfetta di bowling segna 300 punti con 12 strike consecutivi.",
+    "hint": "Si ottiene facendo strike in tutti i 10 frame piu i due tiri bonus."
   },
   "q_spo_005": {
     "question": "Quale torneo del Grande Slam di tennis si gioca su terra battuta?",
     "correct": "Open di Francia",
     "wrong": ["Wimbledon", "US Open", "Australian Open"],
-    "explanation": "L'Open di Francia al Roland Garros e l'unico Grande Slam giocato su terra battuta."
+    "explanation": "L'Open di Francia al Roland Garros e l'unico Grande Slam giocato su terra battuta.",
+    "hint": "Si svolge a Parigi nel famoso stadio Roland Garros."
   }
 }
