@@ -275,4 +275,13 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get leaderboardComingSoon => 'Papan peringkat segera hadir!';
+
+  @override
+  String get termsOfService => 'Ketentuan Layanan';
+
+  @override
+  String get privacyPolicy => 'Kebijakan Privasi';
+
+  @override
+  String get support => 'Dukungan';
 }

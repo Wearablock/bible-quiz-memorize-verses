@@ -117,5 +117,9 @@
   "unableToLoadStats": "无法加载统计数据",
 
   "youreDoingGreat": "你做得很好！",
-  "leaderboardComingSoon": "排行榜即将推出！"
+  "leaderboardComingSoon": "排行榜即将推出！",
+
+  "termsOfService": "服务条款",
+  "privacyPolicy": "隐私政策",
+  "support": "支持"
 }

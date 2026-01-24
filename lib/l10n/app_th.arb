@@ -111,5 +111,9 @@
   "unique": "ไม่ซ้ำ",
   "unableToLoadStats": "ไม่สามารถโหลดสถิติได้",
   "youreDoingGreat": "คุณทำได้ดีมาก!",
-  "leaderboardComingSoon": "กระดานผู้นำเร็วๆ นี้!"
+  "leaderboardComingSoon": "กระดานผู้นำเร็วๆ นี้!",
+
+  "termsOfService": "ข้อกำหนดการใช้งาน",
+  "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+  "support": "การสนับสนุน"
 }

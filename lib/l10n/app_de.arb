@@ -117,5 +117,9 @@
   "unableToLoadStats": "Statistiken können nicht geladen werden",
 
   "youreDoingGreat": "Sie machen das großartig!",
-  "leaderboardComingSoon": "Bestenliste kommt bald!"
+  "leaderboardComingSoon": "Bestenliste kommt bald!",
+
+  "termsOfService": "Nutzungsbedingungen",
+  "privacyPolicy": "Datenschutzrichtlinie",
+  "support": "Support"
 }

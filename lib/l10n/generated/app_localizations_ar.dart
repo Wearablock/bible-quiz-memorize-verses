@@ -276,4 +276,13 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get leaderboardComingSoon => 'لوحة المتصدرين قريباً!';
+
+  @override
+  String get termsOfService => 'شروط الخدمة';
+
+  @override
+  String get privacyPolicy => 'سياسة الخصوصية';
+
+  @override
+  String get support => 'الدعم';
 }

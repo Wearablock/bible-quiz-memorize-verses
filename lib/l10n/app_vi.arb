@@ -111,5 +111,9 @@
   "unique": "Duy nhất",
   "unableToLoadStats": "Không thể tải thống kê",
   "youreDoingGreat": "Bạn đang làm rất tốt!",
-  "leaderboardComingSoon": "Bảng xếp hạng sắp ra mắt!"
+  "leaderboardComingSoon": "Bảng xếp hạng sắp ra mắt!",
+
+  "termsOfService": "Điều khoản dịch vụ",
+  "privacyPolicy": "Chính sách bảo mật",
+  "support": "Hỗ trợ"
 }

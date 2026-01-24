@@ -1,0 +1,845 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Support - Trivia Quiz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="logo">
+        <img src="logo.png" alt="Trivia Quiz">
+        <h1>Trivia Quiz</h1>
+      </div>
+      <div class="lang-selector">
+        <button class="lang-btn" onclick="toggleDropdown()">
+          <span id="currentLang">English</span>
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M7 10l5 5 5-5z"/></svg>
+        </button>
+        <div class="lang-dropdown" id="langDropdown">
+          <button class="lang-option active" onclick="switchLang('en')">English</button>
+          <button class="lang-option" onclick="switchLang('ko')">한국어</button>
+          <button class="lang-option" onclick="switchLang('ja')">日本語</button>
+          <button class="lang-option" onclick="switchLang('zh')">简体中文</button>
+          <button class="lang-option" onclick="switchLang('zh-TW')">繁體中文</button>
+          <button class="lang-option" onclick="switchLang('de')">Deutsch</button>
+          <button class="lang-option" onclick="switchLang('fr')">Français</button>
+          <button class="lang-option" onclick="switchLang('es')">Español</button>
+          <button class="lang-option" onclick="switchLang('pt')">Português</button>
+          <button class="lang-option" onclick="switchLang('it')">Italiano</button>
+          <button class="lang-option" onclick="switchLang('ru')">Русский</button>
+          <button class="lang-option" onclick="switchLang('ar')">العربية</button>
+          <button class="lang-option" onclick="switchLang('th')">ภาษาไทย</button>
+          <button class="lang-option" onclick="switchLang('vi')">Tiếng Việt</button>
+          <button class="lang-option" onclick="switchLang('id')">Bahasa Indonesia</button>
+        </div>
+      </div>
+    </header>
+
+    <!-- English -->
+    <main id="content-en" class="content-section active">
+      <h2>Support</h2>
+
+      <div class="app-info">
+        <img src="logo.png" alt="Trivia Quiz" class="app-icon">
+        <div class="app-details">
+          <h3>Trivia Quiz</h3>
+          <p>Test your knowledge with thousands of trivia questions!</p>
+        </div>
+      </div>
+
+      <div class="contact-card">
+        <div class="icon">✉️</div>
+        <div class="info">
+          <h4>Email Support</h4>
+          <a href="mailto:support@example.com">support@example.com</a>
+        </div>
+      </div>
+
+      <h3>Frequently Asked Questions</h3>
+
+      <div class="faq-section">
+        <div class="faq-item">
+          <div class="faq-question">How do I remove ads?</div>
+          <div class="faq-answer">You can remove all advertisements by purchasing the "Remove Ads" option in the app settings.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Is my data stored online?</div>
+          <div class="faq-answer">No, all your quiz progress and statistics are stored locally on your device. We do not collect or store your personal data on any server.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">How do I reset my progress?</div>
+          <div class="faq-answer">Go to Settings and tap "Reset All Data" to clear all your quiz history and statistics.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">How do I use hints?</div>
+          <div class="faq-answer">During a quiz, you can tap the hint button and watch a short video ad to reveal a hint for the current question.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">How do I change the language?</div>
+          <div class="faq-answer">Go to Settings and select your preferred language. The app supports 15 languages.</div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Korean -->
+    <main id="content-ko" class="content-section">
+      <h2>고객지원</h2>
+
+      <div class="app-info">
+        <img src="logo.png" alt="Trivia Quiz" class="app-icon">
+        <div class="app-details">
+          <h3>Trivia Quiz</h3>
+          <p>수천 개의 퀴즈 문제로 지식을 테스트하세요!</p>
+        </div>
+      </div>
+
+      <div class="contact-card">
+        <div class="icon">✉️</div>
+        <div class="info">
+          <h4>이메일 문의</h4>
+          <a href="mailto:support@example.com">support@example.com</a>
+        </div>
+      </div>
+
+      <h3>자주 묻는 질문</h3>
+
+      <div class="faq-section">
+        <div class="faq-item">
+          <div class="faq-question">광고를 어떻게 제거하나요?</div>
+          <div class="faq-answer">앱 설정에서 "광고 제거" 옵션을 구매하여 모든 광고를 제거할 수 있습니다.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">내 데이터가 온라인에 저장되나요?</div>
+          <div class="faq-answer">아니요, 모든 퀴즈 진행 상황과 통계는 기기에 로컬로 저장됩니다. 개인 데이터를 서버에 수집하거나 저장하지 않습니다.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">진행 상황을 어떻게 초기화하나요?</div>
+          <div class="faq-answer">설정으로 이동하여 "모든 데이터 초기화"를 탭하면 모든 퀴즈 기록과 통계가 삭제됩니다.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">힌트는 어떻게 사용하나요?</div>
+          <div class="faq-answer">퀴즈 중에 힌트 버튼을 탭하고 짧은 동영상 광고를 시청하면 현재 문제에 대한 힌트를 확인할 수 있습니다.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">언어를 어떻게 변경하나요?</div>
+          <div class="faq-answer">설정으로 이동하여 원하는 언어를 선택하세요. 앱은 15개 언어를 지원합니다.</div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Japanese -->
+    <main id="content-ja" class="content-section">
+      <h2>サポート</h2>
+
+      <div class="app-info">
+        <img src="logo.png" alt="Trivia Quiz" class="app-icon">
+        <div class="app-details">
+          <h3>Trivia Quiz</h3>
+          <p>何千ものトリビア問題で知識をテストしよう！</p>
+        </div>
+      </div>
+
+      <div class="contact-card">
+        <div class="icon">✉️</div>
+        <div class="info">
+          <h4>メールサポート</h4>
+          <a href="mailto:support@example.com">support@example.com</a>
+        </div>
+      </div>
+
+      <h3>よくある質問</h3>
+
+      <div class="faq-section">
+        <div class="faq-item">
+          <div class="faq-question">広告を削除するにはどうすればよいですか？</div>
+          <div class="faq-answer">アプリ設定で「広告削除」オプションを購入することで、すべての広告を削除できます。</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">データはオンラインに保存されますか？</div>
+          <div class="faq-answer">いいえ、すべてのクイズの進行状況と統計情報はデバイスにローカルで保存されます。個人データをサーバーに収集または保存することはありません。</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">進行状況をリセットするにはどうすればよいですか？</div>
+          <div class="faq-answer">設定に移動し、「すべてのデータをリセット」をタップすると、すべてのクイズ履歴と統計情報が削除されます。</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">ヒントはどのように使用しますか？</div>
+          <div class="faq-answer">クイズ中にヒントボタンをタップし、短い動画広告を視聴すると、現在の問題のヒントが表示されます。</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">言語を変更するにはどうすればよいですか？</div>
+          <div class="faq-answer">設定に移動し、お好みの言語を選択してください。アプリは15言語をサポートしています。</div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Chinese Simplified -->
+    <main id="content-zh" class="content-section">
+      <h2>客户支持</h2>
+
+      <div class="app-info">
+        <img src="logo.png" alt="Trivia Quiz" class="app-icon">
+        <div class="app-details">
+          <h3>Trivia Quiz</h3>
+          <p>通过数千道问答题测试您的知识！</p>
+        </div>
+      </div>
+
+      <div class="contact-card">
+        <div class="icon">✉️</div>
+        <div class="info">
+          <h4>邮件支持</h4>
+          <a href="mailto:support@example.com">support@example.com</a>
+        </div>
+      </div>
+
+      <h3>常见问题</h3>
+
+      <div class="faq-section">
+        <div class="faq-item">
+          <div class="faq-question">如何移除广告？</div>
+          <div class="faq-answer">您可以在应用设置中购买"移除广告"选项来移除所有广告。</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">我的数据是否存储在线上？</div>
+          <div class="faq-answer">不，您所有的答题进度和统计数据都存储在您的设备本地。我们不会在任何服务器上收集或存储您的个人数据。</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">如何重置我的进度？</div>
+          <div class="faq-answer">进入设置并点击"重置所有数据"即可清除所有答题记录和统计数据。</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">如何使用提示？</div>
+          <div class="faq-answer">在答题过程中，点击提示按钮并观看一段短视频广告，即可查看当前问题的提示。</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">如何更改语言？</div>
+          <div class="faq-answer">进入设置并选择您喜欢的语言。该应用支持15种语言。</div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Chinese Traditional -->
+    <main id="content-zh-TW" class="content-section">
+      <h2>客戶支援</h2>
+
+      <div class="app-info">
+        <img src="logo.png" alt="Trivia Quiz" class="app-icon">
+        <div class="app-details">
+          <h3>Trivia Quiz</h3>
+          <p>透過數千道問答題測試您的知識！</p>
+        </div>
+      </div>
+
+      <div class="contact-card">
+        <div class="icon">✉️</div>
+        <div class="info">
+          <h4>電子郵件支援</h4>
+          <a href="mailto:support@example.com">support@example.com</a>
+        </div>
+      </div>
+
+      <h3>常見問題</h3>
+
+      <div class="faq-section">
+        <div class="faq-item">
+          <div class="faq-question">如何移除廣告？</div>
+          <div class="faq-answer">您可以在應用程式設定中購買「移除廣告」選項來移除所有廣告。</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">我的資料是否儲存在線上？</div>
+          <div class="faq-answer">不，您所有的答題進度和統計資料都儲存在您的裝置本機。我們不會在任何伺服器上收集或儲存您的個人資料。</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">如何重置我的進度？</div>
+          <div class="faq-answer">進入設定並點擊「重置所有資料」即可清除所有答題記錄和統計資料。</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">如何使用提示？</div>
+          <div class="faq-answer">在答題過程中，點擊提示按鈕並觀看一段短影片廣告，即可查看當前問題的提示。</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">如何更改語言？</div>
+          <div class="faq-answer">進入設定並選擇您喜歡的語言。該應用程式支援15種語言。</div>
+        </div>
+      </div>
+    </main>
+
+    <!-- German -->
+    <main id="content-de" class="content-section">
+      <h2>Support</h2>
+
+      <div class="app-info">
+        <img src="logo.png" alt="Trivia Quiz" class="app-icon">
+        <div class="app-details">
+          <h3>Trivia Quiz</h3>
+          <p>Testen Sie Ihr Wissen mit Tausenden von Trivia-Fragen!</p>
+        </div>
+      </div>
+
+      <div class="contact-card">
+        <div class="icon">✉️</div>
+        <div class="info">
+          <h4>E-Mail-Support</h4>
+          <a href="mailto:support@example.com">support@example.com</a>
+        </div>
+      </div>
+
+      <h3>Häufig gestellte Fragen</h3>
+
+      <div class="faq-section">
+        <div class="faq-item">
+          <div class="faq-question">Wie entferne ich Werbung?</div>
+          <div class="faq-answer">Sie können alle Werbung entfernen, indem Sie die Option "Werbung entfernen" in den App-Einstellungen kaufen.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Werden meine Daten online gespeichert?</div>
+          <div class="faq-answer">Nein, alle Ihre Quiz-Fortschritte und Statistiken werden lokal auf Ihrem Gerät gespeichert. Wir erfassen oder speichern Ihre persönlichen Daten auf keinem Server.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Wie setze ich meinen Fortschritt zurück?</div>
+          <div class="faq-answer">Gehen Sie zu Einstellungen und tippen Sie auf "Alle Daten zurücksetzen", um Ihren gesamten Quiz-Verlauf und Ihre Statistiken zu löschen.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Wie verwende ich Hinweise?</div>
+          <div class="faq-answer">Während eines Quiz können Sie auf die Hinweis-Schaltfläche tippen und eine kurze Videoanzeige ansehen, um einen Hinweis für die aktuelle Frage zu erhalten.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Wie ändere ich die Sprache?</div>
+          <div class="faq-answer">Gehen Sie zu Einstellungen und wählen Sie Ihre bevorzugte Sprache. Die App unterstützt 15 Sprachen.</div>
+        </div>
+      </div>
+    </main>
+
+    <!-- French -->
+    <main id="content-fr" class="content-section">
+      <h2>Support</h2>
+
+      <div class="app-info">
+        <img src="logo.png" alt="Trivia Quiz" class="app-icon">
+        <div class="app-details">
+          <h3>Trivia Quiz</h3>
+          <p>Testez vos connaissances avec des milliers de questions !</p>
+        </div>
+      </div>
+
+      <div class="contact-card">
+        <div class="icon">✉️</div>
+        <div class="info">
+          <h4>Support par e-mail</h4>
+          <a href="mailto:support@example.com">support@example.com</a>
+        </div>
+      </div>
+
+      <h3>Questions fréquemment posées</h3>
+
+      <div class="faq-section">
+        <div class="faq-item">
+          <div class="faq-question">Comment supprimer les publicités ?</div>
+          <div class="faq-answer">Vous pouvez supprimer toutes les publicités en achetant l'option "Supprimer les publicités" dans les paramètres de l'application.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Mes données sont-elles stockées en ligne ?</div>
+          <div class="faq-answer">Non, toutes vos progressions et statistiques de quiz sont stockées localement sur votre appareil. Nous ne collectons ni ne stockons vos données personnelles sur aucun serveur.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Comment réinitialiser ma progression ?</div>
+          <div class="faq-answer">Allez dans Paramètres et appuyez sur "Réinitialiser toutes les données" pour effacer tout votre historique et vos statistiques de quiz.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Comment utiliser les indices ?</div>
+          <div class="faq-answer">Pendant un quiz, vous pouvez appuyer sur le bouton d'indice et regarder une courte vidéo publicitaire pour révéler un indice pour la question actuelle.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Comment changer la langue ?</div>
+          <div class="faq-answer">Allez dans Paramètres et sélectionnez votre langue préférée. L'application prend en charge 15 langues.</div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Spanish -->
+    <main id="content-es" class="content-section">
+      <h2>Soporte</h2>
+
+      <div class="app-info">
+        <img src="logo.png" alt="Trivia Quiz" class="app-icon">
+        <div class="app-details">
+          <h3>Trivia Quiz</h3>
+          <p>¡Pon a prueba tus conocimientos con miles de preguntas!</p>
+        </div>
+      </div>
+
+      <div class="contact-card">
+        <div class="icon">✉️</div>
+        <div class="info">
+          <h4>Soporte por correo electrónico</h4>
+          <a href="mailto:support@example.com">support@example.com</a>
+        </div>
+      </div>
+
+      <h3>Preguntas frecuentes</h3>
+
+      <div class="faq-section">
+        <div class="faq-item">
+          <div class="faq-question">¿Cómo elimino los anuncios?</div>
+          <div class="faq-answer">Puedes eliminar todos los anuncios comprando la opción "Eliminar anuncios" en la configuración de la aplicación.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">¿Mis datos se almacenan en línea?</div>
+          <div class="faq-answer">No, todo tu progreso y estadísticas de quiz se almacenan localmente en tu dispositivo. No recopilamos ni almacenamos tus datos personales en ningún servidor.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">¿Cómo restablezco mi progreso?</div>
+          <div class="faq-answer">Ve a Configuración y toca "Restablecer todos los datos" para borrar todo tu historial y estadísticas de quiz.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">¿Cómo uso las pistas?</div>
+          <div class="faq-answer">Durante un quiz, puedes tocar el botón de pista y ver un breve anuncio de video para revelar una pista para la pregunta actual.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">¿Cómo cambio el idioma?</div>
+          <div class="faq-answer">Ve a Configuración y selecciona tu idioma preferido. La aplicación admite 15 idiomas.</div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Portuguese -->
+    <main id="content-pt" class="content-section">
+      <h2>Suporte</h2>
+
+      <div class="app-info">
+        <img src="logo.png" alt="Trivia Quiz" class="app-icon">
+        <div class="app-details">
+          <h3>Trivia Quiz</h3>
+          <p>Teste seus conhecimentos com milhares de perguntas!</p>
+        </div>
+      </div>
+
+      <div class="contact-card">
+        <div class="icon">✉️</div>
+        <div class="info">
+          <h4>Suporte por e-mail</h4>
+          <a href="mailto:support@example.com">support@example.com</a>
+        </div>
+      </div>
+
+      <h3>Perguntas frequentes</h3>
+
+      <div class="faq-section">
+        <div class="faq-item">
+          <div class="faq-question">Como removo os anúncios?</div>
+          <div class="faq-answer">Você pode remover todos os anúncios comprando a opção "Remover anúncios" nas configurações do aplicativo.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Meus dados são armazenados online?</div>
+          <div class="faq-answer">Não, todo o seu progresso e estatísticas de quiz são armazenados localmente no seu dispositivo. Não coletamos nem armazenamos seus dados pessoais em nenhum servidor.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Como redefinir meu progresso?</div>
+          <div class="faq-answer">Vá para Configurações e toque em "Redefinir todos os dados" para limpar todo o seu histórico e estatísticas de quiz.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Como usar as dicas?</div>
+          <div class="faq-answer">Durante um quiz, você pode tocar no botão de dica e assistir a um breve anúncio em vídeo para revelar uma dica para a pergunta atual.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Como mudar o idioma?</div>
+          <div class="faq-answer">Vá para Configurações e selecione seu idioma preferido. O aplicativo suporta 15 idiomas.</div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Italian -->
+    <main id="content-it" class="content-section">
+      <h2>Supporto</h2>
+
+      <div class="app-info">
+        <img src="logo.png" alt="Trivia Quiz" class="app-icon">
+        <div class="app-details">
+          <h3>Trivia Quiz</h3>
+          <p>Metti alla prova le tue conoscenze con migliaia di domande!</p>
+        </div>
+      </div>
+
+      <div class="contact-card">
+        <div class="icon">✉️</div>
+        <div class="info">
+          <h4>Supporto via e-mail</h4>
+          <a href="mailto:support@example.com">support@example.com</a>
+        </div>
+      </div>
+
+      <h3>Domande frequenti</h3>
+
+      <div class="faq-section">
+        <div class="faq-item">
+          <div class="faq-question">Come rimuovo le pubblicità?</div>
+          <div class="faq-answer">Puoi rimuovere tutte le pubblicità acquistando l'opzione "Rimuovi pubblicità" nelle impostazioni dell'app.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">I miei dati vengono memorizzati online?</div>
+          <div class="faq-answer">No, tutti i tuoi progressi e statistiche dei quiz sono memorizzati localmente sul tuo dispositivo. Non raccogliamo né memorizziamo i tuoi dati personali su alcun server.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Come resetto i miei progressi?</div>
+          <div class="faq-answer">Vai su Impostazioni e tocca "Reimposta tutti i dati" per cancellare tutta la cronologia e le statistiche dei quiz.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Come uso i suggerimenti?</div>
+          <div class="faq-answer">Durante un quiz, puoi toccare il pulsante dei suggerimenti e guardare un breve video pubblicitario per rivelare un suggerimento per la domanda corrente.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Come cambio la lingua?</div>
+          <div class="faq-answer">Vai su Impostazioni e seleziona la tua lingua preferita. L'app supporta 15 lingue.</div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Russian -->
+    <main id="content-ru" class="content-section">
+      <h2>Поддержка</h2>
+
+      <div class="app-info">
+        <img src="logo.png" alt="Trivia Quiz" class="app-icon">
+        <div class="app-details">
+          <h3>Trivia Quiz</h3>
+          <p>Проверьте свои знания с тысячами вопросов викторины!</p>
+        </div>
+      </div>
+
+      <div class="contact-card">
+        <div class="icon">✉️</div>
+        <div class="info">
+          <h4>Поддержка по электронной почте</h4>
+          <a href="mailto:support@example.com">support@example.com</a>
+        </div>
+      </div>
+
+      <h3>Часто задаваемые вопросы</h3>
+
+      <div class="faq-section">
+        <div class="faq-item">
+          <div class="faq-question">Как удалить рекламу?</div>
+          <div class="faq-answer">Вы можете удалить всю рекламу, купив опцию «Удалить рекламу» в настройках приложения.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Хранятся ли мои данные онлайн?</div>
+          <div class="faq-answer">Нет, весь ваш прогресс и статистика викторины хранятся локально на вашем устройстве. Мы не собираем и не храним ваши персональные данные на каких-либо серверах.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Как сбросить мой прогресс?</div>
+          <div class="faq-answer">Перейдите в Настройки и нажмите «Сбросить все данные», чтобы очистить всю историю и статистику викторины.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Как использовать подсказки?</div>
+          <div class="faq-answer">Во время викторины вы можете нажать кнопку подсказки и посмотреть короткую видеорекламу, чтобы получить подсказку к текущему вопросу.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Как изменить язык?</div>
+          <div class="faq-answer">Перейдите в Настройки и выберите предпочитаемый язык. Приложение поддерживает 15 языков.</div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Arabic -->
+    <main id="content-ar" class="content-section" dir="rtl">
+      <h2>الدعم</h2>
+
+      <div class="app-info">
+        <img src="logo.png" alt="Trivia Quiz" class="app-icon">
+        <div class="app-details">
+          <h3>Trivia Quiz</h3>
+          <p>اختبر معلوماتك بآلاف الأسئلة!</p>
+        </div>
+      </div>
+
+      <div class="contact-card">
+        <div class="icon">✉️</div>
+        <div class="info">
+          <h4>الدعم عبر البريد الإلكتروني</h4>
+          <a href="mailto:support@example.com">support@example.com</a>
+        </div>
+      </div>
+
+      <h3>الأسئلة الشائعة</h3>
+
+      <div class="faq-section">
+        <div class="faq-item">
+          <div class="faq-question">كيف أزيل الإعلانات؟</div>
+          <div class="faq-answer">يمكنك إزالة جميع الإعلانات عن طريق شراء خيار "إزالة الإعلانات" في إعدادات التطبيق.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">هل يتم تخزين بياناتي عبر الإنترنت؟</div>
+          <div class="faq-answer">لا، يتم تخزين جميع تقدمك وإحصائياتك في الاختبارات محليًا على جهازك. نحن لا نجمع أو نخزن بياناتك الشخصية على أي خادم.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">كيف أعيد تعيين تقدمي؟</div>
+          <div class="faq-answer">انتقل إلى الإعدادات واضغط على "إعادة تعيين جميع البيانات" لمسح كل سجل الاختبارات والإحصائيات.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">كيف أستخدم التلميحات؟</div>
+          <div class="faq-answer">أثناء الاختبار، يمكنك الضغط على زر التلميح ومشاهدة إعلان فيديو قصير للكشف عن تلميح للسؤال الحالي.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">كيف أغير اللغة؟</div>
+          <div class="faq-answer">انتقل إلى الإعدادات واختر لغتك المفضلة. يدعم التطبيق 15 لغة.</div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Thai -->
+    <main id="content-th" class="content-section">
+      <h2>การสนับสนุน</h2>
+
+      <div class="app-info">
+        <img src="logo.png" alt="Trivia Quiz" class="app-icon">
+        <div class="app-details">
+          <h3>Trivia Quiz</h3>
+          <p>ทดสอบความรู้ของคุณด้วยคำถามนับพัน!</p>
+        </div>
+      </div>
+
+      <div class="contact-card">
+        <div class="icon">✉️</div>
+        <div class="info">
+          <h4>การสนับสนุนทางอีเมล</h4>
+          <a href="mailto:support@example.com">support@example.com</a>
+        </div>
+      </div>
+
+      <h3>คำถามที่พบบ่อย</h3>
+
+      <div class="faq-section">
+        <div class="faq-item">
+          <div class="faq-question">ฉันจะลบโฆษณาได้อย่างไร?</div>
+          <div class="faq-answer">คุณสามารถลบโฆษณาทั้งหมดได้โดยการซื้อตัวเลือก "ลบโฆษณา" ในการตั้งค่าแอป</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">ข้อมูลของฉันถูกเก็บออนไลน์หรือไม่?</div>
+          <div class="faq-answer">ไม่ ความคืบหน้าและสถิติของควิซทั้งหมดถูกเก็บไว้ในอุปกรณ์ของคุณในเครื่อง เราไม่เก็บรวบรวมหรือจัดเก็บข้อมูลส่วนบุคคลของคุณบนเซิร์ฟเวอร์ใดๆ</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">ฉันจะรีเซ็ตความคืบหน้าได้อย่างไร?</div>
+          <div class="faq-answer">ไปที่การตั้งค่าและแตะ "รีเซ็ตข้อมูลทั้งหมด" เพื่อล้างประวัติและสถิติของควิซทั้งหมด</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">ฉันจะใช้คำใบ้ได้อย่างไร?</div>
+          <div class="faq-answer">ระหว่างการทำควิซ คุณสามารถแตะปุ่มคำใบ้และดูโฆษณาวิดีโอสั้นๆ เพื่อเปิดเผยคำใบ้สำหรับคำถามปัจจุบัน</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">ฉันจะเปลี่ยนภาษาได้อย่างไร?</div>
+          <div class="faq-answer">ไปที่การตั้งค่าและเลือกภาษาที่คุณต้องการ แอปรองรับ 15 ภาษา</div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Vietnamese -->
+    <main id="content-vi" class="content-section">
+      <h2>Hỗ trợ</h2>
+
+      <div class="app-info">
+        <img src="logo.png" alt="Trivia Quiz" class="app-icon">
+        <div class="app-details">
+          <h3>Trivia Quiz</h3>
+          <p>Kiểm tra kiến thức của bạn với hàng ngàn câu hỏi!</p>
+        </div>
+      </div>
+
+      <div class="contact-card">
+        <div class="icon">✉️</div>
+        <div class="info">
+          <h4>Hỗ trợ qua email</h4>
+          <a href="mailto:support@example.com">support@example.com</a>
+        </div>
+      </div>
+
+      <h3>Câu hỏi thường gặp</h3>
+
+      <div class="faq-section">
+        <div class="faq-item">
+          <div class="faq-question">Làm cách nào để xóa quảng cáo?</div>
+          <div class="faq-answer">Bạn có thể xóa tất cả quảng cáo bằng cách mua tùy chọn "Xóa quảng cáo" trong cài đặt ứng dụng.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Dữ liệu của tôi có được lưu trữ trực tuyến không?</div>
+          <div class="faq-answer">Không, tất cả tiến độ và thống kê quiz của bạn được lưu trữ cục bộ trên thiết bị. Chúng tôi không thu thập hoặc lưu trữ dữ liệu cá nhân của bạn trên bất kỳ máy chủ nào.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Làm cách nào để đặt lại tiến độ?</div>
+          <div class="faq-answer">Vào Cài đặt và nhấn "Đặt lại tất cả dữ liệu" để xóa tất cả lịch sử và thống kê quiz.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Làm cách nào để sử dụng gợi ý?</div>
+          <div class="faq-answer">Trong khi làm quiz, bạn có thể nhấn nút gợi ý và xem một video quảng cáo ngắn để hiển thị gợi ý cho câu hỏi hiện tại.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Làm cách nào để thay đổi ngôn ngữ?</div>
+          <div class="faq-answer">Vào Cài đặt và chọn ngôn ngữ bạn muốn. Ứng dụng hỗ trợ 15 ngôn ngữ.</div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Indonesian -->
+    <main id="content-id" class="content-section">
+      <h2>Dukungan</h2>
+
+      <div class="app-info">
+        <img src="logo.png" alt="Trivia Quiz" class="app-icon">
+        <div class="app-details">
+          <h3>Trivia Quiz</h3>
+          <p>Uji pengetahuan Anda dengan ribuan pertanyaan!</p>
+        </div>
+      </div>
+
+      <div class="contact-card">
+        <div class="icon">✉️</div>
+        <div class="info">
+          <h4>Dukungan Email</h4>
+          <a href="mailto:support@example.com">support@example.com</a>
+        </div>
+      </div>
+
+      <h3>Pertanyaan yang Sering Diajukan</h3>
+
+      <div class="faq-section">
+        <div class="faq-item">
+          <div class="faq-question">Bagaimana cara menghapus iklan?</div>
+          <div class="faq-answer">Anda dapat menghapus semua iklan dengan membeli opsi "Hapus Iklan" di pengaturan aplikasi.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Apakah data saya disimpan secara online?</div>
+          <div class="faq-answer">Tidak, semua kemajuan dan statistik kuis Anda disimpan secara lokal di perangkat Anda. Kami tidak mengumpulkan atau menyimpan data pribadi Anda di server mana pun.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Bagaimana cara mereset kemajuan saya?</div>
+          <div class="faq-answer">Buka Pengaturan dan ketuk "Reset semua data" untuk menghapus semua riwayat dan statistik kuis Anda.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Bagaimana cara menggunakan petunjuk?</div>
+          <div class="faq-answer">Selama kuis, Anda dapat mengetuk tombol petunjuk dan menonton iklan video pendek untuk mengungkapkan petunjuk untuk pertanyaan saat ini.</div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">Bagaimana cara mengubah bahasa?</div>
+          <div class="faq-answer">Buka Pengaturan dan pilih bahasa pilihan Anda. Aplikasi mendukung 15 bahasa.</div>
+        </div>
+      </div>
+    </main>
+
+    <footer>
+      <p>&copy; <span id="copyright-year"></span> Trivia Quiz. All rights reserved.</p>
+    </footer>
+  </div>
+
+  <script>
+    const langNames = {
+      'en': 'English', 'ko': '한국어', 'ja': '日本語',
+      'zh': '简体中文', 'zh-TW': '繁體中文', 'de': 'Deutsch',
+      'fr': 'Français', 'es': 'Español', 'pt': 'Português',
+      'it': 'Italiano', 'ru': 'Русский', 'ar': 'العربية',
+      'th': 'ภาษาไทย', 'vi': 'Tiếng Việt', 'id': 'Bahasa Indonesia'
+    };
+
+    function toggleDropdown() {
+      document.getElementById('langDropdown').classList.toggle('show');
+    }
+
+    function switchLang(lang) {
+      document.querySelectorAll('.content-section').forEach(el => el.classList.remove('active'));
+      document.querySelectorAll('.lang-option').forEach(el => el.classList.remove('active'));
+
+      const contentEl = document.getElementById('content-' + lang);
+      if (contentEl) {
+        contentEl.classList.add('active');
+      } else {
+        document.getElementById('content-en').classList.add('active');
+        lang = 'en';
+      }
+
+      document.getElementById('currentLang').textContent = langNames[lang] || 'English';
+      document.getElementById('langDropdown').classList.remove('show');
+
+      document.querySelectorAll('.lang-option').forEach(el => {
+        if (el.textContent === langNames[lang]) el.classList.add('active');
+      });
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const lang = urlParams.get('lang');
+      if (lang) switchLang(lang);
+
+      const yearElement = document.getElementById('copyright-year');
+      if (yearElement) yearElement.textContent = new Date().getFullYear();
+    });
+
+    document.addEventListener('click', function(e) {
+      if (!e.target.closest('.lang-selector')) {
+        document.getElementById('langDropdown').classList.remove('show');
+      }
+    });
+  </script>
+</body>
+</html>

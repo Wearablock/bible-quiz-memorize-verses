@@ -111,5 +111,9 @@
   "unique": "Unico",
   "unableToLoadStats": "Impossibile caricare le statistiche",
   "youreDoingGreat": "Stai andando alla grande!",
-  "leaderboardComingSoon": "Classifica in arrivo!"
+  "leaderboardComingSoon": "Classifica in arrivo!",
+
+  "termsOfService": "Termini di servizio",
+  "privacyPolicy": "Informativa sulla privacy",
+  "support": "Assistenza"
 }

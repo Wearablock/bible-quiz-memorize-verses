@@ -632,6 +632,24 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Leaderboard coming soon!'**
   String get leaderboardComingSoon;
+
+  /// No description provided for @termsOfService.
+  ///
+  /// In en, this message translates to:
+  /// **'Terms of Service'**
+  String get termsOfService;
+
+  /// No description provided for @privacyPolicy.
+  ///
+  /// In en, this message translates to:
+  /// **'Privacy Policy'**
+  String get privacyPolicy;
+
+  /// No description provided for @support.
+  ///
+  /// In en, this message translates to:
+  /// **'Support'**
+  String get support;
 }
 
 class _AppLocalizationsDelegate

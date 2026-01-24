@@ -272,6 +272,15 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get leaderboardComingSoon => '排行榜即将推出！';
+
+  @override
+  String get termsOfService => '服务条款';
+
+  @override
+  String get privacyPolicy => '隐私政策';
+
+  @override
+  String get support => '支持';
 }
 
 /// The translations for Chinese, using the Han script (`zh_Hant`).
@@ -542,4 +551,13 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
 
   @override
   String get leaderboardComingSoon => '排行榜即將推出！';
+
+  @override
+  String get termsOfService => '服務條款';
+
+  @override
+  String get privacyPolicy => '隱私權政策';
+
+  @override
+  String get support => '支援';
 }

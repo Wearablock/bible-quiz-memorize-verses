@@ -111,5 +111,9 @@
   "unique": "Unik",
   "unableToLoadStats": "Tidak dapat memuat statistik",
   "youreDoingGreat": "Anda hebat!",
-  "leaderboardComingSoon": "Papan peringkat segera hadir!"
+  "leaderboardComingSoon": "Papan peringkat segera hadir!",
+
+  "termsOfService": "Ketentuan Layanan",
+  "privacyPolicy": "Kebijakan Privasi",
+  "support": "Dukungan"
 }

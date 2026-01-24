@@ -272,4 +272,13 @@ class AppLocalizationsJa extends AppLocalizations {
 
   @override
   String get leaderboardComingSoon => 'リーダーボードは近日公開！';
+
+  @override
+  String get termsOfService => '利用規約';
+
+  @override
+  String get privacyPolicy => 'プライバシーポリシー';
+
+  @override
+  String get support => 'サポート';
 }

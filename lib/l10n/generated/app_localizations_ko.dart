@@ -272,4 +272,13 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get leaderboardComingSoon => '리더보드가 곧 출시됩니다!';
+
+  @override
+  String get termsOfService => '이용약관';
+
+  @override
+  String get privacyPolicy => '개인정보처리방침';
+
+  @override
+  String get support => '고객지원';
 }

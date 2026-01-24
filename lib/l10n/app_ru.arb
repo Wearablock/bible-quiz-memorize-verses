@@ -111,5 +111,9 @@
   "unique": "Уникальные",
   "unableToLoadStats": "Не удалось загрузить статистику",
   "youreDoingGreat": "Вы отлично справляетесь!",
-  "leaderboardComingSoon": "Таблица лидеров скоро!"
+  "leaderboardComingSoon": "Таблица лидеров скоро!",
+
+  "termsOfService": "Условия использования",
+  "privacyPolicy": "Политика конфиденциальности",
+  "support": "Поддержка"
 }

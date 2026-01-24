@@ -117,5 +117,9 @@
   "unableToLoadStats": "統計を読み込めません",
 
   "youreDoingGreat": "順調ですね！",
-  "leaderboardComingSoon": "リーダーボードは近日公開！"
+  "leaderboardComingSoon": "リーダーボードは近日公開！",
+
+  "termsOfService": "利用規約",
+  "privacyPolicy": "プライバシーポリシー",
+  "support": "サポート"
 }

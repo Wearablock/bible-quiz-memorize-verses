@@ -111,5 +111,9 @@
   "unique": "Único",
   "unableToLoadStats": "Não foi possível carregar estatísticas",
   "youreDoingGreat": "Você está indo muito bem!",
-  "leaderboardComingSoon": "Placar em breve!"
+  "leaderboardComingSoon": "Placar em breve!",
+
+  "termsOfService": "Termos de serviço",
+  "privacyPolicy": "Política de privacidade",
+  "support": "Suporte"
 }

@@ -278,4 +278,13 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get leaderboardComingSoon => 'Placar em breve!';
+
+  @override
+  String get termsOfService => 'Termos de serviço';
+
+  @override
+  String get privacyPolicy => 'Política de privacidade';
+
+  @override
+  String get support => 'Suporte';
 }

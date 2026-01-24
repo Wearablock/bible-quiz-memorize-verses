@@ -277,4 +277,13 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get leaderboardComingSoon => 'Таблица лидеров скоро!';
+
+  @override
+  String get termsOfService => 'Условия использования';
+
+  @override
+  String get privacyPolicy => 'Политика конфиденциальности';
+
+  @override
+  String get support => 'Поддержка';
 }

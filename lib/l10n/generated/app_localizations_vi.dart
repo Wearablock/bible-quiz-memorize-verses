@@ -274,4 +274,13 @@ class AppLocalizationsVi extends AppLocalizations {
 
   @override
   String get leaderboardComingSoon => 'Bảng xếp hạng sắp ra mắt!';
+
+  @override
+  String get termsOfService => 'Điều khoản dịch vụ';
+
+  @override
+  String get privacyPolicy => 'Chính sách bảo mật';
+
+  @override
+  String get support => 'Hỗ trợ';
 }

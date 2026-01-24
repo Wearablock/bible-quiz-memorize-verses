@@ -275,4 +275,13 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get leaderboardComingSoon => 'Leaderboard coming soon!';
+
+  @override
+  String get termsOfService => 'Terms of Service';
+
+  @override
+  String get privacyPolicy => 'Privacy Policy';
+
+  @override
+  String get support => 'Support';
 }

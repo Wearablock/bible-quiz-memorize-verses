@@ -277,4 +277,13 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get leaderboardComingSoon => 'Bestenliste kommt bald!';
+
+  @override
+  String get termsOfService => 'Nutzungsbedingungen';
+
+  @override
+  String get privacyPolicy => 'Datenschutzrichtlinie';
+
+  @override
+  String get support => 'Support';
 }

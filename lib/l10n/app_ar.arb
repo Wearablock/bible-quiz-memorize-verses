@@ -111,5 +111,9 @@
   "unique": "فريد",
   "unableToLoadStats": "تعذر تحميل الإحصائيات",
   "youreDoingGreat": "أنت تبلي بلاءً حسناً!",
-  "leaderboardComingSoon": "لوحة المتصدرين قريباً!"
+  "leaderboardComingSoon": "لوحة المتصدرين قريباً!",
+
+  "termsOfService": "شروط الخدمة",
+  "privacyPolicy": "سياسة الخصوصية",
+  "support": "الدعم"
 }

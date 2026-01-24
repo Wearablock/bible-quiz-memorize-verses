@@ -273,4 +273,13 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get leaderboardComingSoon => 'กระดานผู้นำเร็วๆ นี้!';
+
+  @override
+  String get termsOfService => 'ข้อกำหนดการใช้งาน';
+
+  @override
+  String get privacyPolicy => 'นโยบายความเป็นส่วนตัว';
+
+  @override
+  String get support => 'การสนับสนุน';
 }

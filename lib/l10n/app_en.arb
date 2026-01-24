@@ -117,5 +117,9 @@
   "unableToLoadStats": "Unable to load stats",
 
   "youreDoingGreat": "You're doing great!",
-  "leaderboardComingSoon": "Leaderboard coming soon!"
+  "leaderboardComingSoon": "Leaderboard coming soon!",
+
+  "termsOfService": "Terms of Service",
+  "privacyPolicy": "Privacy Policy",
+  "support": "Support"
 }

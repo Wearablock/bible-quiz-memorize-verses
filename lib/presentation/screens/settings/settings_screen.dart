@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import '../../../core/constants/app_urls.dart';
 import '../../../core/services/feedback_service.dart';
 import '../../../providers/repository_providers.dart';
 import '../../../l10n/generated/app_localizations.dart';
 import '../../../main.dart';
+import 'webview_screen.dart';
 
 class SettingsScreen extends ConsumerWidget {
   const SettingsScreen({super.key});
@@ -101,6 +103,32 @@ class SettingsScreen extends ConsumerWidget {
                 onTap: () => _showLanguageDialog(context, ref, currentLocale, l10n),
               );
             },
+          ),
+
+          const Divider(),
+
+          // Terms of Service
+          ListTile(
+            leading: const Icon(Icons.description_outlined),
+            title: Text(l10n.termsOfService),
+            trailing: const Icon(Icons.chevron_right),
+            onTap: () => _openWebView(context, l10n.termsOfService, AppUrls.termsUrl),
+          ),
+
+          // Privacy Policy
+          ListTile(
+            leading: const Icon(Icons.privacy_tip_outlined),
+            title: Text(l10n.privacyPolicy),
+            trailing: const Icon(Icons.chevron_right),
+            onTap: () => _openWebView(context, l10n.privacyPolicy, AppUrls.privacyUrl),
+          ),
+
+          // Support
+          ListTile(
+            leading: const Icon(Icons.help_outline),
+            title: Text(l10n.support),
+            trailing: const Icon(Icons.chevron_right),
+            onTap: () => _openWebView(context, l10n.support, AppUrls.supportUrl),
           ),
 
           const Divider(),
@@ -236,6 +264,24 @@ class SettingsScreen extends ConsumerWidget {
   String? _getCurrentLocaleString(Locale currentLocale, WidgetRef ref) {
     final preferredAsync = ref.read(preferredLocaleProvider);
     return preferredAsync.valueOrNull;
+  }
+
+  void _openWebView(BuildContext context, String title, String url) {
+    final locale = Localizations.localeOf(context);
+    // Map locale to HTML lang code
+    String htmlLangCode;
+    if (locale.scriptCode == 'Hant' || locale.countryCode == 'TW') {
+      htmlLangCode = 'zh-TW';
+    } else {
+      htmlLangCode = locale.languageCode;
+    }
+    final urlWithLang = '$url?lang=$htmlLangCode';
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => WebViewScreen(title: title, url: urlWithLang),
+      ),
+    );
   }
 
   void _showAboutDialog(BuildContext context, AppLocalizations l10n) {
