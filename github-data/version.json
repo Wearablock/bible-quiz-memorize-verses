@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minAppVersion": "1.0.0",
   "releaseDate": "2026-01-25",
-  "changelog": "Added new geography question: Mount Everest"
+  "changelog": "Added new science question: Sun's core temperature"
 }

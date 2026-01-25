@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../../core/constants/app_urls.dart';
 import '../../../core/services/feedback_service.dart';
+import '../../../core/services/remote_sync_service.dart';
 import '../../../providers/repository_providers.dart';
 import '../../../l10n/generated/app_localizations.dart';
 import '../../../main.dart';
@@ -252,6 +253,12 @@ class SettingsScreen extends ConsumerWidget {
                 onChanged: (value) {
                   ref.read(settingsRepositoryProvider).setPreferredLocale(value);
                   Navigator.pop(context);
+                  // 선택한 언어의 퀴즈 데이터 동기화 (백그라운드)
+                  if (value != null) {
+                    RemoteSyncService().syncLocale(value).then((result) {
+                      debugPrint('[Settings] Locale sync result: ${result.status.name}');
+                    });
+                  }
                 },
               );
             },

@@ -33,5 +33,12 @@
     "wrong": ["Molecula", "Celula", "Eletron"],
     "explanation": "Embora existam particulas subatomicas, os atomos sao as menores unidades que mantem propriedades quimicas.",
     "hint": "Esta unidade e composta por protons, neutrons e eletrons, e seu nome vem do grego 'indivisivel'."
+  },
+  "q_sci_100": {
+    "question": "Qual e a temperatura aproximada do nucleo do Sol?",
+    "correct": "15 milhoes °C",
+    "wrong": ["1 milhao °C", "100 milhoes °C", "6.000 °C"],
+    "hint": "Quente o suficiente para fundir atomos de hidrogenio em helio.",
+    "explanation": "O nucleo do Sol atinge cerca de 15 milhoes de graus Celsius, permitindo a fusao nuclear."
   }
 }

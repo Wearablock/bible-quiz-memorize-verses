@@ -3,9 +3,8 @@ class RemoteConfig {
   RemoteConfig._();
 
   /// GitHub Raw 콘텐츠 베이스 URL
-  /// TODO: 실제 GitHub 저장소 URL로 변경
   static const String baseUrl =
-      'https://raw.githubusercontent.com/wearablock/trivia-quiz-data/main';
+      'https://raw.githubusercontent.com/Wearablock/trivia-quiz/main/github-data';
 
   /// 버전 체크 타임아웃 (초)
   static const int versionCheckTimeout = 10;

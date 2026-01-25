@@ -33,5 +33,12 @@
     "wrong": ["Molekül", "Zelle", "Elektron"],
     "explanation": "Obwohl subatomare Teilchen existieren, sind Atome die kleinsten Einheiten, die chemische Eigenschaften behalten.",
     "hint": "Der Name stammt aus dem Griechischen und bedeutet 'unteilbar'."
+  },
+  "q_sci_100": {
+    "question": "Wie hoch ist die ungefähre Temperatur im Sonnenkern?",
+    "correct": "15 Millionen °C",
+    "wrong": ["1 Million °C", "100 Millionen °C", "6.000 °C"],
+    "hint": "Heiß genug, um Wasserstoffatome zu Helium zu verschmelzen.",
+    "explanation": "Der Sonnenkern erreicht etwa 15 Millionen Grad Celsius, was Kernfusion ermöglicht."
   }
 }

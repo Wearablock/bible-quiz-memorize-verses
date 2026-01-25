@@ -33,5 +33,12 @@
     "wrong": ["Phân tử", "Tế bào", "Electron"],
     "explanation": "Mặc dù có các hạt hạ nguyên tử, nguyên tử là đơn vị nhỏ nhất giữ được các tính chất hóa học.",
     "hint": "Đơn vị này gồm proton, neutron và electron, và tên của nó trong tiếng Hy Lạp có nghĩa là 'không thể chia nhỏ'."
+  },
+  "q_sci_100": {
+    "question": "Nhiệt độ gần đúng của lõi Mặt Trời là bao nhiêu?",
+    "correct": "15 triệu °C",
+    "wrong": ["1 triệu °C", "100 triệu °C", "6.000 °C"],
+    "hint": "Đủ nóng để hợp nhất các nguyên tử hydro thành heli.",
+    "explanation": "Lõi Mặt Trời đạt khoảng 15 triệu độ C, cho phép phản ứng nhiệt hạch xảy ra."
   }
 }

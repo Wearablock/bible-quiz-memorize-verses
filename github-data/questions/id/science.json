@@ -33,5 +33,12 @@
     "wrong": ["Molekul", "Sel", "Elektron"],
     "explanation": "Meskipun partikel subatomik ada, atom adalah unit terkecil yang mempertahankan sifat kimia.",
     "hint": "Namanya berasal dari bahasa Yunani yang berarti 'tidak dapat dibagi' dan terdiri dari proton, neutron, dan elektron."
+  },
+  "q_sci_100": {
+    "question": "Berapa perkiraan suhu inti Matahari?",
+    "correct": "15 juta °C",
+    "wrong": ["1 juta °C", "100 juta °C", "6.000 °C"],
+    "hint": "Cukup panas untuk melebur atom hidrogen menjadi helium.",
+    "explanation": "Inti Matahari mencapai sekitar 15 juta derajat Celsius, memungkinkan terjadinya fusi nuklir."
   }
 }

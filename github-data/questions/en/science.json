@@ -33,5 +33,12 @@
     "wrong": ["Molecule", "Cell", "Electron"],
     "hint": "Its name comes from Greek meaning 'indivisible'.",
     "explanation": "While subatomic particles exist, atoms are the smallest units that retain chemical properties."
+  },
+  "q_sci_100": {
+    "question": "What is the approximate temperature of the Sun's core?",
+    "correct": "15 million °C",
+    "wrong": ["1 million °C", "100 million °C", "6,000 °C"],
+    "hint": "It's hot enough to fuse hydrogen atoms into helium.",
+    "explanation": "The Sun's core reaches about 15 million degrees Celsius, enabling nuclear fusion."
   }
 }

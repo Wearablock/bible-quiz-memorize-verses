@@ -33,5 +33,12 @@
     "wrong": ["Molecule", "Cellule", "Electron"],
     "explanation": "Bien que des particules subatomiques existent, les atomes sont les plus petites unites conservant des proprietes chimiques.",
     "hint": "Son nom vient du grec 'atomos' signifiant 'indivisible'."
+  },
+  "q_sci_100": {
+    "question": "Quelle est la temperature approximative du noyau du Soleil ?",
+    "correct": "15 millions °C",
+    "wrong": ["1 million °C", "100 millions °C", "6 000 °C"],
+    "hint": "Assez chaud pour fusionner des atomes d'hydrogene en helium.",
+    "explanation": "Le noyau du Soleil atteint environ 15 millions de degres Celsius, permettant la fusion nucleaire."
   }
 }

@@ -33,5 +33,12 @@
     "wrong": ["Molecula", "Celula", "Electron"],
     "explanation": "Aunque existen particulas subatomicas, los atomos son las unidades mas pequenas que conservan propiedades quimicas.",
     "hint": "Su nombre viene del griego 'indivisible' y contiene protones, neutrones y electrones."
+  },
+  "q_sci_100": {
+    "question": "Cual es la temperatura aproximada del nucleo del Sol?",
+    "correct": "15 millones °C",
+    "wrong": ["1 millon °C", "100 millones °C", "6.000 °C"],
+    "hint": "Es lo suficientemente caliente como para fusionar atomos de hidrogeno en helio.",
+    "explanation": "El nucleo del Sol alcanza unos 15 millones de grados Celsius, lo que permite la fusion nuclear."
   }
 }

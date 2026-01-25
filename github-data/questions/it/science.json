@@ -33,5 +33,12 @@
     "wrong": ["Molecola", "Cellula", "Elettrone"],
     "explanation": "Sebbene esistano particelle subatomiche, gli atomi sono le unita piu piccole che mantengono le proprieta chimiche.",
     "hint": "Il suo nome deriva dal greco 'atomos' che significa indivisibile."
+  },
+  "q_sci_100": {
+    "question": "Qual e la temperatura approssimativa del nucleo del Sole?",
+    "correct": "15 milioni °C",
+    "wrong": ["1 milione °C", "100 milioni °C", "6.000 °C"],
+    "hint": "Abbastanza caldo da fondere atomi di idrogeno in elio.",
+    "explanation": "Il nucleo del Sole raggiunge circa 15 milioni di gradi Celsius, consentendo la fusione nucleare."
   }
 }
