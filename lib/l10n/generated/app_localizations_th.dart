@@ -282,4 +282,28 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get support => 'การสนับสนุน';
+
+  @override
+  String get premium => 'พรีเมียม';
+
+  @override
+  String get removeAds => 'ลบโฆษณา';
+
+  @override
+  String get premiumActivated => 'พรีเมียมเปิดใช้งานแล้ว';
+
+  @override
+  String get purchase => 'ซื้อ';
+
+  @override
+  String get restorePurchases => 'กู้คืนการซื้อ';
+
+  @override
+  String get purchaseFailed => 'การซื้อล้มเหลว';
+
+  @override
+  String get purchasesRestored => 'กู้คืนการซื้อแล้ว';
+
+  @override
+  String get productNotAvailable => 'สินค้าไม่พร้อมใช้งาน';
 }

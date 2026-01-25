@@ -286,4 +286,28 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get support => 'Support';
+
+  @override
+  String get premium => 'Premium';
+
+  @override
+  String get removeAds => 'Werbung entfernen';
+
+  @override
+  String get premiumActivated => 'Premium ist aktiviert';
+
+  @override
+  String get purchase => 'Kaufen';
+
+  @override
+  String get restorePurchases => 'Käufe wiederherstellen';
+
+  @override
+  String get purchaseFailed => 'Kauf fehlgeschlagen';
+
+  @override
+  String get purchasesRestored => 'Käufe wiederhergestellt';
+
+  @override
+  String get productNotAvailable => 'Produkt nicht verfügbar';
 }

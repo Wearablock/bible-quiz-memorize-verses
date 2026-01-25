@@ -284,4 +284,28 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get support => 'Dukungan';
+
+  @override
+  String get premium => 'Premium';
+
+  @override
+  String get removeAds => 'Hapus Iklan';
+
+  @override
+  String get premiumActivated => 'Premium telah diaktifkan';
+
+  @override
+  String get purchase => 'Beli';
+
+  @override
+  String get restorePurchases => 'Pulihkan Pembelian';
+
+  @override
+  String get purchaseFailed => 'Pembelian gagal';
+
+  @override
+  String get purchasesRestored => 'Pembelian dipulihkan';
+
+  @override
+  String get productNotAvailable => 'Produk tidak tersedia';
 }

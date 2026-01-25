@@ -115,5 +115,14 @@
 
   "termsOfService": "Ketentuan Layanan",
   "privacyPolicy": "Kebijakan Privasi",
-  "support": "Dukungan"
+  "support": "Dukungan",
+
+  "premium": "Premium",
+  "removeAds": "Hapus Iklan",
+  "premiumActivated": "Premium telah diaktifkan",
+  "purchase": "Beli",
+  "restorePurchases": "Pulihkan Pembelian",
+  "purchaseFailed": "Pembelian gagal",
+  "purchasesRestored": "Pembelian dipulihkan",
+  "productNotAvailable": "Produk tidak tersedia"
 }

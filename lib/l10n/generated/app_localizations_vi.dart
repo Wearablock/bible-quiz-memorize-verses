@@ -283,4 +283,28 @@ class AppLocalizationsVi extends AppLocalizations {
 
   @override
   String get support => 'Hỗ trợ';
+
+  @override
+  String get premium => 'Cao cấp';
+
+  @override
+  String get removeAds => 'Xóa quảng cáo';
+
+  @override
+  String get premiumActivated => 'Đã kích hoạt cao cấp';
+
+  @override
+  String get purchase => 'Mua';
+
+  @override
+  String get restorePurchases => 'Khôi phục mua hàng';
+
+  @override
+  String get purchaseFailed => 'Mua hàng thất bại';
+
+  @override
+  String get purchasesRestored => 'Đã khôi phục mua hàng';
+
+  @override
+  String get productNotAvailable => 'Sản phẩm không khả dụng';
 }

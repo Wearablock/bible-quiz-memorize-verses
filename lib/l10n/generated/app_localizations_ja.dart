@@ -281,4 +281,28 @@ class AppLocalizationsJa extends AppLocalizations {
 
   @override
   String get support => 'サポート';
+
+  @override
+  String get premium => 'プレミアム';
+
+  @override
+  String get removeAds => '広告を削除';
+
+  @override
+  String get premiumActivated => 'プレミアムが有効になりました';
+
+  @override
+  String get purchase => '購入';
+
+  @override
+  String get restorePurchases => '購入を復元';
+
+  @override
+  String get purchaseFailed => '購入に失敗しました';
+
+  @override
+  String get purchasesRestored => '購入が復元されました';
+
+  @override
+  String get productNotAvailable => '商品を読み込めません';
 }

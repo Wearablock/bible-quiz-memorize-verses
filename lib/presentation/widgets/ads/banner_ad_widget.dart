@@ -1,24 +1,31 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 import '../../../core/config/ad_config.dart';
 import '../../../core/services/ad_service.dart';
+import '../../../providers/premium_provider.dart';
 
 /// 배너 광고 위젯
 /// - Adaptive Banner로 화면 너비에 맞춤
 /// - 광고 로드 전 placeholder 표시
-class BannerAdWidget extends StatefulWidget {
+/// - 프리미엄 사용자는 광고 숨김
+class BannerAdWidget extends ConsumerStatefulWidget {
   const BannerAdWidget({super.key});
 
   @override
-  State<BannerAdWidget> createState() => _BannerAdWidgetState();
+  ConsumerState<BannerAdWidget> createState() => _BannerAdWidgetState();
 }
 
-class _BannerAdWidgetState extends State<BannerAdWidget> {
+class _BannerAdWidgetState extends ConsumerState<BannerAdWidget> {
   final AdService _adService = AdService();
 
   @override
   void didChangeDependencies() {
     super.didChangeDependencies();
+    // 프리미엄 사용자는 광고 로드 스킵
+    final isPremium = ref.read(isPremiumProvider);
+    if (isPremium) return;
+
     // 화면 너비를 가져와서 광고 로드
     final width = MediaQuery.of(context).size.width;
     _adService.loadBannerAd(width);
@@ -28,6 +35,12 @@ class _BannerAdWidgetState extends State<BannerAdWidget> {
   Widget build(BuildContext context) {
     // 광고 비활성화 시 빈 공간
     if (!AdConfig.adsEnabled) {
+      return const SizedBox.shrink();
+    }
+
+    // 프리미엄 사용자는 광고 표시 안함
+    final isPremium = ref.watch(isPremiumProvider);
+    if (isPremium) {
       return const SizedBox.shrink();
     }
 

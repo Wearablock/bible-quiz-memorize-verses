@@ -115,5 +115,14 @@
 
   "termsOfService": "Termini di servizio",
   "privacyPolicy": "Informativa sulla privacy",
-  "support": "Assistenza"
+  "support": "Assistenza",
+
+  "premium": "Premium",
+  "removeAds": "Rimuovi pubblicità",
+  "premiumActivated": "Premium attivato",
+  "purchase": "Acquista",
+  "restorePurchases": "Ripristina acquisti",
+  "purchaseFailed": "Acquisto fallito",
+  "purchasesRestored": "Acquisti ripristinati",
+  "productNotAvailable": "Prodotto non disponibile"
 }

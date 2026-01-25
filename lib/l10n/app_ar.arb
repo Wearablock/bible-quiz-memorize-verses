@@ -115,5 +115,14 @@
 
   "termsOfService": "شروط الخدمة",
   "privacyPolicy": "سياسة الخصوصية",
-  "support": "الدعم"
+  "support": "الدعم",
+
+  "premium": "بريميوم",
+  "removeAds": "إزالة الإعلانات",
+  "premiumActivated": "تم تفعيل بريميوم",
+  "purchase": "شراء",
+  "restorePurchases": "استعادة المشتريات",
+  "purchaseFailed": "فشل الشراء",
+  "purchasesRestored": "تم استعادة المشتريات",
+  "productNotAvailable": "المنتج غير متوفر"
 }

@@ -281,4 +281,28 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get support => '고객지원';
+
+  @override
+  String get premium => '프리미엄';
+
+  @override
+  String get removeAds => '광고 제거';
+
+  @override
+  String get premiumActivated => '프리미엄이 활성화되었습니다';
+
+  @override
+  String get purchase => '구매';
+
+  @override
+  String get restorePurchases => '구매 복원';
+
+  @override
+  String get purchaseFailed => '구매에 실패했습니다';
+
+  @override
+  String get purchasesRestored => '구매가 복원되었습니다';
+
+  @override
+  String get productNotAvailable => '상품을 불러올 수 없습니다';
 }

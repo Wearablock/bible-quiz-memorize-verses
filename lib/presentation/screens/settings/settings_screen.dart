@@ -7,6 +7,7 @@ import '../../../providers/repository_providers.dart';
 import '../../../l10n/generated/app_localizations.dart';
 import '../../../main.dart';
 import 'webview_screen.dart';
+import 'widgets/premium_tile.dart';
 
 class SettingsScreen extends ConsumerWidget {
   const SettingsScreen({super.key});
@@ -24,6 +25,20 @@ class SettingsScreen extends ConsumerWidget {
       ),
       body: ListView(
         children: [
+          // Premium Section
+          ListTile(
+            title: Text(
+              l10n.premium,
+              style: Theme.of(context).textTheme.titleSmall?.copyWith(
+                    color: Theme.of(context).colorScheme.primary,
+                    fontWeight: FontWeight.bold,
+                  ),
+            ),
+          ),
+          const PremiumTile(),
+
+          const Divider(),
+
           // Sound
           soundEnabled.when(
             data: (enabled) => SwitchListTile(

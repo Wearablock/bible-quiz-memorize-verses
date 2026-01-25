@@ -284,4 +284,28 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get support => 'Support';
+
+  @override
+  String get premium => 'Premium';
+
+  @override
+  String get removeAds => 'Remove Ads';
+
+  @override
+  String get premiumActivated => 'Premium is activated';
+
+  @override
+  String get purchase => 'Purchase';
+
+  @override
+  String get restorePurchases => 'Restore Purchases';
+
+  @override
+  String get purchaseFailed => 'Purchase failed';
+
+  @override
+  String get purchasesRestored => 'Purchases restored';
+
+  @override
+  String get productNotAvailable => 'Product not available';
 }

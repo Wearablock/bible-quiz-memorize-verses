@@ -285,4 +285,28 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get support => 'الدعم';
+
+  @override
+  String get premium => 'بريميوم';
+
+  @override
+  String get removeAds => 'إزالة الإعلانات';
+
+  @override
+  String get premiumActivated => 'تم تفعيل بريميوم';
+
+  @override
+  String get purchase => 'شراء';
+
+  @override
+  String get restorePurchases => 'استعادة المشتريات';
+
+  @override
+  String get purchaseFailed => 'فشل الشراء';
+
+  @override
+  String get purchasesRestored => 'تم استعادة المشتريات';
+
+  @override
+  String get productNotAvailable => 'المنتج غير متوفر';
 }

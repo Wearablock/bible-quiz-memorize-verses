@@ -33,6 +33,7 @@ dependencies:
   # Monetization
   google_mobile_ads: ^5.2.0
   app_tracking_transparency: ^2.0.6
+  in_app_purchase: ^3.2.0
 
   # Audio & Haptic
   audioplayers: ^6.1.0

@@ -115,5 +115,14 @@
 
   "termsOfService": "Điều khoản dịch vụ",
   "privacyPolicy": "Chính sách bảo mật",
-  "support": "Hỗ trợ"
+  "support": "Hỗ trợ",
+
+  "premium": "Cao cấp",
+  "removeAds": "Xóa quảng cáo",
+  "premiumActivated": "Đã kích hoạt cao cấp",
+  "purchase": "Mua",
+  "restorePurchases": "Khôi phục mua hàng",
+  "purchaseFailed": "Mua hàng thất bại",
+  "purchasesRestored": "Đã khôi phục mua hàng",
+  "productNotAvailable": "Sản phẩm không khả dụng"
 }

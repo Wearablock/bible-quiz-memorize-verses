@@ -121,5 +121,14 @@
 
   "termsOfService": "服务条款",
   "privacyPolicy": "隐私政策",
-  "support": "支持"
+  "support": "支持",
+
+  "premium": "高级版",
+  "removeAds": "移除广告",
+  "premiumActivated": "高级版已激活",
+  "purchase": "购买",
+  "restorePurchases": "恢复购买",
+  "purchaseFailed": "购买失败",
+  "purchasesRestored": "购买已恢复",
+  "productNotAvailable": "产品不可用"
 }

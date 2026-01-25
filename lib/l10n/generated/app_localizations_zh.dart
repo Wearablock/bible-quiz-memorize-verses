@@ -281,6 +281,30 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get support => '支持';
+
+  @override
+  String get premium => '高级版';
+
+  @override
+  String get removeAds => '移除广告';
+
+  @override
+  String get premiumActivated => '高级版已激活';
+
+  @override
+  String get purchase => '购买';
+
+  @override
+  String get restorePurchases => '恢复购买';
+
+  @override
+  String get purchaseFailed => '购买失败';
+
+  @override
+  String get purchasesRestored => '购买已恢复';
+
+  @override
+  String get productNotAvailable => '产品不可用';
 }
 
 /// The translations for Chinese, using the Han script (`zh_Hant`).
@@ -560,4 +584,28 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
 
   @override
   String get support => '支援';
+
+  @override
+  String get premium => '進階版';
+
+  @override
+  String get removeAds => '移除廣告';
+
+  @override
+  String get premiumActivated => '進階版已啟用';
+
+  @override
+  String get purchase => '購買';
+
+  @override
+  String get restorePurchases => '恢復購買';
+
+  @override
+  String get purchaseFailed => '購買失敗';
+
+  @override
+  String get purchasesRestored => '購買已恢復';
+
+  @override
+  String get productNotAvailable => '產品不可用';
 }

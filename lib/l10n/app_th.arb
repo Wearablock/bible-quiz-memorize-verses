@@ -115,5 +115,14 @@
 
   "termsOfService": "ข้อกำหนดการใช้งาน",
   "privacyPolicy": "นโยบายความเป็นส่วนตัว",
-  "support": "การสนับสนุน"
+  "support": "การสนับสนุน",
+
+  "premium": "พรีเมียม",
+  "removeAds": "ลบโฆษณา",
+  "premiumActivated": "พรีเมียมเปิดใช้งานแล้ว",
+  "purchase": "ซื้อ",
+  "restorePurchases": "กู้คืนการซื้อ",
+  "purchaseFailed": "การซื้อล้มเหลว",
+  "purchasesRestored": "กู้คืนการซื้อแล้ว",
+  "productNotAvailable": "สินค้าไม่พร้อมใช้งาน"
 }

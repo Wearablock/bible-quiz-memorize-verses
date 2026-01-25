@@ -115,5 +115,14 @@
 
   "termsOfService": "服務條款",
   "privacyPolicy": "隱私權政策",
-  "support": "支援"
+  "support": "支援",
+
+  "premium": "進階版",
+  "removeAds": "移除廣告",
+  "premiumActivated": "進階版已啟用",
+  "purchase": "購買",
+  "restorePurchases": "恢復購買",
+  "purchaseFailed": "購買失敗",
+  "purchasesRestored": "購買已恢復",
+  "productNotAvailable": "產品不可用"
 }

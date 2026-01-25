@@ -287,4 +287,28 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get support => 'Suporte';
+
+  @override
+  String get premium => 'Premium';
+
+  @override
+  String get removeAds => 'Remover anúncios';
+
+  @override
+  String get premiumActivated => 'Premium ativado';
+
+  @override
+  String get purchase => 'Comprar';
+
+  @override
+  String get restorePurchases => 'Restaurar compras';
+
+  @override
+  String get purchaseFailed => 'Falha na compra';
+
+  @override
+  String get purchasesRestored => 'Compras restauradas';
+
+  @override
+  String get productNotAvailable => 'Produto não disponível';
 }

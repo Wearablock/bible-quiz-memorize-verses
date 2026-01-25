@@ -7,6 +7,7 @@ import 'l10n/generated/app_localizations.dart';
 import 'core/theme/app_theme.dart';
 import 'core/services/ad_service.dart';
 import 'core/services/feedback_service.dart';
+import 'core/services/iap_service.dart';
 import 'core/services/remote_sync_service.dart';
 import 'data/models/sync_result.dart';
 import 'features/main/main_shell.dart';
@@ -26,6 +27,9 @@ void main() async {
   // AdMob 초기화
   await AdService().initialize();
   AdService().preloadAds();
+
+  // IAP 초기화
+  await IAPService().initialize();
 
   // 스플래시 화면 종료
   FlutterNativeSplash.remove();

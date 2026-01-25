@@ -121,5 +121,14 @@
 
   "termsOfService": "Nutzungsbedingungen",
   "privacyPolicy": "Datenschutzrichtlinie",
-  "support": "Support"
+  "support": "Support",
+
+  "premium": "Premium",
+  "removeAds": "Werbung entfernen",
+  "premiumActivated": "Premium ist aktiviert",
+  "purchase": "Kaufen",
+  "restorePurchases": "Käufe wiederherstellen",
+  "purchaseFailed": "Kauf fehlgeschlagen",
+  "purchasesRestored": "Käufe wiederhergestellt",
+  "productNotAvailable": "Produkt nicht verfügbar"
 }

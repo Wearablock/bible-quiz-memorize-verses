@@ -4,6 +4,7 @@ import 'package:flutter/foundation.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:app_tracking_transparency/app_tracking_transparency.dart';
 import '../config/ad_config.dart';
+import 'iap_service.dart';
 
 /// 광고 서비스 (싱글톤)
 /// - 배너, 전면, 보상형 광고 관리
@@ -171,6 +172,12 @@ class AdService extends ChangeNotifier {
   Future<bool> showInterstitialAd() async {
     if (!AdConfig.adsEnabled) return false;
 
+    // 프리미엄 사용자는 전면 광고 스킵
+    if (IAPService().isPremium) {
+      debugPrint('[AdService] 프리미엄 사용자 - 전면 광고 스킵');
+      return false;
+    }
+
     // 최소 간격 체크
     if (_lastInterstitialShowTime != null) {
       final elapsed = DateTime.now().difference(_lastInterstitialShowTime!);
@@ -239,6 +246,13 @@ class AdService extends ChangeNotifier {
     required void Function() onRewarded,
   }) async {
     if (!AdConfig.adsEnabled) {
+      onRewarded();
+      return true;
+    }
+
+    // 프리미엄 사용자는 광고 없이 보상 지급
+    if (IAPService().isPremium) {
+      debugPrint('[AdService] 프리미엄 사용자 - 광고 없이 보상 지급');
       onRewarded();
       return true;
     }

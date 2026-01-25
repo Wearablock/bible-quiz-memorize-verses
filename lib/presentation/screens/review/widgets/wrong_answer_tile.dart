@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../../../core/theme/app_colors.dart';
 import '../../../../l10n/generated/app_localizations.dart';
+import '../../../../providers/repository_providers.dart';
 
-class WrongAnswerTile extends StatelessWidget {
+class WrongAnswerTile extends ConsumerWidget {
   final String questionId;
 
   const WrongAnswerTile({
@@ -11,10 +13,12 @@ class WrongAnswerTile extends StatelessWidget {
   });
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context, WidgetRef ref) {
     final l10n = AppLocalizations.of(context)!;
     final categoryId = _extractCategoryId(questionId);
     final color = AppColors.getCategoryColor(categoryId);
+    final locale = Localizations.localeOf(context);
+    final localeStr = locale.toLanguageTag().replaceAll('-', '_');
 
     return Card(
       margin: const EdgeInsets.only(bottom: 8),
@@ -23,7 +27,7 @@ class WrongAnswerTile extends StatelessWidget {
           width: 40,
           height: 40,
           decoration: BoxDecoration(
-            color: color.withOpacity(0.2),
+            color: color.withValues(alpha: 0.2),
             borderRadius: BorderRadius.circular(8),
           ),
           child: Icon(
@@ -36,11 +40,19 @@ class WrongAnswerTile extends StatelessWidget {
           _getCategoryName(categoryId, l10n),
           style: const TextStyle(fontWeight: FontWeight.w500),
         ),
-        subtitle: Text(
-          questionId,
-          style: Theme.of(context).textTheme.bodySmall?.copyWith(
-                color: Colors.grey,
-              ),
+        subtitle: FutureBuilder<String>(
+          future: _loadQuestionText(ref, localeStr),
+          builder: (context, snapshot) {
+            final questionText = snapshot.data ?? '...';
+            return Text(
+              _truncateText(questionText, 40),
+              style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                    color: Colors.grey.shade600,
+                  ),
+              maxLines: 1,
+              overflow: TextOverflow.ellipsis,
+            );
+          },
         ),
         trailing: Icon(
           Icons.chevron_right,
@@ -48,6 +60,27 @@ class WrongAnswerTile extends StatelessWidget {
         ),
       ),
     );
+  }
+
+  /// 문제 텍스트 로드
+  Future<String> _loadQuestionText(WidgetRef ref, String locale) async {
+    try {
+      final repository = ref.read(questionRepositoryProvider);
+      final questions = await repository.getQuestionsByIds(
+        questionIds: [questionId],
+        locale: locale,
+      );
+      if (questions.isNotEmpty) {
+        return questions.first.question;
+      }
+    } catch (_) {}
+    return '...';
+  }
+
+  /// 텍스트 자르기
+  String _truncateText(String text, int maxLength) {
+    if (text.length <= maxLength) return text;
+    return '${text.substring(0, maxLength)}...';
   }
 
   String _extractCategoryId(String questionId) {

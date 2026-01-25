@@ -286,4 +286,28 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get support => 'Поддержка';
+
+  @override
+  String get premium => 'Премиум';
+
+  @override
+  String get removeAds => 'Убрать рекламу';
+
+  @override
+  String get premiumActivated => 'Премиум активирован';
+
+  @override
+  String get purchase => 'Купить';
+
+  @override
+  String get restorePurchases => 'Восстановить покупки';
+
+  @override
+  String get purchaseFailed => 'Ошибка покупки';
+
+  @override
+  String get purchasesRestored => 'Покупки восстановлены';
+
+  @override
+  String get productNotAvailable => 'Продукт недоступен';
 }

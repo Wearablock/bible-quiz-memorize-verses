@@ -115,5 +115,14 @@
 
   "termsOfService": "Условия использования",
   "privacyPolicy": "Политика конфиденциальности",
-  "support": "Поддержка"
+  "support": "Поддержка",
+
+  "premium": "Премиум",
+  "removeAds": "Убрать рекламу",
+  "premiumActivated": "Премиум активирован",
+  "purchase": "Купить",
+  "restorePurchases": "Восстановить покупки",
+  "purchaseFailed": "Ошибка покупки",
+  "purchasesRestored": "Покупки восстановлены",
+  "productNotAvailable": "Продукт недоступен"
 }
