@@ -38,11 +38,17 @@ class QuizNotifier extends StateNotifier<QuizState> {
     state = state.copyWith(phase: QuizPhase.loading);
 
     try {
+      // 이미 푼 문제 ID 조회 (안 푼 문제 우선)
+      final answeredIds = await _historyRepository.getAnsweredQuestionIds(
+        categoryId: categoryId,
+      );
+
       final questions = await _questionRepository.getQuestionsByCategory(
         categoryId: categoryId,
         locale: locale,
         limit: questionCount,
         shuffle: true,
+        answeredIds: answeredIds,
       );
 
       if (questions.isEmpty) {
@@ -71,10 +77,14 @@ class QuizNotifier extends StateNotifier<QuizState> {
     state = state.copyWith(phase: QuizPhase.loading);
 
     try {
+      // 이미 푼 문제 ID 조회 (안 푼 문제 우선)
+      final answeredIds = await _historyRepository.getAnsweredQuestionIds();
+
       final questions = await _questionRepository.getRandomQuestions(
         locale: locale,
         count: questionCount,
         categoryIds: categoryIds,
+        answeredIds: answeredIds,
       );
 
       if (questions.isEmpty) {

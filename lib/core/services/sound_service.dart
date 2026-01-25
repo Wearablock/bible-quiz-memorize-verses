@@ -3,10 +3,17 @@ import 'package:flutter/foundation.dart';
 
 /// 사운드 효과 타입
 enum SoundEffect {
+  /// 정답 선택 시
   correct,
+  /// 오답 선택 시
   wrong,
+  /// 타이머 틱
   tick,
-  complete,
+  /// 퀴즈 통과 (50% 이상)
+  quizPass,
+  /// 퀴즈 미통과 (50% 미만)
+  quizFail,
+  /// 힌트 사용
   hint,
 }
 
@@ -30,7 +37,8 @@ class SoundService {
       SoundEffect.correct => 'sounds/correct.mp3',
       SoundEffect.wrong => 'sounds/wrong.mp3',
       SoundEffect.tick => 'sounds/tick.mp3',
-      SoundEffect.complete => 'sounds/complete.mp3',
+      SoundEffect.quizPass => 'sounds/correct.mp3',   // 통과: correct.mp3 사용
+      SoundEffect.quizFail => 'sounds/complete.mp3',  // 미통과: complete.mp3 사용
       SoundEffect.hint => 'sounds/hint.mp3',
     };
 

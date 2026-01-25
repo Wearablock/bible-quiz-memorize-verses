@@ -21,18 +21,14 @@ class QuizCompleteView extends ConsumerStatefulWidget {
 class _QuizCompleteViewState extends ConsumerState<QuizCompleteView> {
   bool _feedbackTriggered = false;
 
-  @override
-  void initState() {
-    super.initState();
-    WidgetsBinding.instance.addPostFrameCallback((_) {
-      _triggerFeedback();
-    });
-  }
-
-  void _triggerFeedback() {
+  /// 퀴즈 완료 피드백 (점수 기반)
+  /// 기준: 50% 이상 통과
+  void _triggerFeedback(int accuracyPercent) {
     if (_feedbackTriggered) return;
     _feedbackTriggered = true;
-    FeedbackService().onQuizComplete();
+
+    final isPassed = accuracyPercent >= 50;
+    FeedbackService().onQuizComplete(isPassed: isPassed);
   }
 
   @override
@@ -48,6 +44,11 @@ class _QuizCompleteViewState extends ConsumerState<QuizCompleteView> {
         ),
       );
     }
+
+    // 결과가 있을 때 피드백 재생 (한 번만)
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      _triggerFeedback(result.accuracyPercent);
+    });
 
     return Padding(
       padding: const EdgeInsets.all(24),

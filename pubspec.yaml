@@ -54,6 +54,9 @@ dependencies:
   # WebView
   webview_flutter: ^4.13.0
 
+  # App Update
+  upgrader: ^12.5.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

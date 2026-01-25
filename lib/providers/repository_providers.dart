@@ -66,3 +66,9 @@ final preferredLocaleProvider = StreamProvider<String?>((ref) {
   final repository = ref.watch(settingsRepositoryProvider);
   return repository.watchPreferredLocale();
 });
+
+/// 틀린 문제 ID 목록 Provider (실시간 업데이트)
+final wrongQuestionIdsProvider = StreamProvider<List<String>>((ref) {
+  final repository = ref.watch(quizHistoryRepositoryProvider);
+  return repository.watchWrongQuestionIds();
+});

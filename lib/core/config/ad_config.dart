@@ -24,8 +24,8 @@ class AdConfig {
           : 'ca-app-pub-3940256099942544/2934735716'; // iOS 테스트
     }
     return Platform.isAndroid
-        ? 'ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX' // Android 실제 ID
-        : 'ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX'; // iOS 실제 ID
+        ? 'ca-app-pub-8841058711613546/1726640787' // Android 실제 ID
+        : 'ca-app-pub-8841058711613546/2575536644'; // iOS 실제 ID
   }
 
   // ============================================================
@@ -38,8 +38,8 @@ class AdConfig {
           : 'ca-app-pub-3940256099942544/4411468910'; // iOS 테스트
     }
     return Platform.isAndroid
-        ? 'ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX' // Android 실제 ID
-        : 'ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX'; // iOS 실제 ID
+        ? 'ca-app-pub-8841058711613546/9413559115' // Android 실제 ID
+        : 'ca-app-pub-8841058711613546/8020586390'; // iOS 실제 ID
   }
 
   // ============================================================
@@ -52,15 +52,15 @@ class AdConfig {
           : 'ca-app-pub-3940256099942544/1712485313'; // iOS 테스트
     }
     return Platform.isAndroid
-        ? 'ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX' // Android 실제 ID
-        : 'ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX'; // iOS 실제 ID
+        ? 'ca-app-pub-8841058711613546/4915254367' // Android 실제 ID
+        : 'ca-app-pub-8841058711613546/3836647423'; // iOS 실제 ID
   }
 
   // ============================================================
-  // 앱 ID (AndroidManifest, Info.plist에 설정)
+  // 앱 ID (AndroidManifest, Info.plist에 설정 필요)
   // ============================================================
-  // Android: ca-app-pub-XXXXXXXXXXXXXXXX~XXXXXXXXXX
-  // iOS: ca-app-pub-XXXXXXXXXXXXXXXX~XXXXXXXXXX
+  // Android: ca-app-pub-8841058711613546~1163711616
+  // iOS: ca-app-pub-8841058711613546~5102956627
   // 테스트: ca-app-pub-3940256099942544~3347511713 (Android)
   // 테스트: ca-app-pub-3940256099942544~1458002511 (iOS)
 }

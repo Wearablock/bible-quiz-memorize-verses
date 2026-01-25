@@ -12,20 +12,18 @@ class ReviewScreen extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final l10n = AppLocalizations.of(context)!;
+    final wrongIdsAsync = ref.watch(wrongQuestionIdsProvider);
 
     return Scaffold(
       appBar: AppBar(
         title: Text(l10n.review),
       ),
-      body: FutureBuilder<List<String>>(
-        future: ref.read(quizHistoryRepositoryProvider).getWrongQuestionIds(),
-        builder: (context, snapshot) {
-          if (snapshot.connectionState == ConnectionState.waiting) {
-            return const Center(child: CircularProgressIndicator());
-          }
-
-          final wrongIds = snapshot.data ?? [];
-
+      body: wrongIdsAsync.when(
+        loading: () => const Center(child: CircularProgressIndicator()),
+        error: (error, stack) => Center(
+          child: Text('Error: $error'),
+        ),
+        data: (wrongIds) {
           if (wrongIds.isEmpty) {
             return Center(
               child: Column(

@@ -57,6 +57,11 @@ class QuizHistoryRepository {
     return _dao.getWrongQuestionIds(categoryId: categoryId);
   }
 
+  /// 틀린 문제 ID 목록 스트림 (실시간 업데이트)
+  Stream<List<String>> watchWrongQuestionIds({String? categoryId}) {
+    return _dao.watchWrongQuestionIds(categoryId: categoryId);
+  }
+
   /// 푼 문제 ID 목록
   Future<List<String>> getAnsweredQuestionIds({String? categoryId}) {
     return _dao.getAnsweredQuestionIds(categoryId: categoryId);

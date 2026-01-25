@@ -209,4 +209,29 @@ class QuizHistoryDao extends DatabaseAccessor<AppDatabase>
       );
     });
   }
+
+  /// 틀린 문제 ID 목록 스트림 (실시간 업데이트)
+  Stream<List<String>> watchWrongQuestionIds({String? categoryId}) {
+    var query = select(quizHistory);
+
+    if (categoryId != null) {
+      query = query..where((t) => t.categoryId.equals(categoryId));
+    }
+
+    return (query..orderBy([(t) => OrderingTerm.desc(t.answeredAt)]))
+        .watch()
+        .map((results) {
+      // 문제별 가장 최근 기록만 유지
+      final latestByQuestion = <String, QuizHistoryData>{};
+      for (final result in results) {
+        latestByQuestion.putIfAbsent(result.questionId, () => result);
+      }
+
+      // 틀린 문제만 필터링
+      return latestByQuestion.entries
+          .where((e) => !e.value.isCorrect)
+          .map((e) => e.key)
+          .toList();
+    });
+  }
 }

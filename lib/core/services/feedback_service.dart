@@ -44,11 +44,12 @@ class FeedbackService {
     ]);
   }
 
-  /// 퀴즈 완료 피드백
-  Future<void> onQuizComplete() async {
+  /// 퀴즈 완료 피드백 (점수에 따라 다른 효과음)
+  /// [isPassed] - 기준점 통과 여부 (기본 50%)
+  Future<void> onQuizComplete({required bool isPassed}) async {
     await Future.wait([
-      _sound.play(SoundEffect.complete),
-      _haptic.trigger(HapticType.heavy),
+      _sound.play(isPassed ? SoundEffect.quizPass : SoundEffect.quizFail),
+      _haptic.trigger(isPassed ? HapticType.heavy : HapticType.warning),
     ]);
   }
 

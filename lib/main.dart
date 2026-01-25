@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
+import 'package:upgrader/upgrader.dart';
 import 'l10n/generated/app_localizations.dart';
 import 'core/theme/app_theme.dart';
 import 'core/services/ad_service.dart';
@@ -114,7 +115,11 @@ class TriviaQuizApp extends ConsumerWidget {
       ],
       supportedLocales: supportedLocales,
 
-      home: const MainShell(),
+      home: UpgradeAlert(
+        showIgnore: false,  // "무시" 버튼 숨김 (권장)
+        showLater: true,    // "나중에" 버튼 표시
+        child: const MainShell(),
+      ),
     );
   }
 

@@ -7,10 +7,10 @@
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
 
-        <!-- AdMob 앱 ID (테스트용, 릴리즈 시 실제 ID로 교체) -->
+        <!-- AdMob 앱 ID -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3940256099942544~3347511713"/>
+            android:value="ca-app-pub-8841058711613546~1163711616"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"
