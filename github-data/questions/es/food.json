@@ -1,0 +1,37 @@
+{
+  "q_foo_001": {
+    "question": "De que pais es originario el sushi?",
+    "correct": "Japon",
+    "wrong": ["China", "Corea", "Tailandia"],
+    "explanation": "El sushi se origino en Japon, con formas tempranas que datan del siglo VIII.",
+    "hint": "Este pais asiatico es famoso por los samurais, el anime y el Monte Fuji."
+  },
+  "q_foo_002": {
+    "question": "Cual es el ingrediente principal del guacamole?",
+    "correct": "Aguacate",
+    "wrong": ["Tomate", "Pimiento", "Cebolla"],
+    "explanation": "El guacamole es una salsa mexicana hecha principalmente de aguacates machacados.",
+    "hint": "Esta fruta verde y cremosa tambien se conoce como 'palta' en algunos paises."
+  },
+  "q_foo_003": {
+    "question": "Que vitamina se encuentra en abundancia en los citricos?",
+    "correct": "Vitamina C",
+    "wrong": ["Vitamina A", "Vitamina D", "Vitamina B12"],
+    "explanation": "Los citricos como las naranjas y los limones son fuentes ricas de Vitamina C.",
+    "hint": "Esta vitamina ayuda a prevenir el escorbuto y refuerza el sistema inmunologico."
+  },
+  "q_foo_004": {
+    "question": "Que tipo de pasta tiene forma de pequenos granos de arroz?",
+    "correct": "Orzo",
+    "wrong": ["Penne", "Fusilli", "Farfalle"],
+    "explanation": "El orzo es una pasta con forma de arroz que se usa frecuentemente en sopas y ensaladas.",
+    "hint": "Su nombre en italiano significa 'cebada' y es muy pequena comparada con otras pastas."
+  },
+  "q_foo_005": {
+    "question": "Que especia le da al curry su color amarillo?",
+    "correct": "Curcuma",
+    "wrong": ["Pimenton", "Comino", "Cilantro"],
+    "explanation": "La curcuma contiene curcumina, que le da al curry su distintivo color amarillo.",
+    "hint": "Esta especia tambien se usa como colorante natural y tiene propiedades antiinflamatorias."
+  }
+}

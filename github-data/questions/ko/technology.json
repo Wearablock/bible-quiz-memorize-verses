@@ -1,0 +1,37 @@
+{
+  "q_tec_001": {
+    "question": "전화기를 발명한 사람은 누구인가요?",
+    "correct": "알렉산더 그레이엄 벨",
+    "wrong": ["토머스 에디슨", "니콜라 테슬라", "굴리엘모 마르코니"],
+    "hint": "최초의 전화 통화에서 'Mr. Watson, come here'라고 말한 인물입니다.",
+    "explanation": "알렉산더 그레이엄 벨은 1876년에 전화기 특허를 받았습니다."
+  },
+  "q_tec_002": {
+    "question": "'HTTP'는 무엇의 약자인가요?",
+    "correct": "HyperText Transfer Protocol",
+    "wrong": ["High Tech Transfer Protocol", "HyperText Technical Process", "Home Tool Transfer Protocol"],
+    "hint": "웹사이트 주소 앞에 보이는 것입니다.",
+    "explanation": "HTTP는 월드 와이드 웹에서 데이터 통신의 기반입니다."
+  },
+  "q_tec_003": {
+    "question": "첫 번째 아이폰은 몇 년에 출시되었나요?",
+    "correct": "2007년",
+    "wrong": ["2005년", "2008년", "2010년"],
+    "hint": "스티브 잡스가 샌프란시스코 맥월드에서 공개했습니다.",
+    "explanation": "애플은 2007년 6월 29일에 첫 번째 아이폰을 출시했습니다."
+  },
+  "q_tec_004": {
+    "question": "웹 브라우저에서 사용되는 것으로 유명한 프로그래밍 언어는 무엇인가요?",
+    "correct": "자바스크립트",
+    "wrong": ["파이썬", "자바", "C++"],
+    "hint": "이름과 달리 자바와는 관련이 없으며 브라우저에서 실행됩니다.",
+    "explanation": "자바스크립트는 브라우저에서 대화형 웹 콘텐츠의 주요 언어입니다."
+  },
+  "q_tec_005": {
+    "question": "마이크로소프트를 설립한 사람은 누구인가요?",
+    "correct": "빌 게이츠와 폴 앨런",
+    "wrong": ["스티브 잡스", "마크 저커버그", "제프 베조스"],
+    "hint": "1975년 뉴멕시코주 앨버커키에서 회사를 시작했습니다.",
+    "explanation": "빌 게이츠와 폴 앨런은 1975년에 마이크로소프트를 설립했습니다."
+  }
+}

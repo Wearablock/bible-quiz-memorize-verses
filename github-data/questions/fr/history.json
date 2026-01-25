@@ -1,0 +1,37 @@
+{
+  "q_his_001": {
+    "question": "En quelle annee la Seconde Guerre mondiale a-t-elle pris fin ?",
+    "correct": "1945",
+    "wrong": ["1944", "1946", "1943"],
+    "explanation": "La Seconde Guerre mondiale a pris fin en 1945 avec la capitulation de l'Allemagne en mai et du Japon en septembre.",
+    "hint": "C'est l'annee ou les bombes atomiques ont ete larguees sur Hiroshima et Nagasaki."
+  },
+  "q_his_002": {
+    "question": "Qui fut le premier president des Etats-Unis ?",
+    "correct": "George Washington",
+    "wrong": ["Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+    "explanation": "George Washington a ete le premier president americain de 1789 a 1797.",
+    "hint": "La capitale federale americaine porte son nom."
+  },
+  "q_his_003": {
+    "question": "Quelle civilisation ancienne a construit les pyramides de Gizeh ?",
+    "correct": "Les anciens Egyptiens",
+    "wrong": ["Les Romains", "Les Grecs", "Les Mesopotamiens"],
+    "explanation": "La Grande Pyramide de Gizeh a ete construite vers 2560 av. J.-C. pour le pharaon Kheops.",
+    "hint": "Cette civilisation venerait les pharaons et pratiquait la momification."
+  },
+  "q_his_004": {
+    "question": "En quelle annee le mur de Berlin est-il tombe ?",
+    "correct": "1989",
+    "wrong": ["1987", "1991", "1985"],
+    "explanation": "Le mur de Berlin est tombe le 9 novembre 1989, marquant un moment decisif de la fin de la Guerre froide.",
+    "hint": "C'etait un an avant la reunification allemande officielle en 1990."
+  },
+  "q_his_005": {
+    "question": "Quel empire etait dirige par Gengis Khan ?",
+    "correct": "Empire mongol",
+    "wrong": ["Empire ottoman", "Empire romain", "Empire perse"],
+    "explanation": "Gengis Khan a fonde et dirige l'Empire mongol, le plus grand empire terrestre contigu de l'histoire.",
+    "hint": "Cet empire originaire des steppes d'Asie centrale s'etendait de la Chine jusqu'a l'Europe de l'Est."
+  }
+}

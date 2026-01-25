@@ -1,7 +1,9 @@
 import 'dart:convert';
 import 'dart:math';
 import 'package:flutter/services.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../models/question.dart';
+import '../../core/constants/remote_config.dart';
 
 class QuestionRepository {
   /// 로케일별 문제 캐시: {locale: {categoryId: {questionId: QuestionContent}}}
@@ -137,11 +139,12 @@ class QuestionRepository {
   }
 
   /// 카테고리 콘텐츠 로드 (캐싱)
+  /// 우선순위: 메모리 캐시 → 로컬 저장소 (SharedPreferences) → Assets
   Future<Map<String, QuestionContent>> _loadCategoryContent(
     String categoryId,
     String locale,
   ) async {
-    // 캐시 확인
+    // 1순위: 메모리 캐시
     if (_contentCache[locale]?[categoryId] != null) {
       return _contentCache[locale]![categoryId]!;
     }
@@ -149,10 +152,23 @@ class QuestionRepository {
     // 로케일 폴백 처리
     final effectiveLocale = await _getEffectiveLocale(locale, categoryId);
 
-    // JSON 로드
-    final jsonString = await rootBundle.loadString(
+    String? jsonString;
+
+    // 2순위: 로컬 저장소 (원격 동기화 데이터)
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final key =
+          '${RemoteConfig.localDataPrefix}${effectiveLocale}_$categoryId';
+      jsonString = prefs.getString(key);
+    } catch (_) {
+      // SharedPreferences 오류 시 무시
+    }
+
+    // 3순위: Assets (앱 번들)
+    jsonString ??= await rootBundle.loadString(
       'assets/data/questions/$effectiveLocale/$categoryId.json',
     );
+
     final jsonData = json.decode(jsonString) as Map<String, dynamic>;
 
     // 파싱

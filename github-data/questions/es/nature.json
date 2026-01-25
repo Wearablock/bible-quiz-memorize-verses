@@ -1,0 +1,37 @@
+{
+  "q_nat_001": {
+    "question": "Cual es el mamifero mas grande del mundo?",
+    "correct": "Ballena Azul",
+    "wrong": ["Elefante", "Jirafa", "Hipopotamo"],
+    "explanation": "Las ballenas azules pueden alcanzar longitudes de mas de 30 metros y pesar hasta 180 toneladas.",
+    "hint": "Este gigante marino tiene el corazon del tamano de un automovil pequeno."
+  },
+  "q_nat_002": {
+    "question": "Cuantas patas tiene una arana?",
+    "correct": "8",
+    "wrong": ["6", "10", "12"],
+    "explanation": "Todas las aranas son aracnidos y tienen 8 patas.",
+    "hint": "Tienen dos patas mas que los insectos y pertenecen al grupo de los aracnidos."
+  },
+  "q_nat_003": {
+    "question": "Cual es la especie de arbol mas alta del mundo?",
+    "correct": "Secuoya Roja",
+    "wrong": ["Secuoya Gigante", "Eucalipto", "Abeto de Douglas"],
+    "explanation": "Las Secuoyas Rojas pueden crecer mas de 115 metros de altura.",
+    "hint": "Estos arboles crecen en la costa de California y su corteza tiene un color rojizo."
+  },
+  "q_nat_004": {
+    "question": "Que gas absorben las plantas de la atmosfera?",
+    "correct": "Dioxido de Carbono",
+    "wrong": ["Oxigeno", "Nitrogeno", "Hidrogeno"],
+    "explanation": "Las plantas usan dioxido de carbono en la fotosintesis para producir oxigeno y glucosa.",
+    "hint": "Es el gas que los humanos exhalamos y tiene la formula quimica CO2."
+  },
+  "q_nat_005": {
+    "question": "Cual es el animal terrestre mas rapido?",
+    "correct": "Guepardo",
+    "wrong": ["Leon", "Gacela", "Caballo"],
+    "explanation": "Los guepardos pueden alcanzar velocidades de hasta 112 km/h.",
+    "hint": "Este felino africano tiene manchas negras y un cuerpo aerodinamico para la velocidad."
+  }
+}

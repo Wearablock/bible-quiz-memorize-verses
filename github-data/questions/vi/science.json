@@ -1,0 +1,37 @@
+{
+  "q_sci_001": {
+    "question": "Công thức hóa học của nước là gì?",
+    "correct": "H2O",
+    "wrong": ["CO2", "NaCl", "O2"],
+    "explanation": "Nước bao gồm hai nguyên tử hydro và một nguyên tử oxy.",
+    "hint": "Công thức này có 2 nguyên tử của nguyên tố nhẹ nhất và 1 nguyên tử của nguyên tố cần thiết cho sự hô hấp."
+  },
+  "q_sci_002": {
+    "question": "Hành tinh nào được gọi là Hành tinh Đỏ?",
+    "correct": "Sao Hỏa",
+    "wrong": ["Sao Kim", "Sao Mộc", "Sao Thổ"],
+    "explanation": "Sao Hỏa có màu đỏ do oxit sắt (gỉ sắt) trên bề mặt.",
+    "hint": "Hành tinh này được đặt tên theo thần chiến tranh La Mã và NASA đã gửi nhiều robot thám hiểm đến đây."
+  },
+  "q_sci_003": {
+    "question": "Chất cứng nhất trong tự nhiên trên Trái Đất là gì?",
+    "correct": "Kim cương",
+    "wrong": ["Vàng", "Sắt", "Thạch anh"],
+    "explanation": "Kim cương đạt mức 10 trên thang độ cứng Mohs, mức cao nhất.",
+    "hint": "Chất này được tạo thành từ carbon tinh khiết dưới áp suất và nhiệt độ cực cao, thường dùng làm trang sức."
+  },
+  "q_sci_004": {
+    "question": "Tốc độ ánh sáng trong chân không là bao nhiêu?",
+    "correct": "299.792 km/s",
+    "wrong": ["150.000 km/s", "500.000 km/s", "1.000.000 km/s"],
+    "explanation": "Ánh sáng di chuyển với tốc độ khoảng 299.792 km mỗi giây trong chân không.",
+    "hint": "Con số này xấp xỉ 300.000 km/s, được ký hiệu là 'c' trong phương trình nổi tiếng E=mc² của Einstein."
+  },
+  "q_sci_005": {
+    "question": "Đơn vị nhỏ nhất của vật chất là gì?",
+    "correct": "Nguyên tử",
+    "wrong": ["Phân tử", "Tế bào", "Electron"],
+    "explanation": "Mặc dù có các hạt hạ nguyên tử, nguyên tử là đơn vị nhỏ nhất giữ được các tính chất hóa học.",
+    "hint": "Đơn vị này gồm proton, neutron và electron, và tên của nó trong tiếng Hy Lạp có nghĩa là 'không thể chia nhỏ'."
+  }
+}

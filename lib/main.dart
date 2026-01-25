@@ -6,6 +6,8 @@ import 'l10n/generated/app_localizations.dart';
 import 'core/theme/app_theme.dart';
 import 'core/services/ad_service.dart';
 import 'core/services/feedback_service.dart';
+import 'core/services/remote_sync_service.dart';
+import 'data/models/sync_result.dart';
 import 'features/main/main_shell.dart';
 import 'providers/repository_providers.dart';
 
@@ -32,6 +34,26 @@ void main() async {
       child: TriviaQuizApp(),
     ),
   );
+
+  // 앱 시작 후 백그라운드에서 퀴즈 데이터 동기화
+  _syncQuizDataInBackground();
+}
+
+/// 백그라운드에서 퀴즈 데이터 동기화
+void _syncQuizDataInBackground() {
+  Future.microtask(() async {
+    final syncService = RemoteSyncService();
+    final result = await syncService.syncFromRemote();
+
+    debugPrint('[Main] Sync result: ${result.status.name}');
+
+    if (result.status == SyncStatus.completed) {
+      debugPrint(
+          '[Main] Quiz data updated to v${result.newVersion} (${result.downloadedFiles} files)');
+    } else if (result.status == SyncStatus.failed) {
+      debugPrint('[Main] Sync failed: ${result.errorMessage}');
+    }
+  });
 }
 
 class TriviaQuizApp extends ConsumerWidget {

@@ -1,0 +1,44 @@
+{
+  "q_geo_001": {
+    "question": "Apa ibu kota Prancis?",
+    "correct": "Paris",
+    "wrong": ["London", "Berlin", "Madrid"],
+    "explanation": "Paris telah menjadi ibu kota Prancis sejak akhir abad ke-10.",
+    "hint": "Kota ini terkenal dengan Menara Eiffel dan sering disebut 'Kota Cinta'."
+  },
+  "q_geo_002": {
+    "question": "Manakah samudra terbesar di Bumi?",
+    "correct": "Samudra Pasifik",
+    "wrong": ["Samudra Atlantik", "Samudra Hindia", "Samudra Arktik"],
+    "explanation": "Samudra Pasifik mencakup sekitar 165 juta kilometer persegi.",
+    "hint": "Samudra ini terletak di antara Asia dan Amerika, dan namanya berarti 'damai'."
+  },
+  "q_geo_003": {
+    "question": "Negara mana yang memiliki garis pantai terpanjang di dunia?",
+    "correct": "Kanada",
+    "wrong": ["Rusia", "Australia", "Indonesia"],
+    "explanation": "Kanada memiliki lebih dari 202.080 km garis pantai.",
+    "hint": "Negara ini berbatasan dengan tiga samudra dan terkenal dengan daun maple di benderanya."
+  },
+  "q_geo_004": {
+    "question": "Apa ibu kota Australia?",
+    "correct": "Canberra",
+    "wrong": ["Sydney", "Melbourne", "Brisbane"],
+    "explanation": "Canberra dipilih sebagai ibu kota pada tahun 1908 sebagai kompromi antara Sydney dan Melbourne.",
+    "hint": "Bukan kota terbesar di Australia, tetapi kota yang dibangun khusus sebagai pusat pemerintahan."
+  },
+  "q_geo_005": {
+    "question": "Sungai mana yang mengalir melalui negara paling banyak?",
+    "correct": "Sungai Donau",
+    "wrong": ["Sungai Nil", "Sungai Amazon", "Sungai Rhine"],
+    "explanation": "Sungai Donau mengalir melalui 10 negara di Eropa.",
+    "hint": "Sungai ini mengalir di Eropa dan menginspirasi waltz terkenal karya Johann Strauss II."
+  },
+  "q_geo_100": {
+    "question": "Apa gunung tertinggi di dunia?",
+    "correct": "Gunung Everest",
+    "wrong": ["K2", "Kangchenjunga", "Lhotse"],
+    "hint": "Terletak di pegunungan Himalaya di perbatasan Nepal dan Tibet.",
+    "explanation": "Gunung Everest memiliki ketinggian 8.849 meter di atas permukaan laut."
+  }
+}

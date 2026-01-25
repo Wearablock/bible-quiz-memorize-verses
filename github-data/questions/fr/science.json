@@ -1,0 +1,37 @@
+{
+  "q_sci_001": {
+    "question": "Quel est le symbole chimique de l'eau ?",
+    "correct": "H2O",
+    "wrong": ["CO2", "NaCl", "O2"],
+    "explanation": "L'eau est composee de deux atomes d'hydrogene et d'un atome d'oxygene.",
+    "hint": "La formule contient deux atomes d'hydrogene (H) et un atome d'oxygene (O)."
+  },
+  "q_sci_002": {
+    "question": "Quelle planete est connue sous le nom de planete rouge ?",
+    "correct": "Mars",
+    "wrong": ["Venus", "Jupiter", "Saturne"],
+    "explanation": "Mars apparait rouge en raison de l'oxyde de fer (rouille) a sa surface.",
+    "hint": "Cette planete porte le nom du dieu romain de la guerre."
+  },
+  "q_sci_003": {
+    "question": "Quelle est la substance naturelle la plus dure sur Terre ?",
+    "correct": "Diamant",
+    "wrong": ["Or", "Fer", "Quartz"],
+    "explanation": "Le diamant obtient la note de 10 sur l'echelle de durete de Mohs, la note maximale.",
+    "hint": "Cette pierre precieuse est composee uniquement de carbone cristallise."
+  },
+  "q_sci_004": {
+    "question": "Quelle est la vitesse de la lumiere dans le vide ?",
+    "correct": "299 792 km/s",
+    "wrong": ["150 000 km/s", "500 000 km/s", "1 000 000 km/s"],
+    "explanation": "La lumiere se deplace a environ 299 792 kilometres par seconde dans le vide.",
+    "hint": "Cette vitesse est souvent arrondie a 300 000 km/s dans les calculs."
+  },
+  "q_sci_005": {
+    "question": "Quelle est la plus petite unite de matiere ?",
+    "correct": "Atome",
+    "wrong": ["Molecule", "Cellule", "Electron"],
+    "explanation": "Bien que des particules subatomiques existent, les atomes sont les plus petites unites conservant des proprietes chimiques.",
+    "hint": "Son nom vient du grec 'atomos' signifiant 'indivisible'."
+  }
+}

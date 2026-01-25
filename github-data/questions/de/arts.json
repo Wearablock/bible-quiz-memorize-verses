@@ -1,0 +1,37 @@
+{
+  "q_art_001": {
+    "question": "Wer malte die Mona Lisa?",
+    "correct": "Leonardo da Vinci",
+    "wrong": ["Michelangelo", "Raffael", "Botticelli"],
+    "explanation": "Leonardo da Vinci malte die Mona Lisa zwischen 1503 und 1519.",
+    "hint": "Dieses italienische Universalgenie entwarf auch Flugmaschinen und malte 'Das letzte Abendmahl'."
+  },
+  "q_art_002": {
+    "question": "Welcher Komponist schrieb die 'Neunte Sinfonie'?",
+    "correct": "Ludwig van Beethoven",
+    "wrong": ["Mozart", "Bach", "Chopin"],
+    "explanation": "Beethovens Neunte Sinfonie, vollendet 1824, enthält die berühmte 'Ode an die Freude'.",
+    "hint": "Dieser deutsche Komponist wurde in Bonn geboren und war bei der Komposition dieses Werkes bereits taub."
+  },
+  "q_art_003": {
+    "question": "In welcher Stadt befindet sich das Louvre-Museum?",
+    "correct": "Paris",
+    "wrong": ["London", "Rom", "Madrid"],
+    "explanation": "Der Louvre in Paris ist das größte Kunstmuseum der Welt.",
+    "hint": "Dieses Museum hat eine berühmte Glaspyramide als Eingang und liegt an der Seine."
+  },
+  "q_art_004": {
+    "question": "Wer schrieb 'Romeo und Julia'?",
+    "correct": "William Shakespeare",
+    "wrong": ["Charles Dickens", "Jane Austen", "Oscar Wilde"],
+    "explanation": "Shakespeare schrieb Romeo und Julia um 1594-1596.",
+    "hint": "Dieser englische Dramatiker aus Stratford-upon-Avon schrieb auch 'Hamlet' und 'Macbeth'."
+  },
+  "q_art_005": {
+    "question": "Welcher Kunstbewegung gehörte Salvador Dalí an?",
+    "correct": "Surrealismus",
+    "wrong": ["Impressionismus", "Kubismus", "Expressionismus"],
+    "explanation": "Dalí war eine führende Figur der surrealistischen Bewegung, bekannt für seine eindrucksvollen Bilder.",
+    "hint": "Diese Kunstrichtung zeigt traumartige, unwirkliche Szenen und wurde von Sigmund Freuds Theorien beeinflusst."
+  }
+}

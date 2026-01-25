@@ -1,0 +1,37 @@
+{
+  "q_his_001": {
+    "question": "In welchem Jahr endete der Zweite Weltkrieg?",
+    "correct": "1945",
+    "wrong": ["1944", "1946", "1943"],
+    "explanation": "Der Zweite Weltkrieg endete 1945 mit der Kapitulation Deutschlands im Mai und Japans im September.",
+    "hint": "Es war das Jahr, in dem die Atombomben auf Hiroshima und Nagasaki fielen."
+  },
+  "q_his_002": {
+    "question": "Wer war der erste Präsident der Vereinigten Staaten?",
+    "correct": "George Washington",
+    "wrong": ["Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+    "explanation": "George Washington war von 1789 bis 1797 der erste US-Präsident.",
+    "hint": "Nach ihm ist die Hauptstadt der USA und ein Bundesstaat benannt."
+  },
+  "q_his_003": {
+    "question": "Welche antike Zivilisation baute die Pyramiden von Gizeh?",
+    "correct": "Die alten Ägypter",
+    "wrong": ["Römer", "Griechen", "Mesopotamier"],
+    "explanation": "Die Große Pyramide von Gizeh wurde um 2560 v. Chr. für Pharao Cheops erbaut.",
+    "hint": "Diese Hochkultur entstand am Nil und ist für Hieroglyphen und Pharaonen bekannt."
+  },
+  "q_his_004": {
+    "question": "In welchem Jahr fiel die Berliner Mauer?",
+    "correct": "1989",
+    "wrong": ["1987", "1991", "1985"],
+    "explanation": "Die Berliner Mauer fiel am 9. November 1989 und markierte einen entscheidenden Moment am Ende des Kalten Krieges.",
+    "hint": "Es war im selben Jahr, in dem die friedliche Revolution in der DDR stattfand."
+  },
+  "q_his_005": {
+    "question": "Welches Reich wurde von Dschingis Khan regiert?",
+    "correct": "Mongolisches Reich",
+    "wrong": ["Osmanisches Reich", "Römisches Reich", "Persisches Reich"],
+    "explanation": "Dschingis Khan gründete und regierte das Mongolische Reich, das größte zusammenhängende Landreich der Geschichte.",
+    "hint": "Dieses Reich hatte seinen Ursprung in den Steppen Zentralasiens."
+  }
+}

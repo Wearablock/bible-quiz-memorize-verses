@@ -1,0 +1,37 @@
+{
+  "q_his_001": {
+    "question": "In which year did World War II end?",
+    "correct": "1945",
+    "wrong": ["1944", "1946", "1943"],
+    "hint": "The atomic bombs were dropped on Hiroshima and Nagasaki this year.",
+    "explanation": "World War II ended in 1945 with the surrender of Germany in May and Japan in September."
+  },
+  "q_his_002": {
+    "question": "Who was the first President of the United States?",
+    "correct": "George Washington",
+    "wrong": ["Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+    "hint": "His face is on the one-dollar bill.",
+    "explanation": "George Washington served as the first U.S. President from 1789 to 1797."
+  },
+  "q_his_003": {
+    "question": "Which ancient civilization built the pyramids of Giza?",
+    "correct": "Ancient Egyptians",
+    "wrong": ["Romans", "Greeks", "Mesopotamians"],
+    "hint": "They lived along the Nile River and were ruled by pharaohs.",
+    "explanation": "The Great Pyramid of Giza was built around 2560 BCE for Pharaoh Khufu."
+  },
+  "q_his_004": {
+    "question": "In what year did the Berlin Wall fall?",
+    "correct": "1989",
+    "wrong": ["1987", "1991", "1985"],
+    "hint": "This happened the year before German reunification in 1990.",
+    "explanation": "The Berlin Wall fell on November 9, 1989, marking a pivotal moment in the end of the Cold War."
+  },
+  "q_his_005": {
+    "question": "Which empire was ruled by Genghis Khan?",
+    "correct": "Mongol Empire",
+    "wrong": ["Ottoman Empire", "Roman Empire", "Persian Empire"],
+    "hint": "This empire originated from the steppes of Central Asia.",
+    "explanation": "Genghis Khan founded and ruled the Mongol Empire, the largest contiguous land empire in history."
+  }
+}

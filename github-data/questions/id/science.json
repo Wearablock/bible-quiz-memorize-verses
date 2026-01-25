@@ -1,0 +1,37 @@
+{
+  "q_sci_001": {
+    "question": "Apa simbol kimia untuk air?",
+    "correct": "H2O",
+    "wrong": ["CO2", "NaCl", "O2"],
+    "explanation": "Air terdiri dari dua atom hidrogen dan satu atom oksigen.",
+    "hint": "Rumusnya menggabungkan simbol hidrogen dengan oksigen, dengan angka 2 menunjukkan jumlah atom hidrogen."
+  },
+  "q_sci_002": {
+    "question": "Planet apa yang dikenal sebagai Planet Merah?",
+    "correct": "Mars",
+    "wrong": ["Venus", "Jupiter", "Saturnus"],
+    "explanation": "Mars tampak merah karena oksida besi (karat) di permukaannya.",
+    "hint": "Planet ini dinamai dewa perang Romawi dan memiliki gunung tertinggi di tata surya, Olympus Mons."
+  },
+  "q_sci_003": {
+    "question": "Apa zat alami terkeras di Bumi?",
+    "correct": "Berlian",
+    "wrong": ["Emas", "Besi", "Kuarsa"],
+    "explanation": "Berlian memiliki nilai 10 pada skala kekerasan Mohs, peringkat maksimum.",
+    "hint": "Batu mulia ini terbuat dari karbon murni dan sering digunakan dalam cincin pertunangan."
+  },
+  "q_sci_004": {
+    "question": "Berapa kecepatan cahaya dalam ruang hampa?",
+    "correct": "299.792 km/detik",
+    "wrong": ["150.000 km/detik", "500.000 km/detik", "1.000.000 km/detik"],
+    "explanation": "Cahaya bergerak dengan kecepatan sekitar 299.792 kilometer per detik dalam ruang hampa.",
+    "hint": "Kecepatannya mendekati 300.000 km/detik dan dilambangkan dengan huruf 'c' dalam fisika."
+  },
+  "q_sci_005": {
+    "question": "Apa unit terkecil dari materi?",
+    "correct": "Atom",
+    "wrong": ["Molekul", "Sel", "Elektron"],
+    "explanation": "Meskipun partikel subatomik ada, atom adalah unit terkecil yang mempertahankan sifat kimia.",
+    "hint": "Namanya berasal dari bahasa Yunani yang berarti 'tidak dapat dibagi' dan terdiri dari proton, neutron, dan elektron."
+  }
+}

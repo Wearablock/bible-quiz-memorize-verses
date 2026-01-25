@@ -1,0 +1,37 @@
+{
+  "q_tec_001": {
+    "question": "Siapa yang dikreditkan sebagai penemu telepon?",
+    "correct": "Alexander Graham Bell",
+    "wrong": ["Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "explanation": "Alexander Graham Bell mematenkan telepon pada tahun 1876.",
+    "hint": "Penemu asal Skotlandia-Amerika ini juga mendirikan perusahaan yang kemudian menjadi AT&T."
+  },
+  "q_tec_002": {
+    "question": "Apa kepanjangan dari 'HTTP'?",
+    "correct": "HyperText Transfer Protocol",
+    "wrong": ["High Tech Transfer Protocol", "HyperText Technical Process", "Home Tool Transfer Protocol"],
+    "explanation": "HTTP adalah fondasi komunikasi data di World Wide Web.",
+    "hint": "Protokol ini dimulai dengan kata 'Hyper' dan digunakan untuk mentransfer halaman web."
+  },
+  "q_tec_003": {
+    "question": "Pada tahun berapa iPhone pertama dirilis?",
+    "correct": "2007",
+    "wrong": ["2005", "2008", "2010"],
+    "explanation": "Apple merilis iPhone pertama pada tanggal 29 Juni 2007.",
+    "hint": "Steve Jobs memperkenalkannya di tahun yang sama dengan peluncuran Windows Vista."
+  },
+  "q_tec_004": {
+    "question": "Bahasa pemrograman apa yang dikenal untuk penggunaannya di browser web?",
+    "correct": "JavaScript",
+    "wrong": ["Python", "Java", "C++"],
+    "explanation": "JavaScript adalah bahasa utama untuk konten web interaktif di browser.",
+    "hint": "Namanya mengandung kata 'Script' dan sering disingkat menjadi 'JS'."
+  },
+  "q_tec_005": {
+    "question": "Siapa yang mendirikan Microsoft?",
+    "correct": "Bill Gates dan Paul Allen",
+    "wrong": ["Steve Jobs", "Mark Zuckerberg", "Jeff Bezos"],
+    "explanation": "Bill Gates dan Paul Allen mendirikan Microsoft pada tahun 1975.",
+    "hint": "Dua sahabat masa kecil ini memulai perusahaan di garasi dan salah satunya menjadi orang terkaya di dunia."
+  }
+}

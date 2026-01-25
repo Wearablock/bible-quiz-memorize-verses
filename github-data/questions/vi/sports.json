@@ -1,0 +1,37 @@
+{
+  "q_spo_001": {
+    "question": "Một đội bóng đá có bao nhiêu cầu thủ trên sân?",
+    "correct": "11",
+    "wrong": ["9", "10", "12"],
+    "explanation": "Mỗi đội bóng đá có 11 cầu thủ trên sân bao gồm cả thủ môn.",
+    "hint": "Con số này bao gồm 1 thủ môn và 10 cầu thủ ngoài sân."
+  },
+  "q_spo_002": {
+    "question": "Trong môn thể thao nào bạn sẽ thực hiện cú slam dunk?",
+    "correct": "Bóng rổ",
+    "wrong": ["Bóng chuyền", "Quần vợt", "Bóng chày"],
+    "explanation": "Slam dunk là động tác bóng rổ khi cầu thủ nhảy lên và ghi điểm bằng cách đưa bóng trực tiếp qua vành rổ.",
+    "hint": "Môn thể thao này được chơi trên sân có hai rổ cao 3,05 mét, Michael Jordan là huyền thoại của môn này."
+  },
+  "q_spo_003": {
+    "question": "Quốc gia nào đã giành nhiều danh hiệu FIFA World Cup nhất?",
+    "correct": "Brazil",
+    "wrong": ["Đức", "Ý", "Argentina"],
+    "explanation": "Brazil đã giành FIFA World Cup 5 lần (1958, 1962, 1970, 1994, 2002).",
+    "hint": "Quốc gia Nam Mỹ này nổi tiếng với các huyền thoại Pelé, Ronaldo và Neymar, đội tuyển mặc áo vàng."
+  },
+  "q_spo_004": {
+    "question": "Điểm số cao nhất có thể đạt được trong bowling 10 ky là bao nhiêu?",
+    "correct": "300",
+    "wrong": ["200", "250", "350"],
+    "explanation": "Một ván bowling hoàn hảo đạt 300 điểm với 12 cú strike liên tiếp.",
+    "hint": "Số điểm này đạt được khi đánh đổ tất cả 10 ky trong mỗi lượt ném, 12 lần liên tiếp."
+  },
+  "q_spo_005": {
+    "question": "Giải Grand Slam quần vợt nào được thi đấu trên sân đất nện?",
+    "correct": "Pháp Mở rộng",
+    "wrong": ["Wimbledon", "Mỹ Mở rộng", "Úc Mở rộng"],
+    "explanation": "Giải Pháp Mở rộng tại Roland Garros là giải Grand Slam duy nhất thi đấu trên sân đất nện.",
+    "hint": "Giải đấu này diễn ra tại Paris mỗi tháng 5-6, Rafael Nadal là 'Vua đất nện' với nhiều chức vô địch nhất."
+  }
+}

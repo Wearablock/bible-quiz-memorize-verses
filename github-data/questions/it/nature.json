@@ -1,0 +1,37 @@
+{
+  "q_nat_001": {
+    "question": "Qual e il mammifero piu grande del mondo?",
+    "correct": "Balenottera azzurra",
+    "wrong": ["Elefante", "Giraffa", "Ippopotamo"],
+    "explanation": "Le balenottere azzurre possono raggiungere lunghezze superiori ai 30 metri e pesare fino a 200 tonnellate.",
+    "hint": "Questo gigante marino vive negli oceani e il suo cuore puo pesare quanto un'automobile."
+  },
+  "q_nat_002": {
+    "question": "Quante zampe ha un ragno?",
+    "correct": "8",
+    "wrong": ["6", "10", "12"],
+    "explanation": "Tutti i ragni sono aracnidi e hanno 8 zampe.",
+    "hint": "Sono due in piu rispetto agli insetti, che ne hanno sei."
+  },
+  "q_nat_003": {
+    "question": "Qual e la specie di albero piu alta del mondo?",
+    "correct": "Sequoia costiera",
+    "wrong": ["Sequoia gigante", "Eucalipto", "Abete di Douglas"],
+    "explanation": "Le sequoie costiere possono crescere oltre i 115 metri di altezza.",
+    "hint": "Questi alberi crescono lungo la costa della California e possono vivere oltre 2000 anni."
+  },
+  "q_nat_004": {
+    "question": "Quale gas assorbono le piante dall'atmosfera?",
+    "correct": "Anidride carbonica",
+    "wrong": ["Ossigeno", "Azoto", "Idrogeno"],
+    "explanation": "Le piante usano l'anidride carbonica nella fotosintesi per produrre ossigeno e glucosio.",
+    "hint": "E il gas che noi esseri umani espiriamo e la cui formula chimica e CO2."
+  },
+  "q_nat_005": {
+    "question": "Qual e l'animale terrestre piu veloce?",
+    "correct": "Ghepardo",
+    "wrong": ["Leone", "Gazzella", "Cavallo"],
+    "explanation": "I ghepardi possono raggiungere velocita fino a 112 km/h.",
+    "hint": "Questo felino africano ha un corpo snello e macchie nere sul mantello giallo."
+  }
+}

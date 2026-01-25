@@ -1,0 +1,37 @@
+{
+  "q_art_001": {
+    "question": "Siapa yang melukis Mona Lisa?",
+    "correct": "Leonardo da Vinci",
+    "wrong": ["Michelangelo", "Raphael", "Botticelli"],
+    "explanation": "Leonardo da Vinci melukis Mona Lisa antara tahun 1503 dan 1519.",
+    "hint": "Seniman Italia dari masa Renaisans ini juga merancang mesin terbang dan menggambar Manusia Vitruvian."
+  },
+  "q_art_002": {
+    "question": "Komposer mana yang menulis 'Simfoni Kesembilan'?",
+    "correct": "Ludwig van Beethoven",
+    "wrong": ["Mozart", "Bach", "Chopin"],
+    "explanation": "Simfoni Kesembilan Beethoven, yang diselesaikan pada tahun 1824, mencakup 'Ode to Joy' yang terkenal.",
+    "hint": "Komposer Jerman ini kehilangan pendengarannya namun tetap menciptakan karya agung."
+  },
+  "q_art_003": {
+    "question": "Di kota mana Museum Louvre berada?",
+    "correct": "Paris",
+    "wrong": ["London", "Roma", "Madrid"],
+    "explanation": "Louvre di Paris adalah museum seni terbesar di dunia.",
+    "hint": "Museum ini memiliki piramida kaca yang ikonik dan terletak di ibu kota Prancis."
+  },
+  "q_art_004": {
+    "question": "Siapa yang menulis 'Romeo dan Juliet'?",
+    "correct": "William Shakespeare",
+    "wrong": ["Charles Dickens", "Jane Austen", "Oscar Wilde"],
+    "explanation": "Shakespeare menulis Romeo dan Juliet sekitar tahun 1594-1596.",
+    "hint": "Penulis drama Inggris ini berasal dari Stratford-upon-Avon dan dijuluki 'Bard of Avon'."
+  },
+  "q_art_005": {
+    "question": "Aliran seni apa yang dianut Salvador Dali?",
+    "correct": "Surealisme",
+    "wrong": ["Impresionisme", "Kubisme", "Ekspresionisme"],
+    "explanation": "Dali adalah tokoh terkemuka dalam gerakan Surealis yang dikenal dengan citranya yang mencolok.",
+    "hint": "Aliran ini menggambarkan dunia mimpi dan alam bawah sadar, seperti dalam lukisan 'Jam Meleleh'."
+  }
+}

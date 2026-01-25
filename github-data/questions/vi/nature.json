@@ -1,0 +1,37 @@
+{
+  "q_nat_001": {
+    "question": "Động vật có vú lớn nhất trên thế giới là gì?",
+    "correct": "Cá voi xanh",
+    "wrong": ["Voi", "Hươu cao cổ", "Hà mã"],
+    "explanation": "Cá voi xanh có thể dài hơn 30 mét và nặng tới 200 tấn.",
+    "hint": "Loài động vật biển này có thể nặng bằng 33 con voi, và trái tim của nó to bằng một chiếc ô tô."
+  },
+  "q_nat_002": {
+    "question": "Nhện có bao nhiêu chân?",
+    "correct": "8",
+    "wrong": ["6", "10", "12"],
+    "explanation": "Tất cả nhện đều thuộc lớp hình nhện và có 8 chân.",
+    "hint": "Số chân này nhiều hơn côn trùng 2 chân, và nhện không phải là côn trùng mà là động vật hình nhện."
+  },
+  "q_nat_003": {
+    "question": "Loài cây cao nhất thế giới là gì?",
+    "correct": "Cây Sequoia đỏ ven biển",
+    "wrong": ["Cây Sequoia khổng lồ", "Cây bạch đàn", "Cây thông Douglas"],
+    "explanation": "Cây Sequoia đỏ ven biển có thể cao hơn 115 mét.",
+    "hint": "Loài cây này mọc ở bờ biển California, Mỹ, và có vỏ cây màu đỏ nâu đặc trưng."
+  },
+  "q_nat_004": {
+    "question": "Thực vật hấp thụ khí gì từ khí quyển?",
+    "correct": "Carbon Dioxide",
+    "wrong": ["Oxy", "Nitơ", "Hydro"],
+    "explanation": "Thực vật sử dụng carbon dioxide trong quá trình quang hợp để tạo ra oxy và glucose.",
+    "hint": "Khí này được viết tắt là CO2 và là nguyên nhân chính gây ra hiệu ứng nhà kính."
+  },
+  "q_nat_005": {
+    "question": "Động vật trên cạn nhanh nhất là gì?",
+    "correct": "Báo gê-pa",
+    "wrong": ["Sư tử", "Linh dương", "Ngựa"],
+    "explanation": "Báo gê-pa có thể đạt tốc độ lên tới 112 km/h.",
+    "hint": "Loài mèo hoang dã này có đốm đen trên lông và sống ở châu Phi, có thể tăng tốc từ 0-100 km/h trong 3 giây."
+  }
+}

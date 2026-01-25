@@ -1,0 +1,37 @@
+{
+  "q_nat_001": {
+    "question": "What is the largest mammal in the world?",
+    "correct": "Blue Whale",
+    "wrong": ["Elephant", "Giraffe", "Hippopotamus"],
+    "hint": "This marine animal can weigh up to 200 tons and is blue-gray in color.",
+    "explanation": "Blue whales can reach lengths of over 100 feet and weigh up to 200 tons."
+  },
+  "q_nat_002": {
+    "question": "How many legs does a spider have?",
+    "correct": "8",
+    "wrong": ["6", "10", "12"],
+    "hint": "They have two more legs than insects.",
+    "explanation": "All spiders are arachnids and have 8 legs."
+  },
+  "q_nat_003": {
+    "question": "What is the tallest tree species in the world?",
+    "correct": "Coast Redwood",
+    "wrong": ["Giant Sequoia", "Eucalyptus", "Douglas Fir"],
+    "hint": "These trees are found along the California coast and can grow over 380 feet.",
+    "explanation": "Coast Redwoods can grow over 380 feet tall."
+  },
+  "q_nat_004": {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "correct": "Carbon Dioxide",
+    "wrong": ["Oxygen", "Nitrogen", "Hydrogen"],
+    "hint": "It's the gas humans exhale and plants use for photosynthesis.",
+    "explanation": "Plants use carbon dioxide in photosynthesis to produce oxygen and glucose."
+  },
+  "q_nat_005": {
+    "question": "What is the fastest land animal?",
+    "correct": "Cheetah",
+    "wrong": ["Lion", "Gazelle", "Horse"],
+    "hint": "This spotted big cat can run at 70 mph in short bursts.",
+    "explanation": "Cheetahs can reach speeds up to 70 mph (112 km/h)."
+  }
+}

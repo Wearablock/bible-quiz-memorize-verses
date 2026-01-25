@@ -1,0 +1,44 @@
+{
+  "q_geo_001": {
+    "question": "What is the capital of France?",
+    "correct": "Paris",
+    "wrong": ["London", "Berlin", "Madrid"],
+    "hint": "This city is famous for the Eiffel Tower.",
+    "explanation": "Paris has been the capital of France since the late 10th century."
+  },
+  "q_geo_002": {
+    "question": "Which is the largest ocean on Earth?",
+    "correct": "Pacific Ocean",
+    "wrong": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "hint": "Its name means 'peaceful' in Latin.",
+    "explanation": "The Pacific Ocean covers approximately 63 million square miles."
+  },
+  "q_geo_003": {
+    "question": "Which country has the longest coastline in the world?",
+    "correct": "Canada",
+    "wrong": ["Russia", "Australia", "Indonesia"],
+    "hint": "This country shares the world's longest land border with the USA.",
+    "explanation": "Canada has over 202,080 km of coastline."
+  },
+  "q_geo_004": {
+    "question": "What is the capital of Australia?",
+    "correct": "Canberra",
+    "wrong": ["Sydney", "Melbourne", "Brisbane"],
+    "hint": "It was purpose-built as the capital and is not the largest city.",
+    "explanation": "Canberra was selected as the capital in 1908 as a compromise between Sydney and Melbourne."
+  },
+  "q_geo_005": {
+    "question": "Which river flows through the most countries?",
+    "correct": "Danube",
+    "wrong": ["Nile", "Amazon", "Rhine"],
+    "hint": "This river flows through 10 European countries including Germany and Austria.",
+    "explanation": "The Danube flows through 10 countries in Europe."
+  },
+  "q_geo_100": {
+    "question": "What is the highest mountain in the world?",
+    "correct": "Mount Everest",
+    "wrong": ["K2", "Kangchenjunga", "Lhotse"],
+    "hint": "Located in the Himalayas on the border of Nepal and Tibet.",
+    "explanation": "Mount Everest stands at 8,849 meters (29,032 feet) above sea level."
+  }
+}

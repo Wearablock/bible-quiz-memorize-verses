@@ -1,0 +1,37 @@
+{
+  "q_his_001": {
+    "question": "Em que ano terminou a Segunda Guerra Mundial?",
+    "correct": "1945",
+    "wrong": ["1944", "1946", "1943"],
+    "explanation": "A Segunda Guerra Mundial terminou em 1945 com a rendicao da Alemanha em maio e do Japao em setembro.",
+    "hint": "Foi o mesmo ano em que bombas atomicas foram lancadas sobre Hiroshima e Nagasaki."
+  },
+  "q_his_002": {
+    "question": "Quem foi o primeiro Presidente dos Estados Unidos?",
+    "correct": "George Washington",
+    "wrong": ["Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+    "explanation": "George Washington serviu como o primeiro presidente dos EUA de 1789 a 1797.",
+    "hint": "A capital americana e uma cidade que leva seu sobrenome."
+  },
+  "q_his_003": {
+    "question": "Qual civilizacao antiga construiu as piramides de Gize?",
+    "correct": "Egipcios Antigos",
+    "wrong": ["Romanos", "Gregos", "Mesopotamios"],
+    "explanation": "A Grande Piramide de Gize foi construida por volta de 2560 a.C. para o Farao Quops.",
+    "hint": "Esta civilizacao se desenvolveu ao longo do rio Nilo e era governada por faraos."
+  },
+  "q_his_004": {
+    "question": "Em que ano caiu o Muro de Berlim?",
+    "correct": "1989",
+    "wrong": ["1987", "1991", "1985"],
+    "explanation": "O Muro de Berlim caiu em 9 de novembro de 1989, marcando um momento crucial no fim da Guerra Fria.",
+    "hint": "Aconteceu no final da decada de 1980, pouco antes da reunificacao da Alemanha."
+  },
+  "q_his_005": {
+    "question": "Qual imperio foi governado por Genghis Khan?",
+    "correct": "Imperio Mongol",
+    "wrong": ["Imperio Otomano", "Imperio Romano", "Imperio Persa"],
+    "explanation": "Genghis Khan fundou e governou o Imperio Mongol, o maior imperio terrestre contiguo da historia.",
+    "hint": "Este imperio teve origem nas estepes da Asia Central, na regiao que hoje corresponde a Mongolia."
+  }
+}
