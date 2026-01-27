@@ -1,3 +1,14 @@
+// =============================================================================
+// Quiz App Boilerplate - 앱 진입점
+// =============================================================================
+//
+// 이 파일은 일반적으로 수정이 필요 없습니다.
+// 앱 설정은 AppConfig에서 관리됩니다.
+//
+// 수정이 필요한 경우:
+// - Firebase 초기화: 주석 해제 및 설정
+// - 추가 서비스 초기화: main() 함수에 추가
+
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
@@ -37,7 +48,7 @@ void main() async {
 
   runApp(
     const ProviderScope(
-      child: TriviaQuizApp(),
+      child: QuizApp(),
     ),
   );
 
@@ -62,8 +73,12 @@ void _syncQuizDataInBackground() {
   });
 }
 
-class TriviaQuizApp extends ConsumerWidget {
-  const TriviaQuizApp({super.key});
+/// 퀴즈 앱 메인 위젯
+///
+/// 새 앱을 만들 때 클래스 이름을 변경할 필요 없습니다.
+/// 앱 이름은 [AppConfig.appName]에서 관리됩니다.
+class QuizApp extends ConsumerWidget {
+  const QuizApp({super.key});
 
   static const supportedLocales = [
     Locale('en'),           // English

@@ -1,5 +1,14 @@
-name: trivia_quiz
-description: "Global Trivia Quiz - Test your knowledge with thousands of trivia questions"
+# =============================================================================
+# Quiz App Boilerplate - 패키지 설정
+# =============================================================================
+# [변경 필수] 새 앱을 만들 때 아래 항목들을 수정하세요:
+#   - name: 패키지 이름 (snake_case, 예: movie_quiz)
+#   - description: 앱 설명
+#
+# 변경 후 실행: flutter pub get
+
+name: trivia_quiz  # TODO: 새 앱 이름으로 변경 (예: movie_quiz, science_quiz)
+description: "Global Trivia Quiz - Test your knowledge with thousands of trivia questions"  # TODO: 앱 설명 변경
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -74,6 +83,11 @@ dev_dependencies:
 # =============================================================================
 # App Icon Configuration
 # =============================================================================
+# [변경 필수] 앱 아이콘 이미지 교체
+#   1. assets/icon/app_icon.png 파일 교체 (1024x1024 권장)
+#   2. adaptive_icon_background 색상 변경 (AppConfig.surfaceLightColor와 맞추기)
+#   3. 실행: flutter pub run flutter_launcher_icons
+
 flutter_launcher_icons:
   android: true
   ios: true
@@ -89,6 +103,14 @@ flutter_launcher_icons:
 # =============================================================================
 # Splash Screen Configuration
 # =============================================================================
+# [변경 필수] 스플래시 화면 커스터마이징
+#   1. color: 배경색 변경 (AppConfig.surfaceLightColor와 맞추기)
+#   2. assets/splash/ 폴더의 이미지 교체:
+#      - splash_logo.png (288x288 권장)
+#      - splash_logo_android12.png (Android 12+ 전용)
+#      - splash_branding.png (하단 브랜딩, 200x50 권장)
+#   3. 실행: flutter pub run flutter_native_splash:create
+
 flutter_native_splash:
   color: "#FFFBF5"
   image: assets/splash/splash_logo.png

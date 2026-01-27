@@ -2,6 +2,28 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'app_colors.dart';
 
+/// ============================================================================
+/// Quiz App Boilerplate - 테마 설정
+/// ============================================================================
+///
+/// 색상은 [AppColors] ([AppConfig])에서 관리됩니다.
+/// 폰트만 변경하려면 아래 GoogleFonts 부분을 수정하세요.
+///
+/// ## 폰트 변경 예시
+/// ```dart
+/// // 기본값
+/// GoogleFonts.notoSansTextTheme()
+///
+/// // 다른 폰트로 변경
+/// GoogleFonts.poppinsTextTheme()     // Poppins (모던, 영문에 적합)
+/// GoogleFonts.robotoTextTheme()      // Roboto (Android 기본)
+/// GoogleFonts.latoTextTheme()        // Lato (깔끔한 산세리프)
+/// GoogleFonts.interTextTheme()       // Inter (UI에 최적화)
+/// GoogleFonts.notoSansKrTextTheme()  // 한국어 전용
+/// ```
+///
+/// 지원 폰트 목록: https://fonts.google.com
+///
 class AppTheme {
   static ThemeData get light {
     final colorScheme = ColorScheme.light(

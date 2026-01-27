@@ -242,7 +242,7 @@ class SettingsScreen extends ConsumerWidget {
           width: double.maxFinite,
           child: ListView.builder(
             shrinkWrap: true,
-            itemCount: TriviaQuizApp.supportedLocales.length + 1,
+            itemCount: QuizApp.supportedLocales.length + 1,
             itemBuilder: (context, index) {
               // System default option
               if (index == 0) {
@@ -257,7 +257,7 @@ class SettingsScreen extends ConsumerWidget {
                 );
               }
 
-              final locale = TriviaQuizApp.supportedLocales[index - 1];
+              final locale = QuizApp.supportedLocales[index - 1];
               final countryCode = locale.countryCode;
               final localeString = countryCode != null && countryCode.isNotEmpty
                   ? '${locale.languageCode}_$countryCode'
