@@ -1,9 +1,0 @@
-{
-  "questions": [
-    {"id": "q_spo_001", "category_id": "sports", "difficulty": 1},
-    {"id": "q_spo_002", "category_id": "sports", "difficulty": 1},
-    {"id": "q_spo_003", "category_id": "sports", "difficulty": 2},
-    {"id": "q_spo_004", "category_id": "sports", "difficulty": 2},
-    {"id": "q_spo_005", "category_id": "sports", "difficulty": 3}
-  ]
-}

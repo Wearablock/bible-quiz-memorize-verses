@@ -1,9 +1,0 @@
-{
-  "questions": [
-    {"id": "q_geo_001", "category_id": "geography", "difficulty": 1},
-    {"id": "q_geo_002", "category_id": "geography", "difficulty": 1},
-    {"id": "q_geo_003", "category_id": "geography", "difficulty": 1},
-    {"id": "q_geo_004", "category_id": "geography", "difficulty": 2},
-    {"id": "q_geo_005", "category_id": "geography", "difficulty": 2}
-  ]
-}

@@ -35,13 +35,11 @@ class AppConfig {
   // [변경 필수] 새 앱 이름으로 수정하세요
 
   /// 앱 이름 (MaterialApp title)
-  /// 예시: 'Movie Quiz', 'Science Quiz', 'K-Pop Quiz'
-  static const String appName = 'Trivia Quiz';
+  static const String appName = 'Bible Quiz';
 
   /// 앱 표시 이름 (홈 화면에 표시)
   /// [주의] AndroidManifest.xml, Info.plist에도 동일하게 설정 필요
-  /// 예시: 'Movie Quiz - Cinema Master', 'Science Quiz - Brain Test'
-  static const String appDisplayName = 'Trivia Quiz - Daily Brain';
+  static const String appDisplayName = 'Bible Quiz - Memorize Verses';
 
   // ============================================================================
   // 테마 색상
@@ -60,25 +58,25 @@ class AppConfig {
   //   primaryColor = Color(0xFF4CAF50)  // Green
   //   secondaryColor = Color(0xFF2E7D32)  // Dark Green
 
-  /// 메인 브랜드 색상
-  static const Color primaryColor = Color(0xFFFFC107);        // Amber
-  static const Color primaryDarkColor = Color(0xFFFFA000);    // Amber Dark
-  static const Color primaryLightColor = Color(0xFFFFD54F);   // Amber Light
+  /// 메인 브랜드 색상 (Navy Blue 테마)
+  static const Color primaryColor = Color(0xFF1A237E);        // Navy Blue (인디고)
+  static const Color primaryDarkColor = Color(0xFF0D1642);    // Dark Navy
+  static const Color primaryLightColor = Color(0xFF3949AB);   // Light Navy
 
-  /// 보조 색상
-  static const Color secondaryColor = Color(0xFF5D4037);      // Brown
-  static const Color secondaryLightColor = Color(0xFF8D6E63); // Brown Light
+  /// 보조 색상 (Gold 테마)
+  static const Color secondaryColor = Color(0xFFC9A227);      // Gold
+  static const Color secondaryLightColor = Color(0xFFD4AF37); // Light Gold
 
   /// 강조 색상
-  static const Color accentColor = Color(0xFFFF6F00);         // Orange
+  static const Color accentColor = Color(0xFFB8860B);         // Dark Gold
 
   /// 배경 색상
-  static const Color surfaceLightColor = Color(0xFFFFFBF5);   // Warm White
-  static const Color surfaceDarkColor = Color(0xFF1A1A1A);    // Dark Gray
+  static const Color surfaceLightColor = Color(0xFFFAF8F5);   // Warm White
+  static const Color surfaceDarkColor = Color(0xFF121212);    // Dark
 
   /// 텍스트 대비 색상
-  static const Color onPrimaryColor = Color(0xFF1A1A1A);      // primary 위의 텍스트
-  static const Color onSecondaryColor = Color(0xFFFFFFFF);    // secondary 위의 텍스트
+  static const Color onPrimaryColor = Color(0xFFFFFFFF);      // White on Navy
+  static const Color onSecondaryColor = Color(0xFF1A1A1A);    // Dark on Gold
 
   /// 피드백 색상 (일반적으로 변경 불필요)
   static const Color correctColor = Color(0xFF4CAF50);        // Green
@@ -101,26 +99,34 @@ class AppConfig {
 
   /// 카테고리 목록 (assets/data/categories.json과 일치해야 함)
   static const List<String> categories = [
-    'geography',   // 지리
-    'history',     // 역사
-    'science',     // 과학
-    'arts',        // 예술
-    'sports',      // 스포츠
-    'nature',      // 자연
-    'technology',  // 기술
-    'food',        // 음식
+    'love',         // 사랑
+    'faith',        // 믿음
+    'hope',         // 소망
+    'prayer',       // 기도
+    'forgiveness',  // 용서
+    'wisdom',       // 지혜
+    'comfort',      // 위로
+    'strength',     // 힘/용기
+    'salvation',    // 구원
+    'psalms',       // 시편
+    'proverbs',     // 잠언
+    'jesus',        // 예수님 말씀
   ];
 
   /// 카테고리별 색상
   static const Map<String, Color> categoryColors = {
-    'geography': Color(0xFF2E7D32),   // 초록
-    'history': Color(0xFF8B4513),     // 갈색
-    'science': Color(0xFF1565C0),     // 파랑
-    'arts': Color(0xFF7B1FA2),        // 보라
-    'sports': Color(0xFFC62828),      // 빨강
-    'nature': Color(0xFF388E3C),      // 연두
-    'technology': Color(0xFF0277BD),  // 하늘
-    'food': Color(0xFFEF6C00),        // 주황
+    'love': Color(0xFFE91E63),        // Pink
+    'faith': Color(0xFF3F51B5),       // Indigo
+    'hope': Color(0xFF00BCD4),        // Cyan
+    'prayer': Color(0xFF9C27B0),      // Purple
+    'forgiveness': Color(0xFF4CAF50), // Green
+    'wisdom': Color(0xFFFF9800),      // Orange
+    'comfort': Color(0xFF03A9F4),     // Light Blue
+    'strength': Color(0xFFF44336),    // Red
+    'salvation': Color(0xFFFFEB3B),   // Yellow
+    'psalms': Color(0xFF2196F3),      // Blue
+    'proverbs': Color(0xFF795548),    // Brown
+    'jesus': Color(0xFF8D6E63),       // Brown Light
   };
 
   /// 카테고리 색상 가져오기
@@ -208,7 +214,7 @@ class AppConfig {
   // 예시: 'movie_quiz_remove_ads', 'science_quiz_premium'
 
   /// 광고 제거 상품 ID (스토어에 등록한 ID와 일치해야 함)
-  static const String removeAdsProductId = 'trivia_quiz_remove_ads';
+  static const String removeAdsProductId = 'bible_quiz_remove_ads';
 
   /// 프리미엄 상태 저장 키 (SharedPreferences, 일반적으로 변경 불필요)
   static const String premiumStorageKey = 'is_premium';

@@ -1,108 +1,280 @@
 {
   "categories": [
     {
-      "id": "geography",
+      "id": "love",
       "order": 1,
       "name": {
-        "ko": "지리",
-        "en": "Geography",
-        "ja": "地理",
-        "zh-Hans": "地理",
-        "zh-Hant": "地理"
+        "en": "Love",
+        "ko": "사랑",
+        "ja": "愛",
+        "zh": "爱",
+        "zh-Hant": "愛",
+        "es": "Amor",
+        "fr": "Amour",
+        "de": "Liebe",
+        "pt": "Amor",
+        "it": "Amore",
+        "ru": "Любовь",
+        "ar": "المحبة",
+        "th": "ความรัก",
+        "vi": "Tình yêu",
+        "id": "Kasih"
       },
-      "color": "#2E7D32",
-      "icon": "public"
+      "color": "#E91E63",
+      "icon": "favorite"
     },
     {
-      "id": "history",
+      "id": "faith",
       "order": 2,
       "name": {
-        "ko": "역사",
-        "en": "History",
-        "ja": "歴史",
-        "zh-Hans": "历史",
-        "zh-Hant": "歷史"
+        "en": "Faith",
+        "ko": "믿음",
+        "ja": "信仰",
+        "zh": "信心",
+        "zh-Hant": "信心",
+        "es": "Fe",
+        "fr": "Foi",
+        "de": "Glaube",
+        "pt": "Fé",
+        "it": "Fede",
+        "ru": "Вера",
+        "ar": "الإيمان",
+        "th": "ความเชื่อ",
+        "vi": "Đức tin",
+        "id": "Iman"
       },
-      "color": "#8B4513",
-      "icon": "history"
+      "color": "#3F51B5",
+      "icon": "church"
     },
     {
-      "id": "science",
+      "id": "hope",
       "order": 3,
       "name": {
-        "ko": "과학",
-        "en": "Science",
-        "ja": "科学",
-        "zh-Hans": "科学",
-        "zh-Hant": "科學"
+        "en": "Hope",
+        "ko": "소망",
+        "ja": "希望",
+        "zh": "盼望",
+        "zh-Hant": "盼望",
+        "es": "Esperanza",
+        "fr": "Espérance",
+        "de": "Hoffnung",
+        "pt": "Esperança",
+        "it": "Speranza",
+        "ru": "Надежда",
+        "ar": "الرجاء",
+        "th": "ความหวัง",
+        "vi": "Hy vọng",
+        "id": "Pengharapan"
       },
-      "color": "#1565C0",
-      "icon": "science"
+      "color": "#00BCD4",
+      "icon": "wb_sunny"
     },
     {
-      "id": "arts",
+      "id": "prayer",
       "order": 4,
       "name": {
-        "ko": "예술/문화",
-        "en": "Arts & Culture",
-        "ja": "芸術・文化",
-        "zh-Hans": "艺术文化",
-        "zh-Hant": "藝術文化"
+        "en": "Prayer",
+        "ko": "기도",
+        "ja": "祈り",
+        "zh": "祷告",
+        "zh-Hant": "禱告",
+        "es": "Oración",
+        "fr": "Prière",
+        "de": "Gebet",
+        "pt": "Oração",
+        "it": "Preghiera",
+        "ru": "Молитва",
+        "ar": "الصلاة",
+        "th": "การอธิษฐาน",
+        "vi": "Cầu nguyện",
+        "id": "Doa"
       },
-      "color": "#7B1FA2",
-      "icon": "palette"
+      "color": "#9C27B0",
+      "icon": "volunteer_activism"
     },
     {
-      "id": "sports",
+      "id": "forgiveness",
       "order": 5,
       "name": {
-        "ko": "스포츠",
-        "en": "Sports",
-        "ja": "スポーツ",
-        "zh-Hans": "体育",
-        "zh-Hant": "體育"
+        "en": "Forgiveness",
+        "ko": "용서",
+        "ja": "赦し",
+        "zh": "饶恕",
+        "zh-Hant": "饒恕",
+        "es": "Perdón",
+        "fr": "Pardon",
+        "de": "Vergebung",
+        "pt": "Perdão",
+        "it": "Perdono",
+        "ru": "Прощение",
+        "ar": "المغفرة",
+        "th": "การให้อภัย",
+        "vi": "Tha thứ",
+        "id": "Pengampunan"
       },
-      "color": "#C62828",
-      "icon": "sports_soccer"
+      "color": "#4CAF50",
+      "icon": "handshake"
     },
     {
-      "id": "nature",
+      "id": "wisdom",
       "order": 6,
       "name": {
-        "ko": "자연",
-        "en": "Nature",
-        "ja": "自然",
-        "zh-Hans": "自然",
-        "zh-Hant": "自然"
+        "en": "Wisdom",
+        "ko": "지혜",
+        "ja": "知恵",
+        "zh": "智慧",
+        "zh-Hant": "智慧",
+        "es": "Sabiduría",
+        "fr": "Sagesse",
+        "de": "Weisheit",
+        "pt": "Sabedoria",
+        "it": "Saggezza",
+        "ru": "Мудрость",
+        "ar": "الحكمة",
+        "th": "สติปัญญา",
+        "vi": "Sự khôn ngoan",
+        "id": "Hikmat"
       },
-      "color": "#388E3C",
-      "icon": "eco"
+      "color": "#FF9800",
+      "icon": "lightbulb"
     },
     {
-      "id": "technology",
+      "id": "comfort",
       "order": 7,
       "name": {
-        "ko": "기술/발명",
-        "en": "Technology",
-        "ja": "技術",
-        "zh-Hans": "技术",
-        "zh-Hant": "技術"
+        "en": "Comfort",
+        "ko": "위로",
+        "ja": "慰め",
+        "zh": "安慰",
+        "zh-Hant": "安慰",
+        "es": "Consuelo",
+        "fr": "Réconfort",
+        "de": "Trost",
+        "pt": "Consolo",
+        "it": "Conforto",
+        "ru": "Утешение",
+        "ar": "التعزية",
+        "th": "การปลอบโยน",
+        "vi": "An ủi",
+        "id": "Penghiburan"
       },
-      "color": "#0277BD",
-      "icon": "memory"
+      "color": "#03A9F4",
+      "icon": "healing"
     },
     {
-      "id": "food",
+      "id": "strength",
       "order": 8,
       "name": {
-        "ko": "음식/생활",
-        "en": "Food & Lifestyle",
-        "ja": "食・生活",
-        "zh-Hans": "美食生活",
-        "zh-Hant": "美食生活"
+        "en": "Strength",
+        "ko": "힘/용기",
+        "ja": "力",
+        "zh": "力量",
+        "zh-Hant": "力量",
+        "es": "Fuerza",
+        "fr": "Force",
+        "de": "Stärke",
+        "pt": "Força",
+        "it": "Forza",
+        "ru": "Сила",
+        "ar": "القوة",
+        "th": "กำลัง",
+        "vi": "Sức mạnh",
+        "id": "Kekuatan"
       },
-      "color": "#EF6C00",
-      "icon": "restaurant"
+      "color": "#F44336",
+      "icon": "fitness_center"
+    },
+    {
+      "id": "salvation",
+      "order": 9,
+      "name": {
+        "en": "Salvation",
+        "ko": "구원",
+        "ja": "救い",
+        "zh": "救恩",
+        "zh-Hant": "救恩",
+        "es": "Salvación",
+        "fr": "Salut",
+        "de": "Erlösung",
+        "pt": "Salvação",
+        "it": "Salvezza",
+        "ru": "Спасение",
+        "ar": "الخلاص",
+        "th": "ความรอด",
+        "vi": "Sự cứu rỗi",
+        "id": "Keselamatan"
+      },
+      "color": "#FFEB3B",
+      "icon": "star"
+    },
+    {
+      "id": "psalms",
+      "order": 10,
+      "name": {
+        "en": "Psalms",
+        "ko": "시편",
+        "ja": "詩篇",
+        "zh": "诗篇",
+        "zh-Hant": "詩篇",
+        "es": "Salmos",
+        "fr": "Psaumes",
+        "de": "Psalmen",
+        "pt": "Salmos",
+        "it": "Salmi",
+        "ru": "Псалмы",
+        "ar": "المزامير",
+        "th": "สดุดี",
+        "vi": "Thi thiên",
+        "id": "Mazmur"
+      },
+      "color": "#2196F3",
+      "icon": "music_note"
+    },
+    {
+      "id": "proverbs",
+      "order": 11,
+      "name": {
+        "en": "Proverbs",
+        "ko": "잠언",
+        "ja": "箴言",
+        "zh": "箴言",
+        "zh-Hant": "箴言",
+        "es": "Proverbios",
+        "fr": "Proverbes",
+        "de": "Sprüche",
+        "pt": "Provérbios",
+        "it": "Proverbi",
+        "ru": "Притчи",
+        "ar": "الأمثال",
+        "th": "สุภาษิต",
+        "vi": "Châm ngôn",
+        "id": "Amsal"
+      },
+      "color": "#795548",
+      "icon": "menu_book"
+    },
+    {
+      "id": "jesus",
+      "order": 12,
+      "name": {
+        "en": "Words of Jesus",
+        "ko": "예수님 말씀",
+        "ja": "イエスの言葉",
+        "zh": "耶稣的话",
+        "zh-Hant": "耶穌的話",
+        "es": "Palabras de Jesús",
+        "fr": "Paroles de Jésus",
+        "de": "Worte Jesu",
+        "pt": "Palavras de Jesus",
+        "it": "Parole di Gesù",
+        "ru": "Слова Иисуса",
+        "ar": "كلمات يسوع",
+        "th": "พระดำรัสของพระเยซู",
+        "vi": "Lời Chúa Giê-xu",
+        "id": "Perkataan Yesus"
+      },
+      "color": "#8D6E63",
+      "icon": "auto_stories"
     }
   ]
 }

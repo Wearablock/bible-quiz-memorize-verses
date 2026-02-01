@@ -3,7 +3,7 @@
     <uses-permission android:name="android.permission.VIBRATE"/>
 
     <application
-        android:label="Trivia Quiz - Daily Brain"
+        android:label="Bible Quiz"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
 

@@ -23,7 +23,7 @@
 			<string>id</string>
 		</array>
 		<key>CFBundleDisplayName</key>
-		<string>Trivia Quiz - Daily Brain</string>
+		<string>Bible Quiz</string>
 		<key>CFBundleExecutable</key>
 		<string>$(EXECUTABLE_NAME)</string>
 		<key>CFBundleIdentifier</key>
@@ -31,7 +31,7 @@
 		<key>CFBundleInfoDictionaryVersion</key>
 		<string>6.0</string>
 		<key>CFBundleName</key>
-		<string>trivia_quiz</string>
+		<string>bible_quiz</string>
 		<key>CFBundlePackageType</key>
 		<string>APPL</string>
 		<key>CFBundleShortVersionString</key>

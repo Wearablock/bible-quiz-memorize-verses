@@ -1,9 +1,0 @@
-{
-  "questions": [
-    {"id": "q_sci_001", "category_id": "science", "difficulty": 1},
-    {"id": "q_sci_002", "category_id": "science", "difficulty": 1},
-    {"id": "q_sci_003", "category_id": "science", "difficulty": 2},
-    {"id": "q_sci_004", "category_id": "science", "difficulty": 2},
-    {"id": "q_sci_005", "category_id": "science", "difficulty": 3}
-  ]
-}

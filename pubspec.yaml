@@ -7,8 +7,8 @@
 #
 # 변경 후 실행: flutter pub get
 
-name: trivia_quiz  # TODO: 새 앱 이름으로 변경 (예: movie_quiz, science_quiz)
-description: "Global Trivia Quiz - Test your knowledge with thousands of trivia questions"  # TODO: 앱 설명 변경
+name: bible_quiz
+description: "Bible Quiz - Memorize famous Bible verses through interactive quizzes"
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -94,7 +94,7 @@ flutter_launcher_icons:
   image_path: "assets/icon/app_icon.png"
 
   # Android Adaptive Icon (Android 8.0+)
-  adaptive_icon_background: "#FFFBF5"
+  adaptive_icon_background: "#1A237E"
   adaptive_icon_foreground: "assets/icon/app_icon.png"
 
   min_sdk_android: 21
@@ -112,7 +112,7 @@ flutter_launcher_icons:
 #   3. 실행: flutter pub run flutter_native_splash:create
 
 flutter_native_splash:
-  color: "#FFFBF5"
+  color: "#1A237E"
   image: assets/splash/splash_logo.png
 
   branding: assets/splash/splash_branding.png
@@ -120,7 +120,7 @@ flutter_native_splash:
 
   # Android 12+ Settings
   android_12:
-    color: "#FFFBF5"
+    color: "#1A237E"
     image: assets/splash/splash_logo_android12.png
     branding: assets/splash/splash_branding.png
     branding_mode: bottom

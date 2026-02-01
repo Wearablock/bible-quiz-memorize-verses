@@ -1,9 +1,0 @@
-{
-  "questions": [
-    {"id": "q_art_001", "category_id": "arts", "difficulty": 1},
-    {"id": "q_art_002", "category_id": "arts", "difficulty": 1},
-    {"id": "q_art_003", "category_id": "arts", "difficulty": 2},
-    {"id": "q_art_004", "category_id": "arts", "difficulty": 2},
-    {"id": "q_art_005", "category_id": "arts", "difficulty": 3}
-  ]
-}
