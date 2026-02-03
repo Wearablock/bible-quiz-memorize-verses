@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_salvation_001",
+      "question": "Fill in the blank: 'For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal _____.'",
+      "correct": "life",
+      "wrong": ["peace", "joy", "salvation"],
+      "hint": "This is what lasts forever",
+      "explanation": "God's love provided the gift of eternal life through faith in Jesus.",
+      "full_verse": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
+      "verse_ref": "John 3:16"
+    },
+    {
+      "id": "q_salvation_002",
+      "question": "Fill in the blank: 'If you declare with your mouth, \"Jesus is Lord,\" and believe in your heart that God raised him from the dead, you will be _____.'",
+      "correct": "saved",
+      "wrong": ["blessed", "forgiven", "healed"],
+      "hint": "This means rescued from sin",
+      "explanation": "Salvation comes through confessing Jesus as Lord and believing in His resurrection.",
+      "full_verse": "If you declare with your mouth, \"Jesus is Lord,\" and believe in your heart that God raised him from the dead, you will be saved.",
+      "verse_ref": "Romans 10:9"
+    },
+    {
+      "id": "q_salvation_003",
+      "question": "Fill in the blank: 'For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by _____, so that no one can boast.'",
+      "correct": "works",
+      "wrong": ["effort", "deeds", "merit"],
+      "hint": "These are actions or deeds we do",
+      "explanation": "Salvation is God's free gift, not earned through our own efforts.",
+      "full_verse": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast.",
+      "verse_ref": "Ephesians 2:8-9"
+    },
+    {
+      "id": "q_salvation_004",
+      "question": "Fill in the blank: 'Salvation is found in no one else, for there is no other _____ under heaven given to mankind by which we must be saved.'",
+      "correct": "name",
+      "wrong": ["way", "path", "hope"],
+      "hint": "This represents a person's identity",
+      "explanation": "Jesus Christ is the only source of salvation for humanity.",
+      "full_verse": "Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved.",
+      "verse_ref": "Acts 4:12"
+    },
+    {
+      "id": "q_salvation_005",
+      "question": "Fill in the blank: 'Jesus answered, \"I am the way and the truth and the life. No one comes to the Father except through _____.\"'",
+      "correct": "me",
+      "wrong": ["faith", "Him", "grace"],
+      "hint": "Jesus is referring to Himself",
+      "explanation": "Jesus is the exclusive way to God the Father.",
+      "full_verse": "Jesus answered, \"I am the way and the truth and the life. No one comes to the Father except through me.\"",
+      "verse_ref": "John 14:6"
+    },
+    {
+      "id": "q_salvation_006",
+      "question": "Fill in the blank: 'For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our _____.'",
+      "correct": "Lord",
+      "wrong": ["Savior", "King", "Master"],
+      "hint": "This title shows Jesus' authority",
+      "explanation": "Sin leads to death, but God offers eternal life through Jesus.",
+      "full_verse": "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.",
+      "verse_ref": "Romans 6:23"
+    },
+    {
+      "id": "q_salvation_007",
+      "question": "Fill in the blank: 'They replied, \"Believe in the Lord Jesus, and you will be saved—you and your _____.\"'",
+      "correct": "household",
+      "wrong": ["family", "children", "people"],
+      "hint": "This refers to everyone living in your home",
+      "explanation": "Faith in Jesus brings salvation that can impact entire families.",
+      "full_verse": "They replied, \"Believe in the Lord Jesus, and you will be saved—you and your household.\"",
+      "verse_ref": "Acts 16:31"
+    },
+    {
+      "id": "q_salvation_008",
+      "question": "Fill in the blank: 'He saved us, not because of righteous things we had done, but because of his _____. He saved us through the washing of rebirth and renewal by the Holy Spirit.'",
+      "correct": "mercy",
+      "wrong": ["grace", "love", "kindness"],
+      "hint": "This is compassion shown to those who don't deserve it",
+      "explanation": "Our salvation is based on God's mercy, not our own righteousness.",
+      "full_verse": "He saved us, not because of righteous things we had done, but because of his mercy. He saved us through the washing of rebirth and renewal by the Holy Spirit.",
+      "verse_ref": "Titus 3:5"
+    },
+    {
+      "id": "q_salvation_009",
+      "question": "Fill in the blank: 'Yet to all who did receive him, to those who believed in his name, he gave the right to become _____ of God.'",
+      "correct": "children",
+      "wrong": ["servants", "followers", "disciples"],
+      "hint": "This describes a family relationship",
+      "explanation": "Believing in Jesus gives us the right to become part of God's family.",
+      "full_verse": "Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God.",
+      "verse_ref": "John 1:12"
+    },
+    {
+      "id": "q_salvation_010",
+      "question": "Fill in the blank: 'But God demonstrates his own love for us in this: While we were still _____, Christ died for us.'",
+      "correct": "sinners",
+      "wrong": ["lost", "enemies", "weak"],
+      "hint": "This describes people who have done wrong",
+      "explanation": "God's love is shown in that Christ died for us despite our sinfulness.",
+      "full_verse": "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.",
+      "verse_ref": "Romans 5:8"
+    },
+    {
+      "id": "q_salvation_011",
+      "question": "Fill in the blank: 'For God did not send his Son into the world to condemn the world, but to _____ the world through him.'",
+      "correct": "save",
+      "wrong": ["judge", "redeem", "heal"],
+      "hint": "This is the purpose of Jesus coming",
+      "explanation": "Jesus came not to condemn but to rescue the world.",
+      "full_verse": "For God did not send his Son into the world to condemn the world, but to save the world through him.",
+      "verse_ref": "John 3:17"
+    },
+    {
+      "id": "q_salvation_012",
+      "question": "Fill in the blank: 'Very truly I tell you, whoever hears my word and believes him who sent me has eternal life and will not be judged but has crossed over from death to _____.'",
+      "correct": "life",
+      "wrong": ["glory", "peace", "freedom"],
+      "hint": "This is the opposite of death",
+      "explanation": "Believing in Jesus means passing from spiritual death to eternal life.",
+      "full_verse": "Very truly I tell you, whoever hears my word and believes him who sent me has eternal life and will not be judged but has crossed over from death to life.",
+      "verse_ref": "John 5:24"
+    },
+    {
+      "id": "q_salvation_013",
+      "question": "Fill in the blank: 'Very truly I tell you, the one who _____ has eternal life.'",
+      "correct": "believes",
+      "wrong": ["obeys", "follows", "prays"],
+      "hint": "This means to have faith",
+      "explanation": "Eternal life comes through believing in Jesus.",
+      "full_verse": "Very truly I tell you, the one who believes has eternal life.",
+      "verse_ref": "John 6:47"
+    },
+    {
+      "id": "q_salvation_014",
+      "question": "Fill in the blank: 'I am the gate; whoever enters through me will be saved. They will come in and go out, and find _____.'",
+      "correct": "pasture",
+      "wrong": ["rest", "peace", "life"],
+      "hint": "This is where sheep graze",
+      "explanation": "Jesus is the entrance to salvation and spiritual nourishment.",
+      "full_verse": "I am the gate; whoever enters through me will be saved. They will come in and go out, and find pasture.",
+      "verse_ref": "John 10:9"
+    },
+    {
+      "id": "q_salvation_015",
+      "question": "Fill in the blank: 'I give them eternal life, and they shall never _____; no one will snatch them out of my hand.'",
+      "correct": "perish",
+      "wrong": ["die", "fall", "fail"],
+      "hint": "This means to be destroyed",
+      "explanation": "Jesus guarantees eternal security for His followers.",
+      "full_verse": "I give them eternal life, and they shall never perish; no one will snatch them out of my hand.",
+      "verse_ref": "John 10:28"
+    },
+    {
+      "id": "q_salvation_016",
+      "question": "Fill in the blank: 'And everyone who calls on the name of the Lord will be _____.'",
+      "correct": "saved",
+      "wrong": ["blessed", "heard", "forgiven"],
+      "hint": "This means rescued from sin",
+      "explanation": "Salvation is available to all who call on the Lord.",
+      "full_verse": "And everyone who calls on the name of the Lord will be saved.",
+      "verse_ref": "Acts 2:21"
+    },
+    {
+      "id": "q_salvation_017",
+      "question": "Fill in the blank: 'For I am not ashamed of the gospel, because it is the power of God that brings salvation to everyone who _____: first to the Jew, then to the Gentile.'",
+      "correct": "believes",
+      "wrong": ["obeys", "repents", "follows"],
+      "hint": "This means to have faith",
+      "explanation": "The gospel is God's powerful message of salvation through faith.",
+      "full_verse": "For I am not ashamed of the gospel, because it is the power of God that brings salvation to everyone who believes: first to the Jew, then to the Gentile.",
+      "verse_ref": "Romans 1:16"
+    },
+    {
+      "id": "q_salvation_018",
+      "question": "Fill in the blank: 'For all have sinned and fall short of the glory of God, and all are justified freely by his _____ through the redemption that came by Christ Jesus.'",
+      "correct": "grace",
+      "wrong": ["mercy", "love", "power"],
+      "hint": "This is unmerited favor",
+      "explanation": "Everyone has sinned, but justification is freely given through God's grace.",
+      "full_verse": "For all have sinned and fall short of the glory of God, and all are justified freely by his grace through the redemption that came by Christ Jesus.",
+      "verse_ref": "Romans 3:23-24"
+    },
+    {
+      "id": "q_salvation_019",
+      "question": "Fill in the blank: 'Since we have now been justified by his blood, how much more shall we be saved from God's _____ through him!'",
+      "correct": "wrath",
+      "wrong": ["judgment", "anger", "punishment"],
+      "hint": "This is God's righteous anger against sin",
+      "explanation": "Christ's blood saves us from the wrath we deserve.",
+      "full_verse": "Since we have now been justified by his blood, how much more shall we be saved from God's wrath through him!",
+      "verse_ref": "Romans 5:9"
+    },
+    {
+      "id": "q_salvation_020",
+      "question": "Fill in the blank: 'Therefore, there is now no _____ for those who are in Christ Jesus.'",
+      "correct": "condemnation",
+      "wrong": ["judgment", "punishment", "guilt"],
+      "hint": "This means a declaration of guilt",
+      "explanation": "Those in Christ are free from the sentence of sin.",
+      "full_verse": "Therefore, there is now no condemnation for those who are in Christ Jesus.",
+      "verse_ref": "Romans 8:1"
+    },
+    {
+      "id": "q_salvation_021",
+      "question": "Fill in the blank: 'For, \"Everyone who calls on the _____ of the Lord will be saved.\"'",
+      "correct": "name",
+      "wrong": ["power", "grace", "mercy"],
+      "hint": "This represents God's identity",
+      "explanation": "Calling on the Lord's name brings salvation.",
+      "full_verse": "For, \"Everyone who calls on the name of the Lord will be saved.\"",
+      "verse_ref": "Romans 10:13"
+    },
+    {
+      "id": "q_salvation_022",
+      "question": "Fill in the blank: 'Therefore, if anyone is in Christ, the new creation has come: The old has gone, the _____ is here!'",
+      "correct": "new",
+      "wrong": ["life", "hope", "change"],
+      "hint": "This is the opposite of old",
+      "explanation": "In Christ, we become completely new creations.",
+      "full_verse": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
+      "verse_ref": "2 Corinthians 5:17"
+    },
+    {
+      "id": "q_salvation_023",
+      "question": "Fill in the blank: 'Know that a person is not justified by the works of the law, but by faith in Jesus Christ. So we, too, have put our _____ in Christ Jesus that we may be justified by faith in Christ.'",
+      "correct": "faith",
+      "wrong": ["trust", "hope", "belief"],
+      "hint": "This is confident belief",
+      "explanation": "Justification comes through faith in Christ, not by following the law.",
+      "full_verse": "Know that a person is not justified by the works of the law, but by faith in Jesus Christ. So we, too, have put our faith in Christ Jesus that we may be justified by faith in Christ and not by the works of the law.",
+      "verse_ref": "Galatians 2:16"
+    },
+    {
+      "id": "q_salvation_024",
+      "question": "Fill in the blank: 'In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God's _____.'",
+      "correct": "grace",
+      "wrong": ["mercy", "love", "glory"],
+      "hint": "This is unmerited favor from God",
+      "explanation": "Redemption and forgiveness come through Christ's blood and God's abundant grace.",
+      "full_verse": "In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God's grace.",
+      "verse_ref": "Ephesians 1:7"
+    },
+    {
+      "id": "q_salvation_025",
+      "question": "Fill in the blank: 'For he has rescued us from the dominion of _____ and brought us into the kingdom of the Son he loves, in whom we have redemption, the forgiveness of sins.'",
+      "correct": "darkness",
+      "wrong": ["sin", "evil", "death"],
+      "hint": "This is the opposite of light",
+      "explanation": "God rescues us from the power of darkness and brings us into Christ's kingdom.",
+      "full_verse": "For he has rescued us from the dominion of darkness and brought us into the kingdom of the Son he loves, in whom we have redemption, the forgiveness of sins.",
+      "verse_ref": "Colossians 1:13-14"
+    },
+    {
+      "id": "q_salvation_026",
+      "question": "Fill in the blank: 'Here is a trustworthy saying that deserves full acceptance: Christ Jesus came into the world to save _____—of whom I am the worst.'",
+      "correct": "sinners",
+      "wrong": ["souls", "people", "mankind"],
+      "hint": "These are people who have done wrong",
+      "explanation": "Jesus came specifically to save those who have sinned.",
+      "full_verse": "Here is a trustworthy saying that deserves full acceptance: Christ Jesus came into the world to save sinners—of whom I am the worst.",
+      "verse_ref": "1 Timothy 1:15"
+    },
+    {
+      "id": "q_salvation_027",
+      "question": "Fill in the blank: 'Who wants all people to be saved and to come to a knowledge of the _____.'",
+      "correct": "truth",
+      "wrong": ["gospel", "Lord", "salvation"],
+      "hint": "This is what is real and correct",
+      "explanation": "God desires everyone to be saved and know the truth.",
+      "full_verse": "Who wants all people to be saved and to come to a knowledge of the truth.",
+      "verse_ref": "1 Timothy 2:4"
+    },
+    {
+      "id": "q_salvation_028",
+      "question": "Fill in the blank: 'He has saved us and called us to a holy life—not because of anything we have done but because of his own purpose and _____.'",
+      "correct": "grace",
+      "wrong": ["will", "love", "mercy"],
+      "hint": "This is unmerited favor",
+      "explanation": "Salvation is based on God's grace and purpose, not our works.",
+      "full_verse": "He has saved us and called us to a holy life—not because of anything we have done but because of his own purpose and grace.",
+      "verse_ref": "2 Timothy 1:9"
+    },
+    {
+      "id": "q_salvation_029",
+      "question": "Fill in the blank: 'And, once made perfect, he became the source of eternal salvation for all who _____ him.'",
+      "correct": "obey",
+      "wrong": ["follow", "trust", "believe"],
+      "hint": "This means to follow commands",
+      "explanation": "Jesus is the source of salvation for those who obey Him.",
+      "full_verse": "And, once made perfect, he became the source of eternal salvation for all who obey him.",
+      "verse_ref": "Hebrews 5:9"
+    },
+    {
+      "id": "q_salvation_030",
+      "question": "Fill in the blank: 'Therefore he is able to save completely those who come to God through him, because he always lives to _____ for them.'",
+      "correct": "intercede",
+      "wrong": ["pray", "speak", "plead"],
+      "hint": "This means to pray on behalf of others",
+      "explanation": "Jesus continually intercedes for believers before God.",
+      "full_verse": "Therefore he is able to save completely those who come to God through him, because he always lives to intercede for them.",
+      "verse_ref": "Hebrews 7:25"
+    },
+    {
+      "id": "q_salvation_031",
+      "question": "Fill in the blank: 'So Christ was sacrificed once to take away the sins of many; and he will appear a second time, not to bear sin, but to bring _____ to those who are waiting for him.'",
+      "correct": "salvation",
+      "wrong": ["peace", "glory", "life"],
+      "hint": "This is deliverance from sin",
+      "explanation": "Christ's second coming will bring final salvation to His people.",
+      "full_verse": "So Christ was sacrificed once to take away the sins of many; and he will appear a second time, not to bear sin, but to bring salvation to those who are waiting for him.",
+      "verse_ref": "Hebrews 9:28"
+    },
+    {
+      "id": "q_salvation_032",
+      "question": "Fill in the blank: 'Praise be to the God and Father of our Lord Jesus Christ! In his great mercy he has given us new birth into a living hope through the resurrection of Jesus Christ from the dead, and into an inheritance that can never perish, spoil or _____.'",
+      "correct": "fade",
+      "wrong": ["end", "decay", "diminish"],
+      "hint": "This means to lose color or disappear",
+      "explanation": "Our heavenly inheritance is eternal and unchanging.",
+      "full_verse": "Praise be to the God and Father of our Lord Jesus Christ! In his great mercy he has given us new birth into a living hope through the resurrection of Jesus Christ from the dead, and into an inheritance that can never perish, spoil or fade.",
+      "verse_ref": "1 Peter 1:3-4"
+    },
+    {
+      "id": "q_salvation_033",
+      "question": "Fill in the blank: 'For you are receiving the end result of your faith, the salvation of your _____.'",
+      "correct": "souls",
+      "wrong": ["lives", "hearts", "spirits"],
+      "hint": "This is the spiritual part of a person",
+      "explanation": "Faith's ultimate goal is the salvation of our souls.",
+      "full_verse": "For you are receiving the end result of your faith, the salvation of your souls.",
+      "verse_ref": "1 Peter 1:9"
+    },
+    {
+      "id": "q_salvation_034",
+      "question": "Fill in the blank: '\"He himself bore our sins\" in his body on the cross, so that we might die to sins and live for righteousness; \"by his _____ you have been healed.\"'",
+      "correct": "wounds",
+      "wrong": ["blood", "death", "sacrifice"],
+      "hint": "These are injuries on the body",
+      "explanation": "Christ's suffering on the cross brings our spiritual healing.",
+      "full_verse": "\"He himself bore our sins\" in his body on the cross, so that we might die to sins and live for righteousness; \"by his wounds you have been healed.\"",
+      "verse_ref": "1 Peter 2:24"
+    },
+    {
+      "id": "q_salvation_035",
+      "question": "Fill in the blank: 'For Christ also suffered once for sins, the righteous for the unrighteous, to bring you to _____.'",
+      "correct": "God",
+      "wrong": ["heaven", "salvation", "life"],
+      "hint": "This is who Christ brings us to",
+      "explanation": "Christ's suffering was to reconcile us to God.",
+      "full_verse": "For Christ also suffered once for sins, the righteous for the unrighteous, to bring you to God.",
+      "verse_ref": "1 Peter 3:18"
+    },
+    {
+      "id": "q_salvation_036",
+      "question": "Fill in the blank: 'The Lord is not slow in keeping his promise, as some understand slowness. Instead he is patient with you, not wanting anyone to _____, but everyone to come to repentance.'",
+      "correct": "perish",
+      "wrong": ["die", "suffer", "fall"],
+      "hint": "This means to be destroyed",
+      "explanation": "God patiently waits for all to repent and be saved.",
+      "full_verse": "The Lord is not slow in keeping his promise, as some understand slowness. Instead he is patient with you, not wanting anyone to perish, but everyone to come to repentance.",
+      "verse_ref": "2 Peter 3:9"
+    },
+    {
+      "id": "q_salvation_037",
+      "question": "Fill in the blank: 'But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus, his Son, purifies us from all _____.'",
+      "correct": "sin",
+      "wrong": ["guilt", "shame", "evil"],
+      "hint": "This is wrongdoing against God",
+      "explanation": "Jesus' blood cleanses believers from all sin.",
+      "full_verse": "But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus, his Son, purifies us from all sin.",
+      "verse_ref": "1 John 1:7"
+    },
+    {
+      "id": "q_salvation_038",
+      "question": "Fill in the blank: 'And we have seen and testify that the Father has sent his Son to be the Savior of the _____.'",
+      "correct": "world",
+      "wrong": ["church", "people", "nations"],
+      "hint": "This includes all of humanity",
+      "explanation": "Jesus was sent to save the entire world.",
+      "full_verse": "And we have seen and testify that the Father has sent his Son to be the Savior of the world.",
+      "verse_ref": "1 John 4:14"
+    },
+    {
+      "id": "q_salvation_039",
+      "question": "Fill in the blank: 'And this is the testimony: God has given us eternal life, and this life is in his _____. Whoever has the Son has life; whoever does not have the Son of God does not have life.'",
+      "correct": "Son",
+      "wrong": ["word", "grace", "spirit"],
+      "hint": "This refers to Jesus",
+      "explanation": "Eternal life is found only in Jesus Christ.",
+      "full_verse": "And this is the testimony: God has given us eternal life, and this life is in his Son. Whoever has the Son has life; whoever does not have the Son of God does not have life.",
+      "verse_ref": "1 John 5:11-12"
+    },
+    {
+      "id": "q_salvation_040",
+      "question": "Fill in the blank: 'Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in and eat with that person, and they with _____.'",
+      "correct": "me",
+      "wrong": ["God", "him", "them"],
+      "hint": "Jesus is referring to Himself",
+      "explanation": "Jesus invites us to open our hearts and have fellowship with Him.",
+      "full_verse": "Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in and eat with that person, and they with me.",
+      "verse_ref": "Revelation 3:20"
+    },
+    {
+      "id": "q_salvation_041",
+      "question": "Fill in the blank: 'But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his _____ we are healed.'",
+      "correct": "wounds",
+      "wrong": ["blood", "death", "suffering"],
+      "hint": "These are injuries on the body",
+      "explanation": "Christ's suffering and wounds bring us healing and peace with God.",
+      "full_verse": "But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed.",
+      "verse_ref": "Isaiah 53:5"
+    },
+    {
+      "id": "q_salvation_042",
+      "question": "Fill in the blank: 'We all, like sheep, have gone astray, each of us has turned to our own way; and the LORD has laid on him the _____ of us all.'",
+      "correct": "iniquity",
+      "wrong": ["sin", "guilt", "burden"],
+      "hint": "This is another word for sin or wickedness",
+      "explanation": "Christ bore the sins of all humanity on Himself.",
+      "full_verse": "We all, like sheep, have gone astray, each of us has turned to our own way; and the LORD has laid on him the iniquity of us all.",
+      "verse_ref": "Isaiah 53:6"
+    },
+    {
+      "id": "q_salvation_043",
+      "question": "Fill in the blank: 'Surely the arm of the LORD is not too short to save, nor his _____ too dull to hear.'",
+      "correct": "ear",
+      "wrong": ["eye", "heart", "hand"],
+      "hint": "This body part is used for listening",
+      "explanation": "God is fully able to save and hear our prayers.",
+      "full_verse": "Surely the arm of the LORD is not too short to save, nor his ear too dull to hear.",
+      "verse_ref": "Isaiah 59:1"
+    },
+    {
+      "id": "q_salvation_044",
+      "question": "Fill in the blank: 'The LORD is my light and my salvation—whom shall I fear? The LORD is the _____ of my life—of whom shall I be afraid?'",
+      "correct": "stronghold",
+      "wrong": ["strength", "refuge", "shield"],
+      "hint": "This is a fortified place of protection",
+      "explanation": "God is our light, salvation, and secure fortress.",
+      "full_verse": "The LORD is my light and my salvation—whom shall I fear? The LORD is the stronghold of my life—of whom shall I be afraid?",
+      "verse_ref": "Psalm 27:1"
+    },
+    {
+      "id": "q_salvation_045",
+      "question": "Fill in the blank: 'Truly my soul finds _____ in God; my salvation comes from him.'",
+      "correct": "rest",
+      "wrong": ["peace", "hope", "joy"],
+      "hint": "This is a state of relaxation or stillness",
+      "explanation": "Our souls find true rest only in God, our source of salvation.",
+      "full_verse": "Truly my soul finds rest in God; my salvation comes from him.",
+      "verse_ref": "Psalm 62:1"
+    },
+    {
+      "id": "q_salvation_046",
+      "question": "Fill in the blank: 'Our God is a God who saves; from the Sovereign LORD comes escape from _____.'",
+      "correct": "death",
+      "wrong": ["sin", "judgment", "destruction"],
+      "hint": "This is the end of life",
+      "explanation": "God has power over death and provides deliverance from it.",
+      "full_verse": "Our God is a God who saves; from the Sovereign LORD comes escape from death.",
+      "verse_ref": "Psalm 68:20"
+    },
+    {
+      "id": "q_salvation_047",
+      "question": "Fill in the blank: 'The LORD is my strength and my defense; he has become my _____.'",
+      "correct": "salvation",
+      "wrong": ["shield", "refuge", "hope"],
+      "hint": "This is deliverance from danger or sin",
+      "explanation": "God Himself is our salvation and defense.",
+      "full_verse": "The LORD is my strength and my defense; he has become my salvation.",
+      "verse_ref": "Psalm 118:14"
+    },
+    {
+      "id": "q_salvation_048",
+      "question": "Fill in the blank: 'For the Son of Man came to seek and to save the _____.'",
+      "correct": "lost",
+      "wrong": ["world", "sinners", "weak"],
+      "hint": "This describes people who are spiritually wandering",
+      "explanation": "Jesus' mission was to find and rescue those who are spiritually lost.",
+      "full_verse": "For the Son of Man came to seek and to save the lost.",
+      "verse_ref": "Luke 19:10"
+    },
+    {
+      "id": "q_salvation_049",
+      "question": "Fill in the blank: 'She will give birth to a son, and you are to give him the name Jesus, because he will save his _____ from their sins.'",
+      "correct": "people",
+      "wrong": ["children", "followers", "church"],
+      "hint": "This refers to those who belong to Him",
+      "explanation": "The name Jesus means 'the Lord saves' because He saves His people from sin.",
+      "full_verse": "She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins.",
+      "verse_ref": "Matthew 1:21"
+    },
+    {
+      "id": "q_salvation_050",
+      "question": "Fill in the blank: 'Whoever believes and is baptized will be saved, but whoever does not believe will be _____.'",
+      "correct": "condemned",
+      "wrong": ["lost", "judged", "punished"],
+      "hint": "This means declared guilty",
+      "explanation": "Faith leads to salvation, while unbelief leads to condemnation.",
+      "full_verse": "Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.",
+      "verse_ref": "Mark 16:16"
+    }
+  ]
+}

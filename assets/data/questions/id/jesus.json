@@ -1,1 +1,452 @@
-{}
+{
+  "q_jesus_001": {
+    "question": "Isilah bagian yang kosong: 'Karena begitu besar kasih Allah akan dunia ini, sehingga Ia telah mengaruniakan Anak-Nya yang tunggal, supaya setiap orang yang percaya kepada-Nya tidak binasa, melainkan beroleh hidup yang _____.'",
+    "correct": "kekal",
+    "wrong": ["bahagia", "damai", "sejahtera"],
+    "hint": "Karunia bagi yang percaya kepada Yesus",
+    "explanation": "Ayat terkenal ini merangkum Injil—kasih Allah membawa-Nya memberikan Anak-Nya untuk hidup kekal.",
+    "full_verse": "Karena begitu besar kasih Allah akan dunia ini, sehingga Ia telah mengaruniakan Anak-Nya yang tunggal, supaya setiap orang yang percaya kepada-Nya tidak binasa, melainkan beroleh hidup yang kekal.",
+    "verse_ref": "Yohanes 3:16"
+  },
+  "q_jesus_002": {
+    "question": "Isilah bagian yang kosong: 'Kata Yesus kepadanya: \"Akulah jalan dan kebenaran dan hidup. Tidak ada seorang pun yang datang kepada Bapa, kalau tidak melalui _____.\"'",
+    "correct": "Aku",
+    "wrong": ["iman", "kasih karunia", "doa"],
+    "hint": "Yesus adalah satu-satunya jalan",
+    "explanation": "Yesus menyatakan diri-Nya sebagai satu-satunya jalan kepada Allah Bapa.",
+    "full_verse": "Kata Yesus kepadanya: 'Akulah jalan dan kebenaran dan hidup. Tidak ada seorang pun yang datang kepada Bapa, kalau tidak melalui Aku.'",
+    "verse_ref": "Yohanes 14:6"
+  },
+  "q_jesus_003": {
+    "question": "Isilah bagian yang kosong: 'Jawab Yesus: \"Akulah kebangkitan dan hidup; barangsiapa percaya kepada-Ku, ia akan hidup walaupun ia sudah _____.\"'",
+    "correct": "mati",
+    "wrong": ["jatuh", "gagal", "berdosa"],
+    "hint": "Kematian fisik tidak dapat menghentikan orang percaya",
+    "explanation": "Yesus menyatakan bahwa Ia adalah sumber kehidupan kebangkitan bagi semua yang percaya.",
+    "full_verse": "Jawab Yesus: 'Akulah kebangkitan dan hidup; barangsiapa percaya kepada-Ku, ia akan hidup walaupun ia sudah mati.'",
+    "verse_ref": "Yohanes 11:25"
+  },
+  "q_jesus_004": {
+    "question": "Isilah bagian yang kosong: 'Marilah kepada-Ku, semua yang letih lesu dan berbeban berat, Aku akan memberi kelegaan _____.'",
+    "correct": "kepadamu",
+    "wrong": ["damai", "harapan", "kekuatan"],
+    "hint": "Pemulihan dari kelelahan",
+    "explanation": "Yesus mengundang semua yang lelah dan terbebani untuk menemukan kelegaan di dalam-Nya.",
+    "full_verse": "Marilah kepada-Ku, semua yang letih lesu dan berbeban berat, Aku akan memberi kelegaan kepadamu.",
+    "verse_ref": "Matius 11:28"
+  },
+  "q_jesus_005": {
+    "question": "Isilah bagian yang kosong: 'Maka Yesus berkata pula kepada orang banyak, kata-Nya: \"Akulah terang dunia; barangsiapa mengikut Aku, ia tidak akan berjalan dalam _____.\"'",
+    "correct": "kegelapan",
+    "wrong": ["ketakutan", "dosa", "malu"],
+    "hint": "Kebalikan dari terang",
+    "explanation": "Yesus menyatakan diri-Nya sebagai terang yang membimbing orang percaya keluar dari kegelapan rohani.",
+    "full_verse": "Maka Yesus berkata pula kepada orang banyak, kata-Nya: 'Akulah terang dunia; barangsiapa mengikut Aku, ia tidak akan berjalan dalam kegelapan, melainkan ia akan mempunyai terang hidup.'",
+    "verse_ref": "Yohanes 8:12"
+  },
+  "q_jesus_006": {
+    "question": "Isilah bagian yang kosong: 'Akulah gembala yang baik. Gembala yang baik memberikan _____ bagi domba-dombanya.'",
+    "correct": "nyawanya",
+    "wrong": ["tongkatnya", "gadanya", "hatinya"],
+    "hint": "Pengorbanan tertinggi",
+    "explanation": "Yesus menggambarkan diri-Nya sebagai gembala yang mengorbankan nyawa-Nya bagi domba-domba-Nya.",
+    "full_verse": "Akulah gembala yang baik. Gembala yang baik memberikan nyawanya bagi domba-dombanya.",
+    "verse_ref": "Yohanes 10:11"
+  },
+  "q_jesus_007": {
+    "question": "Isilah bagian yang kosong: 'Akulah pokok anggur dan kamulah ranting-rantingnya. Barangsiapa tinggal di dalam Aku dan Aku di dalam dia, ia berbuah banyak, sebab di luar Aku kamu tidak dapat berbuat apa-_____.'",
+    "correct": "apa",
+    "wrong": ["sukacita", "kasih", "harapan"],
+    "hint": "Tidak bisa melakukan sesuatu",
+    "explanation": "Yesus menggunakan perumpamaan pokok anggur untuk mengajarkan tentang tinggal di dalam-Nya untuk berbuah rohani.",
+    "full_verse": "Akulah pokok anggur dan kamulah ranting-rantingnya. Barangsiapa tinggal di dalam Aku dan Aku di dalam dia, ia berbuah banyak, sebab di luar Aku kamu tidak dapat berbuat apa-apa.",
+    "verse_ref": "Yohanes 15:5"
+  },
+  "q_jesus_008": {
+    "question": "Isilah bagian yang kosong: 'Dan ajarlah mereka melakukan segala sesuatu yang telah Kuperintahkan kepadamu. Dan ketahuilah, Aku menyertai kamu senantiasa sampai kepada akhir _____.'",
+    "correct": "zaman",
+    "wrong": ["dunia", "waktu", "hari"],
+    "hint": "Hingga akhir era ini",
+    "explanation": "Yesus menjanjikan kehadiran-Nya yang terus-menerus dengan murid-murid-Nya hingga akhir zaman.",
+    "full_verse": "Dan ajarlah mereka melakukan segala sesuatu yang telah Kuperintahkan kepadamu. Dan ketahuilah, Aku menyertai kamu senantiasa sampai kepada akhir zaman.",
+    "verse_ref": "Matius 28:20"
+  },
+  "q_jesus_009": {
+    "question": "Isilah bagian yang kosong: 'Firman itu telah menjadi manusia, dan diam di antara kita, dan kita telah melihat kemuliaan-Nya, yaitu kemuliaan yang diberikan kepada-Nya sebagai Anak Tunggal _____.'",
+    "correct": "Bapa",
+    "wrong": ["Surga", "Allah", "Atas"],
+    "hint": "Yesus datang dari-Nya",
+    "explanation": "Yohanes menyatakan bahwa Yesus, Firman itu, menjadi manusia dan menyatakan kemuliaan Bapa.",
+    "full_verse": "Firman itu telah menjadi manusia, dan diam di antara kita, dan kita telah melihat kemuliaan-Nya, yaitu kemuliaan yang diberikan kepada-Nya sebagai Anak Tunggal Bapa, penuh kasih karunia dan kebenaran.",
+    "verse_ref": "Yohanes 1:14"
+  },
+  "q_jesus_010": {
+    "question": "Isilah bagian yang kosong: 'Aku dan Bapa adalah _____.'",
+    "correct": "satu",
+    "wrong": ["bersatu", "bersama", "setara"],
+    "hint": "Kesatuan Yesus dan Bapa",
+    "explanation": "Yesus menyatakan kesatuan-Nya dengan Allah Bapa, menegaskan keilahian-Nya.",
+    "full_verse": "Aku dan Bapa adalah satu.",
+    "verse_ref": "Yohanes 10:30"
+  },
+  "q_jesus_011": {
+    "question": "Isilah bagian yang kosong: 'Maka jawab Simon Petrus: \"Engkau adalah Mesias, Anak Allah yang _____!\"'",
+    "correct": "hidup",
+    "wrong": ["Tuhan", "Bapa", "Raja"],
+    "hint": "Petrus mengakui identitas ilahi Yesus",
+    "explanation": "Pengakuan Petrus mengakui Yesus sebagai Mesias dan Anak Allah.",
+    "full_verse": "Maka jawab Simon Petrus: 'Engkau adalah Mesias, Anak Allah yang hidup!'",
+    "verse_ref": "Matius 16:16"
+  },
+  "q_jesus_012": {
+    "question": "Isilah bagian yang kosong: 'Ia adalah gambar Allah yang tidak kelihatan, yang sulung, lebih utama dari segala yang _____.'",
+    "correct": "diciptakan",
+    "wrong": ["ada", "hidup", "makhluk"],
+    "hint": "Segala sesuatu yang dibuat",
+    "explanation": "Paulus menyatakan bahwa Yesus adalah representasi yang terlihat dari Allah yang tidak kelihatan.",
+    "full_verse": "Ia adalah gambar Allah yang tidak kelihatan, yang sulung, lebih utama dari segala yang diciptakan.",
+    "verse_ref": "Kolose 1:15"
+  },
+  "q_jesus_013": {
+    "question": "Isilah bagian yang kosong: 'Yang walaupun dalam rupa Allah, tidak menganggap kesetaraan dengan Allah itu sebagai milik yang harus dipertahankan, melainkan telah mengosongkan diri-Nya sendiri, dan mengambil rupa seorang _____.'",
+    "correct": "hamba",
+    "wrong": ["manusia", "insan", "budak"],
+    "hint": "Yesus merendahkan diri-Nya ke peran ini",
+    "explanation": "Paulus menggambarkan kerendahan hati Yesus dalam meninggalkan kemuliaan ilahi untuk menjadi hamba.",
+    "full_verse": "Yang walaupun dalam rupa Allah, tidak menganggap kesetaraan dengan Allah itu sebagai milik yang harus dipertahankan, melainkan telah mengosongkan diri-Nya sendiri, dan mengambil rupa seorang hamba, dan menjadi sama dengan manusia.",
+    "verse_ref": "Filipi 2:6-7"
+  },
+  "q_jesus_014": {
+    "question": "Isilah bagian yang kosong: 'Ia adalah cahaya kemuliaan Allah dan gambar wujud Allah dan menopang segala yang ada dengan firman-Nya yang _____.'",
+    "correct": "penuh kekuasaan",
+    "wrong": ["tangan", "kehendak", "kuasa"],
+    "hint": "Bagaimana Yesus memelihara segala sesuatu",
+    "explanation": "Penulis Ibrani menggambarkan Yesus sebagai pewahyuan sempurna dari Allah.",
+    "full_verse": "Ia adalah cahaya kemuliaan Allah dan gambar wujud Allah dan menopang segala yang ada dengan firman-Nya yang penuh kekuasaan.",
+    "verse_ref": "Ibrani 1:3"
+  },
+  "q_jesus_015": {
+    "question": "Isilah bagian yang kosong: 'Sebab dalam Dialah berdiam secara jasmaniah seluruh kepenuhan _____.'",
+    "correct": "keAllahan",
+    "wrong": ["Allah", "Roh", "Bapa"],
+    "hint": "Sifat ilahi yang lengkap",
+    "explanation": "Paulus menyatakan bahwa sifat Allah yang lengkap berdiam dalam tubuh fisik Kristus.",
+    "full_verse": "Sebab dalam Dialah berdiam secara jasmaniah seluruh kepenuhan keAllahan.",
+    "verse_ref": "Kolose 2:9"
+  },
+  "q_jesus_016": {
+    "question": "Isilah bagian yang kosong: 'Pada mulanya adalah Firman; Firman itu bersama-sama dengan Allah dan Firman itu adalah _____.'",
+    "correct": "Allah",
+    "wrong": ["ilahi", "kudus", "kekal"],
+    "hint": "Identitas Firman",
+    "explanation": "Yohanes menyatakan bahwa Yesus, Firman itu, bersama Allah dan adalah Allah sejak semula.",
+    "full_verse": "Pada mulanya adalah Firman; Firman itu bersama-sama dengan Allah dan Firman itu adalah Allah.",
+    "verse_ref": "Yohanes 1:1"
+  },
+  "q_jesus_017": {
+    "question": "Isilah bagian yang kosong: 'Kata Yesus kepada mereka: \"Akulah roti hidup; barangsiapa datang kepada-Ku, ia tidak akan lapar lagi, dan barangsiapa percaya kepada-Ku, ia tidak akan haus _____.\"'",
+    "correct": "lagi",
+    "wrong": ["kosong", "kurang", "kekurangan"],
+    "hint": "Tidak akan mengalaminya lagi",
+    "explanation": "Yesus menyatakan diri-Nya sebagai roti rohani yang memuaskan semua kelaparan dan kehausan.",
+    "full_verse": "Kata Yesus kepada mereka: 'Akulah roti hidup; barangsiapa datang kepada-Ku, ia tidak akan lapar lagi, dan barangsiapa percaya kepada-Ku, ia tidak akan haus lagi.'",
+    "verse_ref": "Yohanes 6:35"
+  },
+  "q_jesus_018": {
+    "question": "Isilah bagian yang kosong: 'Akulah pintu; barangsiapa masuk melalui Aku, ia akan selamat dan ia akan masuk dan keluar dan menemukan _____.'",
+    "correct": "padang rumput",
+    "wrong": ["istirahat", "damai", "hidup"],
+    "hint": "Apa yang ditemukan domba di ladang",
+    "explanation": "Yesus menggambarkan diri-Nya sebagai pintu yang melaluinya orang menemukan keselamatan dan pemeliharaan.",
+    "full_verse": "Akulah pintu; barangsiapa masuk melalui Aku, ia akan selamat dan ia akan masuk dan keluar dan menemukan padang rumput.",
+    "verse_ref": "Yohanes 10:9"
+  },
+  "q_jesus_019": {
+    "question": "Isilah bagian yang kosong: 'Kata Yesus kepadanya: \"Telah sekian lama Aku bersama-sama kamu, Filipus, namun engkau tidak mengenal Aku? Barangsiapa telah melihat Aku, ia telah melihat _____.\"'",
+    "correct": "Bapa",
+    "wrong": ["Allah", "kebenaran", "terang"],
+    "hint": "Yesus menyatakan pribadi ini",
+    "explanation": "Yesus memberitahu Filipus bahwa melihat Dia sama dengan melihat Allah Bapa.",
+    "full_verse": "Kata Yesus kepadanya: 'Telah sekian lama Aku bersama-sama kamu, Filipus, namun engkau tidak mengenal Aku? Barangsiapa telah melihat Aku, ia telah melihat Bapa. Bagaimana engkau berkata: Tunjukkanlah Bapa itu kepada kami?'",
+    "verse_ref": "Yohanes 14:9"
+  },
+  "q_jesus_020": {
+    "question": "Isilah bagian yang kosong: 'Sebab Anak Manusia datang untuk mencari dan menyelamatkan yang _____.'",
+    "correct": "hilang",
+    "wrong": ["dunia", "berdosa", "rusak"],
+    "hint": "Mereka yang tersesat",
+    "explanation": "Yesus merangkum misi-Nya sebagai mencari dan menyelamatkan mereka yang hilang.",
+    "full_verse": "Sebab Anak Manusia datang untuk mencari dan menyelamatkan yang hilang.",
+    "verse_ref": "Lukas 19:10"
+  },
+  "q_jesus_021": {
+    "question": "Isilah bagian yang kosong: 'Ia akan melahirkan anak laki-laki dan engkau akan menamakan Dia Yesus, karena Dialah yang akan menyelamatkan umat-Nya dari _____ mereka.'",
+    "correct": "dosa",
+    "wrong": ["musuh", "masalah", "ketakutan"],
+    "hint": "Dari apa Yesus menyelamatkan kita",
+    "explanation": "Malaikat menjelaskan bahwa nama Yesus mencerminkan misi-Nya untuk menyelamatkan dari dosa.",
+    "full_verse": "Ia akan melahirkan anak laki-laki dan engkau akan menamakan Dia Yesus, karena Dialah yang akan menyelamatkan umat-Nya dari dosa mereka.",
+    "verse_ref": "Matius 1:21"
+  },
+  "q_jesus_022": {
+    "question": "Isilah bagian yang kosong: 'Hari ini telah lahir bagimu Juruselamat, yaitu Kristus, _____, di kota Daud.'",
+    "correct": "Tuhan",
+    "wrong": ["Raja", "Mesias", "Anak"],
+    "hint": "Gelar otoritas",
+    "explanation": "Malaikat mengumumkan kelahiran Yesus dengan tiga gelar: Juruselamat, Kristus, dan Tuhan.",
+    "full_verse": "Hari ini telah lahir bagimu Juruselamat, yaitu Kristus, Tuhan, di kota Daud.",
+    "verse_ref": "Lukas 2:11"
+  },
+  "q_jesus_023": {
+    "question": "Isilah bagian yang kosong: 'Tetapi semua yang telah tercantum di sini telah dicatat, supaya kamu percaya, bahwa Yesuslah Mesias, Anak Allah, dan supaya kamu oleh imanmu memperoleh hidup dalam _____.'",
+    "correct": "nama-Nya",
+    "wrong": ["harapan", "iman", "sukacita"],
+    "hint": "Tujuan Injil Yohanes",
+    "explanation": "Yohanes menyatakan tujuannya: agar pembaca percaya kepada Yesus dan memperoleh hidup.",
+    "full_verse": "Tetapi semua yang telah tercantum di sini telah dicatat, supaya kamu percaya, bahwa Yesuslah Mesias, Anak Allah, dan supaya kamu oleh imanmu memperoleh hidup dalam nama-Nya.",
+    "verse_ref": "Yohanes 20:31"
+  },
+  "q_jesus_024": {
+    "question": "Isilah bagian yang kosong: 'Dan keselamatan tidak ada di dalam siapa pun juga selain di dalam Dia, sebab di bawah kolong langit ini tidak ada nama lain yang diberikan kepada manusia yang olehnya kita dapat _____.'",
+    "correct": "diselamatkan",
+    "wrong": ["disembuhkan", "diberkati", "diampuni"],
+    "hint": "Apa yang nama Yesus berikan",
+    "explanation": "Petrus menyatakan bahwa keselamatan hanya melalui nama Yesus.",
+    "full_verse": "Dan keselamatan tidak ada di dalam siapa pun juga selain di dalam Dia, sebab di bawah kolong langit ini tidak ada nama lain yang diberikan kepada manusia yang olehnya kita dapat diselamatkan.",
+    "verse_ref": "Kisah Para Rasul 4:12"
+  },
+  "q_jesus_025": {
+    "question": "Isilah bagian yang kosong: 'Akan tetapi Allah menunjukkan kasih-Nya kepada kita, oleh karena Kristus telah _____ untuk kita, ketika kita masih berdosa.'",
+    "correct": "mati",
+    "wrong": ["datang", "hidup", "menderita"],
+    "hint": "Pengorbanan tertinggi Kristus",
+    "explanation": "Paulus menekankan bahwa Kristus mati untuk kita saat kita masih dalam dosa.",
+    "full_verse": "Akan tetapi Allah menunjukkan kasih-Nya kepada kita, oleh karena Kristus telah mati untuk kita, ketika kita masih berdosa.",
+    "verse_ref": "Roma 5:8"
+  },
+  "q_jesus_026": {
+    "question": "Isilah bagian yang kosong: 'Karena Allah itu esa dan esa pula Dia yang menjadi pengantara antara Allah dan manusia, yaitu manusia Kristus _____.'",
+    "correct": "Yesus",
+    "wrong": ["Tuhan", "Juruselamat", "Mesias"],
+    "hint": "Nama pengantara",
+    "explanation": "Paulus menyatakan bahwa Yesus adalah satu-satunya pengantara antara Allah dan manusia.",
+    "full_verse": "Karena Allah itu esa dan esa pula Dia yang menjadi pengantara antara Allah dan manusia, yaitu manusia Kristus Yesus.",
+    "verse_ref": "1 Timotius 2:5"
+  },
+  "q_jesus_027": {
+    "question": "Isilah bagian yang kosong: 'Sebab Imam Besar yang kita punya, bukanlah imam besar yang tidak dapat turut merasakan kelemahan-kelemahan kita, sebaliknya sama dengan kita, Ia telah dicobai, hanya tidak berbuat _____.'",
+    "correct": "dosa",
+    "wrong": ["jatuh", "gagal", "menyerah"],
+    "hint": "Yesus tetap tanpa ini",
+    "explanation": "Penulis Ibrani menjelaskan bahwa Yesus dicobai namun tetap tanpa dosa.",
+    "full_verse": "Sebab Imam Besar yang kita punya, bukanlah imam besar yang tidak dapat turut merasakan kelemahan-kelemahan kita, sebaliknya sama dengan kita, Ia telah dicobai, hanya tidak berbuat dosa.",
+    "verse_ref": "Ibrani 4:15"
+  },
+  "q_jesus_028": {
+    "question": "Isilah bagian yang kosong: 'Marilah kita melakukannya dengan mata yang tertuju kepada Yesus, yang memimpin kita dalam iman, dan yang membawa iman kita itu kepada kesempurnaan, yang dengan mengabaikan kehinaan tekun menanggung salib ganti sukacita yang disediakan bagi-Nya, yang sekarang duduk di sebelah kanan takhta _____.'",
+    "correct": "Allah",
+    "wrong": ["kemuliaan", "hadirat", "keagungan"],
+    "hint": "Di mana Yesus sekarang duduk",
+    "explanation": "Yesus menanggung salib dan sekarang duduk di sebelah kanan Allah dalam kemuliaan.",
+    "full_verse": "Marilah kita melakukannya dengan mata yang tertuju kepada Yesus, yang memimpin kita dalam iman, dan yang membawa iman kita itu kepada kesempurnaan, yang dengan mengabaikan kehinaan tekun menanggung salib ganti sukacita yang disediakan bagi-Nya, yang sekarang duduk di sebelah kanan takhta Allah.",
+    "verse_ref": "Ibrani 12:2"
+  },
+  "q_jesus_029": {
+    "question": "Isilah bagian yang kosong: '\"Aku adalah Alfa dan Omega,\" firman Tuhan Allah, \"yang ada dan yang sudah ada dan yang akan datang, Yang _____.\"'",
+    "correct": "Mahakuasa",
+    "wrong": ["Kekal", "Kudus", "Tidak Terbatas"],
+    "hint": "Gelar yang menekankan kuasa Allah",
+    "explanation": "Allah menyatakan diri-Nya sebagai awal dan akhir, Yang Mahakuasa.",
+    "full_verse": "'Aku adalah Alfa dan Omega,' firman Tuhan Allah, 'yang ada dan yang sudah ada dan yang akan datang, Yang Mahakuasa.'",
+    "verse_ref": "Wahyu 1:8"
+  },
+  "q_jesus_030": {
+    "question": "Isilah bagian yang kosong: 'Aku adalah Alfa dan Omega, Yang Pertama dan Yang Terkemudian, Yang Awal dan Yang _____.'",
+    "correct": "Akhir",
+    "wrong": ["Selesai", "Final", "Kesimpulan"],
+    "hint": "Kebalikan dari awal",
+    "explanation": "Yesus menggunakan tiga frasa paralel untuk menyatakan sifat kekal-Nya.",
+    "full_verse": "Aku adalah Alfa dan Omega, Yang Pertama dan Yang Terkemudian, Yang Awal dan Yang Akhir.",
+    "verse_ref": "Wahyu 22:13"
+  },
+  "q_jesus_031": {
+    "question": "Isilah bagian yang kosong: 'Kata Yesus kepada mereka: \"Aku berkata kepadamu, sesungguhnya sebelum Abraham jadi, Aku telah _____.\"'",
+    "correct": "ada",
+    "wrong": ["adalah", "hidup", "tinggal"],
+    "hint": "Yesus menggunakan nama perjanjian Allah",
+    "explanation": "Yesus menyatakan keberadaan kekal-Nya menggunakan nama ilahi 'Aku ada.'",
+    "full_verse": "Kata Yesus kepada mereka: 'Aku berkata kepadamu, sesungguhnya sebelum Abraham jadi, Aku telah ada.'",
+    "verse_ref": "Yohanes 8:58"
+  },
+  "q_jesus_032": {
+    "question": "Isilah bagian yang kosong: 'Yesus mendekati mereka dan berkata: \"Kepada-Ku telah diberikan segala kuasa di surga dan di _____.\"'",
+    "correct": "bumi",
+    "wrong": ["kamu", "kita", "mereka"],
+    "hint": "Planet kita",
+    "explanation": "Yesus yang bangkit menyatakan bahwa Ia telah menerima segala kuasa di surga dan di bumi.",
+    "full_verse": "Yesus mendekati mereka dan berkata: 'Kepada-Ku telah diberikan segala kuasa di surga dan di bumi.'",
+    "verse_ref": "Matius 28:18"
+  },
+  "q_jesus_033": {
+    "question": "Isilah bagian yang kosong: 'Inilah hidup yang kekal itu, yaitu bahwa mereka mengenal Engkau, satu-satunya Allah yang benar, dan mengenal Yesus Kristus yang telah Engkau _____.'",
+    "correct": "utus",
+    "wrong": ["berikan", "nyatakan", "janjikan"],
+    "hint": "Tindakan Bapa terhadap Yesus",
+    "explanation": "Yesus mendefinisikan hidup kekal sebagai mengenal Allah dan Dia yang diutus-Nya—Yesus Kristus.",
+    "full_verse": "Inilah hidup yang kekal itu, yaitu bahwa mereka mengenal Engkau, satu-satunya Allah yang benar, dan mengenal Yesus Kristus yang telah Engkau utus.",
+    "verse_ref": "Yohanes 17:3"
+  },
+  "q_jesus_034": {
+    "question": "Isilah bagian yang kosong: 'Sebab yang sangat penting telah kusampaikan kepadamu, yaitu apa yang telah kuterima sendiri, ialah bahwa Kristus telah mati karena dosa-dosa kita, sesuai dengan Kitab Suci, bahwa Ia telah dikuburkan, dan bahwa Ia telah dibangkitkan, pada hari yang _____.'",
+    "correct": "ketiga",
+    "wrong": ["pertama", "kedua", "berikutnya"],
+    "hint": "Hari kebangkitan",
+    "explanation": "Paulus merangkum Injil: Kristus mati, dikuburkan, dan bangkit pada hari ketiga.",
+    "full_verse": "Sebab yang sangat penting telah kusampaikan kepadamu, yaitu apa yang telah kuterima sendiri, ialah bahwa Kristus telah mati karena dosa-dosa kita, sesuai dengan Kitab Suci, bahwa Ia telah dikuburkan, dan bahwa Ia telah dibangkitkan, pada hari yang ketiga, sesuai dengan Kitab Suci.",
+    "verse_ref": "1 Korintus 15:3-4"
+  },
+  "q_jesus_035": {
+    "question": "Isilah bagian yang kosong: 'Dia yang tidak mengenal dosa telah dibuat-Nya menjadi dosa karena kita, supaya dalam Dia kita dibenarkan oleh _____.'",
+    "correct": "Allah",
+    "wrong": ["Kristus", "surga", "Dia"],
+    "hint": "Kebenaran siapa yang kita terima",
+    "explanation": "Paulus menjelaskan pertukaran besar: Kristus menanggung dosa kita agar kita menerima kebenaran Allah.",
+    "full_verse": "Dia yang tidak mengenal dosa telah dibuat-Nya menjadi dosa karena kita, supaya dalam Dia kita dibenarkan oleh Allah.",
+    "verse_ref": "2 Korintus 5:21"
+  },
+  "q_jesus_036": {
+    "question": "Isilah bagian yang kosong: 'Tetapi setelah genap waktunya, maka Allah mengutus Anak-Nya, yang lahir dari seorang perempuan dan takluk kepada hukum Taurat. Ia diutus untuk menebus mereka, yang takluk kepada hukum Taurat, supaya kita memperoleh hak sebagai _____.'",
+    "correct": "anak",
+    "wrong": ["kemuliaan", "surga", "kasih karunia"],
+    "hint": "Menjadi anak-anak Allah",
+    "explanation": "Paulus menjelaskan bahwa Yesus datang untuk menebus kita dan memberikan kita adopsi sebagai anak-anak Allah.",
+    "full_verse": "Tetapi setelah genap waktunya, maka Allah mengutus Anak-Nya, yang lahir dari seorang perempuan dan takluk kepada hukum Taurat. Ia diutus untuk menebus mereka, yang takluk kepada hukum Taurat, supaya kita memperoleh hak sebagai anak.",
+    "verse_ref": "Galatia 4:4-5"
+  },
+  "q_jesus_037": {
+    "question": "Isilah bagian yang kosong: 'Ia telah membangkitkan-Nya dari antara orang mati dan mendudukkan-Nya di sebelah kanan-Nya di surga, jauh lebih tinggi dari segala pemerintah dan penguasa dan kekuasaan dan kerajaan dan tiap-tiap nama yang dapat _____.'",
+    "correct": "disebut",
+    "wrong": ["kemuliaan", "kuasa", "takhta"],
+    "hint": "Setiap nama yang dapat dipanggil",
+    "explanation": "Paulus menggambarkan peninggian Kristus di atas semua kuasa dan otoritas.",
+    "full_verse": "Ia telah membangkitkan-Nya dari antara orang mati dan mendudukkan-Nya di sebelah kanan-Nya di surga, jauh lebih tinggi dari segala pemerintah dan penguasa dan kekuasaan dan kerajaan dan tiap-tiap nama yang dapat disebut.",
+    "verse_ref": "Efesus 1:20-21"
+  },
+  "q_jesus_038": {
+    "question": "Isilah bagian yang kosong: 'Itulah sebabnya Allah sangat meninggikan Dia dan mengaruniakan kepada-Nya nama di atas segala nama, supaya dalam nama Yesus bertekuk lutut segala _____, yang ada di langit dan yang ada di atas bumi dan yang ada di bawah bumi.'",
+    "correct": "lutut",
+    "wrong": ["kepala", "hati", "jiwa"],
+    "hint": "Bagian tubuh yang membungkuk dalam penyembahan",
+    "explanation": "Paulus menyatakan bahwa Allah meninggikan Yesus dan memberi-Nya nama tertinggi.",
+    "full_verse": "Itulah sebabnya Allah sangat meninggikan Dia dan mengaruniakan kepada-Nya nama di atas segala nama, supaya dalam nama Yesus bertekuk lutut segala yang di langit dan yang di atas bumi dan yang di bawah bumi.",
+    "verse_ref": "Filipi 2:9-10"
+  },
+  "q_jesus_039": {
+    "question": "Isilah bagian yang kosong: 'Karena di dalam Dialah telah diciptakan segala sesuatu, yang ada di surga dan yang ada di bumi, yang kelihatan dan yang tidak kelihatan, baik singgasana, maupun kerajaan, baik pemerintah, maupun penguasa; segala sesuatu diciptakan oleh Dia dan untuk _____.'",
+    "correct": "Dia",
+    "wrong": ["Allah", "kita", "kemuliaan"],
+    "hint": "Semua ciptaan adalah untuk Kristus",
+    "explanation": "Paulus menyatakan bahwa segala sesuatu diciptakan oleh Kristus dan untuk Kristus.",
+    "full_verse": "Karena di dalam Dialah telah diciptakan segala sesuatu, yang ada di surga dan yang ada di bumi, yang kelihatan dan yang tidak kelihatan, baik singgasana, maupun kerajaan, baik pemerintah, maupun penguasa; segala sesuatu diciptakan oleh Dia dan untuk Dia.",
+    "verse_ref": "Kolose 1:16"
+  },
+  "q_jesus_040": {
+    "question": "Isilah bagian yang kosong: 'Ia sendiri telah memikul dosa kita di dalam tubuh-Nya di kayu salib, supaya kita, yang telah mati terhadap dosa, hidup untuk kebenaran. Oleh bilur-bilur-Nya kamu telah _____.'",
+    "correct": "sembuh",
+    "wrong": ["diselamatkan", "diampuni", "dibebaskan"],
+    "hint": "Menjadi sehat melalui penderitaan-Nya",
+    "explanation": "Petrus menggambarkan bagaimana pengorbanan Kristus di kayu salib membawa kesembuhan bagi kita.",
+    "full_verse": "Ia sendiri telah memikul dosa kita di dalam tubuh-Nya di kayu salib, supaya kita, yang telah mati terhadap dosa, hidup untuk kebenaran. Oleh bilur-bilur-Nya kamu telah sembuh.",
+    "verse_ref": "1 Petrus 2:24"
+  },
+  "q_jesus_041": {
+    "question": "Isilah bagian yang kosong: 'Anak-anakku, hal-hal ini kutuliskan kepada kamu, supaya kamu jangan berbuat dosa, namun jika seorang berbuat dosa, kita mempunyai seorang pengantara pada Bapa, yaitu Yesus Kristus, yang _____.'",
+    "correct": "adil",
+    "wrong": ["kudus", "setia", "hidup"],
+    "hint": "Karakter moral Yesus",
+    "explanation": "Yohanes meyakinkan orang percaya bahwa Yesus membela kita ketika kita berdosa.",
+    "full_verse": "Anak-anakku, hal-hal ini kutuliskan kepada kamu, supaya kamu jangan berbuat dosa, namun jika seorang berbuat dosa, kita mempunyai seorang pengantara pada Bapa, yaitu Yesus Kristus, yang adil.",
+    "verse_ref": "1 Yohanes 2:1"
+  },
+  "q_jesus_042": {
+    "question": "Isilah bagian yang kosong: 'Sebab seorang anak telah lahir untuk kita, seorang putera telah diberikan untuk kita; lambang pemerintahan ada di atas bahunya, dan namanya disebutkan orang: Penasihat Ajaib, Allah yang Perkasa, Bapa yang Kekal, Raja _____.'",
+    "correct": "Damai",
+    "wrong": ["Kemuliaan", "Hidup", "Raja-raja"],
+    "hint": "Kebalikan dari perang",
+    "explanation": "Yesaya menubuatkan tentang Mesias dengan empat gelar mulia.",
+    "full_verse": "Sebab seorang anak telah lahir untuk kita, seorang putera telah diberikan untuk kita; lambang pemerintahan ada di atas bahunya, dan namanya disebutkan orang: Penasihat Ajaib, Allah yang Perkasa, Bapa yang Kekal, Raja Damai.",
+    "verse_ref": "Yesaya 9:5"
+  },
+  "q_jesus_043": {
+    "question": "Isilah bagian yang kosong: 'Tetapi dia tertikam oleh karena pemberontakan kita, dia diremukkan oleh karena kejahatan kita; ganjaran yang mendatangkan keselamatan bagi kita ditimpakan kepadanya, dan oleh bilur-bilurnya kita menjadi _____.'",
+    "correct": "sembuh",
+    "wrong": ["darah", "kematian", "cambukan"],
+    "hint": "Menjadi sehat",
+    "explanation": "Yesaya menubuatkan tentang hamba yang menderita yang membawa kesembuhan melalui luka-luka-Nya.",
+    "full_verse": "Tetapi dia tertikam oleh karena pemberontakan kita, dia diremukkan oleh karena kejahatan kita; ganjaran yang mendatangkan keselamatan bagi kita ditimpakan kepadanya, dan oleh bilur-bilurnya kita menjadi sembuh.",
+    "verse_ref": "Yesaya 53:5"
+  },
+  "q_jesus_044": {
+    "question": "Isilah bagian yang kosong: 'Tetapi engkau, hai Betlehem Efrata, hai yang terkecil di antara kaum-kaum Yehuda, dari padamu akan bangkit bagi-Ku seorang yang akan memerintah Israel, yang permulaannya sudah sejak purbakala, sejak dahulu _____.'",
+    "correct": "kala",
+    "wrong": ["hari", "zaman", "tahun"],
+    "hint": "Dari waktu yang sangat lama",
+    "explanation": "Mikha menubuatkan bahwa Mesias akan datang dari Betlehem dengan asal-usul kekal.",
+    "full_verse": "Tetapi engkau, hai Betlehem Efrata, hai yang terkecil di antara kaum-kaum Yehuda, dari padamu akan bangkit bagi-Ku seorang yang akan memerintah Israel, yang permulaannya sudah sejak purbakala, sejak dahulu kala.",
+    "verse_ref": "Mikha 5:1"
+  },
+  "q_jesus_045": {
+    "question": "Isilah bagian yang kosong: 'Sejak waktu itulah Yesus memberitakan: \"Bertobatlah, sebab Kerajaan _____ sudah dekat!\"'",
+    "correct": "Sorga",
+    "wrong": ["Allah", "kemuliaan", "damai"],
+    "hint": "Tempat Allah berdiam",
+    "explanation": "Yesus memulai pelayanan-Nya dengan memanggil orang untuk bertobat karena Kerajaan Allah sudah dekat.",
+    "full_verse": "Sejak waktu itulah Yesus memberitakan: 'Bertobatlah, sebab Kerajaan Sorga sudah dekat!'",
+    "verse_ref": "Matius 4:17"
+  },
+  "q_jesus_046": {
+    "question": "Isilah bagian yang kosong: 'Karena Anak Manusia juga datang bukan untuk dilayani, melainkan untuk melayani dan untuk memberikan nyawa-Nya menjadi tebusan bagi banyak _____.'",
+    "correct": "orang",
+    "wrong": ["semua", "kita", "pendosa"],
+    "hint": "Sejumlah besar manusia",
+    "explanation": "Yesus menggambarkan misi-Nya sebagai melayani dan memberikan nyawa-Nya sebagai tebusan.",
+    "full_verse": "Karena Anak Manusia juga datang bukan untuk dilayani, melainkan untuk melayani dan untuk memberikan nyawa-Nya menjadi tebusan bagi banyak orang.",
+    "verse_ref": "Markus 10:45"
+  },
+  "q_jesus_047": {
+    "question": "Isilah bagian yang kosong: 'Kata-Nya kepada mereka: \"Ada tertulis demikian: Mesias harus menderita dan bangkit dari antara orang mati pada hari yang ketiga, dan lagi: dalam nama-Nya berita tentang pertobatan dan pengampunan dosa harus disampaikan kepada segala _____.\"'",
+    "correct": "bangsa",
+    "wrong": ["orang", "umat", "negeri"],
+    "hint": "Semua kelompok etnis",
+    "explanation": "Yesus yang bangkit menjelaskan bahwa Injil harus diberitakan kepada segala bangsa.",
+    "full_verse": "Kata-Nya kepada mereka: 'Ada tertulis demikian: Mesias harus menderita dan bangkit dari antara orang mati pada hari yang ketiga, dan lagi: dalam nama-Nya berita tentang pertobatan dan pengampunan dosa harus disampaikan kepada segala bangsa, dimulai dari Yerusalem.'",
+    "verse_ref": "Lukas 24:46-47"
+  },
+  "q_jesus_048": {
+    "question": "Isilah bagian yang kosong: 'Aku berkata kepadamu: Sesungguhnya barangsiapa mendengar perkataan-Ku dan percaya kepada Dia yang mengutus Aku, ia mempunyai hidup yang kekal dan tidak turut dihukum, sebab ia sudah pindah dari dalam maut ke dalam _____.'",
+    "correct": "hidup",
+    "wrong": ["kemuliaan", "surga", "damai"],
+    "hint": "Kebalikan dari kematian",
+    "explanation": "Yesus menjanjikan hidup kekal kepada mereka yang percaya, berpindah dari kematian ke kehidupan.",
+    "full_verse": "Aku berkata kepadamu: Sesungguhnya barangsiapa mendengar perkataan-Ku dan percaya kepada Dia yang mengutus Aku, ia mempunyai hidup yang kekal dan tidak turut dihukum, sebab ia sudah pindah dari dalam maut ke dalam hidup.",
+    "verse_ref": "Yohanes 5:24"
+  },
+  "q_jesus_049": {
+    "question": "Isilah bagian yang kosong: 'Janganlah gelisah hatimu; percayalah kepada Allah, percayalah juga kepada-Ku. Di rumah Bapa-Ku banyak tempat tinggal. Jika tidak demikian, tentu Aku mengatakannya kepadamu. Sebab Aku pergi ke situ untuk menyediakan tempat _____.'",
+    "correct": "bagimu",
+    "wrong": ["kamar", "rumah", "istana"],
+    "hint": "Lokasi yang disiapkan untuk kita",
+    "explanation": "Yesus menghibur murid-murid-Nya dengan janji menyediakan tempat bagi mereka.",
+    "full_verse": "Janganlah gelisah hatimu; percayalah kepada Allah, percayalah juga kepada-Ku. Di rumah Bapa-Ku banyak tempat tinggal. Jika tidak demikian, tentu Aku mengatakannya kepadamu. Sebab Aku pergi ke situ untuk menyediakan tempat bagimu.",
+    "verse_ref": "Yohanes 14:1-2"
+  },
+  "q_jesus_050": {
+    "question": "Isilah bagian yang kosong: 'Lihat, Aku berdiri di muka pintu dan mengetok; jikalau ada orang yang mendengar suara-Ku dan membukakan pintu, Aku akan masuk mendapatkannya dan Aku makan bersama-sama dengan dia, dan ia bersama-sama dengan _____.'",
+    "correct": "Aku",
+    "wrong": ["kita", "mereka", "Allah"],
+    "hint": "Yesus menawarkan persekutuan",
+    "explanation": "Yesus menawarkan persekutuan intim kepada siapa pun yang membukakan pintu bagi-Nya.",
+    "full_verse": "Lihat, Aku berdiri di muka pintu dan mengetok; jikalau ada orang yang mendengar suara-Ku dan membukakan pintu, Aku akan masuk mendapatkannya dan Aku makan bersama-sama dengan dia, dan ia bersama-sama dengan Aku.",
+    "verse_ref": "Wahyu 3:20"
+  }
+}

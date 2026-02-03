@@ -1,1 +1,452 @@
-{}
+{
+  "q_strength_001": {
+    "question": "Isi bagian yang kosong: 'Segala perkara dapat kutanggung di dalam Dia yang memberi _____ kepadaku.'",
+    "correct": "kekuatan",
+    "wrong": ["kuasa", "keberanian", "harapan"],
+    "hint": "Ini adalah kemampuan untuk mengatasi tantangan",
+    "explanation": "Kristus memberdayakan kita untuk menghadapi situasi apa pun dengan kekuatan-Nya.",
+    "full_verse": "Segala perkara dapat kutanggung di dalam Dia yang memberi kekuatan kepadaku.",
+    "verse_ref": "Filipi 4:13"
+  },
+  "q_strength_002": {
+    "question": "Isi bagian yang kosong: 'Tetapi orang-orang yang menanti-nantikan TUHAN mendapat kekuatan baru: mereka seumpama _____ yang naik terbang dengan kekuatan sayapnya; mereka berlari dan tidak menjadi lesu, mereka berjalan dan tidak menjadi lelah.'",
+    "correct": "rajawali",
+    "wrong": ["malaikat", "burung", "merpati"],
+    "hint": "Ini adalah burung yang kuat yang terbang tinggi",
+    "explanation": "Mereka yang percaya kepada Allah menerima kekuatan baru untuk melampaui kesulitan.",
+    "full_verse": "Tetapi orang-orang yang menanti-nantikan TUHAN mendapat kekuatan baru: mereka seumpama rajawali yang naik terbang dengan kekuatan sayapnya; mereka berlari dan tidak menjadi lesu, mereka berjalan dan tidak menjadi lelah.",
+    "verse_ref": "Yesaya 40:31"
+  },
+  "q_strength_003": {
+    "question": "Isi bagian yang kosong: 'Allah itu bagi kita tempat perlindungan dan kekuatan, sebagai penolong dalam _____ sangat terbukti.'",
+    "correct": "kesesakan",
+    "wrong": ["kebutuhan", "bahaya", "kesusahan"],
+    "hint": "Kata ini berarti kesulitan atau kesukaran",
+    "explanation": "Allah selalu tersedia sebagai sumber kekuatan dan pertolongan kita.",
+    "full_verse": "Allah itu bagi kita tempat perlindungan dan kekuatan, sebagai penolong dalam kesesakan sangat terbukti.",
+    "verse_ref": "Mazmur 46:2"
+  },
+  "q_strength_004": {
+    "question": "Isi bagian yang kosong: 'Tetapi jawab Tuhan kepadaku: \"Cukuplah kasih karunia-Ku bagimu, sebab justru dalam _____ kuasa-Ku menjadi sempurna.\"'",
+    "correct": "kelemahan",
+    "wrong": ["kerendahan hati", "iman", "pencobaan"],
+    "hint": "Ini adalah kebalikan dari kekuatan",
+    "explanation": "Kuasa Allah paling nyata ketika kita mengakui keterbatasan kita sendiri.",
+    "full_verse": "Tetapi jawab Tuhan kepadaku: \"Cukuplah kasih karunia-Ku bagimu, sebab justru dalam kelemahan kuasa-Ku menjadi sempurna.\"",
+    "verse_ref": "2 Korintus 12:9"
+  },
+  "q_strength_005": {
+    "question": "Isi bagian yang kosong: 'Jangan berdukacita, sebab sukacita karena TUHAN itulah _____.'",
+    "correct": "kekuatanmu",
+    "wrong": ["harapanmu", "damaimu", "perlindunganmu"],
+    "hint": "Ini adalah apa yang sukacita karena TUHAN berikan",
+    "explanation": "Menemukan sukacita di dalam Tuhan memberi kita kekuatan untuk bertekun.",
+    "full_verse": "Jangan berdukacita, sebab sukacita karena TUHAN itulah kekuatanmu.",
+    "verse_ref": "Nehemia 8:10"
+  },
+  "q_strength_006": {
+    "question": "Isi bagian yang kosong: 'TUHAN adalah kekuatanku dan perisaiku; kepada-Nya hatiku percaya. Aku tertolong sebab itu beria-ria hatiku, dan dengan _____ aku akan bersyukur kepada-Nya.'",
+    "correct": "nyanyianku",
+    "wrong": ["suaraku", "jiwaku", "perkataanku"],
+    "hint": "Ini adalah ekspresi pujian melalui musik",
+    "explanation": "Ketika Allah menguatkan kita, respons kita adalah pujian yang bersukacita.",
+    "full_verse": "TUHAN adalah kekuatanku dan perisaiku; kepada-Nya hatiku percaya. Aku tertolong sebab itu beria-ria hatiku, dan dengan nyanyianku aku akan bersyukur kepada-Nya.",
+    "verse_ref": "Mazmur 28:7"
+  },
+  "q_strength_007": {
+    "question": "Isi bagian yang kosong: 'Janganlah takut, sebab Aku menyertai engkau, janganlah bimbang, sebab Aku ini Allahmu; Aku akan meneguhkan, bahkan akan menolong engkau; Aku akan memegang engkau dengan tangan kanan-Ku yang _____.'",
+    "correct": "membawa kemenangan",
+    "wrong": ["kudus", "kuat", "perkasa"],
+    "hint": "Ini menggambarkan tangan Allah yang memberikan keberhasilan",
+    "explanation": "Allah menjanjikan kehadiran, kekuatan, dan dukungan-Nya kepada mereka yang percaya kepada-Nya.",
+    "full_verse": "Janganlah takut, sebab Aku menyertai engkau, janganlah bimbang, sebab Aku ini Allahmu; Aku akan meneguhkan, bahkan akan menolong engkau; Aku akan memegang engkau dengan tangan kanan-Ku yang membawa kemenangan.",
+    "verse_ref": "Yesaya 41:10"
+  },
+  "q_strength_008": {
+    "question": "Isi bagian yang kosong: 'Akhirnya, hendaklah kamu kuat di dalam Tuhan, di dalam kekuatan _____ yang besar.'",
+    "correct": "kuasa-Nya",
+    "wrong": ["kasih karunia-Nya", "kasih-Nya", "firman-Nya"],
+    "hint": "Ini adalah kemampuan Allah untuk bertindak",
+    "explanation": "Kekuatan kita berasal dari kuasa Tuhan yang tidak terbatas.",
+    "full_verse": "Akhirnya, hendaklah kamu kuat di dalam Tuhan, di dalam kekuatan kuasa-Nya yang besar.",
+    "verse_ref": "Efesus 6:10"
+  },
+  "q_strength_009": {
+    "question": "Isi bagian yang kosong: 'Allahlah yang mengikat pinggangku dengan keperkasaan dan membuat _____ jalanku.'",
+    "correct": "rata",
+    "wrong": ["aman", "lurus", "terang"],
+    "hint": "Ini berarti tanpa hambatan",
+    "explanation": "Allah memberikan kekuatan dan menjaga kita di jalan yang aman.",
+    "full_verse": "Allahlah yang mengikat pinggangku dengan keperkasaan dan membuat rata jalanku.",
+    "verse_ref": "Mazmur 18:33"
+  },
+  "q_strength_010": {
+    "question": "Isi bagian yang kosong: 'Sekalipun dagingku dan hatiku habis lenyap, gunung batuku dan _____ adalah Allah, untuk selama-lamanya.'",
+    "correct": "bagianku",
+    "wrong": ["harapanku", "perlindunganku", "warisanku"],
+    "hint": "Ini berarti bagian seseorang atau warisan",
+    "explanation": "Bahkan ketika tubuh kita gagal, Allah tetap menjadi sumber kekuatan kekal kita.",
+    "full_verse": "Sekalipun dagingku dan hatiku habis lenyap, gunung batuku dan bagianku adalah Allah, untuk selama-lamanya.",
+    "verse_ref": "Mazmur 73:26"
+  },
+  "q_strength_011": {
+    "question": "Isi bagian yang kosong: 'Kuatkan dan teguhkanlah hatimu, janganlah takut dan jangan gemetar karena mereka, sebab TUHAN, Allahmu, Dialah yang berjalan menyertai engkau; Ia tidak akan membiarkan engkau dan tidak akan _____ engkau.'",
+    "correct": "meninggalkan",
+    "wrong": ["mengabaikan", "melupakan", "mengecewakan"],
+    "hint": "Ini berarti meninggalkan atau mengabaikan",
+    "explanation": "Kehadiran Allah yang terus-menerus memberi kita kekuatan dan keberanian.",
+    "full_verse": "Kuatkan dan teguhkanlah hatimu, janganlah takut dan jangan gemetar karena mereka, sebab TUHAN, Allahmu, Dialah yang berjalan menyertai engkau; Ia tidak akan membiarkan engkau dan tidak akan meninggalkan engkau.",
+    "verse_ref": "Ulangan 31:6"
+  },
+  "q_strength_012": {
+    "question": "Isi bagian yang kosong: 'Bukankah telah Kuperintahkan kepadamu: kuatkan dan teguhkanlah hatimu? Janganlah kecut dan tawar hati, sebab TUHAN, Allahmu, _____ engkau, ke mana pun engkau pergi.'",
+    "correct": "menyertai",
+    "wrong": ["melindungi", "memberkati", "menuntun"],
+    "hint": "Ini berarti bersama dengan",
+    "explanation": "Allah memerintahkan kita untuk kuat karena Dia selalu menyertai kita.",
+    "full_verse": "Bukankah telah Kuperintahkan kepadamu: kuatkan dan teguhkanlah hatimu? Janganlah kecut dan tawar hati, sebab TUHAN, Allahmu, menyertai engkau, ke mana pun engkau pergi.",
+    "verse_ref": "Yosua 1:9"
+  },
+  "q_strength_013": {
+    "question": "Isi bagian yang kosong: 'Carilah TUHAN dan kekuatan-Nya, carilah _____ senantiasa!'",
+    "correct": "wajah-Nya",
+    "wrong": ["hadirat-Nya", "kemuliaan-Nya", "pertolongan-Nya"],
+    "hint": "Ini mewakili hadirat Allah",
+    "explanation": "Kita harus terus mencari kekuatan dan hadirat Allah.",
+    "full_verse": "Carilah TUHAN dan kekuatan-Nya, carilah wajah-Nya senantiasa!",
+    "verse_ref": "1 Tawarikh 16:11"
+  },
+  "q_strength_014": {
+    "question": "Isi bagian yang kosong: 'Aku mengasihi Engkau, ya TUHAN, kekuatanku! TUHAN itu bukit batuku, kubu pertahananku dan penyelamatku, Allahku, gunung batuku, tempat aku _____.'",
+    "correct": "berlindung",
+    "wrong": ["berteduh", "bersandar", "beristirahat"],
+    "hint": "Ini adalah tempat perlindungan",
+    "explanation": "Allah adalah sumber kekuatan dan perlindungan tertinggi kita.",
+    "full_verse": "Aku mengasihi Engkau, ya TUHAN, kekuatanku! TUHAN itu bukit batuku, kubu pertahananku dan penyelamatku, Allahku, gunung batuku, tempat aku berlindung.",
+    "verse_ref": "Mazmur 18:2-3"
+  },
+  "q_strength_015": {
+    "question": "Isi bagian yang kosong: 'TUHAN adalah terangku dan keselamatanku, kepada siapakah aku harus takut? TUHAN adalah benteng hidupku, terhadap siapakah aku harus _____?'",
+    "correct": "gemetar",
+    "wrong": ["takut", "gentar", "khawatir"],
+    "hint": "Ini adalah emosi ketakutan",
+    "explanation": "Dengan Allah sebagai kekuatan kita, kita tidak perlu takut.",
+    "full_verse": "TUHAN adalah terangku dan keselamatanku, kepada siapakah aku harus takut? TUHAN adalah benteng hidupku, terhadap siapakah aku harus gemetar?",
+    "verse_ref": "Mazmur 27:1"
+  },
+  "q_strength_016": {
+    "question": "Isi bagian yang kosong: 'TUHAN memberi kekuatan kepada umat-Nya, TUHAN memberkati umat-Nya dengan _____.'",
+    "correct": "damai sejahtera",
+    "wrong": ["sukacita", "harapan", "kasih"],
+    "hint": "Ini adalah keadaan tenang dan tenteram",
+    "explanation": "Allah memberikan kekuatan dan damai sejahtera kepada umat-Nya.",
+    "full_verse": "TUHAN memberi kekuatan kepada umat-Nya, TUHAN memberkati umat-Nya dengan damai sejahtera.",
+    "verse_ref": "Mazmur 29:11"
+  },
+  "q_strength_017": {
+    "question": "Isi bagian yang kosong: 'Kuatkanlah dan teguhkanlah hatimu, hai semua orang yang _____ kepada TUHAN!'",
+    "correct": "berharap",
+    "wrong": ["percaya", "beriman", "bersandar"],
+    "hint": "Ini adalah pengharapan yang yakin",
+    "explanation": "Mereka yang berharap kepada Allah akan menemukan kekuatan dan keberanian.",
+    "full_verse": "Kuatkanlah dan teguhkanlah hatimu, hai semua orang yang berharap kepada TUHAN!",
+    "verse_ref": "Mazmur 31:25"
+  },
+  "q_strength_018": {
+    "question": "Isi bagian yang kosong: 'Keselamatan orang-orang benar adalah dari TUHAN; Ia adalah tempat pengungsian mereka pada waktu _____.'",
+    "correct": "kesesakan",
+    "wrong": ["kebutuhan", "bahaya", "pencobaan"],
+    "hint": "Ini mengacu pada waktu yang sulit",
+    "explanation": "Allah adalah benteng kita ketika kesulitan muncul.",
+    "full_verse": "Keselamatan orang-orang benar adalah dari TUHAN; Ia adalah tempat pengungsian mereka pada waktu kesesakan.",
+    "verse_ref": "Mazmur 37:39"
+  },
+  "q_strength_019": {
+    "question": "Isi bagian yang kosong: 'Tetapi aku akan menyanyikan kekuatan-Mu, pada waktu pagi aku akan bersorak-sorai karena kasih setia-Mu, sebab Engkau telah menjadi kota bentengku, tempat aku _____ pada waktu aku terdesak.'",
+    "correct": "berlindung",
+    "wrong": ["berteduh", "bersembunyi", "selamat"],
+    "hint": "Ini adalah tempat perlindungan",
+    "explanation": "Kita memuji kekuatan Allah karena Dia adalah perlindungan kita.",
+    "full_verse": "Tetapi aku akan menyanyikan kekuatan-Mu, pada waktu pagi aku akan bersorak-sorai karena kasih setia-Mu, sebab Engkau telah menjadi kota bentengku, tempat aku berlindung pada waktu aku terdesak.",
+    "verse_ref": "Mazmur 59:17"
+  },
+  "q_strength_020": {
+    "question": "Isi bagian yang kosong: 'Engkaulah Allah yang dahsyat di tempat kudus-Mu; Allah Israel, Dialah yang memberikan kekuatan dan _____ kepada umat-Nya. Terpujilah Allah!'",
+    "correct": "keperkasaan",
+    "wrong": ["keberanian", "kemenangan", "kuasa"],
+    "hint": "Ini adalah kemampuan untuk mengatasi tantangan",
+    "explanation": "Allah memberikan kekuatan dan keperkasaan kepada umat-Nya.",
+    "full_verse": "Engkaulah Allah yang dahsyat di tempat kudus-Mu; Allah Israel, Dialah yang memberikan kekuatan dan keperkasaan kepada umat-Nya. Terpujilah Allah!",
+    "verse_ref": "Mazmur 68:36"
+  },
+  "q_strength_021": {
+    "question": "Isi bagian yang kosong: 'Berbahagialah manusia yang kekuatannya di dalam Engkau, yang berhasrat mengadakan _____ ziarah!'",
+    "correct": "perjalanan",
+    "wrong": ["pergi", "ibadah", "doa"],
+    "hint": "Ini adalah perjalanan rohani",
+    "explanation": "Mereka yang menemukan kekuatan mereka di dalam Allah dan mengejar-Nya diberkati.",
+    "full_verse": "Berbahagialah manusia yang kekuatannya di dalam Engkau, yang berhasrat mengadakan perjalanan ziarah!",
+    "verse_ref": "Mazmur 84:6"
+  },
+  "q_strength_022": {
+    "question": "Isi bagian yang kosong: 'TUHAN itu kekuatanku dan mazmurku; Ia telah menjadi _____.'",
+    "correct": "keselamatanku",
+    "wrong": ["perisaiku", "perlindunganku", "harapanku"],
+    "hint": "Ini adalah pembebasan dari bahaya",
+    "explanation": "Allah adalah kekuatan, pertahanan, dan sumber keselamatan kita.",
+    "full_verse": "TUHAN itu kekuatanku dan mazmurku; Ia telah menjadi keselamatanku.",
+    "verse_ref": "Mazmur 118:14"
+  },
+  "q_strength_023": {
+    "question": "Isi bagian yang kosong: 'Pada hari aku berseru, Engkau menjawab aku, Engkau menambah kekuatan dalam _____.'",
+    "correct": "jiwaku",
+    "wrong": ["hatiku", "hidupku", "rohku"],
+    "hint": "Ini adalah bagian batin seseorang",
+    "explanation": "Allah menjawab doa kita dan memberi kita kekuatan yang berani.",
+    "full_verse": "Pada hari aku berseru, Engkau menjawab aku, Engkau menambah kekuatan dalam jiwaku.",
+    "verse_ref": "Mazmur 138:3"
+  },
+  "q_strength_024": {
+    "question": "Isi bagian yang kosong: 'Sesungguhnya, Allah itu keselamatanku; aku percaya dengan tidak gementar. Sebab TUHAN ALLAH itu kekuatanku dan _____, dan Ia telah menjadi keselamatanku.'",
+    "correct": "mazmurku",
+    "wrong": ["perisaiku", "perlindunganku", "nyanyianku"],
+    "hint": "Ini adalah nyanyian pujian",
+    "explanation": "Allah adalah kekuatan dan perlindungan kita.",
+    "full_verse": "Sesungguhnya, Allah itu keselamatanku; aku percaya dengan tidak gementar. Sebab TUHAN ALLAH itu kekuatanku dan mazmurku, dan Ia telah menjadi keselamatanku.",
+    "verse_ref": "Yesaya 12:2"
+  },
+  "q_strength_025": {
+    "question": "Isi bagian yang kosong: 'Dia memberi kekuatan kepada yang lelah dan menambah semangat kepada yang tiada _____.'",
+    "correct": "berdaya",
+    "wrong": ["kuat", "berani", "berharap"],
+    "hint": "Ini adalah kemampuan untuk bertindak",
+    "explanation": "Allah menguatkan mereka yang lelah dan lemah.",
+    "full_verse": "Dia memberi kekuatan kepada yang lelah dan menambah semangat kepada yang tiada berdaya.",
+    "verse_ref": "Yesaya 40:29"
+  },
+  "q_strength_026": {
+    "question": "Isi bagian yang kosong: 'Sebab Aku ini, TUHAN, Allahmu, memegang tangan kananmu dan berkata kepadamu: \"Janganlah takut, Akulah yang menolong _____.\"'",
+    "correct": "engkau",
+    "wrong": ["kamu", "mereka", "umat-Ku"],
+    "hint": "Allah berbicara langsung kepada kita",
+    "explanation": "Allah secara pribadi memegang tangan kita dan berjanji untuk menolong kita.",
+    "full_verse": "Sebab Aku ini, TUHAN, Allahmu, memegang tangan kananmu dan berkata kepadamu: \"Janganlah takut, Akulah yang menolong engkau.\"",
+    "verse_ref": "Yesaya 41:13"
+  },
+  "q_strength_027": {
+    "question": "Isi bagian yang kosong: 'Ya TUHAN, kekuatanku dan bentengku dan tempat pelarianku pada hari kesesakan! Kepada-Mu bangsa-bangsa akan datang dari ujung _____.'",
+    "correct": "bumi",
+    "wrong": ["dunia", "negeri", "langit"],
+    "hint": "Ini adalah planet kita",
+    "explanation": "Allah adalah kekuatan dan perlindungan kita, dan semua bangsa akan datang kepada-Nya.",
+    "full_verse": "Ya TUHAN, kekuatanku dan bentengku dan tempat pelarianku pada hari kesesakan! Kepada-Mu bangsa-bangsa akan datang dari ujung bumi.",
+    "verse_ref": "Yeremia 16:19"
+  },
+  "q_strength_028": {
+    "question": "Isi bagian yang kosong: 'TUHAN adalah kekuatanku; Ia membuat kakiku seperti kaki rusa, Ia membiarkan aku berjejak di _____ bukitku.'",
+    "correct": "tempat-tempat tinggi",
+    "wrong": ["puncak", "gunung", "batu"],
+    "hint": "Ini mengacu pada tempat yang tinggi",
+    "explanation": "Allah memberi kita kekuatan untuk mengatasi rintangan dan mencapai ketinggian baru.",
+    "full_verse": "TUHAN adalah kekuatanku; Ia membuat kakiku seperti kaki rusa, Ia membiarkan aku berjejak di tempat-tempat tinggi bukitku.",
+    "verse_ref": "Habakuk 3:19"
+  },
+  "q_strength_029": {
+    "question": "Isi bagian yang kosong: 'Bukan dengan keperkasaan dan bukan dengan kekuatan, melainkan dengan _____, demikianlah firman TUHAN semesta alam.'",
+    "correct": "Roh-Ku",
+    "wrong": ["firman-Ku", "tangan-Ku", "kasih karunia-Ku"],
+    "hint": "Ini adalah Pribadi ketiga dalam Tritunggal",
+    "explanation": "Kekuatan sejati tidak datang dari usaha manusia tetapi dari Roh Allah.",
+    "full_verse": "Bukan dengan keperkasaan dan bukan dengan kekuatan, melainkan dengan Roh-Ku, demikianlah firman TUHAN semesta alam.",
+    "verse_ref": "Zakharia 4:6"
+  },
+  "q_strength_030": {
+    "question": "Isi bagian yang kosong: 'Tetapi dalam semuanya itu kita lebih dari pada orang-orang yang _____ oleh Dia yang telah mengasihi kita.'",
+    "correct": "menang",
+    "wrong": ["selamat", "diberkati", "dilindungi"],
+    "hint": "Ini adalah orang yang mengalahkan dan menang",
+    "explanation": "Melalui kasih Kristus, kita memiliki kemenangan yang luar biasa.",
+    "full_verse": "Tetapi dalam semuanya itu kita lebih dari pada orang-orang yang menang, oleh Dia yang telah mengasihi kita.",
+    "verse_ref": "Roma 8:37"
+  },
+  "q_strength_031": {
+    "question": "Isi bagian yang kosong: 'Sebab yang bodoh dari Allah lebih besar hikmatnya dari pada manusia dan yang lemah dari Allah lebih _____ dari pada manusia.'",
+    "correct": "kuat",
+    "wrong": ["berkuasa", "perkasa", "mulia"],
+    "hint": "Ini adalah kebalikan dari lemah",
+    "explanation": "Bahkan 'kelemahan' Allah melampaui semua kekuatan manusia.",
+    "full_verse": "Sebab yang bodoh dari Allah lebih besar hikmatnya dari pada manusia dan yang lemah dari Allah lebih kuat dari pada manusia.",
+    "verse_ref": "1 Korintus 1:25"
+  },
+  "q_strength_032": {
+    "question": "Isi bagian yang kosong: 'Pencobaan-pencobaan yang kamu alami ialah pencobaan-pencobaan biasa, yang tidak melebihi kekuatan manusia. Sebab Allah setia dan karena itu Ia tidak akan membiarkan kamu dicobai melampaui kekuatanmu. Pada waktu kamu dicobai Ia akan memberikan kepadamu jalan ke luar, sehingga kamu dapat _____.'",
+    "correct": "menanggungnya",
+    "wrong": ["mengatasinya", "melawannya", "menghindarinya"],
+    "hint": "Ini berarti bertahan melalui kesulitan",
+    "explanation": "Allah memberi kita kekuatan untuk menanggung setiap pencobaan.",
+    "full_verse": "Pencobaan-pencobaan yang kamu alami ialah pencobaan-pencobaan biasa, yang tidak melebihi kekuatan manusia. Sebab Allah setia dan karena itu Ia tidak akan membiarkan kamu dicobai melampaui kekuatanmu. Pada waktu kamu dicobai Ia akan memberikan kepadamu jalan ke luar, sehingga kamu dapat menanggungnya.",
+    "verse_ref": "1 Korintus 10:13"
+  },
+  "q_strength_033": {
+    "question": "Isi bagian yang kosong: 'Berjaga-jagalah! Berdirilah teguh dalam iman! Bersikaplah sebagai laki-laki! Jadilah _____!'",
+    "correct": "kuat",
+    "wrong": ["berani", "teguh", "setia"],
+    "hint": "Ini adalah kemampuan untuk mengatasi tantangan",
+    "explanation": "Kita dipanggil untuk waspada, setia, berani, dan kuat.",
+    "full_verse": "Berjaga-jagalah! Berdirilah teguh dalam iman! Bersikaplah sebagai laki-laki! Jadilah kuat!",
+    "verse_ref": "1 Korintus 16:13"
+  },
+  "q_strength_034": {
+    "question": "Isi bagian yang kosong: 'Sebab itu aku senang dan rela di dalam kelemahan, di dalam siksaan, di dalam kesukaran, di dalam penganiayaan dan kesesakan oleh karena Kristus. Sebab jika aku lemah, maka aku _____.'",
+    "correct": "kuat",
+    "wrong": ["berani", "teguh", "berkuasa"],
+    "hint": "Ini adalah kebalikan dari lemah",
+    "explanation": "Kuasa Allah menjadi sempurna dalam kelemahan kita.",
+    "full_verse": "Sebab itu aku senang dan rela di dalam kelemahan, di dalam siksaan, di dalam kesukaran, di dalam penganiayaan dan kesesakan oleh karena Kristus. Sebab jika aku lemah, maka aku kuat.",
+    "verse_ref": "2 Korintus 12:10"
+  },
+  "q_strength_035": {
+    "question": "Isi bagian yang kosong: 'Aku berdoa supaya Ia, menurut kekayaan kemuliaan-Nya, menguatkan dan meneguhkan kamu oleh Roh-Nya di dalam batinmu.'",
+    "correct": "batinmu",
+    "wrong": ["dirimu", "jiwamu", "hatimu"],
+    "hint": "Ini adalah inti dari siapa Anda",
+    "explanation": "Allah menguatkan kita secara rohani dari dalam.",
+    "full_verse": "Aku berdoa supaya Ia, menurut kekayaan kemuliaan-Nya, menguatkan dan meneguhkan kamu oleh Roh-Nya di dalam batinmu.",
+    "verse_ref": "Efesus 3:16"
+  },
+  "q_strength_036": {
+    "question": "Isi bagian yang kosong: 'Dan supaya kamu diperkuat dengan segala kekuatan oleh kuasa kemuliaan-Nya untuk menanggung segala sesuatu dengan tekun dan _____.'",
+    "correct": "sabar",
+    "wrong": ["iman", "harapan", "damai"],
+    "hint": "Ini adalah kemampuan untuk menunggu dengan tenang",
+    "explanation": "Kuasa Allah memungkinkan kita untuk bertahan dengan kesabaran.",
+    "full_verse": "Dan supaya kamu diperkuat dengan segala kekuatan oleh kuasa kemuliaan-Nya untuk menanggung segala sesuatu dengan tekun dan sabar.",
+    "verse_ref": "Kolose 1:11"
+  },
+  "q_strength_037": {
+    "question": "Isi bagian yang kosong: 'Sebab Allah memberikan kepada kita bukan roh ketakutan, melainkan roh yang membangkitkan kekuatan, kasih dan _____.'",
+    "correct": "ketertiban",
+    "wrong": ["hikmat", "keberanian", "iman"],
+    "hint": "Ini adalah pengendalian diri",
+    "explanation": "Roh Allah memberdayakan kita dengan kekuatan, kasih, dan ketertiban.",
+    "full_verse": "Sebab Allah memberikan kepada kita bukan roh ketakutan, melainkan roh yang membangkitkan kekuatan, kasih dan ketertiban.",
+    "verse_ref": "2 Timotius 1:7"
+  },
+  "q_strength_038": {
+    "question": "Isi bagian yang kosong: 'Sebab itu, hai anakku, jadilah kuat oleh kasih karunia dalam Kristus _____.'",
+    "correct": "Yesus",
+    "wrong": ["Tuhan", "Juruselamat", "Raja"],
+    "hint": "Nama pribadi Kristus",
+    "explanation": "Kekuatan kita berasal dari kasih karunia yang ditemukan dalam Kristus.",
+    "full_verse": "Sebab itu, hai anakku, jadilah kuat oleh kasih karunia dalam Kristus Yesus.",
+    "verse_ref": "2 Timotius 2:1"
+  },
+  "q_strength_039": {
+    "question": "Isi bagian yang kosong: 'Tetapi Tuhan telah mendampingi aku dan menguatkan aku, supaya dengan perantaraanku Injil diberitakan dengan sepenuhnya dan didengar oleh semua orang _____.'",
+    "correct": "bukan Yahudi",
+    "wrong": ["bangsa-bangsa", "manusia", "dunia"],
+    "hint": "Ini mengacu pada orang non-Yahudi",
+    "explanation": "Allah menguatkan kita untuk memenuhi tujuan-Nya.",
+    "full_verse": "Tetapi Tuhan telah mendampingi aku dan menguatkan aku, supaya dengan perantaraanku Injil diberitakan dengan sepenuhnya dan didengar oleh semua orang bukan Yahudi.",
+    "verse_ref": "2 Timotius 4:17"
+  },
+  "q_strength_040": {
+    "question": "Isi bagian yang kosong: 'Mereka telah memadamkan kuasa api, telah terluput dari mata pedang, telah mendapat kekuatan baru dari kelemahan, telah menjadi kuat dalam peperangan dan telah memukul mundur pasukan-pasukan _____.'",
+    "correct": "asing",
+    "wrong": ["musuh", "bangsa", "jahat"],
+    "hint": "Ini adalah pasukan militer dari negara lain",
+    "explanation": "Iman dapat mengubah kelemahan menjadi kekuatan untuk kemenangan.",
+    "full_verse": "Mereka telah memadamkan kuasa api, telah terluput dari mata pedang, telah mendapat kekuatan baru dari kelemahan, telah menjadi kuat dalam peperangan dan telah memukul mundur pasukan-pasukan asing.",
+    "verse_ref": "Ibrani 11:34"
+  },
+  "q_strength_041": {
+    "question": "Isi bagian yang kosong: 'Dan Allah, sumber segala kasih karunia, yang telah memanggil kamu dalam Kristus kepada kemuliaan-Nya yang kekal, akan melengkapi, meneguhkan, menguatkan dan mengokohkan kamu, sesudah kamu menderita _____ lamanya.'",
+    "correct": "sebentar",
+    "wrong": ["sedikit", "beberapa", "singkat"],
+    "hint": "Ini berarti waktu yang tidak lama",
+    "explanation": "Allah akan menguatkan dan meneguhkan kita setelah kita menanggung pencobaan.",
+    "full_verse": "Dan Allah, sumber segala kasih karunia, yang telah memanggil kamu dalam Kristus kepada kemuliaan-Nya yang kekal, akan melengkapi, meneguhkan, menguatkan dan mengokohkan kamu, sesudah kamu menderita sebentar lamanya.",
+    "verse_ref": "1 Petrus 5:10"
+  },
+  "q_strength_042": {
+    "question": "Isi bagian yang kosong: 'Kamu berasal dari Allah, anak-anakku, dan kamu telah mengalahkan nabi-nabi palsu itu; sebab Roh yang ada di dalam kamu, lebih besar dari pada roh yang ada di dalam _____.'",
+    "correct": "dunia",
+    "wrong": ["kegelapan", "musuh", "daging"],
+    "hint": "Ini adalah tempat di mana kejahatan beroperasi",
+    "explanation": "Allah di dalam kita lebih besar dari kekuatan apa pun di dunia.",
+    "full_verse": "Kamu berasal dari Allah, anak-anakku, dan kamu telah mengalahkan nabi-nabi palsu itu; sebab Roh yang ada di dalam kamu, lebih besar dari pada roh yang ada di dalam dunia.",
+    "verse_ref": "1 Yohanes 4:4"
+  },
+  "q_strength_043": {
+    "question": "Isi bagian yang kosong: 'TUHAN itu kekuatanku dan pujianku, Ia telah menjadi keselamatanku. Dialah Allahku, kupuji Dia, Allah _____ku, kuagungkan Dia.'",
+    "correct": "bapa",
+    "wrong": ["nenek moyangku", "leluhurku", "bangsaku"],
+    "hint": "Ini mengacu pada Allah bapa-bapa kita",
+    "explanation": "Allah adalah kekuatan, perlindungan, dan keselamatan kita.",
+    "full_verse": "TUHAN itu kekuatanku dan pujianku, Ia telah menjadi keselamatanku. Dialah Allahku, kupuji Dia, Allah bapaku, kuagungkan Dia.",
+    "verse_ref": "Keluaran 15:2"
+  },
+  "q_strength_044": {
+    "question": "Isi bagian yang kosong: 'Allah yang mengikat pinggangku dengan kekuatan dan membuat jalanku _____.'",
+    "correct": "sempurna",
+    "wrong": ["aman", "lurus", "terang"],
+    "hint": "Ini berarti tanpa cacat atau lengkap",
+    "explanation": "Allah memberikan kekuatan dan membimbing kita dengan aman.",
+    "full_verse": "Allah yang mengikat pinggangku dengan kekuatan dan membuat jalanku sempurna.",
+    "verse_ref": "2 Samuel 22:33"
+  },
+  "q_strength_045": {
+    "question": "Isi bagian yang kosong: 'Dari mulut bayi-bayi dan anak-anak yang menyusu telah Kauletakkan dasar kekuatan karena lawan-Mu, untuk membungkamkan musuh dan pendendam _____.'",
+    "correct": "dendam",
+    "wrong": ["musuh", "lawan", "jahat"],
+    "hint": "Ini adalah orang yang mencari pembalasan",
+    "explanation": "Kekuatan Allah ditampilkan bahkan melalui pujian anak-anak.",
+    "full_verse": "Dari mulut bayi-bayi dan anak-anak yang menyusu telah Kauletakkan dasar kekuatan karena lawan-Mu, untuk membungkamkan musuh dan pendendam.",
+    "verse_ref": "Mazmur 8:3"
+  },
+  "q_strength_046": {
+    "question": "Isi bagian yang kosong: 'Biarlah perkataan mulutku dan renungan hatiku berkenan kepada-Mu, ya TUHAN, gunung batuku dan _____.'",
+    "correct": "penebusku",
+    "wrong": ["juruselamatku", "kekuatanku", "perlindunganku"],
+    "hint": "Ini adalah seseorang yang menyelamatkan dengan membayar harga",
+    "explanation": "Allah adalah kekuatan kita (gunung batu) dan penebus kita.",
+    "full_verse": "Biarlah perkataan mulutku dan renungan hatiku berkenan kepada-Mu, ya TUHAN, gunung batuku dan penebusku.",
+    "verse_ref": "Mazmur 19:15"
+  },
+  "q_strength_047": {
+    "question": "Isi bagian yang kosong: 'Tangan-Ku akan tetap menyokong dia, bahkan lengan-Ku akan _____ dia.'",
+    "correct": "menguatkan",
+    "wrong": ["menolong", "melindungi", "memberkati"],
+    "hint": "Bagian tubuh ini melambangkan kekuatan",
+    "explanation": "Lengan Allah mewakili kuasa-Nya untuk menguatkan dan menyokong.",
+    "full_verse": "Tangan-Ku akan tetap menyokong dia, bahkan lengan-Ku akan menguatkan dia.",
+    "verse_ref": "Mazmur 89:22"
+  },
+  "q_strength_048": {
+    "question": "Isi bagian yang kosong: 'Carilah TUHAN dan kekuatan-Nya, carilah wajah-Nya _____.'",
+    "correct": "selalu",
+    "wrong": ["terus-menerus", "setiap hari", "selamanya"],
+    "hint": "Ini berarti setiap saat",
+    "explanation": "Kita harus terus-menerus mencari kekuatan dan hadirat Allah.",
+    "full_verse": "Carilah TUHAN dan kekuatan-Nya, carilah wajah-Nya selalu.",
+    "verse_ref": "Mazmur 105:4"
+  },
+  "q_strength_049": {
+    "question": "Isi bagian yang kosong: 'Terpujilah TUHAN, gunung batuku, yang melatih tanganku untuk bertempur, dan jari-jariku untuk _____.'",
+    "correct": "berperang",
+    "wrong": ["bertarung", "berkelahi", "berjuang"],
+    "hint": "Ini adalah konflik militer",
+    "explanation": "Allah melengkapi dan menguatkan kita untuk pertempuran rohani.",
+    "full_verse": "Terpujilah TUHAN, gunung batuku, yang melatih tanganku untuk bertempur, dan jari-jariku untuk berperang.",
+    "verse_ref": "Mazmur 144:1"
+  },
+  "q_strength_050": {
+    "question": "Isi bagian yang kosong: 'Orang yang bijak lebih berkuasa dari pada orang yang gagah perkasa, dan orang yang berpengetahuan lebih kuat dari pada orang yang _____ tenaganya.'",
+    "correct": "besar",
+    "wrong": ["kuat", "perkasa", "hebat"],
+    "hint": "Ini menggambarkan ukuran atau jumlah",
+    "explanation": "Hikmat dan pengetahuan meningkatkan kekuatan kita.",
+    "full_verse": "Orang yang bijak lebih berkuasa dari pada orang yang gagah perkasa, dan orang yang berpengetahuan lebih kuat dari pada orang yang besar tenaganya.",
+    "verse_ref": "Amsal 24:5"
+  }
+}

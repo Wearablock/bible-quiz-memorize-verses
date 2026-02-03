@@ -7,7 +7,7 @@
 #
 # 변경 후 실행: flutter pub get
 
-name: bible_quiz
+name: bible_quiz_memorize_verses
 description: "Bible Quiz - Memorize famous Bible verses through interactive quizzes"
 publish_to: 'none'
 version: 1.0.0+1

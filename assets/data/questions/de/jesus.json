@@ -1,1 +1,452 @@
-{}
+{
+  "q_jesus_001": {
+    "question": "Fülle die Lücke aus: 'Denn also hat Gott die Welt geliebt, dass er seinen eingeborenen Sohn gab, auf dass alle, die an ihn glauben, nicht verloren werden, sondern das ewige _____ haben.'",
+    "correct": "Leben",
+    "wrong": ["Freude", "Frieden", "Hoffnung"],
+    "hint": "Das Geschenk des Glaubens an Jesus",
+    "explanation": "Dieser berühmte Vers fasst das Evangelium zusammen – Gottes Liebe führte ihn dazu, seinen Sohn für das ewige Leben zu geben.",
+    "full_verse": "Denn also hat Gott die Welt geliebt, dass er seinen eingeborenen Sohn gab, auf dass alle, die an ihn glauben, nicht verloren werden, sondern das ewige Leben haben.",
+    "verse_ref": "Johannes 3:16"
+  },
+  "q_jesus_002": {
+    "question": "Fülle die Lücke aus: 'Jesus spricht zu ihm: Ich bin der Weg und die Wahrheit und das Leben; niemand kommt zum Vater denn durch _____.'",
+    "correct": "mich",
+    "wrong": ["Glauben", "Gnade", "Gebet"],
+    "hint": "Jesus ist der einzige Weg",
+    "explanation": "Jesus erklärt sich selbst als den einzigen Weg zu Gott dem Vater.",
+    "full_verse": "Jesus spricht zu ihm: Ich bin der Weg und die Wahrheit und das Leben; niemand kommt zum Vater denn durch mich.",
+    "verse_ref": "Johannes 14:6"
+  },
+  "q_jesus_003": {
+    "question": "Fülle die Lücke aus: 'Jesus spricht zu ihr: Ich bin die Auferstehung und das Leben. Wer an mich glaubt, der wird leben, ob er gleich _____.'",
+    "correct": "stürbe",
+    "wrong": ["fällt", "versagt", "sündigt"],
+    "hint": "Der physische Tod kann Gläubige nicht aufhalten",
+    "explanation": "Jesus erklärt, dass er die Quelle des Auferstehungslebens für alle Gläubigen ist.",
+    "full_verse": "Jesus spricht zu ihr: Ich bin die Auferstehung und das Leben. Wer an mich glaubt, der wird leben, ob er gleich stürbe.",
+    "verse_ref": "Johannes 11:25"
+  },
+  "q_jesus_004": {
+    "question": "Fülle die Lücke aus: 'Kommt her zu mir, alle, die ihr mühselig und beladen seid; ich will euch _____.'",
+    "correct": "erquicken",
+    "wrong": ["Frieden", "Hoffnung", "Kraft"],
+    "hint": "Erleichterung von Erschöpfung",
+    "explanation": "Jesus lädt alle, die müde und überlastet sind, ein, bei ihm Ruhe zu finden.",
+    "full_verse": "Kommt her zu mir, alle, die ihr mühselig und beladen seid; ich will euch erquicken.",
+    "verse_ref": "Matthäus 11:28"
+  },
+  "q_jesus_005": {
+    "question": "Fülle die Lücke aus: 'Da redete Jesus abermals zu ihnen und sprach: Ich bin das Licht der Welt. Wer mir nachfolgt, der wird nicht wandeln in der _____.'",
+    "correct": "Finsternis",
+    "wrong": ["Furcht", "Sünde", "Schande"],
+    "hint": "Das Gegenteil von Licht",
+    "explanation": "Jesus erklärt sich selbst als das Licht, das Gläubige aus der geistlichen Finsternis führt.",
+    "full_verse": "Da redete Jesus abermals zu ihnen und sprach: Ich bin das Licht der Welt. Wer mir nachfolgt, der wird nicht wandeln in der Finsternis, sondern wird das Licht des Lebens haben.",
+    "verse_ref": "Johannes 8:12"
+  },
+  "q_jesus_006": {
+    "question": "Fülle die Lücke aus: 'Ich bin der gute Hirte. Der gute Hirte lässt sein _____ für die Schafe.'",
+    "correct": "Leben",
+    "wrong": ["Stab", "Stecken", "Herz"],
+    "hint": "Das höchste Opfer",
+    "explanation": "Jesus beschreibt sich selbst als den Hirten, der sein Leben für seine Schafe opfert.",
+    "full_verse": "Ich bin der gute Hirte. Der gute Hirte lässt sein Leben für die Schafe.",
+    "verse_ref": "Johannes 10:11"
+  },
+  "q_jesus_007": {
+    "question": "Fülle die Lücke aus: 'Ich bin der Weinstock, ihr seid die Reben. Wer in mir bleibt und ich in ihm, der bringt viel _____.'",
+    "correct": "Frucht",
+    "wrong": ["Freude", "Liebe", "Hoffnung"],
+    "hint": "Was an Reben wächst",
+    "explanation": "Jesus verwendet die Weinstock-Metapher, um über das Bleiben in ihm für geistliche Fruchtbarkeit zu lehren.",
+    "full_verse": "Ich bin der Weinstock, ihr seid die Reben. Wer in mir bleibt und ich in ihm, der bringt viel Frucht; denn ohne mich könnt ihr nichts tun.",
+    "verse_ref": "Johannes 15:5"
+  },
+  "q_jesus_008": {
+    "question": "Fülle die Lücke aus: 'Und lehret sie halten alles, was ich euch befohlen habe. Und siehe, ich bin bei euch alle Tage bis an der _____ Ende.'",
+    "correct": "Welt",
+    "wrong": ["Zeit", "Ewigkeit", "Tage"],
+    "hint": "Bis zum Ende dieser Ära",
+    "explanation": "Jesus verspricht seine fortwährende Gegenwart bei seinen Jüngern bis zum Ende der Welt.",
+    "full_verse": "Und lehret sie halten alles, was ich euch befohlen habe. Und siehe, ich bin bei euch alle Tage bis an der Welt Ende.",
+    "verse_ref": "Matthäus 28:20"
+  },
+  "q_jesus_009": {
+    "question": "Fülle die Lücke aus: 'Und das Wort ward Fleisch und wohnte unter uns, und wir sahen seine Herrlichkeit, eine Herrlichkeit als des eingeborenen Sohnes vom _____.'",
+    "correct": "Vater",
+    "wrong": ["Himmel", "Gott", "oben"],
+    "hint": "Jesus kam von ihm",
+    "explanation": "Johannes erklärt, dass Jesus, das Wort, Mensch wurde und die Herrlichkeit des Vaters offenbarte.",
+    "full_verse": "Und das Wort ward Fleisch und wohnte unter uns, und wir sahen seine Herrlichkeit, eine Herrlichkeit als des eingeborenen Sohnes vom Vater, voller Gnade und Wahrheit.",
+    "verse_ref": "Johannes 1:14"
+  },
+  "q_jesus_010": {
+    "question": "Fülle die Lücke aus: 'Ich und der Vater sind _____.'",
+    "correct": "eins",
+    "wrong": ["vereint", "zusammen", "gleich"],
+    "hint": "Die Einheit von Jesus und dem Vater",
+    "explanation": "Jesus erklärt seine Einheit mit Gott dem Vater und bestätigt damit seine Gottheit.",
+    "full_verse": "Ich und der Vater sind eins.",
+    "verse_ref": "Johannes 10:30"
+  },
+  "q_jesus_011": {
+    "question": "Fülle die Lücke aus: 'Simon Petrus antwortete und sprach: Du bist Christus, des lebendigen Gottes _____!'",
+    "correct": "Sohn",
+    "wrong": ["Herr", "Vater", "König"],
+    "hint": "Petrus bekennt Jesu göttliche Identität",
+    "explanation": "Das Bekenntnis des Petrus erkennt Jesus sowohl als Christus als auch als Sohn Gottes an.",
+    "full_verse": "Simon Petrus antwortete und sprach: Du bist Christus, des lebendigen Gottes Sohn!",
+    "verse_ref": "Matthäus 16:16"
+  },
+  "q_jesus_012": {
+    "question": "Fülle die Lücke aus: 'Er ist das Ebenbild des unsichtbaren Gottes, der Erstgeborene vor aller _____.'",
+    "correct": "Schöpfung",
+    "wrong": ["Dinge", "Wesen", "Geschöpfe"],
+    "hint": "Alles, was geschaffen wurde",
+    "explanation": "Paulus erklärt, dass Jesus die sichtbare Darstellung des unsichtbaren Gottes ist.",
+    "full_verse": "Er ist das Ebenbild des unsichtbaren Gottes, der Erstgeborene vor aller Schöpfung.",
+    "verse_ref": "Kolosser 1:15"
+  },
+  "q_jesus_013": {
+    "question": "Fülle die Lücke aus: 'Er, der in göttlicher Gestalt war, hielt es nicht für einen Raub, Gott gleich zu sein, sondern entäußerte sich selbst und nahm Knechtsgestalt an, ward den Menschen _____.'",
+    "correct": "gleich",
+    "wrong": ["ähnlich", "vergleichbar", "entsprechend"],
+    "hint": "Jesus erniedrigte sich zu dieser Rolle",
+    "explanation": "Paulus beschreibt Jesu Demut, göttliche Herrlichkeit zu verlassen, um ein Knecht zu werden.",
+    "full_verse": "Er, der in göttlicher Gestalt war, hielt es nicht für einen Raub, Gott gleich zu sein, sondern entäußerte sich selbst und nahm Knechtsgestalt an, ward den Menschen gleich.",
+    "verse_ref": "Philipper 2:6-7"
+  },
+  "q_jesus_014": {
+    "question": "Fülle die Lücke aus: 'Er ist der Abglanz seiner Herrlichkeit und das Ebenbild seines Wesens und trägt alle Dinge mit seinem kräftigen _____.'",
+    "correct": "Wort",
+    "wrong": ["Hand", "Willen", "Macht"],
+    "hint": "Wie Jesus alle Dinge zusammenhält",
+    "explanation": "Der Schreiber des Hebräerbriefs beschreibt Jesus als die vollkommene Offenbarung Gottes.",
+    "full_verse": "Er ist der Abglanz seiner Herrlichkeit und das Ebenbild seines Wesens und trägt alle Dinge mit seinem kräftigen Wort.",
+    "verse_ref": "Hebräer 1:3"
+  },
+  "q_jesus_015": {
+    "question": "Fülle die Lücke aus: 'Denn in ihm wohnt die ganze Fülle der _____ leibhaftig.'",
+    "correct": "Gottheit",
+    "wrong": ["Gottes", "Geistes", "Vaters"],
+    "hint": "Die vollständige göttliche Natur",
+    "explanation": "Paulus erklärt, dass die vollständige Natur Gottes in Christi physischem Körper wohnt.",
+    "full_verse": "Denn in ihm wohnt die ganze Fülle der Gottheit leibhaftig.",
+    "verse_ref": "Kolosser 2:9"
+  },
+  "q_jesus_016": {
+    "question": "Fülle die Lücke aus: 'Im Anfang war das Wort, und das Wort war bei Gott, und Gott war das _____.'",
+    "correct": "Wort",
+    "wrong": ["göttlich", "heilig", "ewig"],
+    "hint": "Die Identität des Wortes",
+    "explanation": "Johannes erklärt, dass Jesus, das Wort, sowohl bei Gott war als auch von Anfang an Gott war.",
+    "full_verse": "Im Anfang war das Wort, und das Wort war bei Gott, und Gott war das Wort.",
+    "verse_ref": "Johannes 1:1"
+  },
+  "q_jesus_017": {
+    "question": "Fülle die Lücke aus: 'Jesus aber sprach zu ihnen: Ich bin das Brot des Lebens. Wer zu mir kommt, den wird nicht hungern; und wer an mich glaubt, den wird nimmermehr _____.'",
+    "correct": "dürsten",
+    "wrong": ["mangeln", "fehlen", "entbehren"],
+    "hint": "Das Gegenteil von hungern",
+    "explanation": "Jesus erklärt sich selbst als das geistliche Brot, das allen Hunger und Durst stillt.",
+    "full_verse": "Jesus aber sprach zu ihnen: Ich bin das Brot des Lebens. Wer zu mir kommt, den wird nicht hungern; und wer an mich glaubt, den wird nimmermehr dürsten.",
+    "verse_ref": "Johannes 6:35"
+  },
+  "q_jesus_018": {
+    "question": "Fülle die Lücke aus: 'Ich bin die Tür; so jemand durch mich eingeht, der wird selig werden und wird ein- und ausgehen und _____ finden.'",
+    "correct": "Weide",
+    "wrong": ["Ruhe", "Frieden", "Leben"],
+    "hint": "Was Schafe auf dem Feld finden",
+    "explanation": "Jesus beschreibt sich selbst als die Tür, durch die Menschen Erlösung und Versorgung finden.",
+    "full_verse": "Ich bin die Tür; so jemand durch mich eingeht, der wird selig werden und wird ein- und ausgehen und Weide finden.",
+    "verse_ref": "Johannes 10:9"
+  },
+  "q_jesus_019": {
+    "question": "Fülle die Lücke aus: 'Spricht Jesus zu ihm: So lange bin ich bei euch, und du kennst mich nicht, Philippus? Wer mich sieht, der sieht den _____.'",
+    "correct": "Vater",
+    "wrong": ["Gott", "Wahrheit", "Licht"],
+    "hint": "Jesus offenbart diese Person",
+    "explanation": "Jesus sagt Philippus, dass ihn zu sehen gleichbedeutend ist mit dem Sehen Gottes des Vaters.",
+    "full_verse": "Spricht Jesus zu ihm: So lange bin ich bei euch, und du kennst mich nicht, Philippus? Wer mich sieht, der sieht den Vater. Wie sprichst du denn: Zeige uns den Vater?",
+    "verse_ref": "Johannes 14:9"
+  },
+  "q_jesus_020": {
+    "question": "Fülle die Lücke aus: 'Denn des Menschen Sohn ist gekommen, zu suchen und selig zu machen, das _____ war.'",
+    "correct": "verloren",
+    "wrong": ["Welt", "Sünder", "gebrochen"],
+    "hint": "Diejenigen, die in die Irre gegangen sind",
+    "explanation": "Jesus fasst seine Mission zusammen: die Verlorenen zu suchen und zu retten.",
+    "full_verse": "Denn des Menschen Sohn ist gekommen, zu suchen und selig zu machen, das verloren war.",
+    "verse_ref": "Lukas 19:10"
+  },
+  "q_jesus_021": {
+    "question": "Fülle die Lücke aus: 'Und sie wird einen Sohn gebären, des Namen sollst du Jesus heißen; denn er wird sein Volk selig machen von ihren _____.'",
+    "correct": "Sünden",
+    "wrong": ["Feinden", "Sorgen", "Ängsten"],
+    "hint": "Wovon Jesus uns rettet",
+    "explanation": "Der Engel erklärt, dass Jesu Name seine Mission widerspiegelt, von Sünden zu retten.",
+    "full_verse": "Und sie wird einen Sohn gebären, des Namen sollst du Jesus heißen; denn er wird sein Volk selig machen von ihren Sünden.",
+    "verse_ref": "Matthäus 1:21"
+  },
+  "q_jesus_022": {
+    "question": "Fülle die Lücke aus: 'Denn euch ist heute der Heiland geboren, welcher ist Christus, der _____, in der Stadt Davids.'",
+    "correct": "Herr",
+    "wrong": ["König", "Messias", "Sohn"],
+    "hint": "Ein Titel der Autorität",
+    "explanation": "Der Engel verkündet Jesu Geburt mit drei Titeln: Heiland, Christus und Herr.",
+    "full_verse": "Denn euch ist heute der Heiland geboren, welcher ist Christus, der Herr, in der Stadt Davids.",
+    "verse_ref": "Lukas 2:11"
+  },
+  "q_jesus_023": {
+    "question": "Fülle die Lücke aus: 'Diese aber sind geschrieben, dass ihr glaubet, Jesus sei Christus, der Sohn Gottes, und dass ihr durch den Glauben das _____ habet in seinem Namen.'",
+    "correct": "Leben",
+    "wrong": ["Hoffnung", "Glaube", "Freude"],
+    "hint": "Der Zweck des Johannesevangeliums",
+    "explanation": "Johannes nennt seinen Zweck: dass die Leser an Jesus glauben und Leben haben.",
+    "full_verse": "Diese aber sind geschrieben, dass ihr glaubet, Jesus sei Christus, der Sohn Gottes, und dass ihr durch den Glauben das Leben habet in seinem Namen.",
+    "verse_ref": "Johannes 20:31"
+  },
+  "q_jesus_024": {
+    "question": "Fülle die Lücke aus: 'Und ist in keinem andern das Heil, ist auch kein andrer Name unter dem Himmel den Menschen gegeben, darin wir sollen _____ werden.'",
+    "correct": "selig",
+    "wrong": ["geheilt", "gesegnet", "vergeben"],
+    "hint": "Was Jesu Name bietet",
+    "explanation": "Petrus erklärt, dass die Rettung ausschließlich durch Jesu Namen erfolgt.",
+    "full_verse": "Und ist in keinem andern das Heil, ist auch kein andrer Name unter dem Himmel den Menschen gegeben, darin wir sollen selig werden.",
+    "verse_ref": "Apostelgeschichte 4:12"
+  },
+  "q_jesus_025": {
+    "question": "Fülle die Lücke aus: 'Darum preiset Gott seine Liebe gegen uns, dass Christus für uns gestorben ist, da wir noch _____ waren.'",
+    "correct": "Sünder",
+    "wrong": ["verloren", "schwach", "gottlos"],
+    "hint": "Christi höchstes Opfer",
+    "explanation": "Paulus betont, dass Christus für uns starb, als wir noch in unseren Sünden waren.",
+    "full_verse": "Darum preiset Gott seine Liebe gegen uns, dass Christus für uns gestorben ist, da wir noch Sünder waren.",
+    "verse_ref": "Römer 5:8"
+  },
+  "q_jesus_026": {
+    "question": "Fülle die Lücke aus: 'Denn es ist ein Gott und ein Mittler zwischen Gott und den Menschen, nämlich der Mensch Christus _____.'",
+    "correct": "Jesus",
+    "wrong": ["Herr", "Heiland", "Messias"],
+    "hint": "Der Name des Mittlers",
+    "explanation": "Paulus erklärt, dass Jesus der einzige Mittler zwischen Gott und den Menschen ist.",
+    "full_verse": "Denn es ist ein Gott und ein Mittler zwischen Gott und den Menschen, nämlich der Mensch Christus Jesus.",
+    "verse_ref": "1. Timotheus 2:5"
+  },
+  "q_jesus_027": {
+    "question": "Fülle die Lücke aus: 'Denn wir haben nicht einen Hohenpriester, der nicht könnte mitleiden mit unsern Schwachheiten, sondern der versucht ist allenthalben gleichwie wir, doch ohne _____.'",
+    "correct": "Sünde",
+    "wrong": ["Schuld", "Fehler", "Mangel"],
+    "hint": "Jesus blieb ohne dies",
+    "explanation": "Der Schreiber des Hebräerbriefs erklärt, dass Jesus versucht wurde, aber sündlos blieb.",
+    "full_verse": "Denn wir haben nicht einen Hohenpriester, der nicht könnte mitleiden mit unsern Schwachheiten, sondern der versucht ist allenthalben gleichwie wir, doch ohne Sünde.",
+    "verse_ref": "Hebräer 4:15"
+  },
+  "q_jesus_028": {
+    "question": "Fülle die Lücke aus: 'Und aufsehen auf Jesus, den Anfänger und Vollender des Glaubens; welcher, da er wohl hätte mögen Freude haben, erduldete das Kreuz und achtete der Schande nicht und hat sich gesetzt zur Rechten auf den _____ Gottes.'",
+    "correct": "Thron",
+    "wrong": ["Herrlichkeit", "Gegenwart", "Majestät"],
+    "hint": "Wo Jesus jetzt sitzt",
+    "explanation": "Jesus erduldete das Kreuz und sitzt jetzt zur Rechten Gottes in Herrlichkeit.",
+    "full_verse": "Und aufsehen auf Jesus, den Anfänger und Vollender des Glaubens; welcher, da er wohl hätte mögen Freude haben, erduldete das Kreuz und achtete der Schande nicht und hat sich gesetzt zur Rechten auf den Thron Gottes.",
+    "verse_ref": "Hebräer 12:2"
+  },
+  "q_jesus_029": {
+    "question": "Fülle die Lücke aus: 'Ich bin das A und das O, spricht Gott der Herr, der da ist und der da war und der da kommt, der _____.'",
+    "correct": "Allmächtige",
+    "wrong": ["Ewige", "Heilige", "Unendliche"],
+    "hint": "Ein Titel, der Gottes Macht betont",
+    "explanation": "Gott erklärt sich selbst als Anfang und Ende, der Allmächtige.",
+    "full_verse": "Ich bin das A und das O, spricht Gott der Herr, der da ist und der da war und der da kommt, der Allmächtige.",
+    "verse_ref": "Offenbarung 1:8"
+  },
+  "q_jesus_030": {
+    "question": "Fülle die Lücke aus: 'Ich bin das A und das O, der Erste und der Letzte, der Anfang und das _____.'",
+    "correct": "Ende",
+    "wrong": ["Schluss", "Finale", "Abschluss"],
+    "hint": "Das Gegenteil von Anfang",
+    "explanation": "Jesus verwendet drei parallele Ausdrücke, um seine ewige Natur zu erklären.",
+    "full_verse": "Ich bin das A und das O, der Erste und der Letzte, der Anfang und das Ende.",
+    "verse_ref": "Offenbarung 22:13"
+  },
+  "q_jesus_031": {
+    "question": "Fülle die Lücke aus: 'Jesus sprach zu ihnen: Wahrlich, wahrlich ich sage euch: Ehe denn Abraham ward, bin _____.'",
+    "correct": "ich",
+    "wrong": ["war", "existiert", "lebte"],
+    "hint": "Jesus verwendet Gottes Bundesnamen",
+    "explanation": "Jesus erklärt seine ewige Existenz mit dem göttlichen Namen 'ICH BIN'.",
+    "full_verse": "Jesus sprach zu ihnen: Wahrlich, wahrlich ich sage euch: Ehe denn Abraham ward, bin ich.",
+    "verse_ref": "Johannes 8:58"
+  },
+  "q_jesus_032": {
+    "question": "Fülle die Lücke aus: 'Und Jesus trat zu ihnen, redete mit ihnen und sprach: Mir ist gegeben alle Gewalt im Himmel und auf _____.'",
+    "correct": "Erden",
+    "wrong": ["Welt", "allem", "überall"],
+    "hint": "Jesus spricht von sich selbst",
+    "explanation": "Der auferstandene Jesus erklärt, dass ihm alle Gewalt im Himmel und auf Erden gegeben ist.",
+    "full_verse": "Und Jesus trat zu ihnen, redete mit ihnen und sprach: Mir ist gegeben alle Gewalt im Himmel und auf Erden.",
+    "verse_ref": "Matthäus 28:18"
+  },
+  "q_jesus_033": {
+    "question": "Fülle die Lücke aus: 'Das ist aber das ewige Leben, dass sie dich, der du allein wahrer Gott bist, und den du gesandt hast, Jesus Christus, _____.'",
+    "correct": "erkennen",
+    "wrong": ["glauben", "lieben", "ehren"],
+    "hint": "Die Handlung des Vaters gegenüber Jesus",
+    "explanation": "Jesus definiert ewiges Leben als das Erkennen Gottes und dessen, den er gesandt hat – Jesus Christus.",
+    "full_verse": "Das ist aber das ewige Leben, dass sie dich, der du allein wahrer Gott bist, und den du gesandt hast, Jesus Christus, erkennen.",
+    "verse_ref": "Johannes 17:3"
+  },
+  "q_jesus_034": {
+    "question": "Fülle die Lücke aus: 'Denn ich habe euch zuvörderst gegeben, was ich empfangen habe: dass Christus gestorben sei für unsre Sünden nach der Schrift, und dass er begraben sei, und dass er auferstanden sei am _____ Tage.'",
+    "correct": "dritten",
+    "wrong": ["ersten", "zweiten", "nächsten"],
+    "hint": "Der Tag der Auferstehung",
+    "explanation": "Paulus fasst das Evangelium zusammen: Christus starb, wurde begraben und stand am dritten Tag auf.",
+    "full_verse": "Denn ich habe euch zuvörderst gegeben, was ich empfangen habe: dass Christus gestorben sei für unsre Sünden nach der Schrift, und dass er begraben sei, und dass er auferstanden sei am dritten Tage nach der Schrift.",
+    "verse_ref": "1. Korinther 15:3-4"
+  },
+  "q_jesus_035": {
+    "question": "Fülle die Lücke aus: 'Denn er hat den, der von keiner Sünde wusste, für uns zur Sünde gemacht, auf dass wir würden in ihm die Gerechtigkeit, die vor _____ gilt.'",
+    "correct": "Gott",
+    "wrong": ["Christus", "Himmel", "ihm"],
+    "hint": "Wessen Gerechtigkeit wir empfangen",
+    "explanation": "Paulus erklärt den großen Tausch: Christus nahm unsere Sünde, damit wir Gottes Gerechtigkeit empfangen können.",
+    "full_verse": "Denn er hat den, der von keiner Sünde wusste, für uns zur Sünde gemacht, auf dass wir würden in ihm die Gerechtigkeit, die vor Gott gilt.",
+    "verse_ref": "2. Korinther 5:21"
+  },
+  "q_jesus_036": {
+    "question": "Fülle die Lücke aus: 'Da aber die Zeit erfüllet ward, sandte Gott seinen Sohn, geboren von einem Weibe und unter das Gesetz getan, auf dass er die, so unter dem Gesetz waren, erlöste, dass wir die _____ empfingen.'",
+    "correct": "Kindschaft",
+    "wrong": ["Herrlichkeit", "Himmel", "Gnade"],
+    "hint": "Gottes Kinder werden",
+    "explanation": "Paulus erklärt, dass Jesus kam, um uns zu erlösen und uns die Adoption als Gottes Kinder zu gewähren.",
+    "full_verse": "Da aber die Zeit erfüllet ward, sandte Gott seinen Sohn, geboren von einem Weibe und unter das Gesetz getan, auf dass er die, so unter dem Gesetz waren, erlöste, dass wir die Kindschaft empfingen.",
+    "verse_ref": "Galater 4:4-5"
+  },
+  "q_jesus_037": {
+    "question": "Fülle die Lücke aus: 'Welche er gewirkt hat in Christo, da er ihn von den Toten auferweckt hat und gesetzt zu seiner Rechten im Himmel über alle Fürstentümer, Gewalt, Macht, _____ und alles, was genannt mag werden.'",
+    "correct": "Herrschaft",
+    "wrong": ["Ehre", "Kraft", "Thron"],
+    "hint": "Eine Art von Autorität",
+    "explanation": "Paulus beschreibt Christi Erhöhung über alle Mächte und Autoritäten.",
+    "full_verse": "Welche er gewirkt hat in Christo, da er ihn von den Toten auferweckt hat und gesetzt zu seiner Rechten im Himmel über alle Fürstentümer, Gewalt, Macht, Herrschaft und alles, was genannt mag werden.",
+    "verse_ref": "Epheser 1:20-21"
+  },
+  "q_jesus_038": {
+    "question": "Fülle die Lücke aus: 'Darum hat ihn auch Gott erhöht und hat ihm einen Namen gegeben, der über alle Namen ist, dass in dem Namen Jesu sich beugen sollen aller derer _____.'",
+    "correct": "Knie",
+    "wrong": ["Häupter", "Herzen", "Seelen"],
+    "hint": "Körperteil, das sich in Anbetung beugt",
+    "explanation": "Paulus erklärt, dass Gott Jesus erhöhte und ihm den höchsten Namen gab.",
+    "full_verse": "Darum hat ihn auch Gott erhöht und hat ihm einen Namen gegeben, der über alle Namen ist, dass in dem Namen Jesu sich beugen sollen aller derer Knie, die im Himmel und auf Erden und unter der Erde sind.",
+    "verse_ref": "Philipper 2:9-11"
+  },
+  "q_jesus_039": {
+    "question": "Fülle die Lücke aus: 'Denn in ihm ist alles geschaffen, was im Himmel und auf Erden ist, das Sichtbare und Unsichtbare, es seien Throne oder Herrschaften oder Fürstentümer oder Obrigkeiten; es ist alles durch ihn und zu _____ geschaffen.'",
+    "correct": "ihm",
+    "wrong": ["Gott", "uns", "Ehre"],
+    "hint": "Alle Schöpfung ist für Christus",
+    "explanation": "Paulus erklärt, dass alle Dinge durch Christus und für Christus geschaffen wurden.",
+    "full_verse": "Denn in ihm ist alles geschaffen, was im Himmel und auf Erden ist, das Sichtbare und Unsichtbare, es seien Throne oder Herrschaften oder Fürstentümer oder Obrigkeiten; es ist alles durch ihn und zu ihm geschaffen.",
+    "verse_ref": "Kolosser 1:16-17"
+  },
+  "q_jesus_040": {
+    "question": "Fülle die Lücke aus: 'Welcher unsre Sünden selbst hinaufgetragen hat an seinem Leibe auf das Holz, auf dass wir, der Sünde abgestorben, der Gerechtigkeit leben; durch welches _____ ihr seid heil geworden.'",
+    "correct": "Wunden",
+    "wrong": ["Blut", "Tod", "Striemen"],
+    "hint": "Körperliche Verletzungen",
+    "explanation": "Petrus beschreibt, wie Christi Opfer am Kreuz uns Heilung bringt.",
+    "full_verse": "Welcher unsre Sünden selbst hinaufgetragen hat an seinem Leibe auf das Holz, auf dass wir, der Sünde abgestorben, der Gerechtigkeit leben; durch welches Wunden ihr seid heil geworden.",
+    "verse_ref": "1. Petrus 2:24"
+  },
+  "q_jesus_041": {
+    "question": "Fülle die Lücke aus: 'Meine Kindlein, solches schreibe ich euch, auf dass ihr nicht sündiget. Und ob jemand sündigt, so haben wir einen Fürsprecher bei dem Vater, Jesus Christus, der _____ ist.'",
+    "correct": "gerecht",
+    "wrong": ["heilig", "treu", "lebendig"],
+    "hint": "Jesu moralischer Charakter",
+    "explanation": "Johannes versichert den Gläubigen, dass Jesus für uns eintritt, wenn wir sündigen.",
+    "full_verse": "Meine Kindlein, solches schreibe ich euch, auf dass ihr nicht sündiget. Und ob jemand sündigt, so haben wir einen Fürsprecher bei dem Vater, Jesus Christus, der gerecht ist.",
+    "verse_ref": "1. Johannes 2:1"
+  },
+  "q_jesus_042": {
+    "question": "Fülle die Lücke aus: 'Denn uns ist ein Kind geboren, ein Sohn ist uns gegeben, und die Herrschaft ist auf seiner Schulter; er heißt Wunderbar, Rat, Kraft, Held, Ewig-Vater, Friede-_____.'",
+    "correct": "Fürst",
+    "wrong": ["König", "Herr", "Gott"],
+    "hint": "Das Gegenteil von Krieg",
+    "explanation": "Jesaja prophezeit über den Messias mit vier herrlichen Titeln.",
+    "full_verse": "Denn uns ist ein Kind geboren, ein Sohn ist uns gegeben, und die Herrschaft ist auf seiner Schulter; er heißt Wunderbar, Rat, Kraft, Held, Ewig-Vater, Friede-Fürst.",
+    "verse_ref": "Jesaja 9:5"
+  },
+  "q_jesus_043": {
+    "question": "Fülle die Lücke aus: 'Aber er ist um unsrer Missetat willen verwundet und um unsrer Sünde willen zerschlagen. Die Strafe liegt auf ihm, auf dass wir Frieden hätten, und durch seine _____ sind wir geheilt.'",
+    "correct": "Wunden",
+    "wrong": ["Blut", "Tod", "Striemen"],
+    "hint": "Körperliche Verletzungen",
+    "explanation": "Jesaja prophezeit über den leidenden Knecht, der durch seine Wunden Heilung bringt.",
+    "full_verse": "Aber er ist um unsrer Missetat willen verwundet und um unsrer Sünde willen zerschlagen. Die Strafe liegt auf ihm, auf dass wir Frieden hätten, und durch seine Wunden sind wir geheilt.",
+    "verse_ref": "Jesaja 53:5"
+  },
+  "q_jesus_044": {
+    "question": "Fülle die Lücke aus: 'Und du, Bethlehem Efrata, die du klein bist unter den Tausenden in Juda, aus dir soll mir kommen, der in Israel Herr sei, welches Ausgang von Anfang und von _____ her gewesen ist.'",
+    "correct": "Ewigkeit",
+    "wrong": ["Tagen", "Zeiten", "Jahren"],
+    "hint": "Von langer Zeit her",
+    "explanation": "Micha prophezeit, dass der Messias aus Bethlehem kommen würde mit ewigem Ursprung.",
+    "full_verse": "Und du, Bethlehem Efrata, die du klein bist unter den Tausenden in Juda, aus dir soll mir kommen, der in Israel Herr sei, welches Ausgang von Anfang und von Ewigkeit her gewesen ist.",
+    "verse_ref": "Micha 5:1"
+  },
+  "q_jesus_045": {
+    "question": "Fülle die Lücke aus: 'Von der Zeit an fing Jesus an zu predigen und zu sagen: Tut Buße, das _____ ist nahe herbeigekommen!'",
+    "correct": "Himmelreich",
+    "wrong": ["Reich Gottes", "Herrlichkeit", "Frieden"],
+    "hint": "Wo Gott wohnt",
+    "explanation": "Jesus beginnt seinen Dienst mit dem Aufruf zur Buße, da Gottes Reich nahe ist.",
+    "full_verse": "Von der Zeit an fing Jesus an zu predigen und zu sagen: Tut Buße, das Himmelreich ist nahe herbeigekommen!",
+    "verse_ref": "Matthäus 4:17"
+  },
+  "q_jesus_046": {
+    "question": "Fülle die Lücke aus: 'Denn auch des Menschen Sohn ist nicht gekommen, dass er sich dienen lasse, sondern dass er diene und gebe sein Leben zur Erlösung für _____.'",
+    "correct": "viele",
+    "wrong": ["alle", "uns", "Sünder"],
+    "hint": "Eine große Anzahl von Menschen",
+    "explanation": "Jesus beschreibt seine Mission als Dienen und sein Leben als Lösegeld zu geben.",
+    "full_verse": "Denn auch des Menschen Sohn ist nicht gekommen, dass er sich dienen lasse, sondern dass er diene und gebe sein Leben zur Erlösung für viele.",
+    "verse_ref": "Markus 10:45"
+  },
+  "q_jesus_047": {
+    "question": "Fülle die Lücke aus: 'Und sprach zu ihnen: Also ist's geschrieben, und also musste Christus leiden und auferstehen von den Toten am dritten Tage und predigen lassen in seinem Namen Buße und Vergebung der Sünden unter allen _____.'",
+    "correct": "Völkern",
+    "wrong": ["Menschen", "Leuten", "Ländern"],
+    "hint": "Alle ethnischen Gruppen",
+    "explanation": "Der auferstandene Jesus erklärt, dass das Evangelium allen Völkern gepredigt werden würde.",
+    "full_verse": "Und sprach zu ihnen: Also ist's geschrieben, und also musste Christus leiden und auferstehen von den Toten am dritten Tage und predigen lassen in seinem Namen Buße und Vergebung der Sünden unter allen Völkern und anheben zu Jerusalem.",
+    "verse_ref": "Lukas 24:46-47"
+  },
+  "q_jesus_048": {
+    "question": "Fülle die Lücke aus: 'Wahrlich, wahrlich ich sage euch: Wer mein Wort hört und glaubt dem, der mich gesandt hat, der hat das ewige Leben und kommt nicht in das Gericht, sondern er ist vom Tode zum _____ hindurchgedrungen.'",
+    "correct": "Leben",
+    "wrong": ["Herrlichkeit", "Himmel", "Frieden"],
+    "hint": "Das Gegenteil von Tod",
+    "explanation": "Jesus verspricht ewiges Leben denen, die glauben, vom Tod zum Leben übergehend.",
+    "full_verse": "Wahrlich, wahrlich ich sage euch: Wer mein Wort hört und glaubt dem, der mich gesandt hat, der hat das ewige Leben und kommt nicht in das Gericht, sondern er ist vom Tode zum Leben hindurchgedrungen.",
+    "verse_ref": "Johannes 5:24"
+  },
+  "q_jesus_049": {
+    "question": "Fülle die Lücke aus: 'Euer Herz erschrecke nicht! Glaubet an Gott und glaubet an mich! In meines Vaters Hause sind viele Wohnungen. Wenn es nicht so wäre, so wollte ich zu euch sagen: Ich gehe hin, euch die _____ zu bereiten.'",
+    "correct": "Stätte",
+    "wrong": ["Wohnung", "Heim", "Haus"],
+    "hint": "Ein für uns vorbereiteter Ort",
+    "explanation": "Jesus tröstet seine Jünger mit der Verheißung, einen Ort für sie vorzubereiten.",
+    "full_verse": "Euer Herz erschrecke nicht! Glaubet an Gott und glaubet an mich! In meines Vaters Hause sind viele Wohnungen. Wenn es nicht so wäre, so wollte ich zu euch sagen: Ich gehe hin, euch die Stätte zu bereiten.",
+    "verse_ref": "Johannes 14:1-3"
+  },
+  "q_jesus_050": {
+    "question": "Fülle die Lücke aus: 'Siehe, ich stehe vor der Tür und klopfe an. So jemand meine Stimme hören wird und die Tür auftun, zu dem werde ich eingehen und das Abendmahl mit ihm halten und er mit _____.'",
+    "correct": "mir",
+    "wrong": ["uns", "ihnen", "Gott"],
+    "hint": "Jesus bietet Gemeinschaft an",
+    "explanation": "Jesus bietet enge Gemeinschaft jedem an, der ihm die Tür öffnet.",
+    "full_verse": "Siehe, ich stehe vor der Tür und klopfe an. So jemand meine Stimme hören wird und die Tür auftun, zu dem werde ich eingehen und das Abendmahl mit ihm halten und er mit mir.",
+    "verse_ref": "Offenbarung 3:20"
+  }
+}

@@ -1,1 +1,452 @@
-{}
+{
+  "q_faith_001": {
+    "question": "Điền vào chỗ trống: 'Đức tin là sự xác quyết về những điều chúng ta hy vọng và bằng chứng về những điều chúng ta không _____.'",
+    "correct": "thấy",
+    "wrong": ["biết", "có", "hiểu"],
+    "hint": "Đức tin liên quan đến điều vô hình",
+    "explanation": "Tác giả Hê-bơ-rơ định nghĩa đức tin là sự chắc chắn về những điều chúng ta không thể nhìn thấy bằng mắt thường.",
+    "full_verse": "Đức tin là sự xác quyết về những điều chúng ta hy vọng và bằng chứng về những điều chúng ta không thấy.",
+    "verse_ref": "Hê-bơ-rơ 11:1"
+  },
+  "q_faith_002": {
+    "question": "Điền vào chỗ trống: 'Như vậy, đức tin đến từ việc nghe, và nghe bởi lời của _____.'",
+    "correct": "Đấng Christ",
+    "wrong": ["Đức Chúa Trời", "sự cứu rỗi", "chân lý"],
+    "hint": "Đức tin đến từ việc nghe về người này",
+    "explanation": "Phao-lô dạy rằng đức tin được tạo ra bởi việc nghe sứ điệp về Đấng Christ.",
+    "full_verse": "Như vậy, đức tin đến từ việc nghe, và nghe bởi lời của Đấng Christ.",
+    "verse_ref": "Rô-ma 10:17"
+  },
+  "q_faith_003": {
+    "question": "Điền vào chỗ trống: 'Vì nhờ ân điển, bởi đức tin mà anh chị em được cứu—điều này không phải từ anh chị em, đó là _____ của Đức Chúa Trời.'",
+    "correct": "món quà",
+    "wrong": ["công việc", "kế hoạch", "ý muốn"],
+    "hint": "Sự cứu rỗi được ban cho cách nhưng không",
+    "explanation": "Phao-lô nhấn mạnh rằng sự cứu rỗi qua đức tin là món quà từ Đức Chúa Trời, không phải điều chúng ta kiếm được.",
+    "full_verse": "Vì nhờ ân điển, bởi đức tin mà anh chị em được cứu—điều này không phải từ anh chị em, đó là món quà của Đức Chúa Trời.",
+    "verse_ref": "Ê-phê-sô 2:8"
+  },
+  "q_faith_004": {
+    "question": "Điền vào chỗ trống: 'Cũng vậy, đức tin không có hành động thì tự nó đã _____.'",
+    "correct": "chết",
+    "wrong": ["yếu", "trống rỗng", "vô dụng"],
+    "hint": "Đức tin không có việc làm thì không có sự sống",
+    "explanation": "Gia-cơ dạy rằng đức tin thật sẽ tự nhiên sinh ra việc lành như bằng chứng.",
+    "full_verse": "Cũng vậy, đức tin không có hành động thì tự nó đã chết.",
+    "verse_ref": "Gia-cơ 2:17"
+  },
+  "q_faith_005": {
+    "question": "Điền vào chỗ trống: 'Hãy có đức tin nơi _____,' Đức Chúa Giê-xu đáp.",
+    "correct": "Đức Chúa Trời",
+    "wrong": ["Ta", "chính mình", "sự cầu nguyện"],
+    "hint": "Chúa Giê-xu hướng đức tin đến Cha",
+    "explanation": "Chúa Giê-xu hướng dẫn các môn đồ đặt niềm tin hoàn toàn vào Đức Chúa Trời.",
+    "full_verse": "Hãy có đức tin nơi Đức Chúa Trời, Đức Chúa Giê-xu đáp.",
+    "verse_ref": "Mác 11:22"
+  },
+  "q_faith_006": {
+    "question": "Điền vào chỗ trống: 'Thật, Ta nói với các ngươi, nếu các ngươi có đức tin nhỏ như hạt _____, các ngươi có thể bảo núi này: \"Hãy dời từ đây qua đó,\" và nó sẽ dời.'",
+    "correct": "cải",
+    "wrong": ["lúa", "cây", "gạo"],
+    "hint": "Đây là loại hạt nhỏ nhất",
+    "explanation": "Chúa Giê-xu dạy rằng ngay cả một lượng nhỏ đức tin thật cũng có thể thành tựu những điều vĩ đại.",
+    "full_verse": "Thật, Ta nói với các ngươi, nếu các ngươi có đức tin nhỏ như hạt cải, các ngươi có thể bảo núi này: 'Hãy dời từ đây qua đó,' và nó sẽ dời. Không có gì là không thể đối với các ngươi.",
+    "verse_ref": "Ma-thi-ơ 17:20"
+  },
+  "q_faith_007": {
+    "question": "Điền vào chỗ trống: 'Vì chúng ta sống bởi đức tin, không phải bởi _____.'",
+    "correct": "mắt thấy",
+    "wrong": ["việc làm", "luật pháp", "cảm xúc"],
+    "hint": "Điều ngược lại với việc nhìn thấy",
+    "explanation": "Phao-lô đối chiếu đức tin với việc nhìn thấy bằng mắt, nhấn mạnh rằng tín hữu tin vào điều vô hình.",
+    "full_verse": "Vì chúng ta sống bởi đức tin, không phải bởi mắt thấy.",
+    "verse_ref": "2 Cô-rinh-tô 5:7"
+  },
+  "q_faith_008": {
+    "question": "Điền vào chỗ trống: 'Tôi đã bị đóng đinh với Đấng Christ, và tôi không còn sống nữa, nhưng Đấng Christ sống trong _____.'",
+    "correct": "tôi",
+    "wrong": ["chúng tôi", "họ", "mọi người"],
+    "hint": "Phao-lô nói về kinh nghiệm cá nhân của mình",
+    "explanation": "Phao-lô mô tả sự biến đổi của việc sống bởi đức tin trong Đấng Christ, Đấng hiện đang sống trong ông.",
+    "full_verse": "Tôi đã bị đóng đinh với Đấng Christ, và tôi không còn sống nữa, nhưng Đấng Christ sống trong tôi. Đời sống tôi bây giờ sống trong thân xác, tôi sống bởi đức tin nơi Con Đức Chúa Trời, Đấng đã yêu tôi và phó chính mình vì tôi.",
+    "verse_ref": "Ga-la-ti 2:20"
+  },
+  "q_faith_009": {
+    "question": "Điền vào chỗ trống: 'Không có đức tin thì không thể _____ Đức Chúa Trời.'",
+    "correct": "đẹp lòng",
+    "wrong": ["biết", "yêu", "phục vụ"],
+    "hint": "Đức tin là yêu cầu để làm hài lòng Đức Chúa Trời",
+    "explanation": "Tác giả Hê-bơ-rơ tuyên bố rằng đức tin hoàn toàn cần thiết để làm đẹp lòng Đức Chúa Trời.",
+    "full_verse": "Không có đức tin thì không thể đẹp lòng Đức Chúa Trời, vì ai đến gần Ngài phải tin rằng Ngài hiện hữu và Ngài thưởng cho những ai hết lòng tìm kiếm Ngài.",
+    "verse_ref": "Hê-bơ-rơ 11:6"
+  },
+  "q_faith_010": {
+    "question": "Điền vào chỗ trống: 'Vì trong Tin Lành, sự công chính của Đức Chúa Trời được bày tỏ—sự công chính bởi đức tin từ đầu đến cuối, như có chép: \"Người công chính sẽ sống bởi _____.\"'",
+    "correct": "đức tin",
+    "wrong": ["ân điển", "tình yêu", "luật pháp"],
+    "hint": "Người công chính sống bởi điều này",
+    "explanation": "Phao-lô trích Ha-ba-cúc để cho thấy sự công chính luôn luôn qua đức tin.",
+    "full_verse": "Vì trong Tin Lành, sự công chính của Đức Chúa Trời được bày tỏ—sự công chính bởi đức tin từ đầu đến cuối, như có chép: 'Người công chính sẽ sống bởi đức tin.'",
+    "verse_ref": "Rô-ma 1:17"
+  },
+  "q_faith_011": {
+    "question": "Điền vào chỗ trống: 'Nhưng khi cầu xin, phải tin và không _____, vì người nghi ngờ giống như sóng biển.'",
+    "correct": "nghi ngờ",
+    "wrong": ["sợ", "lo lắng", "do dự"],
+    "hint": "Điều ngược lại với việc tin",
+    "explanation": "Gia-cơ dạy rằng lời cầu nguyện phải được dâng lên trong đức tin mà không dao động.",
+    "full_verse": "Nhưng khi cầu xin, phải tin và không nghi ngờ, vì người nghi ngờ giống như sóng biển, bị gió đưa đẩy.",
+    "verse_ref": "Gia-cơ 1:6"
+  },
+  "q_faith_012": {
+    "question": "Điền vào chỗ trống: 'Những điều này xảy ra để đức tin của anh chị em—quý hơn _____, dù bị lửa thử nghiệm và hư nát—có thể đem lại sự ca ngợi.'",
+    "correct": "vàng",
+    "wrong": ["bạc", "châu báu", "của cải"],
+    "hint": "Một kim loại quý",
+    "explanation": "Phi-e-rơ so sánh đức tin được thử nghiệm với vàng được luyện, cho thấy giá trị vượt trội của đức tin.",
+    "full_verse": "Những điều này xảy ra để đức tin của anh chị em—quý hơn vàng, dù bị lửa thử nghiệm và hư nát—có thể đem lại sự ca ngợi, vinh hiển và tôn trọng khi Đức Chúa Giê-xu Christ được tỏ ra.",
+    "verse_ref": "1 Phi-e-rơ 1:7"
+  },
+  "q_faith_013": {
+    "question": "Điền vào chỗ trống: 'Và \"Nhưng người công chính của Ta sẽ sống bởi đức tin. Và nếu người ấy thối _____, Ta không vui lòng về người.\"'",
+    "correct": "lui",
+    "wrong": ["đi", "xuống", "qua"],
+    "hint": "Rút lui hoặc rút lại",
+    "explanation": "Tác giả trích Ha-ba-cúc, cảnh báo chống lại việc quay lưng khỏi đức tin.",
+    "full_verse": "Và 'Nhưng người công chính của Ta sẽ sống bởi đức tin. Và nếu người ấy thối lui, Ta không vui lòng về người.'",
+    "verse_ref": "Hê-bơ-rơ 10:38"
+  },
+  "q_faith_014": {
+    "question": "Điền vào chỗ trống: 'Ông không dao động vì vô tín đối với lời hứa của Đức Chúa Trời, nhưng được mạnh mẽ trong đức tin và dâng _____ cho Đức Chúa Trời.'",
+    "correct": "vinh hiển",
+    "wrong": ["cảm tạ", "ca ngợi", "tôn vinh"],
+    "hint": "Đức tin của Áp-ra-ham tôn vinh Đức Chúa Trời",
+    "explanation": "Phao-lô mô tả đức tin không dao động của Áp-ra-ham vào lời hứa của Đức Chúa Trời dù hoàn cảnh không thể.",
+    "full_verse": "Ông không dao động vì vô tín đối với lời hứa của Đức Chúa Trời, nhưng được mạnh mẽ trong đức tin và dâng vinh hiển cho Đức Chúa Trời.",
+    "verse_ref": "Rô-ma 4:20"
+  },
+  "q_faith_015": {
+    "question": "Điền vào chỗ trống: '\"Nếu ngươi có thể?\" Đức Chúa Giê-xu nói. \"Mọi sự đều _____ cho người tin.\"'",
+    "correct": "có thể",
+    "wrong": ["được ban", "được làm", "đạt được"],
+    "hint": "Không có gì nằm ngoài tầm với của đức tin",
+    "explanation": "Chúa Giê-xu thách thức sự nghi ngờ của người cha bằng cách tuyên bố mọi sự đều có thể qua đức tin.",
+    "full_verse": "'Nếu ngươi có thể?' Đức Chúa Giê-xu nói. 'Mọi sự đều có thể cho người tin.'",
+    "verse_ref": "Mác 9:23"
+  },
+  "q_faith_016": {
+    "question": "Điền vào chỗ trống: 'Đức Chúa Giê-xu đáp: \"Thật, Ta nói với các ngươi, nếu các ngươi có đức tin và không nghi ngờ, không những các ngươi có thể làm điều đã làm cho cây vả này, mà còn có thể bảo núi này: 'Hãy nhổ lên và lao xuống _____,' và việc ấy sẽ xảy ra.\"'",
+    "correct": "biển",
+    "wrong": ["thung lũng", "lửa", "vực sâu"],
+    "hint": "Một vùng nước lớn",
+    "explanation": "Chúa Giê-xu sử dụng phép cường điệu để minh họa sức mạnh đáng kinh ngạc của đức tin không dao động.",
+    "full_verse": "Đức Chúa Giê-xu đáp: 'Thật, Ta nói với các ngươi, nếu các ngươi có đức tin và không nghi ngờ, không những các ngươi có thể làm điều đã làm cho cây vả này, mà còn có thể bảo núi này: \"Hãy nhổ lên và lao xuống biển,\" và việc ấy sẽ xảy ra.'",
+    "verse_ref": "Ma-thi-ơ 21:21"
+  },
+  "q_faith_017": {
+    "question": "Điền vào chỗ trống: 'Vì ai sinh bởi Đức Chúa Trời đều thắng thế gian. Đây là chiến thắng đã thắng thế gian, đó là _____ chúng ta.'",
+    "correct": "đức tin",
+    "wrong": ["tình yêu", "hy vọng", "Đức Chúa Trời"],
+    "hint": "Điều này chiến thắng thế gian",
+    "explanation": "Giăng tuyên bố rằng đức tin nơi Đấng Christ cho phép các tín hữu thắng thế gian.",
+    "full_verse": "Vì ai sinh bởi Đức Chúa Trời đều thắng thế gian. Đây là chiến thắng đã thắng thế gian, đó là đức tin chúng ta.",
+    "verse_ref": "1 Giăng 5:4"
+  },
+  "q_faith_018": {
+    "question": "Điền vào chỗ trống: 'Rõ ràng không ai cậy luật pháp mà được xưng công chính trước mặt Đức Chúa Trời, vì \"người công chính sẽ sống bởi _____.\"'",
+    "correct": "đức tin",
+    "wrong": ["ân điển", "việc làm", "tình yêu"],
+    "hint": "Sự công chính đến qua điều này",
+    "explanation": "Phao-lô lập luận rằng sự xưng công chính đến qua đức tin, không phải qua việc giữ luật pháp.",
+    "full_verse": "Rõ ràng không ai cậy luật pháp mà được xưng công chính trước mặt Đức Chúa Trời, vì 'người công chính sẽ sống bởi đức tin.'",
+    "verse_ref": "Ga-la-ti 3:11"
+  },
+  "q_faith_019": {
+    "question": "Điền vào chỗ trống: 'Bởi đức tin, chúng ta hiểu rằng vũ trụ được tạo dựng bởi lời phán của Đức Chúa Trời, nên những gì nhìn thấy được không phải làm từ những gì _____.'",
+    "correct": "thấy được",
+    "wrong": ["tồn tại", "biết được", "tạo ra"],
+    "hint": "Điều ngược lại với vô hình",
+    "explanation": "Đức tin giúp chúng ta hiểu rằng Đức Chúa Trời tạo ra mọi thứ từ hư không.",
+    "full_verse": "Bởi đức tin, chúng ta hiểu rằng vũ trụ được tạo dựng bởi lời phán của Đức Chúa Trời, nên những gì nhìn thấy được không phải làm từ những gì thấy được.",
+    "verse_ref": "Hê-bơ-rơ 11:3"
+  },
+  "q_faith_020": {
+    "question": "Điền vào chỗ trống: 'Vậy, đã được xưng công chính bởi đức tin, chúng ta được _____ với Đức Chúa Trời qua Chúa Giê-xu Christ chúng ta.'",
+    "correct": "hòa thuận",
+    "wrong": ["sự sống", "hy vọng", "vui mừng"],
+    "hint": "Đức tin mang lại sự hòa giải với Đức Chúa Trời",
+    "explanation": "Phao-lô tuyên bố rằng sự xưng công chính bởi đức tin dẫn đến sự hòa thuận với Đức Chúa Trời.",
+    "full_verse": "Vậy, đã được xưng công chính bởi đức tin, chúng ta được hòa thuận với Đức Chúa Trời qua Chúa Giê-xu Christ chúng ta.",
+    "verse_ref": "Rô-ma 5:1"
+  },
+  "q_faith_021": {
+    "question": "Điền vào chỗ trống: 'Như thân thể không có hồn thì chết, đức tin không có hành động cũng _____.'",
+    "correct": "chết",
+    "wrong": ["yếu", "trống rỗng", "sai"],
+    "hint": "Đức tin không có việc làm thì không có sự sống",
+    "explanation": "Gia-cơ so sánh đức tin không có việc làm với thân thể không có hồn—không có sự sống.",
+    "full_verse": "Như thân thể không có hồn thì chết, đức tin không có hành động cũng chết.",
+    "verse_ref": "Gia-cơ 2:26"
+  },
+  "q_faith_022": {
+    "question": "Điền vào chỗ trống: 'Hãy nhìn xem Đức Chúa Giê-xu, Đấng khởi đầu và hoàn tất _____.'",
+    "correct": "đức tin",
+    "wrong": ["tình yêu", "hy vọng", "sự cứu rỗi"],
+    "hint": "Chúa Giê-xu hoàn thành điều này trong chúng ta",
+    "explanation": "Chúa Giê-xu vừa là Đấng khởi đầu vừa là Đấng đem đức tin đến sự hoàn thành.",
+    "full_verse": "Hãy nhìn xem Đức Chúa Giê-xu, Đấng khởi đầu và hoàn tất đức tin. Vì niềm vui đặt trước mặt Ngài, Ngài chịu đựng thập tự giá, khinh thường sự sỉ nhục, và ngồi bên hữu ngai Đức Chúa Trời.",
+    "verse_ref": "Hê-bơ-rơ 12:2"
+  },
+  "q_faith_023": {
+    "question": "Điền vào chỗ trống: 'Hãy đánh trận tốt lành của đức tin. Hãy nắm lấy sự _____ đời đời mà con đã được gọi.'",
+    "correct": "sống",
+    "wrong": ["hy vọng", "lời hứa", "chân lý"],
+    "hint": "Điều này tồn tại mãi mãi",
+    "explanation": "Phao-lô khuyến khích Ti-mô-thê chiến đấu vì đức tin và nắm lấy sự sống đời đời.",
+    "full_verse": "Hãy đánh trận tốt lành của đức tin. Hãy nắm lấy sự sống đời đời mà con đã được gọi khi con tuyên xưng tốt lành trước nhiều nhân chứng.",
+    "verse_ref": "1 Ti-mô-thê 6:12"
+  },
+  "q_faith_024": {
+    "question": "Điền vào chỗ trống: 'Vậy, như anh chị em đã tiếp nhận Đức Chúa Giê-xu Christ làm Chúa, hãy tiếp tục sống trong Ngài, đâm rễ và được xây dựng trong Ngài, được vững vàng trong đức tin như anh chị em đã học, và tràn đầy sự _____.'",
+    "correct": "biết ơn",
+    "wrong": ["vui mừng", "yêu thương", "hy vọng"],
+    "hint": "Lòng biết ơn nên tràn đầy",
+    "explanation": "Phao-lô kêu gọi các tín hữu tiếp tục đâm rễ trong Đấng Christ, tăng trưởng trong đức tin với lòng biết ơn.",
+    "full_verse": "Vậy, như anh chị em đã tiếp nhận Đức Chúa Giê-xu Christ làm Chúa, hãy tiếp tục sống trong Ngài, đâm rễ và được xây dựng trong Ngài, được vững vàng trong đức tin như anh chị em đã học, và tràn đầy sự biết ơn.",
+    "verse_ref": "Cô-lô-se 2:6-7"
+  },
+  "q_faith_025": {
+    "question": "Điền vào chỗ trống: 'Hãy tỉnh thức; hãy đứng vững trong đức tin; hãy can đảm; hãy _____.'",
+    "correct": "mạnh mẽ",
+    "wrong": ["bạo dạn", "dũng cảm", "trung tín"],
+    "hint": "Điều ngược lại với yếu đuối",
+    "explanation": "Phao-lô đưa ra bốn mệnh lệnh cho sự tỉnh thức và mạnh mẽ thuộc linh.",
+    "full_verse": "Hãy tỉnh thức; hãy đứng vững trong đức tin; hãy can đảm; hãy mạnh mẽ.",
+    "verse_ref": "1 Cô-rinh-tô 16:13"
+  },
+  "q_faith_026": {
+    "question": "Điền vào chỗ trống: 'Và được tìm thấy trong Ngài, không có sự công chính riêng của tôi đến từ luật pháp, nhưng là sự công chính qua đức tin nơi _____.'",
+    "correct": "Đấng Christ",
+    "wrong": ["Đức Chúa Trời", "Giê-xu", "Chúa"],
+    "hint": "Đức tin của Phao-lô đặt nơi người này",
+    "explanation": "Phao-lô ao ước sự công chính đến qua đức tin nơi Đấng Christ, không phải qua luật pháp.",
+    "full_verse": "Và được tìm thấy trong Ngài, không có sự công chính riêng của tôi đến từ luật pháp, nhưng là sự công chính qua đức tin nơi Đấng Christ—sự công chính đến từ Đức Chúa Trời dựa trên đức tin.",
+    "verse_ref": "Phi-líp 3:9"
+  },
+  "q_faith_027": {
+    "question": "Điền vào chỗ trống: 'Vì chúng tôi cho rằng một người được xưng công chính bởi đức tin, không cần các việc của _____.'",
+    "correct": "luật pháp",
+    "wrong": ["xác thịt", "thế gian", "bản thân"],
+    "hint": "Đức tin xưng công chính mà không cần điều này",
+    "explanation": "Phao-lô lập luận rằng sự xưng công chính đến qua đức tin, không phải qua việc giữ luật pháp.",
+    "full_verse": "Vì chúng tôi cho rằng một người được xưng công chính bởi đức tin, không cần các việc của luật pháp.",
+    "verse_ref": "Rô-ma 3:28"
+  },
+  "q_faith_028": {
+    "question": "Điền vào chỗ trống: 'Vì trong Đấng Christ Giê-xu, cắt bì hay không cắt bì đều không có giá trị gì. Điều duy nhất có giá trị là đức tin bày tỏ qua _____.'",
+    "correct": "tình yêu thương",
+    "wrong": ["việc làm", "hành động", "công việc"],
+    "hint": "Đức tin hoạt động qua cảm xúc này",
+    "explanation": "Phao-lô dạy rằng đức tin thật bày tỏ qua tình yêu thương, không phải nghi lễ bên ngoài.",
+    "full_verse": "Vì trong Đấng Christ Giê-xu, cắt bì hay không cắt bì đều không có giá trị gì. Điều duy nhất có giá trị là đức tin bày tỏ qua tình yêu thương.",
+    "verse_ref": "Ga-la-ti 5:6"
+  },
+  "q_faith_029": {
+    "question": "Điền vào chỗ trống: 'Nhưng ai nghi ngờ mà ăn thì bị kết án, vì không ăn bởi đức tin; và mọi điều không bởi đức tin đều là _____.'",
+    "correct": "tội",
+    "wrong": ["sai", "ác", "xấu"],
+    "hint": "Hành động không có đức tin là điều này",
+    "explanation": "Phao-lô dạy rằng bất cứ điều gì làm mà không có sự xác quyết của đức tin đều là tội.",
+    "full_verse": "Nhưng ai nghi ngờ mà ăn thì bị kết án, vì không ăn bởi đức tin; và mọi điều không bởi đức tin đều là tội.",
+    "verse_ref": "Rô-ma 14:23"
+  },
+  "q_faith_030": {
+    "question": "Điền vào chỗ trống: 'Bởi đức tin, Nô-ê được cảnh báo về những điều chưa thấy, trong sự kính sợ thánh đã đóng một chiếc _____ để cứu gia đình mình.'",
+    "correct": "tàu",
+    "wrong": ["bàn thờ", "nhà", "thuyền"],
+    "hint": "Nô-ê đóng phương tiện này",
+    "explanation": "Đức tin của Nô-ê dẫn ông đóng tàu dù chưa bao giờ thấy lụt.",
+    "full_verse": "Bởi đức tin, Nô-ê được cảnh báo về những điều chưa thấy, trong sự kính sợ thánh đã đóng một chiếc tàu để cứu gia đình mình. Bởi đức tin, ông kết án thế gian và trở nên người thừa kế sự công chính theo đức tin.",
+    "verse_ref": "Hê-bơ-rơ 11:7"
+  },
+  "q_faith_031": {
+    "question": "Điền vào chỗ trống: 'Bởi đức tin, Áp-ra-ham khi được gọi đến một nơi sẽ nhận làm sản nghiệp, đã _____ và đi, dù không biết mình đi đâu.'",
+    "correct": "vâng lời",
+    "wrong": ["tin", "nhận", "theo"],
+    "hint": "Phản ứng của Áp-ra-ham với lời kêu gọi của Đức Chúa Trời",
+    "explanation": "Đức tin của Áp-ra-ham được thể hiện qua sự vâng lời, ra đi mà không biết nơi đến.",
+    "full_verse": "Bởi đức tin, Áp-ra-ham khi được gọi đến một nơi sẽ nhận làm sản nghiệp, đã vâng lời và đi, dù không biết mình đi đâu.",
+    "verse_ref": "Hê-bơ-rơ 11:8"
+  },
+  "q_faith_032": {
+    "question": "Điền vào chỗ trống: 'Cũng bởi đức tin, Sa-ra dù đã quá tuổi sinh nở, vẫn có thể sinh con vì bà tin rằng Đấng đã hứa là _____.'",
+    "correct": "thành tín",
+    "wrong": ["chân thật", "quyền năng", "toàn năng"],
+    "hint": "Sa-ra tin vào tính cách của Đức Chúa Trời",
+    "explanation": "Đức tin của Sa-ra dựa trên việc tin cậy rằng Đức Chúa Trời sẽ giữ lời hứa của Ngài.",
+    "full_verse": "Cũng bởi đức tin, Sa-ra dù đã quá tuổi sinh nở, vẫn có thể sinh con vì bà tin rằng Đấng đã hứa là thành tín.",
+    "verse_ref": "Hê-bơ-rơ 11:11"
+  },
+  "q_faith_033": {
+    "question": "Điền vào chỗ trống: 'Bởi đức tin, Áp-ra-ham khi bị thử thách đã dâng Y-sác làm sinh tế. Người đã tiếp nhận các lời hứa sắp dâng con _____ của mình.'",
+    "correct": "một",
+    "wrong": ["yêu", "thừa kế", "quý"],
+    "hint": "Áp-ra-ham sẵn sàng dâng người này",
+    "explanation": "Đức tin của Áp-ra-ham được thử nghiệm khi Đức Chúa Trời yêu cầu ông dâng Y-sác.",
+    "full_verse": "Bởi đức tin, Áp-ra-ham khi bị thử thách đã dâng Y-sác làm sinh tế. Người đã tiếp nhận các lời hứa sắp dâng con một của mình.",
+    "verse_ref": "Hê-bơ-rơ 11:17"
+  },
+  "q_faith_034": {
+    "question": "Điền vào chỗ trống: 'Bởi đức tin, Môi-se khi đã trưởng thành, từ chối được gọi là con trai của công chúa _____.'",
+    "correct": "Pha-ra-ôn",
+    "wrong": ["Ai Cập", "vua", "Ra-mê-se"],
+    "hint": "Người cai trị Ai Cập",
+    "explanation": "Môi-se chọn đồng hóa với dân của Đức Chúa Trời thay vì hoàng gia Ai Cập.",
+    "full_verse": "Bởi đức tin, Môi-se khi đã trưởng thành, từ chối được gọi là con trai của công chúa Pha-ra-ôn. Ông chọn bị ngược đãi cùng với dân của Đức Chúa Trời hơn là tận hưởng những thú vui chóng qua của tội lỗi.",
+    "verse_ref": "Hê-bơ-rơ 11:24-25"
+  },
+  "q_faith_035": {
+    "question": "Điền vào chỗ trống: 'Bởi đức tin, dân chúng đi qua Biển Đỏ như trên đất khô; nhưng khi người Ai Cập thử làm vậy, họ đã bị _____.'",
+    "correct": "chết đuối",
+    "wrong": ["tiêu diệt", "giết chết", "mất"],
+    "hint": "Người Ai Cập chết trong nước",
+    "explanation": "Đức tin của Y-sơ-ra-ên cho phép họ đi qua Biển Đỏ trong khi người Ai Cập đuổi theo bị chết đuối.",
+    "full_verse": "Bởi đức tin, dân chúng đi qua Biển Đỏ như trên đất khô; nhưng khi người Ai Cập thử làm vậy, họ đã bị chết đuối.",
+    "verse_ref": "Hê-bơ-rơ 11:29"
+  },
+  "q_faith_036": {
+    "question": "Điền vào chỗ trống: 'Bởi đức tin, các bức tường thành Giê-ri-cô đổ xuống sau khi quân đội đi vòng quanh _____ ngày.'",
+    "correct": "bảy",
+    "wrong": ["sáu", "ba", "bốn mươi"],
+    "hint": "Một con số quan trọng trong Kinh Thánh",
+    "explanation": "Đức tin và sự vâng lời của Y-sơ-ra-ên trong việc đi vòng quanh Giê-ri-cô dẫn đến các bức tường đổ xuống.",
+    "full_verse": "Bởi đức tin, các bức tường thành Giê-ri-cô đổ xuống sau khi quân đội đi vòng quanh bảy ngày.",
+    "verse_ref": "Hê-bơ-rơ 11:30"
+  },
+  "q_faith_037": {
+    "question": "Điền vào chỗ trống: 'Bởi đức tin, kỹ nữ Ra-háp vì đã tiếp đón các thám tử, nên không bị giết chung với những kẻ _____.'",
+    "correct": "không vâng lời",
+    "wrong": ["không trung tín", "không tin", "gian ác"],
+    "hint": "Những người không vâng phục",
+    "explanation": "Đức tin của Ra-háp cứu bà khi Giê-ri-cô bị hủy diệt.",
+    "full_verse": "Bởi đức tin, kỹ nữ Ra-háp vì đã tiếp đón các thám tử, nên không bị giết chung với những kẻ không vâng lời.",
+    "verse_ref": "Hê-bơ-rơ 11:31"
+  },
+  "q_faith_038": {
+    "question": "Điền vào chỗ trống: 'Các sứ đồ thưa với Chúa: \"Xin thêm _____ cho chúng con!\"'",
+    "correct": "đức tin",
+    "wrong": ["tình yêu", "hy vọng", "sức mạnh"],
+    "hint": "Các môn đồ xin thêm điều này",
+    "explanation": "Các sứ đồ nhận ra nhu cầu có đức tin lớn hơn và xin Chúa Giê-xu ban thêm.",
+    "full_verse": "Các sứ đồ thưa với Chúa: 'Xin thêm đức tin cho chúng con!' Ngài đáp: 'Nếu các ngươi có đức tin như hạt cải, các ngươi có thể bảo cây dâu này: \"Hãy nhổ rễ và trồng dưới biển,\" và nó sẽ vâng lời các ngươi.'",
+    "verse_ref": "Lu-ca 17:5-6"
+  },
+  "q_faith_039": {
+    "question": "Điền vào chỗ trống: 'Khi Đức Chúa Giê-xu nghe điều này, Ngài ngạc nhiên và nói với những người theo Ngài: \"Thật, Ta nói với các ngươi, Ta chưa tìm thấy ai trong Y-sơ-ra-ên có _____ lớn như vậy.\"'",
+    "correct": "đức tin",
+    "wrong": ["tình yêu", "lòng tin", "niềm tin"],
+    "hint": "Chúa Giê-xu ấn tượng với phẩm chất này",
+    "explanation": "Chúa Giê-xu ngạc nhiên với đức tin phi thường của viên đội trưởng vào quyền năng của Ngài.",
+    "full_verse": "Khi Đức Chúa Giê-xu nghe điều này, Ngài ngạc nhiên và nói với những người theo Ngài: 'Thật, Ta nói với các ngươi, Ta chưa tìm thấy ai trong Y-sơ-ra-ên có đức tin lớn như vậy.'",
+    "verse_ref": "Ma-thi-ơ 8:10"
+  },
+  "q_faith_040": {
+    "question": "Điền vào chỗ trống: 'Đức Chúa Giê-xu quay lại nhìn bà và nói: \"Hỡi con gái, hãy vững lòng, đức tin con đã _____ con.\"'",
+    "correct": "chữa lành",
+    "wrong": ["cứu", "giúp", "ban phước"],
+    "hint": "Người phụ nữ được khỏe mạnh",
+    "explanation": "Chúa Giê-xu quy sự chữa lành của người phụ nữ cho đức tin của bà.",
+    "full_verse": "Đức Chúa Giê-xu quay lại nhìn bà và nói: 'Hỡi con gái, hãy vững lòng, đức tin con đã chữa lành con.' Và ngay lúc ấy người phụ nữ được chữa lành.",
+    "verse_ref": "Ma-thi-ơ 9:22"
+  },
+  "q_faith_041": {
+    "question": "Điền vào chỗ trống: 'Bấy giờ Đức Chúa Giê-xu nói với bà: \"Hỡi người đàn bà, đức tin của ngươi thật lớn! Điều ngươi cầu xin được _____.\"'",
+    "correct": "ban cho",
+    "wrong": ["nghe", "đáp", "thực hiện"],
+    "hint": "Chúa Giê-xu ban điều bà xin",
+    "explanation": "Chúa Giê-xu khen ngợi đức tin lớn của người phụ nữ Ca-na-an và ban cho điều bà xin.",
+    "full_verse": "Bấy giờ Đức Chúa Giê-xu nói với bà: 'Hỡi người đàn bà, đức tin của ngươi thật lớn! Điều ngươi cầu xin được ban cho.' Và ngay lúc ấy con gái bà được chữa lành.",
+    "verse_ref": "Ma-thi-ơ 15:28"
+  },
+  "q_faith_042": {
+    "question": "Điền vào chỗ trống: 'Đức Chúa Giê-xu nói với người phụ nữ: \"Đức tin của ngươi đã cứu ngươi; hãy đi trong _____.\"'",
+    "correct": "bình an",
+    "wrong": ["vui mừng", "hy vọng", "tình yêu"],
+    "hint": "Chúa Giê-xu tiễn bà đi với phước lành này",
+    "explanation": "Chúa Giê-xu đảm bảo với người phụ nữ tội lỗi rằng đức tin của bà đã mang lại sự cứu rỗi và bình an.",
+    "full_verse": "Đức Chúa Giê-xu nói với người phụ nữ: 'Đức tin của ngươi đã cứu ngươi; hãy đi trong bình an.'",
+    "verse_ref": "Lu-ca 7:50"
+  },
+  "q_faith_043": {
+    "question": "Điền vào chỗ trống: 'Rồi Ngài nói với bà: \"Hỡi con gái, đức tin của ngươi đã chữa lành ngươi. Hãy đi trong _____.\"'",
+    "correct": "bình an",
+    "wrong": ["vui mừng", "hy vọng", "tình yêu"],
+    "hint": "Chúa Giê-xu ban phước cho sự ra đi của bà",
+    "explanation": "Chúa Giê-xu tuyên bố rằng đức tin của người phụ nữ đã chữa lành bà và ban phước bình an cho bà.",
+    "full_verse": "Rồi Ngài nói với bà: 'Hỡi con gái, đức tin của ngươi đã chữa lành ngươi. Hãy đi trong bình an.'",
+    "verse_ref": "Lu-ca 8:48"
+  },
+  "q_faith_044": {
+    "question": "Điền vào chỗ trống: 'Bởi đức tin trong danh Đức Chúa Giê-xu, người này mà các ngươi thấy và biết đã được mạnh mẽ. Chính danh Đức Chúa Giê-xu và đức tin đến từ Ngài đã hoàn toàn _____ người.'",
+    "correct": "chữa lành",
+    "wrong": ["cứu", "phục hồi", "chữa"],
+    "hint": "Người què được làm cho lành mạnh",
+    "explanation": "Phi-e-rơ giải thích rằng đức tin trong danh Đức Chúa Giê-xu đã chữa lành người què tại cửa đền thờ.",
+    "full_verse": "Bởi đức tin trong danh Đức Chúa Giê-xu, người này mà các ngươi thấy và biết đã được mạnh mẽ. Chính danh Đức Chúa Giê-xu và đức tin đến từ Ngài đã hoàn toàn chữa lành người, như tất cả các ngươi thấy.",
+    "verse_ref": "Công Vụ 3:16"
+  },
+  "q_faith_045": {
+    "question": "Điền vào chỗ trống: 'Kinh Thánh nói gì? \"Áp-ra-ham tin Đức Chúa Trời, và điều đó được kể là _____ cho ông.\"'",
+    "correct": "công chính",
+    "wrong": ["đức tin", "thánh khiết", "công bằng"],
+    "hint": "Niềm tin của Áp-ra-ham được kể là điều này",
+    "explanation": "Phao-lô trích Sáng Thế Ký để cho thấy Áp-ra-ham được xưng công chính qua đức tin, không phải việc làm.",
+    "full_verse": "Kinh Thánh nói gì? 'Áp-ra-ham tin Đức Chúa Trời, và điều đó được kể là công chính cho ông.'",
+    "verse_ref": "Rô-ma 4:3"
+  },
+  "q_faith_046": {
+    "question": "Điền vào chỗ trống: 'Nếu miệng ngươi xưng Đức Chúa Giê-xu là Chúa và lòng ngươi tin rằng Đức Chúa Trời đã khiến Ngài từ cõi chết sống lại, ngươi sẽ được _____.'",
+    "correct": "cứu",
+    "wrong": ["ban phước", "tha thứ", "chữa lành"],
+    "hint": "Xưng nhận và tin dẫn đến điều này",
+    "explanation": "Phao-lô đưa ra yêu cầu đơn giản cho sự cứu rỗi: xưng Đức Chúa Giê-xu là Chúa và tin vào sự phục sinh của Ngài.",
+    "full_verse": "Nếu miệng ngươi xưng Đức Chúa Giê-xu là Chúa và lòng ngươi tin rằng Đức Chúa Trời đã khiến Ngài từ cõi chết sống lại, ngươi sẽ được cứu.",
+    "verse_ref": "Rô-ma 10:9"
+  },
+  "q_faith_047": {
+    "question": "Điền vào chỗ trống: 'Ngoài ra, hãy cầm lấy thuẫn của đức tin, nhờ đó anh chị em có thể dập tắt tất cả các _____ lửa của kẻ ác.'",
+    "correct": "tên",
+    "wrong": ["phi tiêu", "tấn công", "vũ khí"],
+    "hint": "Vũ khí của Sa-tan giống như những loại phóng này",
+    "explanation": "Phao-lô mô tả đức tin như một cái thuẫn bảo vệ chống lại các cuộc tấn công của Sa-tan.",
+    "full_verse": "Ngoài ra, hãy cầm lấy thuẫn của đức tin, nhờ đó anh chị em có thể dập tắt tất cả các tên lửa của kẻ ác.",
+    "verse_ref": "Ê-phê-sô 6:16"
+  },
+  "q_faith_048": {
+    "question": "Điền vào chỗ trống: 'Nhưng vì chúng ta thuộc về ban ngày, hãy tỉnh thức, mặc đức tin và tình yêu thương làm áo giáp, và hy vọng về sự cứu rỗi làm _____.'",
+    "correct": "mũ trụ",
+    "wrong": ["thuẫn", "mão miện", "áo giáp"],
+    "hint": "Áo giáp bảo vệ đầu",
+    "explanation": "Phao-lô sử dụng hình ảnh áo giáp để mô tả sự bảo vệ thuộc linh của đức tin, tình yêu và hy vọng.",
+    "full_verse": "Nhưng vì chúng ta thuộc về ban ngày, hãy tỉnh thức, mặc đức tin và tình yêu thương làm áo giáp, và hy vọng về sự cứu rỗi làm mũ trụ.",
+    "verse_ref": "1 Tê-sa-lô-ni-ca 5:8"
+  },
+  "q_faith_049": {
+    "question": "Điền vào chỗ trống: 'Ta đã đánh trận tốt lành, đã chạy xong cuộc đua, đã giữ _____.'",
+    "correct": "đức tin",
+    "wrong": ["hy vọng", "cuộc đua", "lời"],
+    "hint": "Phao-lô giữ gìn điều này suốt đời",
+    "explanation": "Phao-lô suy ngẫm về cuộc đời mình, tuyên bố rằng ông đã trung tín đến cuối cùng.",
+    "full_verse": "Ta đã đánh trận tốt lành, đã chạy xong cuộc đua, đã giữ đức tin.",
+    "verse_ref": "2 Ti-mô-thê 4:7"
+  },
+  "q_faith_050": {
+    "question": "Điền vào chỗ trống: 'Vì anh chị em đang nhận kết quả cuối cùng của đức tin mình, đó là sự cứu rỗi _____ mình.'",
+    "correct": "linh hồn",
+    "wrong": ["cuộc sống", "tấm lòng", "tâm linh"],
+    "hint": "Đức tin dẫn đến sự cứu rỗi phần này của chúng ta",
+    "explanation": "Phi-e-rơ khích lệ các tín hữu rằng mục tiêu cuối cùng của đức tin là sự cứu rỗi linh hồn họ.",
+    "full_verse": "Vì anh chị em đang nhận kết quả cuối cùng của đức tin mình, đó là sự cứu rỗi linh hồn mình.",
+    "verse_ref": "1 Phi-e-rơ 1:9"
+  }
+}

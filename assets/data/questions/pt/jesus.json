@@ -1,1 +1,452 @@
-{}
+{
+  "q_jesus_001": {
+    "question": "Complete o espaço em branco: 'Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida _____.'",
+    "correct": "eterna",
+    "wrong": ["abundante", "plena", "celestial"],
+    "hint": "O dom de crer em Jesus",
+    "explanation": "Este famoso versículo resume o evangelho—o amor de Deus O levou a dar Seu Filho para a vida eterna.",
+    "full_verse": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.",
+    "verse_ref": "João 3:16"
+  },
+  "q_jesus_002": {
+    "question": "Complete o espaço em branco: 'Disse-lhe Jesus: \"Eu sou o caminho, e a verdade e a vida; ninguém vem ao Pai, senão por _____.\"'",
+    "correct": "mim",
+    "wrong": ["fé", "graça", "oração"],
+    "hint": "Jesus é o único caminho",
+    "explanation": "Jesus declara-Se como o caminho exclusivo para Deus Pai.",
+    "full_verse": "Disse-lhe Jesus: 'Eu sou o caminho, e a verdade e a vida; ninguém vem ao Pai, senão por mim.'",
+    "verse_ref": "João 14:6"
+  },
+  "q_jesus_003": {
+    "question": "Complete o espaço em branco: 'Disse-lhe Jesus: \"Eu sou a ressurreição e a vida; quem crê em mim, ainda que esteja morto, _____.\"'",
+    "correct": "viverá",
+    "wrong": ["ressuscitará", "será salvo", "terá paz"],
+    "hint": "A morte física não pode parar os crentes",
+    "explanation": "Jesus declara que Ele é a fonte da vida de ressurreição para todos os que creem.",
+    "full_verse": "Disse-lhe Jesus: 'Eu sou a ressurreição e a vida; quem crê em mim, ainda que esteja morto, viverá.'",
+    "verse_ref": "João 11:25"
+  },
+  "q_jesus_004": {
+    "question": "Complete o espaço em branco: 'Vinde a mim, todos os que estais cansados e oprimidos, e eu vos _____.'",
+    "correct": "aliviarei",
+    "wrong": ["ajudarei", "abençoarei", "fortalecerei"],
+    "hint": "Alívio do cansaço",
+    "explanation": "Jesus convida todos os que estão cansados e sobrecarregados a encontrar descanso Nele.",
+    "full_verse": "Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei.",
+    "verse_ref": "Mateus 11:28"
+  },
+  "q_jesus_005": {
+    "question": "Complete o espaço em branco: 'Falou-lhes pois Jesus outra vez, dizendo: \"Eu sou a luz do mundo; quem me segue não andará em _____.\"'",
+    "correct": "trevas",
+    "wrong": ["medo", "pecado", "vergonha"],
+    "hint": "O oposto de luz",
+    "explanation": "Jesus declara-Se como a luz que guia os crentes para fora das trevas espirituais.",
+    "full_verse": "Falou-lhes pois Jesus outra vez, dizendo: 'Eu sou a luz do mundo; quem me segue não andará em trevas, mas terá a luz da vida.'",
+    "verse_ref": "João 8:12"
+  },
+  "q_jesus_006": {
+    "question": "Complete o espaço em branco: 'Eu sou o bom pastor; o bom pastor dá a sua _____ pelas ovelhas.'",
+    "correct": "vida",
+    "wrong": ["proteção", "força", "benção"],
+    "hint": "O sacrifício supremo",
+    "explanation": "Jesus descreve-Se como o pastor que sacrifica Sua vida por Suas ovelhas.",
+    "full_verse": "Eu sou o bom pastor; o bom pastor dá a sua vida pelas ovelhas.",
+    "verse_ref": "João 10:11"
+  },
+  "q_jesus_007": {
+    "question": "Complete o espaço em branco: 'Eu sou a videira, vós as varas; quem está em mim, e eu nele, esse dá muito _____.'",
+    "correct": "fruto",
+    "wrong": ["amor", "alegria", "esperança"],
+    "hint": "O que cresce nos ramos",
+    "explanation": "Jesus usa a metáfora da videira para ensinar sobre permanecer Nele para a frutificação espiritual.",
+    "full_verse": "Eu sou a videira, vós as varas; quem está em mim, e eu nele, esse dá muito fruto; porque sem mim nada podeis fazer.",
+    "verse_ref": "João 15:5"
+  },
+  "q_jesus_008": {
+    "question": "Complete o espaço em branco: 'Ensinando-as a guardar todas as coisas que eu vos tenho mandado; e eis que eu estou convosco todos os dias, até a consumação dos _____.'",
+    "correct": "séculos",
+    "wrong": ["tempos", "dias", "anos"],
+    "hint": "Até o fim desta era",
+    "explanation": "Jesus promete Sua presença contínua com Seus discípulos até o fim dos séculos.",
+    "full_verse": "Ensinando-as a guardar todas as coisas que eu vos tenho mandado; e eis que eu estou convosco todos os dias, até a consumação dos séculos.",
+    "verse_ref": "Mateus 28:20"
+  },
+  "q_jesus_009": {
+    "question": "Complete o espaço em branco: 'E o Verbo se fez carne, e habitou entre nós, e vimos a sua glória, como a glória do unigênito do _____.'",
+    "correct": "Pai",
+    "wrong": ["céu", "Deus", "alto"],
+    "hint": "Jesus veio Dele",
+    "explanation": "João declara que Jesus, o Verbo, tornou-Se humano e revelou a glória do Pai.",
+    "full_verse": "E o Verbo se fez carne, e habitou entre nós, e vimos a sua glória, como a glória do unigênito do Pai, cheio de graça e de verdade.",
+    "verse_ref": "João 1:14"
+  },
+  "q_jesus_010": {
+    "question": "Complete o espaço em branco: 'Eu e o Pai somos _____.'",
+    "correct": "um",
+    "wrong": ["unidos", "iguais", "juntos"],
+    "hint": "A unidade de Jesus e do Pai",
+    "explanation": "Jesus declara Sua unidade com Deus Pai, afirmando Sua divindade.",
+    "full_verse": "Eu e o Pai somos um.",
+    "verse_ref": "João 10:30"
+  },
+  "q_jesus_011": {
+    "question": "Complete o espaço em branco: 'E Simão Pedro, respondendo, disse: \"Tu és o Cristo, o Filho do Deus _____.\"'",
+    "correct": "vivo",
+    "wrong": ["eterno", "verdadeiro", "santo"],
+    "hint": "Pedro confessa a identidade divina de Jesus",
+    "explanation": "A confissão de Pedro reconhece Jesus como Messias e Filho de Deus.",
+    "full_verse": "E Simão Pedro, respondendo, disse: 'Tu és o Cristo, o Filho do Deus vivo.'",
+    "verse_ref": "Mateus 16:16"
+  },
+  "q_jesus_012": {
+    "question": "Complete o espaço em branco: 'O qual é imagem do Deus invisível, o primogênito de toda a _____.'",
+    "correct": "criação",
+    "wrong": ["humanidade", "eternidade", "glória"],
+    "hint": "Tudo o que foi feito",
+    "explanation": "Paulo declara que Jesus é a representação visível do Deus invisível.",
+    "full_verse": "O qual é imagem do Deus invisível, o primogênito de toda a criação.",
+    "verse_ref": "Colossenses 1:15"
+  },
+  "q_jesus_013": {
+    "question": "Complete o espaço em branco: 'Que, sendo em forma de Deus, não teve por usurpação ser igual a Deus, mas esvaziou-se a si mesmo, tomando a forma de _____.'",
+    "correct": "servo",
+    "wrong": ["homem", "humano", "criatura"],
+    "hint": "Jesus humilhou-Se a este papel",
+    "explanation": "Paulo descreve a humildade de Jesus ao deixar a glória divina para se tornar servo.",
+    "full_verse": "Que, sendo em forma de Deus, não teve por usurpação ser igual a Deus, mas esvaziou-se a si mesmo, tomando a forma de servo, fazendo-se semelhante aos homens.",
+    "verse_ref": "Filipenses 2:6-7"
+  },
+  "q_jesus_014": {
+    "question": "Complete o espaço em branco: 'O qual, sendo o resplendor da sua glória, e a expressa imagem da sua pessoa, e sustentando todas as coisas pela palavra do seu _____.'",
+    "correct": "poder",
+    "wrong": ["amor", "mão", "vontade"],
+    "hint": "Como Jesus sustenta todas as coisas",
+    "explanation": "O escritor de Hebreus descreve Jesus como a revelação perfeita de Deus.",
+    "full_verse": "O qual, sendo o resplendor da sua glória, e a expressa imagem da sua pessoa, e sustentando todas as coisas pela palavra do seu poder.",
+    "verse_ref": "Hebreus 1:3"
+  },
+  "q_jesus_015": {
+    "question": "Complete o espaço em branco: 'Porque nele habita corporalmente toda a plenitude da _____.'",
+    "correct": "divindade",
+    "wrong": ["glória", "graça", "santidade"],
+    "hint": "A natureza divina completa",
+    "explanation": "Paulo declara que a natureza completa de Deus habita no corpo físico de Cristo.",
+    "full_verse": "Porque nele habita corporalmente toda a plenitude da divindade.",
+    "verse_ref": "Colossenses 2:9"
+  },
+  "q_jesus_016": {
+    "question": "Complete o espaço em branco: 'No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era _____.'",
+    "correct": "Deus",
+    "wrong": ["divino", "santo", "eterno"],
+    "hint": "A identidade do Verbo",
+    "explanation": "João declara que Jesus, o Verbo, estava com Deus e era Deus desde o princípio.",
+    "full_verse": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus.",
+    "verse_ref": "João 1:1"
+  },
+  "q_jesus_017": {
+    "question": "Complete o espaço em branco: 'E Jesus lhes disse: \"Eu sou o pão da vida; aquele que vem a mim não terá fome, e quem crê em mim nunca terá _____.\"'",
+    "correct": "sede",
+    "wrong": ["falta", "necessidade", "carência"],
+    "hint": "O oposto de fome",
+    "explanation": "Jesus declara-Se como o pão espiritual que satisfaz toda fome e sede.",
+    "full_verse": "E Jesus lhes disse: 'Eu sou o pão da vida; aquele que vem a mim não terá fome, e quem crê em mim nunca terá sede.'",
+    "verse_ref": "João 6:35"
+  },
+  "q_jesus_018": {
+    "question": "Complete o espaço em branco: 'Eu sou a porta; se alguém entrar por mim, salvar-se-á, e entrará, e sairá, e achará _____.'",
+    "correct": "pastagens",
+    "wrong": ["descanso", "paz", "vida"],
+    "hint": "O que as ovelhas encontram no campo",
+    "explanation": "Jesus descreve-Se como a porta através da qual as pessoas encontram salvação e provisão.",
+    "full_verse": "Eu sou a porta; se alguém entrar por mim, salvar-se-á, e entrará, e sairá, e achará pastagens.",
+    "verse_ref": "João 10:9"
+  },
+  "q_jesus_019": {
+    "question": "Complete o espaço em branco: 'Disse-lhe Jesus: \"Estou há tanto tempo convosco, e não me tendes conhecido, Filipe? Quem me vê a mim vê o _____.\"'",
+    "correct": "Pai",
+    "wrong": ["Deus", "verdade", "luz"],
+    "hint": "Jesus revela esta pessoa",
+    "explanation": "Jesus diz a Filipe que vê-Lo é equivalente a ver Deus Pai.",
+    "full_verse": "Disse-lhe Jesus: 'Estou há tanto tempo convosco, e não me tendes conhecido, Filipe? Quem me vê a mim vê o Pai; e como dizes tu: Mostra-nos o Pai?'",
+    "verse_ref": "João 14:9"
+  },
+  "q_jesus_020": {
+    "question": "Complete o espaço em branco: 'Porque o Filho do homem veio buscar e salvar o que se havia _____.'",
+    "correct": "perdido",
+    "wrong": ["afastado", "desviado", "extraviado"],
+    "hint": "Aqueles que se desviaram",
+    "explanation": "Jesus resume Sua missão como buscar e salvar os que estão perdidos.",
+    "full_verse": "Porque o Filho do homem veio buscar e salvar o que se havia perdido.",
+    "verse_ref": "Lucas 19:10"
+  },
+  "q_jesus_021": {
+    "question": "Complete o espaço em branco: 'E ela dará à luz um filho, e lhe porás o nome de Jesus, porque ele salvará o seu povo dos seus _____.'",
+    "correct": "pecados",
+    "wrong": ["inimigos", "problemas", "medos"],
+    "hint": "Do que Jesus nos salva",
+    "explanation": "O anjo explica que o nome de Jesus reflete Sua missão de salvar dos pecados.",
+    "full_verse": "E ela dará à luz um filho, e lhe porás o nome de Jesus, porque ele salvará o seu povo dos seus pecados.",
+    "verse_ref": "Mateus 1:21"
+  },
+  "q_jesus_022": {
+    "question": "Complete o espaço em branco: 'Pois, na cidade de Davi, vos nasceu hoje o Salvador, que é Cristo, o _____.'",
+    "correct": "Senhor",
+    "wrong": ["Rei", "Messias", "Filho"],
+    "hint": "Um título de autoridade",
+    "explanation": "O anjo anuncia o nascimento de Jesus com três títulos: Salvador, Cristo e Senhor.",
+    "full_verse": "Pois, na cidade de Davi, vos nasceu hoje o Salvador, que é Cristo, o Senhor.",
+    "verse_ref": "Lucas 2:11"
+  },
+  "q_jesus_023": {
+    "question": "Complete o espaço em branco: 'Estes, porém, foram escritos para que creiais que Jesus é o Cristo, o Filho de Deus, e para que, crendo, tenhais _____ em seu nome.'",
+    "correct": "vida",
+    "wrong": ["esperança", "fé", "alegria"],
+    "hint": "O propósito do Evangelho de João",
+    "explanation": "João declara seu propósito: que os leitores creiam em Jesus e tenham vida.",
+    "full_verse": "Estes, porém, foram escritos para que creiais que Jesus é o Cristo, o Filho de Deus, e para que, crendo, tenhais vida em seu nome.",
+    "verse_ref": "João 20:31"
+  },
+  "q_jesus_024": {
+    "question": "Complete o espaço em branco: 'E em nenhum outro há salvação, porque também debaixo do céu nenhum outro nome há, dado entre os homens, pelo qual devamos ser _____.'",
+    "correct": "salvos",
+    "wrong": ["curados", "abençoados", "perdoados"],
+    "hint": "O que o nome de Jesus proporciona",
+    "explanation": "Pedro declara que a salvação é exclusivamente através do nome de Jesus.",
+    "full_verse": "E em nenhum outro há salvação, porque também debaixo do céu nenhum outro nome há, dado entre os homens, pelo qual devamos ser salvos.",
+    "verse_ref": "Atos 4:12"
+  },
+  "q_jesus_025": {
+    "question": "Complete o espaço em branco: 'Mas Deus prova o seu amor para conosco em que Cristo morreu por nós, sendo nós ainda _____.'",
+    "correct": "pecadores",
+    "wrong": ["fracos", "perdidos", "indignos"],
+    "hint": "O sacrifício supremo de Cristo",
+    "explanation": "Paulo enfatiza que Cristo morreu por nós enquanto ainda estávamos em nossos pecados.",
+    "full_verse": "Mas Deus prova o seu amor para conosco em que Cristo morreu por nós, sendo nós ainda pecadores.",
+    "verse_ref": "Romanos 5:8"
+  },
+  "q_jesus_026": {
+    "question": "Complete o espaço em branco: 'Porque há um só Deus, e um só mediador entre Deus e os homens, o homem Cristo _____.'",
+    "correct": "Jesus",
+    "wrong": ["Senhor", "Salvador", "Messias"],
+    "hint": "O nome do mediador",
+    "explanation": "Paulo declara que Jesus é o único mediador entre Deus e a humanidade.",
+    "full_verse": "Porque há um só Deus, e um só mediador entre Deus e os homens, o homem Cristo Jesus.",
+    "verse_ref": "1 Timóteo 2:5"
+  },
+  "q_jesus_027": {
+    "question": "Complete o espaço em branco: 'Porque não temos um sumo sacerdote que não possa compadecer-se das nossas fraquezas; porém um que, como nós, em tudo foi tentado, mas sem _____.'",
+    "correct": "pecado",
+    "wrong": ["falha", "erro", "culpa"],
+    "hint": "Jesus permaneceu sem isso",
+    "explanation": "O escritor de Hebreus explica que Jesus foi tentado, mas permaneceu sem pecado.",
+    "full_verse": "Porque não temos um sumo sacerdote que não possa compadecer-se das nossas fraquezas; porém um que, como nós, em tudo foi tentado, mas sem pecado.",
+    "verse_ref": "Hebreus 4:15"
+  },
+  "q_jesus_028": {
+    "question": "Complete o espaço em branco: 'Olhando para Jesus, autor e consumador da fé, o qual, pelo gozo que lhe estava proposto, suportou a cruz, desprezando a afronta, e assentou-se à destra do _____ de Deus.'",
+    "correct": "trono",
+    "wrong": ["glória", "presença", "majestade"],
+    "hint": "Onde Jesus agora está sentado",
+    "explanation": "Jesus suportou a cruz e agora está sentado à destra de Deus em glória.",
+    "full_verse": "Olhando para Jesus, autor e consumador da fé, o qual, pelo gozo que lhe estava proposto, suportou a cruz, desprezando a afronta, e assentou-se à destra do trono de Deus.",
+    "verse_ref": "Hebreus 12:2"
+  },
+  "q_jesus_029": {
+    "question": "Complete o espaço em branco: '\"Eu sou o Alfa e o Ômega,\" diz o Senhor Deus, \"aquele que é, e que era, e que há de vir, o _____.\"'",
+    "correct": "Todo-Poderoso",
+    "wrong": ["Eterno", "Santo", "Infinito"],
+    "hint": "Um título enfatizando o poder de Deus",
+    "explanation": "Deus declara-Se como o princípio e o fim, o Todo-Poderoso.",
+    "full_verse": "'Eu sou o Alfa e o Ômega,' diz o Senhor Deus, 'aquele que é, e que era, e que há de vir, o Todo-Poderoso.'",
+    "verse_ref": "Apocalipse 1:8"
+  },
+  "q_jesus_030": {
+    "question": "Complete o espaço em branco: 'Eu sou o Alfa e o Ômega, o primeiro e o último, o princípio e o _____.'",
+    "correct": "fim",
+    "wrong": ["final", "término", "conclusão"],
+    "hint": "O oposto de princípio",
+    "explanation": "Jesus usa três frases paralelas para declarar Sua natureza eterna.",
+    "full_verse": "Eu sou o Alfa e o Ômega, o primeiro e o último, o princípio e o fim.",
+    "verse_ref": "Apocalipse 22:13"
+  },
+  "q_jesus_031": {
+    "question": "Complete o espaço em branco: 'Disse-lhes Jesus: \"Em verdade, em verdade vos digo que antes que Abraão existisse, eu _____.\"'",
+    "correct": "sou",
+    "wrong": ["era", "existo", "vivi"],
+    "hint": "Jesus usa o nome de Deus da aliança",
+    "explanation": "Jesus declara Sua existência eterna usando o nome divino 'EU SOU.'",
+    "full_verse": "Disse-lhes Jesus: 'Em verdade, em verdade vos digo que antes que Abraão existisse, eu sou.'",
+    "verse_ref": "João 8:58"
+  },
+  "q_jesus_032": {
+    "question": "Complete o espaço em branco: 'E, chegando-se Jesus, falou-lhes, dizendo: \"É-me dado todo o poder no céu e na terra. Portanto ide, fazei discípulos de todas as _____.\"'",
+    "correct": "nações",
+    "wrong": ["pessoas", "povos", "terras"],
+    "hint": "Jesus fala de Si mesmo",
+    "explanation": "O Jesus ressurreto declara que recebeu toda a autoridade no céu e na terra.",
+    "full_verse": "E, chegando-se Jesus, falou-lhes, dizendo: 'É-me dado todo o poder no céu e na terra. Portanto ide, fazei discípulos de todas as nações.'",
+    "verse_ref": "Mateus 28:18-19"
+  },
+  "q_jesus_033": {
+    "question": "Complete o espaço em branco: 'E a vida eterna é esta: que te conheçam, a ti só, por único Deus verdadeiro, e a Jesus Cristo, a quem tu _____.'",
+    "correct": "enviaste",
+    "wrong": ["deste", "revelaste", "prometeste"],
+    "hint": "A ação do Pai para com Jesus",
+    "explanation": "Jesus define a vida eterna como conhecer a Deus e Aquele que Ele enviou—Jesus Cristo.",
+    "full_verse": "E a vida eterna é esta: que te conheçam, a ti só, por único Deus verdadeiro, e a Jesus Cristo, a quem tu enviaste.",
+    "verse_ref": "João 17:3"
+  },
+  "q_jesus_034": {
+    "question": "Complete o espaço em branco: 'Porque primeiramente vos entreguei o que também recebi: que Cristo morreu por nossos pecados, segundo as Escrituras; e que foi sepultado, e que ressuscitou ao _____ dia.'",
+    "correct": "terceiro",
+    "wrong": ["primeiro", "segundo", "próximo"],
+    "hint": "O dia da ressurreição",
+    "explanation": "Paulo resume o evangelho: Cristo morreu, foi sepultado e ressuscitou ao terceiro dia.",
+    "full_verse": "Porque primeiramente vos entreguei o que também recebi: que Cristo morreu por nossos pecados, segundo as Escrituras; e que foi sepultado, e que ressuscitou ao terceiro dia, segundo as Escrituras.",
+    "verse_ref": "1 Coríntios 15:3-4"
+  },
+  "q_jesus_035": {
+    "question": "Complete o espaço em branco: 'Àquele que não conheceu pecado, o fez pecado por nós; para que nele fôssemos feitos justiça de _____.'",
+    "correct": "Deus",
+    "wrong": ["Cristo", "céu", "Dele"],
+    "hint": "De quem recebemos a justiça",
+    "explanation": "Paulo explica a grande troca: Cristo levou nosso pecado para que pudéssemos receber a justiça de Deus.",
+    "full_verse": "Àquele que não conheceu pecado, o fez pecado por nós; para que nele fôssemos feitos justiça de Deus.",
+    "verse_ref": "2 Coríntios 5:21"
+  },
+  "q_jesus_036": {
+    "question": "Complete o espaço em branco: 'Mas, vindo a plenitude dos tempos, Deus enviou seu Filho, nascido de mulher, nascido sob a lei, para remir os que estavam debaixo da lei, a fim de recebermos a adoção de _____.'",
+    "correct": "filhos",
+    "wrong": ["glória", "céu", "graça"],
+    "hint": "Tornando-se filhos de Deus",
+    "explanation": "Paulo explica que Jesus veio para nos redimir e nos conceder a adoção como filhos de Deus.",
+    "full_verse": "Mas, vindo a plenitude dos tempos, Deus enviou seu Filho, nascido de mulher, nascido sob a lei, para remir os que estavam debaixo da lei, a fim de recebermos a adoção de filhos.",
+    "verse_ref": "Gálatas 4:4-5"
+  },
+  "q_jesus_037": {
+    "question": "Complete o espaço em branco: 'A qual manifestou em Cristo, ressuscitando-o dos mortos, e pondo-o à sua direita nos céus, acima de todo o principado, e poder, e potestade, e _____.'",
+    "correct": "domínio",
+    "wrong": ["glória", "força", "trono"],
+    "hint": "Um tipo de autoridade",
+    "explanation": "Paulo descreve a exaltação de Cristo acima de todos os poderes e autoridades.",
+    "full_verse": "A qual manifestou em Cristo, ressuscitando-o dos mortos, e pondo-o à sua direita nos céus, acima de todo o principado, e poder, e potestade, e domínio, e de todo o nome que se nomeia.",
+    "verse_ref": "Efésios 1:20-21"
+  },
+  "q_jesus_038": {
+    "question": "Complete o espaço em branco: 'Por isso também Deus o exaltou soberanamente, e lhe deu um nome que é sobre todo o nome; para que ao nome de Jesus se dobre todo o _____.'",
+    "correct": "joelho",
+    "wrong": ["cabeça", "coração", "alma"],
+    "hint": "Parte do corpo que se curva em adoração",
+    "explanation": "Paulo declara que Deus exaltou Jesus e Lhe deu o nome supremo.",
+    "full_verse": "Por isso também Deus o exaltou soberanamente, e lhe deu um nome que é sobre todo o nome; para que ao nome de Jesus se dobre todo o joelho dos que estão nos céus, e na terra, e debaixo da terra.",
+    "verse_ref": "Filipenses 2:9-11"
+  },
+  "q_jesus_039": {
+    "question": "Complete o espaço em branco: 'Porque nele foram criadas todas as coisas que há nos céus e na terra, visíveis e invisíveis, sejam tronos, sejam dominações, sejam principados, sejam potestades; tudo foi criado por ele e para _____.'",
+    "correct": "ele",
+    "wrong": ["Deus", "nós", "glória"],
+    "hint": "Toda a criação é para Cristo",
+    "explanation": "Paulo declara que todas as coisas foram criadas por Cristo e para Cristo.",
+    "full_verse": "Porque nele foram criadas todas as coisas que há nos céus e na terra, visíveis e invisíveis, sejam tronos, sejam dominações, sejam principados, sejam potestades; tudo foi criado por ele e para ele.",
+    "verse_ref": "Colossenses 1:16-17"
+  },
+  "q_jesus_040": {
+    "question": "Complete o espaço em branco: 'Levando ele mesmo em seu corpo os nossos pecados sobre o madeiro, para que, mortos para os pecados, pudéssemos viver para a justiça; e pelas suas feridas fostes _____.'",
+    "correct": "sarados",
+    "wrong": ["salvos", "perdoados", "libertos"],
+    "hint": "Tornados saudáveis através de Seu sofrimento",
+    "explanation": "Pedro descreve como o sacrifício de Cristo na cruz nos traz cura.",
+    "full_verse": "Levando ele mesmo em seu corpo os nossos pecados sobre o madeiro, para que, mortos para os pecados, pudéssemos viver para a justiça; e pelas suas feridas fostes sarados.",
+    "verse_ref": "1 Pedro 2:24"
+  },
+  "q_jesus_041": {
+    "question": "Complete o espaço em branco: 'Meus filhinhos, estas coisas vos escrevo para que não pequeis; e, se alguém pecar, temos um Advogado para com o Pai, Jesus Cristo, o _____.'",
+    "correct": "justo",
+    "wrong": ["santo", "fiel", "vivo"],
+    "hint": "O caráter moral de Jesus",
+    "explanation": "João assegura aos crentes que Jesus advoga por nós quando pecamos.",
+    "full_verse": "Meus filhinhos, estas coisas vos escrevo para que não pequeis; e, se alguém pecar, temos um Advogado para com o Pai, Jesus Cristo, o justo.",
+    "verse_ref": "1 João 2:1"
+  },
+  "q_jesus_042": {
+    "question": "Complete o espaço em branco: 'Porque um menino nos nasceu, um filho se nos deu, e o principado está sobre os seus ombros, e o seu nome será: Maravilhoso, Conselheiro, Deus Forte, Pai da Eternidade, Príncipe da _____.'",
+    "correct": "Paz",
+    "wrong": ["Glória", "Vida", "Reis"],
+    "hint": "O oposto de guerra",
+    "explanation": "Isaías profetiza sobre o Messias com quatro títulos gloriosos.",
+    "full_verse": "Porque um menino nos nasceu, um filho se nos deu, e o principado está sobre os seus ombros, e o seu nome será: Maravilhoso, Conselheiro, Deus Forte, Pai da Eternidade, Príncipe da Paz.",
+    "verse_ref": "Isaías 9:6"
+  },
+  "q_jesus_043": {
+    "question": "Complete o espaço em branco: 'Mas ele foi ferido pelas nossas transgressões, e moído pelas nossas iniquidades; o castigo que nos traz a paz estava sobre ele, e pelas suas _____ fomos sarados.'",
+    "correct": "pisaduras",
+    "wrong": ["sangue", "morte", "feridas"],
+    "hint": "Lesões físicas",
+    "explanation": "Isaías profetiza sobre o servo sofredor que traz cura através de Suas pisaduras.",
+    "full_verse": "Mas ele foi ferido pelas nossas transgressões, e moído pelas nossas iniquidades; o castigo que nos traz a paz estava sobre ele, e pelas suas pisaduras fomos sarados.",
+    "verse_ref": "Isaías 53:5"
+  },
+  "q_jesus_044": {
+    "question": "Complete o espaço em branco: 'E tu, Belém Efrata, posto que pequena entre os milhares de Judá, de ti me sairá o que governará em Israel, e cujas saídas são desde os tempos antigos, desde os dias da _____.'",
+    "correct": "eternidade",
+    "wrong": ["antiguidade", "criação", "origem"],
+    "hint": "Desde muito tempo atrás",
+    "explanation": "Miqueias profetiza que o Messias viria de Belém com origens eternas.",
+    "full_verse": "E tu, Belém Efrata, posto que pequena entre os milhares de Judá, de ti me sairá o que governará em Israel, e cujas saídas são desde os tempos antigos, desde os dias da eternidade.",
+    "verse_ref": "Miqueias 5:2"
+  },
+  "q_jesus_045": {
+    "question": "Complete o espaço em branco: 'Desde então começou Jesus a pregar, e a dizer: \"Arrependei-vos, porque é chegado o reino dos _____.\"'",
+    "correct": "céus",
+    "wrong": ["Deus", "glória", "paz"],
+    "hint": "Onde Deus habita",
+    "explanation": "Jesus começa Seu ministério chamando as pessoas ao arrependimento à medida que o reino de Deus se aproxima.",
+    "full_verse": "Desde então começou Jesus a pregar, e a dizer: 'Arrependei-vos, porque é chegado o reino dos céus.'",
+    "verse_ref": "Mateus 4:17"
+  },
+  "q_jesus_046": {
+    "question": "Complete o espaço em branco: 'Porque o Filho do homem também não veio para ser servido, mas para servir e dar a sua vida em resgate de _____.'",
+    "correct": "muitos",
+    "wrong": ["todos", "nós", "pecadores"],
+    "hint": "Um grande número de pessoas",
+    "explanation": "Jesus descreve Sua missão como servir e dar Sua vida como resgate.",
+    "full_verse": "Porque o Filho do homem também não veio para ser servido, mas para servir e dar a sua vida em resgate de muitos.",
+    "verse_ref": "Marcos 10:45"
+  },
+  "q_jesus_047": {
+    "question": "Complete o espaço em branco: 'E disse-lhes: \"Assim está escrito, e assim convinha que o Cristo padecesse, e ao terceiro dia ressuscitasse dos mortos, e em seu nome se pregasse o arrependimento e a remissão dos pecados, em todas as _____.\"'",
+    "correct": "nações",
+    "wrong": ["pessoas", "povos", "terras"],
+    "hint": "Todos os grupos étnicos",
+    "explanation": "O Jesus ressurreto explica que o evangelho seria pregado a todas as nações.",
+    "full_verse": "E disse-lhes: 'Assim está escrito, e assim convinha que o Cristo padecesse, e ao terceiro dia ressuscitasse dos mortos, e em seu nome se pregasse o arrependimento e a remissão dos pecados, em todas as nações, começando por Jerusalém.'",
+    "verse_ref": "Lucas 24:46-47"
+  },
+  "q_jesus_048": {
+    "question": "Complete o espaço em branco: 'Na verdade, na verdade vos digo que quem ouve a minha palavra, e crê naquele que me enviou, tem a vida eterna, e não entrará em condenação, mas passou da morte para a _____.'",
+    "correct": "vida",
+    "wrong": ["glória", "céu", "paz"],
+    "hint": "O oposto de morte",
+    "explanation": "Jesus promete vida eterna para aqueles que creem, passando da morte para a vida.",
+    "full_verse": "Na verdade, na verdade vos digo que quem ouve a minha palavra, e crê naquele que me enviou, tem a vida eterna, e não entrará em condenação, mas passou da morte para a vida.",
+    "verse_ref": "João 5:24"
+  },
+  "q_jesus_049": {
+    "question": "Complete o espaço em branco: 'Não se turbe o vosso coração; credes em Deus, crede também em mim. Na casa de meu Pai há muitas moradas; se não fosse assim, eu vo-lo teria dito. Vou preparar-vos _____.'",
+    "correct": "lugar",
+    "wrong": ["morada", "lar", "mansão"],
+    "hint": "Um local preparado para nós",
+    "explanation": "Jesus conforta Seus discípulos com a promessa de preparar um lugar para eles.",
+    "full_verse": "Não se turbe o vosso coração; credes em Deus, crede também em mim. Na casa de meu Pai há muitas moradas; se não fosse assim, eu vo-lo teria dito. Vou preparar-vos lugar.",
+    "verse_ref": "João 14:1-3"
+  },
+  "q_jesus_050": {
+    "question": "Complete o espaço em branco: 'Eis que estou à porta, e bato; se alguém ouvir a minha voz, e abrir a porta, entrarei em sua casa, e com ele cearei, e ele _____.'",
+    "correct": "comigo",
+    "wrong": ["conosco", "com eles", "com Deus"],
+    "hint": "Jesus oferece comunhão",
+    "explanation": "Jesus oferece comunhão íntima a qualquer pessoa que abrir a porta para Ele.",
+    "full_verse": "Eis que estou à porta, e bato; se alguém ouvir a minha voz, e abrir a porta, entrarei em sua casa, e com ele cearei, e ele comigo.",
+    "verse_ref": "Apocalipse 3:20"
+  }
+}

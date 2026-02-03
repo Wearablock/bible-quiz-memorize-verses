@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_proverbs_001",
+      "question": "Completa il versetto: 'Confida nel SIGNORE con tutto il cuore e non ti appoggiare sul tuo _____; riconoscilo in tutte le tue vie ed egli appianerà i tuoi sentieri.'",
+      "correct": "discernimento",
+      "wrong": ["saggezza", "conoscenza", "forza"],
+      "hint": "Questa parola si riferisce all'intelletto e al ragionamento umano",
+      "explanation": "Siamo chiamati a confidare in Dio completamente piuttosto che affidarci alla nostra limitata comprensione umana.",
+      "full_verse": "Confida nel SIGNORE con tutto il cuore e non ti appoggiare sul tuo discernimento. Riconoscilo in tutte le tue vie ed egli appianerà i tuoi sentieri.",
+      "verse_ref": "Proverbi 3:5-6"
+    },
+    {
+      "id": "q_proverbs_002",
+      "question": "Completa il versetto: 'Il timore del SIGNORE è il principio della _____; gli stolti disprezzano la saggezza e l'istruzione.'",
+      "correct": "scienza",
+      "wrong": ["saggezza", "comprensione", "fede"],
+      "hint": "Questo è ciò che gli stolti disprezzano insieme all'istruzione",
+      "explanation": "La riverenza per Dio è il fondamento di ogni vera conoscenza.",
+      "full_verse": "Il timore del SIGNORE è il principio della scienza; gli stolti disprezzano la saggezza e l'istruzione.",
+      "verse_ref": "Proverbi 1:7"
+    },
+    {
+      "id": "q_proverbs_003",
+      "question": "Completa il versetto: 'Istruisci il _____ sulla via da seguire; e quando sarà vecchio, non se ne allontanerà.'",
+      "correct": "ragazzo",
+      "wrong": ["giovane", "discepolo", "credente"],
+      "hint": "Questo si riferisce ai giovani che vengono educati",
+      "explanation": "L'educazione spirituale precoce ha effetti duraturi per tutta la vita di una persona.",
+      "full_verse": "Istruisci il ragazzo sulla via da seguire; e quando sarà vecchio, non se ne allontanerà.",
+      "verse_ref": "Proverbi 22:6"
+    },
+    {
+      "id": "q_proverbs_004",
+      "question": "Completa il versetto: 'Affida al SIGNORE le tue opere, e i tuoi _____ avranno successo.'",
+      "correct": "progetti",
+      "wrong": ["vie", "passi", "opere"],
+      "hint": "Questa parola si riferisce alle tue intenzioni per il futuro",
+      "explanation": "Quando dedichiamo il nostro lavoro a Dio, Egli guida e stabilisce le nostre intenzioni.",
+      "full_verse": "Affida al SIGNORE le tue opere, e i tuoi progetti avranno successo.",
+      "verse_ref": "Proverbi 16:3"
+    },
+    {
+      "id": "q_proverbs_005",
+      "question": "Completa il versetto: 'Bontà e _____ non ti abbandonino; legatele al collo, scrivile sulla tavola del tuo cuore.'",
+      "correct": "verità",
+      "wrong": ["fedeltà", "misericordia", "gentilezza"],
+      "hint": "Questa virtù si riferisce all'essere sinceri e affidabili",
+      "explanation": "Bontà e verità dovrebbero essere compagni costanti, formando il nostro carattere.",
+      "full_verse": "Bontà e verità non ti abbandonino; legatele al collo, scrivile sulla tavola del tuo cuore.",
+      "verse_ref": "Proverbi 3:3"
+    },
+    {
+      "id": "q_proverbs_006",
+      "question": "Completa il versetto: 'Custodisci il tuo _____ più di ogni altra cosa, poiché da esso provengono le sorgenti della vita.'",
+      "correct": "cuore",
+      "wrong": ["mente", "anima", "lingua"],
+      "hint": "Questo è il centro del tuo essere e delle tue emozioni",
+      "explanation": "Il cuore è la sorgente della vita, influenzando tutti i nostri pensieri, parole e azioni.",
+      "full_verse": "Custodisci il tuo cuore più di ogni altra cosa, poiché da esso provengono le sorgenti della vita.",
+      "verse_ref": "Proverbi 4:23"
+    },
+    {
+      "id": "q_proverbs_007",
+      "question": "Completa il versetto: 'Il nome del SIGNORE è una _____ fortificata; il giusto vi corre e vi trova riparo.'",
+      "correct": "torre",
+      "wrong": ["città", "fortezza", "rifugio"],
+      "hint": "Questa è una struttura alta usata per la difesa",
+      "explanation": "Il nome di Dio rappresenta il suo carattere e potere, fornendo protezione a coloro che confidano in lui.",
+      "full_verse": "Il nome del SIGNORE è una torre fortificata; il giusto vi corre e vi trova riparo.",
+      "verse_ref": "Proverbi 18:10"
+    },
+    {
+      "id": "q_proverbs_008",
+      "question": "Completa il versetto: 'Il ferro si affila con il ferro; così un uomo ne affila un _____.'",
+      "correct": "altro",
+      "wrong": ["stesso", "amico", "fratello"],
+      "hint": "Questo si riferisce a un'altra singola persona",
+      "explanation": "Le relazioni sane ci aiutano a crescere e migliorare attraverso l'incoraggiamento reciproco e la sfida.",
+      "full_verse": "Il ferro si affila con il ferro; così un uomo ne affila un altro.",
+      "verse_ref": "Proverbi 27:17"
+    },
+    {
+      "id": "q_proverbs_009",
+      "question": "Completa il versetto: 'La grazia è ingannevole e la bellezza è cosa vana; ma la donna che teme il SIGNORE è quella che sarà _____.'",
+      "correct": "lodata",
+      "wrong": ["onorata", "benedetta", "amata"],
+      "hint": "Questo significa essere elogiata o celebrata",
+      "explanation": "Il vero valore si trova nella riverenza per Dio, non nell'aspetto esteriore.",
+      "full_verse": "La grazia è ingannevole e la bellezza è cosa vana; ma la donna che teme il SIGNORE è quella che sarà lodata.",
+      "verse_ref": "Proverbi 31:30"
+    },
+    {
+      "id": "q_proverbs_010",
+      "question": "Completa il versetto: 'Chi è generoso sarà _____; chi annaffia sarà egli pure annaffiato.'",
+      "correct": "benedetto",
+      "wrong": ["prosperato", "arricchito", "felice"],
+      "hint": "Questo significa avere successo o stare bene",
+      "explanation": "La generosità porta benedizioni di ritorno al donatore.",
+      "full_verse": "Chi è generoso sarà benedetto; chi annaffia sarà egli pure annaffiato.",
+      "verse_ref": "Proverbi 11:25"
+    },
+    {
+      "id": "q_proverbs_011",
+      "question": "Completa il versetto: 'Onora il SIGNORE con i tuoi beni e con le _____ di ogni tua rendita.'",
+      "correct": "primizie",
+      "wrong": ["migliori", "decime", "raccolti"],
+      "hint": "Questo si riferisce alla prima porzione del tuo raccolto",
+      "explanation": "Dare a Dio il primo e il migliore del nostro reddito mostra fiducia e gratitudine.",
+      "full_verse": "Onora il SIGNORE con i tuoi beni e con le primizie di ogni tua rendita.",
+      "verse_ref": "Proverbi 3:9"
+    },
+    {
+      "id": "q_proverbs_012",
+      "question": "Completa il versetto: 'L'odio provoca contese, ma l'amore copre ogni _____.'",
+      "correct": "colpa",
+      "wrong": ["peccato", "difetto", "offesa"],
+      "hint": "Questo si riferisce a errori o offese",
+      "explanation": "L'amore sceglie di perdonare piuttosto che serbare rancore.",
+      "full_verse": "L'odio provoca contese, ma l'amore copre ogni colpa.",
+      "verse_ref": "Proverbi 10:12"
+    },
+    {
+      "id": "q_proverbs_013",
+      "question": "Completa il versetto: 'Venuta la superbia, viene anche l'_____; ma la saggezza è con gli umili.'",
+      "correct": "ignominia",
+      "wrong": ["vergogna", "caduta", "distruzione"],
+      "hint": "Questo è l'opposto dell'onore",
+      "explanation": "L'orgoglio porta alla vergogna, mentre l'umiltà porta alla saggezza.",
+      "full_verse": "Venuta la superbia, viene anche l'ignominia; ma la saggezza è con gli umili.",
+      "verse_ref": "Proverbi 11:2"
+    },
+    {
+      "id": "q_proverbs_014",
+      "question": "Completa il versetto: 'L'ansia nel cuore dell'uomo lo abbatte, ma una buona parola lo _____.'",
+      "correct": "rallegra",
+      "wrong": ["solleva", "conforta", "guarisce"],
+      "hint": "Questo indica portare gioia",
+      "explanation": "Le parole di incoraggiamento hanno il potere di sollevare gli spiriti appesantiti dalla preoccupazione.",
+      "full_verse": "L'ansia nel cuore dell'uomo lo abbatte, ma una buona parola lo rallegra.",
+      "verse_ref": "Proverbi 12:25"
+    },
+    {
+      "id": "q_proverbs_015",
+      "question": "Completa il versetto: 'La speranza differita fa languire il cuore, ma il desiderio realizzato è un albero di _____.'",
+      "correct": "vita",
+      "wrong": ["gioia", "speranza", "benedizione"],
+      "hint": "Questo è ciò che l'albero fornisce",
+      "explanation": "Le speranze ritardate possono essere scoraggianti, ma i desideri realizzati portano vitalità e gioia.",
+      "full_verse": "La speranza differita fa languire il cuore, ma il desiderio realizzato è un albero di vita.",
+      "verse_ref": "Proverbi 13:12"
+    },
+    {
+      "id": "q_proverbs_016",
+      "question": "Completa il versetto: 'C'è una via che all'uomo sembra diritta, ma finisce col condurre alla _____.'",
+      "correct": "morte",
+      "wrong": ["rovina", "distruzione", "tenebre"],
+      "hint": "Questa è la conseguenza ultima",
+      "explanation": "Il giudizio umano può essere ingannato; ciò che sembra giusto può portare alla distruzione.",
+      "full_verse": "C'è una via che all'uomo sembra diritta, ma finisce col condurre alla morte.",
+      "verse_ref": "Proverbi 14:12"
+    },
+    {
+      "id": "q_proverbs_017",
+      "question": "Completa il versetto: 'La risposta dolce calma il furore, ma la parola dura eccita l'_____.'",
+      "correct": "ira",
+      "wrong": ["conflitto", "contesa", "furia"],
+      "hint": "Questa emozione è provocata da parole dure",
+      "explanation": "Come rispondiamo può calmare o aggravare il conflitto.",
+      "full_verse": "La risposta dolce calma il furore, ma la parola dura eccita l'ira.",
+      "verse_ref": "Proverbi 15:1"
+    },
+    {
+      "id": "q_proverbs_018",
+      "question": "Completa il versetto: 'Il cuore dell'uomo medita la sua via, ma il SIGNORE dirige i suoi _____.'",
+      "correct": "passi",
+      "wrong": ["sentieri", "vie", "piani"],
+      "hint": "Questo si riferisce ai singoli movimenti in avanti",
+      "explanation": "Possiamo fare piani, ma alla fine Dio dirige il nostro cammino.",
+      "full_verse": "Il cuore dell'uomo medita la sua via, ma il SIGNORE dirige i suoi passi.",
+      "verse_ref": "Proverbi 16:9"
+    },
+    {
+      "id": "q_proverbs_019",
+      "question": "Completa il versetto: 'L'amico ama in ogni tempo; è nato per essere un fratello nelle _____.'",
+      "correct": "avversità",
+      "wrong": ["difficoltà", "necessità", "tribolazioni"],
+      "hint": "Questa parola significa circostanze difficili",
+      "explanation": "I veri amici e la famiglia sono presenti nei momenti difficili.",
+      "full_verse": "L'amico ama in ogni tempo; è nato per essere un fratello nelle avversità.",
+      "verse_ref": "Proverbi 17:17"
+    },
+    {
+      "id": "q_proverbs_020",
+      "question": "Completa il versetto: 'Chi ha molti amici può esserne danneggiato, ma c'è un amico che è più affezionato di un _____.'",
+      "correct": "fratello",
+      "wrong": ["padre", "madre", "sorella"],
+      "hint": "Questo è un membro maschile della famiglia",
+      "explanation": "La vera amicizia può essere ancora più stretta dei legami familiari.",
+      "full_verse": "Chi ha molti amici può esserne danneggiato, ma c'è un amico che è più affezionato di un fratello.",
+      "verse_ref": "Proverbi 18:24"
+    },
+    {
+      "id": "q_proverbs_021",
+      "question": "Completa il versetto: 'Ci sono molti disegni nel cuore dell'uomo, ma il _____ del SIGNORE è quello che sussiste.'",
+      "correct": "piano",
+      "wrong": ["volontà", "proposito", "via"],
+      "hint": "Questo si riferisce all'intenzione o al disegno di Dio",
+      "explanation": "I piani umani sono molti, ma il proposito sovrano di Dio alla fine si compirà.",
+      "full_verse": "Ci sono molti disegni nel cuore dell'uomo, ma il piano del SIGNORE è quello che sussiste.",
+      "verse_ref": "Proverbi 19:21"
+    },
+    {
+      "id": "q_proverbs_022",
+      "question": "Completa il versetto: 'Il giusto cammina nella sua integrità; beati i suoi _____ dopo di lui!'",
+      "correct": "figli",
+      "wrong": ["famiglie", "discendenti", "eredi"],
+      "hint": "Questi sono i figli e le figlie",
+      "explanation": "Una vita retta lascia un'eredità positiva per le generazioni future.",
+      "full_verse": "Il giusto cammina nella sua integrità; beati i suoi figli dopo di lui!",
+      "verse_ref": "Proverbi 20:7"
+    },
+    {
+      "id": "q_proverbs_023",
+      "question": "Completa il versetto: 'Chi ricerca la giustizia e la bontà troverà vita, _____ e gloria.'",
+      "correct": "giustizia",
+      "wrong": ["pace", "gioia", "benedizione"],
+      "hint": "Questa parola significa rettitudine",
+      "explanation": "Perseguire la giustizia e l'amore porta a una vita piena e benedetta.",
+      "full_verse": "Chi ricerca la giustizia e la bontà troverà vita, giustizia e gloria.",
+      "verse_ref": "Proverbi 21:21"
+    },
+    {
+      "id": "q_proverbs_024",
+      "question": "Completa il versetto: 'Una buona reputazione è preferibile a grandi _____; e la stima, all'argento e all'oro.'",
+      "correct": "ricchezze",
+      "wrong": ["tesori", "fortune", "beni"],
+      "hint": "Questa parola si riferisce a ricchezza abbondante",
+      "explanation": "Il carattere e la reputazione hanno più valore della ricchezza materiale.",
+      "full_verse": "Una buona reputazione è preferibile a grandi ricchezze; e la stima, all'argento e all'oro.",
+      "verse_ref": "Proverbi 22:1"
+    },
+    {
+      "id": "q_proverbs_025",
+      "question": "Completa il versetto: 'Applica il cuore all'istruzione e gli orecchi alle parole della _____.'",
+      "correct": "scienza",
+      "wrong": ["saggezza", "verità", "comprensione"],
+      "hint": "Questo è ciò che l'istruzione mira a impartire",
+      "explanation": "Dovremmo ricevere con entusiasmo sia l'istruzione che la conoscenza.",
+      "full_verse": "Applica il cuore all'istruzione e gli orecchi alle parole della scienza.",
+      "verse_ref": "Proverbi 23:12"
+    },
+    {
+      "id": "q_proverbs_026",
+      "question": "Completa il versetto: 'Perché il giusto cade sette volte e si _____; ma gli empi precipitano nella sciagura.'",
+      "correct": "rialza",
+      "wrong": ["alza", "riprende", "solleva"],
+      "hint": "Questa parola indica rialzarsi dopo essere caduti",
+      "explanation": "I giusti dimostrano resilienza, rialzandosi dopo i fallimenti.",
+      "full_verse": "Perché il giusto cade sette volte e si rialza; ma gli empi precipitano nella sciagura.",
+      "verse_ref": "Proverbi 24:16"
+    },
+    {
+      "id": "q_proverbs_027",
+      "question": "Completa il versetto: 'Come le mele d'oro in vasi d'_____, così è la parola detta a suo tempo.'",
+      "correct": "argento",
+      "wrong": ["oro", "gioielli", "bronzo"],
+      "hint": "Questo metallo prezioso fornisce l'incastonatura",
+      "explanation": "Parole appropriate e tempestive sono belle e preziose.",
+      "full_verse": "Come le mele d'oro in vasi d'argento, così è la parola detta a suo tempo.",
+      "verse_ref": "Proverbi 25:11"
+    },
+    {
+      "id": "q_proverbs_028",
+      "question": "Completa il versetto: 'Senza legna il fuoco si spegne; e dove non c'è chi sparla, cessano le _____.'",
+      "correct": "contese",
+      "wrong": ["liti", "dispute", "discordie"],
+      "hint": "Questo si riferisce ai conflitti",
+      "explanation": "Il conflitto è alimentato da coloro che spargono discorsi negativi sugli altri.",
+      "full_verse": "Senza legna il fuoco si spegne; e dove non c'è chi sparla, cessano le contese.",
+      "verse_ref": "Proverbi 26:20"
+    },
+    {
+      "id": "q_proverbs_029",
+      "question": "Completa il versetto: 'Non ti vantare del _____; perché non sai quel che un giorno possa produrre.'",
+      "correct": "domani",
+      "wrong": ["futuro", "te stesso", "piano"],
+      "hint": "Questo si riferisce al giorno successivo",
+      "explanation": "Non dovremmo presumere sul futuro, poiché è incerto.",
+      "full_verse": "Non ti vantare del domani; perché non sai quel che un giorno possa produrre.",
+      "verse_ref": "Proverbi 27:1"
+    },
+    {
+      "id": "q_proverbs_030",
+      "question": "Completa il versetto: 'Chi nasconde le sue colpe non prospererà, ma chi le confessa e le abbandona otterrà _____.'",
+      "correct": "misericordia",
+      "wrong": ["grazia", "perdono", "pace"],
+      "hint": "Questo è un trattamento compassionevole",
+      "explanation": "La confessione e il pentimento portano alla misericordia di Dio.",
+      "full_verse": "Chi nasconde le sue colpe non prospererà, ma chi le confessa e le abbandona otterrà misericordia.",
+      "verse_ref": "Proverbi 28:13"
+    },
+    {
+      "id": "q_proverbs_031",
+      "question": "Completa il versetto: 'La paura degli uomini è una _____; ma chi confida nel SIGNORE è al sicuro.'",
+      "correct": "trappola",
+      "wrong": ["laccio", "peso", "maledizione"],
+      "hint": "Questo è qualcosa che cattura e intrappola",
+      "explanation": "Essere controllati da ciò che gli altri pensano può intrappolarci, ma confidare in Dio porta sicurezza.",
+      "full_verse": "La paura degli uomini è una trappola; ma chi confida nel SIGNORE è al sicuro.",
+      "verse_ref": "Proverbi 29:25"
+    },
+    {
+      "id": "q_proverbs_032",
+      "question": "Completa il versetto: 'Ogni parola di Dio è _____; egli è uno scudo per chi confida in lui.'",
+      "correct": "pura",
+      "wrong": ["vera", "perfetta", "santa"],
+      "hint": "Questo significa senza difetti",
+      "explanation": "La Parola di Dio è completamente affidabile e degna di fiducia.",
+      "full_verse": "Ogni parola di Dio è pura; egli è uno scudo per chi confida in lui.",
+      "verse_ref": "Proverbi 30:5"
+    },
+    {
+      "id": "q_proverbs_033",
+      "question": "Completa il versetto: 'Il SIGNORE dà la saggezza; dalla sua bocca provengono la scienza e l'_____.'",
+      "correct": "intelligenza",
+      "wrong": ["verità", "intuizione", "discernimento"],
+      "hint": "Questa è la capacità di comprendere",
+      "explanation": "La vera saggezza, conoscenza e comprensione vengono tutte da Dio.",
+      "full_verse": "Il SIGNORE dà la saggezza; dalla sua bocca provengono la scienza e l'intelligenza.",
+      "verse_ref": "Proverbi 2:6"
+    },
+    {
+      "id": "q_proverbs_034",
+      "question": "Completa il versetto: 'Figlio mio, non disprezzare la disciplina del SIGNORE e non ti ripugni la sua _____.'",
+      "correct": "riprensione",
+      "wrong": ["correzione", "punizione", "guida"],
+      "hint": "Questa è un'espressione forte di disapprovazione",
+      "explanation": "Dio disciplina quelli che ama, e dovremmo accettare la sua correzione.",
+      "full_verse": "Figlio mio, non disprezzare la disciplina del SIGNORE e non ti ripugni la sua riprensione; perché il SIGNORE riprende colui che egli ama, come un padre il figlio che gli è caro.",
+      "verse_ref": "Proverbi 3:11-12"
+    },
+    {
+      "id": "q_proverbs_035",
+      "question": "Completa il versetto: 'Il principio della saggezza è: acquista la _____; e a costo di quanto possiedi, acquista intelligenza.'",
+      "correct": "saggezza",
+      "wrong": ["conoscenza", "intuizione", "comprensione"],
+      "hint": "Questo è ciò che il versetto dice di ottenere",
+      "explanation": "La saggezza è così preziosa che vale la pena perseguirla a qualsiasi costo.",
+      "full_verse": "Il principio della saggezza è: acquista la saggezza; e a costo di quanto possiedi, acquista intelligenza.",
+      "verse_ref": "Proverbi 4:7"
+    },
+    {
+      "id": "q_proverbs_036",
+      "question": "Completa il versetto: 'Sei cose odia il SIGNORE, anzi sette gli sono in abominio: gli occhi alteri, la lingua bugiarda, le mani che spargono sangue innocente, il cuore che medita disegni iniqui, i piedi che corrono frettolosi al _____, il falso testimone che proferisce menzogne, e chi semina discordie tra fratelli.'",
+      "correct": "male",
+      "wrong": ["peccato", "guaio", "malizia"],
+      "hint": "Questo è l'opposto del bene",
+      "explanation": "Dio odia varie forme di malvagità, inclusi coloro che sono ansiosi di fare il male.",
+      "full_verse": "Sei cose odia il SIGNORE, anzi sette gli sono in abominio: gli occhi alteri, la lingua bugiarda, le mani che spargono sangue innocente, il cuore che medita disegni iniqui, i piedi che corrono frettolosi al male, il falso testimone che proferisce menzogne, e chi semina discordie tra fratelli.",
+      "verse_ref": "Proverbi 6:16-19"
+    },
+    {
+      "id": "q_proverbs_037",
+      "question": "Completa il versetto: 'Il principio della saggezza è il timore del SIGNORE, e conoscere il Santo è _____.'",
+      "correct": "intelligenza",
+      "wrong": ["saggezza", "intuizione", "discernimento"],
+      "hint": "Questa è la capacità di comprendere profondamente",
+      "explanation": "La vera saggezza inizia con la riverenza per Dio, e conoscerlo porta comprensione.",
+      "full_verse": "Il principio della saggezza è il timore del SIGNORE, e conoscere il Santo è intelligenza.",
+      "verse_ref": "Proverbi 9:10"
+    },
+    {
+      "id": "q_proverbs_038",
+      "question": "Completa il versetto: 'La benedizione del SIGNORE è quella che arricchisce e non vi si aggiunge nessun _____.'",
+      "correct": "affanno",
+      "wrong": ["lavoro", "fatica", "sforzo"],
+      "hint": "Questo è un lavoro duro e estenuante",
+      "explanation": "La benedizione di Dio porta prosperità senza il peso di un affanno ansioso.",
+      "full_verse": "La benedizione del SIGNORE è quella che arricchisce e non vi si aggiunge nessun affanno.",
+      "verse_ref": "Proverbi 10:22"
+    },
+    {
+      "id": "q_proverbs_039",
+      "question": "Completa il versetto: 'Quando manca chi guida, il popolo cade; la salvezza sta nel gran numero dei _____.'",
+      "correct": "consiglieri",
+      "wrong": ["saggi", "capi", "anziani"],
+      "hint": "Queste sono persone che danno consigli",
+      "explanation": "Il saggio consiglio da molte fonti porta al successo.",
+      "full_verse": "Quando manca chi guida, il popolo cade; la salvezza sta nel gran numero dei consiglieri.",
+      "verse_ref": "Proverbi 11:14"
+    },
+    {
+      "id": "q_proverbs_040",
+      "question": "Completa il versetto: 'La via dello stolto è diritta ai suoi occhi, ma chi ascolta i consigli è _____.'",
+      "correct": "saggio",
+      "wrong": ["prudente", "intelligente", "benedetto"],
+      "hint": "Questa è guida o raccomandazioni dagli altri",
+      "explanation": "Gli stolti si fidano del proprio giudizio; i saggi cercano e ascoltano il consiglio.",
+      "full_verse": "La via dello stolto è diritta ai suoi occhi, ma chi ascolta i consigli è saggio.",
+      "verse_ref": "Proverbi 12:15"
+    },
+    {
+      "id": "q_proverbs_041",
+      "question": "Completa il versetto: 'Chi è lento all'ira ha molto buon senso, ma chi è pronto ad andare in collera mostra la sua _____.'",
+      "correct": "follia",
+      "wrong": ["rabbia", "stoltezza", "orgoglio"],
+      "hint": "Questo è l'opposto della saggezza",
+      "explanation": "La pazienza riflette saggezza, mentre un temperamento rapido mostra stoltezza.",
+      "full_verse": "Chi è lento all'ira ha molto buon senso, ma chi è pronto ad andare in collera mostra la sua follia.",
+      "verse_ref": "Proverbi 14:29"
+    },
+    {
+      "id": "q_proverbs_042",
+      "question": "Completa il versetto: 'I progetti falliscono dove manca il _____; ma riescono quando i consiglieri sono molti.'",
+      "correct": "consiglio",
+      "wrong": ["guida", "saggezza", "piano"],
+      "hint": "Questo è un parere o una guida",
+      "explanation": "Cercare saggi consigli aiuta ad assicurare il successo nei nostri piani.",
+      "full_verse": "I progetti falliscono dove manca il consiglio; ma riescono quando i consiglieri sono molti.",
+      "verse_ref": "Proverbi 15:22"
+    },
+    {
+      "id": "q_proverbs_043",
+      "question": "Completa il versetto: 'La superbia precede la rovina, e lo spirito altero precede la _____.'",
+      "correct": "caduta",
+      "wrong": ["distruzione", "rovina", "sconfitta"],
+      "hint": "Questa è una improvvisa discesa o crollo",
+      "explanation": "L'orgoglio porta alla distruzione e alla caduta.",
+      "full_verse": "La superbia precede la rovina, e lo spirito altero precede la caduta.",
+      "verse_ref": "Proverbi 16:18"
+    },
+    {
+      "id": "q_proverbs_044",
+      "question": "Completa il versetto: 'Un cuore allegro è una buona _____; ma uno spirito abbattuto secca le ossa.'",
+      "correct": "medicina",
+      "wrong": ["guarigione", "terapia", "rimedio"],
+      "hint": "Questo è qualcosa che guarisce",
+      "explanation": "La gioia e l'allegria hanno un effetto curativo su tutto il nostro essere.",
+      "full_verse": "Un cuore allegro è una buona medicina; ma uno spirito abbattuto secca le ossa.",
+      "verse_ref": "Proverbi 17:22"
+    },
+    {
+      "id": "q_proverbs_045",
+      "question": "Completa il versetto: 'Chi ha pietà del povero presta al _____; ed egli lo contraccambierà per la sua buona azione.'",
+      "correct": "SIGNORE",
+      "wrong": ["Dio", "Altissimo", "Onnipotente"],
+      "hint": "Questo è il nome del patto di Dio",
+      "explanation": "Aiutare i poveri è come prestare a Dio, che promette di ripagare.",
+      "full_verse": "Chi ha pietà del povero presta al SIGNORE, ed egli lo contraccambierà per la sua buona azione.",
+      "verse_ref": "Proverbi 19:17"
+    },
+    {
+      "id": "q_proverbs_046",
+      "question": "Completa il versetto: 'Non dire: \"Voglio rendere il male!\" Spera nel SIGNORE, ed egli ti _____.'",
+      "correct": "salverà",
+      "wrong": ["aiuterà", "vendicherà", "libererà"],
+      "hint": "Questo significa portare in salvo",
+      "explanation": "Piuttosto che cercare vendetta, dovremmo confidare che Dio porterà giustizia.",
+      "full_verse": "Non dire: «Voglio rendere il male!» Spera nel SIGNORE, ed egli ti salverà.",
+      "verse_ref": "Proverbi 20:22"
+    },
+    {
+      "id": "q_proverbs_047",
+      "question": "Completa il versetto: 'Praticare la giustizia e l'equità è cosa che il SIGNORE preferisce ai _____.'",
+      "correct": "sacrifici",
+      "wrong": ["offerte", "adorazione", "preghiere"],
+      "hint": "Questa è un'offerta religiosa",
+      "explanation": "Dio apprezza la vita retta più dei rituali religiosi.",
+      "full_verse": "Praticare la giustizia e l'equità è cosa che il SIGNORE preferisce ai sacrifici.",
+      "verse_ref": "Proverbi 21:3"
+    },
+    {
+      "id": "q_proverbs_048",
+      "question": "Completa il versetto: 'Il frutto dell'umiltà e del timore del SIGNORE è ricchezza, _____ e vita.'",
+      "correct": "gloria",
+      "wrong": ["onore", "benedizione", "pace"],
+      "hint": "Questo è alto rispetto o stima",
+      "explanation": "L'umiltà e la riverenza per Dio portano a ricche ricompense inclusi onore e vita.",
+      "full_verse": "Il frutto dell'umiltà e del timore del SIGNORE è ricchezza, gloria e vita.",
+      "verse_ref": "Proverbi 22:4"
+    },
+    {
+      "id": "q_proverbs_049",
+      "question": "Completa il versetto: 'Una donna di valore chi la troverà? Il suo pregio sorpassa di molto quello delle _____.'",
+      "correct": "perle",
+      "wrong": ["oro", "argento", "gioielli"],
+      "hint": "Queste sono gemme preziose",
+      "explanation": "Una moglie virtuosa ha più valore delle gemme preziose.",
+      "full_verse": "Una donna di valore chi la troverà? Il suo pregio sorpassa di molto quello delle perle.",
+      "verse_ref": "Proverbi 31:10"
+    },
+    {
+      "id": "q_proverbs_050",
+      "question": "Completa il versetto: 'Non ti stimare saggio da te stesso; temi il SIGNORE e allontanati dal _____.'",
+      "correct": "male",
+      "wrong": ["peccato", "malvagità", "torto"],
+      "hint": "Questo è ciò che dovremmo evitare",
+      "explanation": "La vera saggezza implica temere Dio e allontanarsi dal male.",
+      "full_verse": "Non ti stimare saggio da te stesso; temi il SIGNORE e allontanati dal male.",
+      "verse_ref": "Proverbi 3:7"
+    }
+  ]
+}

@@ -1,1 +1,452 @@
-{}
+{
+  "q_faith_001": {
+    "question": "Fill in the blank: 'Now faith is confidence in what we hope for and assurance about what we do not _____.'",
+    "correct": "see",
+    "wrong": ["know", "have", "understand"],
+    "hint": "Faith relates to the invisible",
+    "explanation": "The writer of Hebrews defines faith as being certain about things we cannot physically see.",
+    "full_verse": "Now faith is confidence in what we hope for and assurance about what we do not see.",
+    "verse_ref": "Hebrews 11:1"
+  },
+  "q_faith_002": {
+    "question": "Fill in the blank: 'Consequently, faith comes from hearing the message, and the message is heard through the word about _____.'",
+    "correct": "Christ",
+    "wrong": ["God", "salvation", "truth"],
+    "hint": "Faith comes through hearing about this person",
+    "explanation": "Paul teaches that faith is produced by hearing the message about Christ.",
+    "full_verse": "Consequently, faith comes from hearing the message, and the message is heard through the word about Christ.",
+    "verse_ref": "Romans 10:17"
+  },
+  "q_faith_003": {
+    "question": "Fill in the blank: 'For it is by grace you have been saved, through faith—and this is not from yourselves, it is the _____ of God.'",
+    "correct": "gift",
+    "wrong": ["work", "plan", "will"],
+    "hint": "Salvation is freely given",
+    "explanation": "Paul emphasizes that salvation through faith is a gift from God, not something we earn.",
+    "full_verse": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God.",
+    "verse_ref": "Ephesians 2:8"
+  },
+  "q_faith_004": {
+    "question": "Fill in the blank: 'In the same way, faith by itself, if it is not accompanied by action, is _____.'",
+    "correct": "dead",
+    "wrong": ["weak", "empty", "useless"],
+    "hint": "Faith without works has no life",
+    "explanation": "James teaches that genuine faith will naturally produce good works as evidence.",
+    "full_verse": "In the same way, faith by itself, if it is not accompanied by action, is dead.",
+    "verse_ref": "James 2:17"
+  },
+  "q_faith_005": {
+    "question": "Fill in the blank: 'Have faith in _____,' Jesus answered.",
+    "correct": "God",
+    "wrong": ["me", "yourself", "prayer"],
+    "hint": "Jesus directs faith to the Father",
+    "explanation": "Jesus instructs His disciples to place their trust completely in God.",
+    "full_verse": "Have faith in God, Jesus answered.",
+    "verse_ref": "Mark 11:22"
+  },
+  "q_faith_006": {
+    "question": "Fill in the blank: 'Truly I tell you, if you have faith as small as a mustard _____, you can say to this mountain, \"Move from here to there,\" and it will move.'",
+    "correct": "seed",
+    "wrong": ["grain", "plant", "tree"],
+    "hint": "This is the smallest of seeds",
+    "explanation": "Jesus teaches that even a tiny amount of genuine faith can accomplish great things.",
+    "full_verse": "Truly I tell you, if you have faith as small as a mustard seed, you can say to this mountain, 'Move from here to there,' and it will move. Nothing will be impossible for you.",
+    "verse_ref": "Matthew 17:20"
+  },
+  "q_faith_007": {
+    "question": "Fill in the blank: 'For we live by faith, not by _____.'",
+    "correct": "sight",
+    "wrong": ["works", "law", "feelings"],
+    "hint": "The opposite of seeing",
+    "explanation": "Paul contrasts faith with physical sight, emphasizing that believers trust in the unseen.",
+    "full_verse": "For we live by faith, not by sight.",
+    "verse_ref": "2 Corinthians 5:7"
+  },
+  "q_faith_008": {
+    "question": "Fill in the blank: 'I have been crucified with Christ and I no longer live, but Christ lives in _____.'",
+    "correct": "me",
+    "wrong": ["us", "them", "all"],
+    "hint": "Paul speaks of his personal experience",
+    "explanation": "Paul describes the transformation of living by faith in Christ who now lives within him.",
+    "full_verse": "I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.",
+    "verse_ref": "Galatians 2:20"
+  },
+  "q_faith_009": {
+    "question": "Fill in the blank: 'And without faith it is impossible to _____ God.'",
+    "correct": "please",
+    "wrong": ["know", "love", "serve"],
+    "hint": "Faith is required to satisfy God",
+    "explanation": "The writer of Hebrews declares that faith is absolutely essential to pleasing God.",
+    "full_verse": "And without faith it is impossible to please God, because anyone who comes to him must believe that he exists and that he rewards those who earnestly seek him.",
+    "verse_ref": "Hebrews 11:6"
+  },
+  "q_faith_010": {
+    "question": "Fill in the blank: 'For in the gospel the righteousness of God is revealed—a righteousness that is by faith from first to last, just as it is written: \"The righteous will live by _____.\"'",
+    "correct": "faith",
+    "wrong": ["grace", "love", "law"],
+    "hint": "The righteous live by this",
+    "explanation": "Paul quotes Habakkuk to show that righteousness has always been through faith.",
+    "full_verse": "For in the gospel the righteousness of God is revealed—a righteousness that is by faith from first to last, just as it is written: 'The righteous will live by faith.'",
+    "verse_ref": "Romans 1:17"
+  },
+  "q_faith_011": {
+    "question": "Fill in the blank: 'But when you ask, you must believe and not _____, because the one who doubts is like a wave of the sea.'",
+    "correct": "doubt",
+    "wrong": ["fear", "worry", "hesitate"],
+    "hint": "The opposite of believing",
+    "explanation": "James teaches that prayer must be offered in faith without wavering.",
+    "full_verse": "But when you ask, you must believe and not doubt, because the one who doubts is like a wave of the sea, blown and tossed by the wind.",
+    "verse_ref": "James 1:6"
+  },
+  "q_faith_012": {
+    "question": "Fill in the blank: 'These have come so that the proven genuineness of your faith—of greater worth than _____, which perishes even though refined by fire—may result in praise.'",
+    "correct": "gold",
+    "wrong": ["silver", "jewels", "treasure"],
+    "hint": "A precious metal",
+    "explanation": "Peter compares tested faith to refined gold, showing faith's superior value.",
+    "full_verse": "These have come so that the proven genuineness of your faith—of greater worth than gold, which perishes even though refined by fire—may result in praise, glory and honor when Jesus Christ is revealed.",
+    "verse_ref": "1 Peter 1:7"
+  },
+  "q_faith_013": {
+    "question": "Fill in the blank: 'And, \"But my righteous one will live by faith. And I take no pleasure in the one who shrinks _____.\"'",
+    "correct": "back",
+    "wrong": ["away", "down", "aside"],
+    "hint": "To retreat or withdraw",
+    "explanation": "The writer quotes Habakkuk, warning against turning away from faith.",
+    "full_verse": "And, 'But my righteous one will live by faith. And I take no pleasure in the one who shrinks back.'",
+    "verse_ref": "Hebrews 10:38"
+  },
+  "q_faith_014": {
+    "question": "Fill in the blank: 'Yet he did not waver through unbelief regarding the promise of God, but was strengthened in his faith and gave _____ to God.'",
+    "correct": "glory",
+    "wrong": ["thanks", "praise", "honor"],
+    "hint": "Abraham's faith honored God",
+    "explanation": "Paul describes Abraham's unwavering faith in God's promise despite impossible circumstances.",
+    "full_verse": "Yet he did not waver through unbelief regarding the promise of God, but was strengthened in his faith and gave glory to God.",
+    "verse_ref": "Romans 4:20"
+  },
+  "q_faith_015": {
+    "question": "Fill in the blank: '\"If you can?\" said Jesus. \"Everything is _____ for one who believes.\"'",
+    "correct": "possible",
+    "wrong": ["given", "done", "achieved"],
+    "hint": "Nothing is beyond reach for faith",
+    "explanation": "Jesus challenges a father's doubt by declaring that all things are possible through faith.",
+    "full_verse": "'If you can?' said Jesus. 'Everything is possible for one who believes.'",
+    "verse_ref": "Mark 9:23"
+  },
+  "q_faith_016": {
+    "question": "Fill in the blank: 'Jesus replied, \"Truly I tell you, if you have faith and do not doubt, not only can you do what was done to the fig tree, but also you can say to this mountain, 'Go, throw yourself into the _____,' and it will be done.\"'",
+    "correct": "sea",
+    "wrong": ["valley", "fire", "abyss"],
+    "hint": "A large body of water",
+    "explanation": "Jesus uses hyperbole to illustrate the incredible power of unwavering faith.",
+    "full_verse": "Jesus replied, 'Truly I tell you, if you have faith and do not doubt, not only can you do what was done to the fig tree, but also you can say to this mountain, \"Go, throw yourself into the sea,\" and it will be done.'",
+    "verse_ref": "Matthew 21:21"
+  },
+  "q_faith_017": {
+    "question": "Fill in the blank: 'For everyone born of God overcomes the world. This is the victory that has overcome the world, even our _____.'",
+    "correct": "faith",
+    "wrong": ["love", "hope", "God"],
+    "hint": "This conquers the world",
+    "explanation": "John declares that faith in Christ is what enables believers to overcome the world.",
+    "full_verse": "For everyone born of God overcomes the world. This is the victory that has overcome the world, even our faith.",
+    "verse_ref": "1 John 5:4"
+  },
+  "q_faith_018": {
+    "question": "Fill in the blank: 'Clearly no one who relies on the law is justified before God, because \"the righteous will live by _____.\"'",
+    "correct": "faith",
+    "wrong": ["grace", "works", "love"],
+    "hint": "Righteousness comes through this",
+    "explanation": "Paul argues that justification comes through faith, not through keeping the law.",
+    "full_verse": "Clearly no one who relies on the law is justified before God, because 'the righteous will live by faith.'",
+    "verse_ref": "Galatians 3:11"
+  },
+  "q_faith_019": {
+    "question": "Fill in the blank: 'By faith we understand that the universe was formed at God's command, so that what is seen was not made out of what was _____.'",
+    "correct": "visible",
+    "wrong": ["existing", "known", "created"],
+    "hint": "The opposite of invisible",
+    "explanation": "Faith helps us understand that God created everything from nothing.",
+    "full_verse": "By faith we understand that the universe was formed at God's command, so that what is seen was not made out of what was visible.",
+    "verse_ref": "Hebrews 11:3"
+  },
+  "q_faith_020": {
+    "question": "Fill in the blank: 'Therefore, since we have been justified through faith, we have _____ with God through our Lord Jesus Christ.'",
+    "correct": "peace",
+    "wrong": ["life", "hope", "joy"],
+    "hint": "Faith brings reconciliation with God",
+    "explanation": "Paul declares that justification by faith results in peace with God.",
+    "full_verse": "Therefore, since we have been justified through faith, we have peace with God through our Lord Jesus Christ.",
+    "verse_ref": "Romans 5:1"
+  },
+  "q_faith_021": {
+    "question": "Fill in the blank: 'As the body without the spirit is dead, so faith without deeds is _____.'",
+    "correct": "dead",
+    "wrong": ["weak", "empty", "false"],
+    "hint": "Faith without works has no life",
+    "explanation": "James compares faith without works to a body without a spirit—lifeless.",
+    "full_verse": "As the body without the spirit is dead, so faith without deeds is dead.",
+    "verse_ref": "James 2:26"
+  },
+  "q_faith_022": {
+    "question": "Fill in the blank: 'Fixing our eyes on Jesus, the pioneer and perfecter of _____.'",
+    "correct": "faith",
+    "wrong": ["love", "hope", "salvation"],
+    "hint": "Jesus completes this in us",
+    "explanation": "Jesus is both the originator and the one who brings faith to completion.",
+    "full_verse": "Fixing our eyes on Jesus, the pioneer and perfecter of faith. For the joy set before him he endured the cross, scorning its shame, and sat down at the right hand of the throne of God.",
+    "verse_ref": "Hebrews 12:2"
+  },
+  "q_faith_023": {
+    "question": "Fill in the blank: 'Fight the good fight of the faith. Take hold of the eternal _____ to which you were called.'",
+    "correct": "life",
+    "wrong": ["hope", "promise", "truth"],
+    "hint": "This lasts forever",
+    "explanation": "Paul encourages Timothy to fight for faith and grasp eternal life.",
+    "full_verse": "Fight the good fight of the faith. Take hold of the eternal life to which you were called when you made your good confession in the presence of many witnesses.",
+    "verse_ref": "1 Timothy 6:12"
+  },
+  "q_faith_024": {
+    "question": "Fill in the blank: 'So then, just as you received Christ Jesus as Lord, continue to live your lives in him, rooted and built up in him, strengthened in the faith as you were taught, and overflowing with _____.'",
+    "correct": "thankfulness",
+    "wrong": ["joy", "love", "hope"],
+    "hint": "Gratitude should overflow",
+    "explanation": "Paul urges believers to remain grounded in Christ, growing in faith with grateful hearts.",
+    "full_verse": "So then, just as you received Christ Jesus as Lord, continue to live your lives in him, rooted and built up in him, strengthened in the faith as you were taught, and overflowing with thankfulness.",
+    "verse_ref": "Colossians 2:6-7"
+  },
+  "q_faith_025": {
+    "question": "Fill in the blank: 'Be on your guard; stand firm in the faith; be courageous; be _____.'",
+    "correct": "strong",
+    "wrong": ["bold", "brave", "faithful"],
+    "hint": "The opposite of weak",
+    "explanation": "Paul gives four commands for spiritual vigilance and strength.",
+    "full_verse": "Be on your guard; stand firm in the faith; be courageous; be strong.",
+    "verse_ref": "1 Corinthians 16:13"
+  },
+  "q_faith_026": {
+    "question": "Fill in the blank: 'And be found in him, not having a righteousness of my own that comes from the law, but that which is through faith in _____.'",
+    "correct": "Christ",
+    "wrong": ["God", "Jesus", "the Lord"],
+    "hint": "Paul's faith is in this person",
+    "explanation": "Paul desires righteousness that comes through faith in Christ, not through the law.",
+    "full_verse": "And be found in him, not having a righteousness of my own that comes from the law, but that which is through faith in Christ—the righteousness that comes from God on the basis of faith.",
+    "verse_ref": "Philippians 3:9"
+  },
+  "q_faith_027": {
+    "question": "Fill in the blank: 'For we maintain that a person is justified by faith apart from the works of the _____.'",
+    "correct": "law",
+    "wrong": ["flesh", "world", "self"],
+    "hint": "Faith justifies without this",
+    "explanation": "Paul argues that justification comes through faith, not through keeping the law.",
+    "full_verse": "For we maintain that a person is justified by faith apart from the works of the law.",
+    "verse_ref": "Romans 3:28"
+  },
+  "q_faith_028": {
+    "question": "Fill in the blank: 'For in Christ Jesus neither circumcision nor uncircumcision has any value. The only thing that counts is faith expressing itself through _____.'",
+    "correct": "love",
+    "wrong": ["works", "deeds", "action"],
+    "hint": "Faith works through this emotion",
+    "explanation": "Paul teaches that true faith expresses itself through love, not external rituals.",
+    "full_verse": "For in Christ Jesus neither circumcision nor uncircumcision has any value. The only thing that counts is faith expressing itself through love.",
+    "verse_ref": "Galatians 5:6"
+  },
+  "q_faith_029": {
+    "question": "Fill in the blank: 'But whoever has doubts is condemned if they eat, because their eating is not from faith; and everything that does not come from faith is _____.'",
+    "correct": "sin",
+    "wrong": ["wrong", "evil", "bad"],
+    "hint": "Actions without faith are this",
+    "explanation": "Paul teaches that anything done without the conviction of faith is sinful.",
+    "full_verse": "But whoever has doubts is condemned if they eat, because their eating is not from faith; and everything that does not come from faith is sin.",
+    "verse_ref": "Romans 14:23"
+  },
+  "q_faith_030": {
+    "question": "Fill in the blank: 'By faith Noah, when warned about things not yet seen, in holy fear built an _____ to save his family.'",
+    "correct": "ark",
+    "wrong": ["altar", "house", "boat"],
+    "hint": "Noah built this vessel",
+    "explanation": "Noah's faith led him to build the ark despite never having seen a flood.",
+    "full_verse": "By faith Noah, when warned about things not yet seen, in holy fear built an ark to save his family. By his faith he condemned the world and became heir of the righteousness that is in keeping with faith.",
+    "verse_ref": "Hebrews 11:7"
+  },
+  "q_faith_031": {
+    "question": "Fill in the blank: 'By faith Abraham, when called to go to a place he would later receive as his inheritance, _____ and went, even though he did not know where he was going.'",
+    "correct": "obeyed",
+    "wrong": ["believed", "trusted", "followed"],
+    "hint": "Abraham's response to God's call",
+    "explanation": "Abraham's faith was demonstrated through obedience, leaving without knowing his destination.",
+    "full_verse": "By faith Abraham, when called to go to a place he would later receive as his inheritance, obeyed and went, even though he did not know where he was going.",
+    "verse_ref": "Hebrews 11:8"
+  },
+  "q_faith_032": {
+    "question": "Fill in the blank: 'And by faith even Sarah, who was past childbearing age, was enabled to bear children because she considered him _____ who had made the promise.'",
+    "correct": "faithful",
+    "wrong": ["true", "powerful", "almighty"],
+    "hint": "Sarah trusted God's character",
+    "explanation": "Sarah's faith was based on trusting that God would keep His promise.",
+    "full_verse": "And by faith even Sarah, who was past childbearing age, was enabled to bear children because she considered him faithful who had made the promise.",
+    "verse_ref": "Hebrews 11:11"
+  },
+  "q_faith_033": {
+    "question": "Fill in the blank: 'By faith Abraham, when God tested him, offered Isaac as a sacrifice. He who had embraced the promises was about to sacrifice his one and only _____.'",
+    "correct": "son",
+    "wrong": ["child", "heir", "beloved"],
+    "hint": "Abraham was willing to sacrifice this person",
+    "explanation": "Abraham's faith was tested when God asked him to sacrifice Isaac.",
+    "full_verse": "By faith Abraham, when God tested him, offered Isaac as a sacrifice. He who had embraced the promises was about to sacrifice his one and only son.",
+    "verse_ref": "Hebrews 11:17"
+  },
+  "q_faith_034": {
+    "question": "Fill in the blank: 'By faith Moses, when he had grown up, refused to be known as the son of _____'s daughter.'",
+    "correct": "Pharaoh",
+    "wrong": ["Egypt", "the king", "Rameses"],
+    "hint": "The ruler of Egypt",
+    "explanation": "Moses chose to identify with God's people rather than Egyptian royalty.",
+    "full_verse": "By faith Moses, when he had grown up, refused to be known as the son of Pharaoh's daughter. He chose to be mistreated along with the people of God rather than to enjoy the fleeting pleasures of sin.",
+    "verse_ref": "Hebrews 11:24-25"
+  },
+  "q_faith_035": {
+    "question": "Fill in the blank: 'By faith the people passed through the Red Sea as on dry land; but when the Egyptians tried to do so, they were _____.'",
+    "correct": "drowned",
+    "wrong": ["destroyed", "killed", "lost"],
+    "hint": "The Egyptians perished in water",
+    "explanation": "Israel's faith enabled them to cross the Red Sea while the pursuing Egyptians drowned.",
+    "full_verse": "By faith the people passed through the Red Sea as on dry land; but when the Egyptians tried to do so, they were drowned.",
+    "verse_ref": "Hebrews 11:29"
+  },
+  "q_faith_036": {
+    "question": "Fill in the blank: 'By faith the walls of Jericho fell, after the army had marched around them for _____ days.'",
+    "correct": "seven",
+    "wrong": ["six", "three", "forty"],
+    "hint": "A significant number in Scripture",
+    "explanation": "Israel's faith and obedience in marching around Jericho led to the walls falling.",
+    "full_verse": "By faith the walls of Jericho fell, after the army had marched around them for seven days.",
+    "verse_ref": "Hebrews 11:30"
+  },
+  "q_faith_037": {
+    "question": "Fill in the blank: 'By faith the prostitute Rahab, because she welcomed the spies, was not killed with those who were _____.'",
+    "correct": "disobedient",
+    "wrong": ["unfaithful", "unbelieving", "wicked"],
+    "hint": "Those who did not obey",
+    "explanation": "Rahab's faith saved her when Jericho was destroyed.",
+    "full_verse": "By faith the prostitute Rahab, because she welcomed the spies, was not killed with those who were disobedient.",
+    "verse_ref": "Hebrews 11:31"
+  },
+  "q_faith_038": {
+    "question": "Fill in the blank: 'The apostles said to the Lord, \"Increase our _____!\"'",
+    "correct": "faith",
+    "wrong": ["love", "hope", "strength"],
+    "hint": "The disciples asked for more of this",
+    "explanation": "The apostles recognized their need for greater faith and asked Jesus to increase it.",
+    "full_verse": "The apostles said to the Lord, 'Increase our faith!' He replied, 'If you have faith as small as a mustard seed, you can say to this mulberry tree, \"Be uprooted and planted in the sea,\" and it will obey you.'",
+    "verse_ref": "Luke 17:5-6"
+  },
+  "q_faith_039": {
+    "question": "Fill in the blank: 'When Jesus heard this, he was amazed and said to those following him, \"Truly I tell you, I have not found anyone in Israel with such great _____.\"'",
+    "correct": "faith",
+    "wrong": ["love", "trust", "belief"],
+    "hint": "Jesus was impressed by this quality",
+    "explanation": "Jesus marveled at the centurion's extraordinary faith in His authority.",
+    "full_verse": "When Jesus heard this, he was amazed and said to those following him, 'Truly I tell you, I have not found anyone in Israel with such great faith.'",
+    "verse_ref": "Matthew 8:10"
+  },
+  "q_faith_040": {
+    "question": "Fill in the blank: 'Jesus turned and saw her. \"Take heart, daughter,\" he said, \"your faith has _____ you.\"'",
+    "correct": "healed",
+    "wrong": ["saved", "helped", "blessed"],
+    "hint": "The woman was made well",
+    "explanation": "Jesus attributed the woman's healing to her faith.",
+    "full_verse": "Jesus turned and saw her. 'Take heart, daughter,' he said, 'your faith has healed you.' And the woman was healed at that moment.",
+    "verse_ref": "Matthew 9:22"
+  },
+  "q_faith_041": {
+    "question": "Fill in the blank: 'Then Jesus said to her, \"Woman, you have great faith! Your request is _____.\"'",
+    "correct": "granted",
+    "wrong": ["heard", "answered", "fulfilled"],
+    "hint": "Jesus gave what she asked for",
+    "explanation": "Jesus commended the Canaanite woman's great faith and granted her request.",
+    "full_verse": "Then Jesus said to her, 'Woman, you have great faith! Your request is granted.' And her daughter was healed at that moment.",
+    "verse_ref": "Matthew 15:28"
+  },
+  "q_faith_042": {
+    "question": "Fill in the blank: 'Jesus said to the woman, \"Your faith has saved you; go in _____.\"'",
+    "correct": "peace",
+    "wrong": ["joy", "hope", "love"],
+    "hint": "Jesus sends her away with this blessing",
+    "explanation": "Jesus assured the sinful woman that her faith had brought salvation and peace.",
+    "full_verse": "Jesus said to the woman, 'Your faith has saved you; go in peace.'",
+    "verse_ref": "Luke 7:50"
+  },
+  "q_faith_043": {
+    "question": "Fill in the blank: 'Then he said to her, \"Daughter, your faith has healed you. Go in _____.\"'",
+    "correct": "peace",
+    "wrong": ["joy", "hope", "love"],
+    "hint": "Jesus blesses her departure",
+    "explanation": "Jesus declared that the woman's faith had healed her and blessed her with peace.",
+    "full_verse": "Then he said to her, 'Daughter, your faith has healed you. Go in peace.'",
+    "verse_ref": "Luke 8:48"
+  },
+  "q_faith_044": {
+    "question": "Fill in the blank: 'By faith in the name of Jesus, this man whom you see and know was made strong. It is Jesus' name and the faith that comes through him that has completely _____ him.'",
+    "correct": "healed",
+    "wrong": ["saved", "restored", "cured"],
+    "hint": "The lame man was made whole",
+    "explanation": "Peter explains that faith in Jesus' name healed the lame man at the temple gate.",
+    "full_verse": "By faith in the name of Jesus, this man whom you see and know was made strong. It is Jesus' name and the faith that comes through him that has completely healed him, as you can all see.",
+    "verse_ref": "Acts 3:16"
+  },
+  "q_faith_045": {
+    "question": "Fill in the blank: 'What does Scripture say? \"Abraham believed God, and it was credited to him as _____.\"'",
+    "correct": "righteousness",
+    "wrong": ["faith", "holiness", "justice"],
+    "hint": "Abraham's belief was counted as this",
+    "explanation": "Paul quotes Genesis to show that Abraham was made righteous through faith, not works.",
+    "full_verse": "What does Scripture say? 'Abraham believed God, and it was credited to him as righteousness.'",
+    "verse_ref": "Romans 4:3"
+  },
+  "q_faith_046": {
+    "question": "Fill in the blank: 'If you declare with your mouth, \"Jesus is Lord,\" and believe in your heart that God raised him from the dead, you will be _____.'",
+    "correct": "saved",
+    "wrong": ["blessed", "forgiven", "healed"],
+    "hint": "Confession and belief lead to this",
+    "explanation": "Paul gives the simple requirement for salvation: confessing Jesus as Lord and believing in His resurrection.",
+    "full_verse": "If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved.",
+    "verse_ref": "Romans 10:9"
+  },
+  "q_faith_047": {
+    "question": "Fill in the blank: 'In addition to all this, take up the shield of faith, with which you can extinguish all the flaming _____ of the evil one.'",
+    "correct": "arrows",
+    "wrong": ["darts", "attacks", "weapons"],
+    "hint": "Satan's weapons are like these projectiles",
+    "explanation": "Paul describes faith as a shield that protects against Satan's attacks.",
+    "full_verse": "In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one.",
+    "verse_ref": "Ephesians 6:16"
+  },
+  "q_faith_048": {
+    "question": "Fill in the blank: 'But since we belong to the day, let us be sober, putting on faith and love as a breastplate, and the hope of salvation as a _____.'",
+    "correct": "helmet",
+    "wrong": ["shield", "crown", "armor"],
+    "hint": "Armor that protects the head",
+    "explanation": "Paul uses armor imagery to describe the spiritual protection of faith, love, and hope.",
+    "full_verse": "But since we belong to the day, let us be sober, putting on faith and love as a breastplate, and the hope of salvation as a helmet.",
+    "verse_ref": "1 Thessalonians 5:8"
+  },
+  "q_faith_049": {
+    "question": "Fill in the blank: 'I have fought the good fight, I have finished the race, I have kept the _____.'",
+    "correct": "faith",
+    "wrong": ["hope", "course", "word"],
+    "hint": "Paul preserved this throughout his life",
+    "explanation": "Paul reflects on his life, declaring that he has remained faithful to the end.",
+    "full_verse": "I have fought the good fight, I have finished the race, I have kept the faith.",
+    "verse_ref": "2 Timothy 4:7"
+  },
+  "q_faith_050": {
+    "question": "Fill in the blank: 'For you are receiving the end result of your faith, the salvation of your _____.'",
+    "correct": "souls",
+    "wrong": ["lives", "hearts", "spirits"],
+    "hint": "Faith results in saving this part of us",
+    "explanation": "Peter encourages believers that faith's ultimate goal is the salvation of their souls.",
+    "full_verse": "For you are receiving the end result of your faith, the salvation of your souls.",
+    "verse_ref": "1 Peter 1:9"
+  }
+}

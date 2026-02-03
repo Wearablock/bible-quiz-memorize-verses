@@ -1,1 +1,452 @@
-{}
+{
+  "q_wisdom_001": {
+    "question": "Isi bagian yang kosong: 'Tetapi apabila di antara kamu ada yang kekurangan hikmat, hendaklah ia memintakannya kepada Allah, yang memberikan kepada semua orang dengan murah hati dan dengan tidak _____, maka hal itu akan diberikan kepadanya.'",
+    "correct": "membangkit-bangkit",
+    "wrong": ["menyalahkan", "menghakimi", "mencela"],
+    "hint": "Ini berarti mengkritik atau menegur",
+    "explanation": "Allah dengan murah hati memberikan hikmat kepada siapa pun yang meminta tanpa celaan.",
+    "full_verse": "Tetapi apabila di antara kamu ada yang kekurangan hikmat, hendaklah ia memintakannya kepada Allah, yang memberikan kepada semua orang dengan murah hati dan dengan tidak membangkit-bangkit, maka hal itu akan diberikan kepadanya.",
+    "verse_ref": "Yakobus 1:5"
+  },
+  "q_wisdom_002": {
+    "question": "Isi bagian yang kosong: 'Takut akan TUHAN adalah permulaan _____; orang bodoh menghina hikmat dan didikan.'",
+    "correct": "pengetahuan",
+    "wrong": ["hikmat", "pengertian", "kebenaran"],
+    "hint": "Ini adalah apa yang orang bodoh hina bersama dengan didikan",
+    "explanation": "Hormat kepada Allah adalah dasar dari semua pengetahuan yang benar.",
+    "full_verse": "Takut akan TUHAN adalah permulaan pengetahuan, tetapi orang bodoh menghina hikmat dan didikan.",
+    "verse_ref": "Amsal 1:7"
+  },
+  "q_wisdom_003": {
+    "question": "Isi bagian yang kosong: 'Percayalah kepada TUHAN dengan segenap hatimu, dan janganlah bersandar kepada _____mu sendiri. Akuilah Dia dalam segala lakumu, maka Ia akan meluruskan jalanmu.'",
+    "correct": "pengertian",
+    "wrong": ["hikmat", "pengetahuan", "kekuatan"],
+    "hint": "Ini mengacu pada akal dan penalaran manusia",
+    "explanation": "Kita harus percaya sepenuhnya kepada Allah daripada mengandalkan pengertian kita yang terbatas.",
+    "full_verse": "Percayalah kepada TUHAN dengan segenap hatimu, dan janganlah bersandar kepada pengertianmu sendiri. Akuilah Dia dalam segala lakumu, maka Ia akan meluruskan jalanmu.",
+    "verse_ref": "Amsal 3:5-6"
+  },
+  "q_wisdom_004": {
+    "question": "Isi bagian yang kosong: 'Permulaan hikmat adalah takut akan TUHAN, dan mengenal Yang Mahakudus adalah _____.'",
+    "correct": "pengertian",
+    "wrong": ["hikmat", "wawasan", "akal budi"],
+    "hint": "Ini adalah kemampuan untuk memahami secara mendalam",
+    "explanation": "Hikmat sejati dimulai dengan hormat kepada Allah, dan mengenal-Nya membawa pengertian.",
+    "full_verse": "Permulaan hikmat adalah takut akan TUHAN, dan mengenal Yang Mahakudus adalah pengertian.",
+    "verse_ref": "Amsal 9:10"
+  },
+  "q_wisdom_005": {
+    "question": "Isi bagian yang kosong: 'Hendaklah perkataan Kristus diam dengan segala kekayaannya di antara kamu, sehingga kamu dengan segala hikmat mengajar dan menegur seorang akan yang lain dan sambil menyanyikan mazmur, dan puji-pujian dan nyanyian rohani, kamu mengucap _____ kepada Allah di dalam hatimu.'",
+    "correct": "syukur",
+    "wrong": ["sukacita", "pujian", "kasih"],
+    "hint": "Ini adalah rasa terima kasih",
+    "explanation": "Firman Kristus harus memenuhi kita dengan hikmat dan penyembahan yang penuh syukur.",
+    "full_verse": "Hendaklah perkataan Kristus diam dengan segala kekayaannya di antara kamu, sehingga kamu dengan segala hikmat mengajar dan menegur seorang akan yang lain dan sambil menyanyikan mazmur, dan puji-pujian dan nyanyian rohani, kamu mengucap syukur kepada Allah di dalam hatimu.",
+    "verse_ref": "Kolose 3:16"
+  },
+  "q_wisdom_006": {
+    "question": "Isi bagian yang kosong: 'Karena TUHANlah yang memberikan hikmat; dari mulut-Nya datang pengetahuan dan _____.'",
+    "correct": "pengertian",
+    "wrong": ["kebenaran", "wawasan", "akal budi"],
+    "hint": "Ini adalah kemampuan untuk memahami",
+    "explanation": "Hikmat, pengetahuan, dan pengertian yang sejati semuanya datang dari Allah.",
+    "full_verse": "Karena TUHANlah yang memberikan hikmat; dari mulut-Nya datang pengetahuan dan pengertian.",
+    "verse_ref": "Amsal 2:6"
+  },
+  "q_wisdom_007": {
+    "question": "Isi bagian yang kosong: 'Permulaan hikmat ialah: perolehlah _____; dan dengan segala yang kauperoleh, perolehlah pengertian.'",
+    "correct": "hikmat",
+    "wrong": ["pengetahuan", "wawasan", "pengertian"],
+    "hint": "Ini adalah apa yang ayat itu katakan untuk diperoleh",
+    "explanation": "Hikmat sangat berharga sehingga layak dikejar dengan biaya apa pun.",
+    "full_verse": "Permulaan hikmat ialah: perolehlah hikmat; dan dengan segala yang kauperoleh, perolehlah pengertian.",
+    "verse_ref": "Amsal 4:7"
+  },
+  "q_wisdom_008": {
+    "question": "Isi bagian yang kosong: 'Karena hikmat adalah perlindungan, sama seperti uang adalah perlindungan; tetapi keuntungan pengetahuan ialah: hikmat memelihara hidup _____ yang memilikinya.'",
+    "correct": "pemiliknya",
+    "wrong": ["orang", "manusia", "mereka"],
+    "hint": "Ini mengacu kembali kepada pemilik hikmat",
+    "explanation": "Hikmat melindungi dan memelihara mereka yang memilikinya.",
+    "full_verse": "Karena hikmat adalah perlindungan, sama seperti uang adalah perlindungan; tetapi keuntungan pengetahuan ialah: hikmat memelihara hidup pemiliknya.",
+    "verse_ref": "Pengkhotbah 7:12"
+  },
+  "q_wisdom_009": {
+    "question": "Isi bagian yang kosong: 'Permulaan hikmat adalah takut akan TUHAN, semua orang yang melakukannya berakal budi yang _____. Puji-pujian kepada-Nya tetap untuk selamanya.'",
+    "correct": "baik",
+    "wrong": ["benar", "besar", "mulia"],
+    "hint": "Ini menggambarkan kualitas akal budi",
+    "explanation": "Menaati perintah Allah mengarah kepada pengertian yang sejati.",
+    "full_verse": "Permulaan hikmat adalah takut akan TUHAN, semua orang yang melakukannya berakal budi yang baik. Puji-pujian kepada-Nya tetap untuk selamanya.",
+    "verse_ref": "Mazmur 111:10"
+  },
+  "q_wisdom_010": {
+    "question": "Isi bagian yang kosong: 'Tetapi hikmat yang dari atas adalah pertama-tama murni, selanjutnya pendamai, peramah, penurut, penuh belas kasihan dan buah-buah yang baik, tidak memihak dan tidak _____.'",
+    "correct": "munafik",
+    "wrong": ["jujur", "benar", "asli"],
+    "hint": "Ini berarti tanpa kemunafikan",
+    "explanation": "Hikmat surgawi memiliki banyak karakteristik termasuk kemurnian dan ketulusan.",
+    "full_verse": "Tetapi hikmat yang dari atas adalah pertama-tama murni, selanjutnya pendamai, peramah, penurut, penuh belas kasihan dan buah-buah yang baik, tidak memihak dan tidak munafik.",
+    "verse_ref": "Yakobus 3:17"
+  },
+  "q_wisdom_011": {
+    "question": "Isi bagian yang kosong: 'Berbahagialah orang yang mendapat hikmat, orang yang memperoleh _____.'",
+    "correct": "pengertian",
+    "wrong": ["pengetahuan", "wawasan", "akal budi"],
+    "hint": "Ini adalah kemampuan untuk memahami",
+    "explanation": "Menemukan hikmat dan pengertian membawa berkat.",
+    "full_verse": "Berbahagialah orang yang mendapat hikmat, orang yang memperoleh pengertian.",
+    "verse_ref": "Amsal 3:13"
+  },
+  "q_wisdom_012": {
+    "question": "Isi bagian yang kosong: 'Hai anakku, janganlah biarkan hal ini menjauh dari matamu: peliharalah kebijaksanaan dan _____.'",
+    "correct": "pertimbangan",
+    "wrong": ["hikmat", "kehati-hatian", "kebijaksanaan"],
+    "hint": "Ini adalah penilaian yang cermat dalam ucapan dan tindakan",
+    "explanation": "Kita harus berpegang pada hikmat dan penilaian yang baik.",
+    "full_verse": "Hai anakku, janganlah biarkan hal ini menjauh dari matamu: peliharalah kebijaksanaan dan pertimbangan.",
+    "verse_ref": "Amsal 3:21"
+  },
+  "q_wisdom_013": {
+    "question": "Isi bagian yang kosong: 'Perolehlah hikmat, perolehlah pengertian, jangan lupa dan jangan menyimpang dari _____.'",
+    "correct": "perkataan mulutku",
+    "wrong": ["firman-Ku", "hukum-Ku", "hikmat"],
+    "hint": "Ini mengacu pada perkataan pembicara",
+    "explanation": "Kita harus mengejar hikmat dan tidak meninggalkan ajarannya.",
+    "full_verse": "Perolehlah hikmat, perolehlah pengertian, jangan lupa dan jangan menyimpang dari perkataan mulutku.",
+    "verse_ref": "Amsal 4:5"
+  },
+  "q_wisdom_014": {
+    "question": "Isi bagian yang kosong: 'Karena hikmat lebih berharga dari pada permata, apapun yang diinginkan orang, tidak dapat menyamainya _____.'",
+    "correct": "dia",
+    "wrong": ["itu", "hikmat", "mereka"],
+    "hint": "Hikmat dipersonifikasikan sebagai perempuan",
+    "explanation": "Hikmat lebih berharga dari harta duniawi mana pun.",
+    "full_verse": "Karena hikmat lebih berharga dari pada permata, apapun yang diinginkan orang, tidak dapat menyamainya.",
+    "verse_ref": "Amsal 8:11"
+  },
+  "q_wisdom_015": {
+    "question": "Isi bagian yang kosong: 'Orang bebal gembira dengan perbuatan jahat, tetapi orang berpengertian gembira dengan _____.'",
+    "correct": "hikmat",
+    "wrong": ["pengetahuan", "kebenaran", "kebajikan"],
+    "hint": "Ini adalah apa yang membuat orang bijak gembira",
+    "explanation": "Mereka yang memiliki pengertian menemukan sukacita dalam hikmat, bukan kejahatan.",
+    "full_verse": "Orang bebal gembira dengan perbuatan jahat, tetapi orang berpengertian gembira dengan hikmat.",
+    "verse_ref": "Amsal 10:23"
+  },
+  "q_wisdom_016": {
+    "question": "Isi bagian yang kosong: 'Bila kesombongan datang, datang pula cemooh, tetapi hikmat ada pada orang yang _____.'",
+    "correct": "rendah hati",
+    "wrong": ["takut akan Tuhan", "benar", "saleh"],
+    "hint": "Ini adalah kerendahan hati",
+    "explanation": "Kesombongan mengarah kepada aib, sedangkan kerendahan hati mengarah kepada hikmat.",
+    "full_verse": "Bila kesombongan datang, datang pula cemooh, tetapi hikmat ada pada orang yang rendah hati.",
+    "verse_ref": "Amsal 11:2"
+  },
+  "q_wisdom_017": {
+    "question": "Isi bagian yang kosong: 'Jalan orang bebal lurus dalam anggapannya sendiri, tetapi siapa yang bijak mendengarkan _____.'",
+    "correct": "nasihat",
+    "wrong": ["petunjuk", "hikmat", "orang lain"],
+    "hint": "Ini adalah bimbingan dari orang lain",
+    "explanation": "Orang bodoh percaya pada penilaian mereka sendiri; orang bijak mencari nasihat.",
+    "full_verse": "Jalan orang bebal lurus dalam anggapannya sendiri, tetapi siapa yang bijak mendengarkan nasihat.",
+    "verse_ref": "Amsal 12:15"
+  },
+  "q_wisdom_018": {
+    "question": "Isi bagian yang kosong: 'Keangkuhan hanya menimbulkan pertengkaran, tetapi hikmat terdapat pada orang yang mendengarkan _____.'",
+    "correct": "nasihat",
+    "wrong": ["petunjuk", "peringatan", "ajaran"],
+    "hint": "Ini adalah bimbingan atau rekomendasi",
+    "explanation": "Kesombongan menyebabkan konflik, tetapi orang bijak menerima nasihat.",
+    "full_verse": "Keangkuhan hanya menimbulkan pertengkaran, tetapi hikmat terdapat pada orang yang mendengarkan nasihat.",
+    "verse_ref": "Amsal 13:10"
+  },
+  "q_wisdom_019": {
+    "question": "Isi bagian yang kosong: 'Hikmat perempuan membangun rumahnya, tetapi kebodohan merobohkannya dengan tangannya _____.'",
+    "correct": "sendiri",
+    "wrong": ["itu", "saja", "langsung"],
+    "hint": "Ini menunjukkan tindakan diri sendiri",
+    "explanation": "Hikmat membangun sementara kebodohan menghancurkan.",
+    "full_verse": "Hikmat perempuan membangun rumahnya, tetapi kebodohan merobohkannya dengan tangannya sendiri.",
+    "verse_ref": "Amsal 14:1"
+  },
+  "q_wisdom_020": {
+    "question": "Isi bagian yang kosong: 'Didikan hikmat adalah takut akan TUHAN, dan kerendahan hati mendahului _____.'",
+    "correct": "kehormatan",
+    "wrong": ["kemuliaan", "berkat", "hikmat"],
+    "hint": "Ini adalah penghargaan atau penghormatan tinggi",
+    "explanation": "Takut akan Allah dan rendah hati mengarah kepada kehormatan.",
+    "full_verse": "Didikan hikmat adalah takut akan TUHAN, dan kerendahan hati mendahului kehormatan.",
+    "verse_ref": "Amsal 15:33"
+  },
+  "q_wisdom_021": {
+    "question": "Isi bagian yang kosong: 'Memperoleh hikmat sungguh jauh lebih baik dari pada memperoleh emas, dan memperoleh pengertian harus dipilih atas memperoleh _____.'",
+    "correct": "perak",
+    "wrong": ["emas", "kekayaan", "harta"],
+    "hint": "Ini adalah logam mulia",
+    "explanation": "Hikmat dan pengertian lebih berharga dari logam mulia.",
+    "full_verse": "Memperoleh hikmat sungguh jauh lebih baik dari pada memperoleh emas, dan memperoleh pengertian harus dipilih atas memperoleh perak.",
+    "verse_ref": "Amsal 16:16"
+  },
+  "q_wisdom_022": {
+    "question": "Isi bagian yang kosong: 'Orang bebal pun, kalau ia berdiam diri, dianggap bijak; kalau ia mengatupkan bibirnya, dianggap berpengertian _____.'",
+    "correct": "berpengertian",
+    "wrong": ["bijak", "pandai", "cerdas"],
+    "hint": "Ini menggambarkan seseorang yang memiliki pemahaman",
+    "explanation": "Diam dapat menjadi tanda hikmat.",
+    "full_verse": "Orang bebal pun, kalau ia berdiam diri, dianggap bijak; kalau ia mengatupkan bibirnya, dianggap berpengertian.",
+    "verse_ref": "Amsal 17:28"
+  },
+  "q_wisdom_023": {
+    "question": "Isi bagian yang kosong: 'Hati orang berpengertian memperoleh pengetahuan, dan telinga orang bijak _____ pengetahuan.'",
+    "correct": "menuntut",
+    "wrong": ["mencari", "menginginkan", "mendengar"],
+    "hint": "Kata ini berarti aktif mencari",
+    "explanation": "Orang bijak secara aktif mengejar pengetahuan.",
+    "full_verse": "Hati orang berpengertian memperoleh pengetahuan, dan telinga orang bijak menuntut pengetahuan.",
+    "verse_ref": "Amsal 18:15"
+  },
+  "q_wisdom_024": {
+    "question": "Isi bagian yang kosong: 'Siapa memperoleh akal budi, mengasihi dirinya sendiri; siapa memelihara pengertian, _____ yang baik.'",
+    "correct": "mendapat",
+    "wrong": ["menemukan", "memperoleh", "menerima"],
+    "hint": "Ini berarti berhasil memperoleh",
+    "explanation": "Mencintai hikmat mengarah kepada kehidupan yang makmur.",
+    "full_verse": "Siapa memperoleh akal budi, mengasihi dirinya sendiri; siapa memelihara pengertian, mendapat yang baik.",
+    "verse_ref": "Amsal 19:8"
+  },
+  "q_wisdom_025": {
+    "question": "Isi bagian yang kosong: 'Dengan hikmat rumah didirikan, dengan kepandaian rumah itu _____.'",
+    "correct": "ditegakkan",
+    "wrong": ["dibangun", "dikokohkan", "diselesaikan"],
+    "hint": "Ini berarti dibuat kokoh atau stabil",
+    "explanation": "Hikmat membangun dan pengertian menegakkan.",
+    "full_verse": "Dengan hikmat rumah didirikan, dengan kepandaian rumah itu ditegakkan.",
+    "verse_ref": "Amsal 24:3"
+  },
+  "q_wisdom_026": {
+    "question": "Isi bagian yang kosong: 'Aku melihat bahwa hikmat lebih bermanfaat dari pada kebodohan, seperti terang lebih bermanfaat dari pada _____.'",
+    "correct": "kegelapan",
+    "wrong": ["malam", "bayangan", "kebutaan"],
+    "hint": "Ini adalah kebalikan dari terang",
+    "explanation": "Hikmat menerangi seperti terang dibandingkan dengan kegelapan kebodohan.",
+    "full_verse": "Aku melihat bahwa hikmat lebih bermanfaat dari pada kebodohan, seperti terang lebih bermanfaat dari pada kegelapan.",
+    "verse_ref": "Pengkhotbah 2:13"
+  },
+  "q_wisdom_027": {
+    "question": "Isi bagian yang kosong: 'Hikmat membuat orang bijak lebih kuat dari sepuluh orang _____ yang ada di kota.'",
+    "correct": "penguasa",
+    "wrong": ["pemimpin", "raja", "tua-tua"],
+    "hint": "Ini adalah orang-orang yang memiliki otoritas",
+    "explanation": "Hikmat memberikan kekuatan yang lebih besar dari banyak penguasa digabungkan.",
+    "full_verse": "Hikmat membuat orang bijak lebih kuat dari sepuluh orang penguasa yang ada di kota.",
+    "verse_ref": "Pengkhotbah 7:19"
+  },
+  "q_wisdom_028": {
+    "question": "Isi bagian yang kosong: 'Siapakah yang sama dengan orang bijak? Dan siapakah yang tahu menerangkan sesuatu? Hikmat manusia menerangi wajahnya, dan keras _____ diubah.'",
+    "correct": "mukanya",
+    "wrong": ["penampilannya", "ekspresinya", "rupanya"],
+    "hint": "Ini adalah bagaimana seseorang terlihat",
+    "explanation": "Hikmat membawa wajah yang menyenangkan dan lembut.",
+    "full_verse": "Siapakah yang sama dengan orang bijak? Dan siapakah yang tahu menerangkan sesuatu? Hikmat manusia menerangi wajahnya, dan keras mukanya diubah.",
+    "verse_ref": "Pengkhotbah 8:1"
+  },
+  "q_wisdom_029": {
+    "question": "Isi bagian yang kosong: 'Aku katakan: \"Hikmat lebih baik dari keperkasaan.\" Tetapi hikmat si miskin itu dihina, dan perkataannya tidak _____.'",
+    "correct": "didengarkan",
+    "wrong": ["diikuti", "diingat", "dipedulikan"],
+    "hint": "Ini berarti diperhatikan",
+    "explanation": "Meskipun hikmat melampaui kekuatan, dunia sering mengabaikan orang bijak yang miskin.",
+    "full_verse": "Aku katakan: \"Hikmat lebih baik dari keperkasaan.\" Tetapi hikmat si miskin itu dihina, dan perkataannya tidak didengarkan.",
+    "verse_ref": "Pengkhotbah 9:16"
+  },
+  "q_wisdom_030": {
+    "question": "Isi bagian yang kosong: 'Bila kapak tumpul dan matanya tidak diasah, maka orang harus mengerahkan lebih banyak kekuatan; tetapi keuntungan mengerjakannya dengan hikmat ialah _____.'",
+    "correct": "keberhasilan",
+    "wrong": ["kemenangan", "hasil", "keuntungan"],
+    "hint": "Ini adalah mencapai apa yang ingin dicapai",
+    "explanation": "Hikmat dan keterampilan lebih efektif dari kekuatan kasar.",
+    "full_verse": "Bila kapak tumpul dan matanya tidak diasah, maka orang harus mengerahkan lebih banyak kekuatan; tetapi keuntungan mengerjakannya dengan hikmat ialah keberhasilan.",
+    "verse_ref": "Pengkhotbah 10:10"
+  },
+  "q_wisdom_031": {
+    "question": "Isi bagian yang kosong: 'Bukankah pada orang-orang tua ada hikmat, dan pada orang yang lanjut usianya ada _____?'",
+    "correct": "pengertian",
+    "wrong": ["hikmat", "pengetahuan", "wawasan"],
+    "hint": "Ini adalah kemampuan untuk memahami",
+    "explanation": "Usia dan pengalaman sering membawa hikmat dan pengertian.",
+    "full_verse": "Bukankah pada orang-orang tua ada hikmat, dan pada orang yang lanjut usianya ada pengertian?",
+    "verse_ref": "Ayub 12:12"
+  },
+  "q_wisdom_032": {
+    "question": "Isi bagian yang kosong: 'Tetapi kepada manusia Ia berfirman: Sesungguhnya takut akan Tuhan, itulah hikmat, dan menjauhi _____ itulah pengertian.'",
+    "correct": "kejahatan",
+    "wrong": ["dosa", "kefasikan", "kesalahan"],
+    "hint": "Ini adalah kebalikan dari kebaikan",
+    "explanation": "Hikmat sejati takut akan Allah dan menjauhi kejahatan.",
+    "full_verse": "Tetapi kepada manusia Ia berfirman: Sesungguhnya takut akan Tuhan, itulah hikmat, dan menjauhi kejahatan itulah pengertian.",
+    "verse_ref": "Ayub 28:28"
+  },
+  "q_wisdom_033": {
+    "question": "Isi bagian yang kosong: 'Taurat TUHAN itu sempurna, menyegarkan jiwa; peraturan TUHAN itu teguh, memberikan hikmat kepada orang yang _____.'",
+    "correct": "bodoh",
+    "wrong": ["rendah hati", "lemah lembut", "muda"],
+    "hint": "Ini menggambarkan seseorang yang tidak berpengalaman atau naif",
+    "explanation": "Firman Allah membawa hikmat bahkan kepada yang tidak berpengalaman.",
+    "full_verse": "Taurat TUHAN itu sempurna, menyegarkan jiwa; peraturan TUHAN itu teguh, memberikan hikmat kepada orang yang bodoh.",
+    "verse_ref": "Mazmur 19:8"
+  },
+  "q_wisdom_034": {
+    "question": "Isi bagian yang kosong: 'Mulut orang benar mengeluarkan hikmat, dan lidahnya menyatakan _____.'",
+    "correct": "hukum",
+    "wrong": ["kebenaran", "keadilan", "kebaikan"],
+    "hint": "Ini berarti adil dan benar",
+    "explanation": "Orang benar berbicara hikmat dan keadilan.",
+    "full_verse": "Mulut orang benar mengeluarkan hikmat, dan lidahnya menyatakan hukum.",
+    "verse_ref": "Mazmur 37:30"
+  },
+  "q_wisdom_035": {
+    "question": "Isi bagian yang kosong: 'Ajarlah kami menghitung hari-hari kami sedemikian, hingga kami beroleh hati yang _____.'",
+    "correct": "bijaksana",
+    "wrong": ["pengertian", "pengetahuan", "wawasan"],
+    "hint": "Ini adalah apa yang kita peroleh dengan memahami singkatnya hidup",
+    "explanation": "Menyadari singkatnya hidup membantu kita hidup dengan bijaksana.",
+    "full_verse": "Ajarlah kami menghitung hari-hari kami sedemikian, hingga kami beroleh hati yang bijaksana.",
+    "verse_ref": "Mazmur 90:12"
+  },
+  "q_wisdom_036": {
+    "question": "Isi bagian yang kosong: 'Perintah-perintah-Mu membuat aku lebih bijaksana dari pada _____ku, sebab selama-lamanya itu ada padaku.'",
+    "correct": "musuh-musuh",
+    "wrong": ["guru-guru", "tua-tua", "teman-teman"],
+    "hint": "Ini adalah mereka yang menentang kamu",
+    "explanation": "Firman Allah memberikan hikmat yang melampaui lawan-lawan kita.",
+    "full_verse": "Perintah-perintah-Mu membuat aku lebih bijaksana dari pada musuh-musuhku, sebab selama-lamanya itu ada padaku.",
+    "verse_ref": "Mazmur 119:98"
+  },
+  "q_wisdom_037": {
+    "question": "Isi bagian yang kosong: 'Roh TUHAN akan ada padanya, roh hikmat dan pengertian, roh nasihat dan keperkasaan, roh pengenalan dan takut akan _____.'",
+    "correct": "TUHAN",
+    "wrong": ["Allah", "Yang Mahatinggi", "Yang Mahakuasa"],
+    "hint": "Ini adalah nama perjanjian Allah",
+    "explanation": "Mesias akan dipenuhi dengan Roh hikmat.",
+    "full_verse": "Roh TUHAN akan ada padanya, roh hikmat dan pengertian, roh nasihat dan keperkasaan, roh pengenalan dan takut akan TUHAN.",
+    "verse_ref": "Yesaya 11:2"
+  },
+  "q_wisdom_038": {
+    "question": "Isi bagian yang kosong: 'Dia mengubah saat dan waktu, Dia memecat raja dan mengangkat raja, Dia memberikan hikmat kepada orang bijaksana dan pengetahuan kepada orang yang _____.'",
+    "correct": "berpengertian",
+    "wrong": ["rendah hati", "setia", "benar"],
+    "hint": "Ini adalah orang dengan penilaian yang baik",
+    "explanation": "Allah adalah sumber dari semua hikmat dan pengetahuan.",
+    "full_verse": "Dia mengubah saat dan waktu, Dia memecat raja dan mengangkat raja, Dia memberikan hikmat kepada orang bijaksana dan pengetahuan kepada orang yang berpengertian.",
+    "verse_ref": "Daniel 2:21"
+  },
+  "q_wisdom_039": {
+    "question": "Isi bagian yang kosong: 'Setiap orang yang mendengar perkataan-Ku ini dan melakukannya, ia sama dengan orang yang bijaksana, yang mendirikan rumahnya di atas batu _____.'",
+    "correct": "karang",
+    "wrong": ["besar", "kokoh", "kuat"],
+    "hint": "Ini adalah fondasi yang kokoh",
+    "explanation": "Orang bijak membangun hidup mereka di atas ajaran Yesus.",
+    "full_verse": "Setiap orang yang mendengar perkataan-Ku ini dan melakukannya, ia sama dengan orang yang bijaksana, yang mendirikan rumahnya di atas batu karang.",
+    "verse_ref": "Matius 7:24"
+  },
+  "q_wisdom_040": {
+    "question": "Isi bagian yang kosong: 'Alangkah dalamnya kekayaan, hikmat dan pengetahuan Allah! Sungguh tidak terselidiki keputusan-keputusan-Nya dan tidak terselami jalan-jalan-Nya _____!'",
+    "correct": "Nya",
+    "wrong": ["itu", "Allah", "mereka"],
+    "hint": "Ini mengacu pada Allah",
+    "explanation": "Hikmat Allah sangat dalam dan melampaui pemahaman manusia.",
+    "full_verse": "Alangkah dalamnya kekayaan, hikmat dan pengetahuan Allah! Sungguh tidak terselidiki keputusan-keputusan-Nya dan tidak terselami jalan-jalan-Nya!",
+    "verse_ref": "Roma 11:33"
+  },
+  "q_wisdom_041": {
+    "question": "Isi bagian yang kosong: 'Karena yang bodoh dari Allah lebih besar hikmatnya dari pada manusia dan yang lemah dari Allah lebih kuat dari pada _____.'",
+    "correct": "manusia",
+    "wrong": ["kuasa", "keperkasaan", "kekuatan"],
+    "hint": "Ini adalah umat manusia",
+    "explanation": "Bahkan 'kelemahan' Allah melampaui semua kekuatan manusia.",
+    "full_verse": "Karena yang bodoh dari Allah lebih besar hikmatnya dari pada manusia dan yang lemah dari Allah lebih kuat dari pada manusia.",
+    "verse_ref": "1 Korintus 1:25"
+  },
+  "q_wisdom_042": {
+    "question": "Isi bagian yang kosong: 'Tetapi oleh Dia kamu berada dalam Kristus Yesus, yang oleh Allah telah menjadi hikmat bagi kita. Ia membenarkan dan menguduskan dan _____ kita.'",
+    "correct": "menebus",
+    "wrong": ["menyelamatkan", "membebaskan", "melepaskan"],
+    "hint": "Ini adalah ditebus atau diselamatkan",
+    "explanation": "Kristus mewujudkan hikmat dan menyediakan kebenaran dan penebusan kita.",
+    "full_verse": "Tetapi oleh Dia kamu berada dalam Kristus Yesus, yang oleh Allah telah menjadi hikmat bagi kita. Ia membenarkan dan menguduskan dan menebus kita.",
+    "verse_ref": "1 Korintus 1:30"
+  },
+  "q_wisdom_043": {
+    "question": "Isi bagian yang kosong: 'Sungguhpun demikian kami memberitakan hikmat di kalangan mereka yang telah matang, yaitu hikmat yang bukan dari dunia ini dan yang bukan dari penguasa-penguasa dunia ini, yang akan _____.'",
+    "correct": "ditiadakan",
+    "wrong": ["binasa", "berlalu", "lenyap"],
+    "hint": "Ini berarti menjadi tidak ada",
+    "explanation": "Hikmat Allah berbeda dari hikmat penguasa duniawi.",
+    "full_verse": "Sungguhpun demikian kami memberitakan hikmat di kalangan mereka yang telah matang, yaitu hikmat yang bukan dari dunia ini dan yang bukan dari penguasa-penguasa dunia ini, yang akan ditiadakan.",
+    "verse_ref": "1 Korintus 2:6"
+  },
+  "q_wisdom_044": {
+    "question": "Isi bagian yang kosong: 'Karena hikmat dunia ini adalah kebodohan bagi Allah. Sebab ada tertulis: \"Ia yang menangkap orang berhikmat dalam _____nya.\"'",
+    "correct": "kelicikan",
+    "wrong": ["rencana", "tipu daya", "akal"],
+    "hint": "Ini adalah kecerdikan atau kelicikan yang menipu",
+    "explanation": "Hikmat duniawi adalah kebodohan dibandingkan dengan hikmat Allah.",
+    "full_verse": "Karena hikmat dunia ini adalah kebodohan bagi Allah. Sebab ada tertulis: \"Ia yang menangkap orang berhikmat dalam kelicikannya.\"",
+    "verse_ref": "1 Korintus 3:19"
+  },
+  "q_wisdom_045": {
+    "question": "Isi bagian yang kosong: 'Dan aku meminta kepada Allah Tuhan kita Yesus Kristus, yaitu Bapa yang mulia itu, supaya Ia memberikan kepadamu Roh hikmat dan _____ untuk mengenal Dia dengan benar.'",
+    "correct": "wahyu",
+    "wrong": ["pengertian", "pengetahuan", "wawasan"],
+    "hint": "Ini adalah penyingkapan kebenaran ilahi",
+    "explanation": "Kita membutuhkan Roh Allah untuk memberi kita hikmat dan menyingkapkan kebenaran.",
+    "full_verse": "Dan aku meminta kepada Allah Tuhan kita Yesus Kristus, yaitu Bapa yang mulia itu, supaya Ia memberikan kepadamu Roh hikmat dan wahyu untuk mengenal Dia dengan benar.",
+    "verse_ref": "Efesus 1:17"
+  },
+  "q_wisdom_046": {
+    "question": "Isi bagian yang kosong: 'Karena itu, perhatikanlah dengan saksama, bagaimana kamu hidup, janganlah seperti orang bebal, tetapi seperti orang _____.'",
+    "correct": "arif",
+    "wrong": ["pintar", "hati-hati", "bijaksana"],
+    "hint": "Ini adalah kebalikan dari orang bebal",
+    "explanation": "Kita harus hidup dengan hati-hati dan bijaksana.",
+    "full_verse": "Karena itu, perhatikanlah dengan saksama, bagaimana kamu hidup, janganlah seperti orang bebal, tetapi seperti orang arif.",
+    "verse_ref": "Efesus 5:15"
+  },
+  "q_wisdom_047": {
+    "question": "Isi bagian yang kosong: 'Sebab itu sejak hari kami mendengarnya, kami tidak berhenti berdoa untuk kamu. Kami meminta, supaya kamu dijadikan penuh dengan segala hikmat dan pengertian yang benar yang dikerjakan oleh _____.'",
+    "correct": "Roh",
+    "wrong": ["Tuhan", "Firman", "Bapa"],
+    "hint": "Ini adalah Pribadi ketiga dalam Tritunggal",
+    "explanation": "Roh Kudus memberikan hikmat dan pengertian tentang kehendak Allah.",
+    "full_verse": "Sebab itu sejak hari kami mendengarnya, kami tidak berhenti berdoa untuk kamu. Kami meminta, supaya kamu dijadikan penuh dengan segala hikmat dan pengertian yang benar yang dikerjakan oleh Roh.",
+    "verse_ref": "Kolose 1:9"
+  },
+  "q_wisdom_048": {
+    "question": "Isi bagian yang kosong: 'Sebab di dalam Dialah tersembunyi segala harta hikmat dan _____.'",
+    "correct": "pengetahuan",
+    "wrong": ["pengertian", "kebenaran", "wawasan"],
+    "hint": "Ini adalah informasi dan pemahaman",
+    "explanation": "Semua hikmat dan pengetahuan ditemukan di dalam Kristus.",
+    "full_verse": "Sebab di dalam Dialah tersembunyi segala harta hikmat dan pengetahuan.",
+    "verse_ref": "Kolose 2:3"
+  },
+  "q_wisdom_049": {
+    "question": "Isi bagian yang kosong: 'Siapakah di antara kamu yang bijak dan berpengertian? Baiklah ia dengan cara hidup yang baik menyatakan perbuatannya oleh hikmat yang _____.'",
+    "correct": "lemah lembut",
+    "wrong": ["Allah", "iman", "kasih karunia"],
+    "hint": "Ini adalah apa yang menghasilkan kerendahan hati",
+    "explanation": "Hikmat sejati ditunjukkan melalui perbuatan baik yang rendah hati.",
+    "full_verse": "Siapakah di antara kamu yang bijak dan berpengertian? Baiklah ia dengan cara hidup yang baik menyatakan perbuatannya oleh hikmat yang lemah lembut.",
+    "verse_ref": "Yakobus 3:13"
+  },
+  "q_wisdom_050": {
+    "question": "Isi bagian yang kosong: 'Dan anggaplah kesabaran Tuhan kita sebagai kesempatan bagimu untuk beroleh selamat, seperti juga Paulus, saudara kita yang kekasih, telah menulis kepadamu menurut hikmat yang dikaruniakan _____.'",
+    "correct": "kepadanya",
+    "wrong": ["Allah", "Tuhan", "Roh"],
+    "hint": "Ini menunjukkan kepada siapa hikmat diberikan",
+    "explanation": "Paulus menulis Kitab Suci dengan hikmat yang diberikan Allah.",
+    "full_verse": "Dan anggaplah kesabaran Tuhan kita sebagai kesempatan bagimu untuk beroleh selamat, seperti juga Paulus, saudara kita yang kekasih, telah menulis kepadamu menurut hikmat yang dikaruniakan kepadanya.",
+    "verse_ref": "2 Petrus 3:15"
+  }
+}

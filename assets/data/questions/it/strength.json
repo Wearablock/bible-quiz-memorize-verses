@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_strength_001",
+      "question": "Completa il versetto: 'Io posso ogni cosa in colui che mi _____.'",
+      "correct": "fortifica",
+      "wrong": ["sostiene", "aiuta", "guida"],
+      "hint": "Questo significa dare forza",
+      "explanation": "Cristo ci dà la forza per affrontare ogni situazione.",
+      "full_verse": "Io posso ogni cosa in colui che mi fortifica.",
+      "verse_ref": "Filippesi 4:13"
+    },
+    {
+      "id": "q_strength_002",
+      "question": "Completa il versetto: 'Ma quelli che sperano nel SIGNORE acquistano nuove forze, si alzano a volo come _____; corrono e non si stancano, camminano e non si affaticano.'",
+      "correct": "aquile",
+      "wrong": ["angeli", "uccelli", "colombe"],
+      "hint": "Questo è un potente uccello che vola in alto",
+      "explanation": "Coloro che confidano in Dio ricevono forza rinnovata per superare le difficoltà.",
+      "full_verse": "Ma quelli che sperano nel SIGNORE acquistano nuove forze, si alzano a volo come aquile; corrono e non si stancano, camminano e non si affaticano.",
+      "verse_ref": "Isaia 40:31"
+    },
+    {
+      "id": "q_strength_003",
+      "question": "Completa il versetto: 'Dio è per noi un rifugio e una forza, un aiuto sempre pronto nelle _____.'",
+      "correct": "difficoltà",
+      "wrong": ["necessità", "pericoli", "angosce"],
+      "hint": "Questa parola indica momenti di prova",
+      "explanation": "Dio è sempre disponibile come nostra fonte di forza e aiuto.",
+      "full_verse": "Dio è per noi un rifugio e una forza, un aiuto sempre pronto nelle difficoltà.",
+      "verse_ref": "Salmo 46:1"
+    },
+    {
+      "id": "q_strength_004",
+      "question": "Completa il versetto: 'Ed egli mi ha detto: \"La mia grazia ti basta, perché la mia potenza si dimostra perfetta nella _____.\" Perciò molto volentieri mi glorierò piuttosto delle mie debolezze, affinché la potenza di Cristo riposi su di me.'",
+      "correct": "debolezza",
+      "wrong": ["umiltà", "fede", "prova"],
+      "hint": "Questo è l'opposto della forza",
+      "explanation": "La potenza di Dio si manifesta maggiormente quando riconosciamo le nostre limitazioni.",
+      "full_verse": "Ed egli mi ha detto: \"La mia grazia ti basta, perché la mia potenza si dimostra perfetta nella debolezza.\" Perciò molto volentieri mi glorierò piuttosto delle mie debolezze, affinché la potenza di Cristo riposi su di me.",
+      "verse_ref": "2 Corinzi 12:9"
+    },
+    {
+      "id": "q_strength_005",
+      "question": "Completa il versetto: 'Non vi rattristate, perché la gioia del SIGNORE è la vostra _____.'",
+      "correct": "forza",
+      "wrong": ["speranza", "pace", "rifugio"],
+      "hint": "Questo è ciò che la gioia del SIGNORE fornisce",
+      "explanation": "Trovare gioia nel Signore ci dà la forza per perseverare.",
+      "full_verse": "Non vi rattristate, perché la gioia del SIGNORE è la vostra forza.",
+      "verse_ref": "Neemia 8:10"
+    },
+    {
+      "id": "q_strength_006",
+      "question": "Completa il versetto: 'Il SIGNORE è la mia forza e il mio scudo; in lui si è confidato il mio cuore e sono stato soccorso; il mio cuore esulta e io lo celebrerò con il mio _____.'",
+      "correct": "canto",
+      "wrong": ["voce", "anima", "parole"],
+      "hint": "Questa è un'espressione musicale di lode",
+      "explanation": "Quando Dio ci fortifica, la nostra risposta è una lode gioiosa.",
+      "full_verse": "Il SIGNORE è la mia forza e il mio scudo; in lui si è confidato il mio cuore e sono stato soccorso; il mio cuore esulta e io lo celebrerò con il mio canto.",
+      "verse_ref": "Salmo 28:7"
+    },
+    {
+      "id": "q_strength_007",
+      "question": "Completa il versetto: 'Non temere, perché io sono con te; non smarrirti, perché io sono il tuo Dio; io ti fortifico, io ti aiuto, io ti sostengo con la destra della mia _____.'",
+      "correct": "giustizia",
+      "wrong": ["potenza", "forza", "mano"],
+      "hint": "Questo è un attributo di Dio",
+      "explanation": "Dio promette la Sua presenza, forza e sostegno a coloro che confidano in Lui.",
+      "full_verse": "Non temere, perché io sono con te; non smarrirti, perché io sono il tuo Dio; io ti fortifico, io ti aiuto, io ti sostengo con la destra della mia giustizia.",
+      "verse_ref": "Isaia 41:10"
+    },
+    {
+      "id": "q_strength_008",
+      "question": "Completa il versetto: 'Del resto, fortificatevi nel Signore e nella forza della sua _____.'",
+      "correct": "potenza",
+      "wrong": ["grazia", "gloria", "amore"],
+      "hint": "Questa è la capacità di Dio di agire",
+      "explanation": "La nostra forza viene dalla potenza illimitata del Signore.",
+      "full_verse": "Del resto, fortificatevi nel Signore e nella forza della sua potenza.",
+      "verse_ref": "Efesini 6:10"
+    },
+    {
+      "id": "q_strength_009",
+      "question": "Completa il versetto: 'Dio è colui che mi riveste di forza e rende _____ la mia via.'",
+      "correct": "sicura",
+      "wrong": ["dritta", "chiara", "pura"],
+      "hint": "Questo significa protetta o stabile",
+      "explanation": "Dio fornisce forza e ci mantiene su un cammino sicuro.",
+      "full_verse": "Dio è colui che mi riveste di forza e rende sicura la mia via.",
+      "verse_ref": "Salmo 18:32"
+    },
+    {
+      "id": "q_strength_010",
+      "question": "Completa il versetto: 'La mia carne e il mio cuore possono venir meno, ma Dio è la rocca del mio cuore e la mia _____ in eterno.'",
+      "correct": "parte",
+      "wrong": ["speranza", "rifugio", "eredità"],
+      "hint": "Questo significa la propria porzione o assegnazione",
+      "explanation": "Anche quando il nostro corpo viene meno, Dio rimane la nostra fonte eterna di forza.",
+      "full_verse": "La mia carne e il mio cuore possono venir meno, ma Dio è la rocca del mio cuore e la mia parte in eterno.",
+      "verse_ref": "Salmo 73:26"
+    },
+    {
+      "id": "q_strength_011",
+      "question": "Completa il versetto: 'Siate forti e coraggiosi, non temete e non vi spaventate di loro, perché il SIGNORE, il tuo Dio, è colui che cammina con te; egli non ti lascerà e non ti _____.'",
+      "correct": "abbandonerà",
+      "wrong": ["dimenticherà", "deluderà", "lascerà"],
+      "hint": "Questo significa lasciare indietro o desertare",
+      "explanation": "La presenza costante di Dio ci dà forza e coraggio.",
+      "full_verse": "Siate forti e coraggiosi, non temete e non vi spaventate di loro, perché il SIGNORE, il tuo Dio, è colui che cammina con te; egli non ti lascerà e non ti abbandonerà.",
+      "verse_ref": "Deuteronomio 31:6"
+    },
+    {
+      "id": "q_strength_012",
+      "question": "Completa il versetto: 'Non ti ho io comandato: \"Sii forte e _____\"? Non temere e non ti sgomentare, perché il SIGNORE, il tuo Dio, sarà con te dovunque andrai.'",
+      "correct": "coraggioso",
+      "wrong": ["valoroso", "fedele", "audace"],
+      "hint": "Questo significa avere coraggio",
+      "explanation": "Dio ci comanda di essere forti perché Egli è sempre con noi.",
+      "full_verse": "Non ti ho io comandato: \"Sii forte e coraggioso\"? Non temere e non ti sgomentare, perché il SIGNORE, il tuo Dio, sarà con te dovunque andrai.",
+      "verse_ref": "Giosuè 1:9"
+    },
+    {
+      "id": "q_strength_013",
+      "question": "Completa il versetto: 'Cercate il SIGNORE e la sua forza, cercate sempre il suo _____.'",
+      "correct": "volto",
+      "wrong": ["presenza", "gloria", "aiuto"],
+      "hint": "Questo rappresenta la presenza di Dio",
+      "explanation": "Dovremmo continuamente cercare la forza e la presenza di Dio.",
+      "full_verse": "Cercate il SIGNORE e la sua forza, cercate sempre il suo volto.",
+      "verse_ref": "1 Cronache 16:11"
+    },
+    {
+      "id": "q_strength_014",
+      "question": "Completa il versetto: 'Io ti amo, o SIGNORE, mia forza! Il SIGNORE è la mia rocca, la mia fortezza, il mio liberatore; il mio Dio, la mia rupe in cui mi rifugio, il mio scudo, il mio potente _____.'",
+      "correct": "salvatore",
+      "wrong": ["difensore", "protettore", "aiuto"],
+      "hint": "Questo è chi ci salva",
+      "explanation": "Dio è la nostra fonte ultima di forza e protezione.",
+      "full_verse": "Io ti amo, o SIGNORE, mia forza! Il SIGNORE è la mia rocca, la mia fortezza, il mio liberatore; il mio Dio, la mia rupe in cui mi rifugio, il mio scudo, il mio potente salvatore.",
+      "verse_ref": "Salmo 18:1-2"
+    },
+    {
+      "id": "q_strength_015",
+      "question": "Completa il versetto: 'Il SIGNORE è la mia luce e la mia salvezza; di chi temerò? Il SIGNORE è il baluardo della mia vita; di chi avrò _____?'",
+      "correct": "paura",
+      "wrong": ["timore", "terrore", "spavento"],
+      "hint": "Questa è un'emozione di timore",
+      "explanation": "Con Dio come nostra forza, non abbiamo motivo di temere.",
+      "full_verse": "Il SIGNORE è la mia luce e la mia salvezza; di chi temerò? Il SIGNORE è il baluardo della mia vita; di chi avrò paura?",
+      "verse_ref": "Salmo 27:1"
+    },
+    {
+      "id": "q_strength_016",
+      "question": "Completa il versetto: 'Il SIGNORE dà forza al suo popolo; il SIGNORE benedice il suo popolo dandogli _____.'",
+      "correct": "pace",
+      "wrong": ["gioia", "speranza", "amore"],
+      "hint": "Questo è uno stato di calma e tranquillità",
+      "explanation": "Dio dà al Suo popolo sia forza che pace.",
+      "full_verse": "Il SIGNORE dà forza al suo popolo; il SIGNORE benedice il suo popolo dandogli pace.",
+      "verse_ref": "Salmo 29:11"
+    },
+    {
+      "id": "q_strength_017",
+      "question": "Completa il versetto: 'Siate forti, e il vostro cuore si rinfranchi, voi tutti che _____ nel SIGNORE!'",
+      "correct": "sperate",
+      "wrong": ["confidate", "credete", "riposate"],
+      "hint": "Questa è un'aspettativa fiduciosa",
+      "explanation": "Coloro che sperano in Dio troveranno forza e coraggio.",
+      "full_verse": "Siate forti, e il vostro cuore si rinfranchi, voi tutti che sperate nel SIGNORE!",
+      "verse_ref": "Salmo 31:24"
+    },
+    {
+      "id": "q_strength_018",
+      "question": "Completa il versetto: 'La salvezza dei giusti viene dal SIGNORE; egli è la loro fortezza nel tempo dell'_____.'",
+      "correct": "angoscia",
+      "wrong": ["bisogno", "pericolo", "prova"],
+      "hint": "Questo si riferisce a tempi difficili",
+      "explanation": "Dio è la nostra fortezza quando sorgono difficoltà.",
+      "full_verse": "La salvezza dei giusti viene dal SIGNORE; egli è la loro fortezza nel tempo dell'angoscia.",
+      "verse_ref": "Salmo 37:39"
+    },
+    {
+      "id": "q_strength_019",
+      "question": "Completa il versetto: 'Ma io canterò la tua potenza e al mattino loderò ad alta voce la tua bontà, perché tu sei stato per me una fortezza, un rifugio nel giorno della mia _____.'",
+      "correct": "angoscia",
+      "wrong": ["prova", "difficoltà", "tristezza"],
+      "hint": "Questo è un momento di grande afflizione",
+      "explanation": "Lodiamo la forza di Dio perché Egli è il nostro rifugio.",
+      "full_verse": "Ma io canterò la tua potenza e al mattino loderò ad alta voce la tua bontà, perché tu sei stato per me una fortezza, un rifugio nel giorno della mia angoscia.",
+      "verse_ref": "Salmo 59:16"
+    },
+    {
+      "id": "q_strength_020",
+      "question": "Completa il versetto: 'O Dio, tu sei tremendo dal tuo santuario; il Dio d'Israele dà forza e _____ al suo popolo. Sia benedetto Dio!'",
+      "correct": "potenza",
+      "wrong": ["coraggio", "vittoria", "gloria"],
+      "hint": "Questa è la capacità di agire con grande energia",
+      "explanation": "Dio fornisce al Suo popolo forza e potenza.",
+      "full_verse": "O Dio, tu sei tremendo dal tuo santuario; il Dio d'Israele dà forza e potenza al suo popolo. Sia benedetto Dio!",
+      "verse_ref": "Salmo 68:35"
+    },
+    {
+      "id": "q_strength_021",
+      "question": "Completa il versetto: 'Beati quelli che trovano in te la loro forza e che hanno a cuore le vie del _____.'",
+      "correct": "Signore",
+      "wrong": ["cielo", "culto", "tempio"],
+      "hint": "Questo si riferisce alle vie di Dio",
+      "explanation": "Coloro che trovano la loro forza in Dio e Lo seguono sono benedetti.",
+      "full_verse": "Beati quelli che trovano in te la loro forza e che hanno a cuore le vie del Signore.",
+      "verse_ref": "Salmo 84:5"
+    },
+    {
+      "id": "q_strength_022",
+      "question": "Completa il versetto: 'Il SIGNORE è la mia forza e il mio cantico; egli è stato la mia _____.'",
+      "correct": "salvezza",
+      "wrong": ["scudo", "rifugio", "speranza"],
+      "hint": "Questa è la liberazione dal pericolo",
+      "explanation": "Dio è la nostra forza, difesa e fonte di salvezza.",
+      "full_verse": "Il SIGNORE è la mia forza e il mio cantico; egli è stato la mia salvezza.",
+      "verse_ref": "Salmo 118:14"
+    },
+    {
+      "id": "q_strength_023",
+      "question": "Completa il versetto: 'Nel giorno che t'invocai, tu mi rispondesti; mi rendesti _____ e coraggio.'",
+      "correct": "forte",
+      "wrong": ["sicuro", "saldo", "fermo"],
+      "hint": "Questo significa avere forza",
+      "explanation": "Dio risponde alle nostre preghiere e ci dà forza e coraggio.",
+      "full_verse": "Nel giorno che t'invocai, tu mi rispondesti; mi rendesti forte e coraggio.",
+      "verse_ref": "Salmo 138:3"
+    },
+    {
+      "id": "q_strength_024",
+      "question": "Completa il versetto: 'Ecco, Dio è la mia salvezza; io avrò fiducia e non temerò, perché il SIGNORE, il SIGNORE è la mia forza e il mio _____; egli è stato la mia salvezza.'",
+      "correct": "cantico",
+      "wrong": ["scudo", "rifugio", "difesa"],
+      "hint": "Questa è un'espressione di lode",
+      "explanation": "Dio è sia la nostra forza che la nostra ragione di lode.",
+      "full_verse": "Ecco, Dio è la mia salvezza; io avrò fiducia e non temerò, perché il SIGNORE, il SIGNORE è la mia forza e il mio cantico; egli è stato la mia salvezza.",
+      "verse_ref": "Isaia 12:2"
+    },
+    {
+      "id": "q_strength_025",
+      "question": "Completa il versetto: 'Egli dà forza allo stanco e accresce il vigore a colui che è _____.'",
+      "correct": "spossato",
+      "wrong": ["debole", "affaticato", "prostrato"],
+      "hint": "Questo significa essere esaurito",
+      "explanation": "Dio rafforza coloro che sono stanchi e deboli.",
+      "full_verse": "Egli dà forza allo stanco e accresce il vigore a colui che è spossato.",
+      "verse_ref": "Isaia 40:29"
+    },
+    {
+      "id": "q_strength_026",
+      "question": "Completa il versetto: 'Poiché io, il SIGNORE, il tuo Dio, ti prendo per la mano destra e ti dico: \"Non temere, io ti _____!\"'",
+      "correct": "aiuto",
+      "wrong": ["salvo", "proteggo", "guido"],
+      "hint": "Questo significa assistere o sostenere",
+      "explanation": "Dio personalmente ci prende per mano e promette di aiutarci.",
+      "full_verse": "Poiché io, il SIGNORE, il tuo Dio, ti prendo per la mano destra e ti dico: \"Non temere, io ti aiuto!\"",
+      "verse_ref": "Isaia 41:13"
+    },
+    {
+      "id": "q_strength_027",
+      "question": "Completa il versetto: 'O SIGNORE, mia forza, mia fortezza, mio rifugio nel giorno dell'avversità! A te verranno le nazioni dalle estremità della _____.'",
+      "correct": "terra",
+      "wrong": ["mondo", "paese", "mare"],
+      "hint": "Questo è il nostro pianeta",
+      "explanation": "Dio è la nostra forza e rifugio, e tutte le nazioni verranno a Lui.",
+      "full_verse": "O SIGNORE, mia forza, mia fortezza, mio rifugio nel giorno dell'avversità! A te verranno le nazioni dalle estremità della terra.",
+      "verse_ref": "Geremia 16:19"
+    },
+    {
+      "id": "q_strength_028",
+      "question": "Completa il versetto: 'Il Signore, DIO, è la mia forza; egli renderà i miei piedi come quelli delle cerve e mi farà camminare sulle mie _____.'",
+      "correct": "alture",
+      "wrong": ["montagne", "colline", "rocce"],
+      "hint": "Questo si riferisce a luoghi elevati",
+      "explanation": "Dio ci dà la forza per superare gli ostacoli e raggiungere nuove vette.",
+      "full_verse": "Il Signore, DIO, è la mia forza; egli renderà i miei piedi come quelli delle cerve e mi farà camminare sulle mie alture.",
+      "verse_ref": "Abacuc 3:19"
+    },
+    {
+      "id": "q_strength_029",
+      "question": "Completa il versetto: '\"Non per potenza, né per forza, ma per il mio _____\", dice il SIGNORE degli eserciti.'",
+      "correct": "Spirito",
+      "wrong": ["parola", "mano", "grazia"],
+      "hint": "Questa è la terza persona della Trinità",
+      "explanation": "La vera forza non viene dallo sforzo umano ma dallo Spirito di Dio.",
+      "full_verse": "\"Non per potenza, né per forza, ma per il mio Spirito\", dice il SIGNORE degli eserciti.",
+      "verse_ref": "Zaccaria 4:6"
+    },
+    {
+      "id": "q_strength_030",
+      "question": "Completa il versetto: 'Ma in tutte queste cose noi siamo più che _____ per mezzo di colui che ci ha amati.'",
+      "correct": "vincitori",
+      "wrong": ["vittoriosi", "campioni", "trionfanti"],
+      "hint": "Queste sono persone che superano e trionfano",
+      "explanation": "Attraverso l'amore di Cristo, abbiamo una vittoria schiacciante.",
+      "full_verse": "Ma in tutte queste cose noi siamo più che vincitori per mezzo di colui che ci ha amati.",
+      "verse_ref": "Romani 8:37"
+    },
+    {
+      "id": "q_strength_031",
+      "question": "Completa il versetto: 'Poiché la pazzia di Dio è più saggia degli uomini e la _____ di Dio è più forte degli uomini.'",
+      "correct": "debolezza",
+      "wrong": ["potenza", "forza", "grazia"],
+      "hint": "Questo è l'opposto della forza",
+      "explanation": "Anche la 'debolezza' di Dio supera tutta la forza umana.",
+      "full_verse": "Poiché la pazzia di Dio è più saggia degli uomini e la debolezza di Dio è più forte degli uomini.",
+      "verse_ref": "1 Corinzi 1:25"
+    },
+    {
+      "id": "q_strength_032",
+      "question": "Completa il versetto: 'Nessuna tentazione vi ha colti, che non sia stata umana; or Dio è fedele e non permetterà che siate tentati oltre le vostre forze; ma con la tentazione vi darà anche la via d'uscirne, affinché la possiate _____.'",
+      "correct": "sopportare",
+      "wrong": ["vincere", "resistere", "fuggire"],
+      "hint": "Questo significa persistere attraverso la difficoltà",
+      "explanation": "Dio ci dà la forza per sopportare ogni tentazione.",
+      "full_verse": "Nessuna tentazione vi ha colti, che non sia stata umana; or Dio è fedele e non permetterà che siate tentati oltre le vostre forze; ma con la tentazione vi darà anche la via d'uscirne, affinché la possiate sopportare.",
+      "verse_ref": "1 Corinzi 10:13"
+    },
+    {
+      "id": "q_strength_033",
+      "question": "Completa il versetto: 'Vegliate, state fermi nella fede, comportatevi virilmente, siate _____.'",
+      "correct": "forti",
+      "wrong": ["coraggiosi", "audaci", "valorosi"],
+      "hint": "Questa è la capacità di superare le sfide",
+      "explanation": "Siamo chiamati ad essere vigili, fedeli, coraggiosi e forti.",
+      "full_verse": "Vegliate, state fermi nella fede, comportatevi virilmente, siate forti.",
+      "verse_ref": "1 Corinzi 16:13"
+    },
+    {
+      "id": "q_strength_034",
+      "question": "Completa il versetto: 'Per questo mi compiaccio in debolezze, in ingiurie, in necessità, in persecuzioni, in angustie per amor di Cristo, perché quando sono debole, allora sono _____.'",
+      "correct": "forte",
+      "wrong": ["coraggioso", "audace", "potente"],
+      "hint": "Questo è l'opposto di debole",
+      "explanation": "La potenza di Dio si perfeziona nella nostra debolezza.",
+      "full_verse": "Per questo mi compiaccio in debolezze, in ingiurie, in necessità, in persecuzioni, in angustie per amor di Cristo, perché quando sono debole, allora sono forte.",
+      "verse_ref": "2 Corinzi 12:10"
+    },
+    {
+      "id": "q_strength_035",
+      "question": "Completa il versetto: 'Chiedo che egli vi dia, secondo le ricchezze della sua gloria, di essere potentemente fortificati, mediante lo Spirito suo, nell'uomo _____.'",
+      "correct": "interiore",
+      "wrong": ["nuovo", "spirituale", "nascosto"],
+      "hint": "Questo è il nucleo di chi siamo",
+      "explanation": "Dio ci fortifica spiritualmente dall'interno.",
+      "full_verse": "Chiedo che egli vi dia, secondo le ricchezze della sua gloria, di essere potentemente fortificati, mediante lo Spirito suo, nell'uomo interiore.",
+      "verse_ref": "Efesini 3:16"
+    },
+    {
+      "id": "q_strength_036",
+      "question": "Completa il versetto: 'Fortificati in ogni cosa dalla sua gloriosa potenza, per essere sempre pazienti e _____.'",
+      "correct": "longanimi",
+      "wrong": ["fedeli", "speranzosi", "pacifici"],
+      "hint": "Questa è la capacità di aspettare con calma",
+      "explanation": "La potenza di Dio ci permette di perseverare con pazienza.",
+      "full_verse": "Fortificati in ogni cosa dalla sua gloriosa potenza, per essere sempre pazienti e longanimi.",
+      "verse_ref": "Colossesi 1:11"
+    },
+    {
+      "id": "q_strength_037",
+      "question": "Completa il versetto: 'Dio infatti non ci ha dato uno spirito di timidezza, ma di forza, d'amore e di _____.'",
+      "correct": "autocontrollo",
+      "wrong": ["saggezza", "coraggio", "fede"],
+      "hint": "Questa è la padronanza di sé",
+      "explanation": "Lo Spirito di Dio ci dà forza, amore e autocontrollo.",
+      "full_verse": "Dio infatti non ci ha dato uno spirito di timidezza, ma di forza, d'amore e di autocontrollo.",
+      "verse_ref": "2 Timoteo 1:7"
+    },
+    {
+      "id": "q_strength_038",
+      "question": "Completa il versetto: 'Tu dunque, figlio mio, fortìficati nella _____ che è in Cristo Gesù.'",
+      "correct": "grazia",
+      "wrong": ["fede", "amore", "potenza"],
+      "hint": "Questo è il favore immeritato di Dio",
+      "explanation": "La nostra forza viene dalla grazia che si trova in Cristo.",
+      "full_verse": "Tu dunque, figlio mio, fortìficati nella grazia che è in Cristo Gesù.",
+      "verse_ref": "2 Timoteo 2:1"
+    },
+    {
+      "id": "q_strength_039",
+      "question": "Completa il versetto: 'Ma il Signore mi ha assistito e mi ha fortificato, affinché per mezzo mio il messaggio fosse proclamato e tutti i _____ lo udissero.'",
+      "correct": "pagani",
+      "wrong": ["popoli", "nazioni", "mondo"],
+      "hint": "Questo si riferisce ai non ebrei",
+      "explanation": "Dio ci fortifica per compiere i Suoi propositi.",
+      "full_verse": "Ma il Signore mi ha assistito e mi ha fortificato, affinché per mezzo mio il messaggio fosse proclamato e tutti i pagani lo udissero.",
+      "verse_ref": "2 Timoteo 4:17"
+    },
+    {
+      "id": "q_strength_040",
+      "question": "Completa il versetto: 'Spensero la violenza del fuoco, scamparono al taglio della spada, guarirono da infermità, divennero forti in guerra, misero in fuga _____ stranieri.'",
+      "correct": "eserciti",
+      "wrong": ["nemici", "nazioni", "forze"],
+      "hint": "Queste sono forze militari",
+      "explanation": "La fede può trasformare la debolezza in forza per la vittoria.",
+      "full_verse": "Spensero la violenza del fuoco, scamparono al taglio della spada, guarirono da infermità, divennero forti in guerra, misero in fuga eserciti stranieri.",
+      "verse_ref": "Ebrei 11:34"
+    },
+    {
+      "id": "q_strength_041",
+      "question": "Completa il versetto: 'Ora il Dio di ogni grazia, che vi ha chiamati alla sua gloria eterna in Cristo, dopo che avrete sofferto per breve tempo, vi perfezionerà egli stesso, vi renderà fermi, vi fortificherà e vi stabilirà su solide _____.'",
+      "correct": "fondamenta",
+      "wrong": ["basi", "rocce", "pietre"],
+      "hint": "Queste sono le basi su cui si costruisce",
+      "explanation": "Dio ci rafforzerà e stabilirà dopo aver sopportato le prove.",
+      "full_verse": "Ora il Dio di ogni grazia, che vi ha chiamati alla sua gloria eterna in Cristo, dopo che avrete sofferto per breve tempo, vi perfezionerà egli stesso, vi renderà fermi, vi fortificherà e vi stabilirà su solide fondamenta.",
+      "verse_ref": "1 Pietro 5:10"
+    },
+    {
+      "id": "q_strength_042",
+      "question": "Completa il versetto: 'Voi siete da Dio, figlioli, e li avete vinti, perché colui che è in voi è più grande di colui che è nel _____.'",
+      "correct": "mondo",
+      "wrong": ["tenebre", "nemico", "carne"],
+      "hint": "Questo è il luogo dove opera il male",
+      "explanation": "Dio che è in noi è più grande di qualsiasi forza nel mondo.",
+      "full_verse": "Voi siete da Dio, figlioli, e li avete vinti, perché colui che è in voi è più grande di colui che è nel mondo.",
+      "verse_ref": "1 Giovanni 4:4"
+    },
+    {
+      "id": "q_strength_043",
+      "question": "Completa il versetto: 'Il SIGNORE è la mia forza e il mio _____; egli è stato la mia salvezza. Questi è il mio Dio, io lo glorificherò; è il Dio di mio padre, io lo esalterò.'",
+      "correct": "cantico",
+      "wrong": ["scudo", "difesa", "rifugio"],
+      "hint": "Questa è un'espressione musicale di lode",
+      "explanation": "Dio è la nostra forza, protezione e salvezza.",
+      "full_verse": "Il SIGNORE è la mia forza e il mio cantico; egli è stato la mia salvezza. Questi è il mio Dio, io lo glorificherò; è il Dio di mio padre, io lo esalterò.",
+      "verse_ref": "Esodo 15:2"
+    },
+    {
+      "id": "q_strength_044",
+      "question": "Completa il versetto: 'Dio è colui che mi cinge di forza e rende _____ il mio cammino.'",
+      "correct": "sicuro",
+      "wrong": ["diritto", "chiaro", "puro"],
+      "hint": "Questo significa protetto o stabile",
+      "explanation": "Dio fornisce forza e ci guida in sicurezza.",
+      "full_verse": "Dio è colui che mi cinge di forza e rende sicuro il mio cammino.",
+      "verse_ref": "2 Samuele 22:33"
+    },
+    {
+      "id": "q_strength_045",
+      "question": "Completa il versetto: 'Dalla bocca dei bambini e dei lattanti hai tratto una forza, a causa dei tuoi avversari, per ridurre al silenzio il nemico e il _____.'",
+      "correct": "vendicatore",
+      "wrong": ["nemico", "avversario", "malvagio"],
+      "hint": "Questo è chi cerca vendetta",
+      "explanation": "La forza di Dio si manifesta anche attraverso la lode dei bambini.",
+      "full_verse": "Dalla bocca dei bambini e dei lattanti hai tratto una forza, a causa dei tuoi avversari, per ridurre al silenzio il nemico e il vendicatore.",
+      "verse_ref": "Salmo 8:2"
+    },
+    {
+      "id": "q_strength_046",
+      "question": "Completa il versetto: 'Siano gradite le parole della mia bocca e la meditazione del mio cuore in tua presenza, o SIGNORE, mia rocca e mio _____.'",
+      "correct": "redentore",
+      "wrong": ["salvatore", "forza", "rifugio"],
+      "hint": "Questo è chi riscatta pagando un prezzo",
+      "explanation": "Dio è la nostra forza (rocca) e il nostro redentore.",
+      "full_verse": "Siano gradite le parole della mia bocca e la meditazione del mio cuore in tua presenza, o SIGNORE, mia rocca e mio redentore.",
+      "verse_ref": "Salmo 19:14"
+    },
+    {
+      "id": "q_strength_047",
+      "question": "Completa il versetto: 'La mia mano lo sosterrà e il mio _____ lo fortificherà.'",
+      "correct": "braccio",
+      "wrong": ["mano", "potenza", "forza"],
+      "hint": "Questa parte del corpo simboleggia la forza",
+      "explanation": "Il braccio di Dio rappresenta la Sua potenza per fortificare e sostenere.",
+      "full_verse": "La mia mano lo sosterrà e il mio braccio lo fortificherà.",
+      "verse_ref": "Salmo 89:21"
+    },
+    {
+      "id": "q_strength_048",
+      "question": "Completa il versetto: 'Cercate il SIGNORE e la sua forza, cercate il suo volto _____.'",
+      "correct": "sempre",
+      "wrong": ["continuamente", "ogni giorno", "per sempre"],
+      "hint": "Questo significa in ogni momento",
+      "explanation": "Dovremmo costantemente cercare la forza e la presenza di Dio.",
+      "full_verse": "Cercate il SIGNORE e la sua forza, cercate il suo volto sempre.",
+      "verse_ref": "Salmo 105:4"
+    },
+    {
+      "id": "q_strength_049",
+      "question": "Completa il versetto: 'Benedetto sia il SIGNORE, la mia rocca, che addestra le mie mani alla guerra e le mie dita alla _____.'",
+      "correct": "battaglia",
+      "wrong": ["guerra", "lotta", "combattimento"],
+      "hint": "Questo è un conflitto militare",
+      "explanation": "Dio ci equipaggia e ci fortifica per le battaglie spirituali.",
+      "full_verse": "Benedetto sia il SIGNORE, la mia rocca, che addestra le mie mani alla guerra e le mie dita alla battaglia.",
+      "verse_ref": "Salmo 144:1"
+    },
+    {
+      "id": "q_strength_050",
+      "question": "Completa il versetto: 'L'uomo saggio è forte, e chi ha scienza accresce la sua _____.'",
+      "correct": "forza",
+      "wrong": ["potenza", "energia", "coraggio"],
+      "hint": "Questa è la capacità di superare le sfide",
+      "explanation": "La saggezza e la conoscenza aumentano la nostra forza.",
+      "full_verse": "L'uomo saggio è forte, e chi ha scienza accresce la sua forza.",
+      "verse_ref": "Proverbi 24:5"
+    }
+  ]
+}

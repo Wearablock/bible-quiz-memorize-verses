@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_wisdom_001",
+      "question": "Completa el espacio en blanco: 'Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios, el cual da a todos abundantemente y sin _____; y le será dada.'",
+      "correct": "reproche",
+      "wrong": ["culpa", "condición", "demora"],
+      "hint": "Significa criticar o censurar",
+      "explanation": "Dios da sabiduría generosamente a quien la pide sin reprenderlo.",
+      "full_verse": "Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios, el cual da a todos abundantemente y sin reproche, y le será dada.",
+      "verse_ref": "Santiago 1:5"
+    },
+    {
+      "id": "q_wisdom_002",
+      "question": "Completa el espacio en blanco: 'El principio de la sabiduría es el temor de Jehová; los _____ desprecian la sabiduría y la enseñanza.'",
+      "correct": "insensatos",
+      "wrong": ["necios", "impíos", "soberbios"],
+      "hint": "Personas que carecen de buen juicio",
+      "explanation": "La reverencia a Dios es el fundamento de todo verdadero conocimiento.",
+      "full_verse": "El principio de la sabiduría es el temor de Jehová; los insensatos desprecian la sabiduría y la enseñanza.",
+      "verse_ref": "Proverbios 1:7"
+    },
+    {
+      "id": "q_wisdom_003",
+      "question": "Completa el espacio en blanco: 'Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia _____.'",
+      "correct": "prudencia",
+      "wrong": ["sabiduría", "fuerza", "inteligencia"],
+      "hint": "Se refiere al entendimiento humano",
+      "explanation": "Debemos confiar completamente en Dios en lugar de depender de nuestro entendimiento limitado.",
+      "full_verse": "Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia prudencia.",
+      "verse_ref": "Proverbios 3:5"
+    },
+    {
+      "id": "q_wisdom_004",
+      "question": "Completa el espacio en blanco: 'El temor de Jehová es el principio de la sabiduría, y el conocimiento del Santísimo es la _____.'",
+      "correct": "inteligencia",
+      "wrong": ["sabiduría", "prudencia", "ciencia"],
+      "hint": "Capacidad de comprender profundamente",
+      "explanation": "La verdadera sabiduría comienza con la reverencia a Dios, y conocerlo trae entendimiento.",
+      "full_verse": "El temor de Jehová es el principio de la sabiduría, y el conocimiento del Santísimo es la inteligencia.",
+      "verse_ref": "Proverbios 9:10"
+    },
+    {
+      "id": "q_wisdom_005",
+      "question": "Completa el espacio en blanco: 'La palabra de Cristo more en abundancia en vosotros, enseñándoos y exhortándoos unos a otros en toda sabiduría, cantando con gracia en vuestros _____ al Señor con salmos e himnos y cánticos espirituales.'",
+      "correct": "corazones",
+      "wrong": ["almas", "labios", "espíritus"],
+      "hint": "Centro de las emociones y la voluntad",
+      "explanation": "La palabra de Cristo debe llenarnos de sabiduría y adoración agradecida.",
+      "full_verse": "La palabra de Cristo more en abundancia en vosotros, enseñándoos y exhortándoos unos a otros en toda sabiduría, cantando con gracia en vuestros corazones al Señor con salmos e himnos y cánticos espirituales.",
+      "verse_ref": "Colosenses 3:16"
+    },
+    {
+      "id": "q_wisdom_006",
+      "question": "Completa el espacio en blanco: 'Porque Jehová da la sabiduría, y de su boca viene el conocimiento y la _____.'",
+      "correct": "inteligencia",
+      "wrong": ["verdad", "prudencia", "ciencia"],
+      "hint": "Capacidad de comprender",
+      "explanation": "La verdadera sabiduría, conocimiento e inteligencia provienen de Dios.",
+      "full_verse": "Porque Jehová da la sabiduría, y de su boca viene el conocimiento y la inteligencia.",
+      "verse_ref": "Proverbios 2:6"
+    },
+    {
+      "id": "q_wisdom_007",
+      "question": "Completa el espacio en blanco: 'Sabiduría ante todo; adquiere sabiduría; y sobre todas tus posesiones adquiere _____.'",
+      "correct": "inteligencia",
+      "wrong": ["conocimiento", "prudencia", "entendimiento"],
+      "hint": "Capacidad de comprender profundamente",
+      "explanation": "La sabiduría es tan valiosa que vale la pena buscarla a cualquier costo.",
+      "full_verse": "Sabiduría ante todo; adquiere sabiduría; y sobre todas tus posesiones adquiere inteligencia.",
+      "verse_ref": "Proverbios 4:7"
+    },
+    {
+      "id": "q_wisdom_008",
+      "question": "Completa el espacio en blanco: 'Porque escudo es la ciencia, y escudo es el dinero; mas la sabiduría excede, en que da _____ a sus poseedores.'",
+      "correct": "vida",
+      "wrong": ["riqueza", "honor", "paz"],
+      "hint": "Existencia, lo opuesto a la muerte",
+      "explanation": "La sabiduría protege y preserva a quienes la poseen.",
+      "full_verse": "Porque escudo es la ciencia, y escudo es el dinero; mas la sabiduría excede, en que da vida a sus poseedores.",
+      "verse_ref": "Eclesiastés 7:12"
+    },
+    {
+      "id": "q_wisdom_009",
+      "question": "Completa el espacio en blanco: 'El principio de la sabiduría es el temor de Jehová; buen entendimiento tienen todos los que practican sus _____. Su loor permanece para siempre.'",
+      "correct": "mandamientos",
+      "wrong": ["palabras", "leyes", "estatutos"],
+      "hint": "Órdenes o preceptos divinos",
+      "explanation": "Obedecer los mandamientos de Dios conduce al verdadero entendimiento.",
+      "full_verse": "El principio de la sabiduría es el temor de Jehová; buen entendimiento tienen todos los que practican sus mandamientos. Su loor permanece para siempre.",
+      "verse_ref": "Salmos 111:10"
+    },
+    {
+      "id": "q_wisdom_010",
+      "question": "Completa el espacio en blanco: 'Pero la sabiduría que es de lo alto es primeramente pura, después pacífica, amable, benigna, llena de misericordia y de buenos frutos, sin incertidumbre ni _____.'",
+      "correct": "hipocresía",
+      "wrong": ["mentira", "engaño", "falsedad"],
+      "hint": "Fingir ser lo que no se es",
+      "explanation": "La sabiduría celestial tiene muchas características incluyendo pureza y sinceridad.",
+      "full_verse": "Pero la sabiduría que es de lo alto es primeramente pura, después pacífica, amable, benigna, llena de misericordia y de buenos frutos, sin incertidumbre ni hipocresía.",
+      "verse_ref": "Santiago 3:17"
+    },
+    {
+      "id": "q_wisdom_011",
+      "question": "Completa el espacio en blanco: 'Bienaventurado el hombre que halla la sabiduría, y que obtiene la _____.'",
+      "correct": "inteligencia",
+      "wrong": ["prudencia", "ciencia", "verdad"],
+      "hint": "Capacidad de comprender",
+      "explanation": "Encontrar sabiduría e inteligencia trae bendición.",
+      "full_verse": "Bienaventurado el hombre que halla la sabiduría, y que obtiene la inteligencia.",
+      "verse_ref": "Proverbios 3:13"
+    },
+    {
+      "id": "q_wisdom_012",
+      "question": "Completa el espacio en blanco: 'Hijo mío, no se aparten estas cosas de tus ojos; guarda la ley y el _____.'",
+      "correct": "consejo",
+      "wrong": ["mandamiento", "estatuto", "juicio"],
+      "hint": "Orientación o guía",
+      "explanation": "Debemos aferrarnos a la sabiduría y el buen juicio.",
+      "full_verse": "Hijo mío, no se aparten estas cosas de tus ojos; guarda la ley y el consejo.",
+      "verse_ref": "Proverbios 3:21"
+    },
+    {
+      "id": "q_wisdom_013",
+      "question": "Completa el espacio en blanco: 'Adquiere sabiduría, adquiere inteligencia; no te olvides ni te apartes de las razones de mi _____.'",
+      "correct": "boca",
+      "wrong": ["corazón", "mente", "alma"],
+      "hint": "Parte del cuerpo usada para hablar",
+      "explanation": "Debemos buscar la sabiduría y no abandonar sus enseñanzas.",
+      "full_verse": "Adquiere sabiduría, adquiere inteligencia; no te olvides ni te apartes de las razones de mi boca.",
+      "verse_ref": "Proverbios 4:5"
+    },
+    {
+      "id": "q_wisdom_014",
+      "question": "Completa el espacio en blanco: 'Porque mejor es la sabiduría que las piedras preciosas; y todo cuanto se puede desear, no es de compararse con _____.'",
+      "correct": "ella",
+      "wrong": ["oro", "plata", "riquezas"],
+      "hint": "Pronombre que se refiere a la sabiduría",
+      "explanation": "La sabiduría es más valiosa que cualquier tesoro terrenal.",
+      "full_verse": "Porque mejor es la sabiduría que las piedras preciosas; y todo cuanto se puede desear, no es de compararse con ella.",
+      "verse_ref": "Proverbios 8:11"
+    },
+    {
+      "id": "q_wisdom_015",
+      "question": "Completa el espacio en blanco: 'Hacer maldad es como una diversión al _____, mas la sabiduría recrea al hombre de entendimiento.'",
+      "correct": "insensato",
+      "wrong": ["necio", "impío", "malvado"],
+      "hint": "Persona que carece de buen juicio",
+      "explanation": "Los que tienen entendimiento encuentran gozo en la sabiduría, no en la maldad.",
+      "full_verse": "Hacer maldad es como una diversión al insensato, mas la sabiduría recrea al hombre de entendimiento.",
+      "verse_ref": "Proverbios 10:23"
+    },
+    {
+      "id": "q_wisdom_016",
+      "question": "Completa el espacio en blanco: 'Cuando viene la soberbia, viene también la deshonra; mas con los _____ está la sabiduría.'",
+      "correct": "humildes",
+      "wrong": ["justos", "rectos", "mansos"],
+      "hint": "Personas sin orgullo",
+      "explanation": "El orgullo conduce a la vergüenza, mientras que la humildad lleva a la sabiduría.",
+      "full_verse": "Cuando viene la soberbia, viene también la deshonra; mas con los humildes está la sabiduría.",
+      "verse_ref": "Proverbios 11:2"
+    },
+    {
+      "id": "q_wisdom_017",
+      "question": "Completa el espacio en blanco: 'El camino del necio es derecho en su opinión; mas el que obedece al _____ es sabio.'",
+      "correct": "consejo",
+      "wrong": ["sabio", "Señor", "mandamiento"],
+      "hint": "Orientación de otros",
+      "explanation": "Los necios confían en su propio juicio; los sabios buscan consejo.",
+      "full_verse": "El camino del necio es derecho en su opinión; mas el que obedece al consejo es sabio.",
+      "verse_ref": "Proverbios 12:15"
+    },
+    {
+      "id": "q_wisdom_018",
+      "question": "Completa el espacio en blanco: 'Entre los soberbios siempre hay contienda; mas con los avisados está la _____.'",
+      "correct": "sabiduría",
+      "wrong": ["paz", "prudencia", "verdad"],
+      "hint": "Conocimiento profundo y buen juicio",
+      "explanation": "El orgullo causa conflicto, pero los sabios aceptan consejo.",
+      "full_verse": "Entre los soberbios siempre hay contienda; mas con los avisados está la sabiduría.",
+      "verse_ref": "Proverbios 13:10"
+    },
+    {
+      "id": "q_wisdom_019",
+      "question": "Completa el espacio en blanco: 'La mujer sabia edifica su casa; mas la necia con sus manos la _____.'",
+      "correct": "derriba",
+      "wrong": ["destruye", "deshace", "arruina"],
+      "hint": "Tumbar o demoler",
+      "explanation": "La sabiduría edifica mientras que la necedad destruye.",
+      "full_verse": "La mujer sabia edifica su casa; mas la necia con sus manos la derriba.",
+      "verse_ref": "Proverbios 14:1"
+    },
+    {
+      "id": "q_wisdom_020",
+      "question": "Completa el espacio en blanco: 'El temor de Jehová es enseñanza de sabiduría; y a la honra precede la _____.'",
+      "correct": "humildad",
+      "wrong": ["obediencia", "justicia", "piedad"],
+      "hint": "Ausencia de orgullo",
+      "explanation": "Temer a Dios y ser humilde conduce al honor.",
+      "full_verse": "El temor de Jehová es enseñanza de sabiduría; y a la honra precede la humildad.",
+      "verse_ref": "Proverbios 15:33"
+    },
+    {
+      "id": "q_wisdom_021",
+      "question": "Completa el espacio en blanco: 'Mejor es adquirir sabiduría que oro preciado; y adquirir inteligencia vale más que la _____.'",
+      "correct": "plata",
+      "wrong": ["riqueza", "fortuna", "herencia"],
+      "hint": "Metal precioso",
+      "explanation": "La sabiduría y la inteligencia son más valiosas que los metales preciosos.",
+      "full_verse": "Mejor es adquirir sabiduría que oro preciado; y adquirir inteligencia vale más que la plata.",
+      "verse_ref": "Proverbios 16:16"
+    },
+    {
+      "id": "q_wisdom_022",
+      "question": "Completa el espacio en blanco: 'Aun el necio, cuando calla, es contado por sabio; el que cierra sus labios es _____.'",
+      "correct": "entendido",
+      "wrong": ["prudente", "sabio", "discreto"],
+      "hint": "Persona con comprensión",
+      "explanation": "El silencio puede ser una marca de sabiduría.",
+      "full_verse": "Aun el necio, cuando calla, es contado por sabio; el que cierra sus labios es entendido.",
+      "verse_ref": "Proverbios 17:28"
+    },
+    {
+      "id": "q_wisdom_023",
+      "question": "Completa el espacio en blanco: 'El corazón del entendido adquiere sabiduría; y el oído de los sabios busca la _____.'",
+      "correct": "ciencia",
+      "wrong": ["verdad", "inteligencia", "instrucción"],
+      "hint": "Conocimiento o saber",
+      "explanation": "Las personas sabias buscan activamente el conocimiento.",
+      "full_verse": "El corazón del entendido adquiere sabiduría; y el oído de los sabios busca la ciencia.",
+      "verse_ref": "Proverbios 18:15"
+    },
+    {
+      "id": "q_wisdom_024",
+      "question": "Completa el espacio en blanco: 'El que posee entendimiento ama su alma; el que guarda la inteligencia hallará el _____.'",
+      "correct": "bien",
+      "wrong": ["éxito", "favor", "gozo"],
+      "hint": "Lo bueno, lo positivo",
+      "explanation": "Amar la sabiduría conduce a una vida próspera.",
+      "full_verse": "El que posee entendimiento ama su alma; el que guarda la inteligencia hallará el bien.",
+      "verse_ref": "Proverbios 19:8"
+    },
+    {
+      "id": "q_wisdom_025",
+      "question": "Completa el espacio en blanco: 'Con sabiduría se edificará la casa, y con prudencia se _____.'",
+      "correct": "afirmará",
+      "wrong": ["establecerá", "fortalecerá", "completará"],
+      "hint": "Hacer firme o estable",
+      "explanation": "La sabiduría edifica y la prudencia establece.",
+      "full_verse": "Con sabiduría se edificará la casa, y con prudencia se afirmará.",
+      "verse_ref": "Proverbios 24:3"
+    },
+    {
+      "id": "q_wisdom_026",
+      "question": "Completa el espacio en blanco: 'Y he visto que la sabiduría sobrepuja a la necedad, como la luz a las _____.'",
+      "correct": "tinieblas",
+      "wrong": ["sombras", "oscuridad", "noches"],
+      "hint": "Lo opuesto a la luz",
+      "explanation": "La sabiduría ilumina como la luz comparada con la oscuridad de la necedad.",
+      "full_verse": "Y he visto que la sabiduría sobrepuja a la necedad, como la luz a las tinieblas.",
+      "verse_ref": "Eclesiastés 2:13"
+    },
+    {
+      "id": "q_wisdom_027",
+      "question": "Completa el espacio en blanco: 'Mejor es la sabiduría que las armas de guerra, y un _____ destruye mucho bien.'",
+      "correct": "pecador",
+      "wrong": ["necio", "malvado", "impío"],
+      "hint": "Persona que transgrede la ley de Dios",
+      "explanation": "La sabiduría tiene más poder que las armas de guerra.",
+      "full_verse": "Mejor es la sabiduría que las armas de guerra, y un pecador destruye mucho bien.",
+      "verse_ref": "Eclesiastés 9:18"
+    },
+    {
+      "id": "q_wisdom_028",
+      "question": "Completa el espacio en blanco: '¿Quién es sabio para entender esto, y prudente para conocerlo? Porque los caminos de Jehová son rectos, y los justos andarán por ellos; mas los _____ caerán en ellos.'",
+      "correct": "rebeldes",
+      "wrong": ["impíos", "pecadores", "necios"],
+      "hint": "Los que se oponen a la autoridad",
+      "explanation": "Los sabios entienden y siguen los caminos de Dios.",
+      "full_verse": "¿Quién es sabio para entender esto, y prudente para conocerlo? Porque los caminos de Jehová son rectos, y los justos andarán por ellos; mas los rebeldes caerán en ellos.",
+      "verse_ref": "Oseas 14:9"
+    },
+    {
+      "id": "q_wisdom_029",
+      "question": "Completa el espacio en blanco: 'Si se embotare el hierro, y su filo no fuere amolado, hay que añadir entonces más _____; pero la sabiduría es provechosa para dirigir.'",
+      "correct": "fuerza",
+      "wrong": ["esfuerzo", "trabajo", "poder"],
+      "hint": "Capacidad física",
+      "explanation": "La sabiduría y la habilidad son más efectivas que la fuerza bruta.",
+      "full_verse": "Si se embotare el hierro, y su filo no fuere amolado, hay que añadir entonces más fuerza; pero la sabiduría es provechosa para dirigir.",
+      "verse_ref": "Eclesiastés 10:10"
+    },
+    {
+      "id": "q_wisdom_030",
+      "question": "Completa el espacio en blanco: '¿No está la sabiduría entre los ancianos, y en la larga edad la _____?'",
+      "correct": "inteligencia",
+      "wrong": ["prudencia", "ciencia", "experiencia"],
+      "hint": "Capacidad de comprender",
+      "explanation": "La edad y la experiencia a menudo traen sabiduría y entendimiento.",
+      "full_verse": "En los ancianos está la ciencia, y en la larga edad la inteligencia.",
+      "verse_ref": "Job 12:12"
+    },
+    {
+      "id": "q_wisdom_031",
+      "question": "Completa el espacio en blanco: 'Y dijo al hombre: He aquí que el temor del Señor es la sabiduría, y el apartarse del mal, la _____.'",
+      "correct": "inteligencia",
+      "wrong": ["prudencia", "ciencia", "virtud"],
+      "hint": "Capacidad de comprender",
+      "explanation": "La verdadera sabiduría teme a Dios y evita el mal.",
+      "full_verse": "Y dijo al hombre: He aquí que el temor del Señor es la sabiduría, y el apartarse del mal, la inteligencia.",
+      "verse_ref": "Job 28:28"
+    },
+    {
+      "id": "q_wisdom_032",
+      "question": "Completa el espacio en blanco: 'La ley de Jehová es perfecta, que convierte el alma; el testimonio de Jehová es fiel, que hace sabio al _____.'",
+      "correct": "sencillo",
+      "wrong": ["humilde", "joven", "pequeño"],
+      "hint": "Persona sin experiencia o ingenua",
+      "explanation": "La Palabra de Dios trae sabiduría incluso a los inexpertos.",
+      "full_verse": "La ley de Jehová es perfecta, que convierte el alma; el testimonio de Jehová es fiel, que hace sabio al sencillo.",
+      "verse_ref": "Salmos 19:7"
+    },
+    {
+      "id": "q_wisdom_033",
+      "question": "Completa el espacio en blanco: 'La boca del justo habla sabiduría, y su lengua habla _____.'",
+      "correct": "justicia",
+      "wrong": ["verdad", "rectitud", "bondad"],
+      "hint": "Hacer lo correcto y equitativo",
+      "explanation": "Las personas justas hablan sabiduría y justicia.",
+      "full_verse": "La boca del justo habla sabiduría, y su lengua habla justicia.",
+      "verse_ref": "Salmos 37:30"
+    },
+    {
+      "id": "q_wisdom_034",
+      "question": "Completa el espacio en blanco: 'Enséñanos de tal modo a contar nuestros días, que traigamos al corazón _____.'",
+      "correct": "sabiduría",
+      "wrong": ["entendimiento", "prudencia", "humildad"],
+      "hint": "Conocimiento profundo y buen juicio",
+      "explanation": "Reconocer la brevedad de la vida nos ayuda a vivir sabiamente.",
+      "full_verse": "Enséñanos de tal modo a contar nuestros días, que traigamos al corazón sabiduría.",
+      "verse_ref": "Salmos 90:12"
+    },
+    {
+      "id": "q_wisdom_035",
+      "question": "Completa el espacio en blanco: 'Me has hecho más sabio que mis enemigos con tus mandamientos, porque siempre están _____.'",
+      "correct": "conmigo",
+      "wrong": ["presentes", "en mí", "cerca"],
+      "hint": "En mi compañía",
+      "explanation": "La Palabra de Dios da sabiduría que supera a nuestros oponentes.",
+      "full_verse": "Me has hecho más sabio que mis enemigos con tus mandamientos, porque siempre están conmigo.",
+      "verse_ref": "Salmos 119:98"
+    },
+    {
+      "id": "q_wisdom_036",
+      "question": "Completa el espacio en blanco: 'Y reposará sobre él el Espíritu de Jehová; espíritu de sabiduría y de inteligencia, espíritu de consejo y de poder, espíritu de conocimiento y de temor de _____.'",
+      "correct": "Jehová",
+      "wrong": ["Dios", "el Señor", "el Altísimo"],
+      "hint": "Nombre del pacto de Dios",
+      "explanation": "El Mesías estaría lleno del Espíritu de sabiduría.",
+      "full_verse": "Y reposará sobre él el Espíritu de Jehová; espíritu de sabiduría y de inteligencia, espíritu de consejo y de poder, espíritu de conocimiento y de temor de Jehová.",
+      "verse_ref": "Isaías 11:2"
+    },
+    {
+      "id": "q_wisdom_037",
+      "question": "Completa el espacio en blanco: 'El muda los tiempos y las edades; quita reyes, y pone reyes; da la sabiduría a los sabios, y la ciencia a los _____.'",
+      "correct": "entendidos",
+      "wrong": ["humildes", "fieles", "justos"],
+      "hint": "Personas con buen juicio",
+      "explanation": "Dios es la fuente de toda sabiduría y conocimiento.",
+      "full_verse": "El muda los tiempos y las edades; quita reyes, y pone reyes; da la sabiduría a los sabios, y la ciencia a los entendidos.",
+      "verse_ref": "Daniel 2:21"
+    },
+    {
+      "id": "q_wisdom_038",
+      "question": "Completa el espacio en blanco: 'Cualquiera, pues, que me oye estas palabras, y las hace, le compararé a un hombre prudente, que edificó su casa sobre la _____.'",
+      "correct": "roca",
+      "wrong": ["piedra", "fundamento", "tierra"],
+      "hint": "Base sólida",
+      "explanation": "Las personas sabias edifican sus vidas sobre las enseñanzas de Jesús.",
+      "full_verse": "Cualquiera, pues, que me oye estas palabras, y las hace, le compararé a un hombre prudente, que edificó su casa sobre la roca.",
+      "verse_ref": "Mateo 7:24"
+    },
+    {
+      "id": "q_wisdom_039",
+      "question": "Completa el espacio en blanco: '¡Oh profundidad de las riquezas de la sabiduría y de la ciencia de Dios! ¡Cuán insondables son sus juicios, e inescrutables sus _____!'",
+      "correct": "caminos",
+      "wrong": ["obras", "pensamientos", "designios"],
+      "hint": "Rutas o senderos",
+      "explanation": "La sabiduría de Dios es infinitamente profunda y está más allá de la comprensión humana.",
+      "full_verse": "¡Oh profundidad de las riquezas de la sabiduría y de la ciencia de Dios! ¡Cuán insondables son sus juicios, e inescrutables sus caminos!",
+      "verse_ref": "Romanos 11:33"
+    },
+    {
+      "id": "q_wisdom_040",
+      "question": "Completa el espacio en blanco: 'Porque lo insensato de Dios es más sabio que los hombres, y lo débil de Dios es más fuerte que los _____.'",
+      "correct": "hombres",
+      "wrong": ["sabios", "fuertes", "poderosos"],
+      "hint": "Seres humanos",
+      "explanation": "Incluso la 'debilidad' de Dios supera toda fuerza humana.",
+      "full_verse": "Porque lo insensato de Dios es más sabio que los hombres, y lo débil de Dios es más fuerte que los hombres.",
+      "verse_ref": "1 Corintios 1:25"
+    },
+    {
+      "id": "q_wisdom_041",
+      "question": "Completa el espacio en blanco: 'Mas por él estáis vosotros en Cristo Jesús, el cual nos ha sido hecho por Dios sabiduría, justificación, santificación y _____.'",
+      "correct": "redención",
+      "wrong": ["salvación", "liberación", "perdón"],
+      "hint": "Ser rescatado pagando un precio",
+      "explanation": "Cristo encarna la sabiduría y provee nuestra justicia y redención.",
+      "full_verse": "Mas por él estáis vosotros en Cristo Jesús, el cual nos ha sido hecho por Dios sabiduría, justificación, santificación y redención.",
+      "verse_ref": "1 Corintios 1:30"
+    },
+    {
+      "id": "q_wisdom_042",
+      "question": "Completa el espacio en blanco: 'Sin embargo, hablamos sabiduría entre los que han alcanzado madurez; y sabiduría, no de este siglo, ni de los _____ de este siglo, que perecen.'",
+      "correct": "príncipes",
+      "wrong": ["sabios", "poderosos", "gobernantes"],
+      "hint": "Personas en autoridad",
+      "explanation": "La sabiduría de Dios difiere de la sabiduría de las autoridades mundanas.",
+      "full_verse": "Sin embargo, hablamos sabiduría entre los que han alcanzado madurez; y sabiduría, no de este siglo, ni de los príncipes de este siglo, que perecen.",
+      "verse_ref": "1 Corintios 2:6"
+    },
+    {
+      "id": "q_wisdom_043",
+      "question": "Completa el espacio en blanco: 'Porque la sabiduría de este mundo es insensatez para con Dios; pues escrito está: El prende a los sabios en la _____ de ellos.'",
+      "correct": "astucia",
+      "wrong": ["trampa", "maldad", "necedad"],
+      "hint": "Habilidad para engañar",
+      "explanation": "La sabiduría mundana es necedad comparada con la sabiduría de Dios.",
+      "full_verse": "Porque la sabiduría de este mundo es insensatez para con Dios; pues escrito está: El prende a los sabios en la astucia de ellos.",
+      "verse_ref": "1 Corintios 3:19"
+    },
+    {
+      "id": "q_wisdom_044",
+      "question": "Completa el espacio en blanco: 'Para que el Dios de nuestro Señor Jesucristo, el Padre de gloria, os dé espíritu de sabiduría y de _____ en el conocimiento de él.'",
+      "correct": "revelación",
+      "wrong": ["entendimiento", "inteligencia", "prudencia"],
+      "hint": "Manifestación divina de la verdad",
+      "explanation": "Necesitamos el Espíritu de Dios para darnos sabiduría y revelar la verdad.",
+      "full_verse": "Para que el Dios de nuestro Señor Jesucristo, el Padre de gloria, os dé espíritu de sabiduría y de revelación en el conocimiento de él.",
+      "verse_ref": "Efesios 1:17"
+    },
+    {
+      "id": "q_wisdom_045",
+      "question": "Completa el espacio en blanco: 'Mirad, pues, con diligencia cómo andéis, no como necios sino como _____.'",
+      "correct": "sabios",
+      "wrong": ["prudentes", "justos", "santos"],
+      "hint": "Lo opuesto a necios",
+      "explanation": "Debemos vivir cuidadosa y sabiamente.",
+      "full_verse": "Mirad, pues, con diligencia cómo andéis, no como necios sino como sabios.",
+      "verse_ref": "Efesios 5:15"
+    },
+    {
+      "id": "q_wisdom_046",
+      "question": "Completa el espacio en blanco: 'Por lo cual también nosotros, desde el día que lo oímos, no cesamos de orar por vosotros, y de pedir que seáis llenos del conocimiento de su voluntad en toda sabiduría e inteligencia _____.'",
+      "correct": "espiritual",
+      "wrong": ["divina", "celestial", "santa"],
+      "hint": "Relativo al espíritu",
+      "explanation": "El Espíritu Santo da sabiduría y entendimiento de la voluntad de Dios.",
+      "full_verse": "Por lo cual también nosotros, desde el día que lo oímos, no cesamos de orar por vosotros, y de pedir que seáis llenos del conocimiento de su voluntad en toda sabiduría e inteligencia espiritual.",
+      "verse_ref": "Colosenses 1:9"
+    },
+    {
+      "id": "q_wisdom_047",
+      "question": "Completa el espacio en blanco: 'En quien están escondidos todos los tesoros de la sabiduría y del _____.'",
+      "correct": "conocimiento",
+      "wrong": ["entendimiento", "saber", "misterio"],
+      "hint": "Información y comprensión",
+      "explanation": "Toda sabiduría y conocimiento se encuentran en Cristo.",
+      "full_verse": "En quien están escondidos todos los tesoros de la sabiduría y del conocimiento.",
+      "verse_ref": "Colosenses 2:3"
+    },
+    {
+      "id": "q_wisdom_048",
+      "question": "Completa el espacio en blanco: '¿Quién es sabio y entendido entre vosotros? Muestre por la buena conducta sus obras en sabia _____.'",
+      "correct": "mansedumbre",
+      "wrong": ["humildad", "obediencia", "paciencia"],
+      "hint": "Gentileza y suavidad de carácter",
+      "explanation": "La verdadera sabiduría se demuestra a través de buenas obras hechas con mansedumbre.",
+      "full_verse": "¿Quién es sabio y entendido entre vosotros? Muestre por la buena conducta sus obras en sabia mansedumbre.",
+      "verse_ref": "Santiago 3:13"
+    },
+    {
+      "id": "q_wisdom_049",
+      "question": "Completa el espacio en blanco: 'Y tened entendido que la paciencia de nuestro Señor es para salvación; como también nuestro amado hermano Pablo, según la _____ que le ha sido dada, os ha escrito.'",
+      "correct": "sabiduría",
+      "wrong": ["gracia", "revelación", "autoridad"],
+      "hint": "Lo que Dios le dio a Pablo para escribir",
+      "explanation": "Pablo escribió las Escrituras con sabiduría dada por Dios.",
+      "full_verse": "Y tened entendido que la paciencia de nuestro Señor es para salvación; como también nuestro amado hermano Pablo, según la sabiduría que le ha sido dada, os ha escrito.",
+      "verse_ref": "2 Pedro 3:15"
+    },
+    {
+      "id": "q_wisdom_050",
+      "question": "Completa el espacio en blanco: 'La lengua de los sabios adornará la _____; mas la boca de los necios hablará sandeces.'",
+      "correct": "sabiduría",
+      "wrong": ["verdad", "ciencia", "justicia"],
+      "hint": "Conocimiento profundo y buen juicio",
+      "explanation": "Los sabios usan sus palabras para expresar sabiduría.",
+      "full_verse": "La lengua de los sabios adornará la sabiduría; mas la boca de los necios hablará sandeces.",
+      "verse_ref": "Proverbios 15:2"
+    }
+  ]
+}

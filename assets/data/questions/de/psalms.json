@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_psalms_001",
+      "question": "Fülle die Lücke aus: 'Der HERR ist mein _____; mir wird nichts mangeln.'",
+      "correct": "Hirte",
+      "wrong": ["Führer", "Vater", "Beschützer"],
+      "hint": "Diese Person kümmert sich um Schafe",
+      "explanation": "Gott wird als fürsorglicher Hirte dargestellt, der für alle unsere Bedürfnisse sorgt.",
+      "full_verse": "Der HERR ist mein Hirte, mir wird nichts mangeln.",
+      "verse_ref": "Psalm 23:1"
+    },
+    {
+      "id": "q_psalms_002",
+      "question": "Fülle die Lücke aus: 'Und ob ich schon wanderte im finstern Tal, fürchte ich kein _____, denn du bist bei mir, dein Stecken und Stab trösten mich.'",
+      "correct": "Unglück",
+      "wrong": ["Böses", "Gefahr", "Tod"],
+      "hint": "Dies ist etwas Schlimmes, das passieren könnte",
+      "explanation": "Gottes Gegenwart gibt uns Mut selbst in den schwierigsten Umständen.",
+      "full_verse": "Und ob ich schon wanderte im finstern Tal, fürchte ich kein Unglück; denn du bist bei mir, dein Stecken und Stab trösten mich.",
+      "verse_ref": "Psalm 23:4"
+    },
+    {
+      "id": "q_psalms_003",
+      "question": "Fülle die Lücke aus: 'Gott ist unsre Zuversicht und Stärke, eine Hilfe in den großen _____, die uns getroffen haben.'",
+      "correct": "Nöten",
+      "wrong": ["Gefahren", "Zeiten", "Prüfungen"],
+      "hint": "Dieses Wort bedeutet Schwierigkeiten oder Bedrängnisse",
+      "explanation": "Gott ist immer bereit, uns in Zeiten der Schwierigkeit zu helfen.",
+      "full_verse": "Gott ist unsre Zuversicht und Stärke, eine Hilfe in den großen Nöten, die uns getroffen haben.",
+      "verse_ref": "Psalm 46:2"
+    },
+    {
+      "id": "q_psalms_004",
+      "question": "Fülle die Lücke aus: 'Der HERR ist mein Licht und mein Heil; vor wem sollte ich mich _____? Der HERR ist meines Lebens Kraft; vor wem sollte mir grauen?'",
+      "correct": "fürchten",
+      "wrong": ["verstecken", "sorgen", "ängstigen"],
+      "hint": "Dies ist, was wir nicht fühlen müssen, wenn Gott bei uns ist",
+      "explanation": "Mit Gott als unserem Licht und Heil haben wir keinen Grund, uns vor irgendjemandem zu fürchten.",
+      "full_verse": "Der HERR ist mein Licht und mein Heil; vor wem sollte ich mich fürchten? Der HERR ist meines Lebens Kraft; vor wem sollte mir grauen?",
+      "verse_ref": "Psalm 27:1"
+    },
+    {
+      "id": "q_psalms_005",
+      "question": "Fülle die Lücke aus: 'Dein Wort ist meines Fußes Leuchte und ein _____ auf meinem Wege.'",
+      "correct": "Licht",
+      "wrong": ["Führer", "Wegweiser", "Fackel"],
+      "hint": "Dies erhellt den Weg vor uns",
+      "explanation": "Gottes Wort gibt uns Führung und Richtung für unser Leben.",
+      "full_verse": "Dein Wort ist meines Fußes Leuchte und ein Licht auf meinem Wege.",
+      "verse_ref": "Psalm 119:105"
+    },
+    {
+      "id": "q_psalms_006",
+      "question": "Fülle die Lücke aus: 'Wohl dem, der nicht wandelt im Rat der Gottlosen noch tritt auf den Weg der Sünder noch sitzt, wo die _____ sitzen.'",
+      "correct": "Spötter",
+      "wrong": ["Sünder", "Toren", "Bösen"],
+      "hint": "Diese Menschen verspotten andere",
+      "explanation": "Wahre Seligkeit kommt davon, den Einfluss derer zu meiden, die Gottes Wege verspotten.",
+      "full_verse": "Wohl dem, der nicht wandelt im Rat der Gottlosen noch tritt auf den Weg der Sünder noch sitzt, wo die Spötter sitzen.",
+      "verse_ref": "Psalm 1:1"
+    },
+    {
+      "id": "q_psalms_007",
+      "question": "Fülle die Lücke aus: 'Jauchzet dem HERRN, alle _____!'",
+      "correct": "Welt",
+      "wrong": ["Völker", "Erde", "Menschen"],
+      "hint": "Dies bezeichnet alle Menschen auf der Erde",
+      "explanation": "Wir sind aufgerufen, unsere Freude an Gott enthusiastisch auszudrücken.",
+      "full_verse": "Jauchzet dem HERRN, alle Welt!",
+      "verse_ref": "Psalm 100:1"
+    },
+    {
+      "id": "q_psalms_008",
+      "question": "Fülle die Lücke aus: 'Dies ist der Tag, den der HERR macht; lasst uns freuen und _____ sein an ihm.'",
+      "correct": "fröhlich",
+      "wrong": ["dankbar", "glücklich", "froh"],
+      "hint": "Dies bedeutet, glücklich zu sein",
+      "explanation": "Jeder Tag ist ein Geschenk von Gott, würdig gefeiert zu werden.",
+      "full_verse": "Dies ist der Tag, den der HERR macht; lasst uns freuen und fröhlich sein an ihm.",
+      "verse_ref": "Psalm 118:24"
+    },
+    {
+      "id": "q_psalms_009",
+      "question": "Fülle die Lücke aus: 'Alles, was _____ hat, lobe den HERRN! Halleluja!'",
+      "correct": "Odem",
+      "wrong": ["Leben", "Geist", "Stimme"],
+      "hint": "Dies ist, was alle lebenden Geschöpfe haben",
+      "explanation": "Alle Lebewesen sind aufgerufen, Gott zu loben.",
+      "full_verse": "Alles, was Odem hat, lobe den HERRN! Halleluja!",
+      "verse_ref": "Psalm 150:6"
+    },
+    {
+      "id": "q_psalms_010",
+      "question": "Fülle die Lücke aus: 'Schmecket und sehet, wie freundlich der HERR ist. Wohl dem, der auf ihn _____!'",
+      "correct": "trauet",
+      "wrong": ["hofft", "baut", "vertraut"],
+      "hint": "Dies bedeutet, Vertrauen zu haben",
+      "explanation": "Wir können Gottes Güte persönlich erfahren, wenn wir ihm vertrauen.",
+      "full_verse": "Schmecket und sehet, wie freundlich der HERR ist. Wohl dem, der auf ihn trauet!",
+      "verse_ref": "Psalm 34:9"
+    },
+    {
+      "id": "q_psalms_011",
+      "question": "Fülle die Lücke aus: 'Habe deine Lust am HERRN; der wird dir geben, was dein _____ wünscht.'",
+      "correct": "Herz",
+      "wrong": ["Seele", "Geist", "Sinn"],
+      "hint": "Dies ist das Zentrum deiner Gefühle und Wünsche",
+      "explanation": "Wenn wir Freude in Gott finden, formt und erfüllt er unsere tiefsten Wünsche.",
+      "full_verse": "Habe deine Lust am HERRN; der wird dir geben, was dein Herz wünscht.",
+      "verse_ref": "Psalm 37:4"
+    },
+    {
+      "id": "q_psalms_012",
+      "question": "Fülle die Lücke aus: 'Schaffe in mir, Gott, ein reines Herz, und gib mir einen neuen, beständigen _____.'",
+      "correct": "Geist",
+      "wrong": ["Sinn", "Willen", "Mut"],
+      "hint": "Dies ist der innere Teil einer Person",
+      "explanation": "David bittet Gott um innere Verwandlung und erneuerte Hingabe.",
+      "full_verse": "Schaffe in mir, Gott, ein reines Herz, und gib mir einen neuen, beständigen Geist.",
+      "verse_ref": "Psalm 51:12"
+    },
+    {
+      "id": "q_psalms_013",
+      "question": "Fülle die Lücke aus: 'Wer unter dem Schirm des Höchsten sitzt und unter dem _____ des Allmächtigen bleibt.'",
+      "correct": "Schatten",
+      "wrong": ["Schutz", "Segen", "Flügel"],
+      "hint": "Dies entsteht, wenn Licht blockiert wird",
+      "explanation": "Gott bietet Schutz und Ruhe für diejenigen, die ihm nahe bleiben.",
+      "full_verse": "Wer unter dem Schirm des Höchsten sitzt und unter dem Schatten des Allmächtigen bleibt.",
+      "verse_ref": "Psalm 91:1"
+    },
+    {
+      "id": "q_psalms_014",
+      "question": "Fülle die Lücke aus: 'Lobe den HERRN, meine Seele, und was in mir ist, seinen heiligen _____!'",
+      "correct": "Namen",
+      "wrong": ["Ruhm", "Thron", "Geist"],
+      "hint": "Dies repräsentiert Gottes Identität und Charakter",
+      "explanation": "Wir preisen Gottes Namen, weil er repräsentiert, wer er ist.",
+      "full_verse": "Lobe den HERRN, meine Seele, und was in mir ist, seinen heiligen Namen!",
+      "verse_ref": "Psalm 103:1"
+    },
+    {
+      "id": "q_psalms_015",
+      "question": "Fülle die Lücke aus: 'Ich danke dir dafür, dass ich wunderbar gemacht bin; wunderbar sind deine Werke; das erkennt meine _____ wohl.'",
+      "correct": "Seele",
+      "wrong": ["Herz", "Geist", "Verstand"],
+      "hint": "Dies ist der spirituelle Teil einer Person",
+      "explanation": "Wir sind mit großer Sorgfalt und Absicht von Gott geschaffen.",
+      "full_verse": "Ich danke dir dafür, dass ich wunderbar gemacht bin; wunderbar sind deine Werke; das erkennt meine Seele wohl.",
+      "verse_ref": "Psalm 139:14"
+    },
+    {
+      "id": "q_psalms_016",
+      "question": "Fülle die Lücke aus: 'Die Himmel erzählen die Ehre Gottes, und die Feste verkündigt seiner _____ Werk.'",
+      "correct": "Hände",
+      "wrong": ["Macht", "Schöpfung", "Herrlichkeit"],
+      "hint": "Diese sind Körperteile zum Erschaffen von Dingen",
+      "explanation": "Die Schöpfung selbst bezeugt Gottes schöpferische Kraft.",
+      "full_verse": "Die Himmel erzählen die Ehre Gottes, und die Feste verkündigt seiner Hände Werk.",
+      "verse_ref": "Psalm 19:2"
+    },
+    {
+      "id": "q_psalms_017",
+      "question": "Fülle die Lücke aus: 'Seid stille und erkennet, dass ich _____ bin! Ich will der Höchste sein unter den Heiden, der Höchste auf Erden.'",
+      "correct": "Gott",
+      "wrong": ["Herr", "heilig", "mächtig"],
+      "hint": "Dies ist das göttliche Wesen",
+      "explanation": "Wir sind aufgerufen, still zu werden und Gottes Souveränität anzuerkennen.",
+      "full_verse": "Seid stille und erkennet, dass ich Gott bin! Ich will der Höchste sein unter den Heiden, der Höchste auf Erden.",
+      "verse_ref": "Psalm 46:11"
+    },
+    {
+      "id": "q_psalms_018",
+      "question": "Fülle die Lücke aus: 'Gutes und Barmherzigkeit werden mir folgen mein Leben lang, und ich werde bleiben im Hause des HERRN _____.'",
+      "correct": "immerdar",
+      "wrong": ["ewig", "für immer", "allezeit"],
+      "hint": "Dies bedeutet für alle Zeit",
+      "explanation": "Gottes Güte begleitet uns durch das Leben und in die Ewigkeit.",
+      "full_verse": "Gutes und Barmherzigkeit werden mir folgen mein Leben lang, und ich werde bleiben im Hause des HERRN immerdar.",
+      "verse_ref": "Psalm 23:6"
+    },
+    {
+      "id": "q_psalms_019",
+      "question": "Fülle die Lücke aus: 'Ich hebe meine Augen auf zu den Bergen. Woher kommt mir Hilfe? Meine Hilfe kommt vom HERRN, der Himmel und _____ gemacht hat.'",
+      "correct": "Erde",
+      "wrong": ["Welt", "Meer", "alles"],
+      "hint": "Dies ist der Boden, auf dem wir stehen",
+      "explanation": "Unsere Hilfe kommt vom Schöpfer aller Dinge.",
+      "full_verse": "Ich hebe meine Augen auf zu den Bergen. Woher kommt mir Hilfe? Meine Hilfe kommt vom HERRN, der Himmel und Erde gemacht hat.",
+      "verse_ref": "Psalm 121:1-2"
+    },
+    {
+      "id": "q_psalms_020",
+      "question": "Fülle die Lücke aus: 'Der HERR ist nahe denen, die zerbrochenen Herzens sind, und hilft denen, die ein zerschlagenes _____ haben.'",
+      "correct": "Gemüt",
+      "wrong": ["Herz", "Geist", "Seele"],
+      "hint": "Dies ist der innere Teil einer Person",
+      "explanation": "Gott ist besonders nahe bei denen, die emotionalen Schmerz erleben.",
+      "full_verse": "Der HERR ist nahe denen, die zerbrochenen Herzens sind, und hilft denen, die ein zerschlagenes Gemüt haben.",
+      "verse_ref": "Psalm 34:19"
+    },
+    {
+      "id": "q_psalms_021",
+      "question": "Fülle die Lücke aus: 'Wie der Hirsch schreit nach frischem Wasser, so schreit meine _____ Gott, zu dir.'",
+      "correct": "Seele",
+      "wrong": ["Herz", "Geist", "Stimme"],
+      "hint": "Dies ist der spirituelle Teil einer Person",
+      "explanation": "Unsere Seele sollte nach Gott verlangen wie ein durstiges Tier nach Wasser sucht.",
+      "full_verse": "Wie der Hirsch schreit nach frischem Wasser, so schreit meine Seele, Gott, zu dir.",
+      "verse_ref": "Psalm 42:2"
+    },
+    {
+      "id": "q_psalms_022",
+      "question": "Fülle die Lücke aus: 'Wirf dein Anliegen auf den HERRN; der wird dich _____. Er wird den Gerechten nimmermehr in Unruhe lassen.'",
+      "correct": "versorgen",
+      "wrong": ["tragen", "stützen", "halten"],
+      "hint": "Dies bedeutet, für jemanden zu sorgen",
+      "explanation": "Gott lädt uns ein, ihm unsere Sorgen zu geben, und verspricht, uns zu versorgen.",
+      "full_verse": "Wirf dein Anliegen auf den HERRN; der wird dich versorgen. Er wird den Gerechten nimmermehr in Unruhe lassen.",
+      "verse_ref": "Psalm 55:23"
+    },
+    {
+      "id": "q_psalms_023",
+      "question": "Fülle die Lücke aus: 'Denn Gott der HERR ist Sonne und Schild; der HERR gibt Gnade und Ehre. Er wird kein Gutes mangeln lassen den _____, die da wandeln.'",
+      "correct": "Frommen",
+      "wrong": ["Gerechten", "Treuen", "Gläubigen"],
+      "hint": "Dies bedeutet gottesfürchtig oder rechtschaffen",
+      "explanation": "Gott gibt großzügig denen, die in Integrität leben.",
+      "full_verse": "Denn Gott der HERR ist Sonne und Schild; der HERR gibt Gnade und Ehre. Er wird kein Gutes mangeln lassen den Frommen.",
+      "verse_ref": "Psalm 84:12"
+    },
+    {
+      "id": "q_psalms_024",
+      "question": "Fülle die Lücke aus: 'Denn er hat seinen Engeln befohlen, dass sie dich behüten auf allen deinen _____.'",
+      "correct": "Wegen",
+      "wrong": ["Pfaden", "Schritten", "Tagen"],
+      "hint": "Dies bezieht sich auf deine Richtungen oder Aktivitäten",
+      "explanation": "Gott sendet Engel, um sein Volk zu beschützen.",
+      "full_verse": "Denn er hat seinen Engeln befohlen, dass sie dich behüten auf allen deinen Wegen.",
+      "verse_ref": "Psalm 91:11"
+    },
+    {
+      "id": "q_psalms_025",
+      "question": "Fülle die Lücke aus: 'Der HERR ist nahe allen, die ihn anrufen, allen, die ihn ernstlich _____.'",
+      "correct": "anrufen",
+      "wrong": ["suchen", "bitten", "ehren"],
+      "hint": "Dies bedeutet, um Hilfe zu rufen",
+      "explanation": "Gott nähert sich denen, die ihn aufrichtig suchen.",
+      "full_verse": "Der HERR ist nahe allen, die ihn anrufen, allen, die ihn ernstlich anrufen.",
+      "verse_ref": "Psalm 145:18"
+    },
+    {
+      "id": "q_psalms_026",
+      "question": "Fülle die Lücke aus: 'Wenn ich sehe die Himmel, deiner Finger Werk, den Mond und die Sterne, die du bereitet hast: was ist der _____, dass du seiner gedenkst, und des Menschen Kind, dass du dich seiner annimmst?'",
+      "correct": "Mensch",
+      "wrong": ["Sterbliche", "Mann", "Sohn"],
+      "hint": "Dies bezeichnet die Menschheit",
+      "explanation": "Trotz der Weite der Schöpfung kümmert sich Gott tief um die Menschheit.",
+      "full_verse": "Wenn ich sehe die Himmel, deiner Finger Werk, den Mond und die Sterne, die du bereitet hast: was ist der Mensch, dass du seiner gedenkst, und des Menschen Kind, dass du dich seiner annimmst?",
+      "verse_ref": "Psalm 8:4-5"
+    },
+    {
+      "id": "q_psalms_027",
+      "question": "Fülle die Lücke aus: 'Du tust mir kund den Weg zum Leben: Vor dir ist Freude die Fülle und _____ zu deiner Rechten ewiglich.'",
+      "correct": "Wonne",
+      "wrong": ["Segen", "Glück", "Friede"],
+      "hint": "Dies bedeutet große Freude oder Seligkeit",
+      "explanation": "Gottes Gegenwart bringt vollkommene Freude und ewigen Segen.",
+      "full_verse": "Du tust mir kund den Weg zum Leben: Vor dir ist Freude die Fülle und Wonne zu deiner Rechten ewiglich.",
+      "verse_ref": "Psalm 16:11"
+    },
+    {
+      "id": "q_psalms_028",
+      "question": "Fülle die Lücke aus: 'Lass dir wohlgefallen die Rede meines Mundes und das Gespräch meines Herzens vor dir, HERR, mein Fels und mein _____.'",
+      "correct": "Erlöser",
+      "wrong": ["Retter", "Befreier", "Helfer"],
+      "hint": "Dies ist jemand, der durch Zahlung eines Preises rettet",
+      "explanation": "Wir wünschen uns, dass sowohl unsere Worte als auch unsere Gedanken Gott ehren.",
+      "full_verse": "Lass dir wohlgefallen die Rede meines Mundes und das Gespräch meines Herzens vor dir, HERR, mein Fels und mein Erlöser.",
+      "verse_ref": "Psalm 19:15"
+    },
+    {
+      "id": "q_psalms_029",
+      "question": "Fülle die Lücke aus: 'Die Erde ist des HERRN und was darinnen ist, der Erdkreis und die darauf _____.'",
+      "correct": "wohnen",
+      "wrong": ["leben", "sind", "wandeln"],
+      "hint": "Dies bedeutet, an einem Ort zu leben",
+      "explanation": "Gott besitzt alles in der Schöpfung, einschließlich aller Menschen.",
+      "full_verse": "Die Erde ist des HERRN und was darinnen ist, der Erdkreis und die darauf wohnen.",
+      "verse_ref": "Psalm 24:1"
+    },
+    {
+      "id": "q_psalms_030",
+      "question": "Fülle die Lücke aus: 'Ich will dich unterweisen und dir den Weg zeigen, den du gehen sollst; ich will dich mit meinen _____ leiten.'",
+      "correct": "Augen",
+      "wrong": ["Händen", "Worten", "Wegen"],
+      "hint": "Diese Körperteile werden zum Sehen benutzt",
+      "explanation": "Gott verspricht, uns persönlich zu führen und zu beraten.",
+      "full_verse": "Ich will dich unterweisen und dir den Weg zeigen, den du gehen sollst; ich will dich mit meinen Augen leiten.",
+      "verse_ref": "Psalm 32:8"
+    },
+    {
+      "id": "q_psalms_031",
+      "question": "Fülle die Lücke aus: 'Von dem HERRN werden eines Mannes Schritte befestigt, und er hat Gefallen an seinem Wege. Fällt er, so wird er nicht weggeworfen; denn der HERR hält ihn bei der _____.'",
+      "correct": "Hand",
+      "wrong": ["Seite", "Kraft", "Stärke"],
+      "hint": "Dieser Körperteil wird benutzt, um jemanden zu halten",
+      "explanation": "Gott stützt diejenigen, die sich an ihm erfreuen, selbst wenn sie stolpern.",
+      "full_verse": "Von dem HERRN werden eines Mannes Schritte befestigt, und er hat Gefallen an seinem Wege. Fällt er, so wird er nicht weggeworfen; denn der HERR hält ihn bei der Hand.",
+      "verse_ref": "Psalm 37:23-24"
+    },
+    {
+      "id": "q_psalms_032",
+      "question": "Fülle die Lücke aus: 'Ich harrte des HERRN, und er neigte sich zu mir und hörte mein Schreien. Er zog mich aus der grausigen Grube, aus lauter _____ und Schlamm.'",
+      "correct": "Schmutz",
+      "wrong": ["Dreck", "Morast", "Lehm"],
+      "hint": "Dies ist tiefer, nasser Schlamm",
+      "explanation": "Gott rettet uns aus verzweifelten Situationen und gibt uns Stabilität.",
+      "full_verse": "Ich harrte des HERRN, und er neigte sich zu mir und hörte mein Schreien. Er zog mich aus der grausigen Grube, aus lauter Schmutz und Schlamm.",
+      "verse_ref": "Psalm 40:2-3"
+    },
+    {
+      "id": "q_psalms_033",
+      "question": "Fülle die Lücke aus: 'Die Opfer, die Gott gefallen, sind ein geängsteter Geist, ein geängstetes, zerschlagenes _____ wirst du, Gott, nicht verachten.'",
+      "correct": "Herz",
+      "wrong": ["Gemüt", "Seele", "Geist"],
+      "hint": "Dies ist das Zentrum der Gefühle",
+      "explanation": "Gott schätzt echte Reue mehr als äußere religiöse Rituale.",
+      "full_verse": "Die Opfer, die Gott gefallen, sind ein geängsteter Geist, ein geängstetes, zerschlagenes Herz wirst du, Gott, nicht verachten.",
+      "verse_ref": "Psalm 51:19"
+    },
+    {
+      "id": "q_psalms_034",
+      "question": "Fülle die Lücke aus: 'Wenn ich mich _____, so hoffe ich auf dich.'",
+      "correct": "fürchte",
+      "wrong": ["sorge", "ängstige", "scheue"],
+      "hint": "Dies ist ein Gefühl bei Gefahr",
+      "explanation": "Furcht sollte uns dazu bringen, mehr auf Gott zu vertrauen.",
+      "full_verse": "Wenn ich mich fürchte, so hoffe ich auf dich.",
+      "verse_ref": "Psalm 56:4"
+    },
+    {
+      "id": "q_psalms_035",
+      "question": "Fülle die Lücke aus: 'Meine Seele ist stille zu Gott, der mir hilft. Denn er ist mein Fels, meine Hilfe, mein _____; so werde ich nicht wanken.'",
+      "correct": "Schutz",
+      "wrong": ["Schild", "Turm", "Hort"],
+      "hint": "Dies ist Bewahrung vor Gefahr",
+      "explanation": "Gott allein bietet wahre Ruhe und Sicherheit für unsere Seelen.",
+      "full_verse": "Meine Seele ist stille zu Gott, der mir hilft. Denn er ist mein Fels, meine Hilfe, mein Schutz, daß ich nicht wanken werde.",
+      "verse_ref": "Psalm 62:2-3"
+    },
+    {
+      "id": "q_psalms_036",
+      "question": "Fülle die Lücke aus: 'Wenn mir gleich Leib und Seele verschmachtet, so bist du doch, Gott, allezeit meines Herzens Trost und mein _____.'",
+      "correct": "Teil",
+      "wrong": ["Hoffnung", "Zuflucht", "Erbe"],
+      "hint": "Dies bedeutet jemandes Anteil oder Zuteilung",
+      "explanation": "Selbst wenn unser Körper versagt, bleibt Gott unser ewiges Erbteil.",
+      "full_verse": "Wenn mir gleich Leib und Seele verschmachtet, so bist du doch, Gott, allezeit meines Herzens Trost und mein Teil.",
+      "verse_ref": "Psalm 73:26"
+    },
+    {
+      "id": "q_psalms_037",
+      "question": "Fülle die Lücke aus: 'Denn du, Herr, bist gut und gnädig, von großer Güte allen, die dich _____.'",
+      "correct": "anrufen",
+      "wrong": ["suchen", "lieben", "ehren"],
+      "hint": "Dies bedeutet, um Hilfe zu rufen",
+      "explanation": "Gottes Liebe und Vergebung sind für alle verfügbar, die ihn suchen.",
+      "full_verse": "Denn du, Herr, bist gut und gnädig, von großer Güte allen, die dich anrufen.",
+      "verse_ref": "Psalm 86:5"
+    },
+    {
+      "id": "q_psalms_038",
+      "question": "Fülle die Lücke aus: 'Lehre uns bedenken, dass wir sterben müssen, auf dass wir klug _____.'",
+      "correct": "werden",
+      "wrong": ["handeln", "leben", "sein"],
+      "hint": "Dies beschreibt eine Veränderung oder Entwicklung",
+      "explanation": "Das Erkennen der Kürze des Lebens hilft uns, weise zu leben.",
+      "full_verse": "Lehre uns bedenken, dass wir sterben müssen, auf dass wir klug werden.",
+      "verse_ref": "Psalm 90:12"
+    },
+    {
+      "id": "q_psalms_039",
+      "question": "Fülle die Lücke aus: 'Singet dem HERRN ein neues _____; singet dem HERRN, alle Welt!'",
+      "correct": "Lied",
+      "wrong": ["Lob", "Gebet", "Psalm"],
+      "hint": "Dies ist eine musikalische Komposition mit Worten",
+      "explanation": "Wir sind aufgerufen, Gott ständig neues Lob darzubringen.",
+      "full_verse": "Singet dem HERRN ein neues Lied; singet dem HERRN, alle Welt!",
+      "verse_ref": "Psalm 96:1"
+    },
+    {
+      "id": "q_psalms_040",
+      "question": "Fülle die Lücke aus: 'So fern der Morgen ist vom Abend, lässt er unsre _____ von uns sein.'",
+      "correct": "Übertretungen",
+      "wrong": ["Sünden", "Schuld", "Missetaten"],
+      "hint": "Dies ist ein anderes Wort für Sünden oder Vergehen",
+      "explanation": "Gott entfernt unsere Sünden vollständig von uns.",
+      "full_verse": "So fern der Morgen ist vom Abend, lässt er unsre Übertretungen von uns sein.",
+      "verse_ref": "Psalm 103:12"
+    },
+    {
+      "id": "q_psalms_041",
+      "question": "Fülle die Lücke aus: 'Danket dem HERRN, denn er ist freundlich, und seine Güte währet _____.'",
+      "correct": "ewiglich",
+      "wrong": ["immer", "allezeit", "für immer"],
+      "hint": "Dies bedeutet für alle Zeit ohne Ende",
+      "explanation": "Gottes Liebe ist ewig und unveränderlich.",
+      "full_verse": "Danket dem HERRN, denn er ist freundlich, und seine Güte währet ewiglich.",
+      "verse_ref": "Psalm 107:1"
+    },
+    {
+      "id": "q_psalms_042",
+      "question": "Fülle die Lücke aus: 'Ich behalte dein Wort in meinem Herzen, damit ich nicht wider dich _____.'",
+      "correct": "sündige",
+      "wrong": ["handle", "verstoße", "fehle"],
+      "hint": "Dies ist Unrecht gegen Gott",
+      "explanation": "Das Auswendiglernen der Schrift hilft uns, Versuchungen zu widerstehen.",
+      "full_verse": "Ich behalte dein Wort in meinem Herzen, damit ich nicht wider dich sündige.",
+      "verse_ref": "Psalm 119:11"
+    },
+    {
+      "id": "q_psalms_043",
+      "question": "Fülle die Lücke aus: 'Siehe, Kinder sind eine Gabe des HERRN, und Leibesfrucht ist ein _____.'",
+      "correct": "Geschenk",
+      "wrong": ["Segen", "Lohn", "Erbe"],
+      "hint": "Dies ist etwas, das gegeben wird",
+      "explanation": "Kinder sind ein kostbares Geschenk und Segen von Gott.",
+      "full_verse": "Siehe, Kinder sind eine Gabe des HERRN, und Leibesfrucht ist ein Geschenk.",
+      "verse_ref": "Psalm 127:3"
+    },
+    {
+      "id": "q_psalms_044",
+      "question": "Fülle die Lücke aus: 'Siehe, wie fein und lieblich ist's, wenn Brüder _____ beieinander wohnen!'",
+      "correct": "einträchtig",
+      "wrong": ["friedlich", "harmonisch", "gemeinsam"],
+      "hint": "Dies bedeutet Einheit oder Zusammengehörigkeit",
+      "explanation": "Einheit unter Gläubigen gefällt Gott.",
+      "full_verse": "Siehe, wie fein und lieblich ist's, wenn Brüder einträchtig beieinander wohnen!",
+      "verse_ref": "Psalm 133:1"
+    },
+    {
+      "id": "q_psalms_045",
+      "question": "Fülle die Lücke aus: 'Erforsche mich, Gott, und erkenne mein Herz; prüfe mich und erkenne, wie ich's meine. Und sieh, ob ich auf bösem Wege bin, und leite mich auf _____ Wege.'",
+      "correct": "ewigem",
+      "wrong": ["rechtem", "gutem", "heiligem"],
+      "hint": "Dies bedeutet für immer dauernd",
+      "explanation": "Wir laden Gott ein, uns zu prüfen und uns zum ewigen Leben zu führen.",
+      "full_verse": "Erforsche mich, Gott, und erkenne mein Herz; prüfe mich und erkenne, wie ich's meine. Und sieh, ob ich auf bösem Wege bin, und leite mich auf ewigem Wege.",
+      "verse_ref": "Psalm 139:23-24"
+    },
+    {
+      "id": "q_psalms_046",
+      "question": "Fülle die Lücke aus: 'Lass mich am Morgen hören deine Gnade; denn ich hoffe auf dich. Tu mir kund den Weg, den ich gehen soll; denn mich _____ nach dir.'",
+      "correct": "verlangt",
+      "wrong": ["sehnt", "dürstet", "hungert"],
+      "hint": "Dies bedeutet, stark nach etwas zu streben",
+      "explanation": "Wir suchen Gottes Führung und Liebe jeden Morgen.",
+      "full_verse": "Lass mich am Morgen hören deine Gnade; denn ich hoffe auf dich. Tu mir kund den Weg, den ich gehen soll; denn mich verlangt nach dir.",
+      "verse_ref": "Psalm 143:8"
+    },
+    {
+      "id": "q_psalms_047",
+      "question": "Fülle die Lücke aus: 'Er heilt, die zerbrochenen Herzens sind, und verbindet ihre _____.'",
+      "correct": "Wunden",
+      "wrong": ["Herzen", "Schmerzen", "Leiden"],
+      "hint": "Diese sind Verletzungen, die Heilung brauchen",
+      "explanation": "Gott bringt Heilung für die, die emotional verwundet sind.",
+      "full_verse": "Er heilt, die zerbrochenen Herzens sind, und verbindet ihre Wunden.",
+      "verse_ref": "Psalm 147:3"
+    },
+    {
+      "id": "q_psalms_048",
+      "question": "Fülle die Lücke aus: 'Er weidet mich auf einer grünen Aue und führet mich zum frischen Wasser. Er erquicket meine _____.'",
+      "correct": "Seele",
+      "wrong": ["Geist", "Kraft", "Herz"],
+      "hint": "Dies ist der spirituelle Teil einer Person",
+      "explanation": "Gott sorgt für Ruhe und Erneuerung für unser Innerstes.",
+      "full_verse": "Er weidet mich auf einer grünen Aue und führet mich zum frischen Wasser. Er erquicket meine Seele.",
+      "verse_ref": "Psalm 23:2-3"
+    },
+    {
+      "id": "q_psalms_049",
+      "question": "Fülle die Lücke aus: 'Denn sein Zorn währet einen Augenblick und lebenslang seine Gnade. Den Abend lang währet das Weinen, aber des _____ ist Freude.'",
+      "correct": "Morgens",
+      "wrong": ["Tages", "Lichts", "Lebens"],
+      "hint": "Dies ist, wenn ein neuer Tag beginnt",
+      "explanation": "Gottes Gunst überdauert seine Zucht bei weitem, und Freude folgt auf Trauer.",
+      "full_verse": "Denn sein Zorn währet einen Augenblick und lebenslang seine Gnade. Den Abend lang währet das Weinen, aber des Morgens ist Freude.",
+      "verse_ref": "Psalm 30:6"
+    },
+    {
+      "id": "q_psalms_050",
+      "question": "Fülle die Lücke aus: 'Denn der HERR ist freundlich, und seine Gnade währet ewig und seine Treue für und _____.'",
+      "correct": "für",
+      "wrong": ["ewig", "immer", "allezeit"],
+      "hint": "Dieses Wort wird wiederholt für Betonung",
+      "explanation": "Gottes Treue erstreckt sich auf jede Generation.",
+      "full_verse": "Denn der HERR ist freundlich, und seine Gnade währet ewig und seine Treue für und für.",
+      "verse_ref": "Psalm 100:5"
+    }
+  ]
+}

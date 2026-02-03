@@ -1,1 +1,452 @@
-{}
+{
+  "q_faith_001": {
+    "question": "Ergänze die Lücke: 'Es ist aber der Glaube eine feste Zuversicht dessen, was man hofft, und ein Nichtzweifeln an dem, was man nicht _____.'",
+    "correct": "sieht",
+    "wrong": ["weiß", "hat", "versteht"],
+    "hint": "Glaube bezieht sich auf das Unsichtbare",
+    "explanation": "Der Verfasser des Hebräerbriefs definiert Glauben als Gewissheit über Dinge, die wir nicht physisch sehen können.",
+    "full_verse": "Es ist aber der Glaube eine feste Zuversicht dessen, was man hofft, und ein Nichtzweifeln an dem, was man nicht sieht.",
+    "verse_ref": "Hebräer 11:1"
+  },
+  "q_faith_002": {
+    "question": "Ergänze die Lücke: 'So kommt der Glaube aus der Predigt, das Predigen aber durch das Wort _____.'",
+    "correct": "Christi",
+    "wrong": ["Gottes", "des Heils", "der Wahrheit"],
+    "hint": "Glaube kommt durch das Hören über diese Person",
+    "explanation": "Paulus lehrt, dass der Glaube durch das Hören der Botschaft über Christus entsteht.",
+    "full_verse": "So kommt der Glaube aus der Predigt, das Predigen aber durch das Wort Christi.",
+    "verse_ref": "Römer 10:17"
+  },
+  "q_faith_003": {
+    "question": "Ergänze die Lücke: 'Denn aus Gnade seid ihr gerettet durch Glauben, und das nicht aus euch: Gottes _____ ist es.'",
+    "correct": "Gabe",
+    "wrong": ["Werk", "Plan", "Wille"],
+    "hint": "Erlösung wird frei gegeben",
+    "explanation": "Paulus betont, dass die Rettung durch Glauben ein Geschenk Gottes ist, nichts, das wir verdienen.",
+    "full_verse": "Denn aus Gnade seid ihr gerettet durch Glauben, und das nicht aus euch: Gottes Gabe ist es.",
+    "verse_ref": "Epheser 2:8"
+  },
+  "q_faith_004": {
+    "question": "Ergänze die Lücke: 'So ist auch der Glaube, wenn er nicht Werke hat, _____ in sich selber.'",
+    "correct": "tot",
+    "wrong": ["schwach", "leer", "nutzlos"],
+    "hint": "Glaube ohne Werke hat kein Leben",
+    "explanation": "Jakobus lehrt, dass echter Glaube natürlich gute Werke als Beweis hervorbringt.",
+    "full_verse": "So ist auch der Glaube, wenn er nicht Werke hat, tot in sich selber.",
+    "verse_ref": "Jakobus 2:17"
+  },
+  "q_faith_005": {
+    "question": "Ergänze die Lücke: 'Jesus antwortete und sprach zu ihnen: Habt Glauben an _____!'",
+    "correct": "Gott",
+    "wrong": ["mich", "euch", "das Gebet"],
+    "hint": "Jesus richtet den Glauben auf den Vater",
+    "explanation": "Jesus weist seine Jünger an, ihr Vertrauen vollständig auf Gott zu setzen.",
+    "full_verse": "Jesus antwortete und sprach zu ihnen: Habt Glauben an Gott!",
+    "verse_ref": "Markus 11:22"
+  },
+  "q_faith_006": {
+    "question": "Ergänze die Lücke: 'Denn wahrlich, ich sage euch: Wenn ihr Glauben habt wie ein _____korn, so könnt ihr sagen zu diesem Berge: Heb dich dorthin!, so wird er sich heben.'",
+    "correct": "Senf",
+    "wrong": ["Weizen", "Korn", "Samen"],
+    "hint": "Dies ist das kleinste der Samenkörner",
+    "explanation": "Jesus lehrt, dass selbst eine kleine Menge echten Glaubens Großes vollbringen kann.",
+    "full_verse": "Denn wahrlich, ich sage euch: Wenn ihr Glauben habt wie ein Senfkorn, so könnt ihr sagen zu diesem Berge: Heb dich dorthin!, so wird er sich heben; und euch wird nichts unmöglich sein.",
+    "verse_ref": "Matthäus 17:20"
+  },
+  "q_faith_007": {
+    "question": "Ergänze die Lücke: 'Denn wir wandeln im Glauben und nicht im _____.'",
+    "correct": "Schauen",
+    "wrong": ["Werk", "Gesetz", "Gefühl"],
+    "hint": "Das Gegenteil von Sehen",
+    "explanation": "Paulus stellt Glauben dem physischen Sehen gegenüber und betont, dass Gläubige auf das Unsichtbare vertrauen.",
+    "full_verse": "Denn wir wandeln im Glauben und nicht im Schauen.",
+    "verse_ref": "2. Korinther 5:7"
+  },
+  "q_faith_008": {
+    "question": "Ergänze die Lücke: 'Ich lebe, doch nun nicht ich, sondern Christus lebt in _____.'",
+    "correct": "mir",
+    "wrong": ["uns", "ihnen", "allen"],
+    "hint": "Paulus spricht von seiner persönlichen Erfahrung",
+    "explanation": "Paulus beschreibt die Verwandlung des Lebens durch den Glauben an Christus, der nun in ihm lebt.",
+    "full_verse": "Ich lebe, doch nun nicht ich, sondern Christus lebt in mir. Denn was ich jetzt lebe im Fleisch, das lebe ich im Glauben an den Sohn Gottes, der mich geliebt hat und sich selbst für mich dahingegeben.",
+    "verse_ref": "Galater 2:20"
+  },
+  "q_faith_009": {
+    "question": "Ergänze die Lücke: 'Aber ohne Glauben ist's unmöglich, Gott zu _____.'",
+    "correct": "gefallen",
+    "wrong": ["kennen", "lieben", "dienen"],
+    "hint": "Glaube ist erforderlich, um Gott zufriedenzustellen",
+    "explanation": "Der Verfasser des Hebräerbriefs erklärt, dass Glaube absolut notwendig ist, um Gott zu gefallen.",
+    "full_verse": "Aber ohne Glauben ist's unmöglich, Gott zu gefallen; denn wer zu Gott kommen will, der muss glauben, dass er ist und dass er denen, die ihn suchen, ihren Lohn gibt.",
+    "verse_ref": "Hebräer 11:6"
+  },
+  "q_faith_010": {
+    "question": "Ergänze die Lücke: 'Denn darin wird offenbart die Gerechtigkeit, die vor Gott gilt, welche kommt aus Glauben in Glauben; wie geschrieben steht: Der Gerechte wird aus _____ leben.'",
+    "correct": "Glauben",
+    "wrong": ["Gnade", "Liebe", "dem Gesetz"],
+    "hint": "Der Gerechte lebt durch dies",
+    "explanation": "Paulus zitiert Habakuk, um zu zeigen, dass Gerechtigkeit immer durch Glauben kam.",
+    "full_verse": "Denn darin wird offenbart die Gerechtigkeit, die vor Gott gilt, welche kommt aus Glauben in Glauben; wie geschrieben steht: Der Gerechte wird aus Glauben leben.",
+    "verse_ref": "Römer 1:17"
+  },
+  "q_faith_011": {
+    "question": "Ergänze die Lücke: 'Er bitte aber im Glauben und _____ nicht; denn wer zweifelt, der gleicht einer Meereswoge.'",
+    "correct": "zweifle",
+    "wrong": ["fürchte", "sorge", "zögere"],
+    "hint": "Das Gegenteil von Glauben",
+    "explanation": "Jakobus lehrt, dass Gebet im Glauben ohne Wanken dargebracht werden muss.",
+    "full_verse": "Er bitte aber im Glauben und zweifle nicht; denn wer zweifelt, der gleicht einer Meereswoge, die vom Winde getrieben und geweht wird.",
+    "verse_ref": "Jakobus 1:6"
+  },
+  "q_faith_012": {
+    "question": "Ergänze die Lücke: 'Auf dass euer Glaube bewährt und viel kostbarer befunden werde als vergängliches _____, das durchs Feuer geläutert wird.'",
+    "correct": "Gold",
+    "wrong": ["Silber", "Juwelen", "Schatz"],
+    "hint": "Ein kostbares Metall",
+    "explanation": "Petrus vergleicht geprüften Glauben mit geläutertem Gold und zeigt den überlegenen Wert des Glaubens.",
+    "full_verse": "Auf dass euer Glaube bewährt und viel kostbarer befunden werde als vergängliches Gold, das durchs Feuer geläutert wird, zu Lob, Preis und Ehre, wenn offenbart wird Jesus Christus.",
+    "verse_ref": "1. Petrus 1:7"
+  },
+  "q_faith_013": {
+    "question": "Ergänze die Lücke: 'Mein Gerechter aber wird aus Glauben leben. Wenn er aber _____, hat meine Seele kein Gefallen an ihm.'",
+    "correct": "zurückweicht",
+    "wrong": ["weggeht", "niedersinkt", "abweicht"],
+    "hint": "Sich zurückziehen oder weichen",
+    "explanation": "Der Verfasser zitiert Habakuk und warnt davor, sich vom Glauben abzuwenden.",
+    "full_verse": "Mein Gerechter aber wird aus Glauben leben. Wenn er aber zurückweicht, hat meine Seele kein Gefallen an ihm.",
+    "verse_ref": "Hebräer 10:38"
+  },
+  "q_faith_014": {
+    "question": "Ergänze die Lücke: 'Er zweifelte nicht an der Verheißung Gottes durch Unglauben, sondern wurde stark im Glauben und gab Gott die _____.'",
+    "correct": "Ehre",
+    "wrong": ["Dank", "Lob", "Anbetung"],
+    "hint": "Abrahams Glaube ehrte Gott",
+    "explanation": "Paulus beschreibt Abrahams unwankenden Glauben an Gottes Verheißung trotz unmöglicher Umstände.",
+    "full_verse": "Er zweifelte nicht an der Verheißung Gottes durch Unglauben, sondern wurde stark im Glauben und gab Gott die Ehre.",
+    "verse_ref": "Römer 4:20"
+  },
+  "q_faith_015": {
+    "question": "Ergänze die Lücke: 'Jesus aber sprach zu ihm: Du sagst: Wenn du kannst! Alle Dinge sind _____ dem, der da glaubt.'",
+    "correct": "möglich",
+    "wrong": ["gegeben", "getan", "erreicht"],
+    "hint": "Nichts ist für den Glauben unerreichbar",
+    "explanation": "Jesus fordert den Zweifel eines Vaters heraus, indem er erklärt, dass alle Dinge durch Glauben möglich sind.",
+    "full_verse": "Jesus aber sprach zu ihm: Du sagst: Wenn du kannst! Alle Dinge sind möglich dem, der da glaubt.",
+    "verse_ref": "Markus 9:23"
+  },
+  "q_faith_016": {
+    "question": "Ergänze die Lücke: 'Jesus aber antwortete und sprach zu ihnen: Wahrlich, ich sage euch: Wenn ihr Glauben habt und nicht zweifelt, könnt ihr zu diesem Berge sagen: Heb dich und wirf dich ins _____!'",
+    "correct": "Meer",
+    "wrong": ["Tal", "Feuer", "Abgrund"],
+    "hint": "Ein großes Gewässer",
+    "explanation": "Jesus verwendet eine Übertreibung, um die unglaubliche Kraft des unwankenden Glaubens zu veranschaulichen.",
+    "full_verse": "Jesus aber antwortete und sprach zu ihnen: Wahrlich, ich sage euch: Wenn ihr Glauben habt und nicht zweifelt, so werdet ihr nicht allein Solches mit dem Feigenbaum tun, sondern, wenn ihr zu diesem Berge sagt: Heb dich und wirf dich ins Meer!, so wird's geschehen.",
+    "verse_ref": "Matthäus 21:21"
+  },
+  "q_faith_017": {
+    "question": "Ergänze die Lücke: 'Denn alles, was aus Gott geboren ist, überwindet die Welt; und unser Glaube ist der _____, der die Welt überwunden hat.'",
+    "correct": "Sieg",
+    "wrong": ["Weg", "Kraft", "Schlüssel"],
+    "hint": "Dies besiegt die Welt",
+    "explanation": "Johannes erklärt, dass der Glaube an Christus es Gläubigen ermöglicht, die Welt zu überwinden.",
+    "full_verse": "Denn alles, was aus Gott geboren ist, überwindet die Welt; und unser Glaube ist der Sieg, der die Welt überwunden hat.",
+    "verse_ref": "1. Johannes 5:4"
+  },
+  "q_faith_018": {
+    "question": "Ergänze die Lücke: 'Nun ist aber offenbar, dass durchs Gesetz niemand gerecht wird vor Gott; denn der Gerechte wird aus _____ leben.'",
+    "correct": "Glauben",
+    "wrong": ["Gnade", "Werken", "Liebe"],
+    "hint": "Gerechtigkeit kommt dadurch",
+    "explanation": "Paulus argumentiert, dass Rechtfertigung durch Glauben kommt, nicht durch das Halten des Gesetzes.",
+    "full_verse": "Nun ist aber offenbar, dass durchs Gesetz niemand gerecht wird vor Gott; denn der Gerechte wird aus Glauben leben.",
+    "verse_ref": "Galater 3:11"
+  },
+  "q_faith_019": {
+    "question": "Ergänze die Lücke: 'Durch den Glauben erkennen wir, dass die Welt durch Gottes Wort geschaffen ist, dass alles, was man sieht, aus nichts _____ ist.'",
+    "correct": "geworden",
+    "wrong": ["erschaffen", "gemacht", "entstanden"],
+    "hint": "Die Schöpfung aus dem Nichts",
+    "explanation": "Der Glaube hilft uns zu verstehen, dass Gott alles aus dem Nichts erschuf.",
+    "full_verse": "Durch den Glauben erkennen wir, dass die Welt durch Gottes Wort geschaffen ist, dass alles, was man sieht, aus nichts geworden ist.",
+    "verse_ref": "Hebräer 11:3"
+  },
+  "q_faith_020": {
+    "question": "Ergänze die Lücke: 'Da wir nun gerecht geworden sind durch den Glauben, haben wir _____ mit Gott durch unsern Herrn Jesus Christus.'",
+    "correct": "Frieden",
+    "wrong": ["Leben", "Hoffnung", "Freude"],
+    "hint": "Glaube bringt Versöhnung mit Gott",
+    "explanation": "Paulus erklärt, dass Rechtfertigung durch Glauben zu Frieden mit Gott führt.",
+    "full_verse": "Da wir nun gerecht geworden sind durch den Glauben, haben wir Frieden mit Gott durch unsern Herrn Jesus Christus.",
+    "verse_ref": "Römer 5:1"
+  },
+  "q_faith_021": {
+    "question": "Ergänze die Lücke: 'Denn wie der Leib ohne Geist tot ist, so ist auch der Glaube ohne Werke _____.'",
+    "correct": "tot",
+    "wrong": ["schwach", "leer", "falsch"],
+    "hint": "Glaube ohne Werke hat kein Leben",
+    "explanation": "Jakobus vergleicht Glauben ohne Werke mit einem Körper ohne Geist—leblos.",
+    "full_verse": "Denn wie der Leib ohne Geist tot ist, so ist auch der Glaube ohne Werke tot.",
+    "verse_ref": "Jakobus 2:26"
+  },
+  "q_faith_022": {
+    "question": "Ergänze die Lücke: 'Und aufsehen zu Jesus, dem Anfänger und Vollender des _____.'",
+    "correct": "Glaubens",
+    "wrong": ["Lebens", "Heils", "Weges"],
+    "hint": "Jesus vollendet dies in uns",
+    "explanation": "Jesus ist sowohl der Ursprung als auch derjenige, der den Glauben zur Vollendung bringt.",
+    "full_verse": "Und aufsehen zu Jesus, dem Anfänger und Vollender des Glaubens, der, obwohl er hätte Freude haben können, das Kreuz erduldete und die Schande gering achtete und sich gesetzt hat zur Rechten des Thrones Gottes.",
+    "verse_ref": "Hebräer 12:2"
+  },
+  "q_faith_023": {
+    "question": "Ergänze die Lücke: 'Kämpfe den guten Kampf des Glaubens; ergreife das ewige _____, wozu du berufen bist.'",
+    "correct": "Leben",
+    "wrong": ["Heil", "Erbe", "Reich"],
+    "hint": "Dies dauert ewig",
+    "explanation": "Paulus ermutigt Timotheus, für den Glauben zu kämpfen und das ewige Leben zu ergreifen.",
+    "full_verse": "Kämpfe den guten Kampf des Glaubens; ergreife das ewige Leben, wozu du berufen bist und bekannt hast das gute Bekenntnis vor vielen Zeugen.",
+    "verse_ref": "1. Timotheus 6:12"
+  },
+  "q_faith_024": {
+    "question": "Ergänze die Lücke: 'Wie ihr nun angenommen habt den Herrn Christus Jesus, so wandelt in ihm und seid verwurzelt und gegründet in ihm und fest im Glauben, wie ihr gelehrt seid, und seid reichlich _____ im Dank.'",
+    "correct": "dankbar",
+    "wrong": ["freudig", "liebevoll", "hoffnungsvoll"],
+    "hint": "Dankbarkeit soll überfließen",
+    "explanation": "Paulus drängt Gläubige, in Christus verwurzelt zu bleiben und im Glauben mit dankbaren Herzen zu wachsen.",
+    "full_verse": "Wie ihr nun angenommen habt den Herrn Christus Jesus, so wandelt in ihm und seid verwurzelt und gegründet in ihm und fest im Glauben, wie ihr gelehrt seid, und seid reichlich dankbar.",
+    "verse_ref": "Kolosser 2:6-7"
+  },
+  "q_faith_025": {
+    "question": "Ergänze die Lücke: 'Wachet, steht im Glauben, seid mutig und seid _____!'",
+    "correct": "stark",
+    "wrong": ["kühn", "tapfer", "treu"],
+    "hint": "Das Gegenteil von schwach",
+    "explanation": "Paulus gibt vier Gebote für geistliche Wachsamkeit und Stärke.",
+    "full_verse": "Wachet, steht im Glauben, seid mutig und seid stark!",
+    "verse_ref": "1. Korinther 16:13"
+  },
+  "q_faith_026": {
+    "question": "Ergänze die Lücke: 'Und in ihm gefunden werde, dass ich nicht habe meine Gerechtigkeit, die aus dem Gesetz kommt, sondern die durch den Glauben an _____ kommt.'",
+    "correct": "Christus",
+    "wrong": ["Gott", "Jesus", "den Herrn"],
+    "hint": "Paulus' Glaube ist an diese Person",
+    "explanation": "Paulus begehrt Gerechtigkeit, die durch den Glauben an Christus kommt, nicht durch das Gesetz.",
+    "full_verse": "Und in ihm gefunden werde, dass ich nicht habe meine Gerechtigkeit, die aus dem Gesetz kommt, sondern die durch den Glauben an Christus kommt, nämlich die Gerechtigkeit, die von Gott kommt durch den Glauben.",
+    "verse_ref": "Philipper 3:9"
+  },
+  "q_faith_027": {
+    "question": "Ergänze die Lücke: 'So halten wir nun dafür, dass der Mensch gerecht wird ohne des Gesetzes Werke, allein durch den _____.'",
+    "correct": "Glauben",
+    "wrong": ["Gnade", "Geist", "Herrn"],
+    "hint": "Glaube rechtfertigt ohne dies",
+    "explanation": "Paulus argumentiert, dass Rechtfertigung durch Glauben kommt, nicht durch das Halten des Gesetzes.",
+    "full_verse": "So halten wir nun dafür, dass der Mensch gerecht wird ohne des Gesetzes Werke, allein durch den Glauben.",
+    "verse_ref": "Römer 3:28"
+  },
+  "q_faith_028": {
+    "question": "Ergänze die Lücke: 'Denn in Christus Jesus gilt weder Beschneidung noch Unbeschnittensein etwas, sondern der Glaube, der durch die _____ tätig ist.'",
+    "correct": "Liebe",
+    "wrong": ["Werke", "Taten", "Kraft"],
+    "hint": "Glaube wirkt durch diese Emotion",
+    "explanation": "Paulus lehrt, dass wahrer Glaube sich durch Liebe ausdrückt, nicht durch äußere Rituale.",
+    "full_verse": "Denn in Christus Jesus gilt weder Beschneidung noch Unbeschnittensein etwas, sondern der Glaube, der durch die Liebe tätig ist.",
+    "verse_ref": "Galater 5:6"
+  },
+  "q_faith_029": {
+    "question": "Ergänze die Lücke: 'Wer aber dabei zweifelt und dennoch isst, der ist gerichtet, weil es nicht aus dem Glauben kommt. Was aber nicht aus Glauben kommt, das ist _____.'",
+    "correct": "Sünde",
+    "wrong": ["falsch", "böse", "schlecht"],
+    "hint": "Handlungen ohne Glauben sind dies",
+    "explanation": "Paulus lehrt, dass alles, was ohne die Überzeugung des Glaubens getan wird, sündhaft ist.",
+    "full_verse": "Wer aber dabei zweifelt und dennoch isst, der ist gerichtet, weil es nicht aus dem Glauben kommt. Was aber nicht aus Glauben kommt, das ist Sünde.",
+    "verse_ref": "Römer 14:23"
+  },
+  "q_faith_030": {
+    "question": "Ergänze die Lücke: 'Durch den Glauben hat Noah Gott geehrt und die _____ gebaut zur Rettung seines Hauses, als er ein göttliches Wort empfing.'",
+    "correct": "Arche",
+    "wrong": ["Altar", "Haus", "Boot"],
+    "hint": "Noah baute dieses Gefäß",
+    "explanation": "Noahs Glaube führte ihn dazu, die Arche zu bauen, obwohl er noch nie eine Flut gesehen hatte.",
+    "full_verse": "Durch den Glauben hat Noah Gott geehrt und die Arche gebaut zur Rettung seines Hauses, als er ein göttliches Wort empfing über das, was man noch nicht sah; durch den Glauben sprach er der Welt das Urteil und hat ererbt die Gerechtigkeit, die durch den Glauben kommt.",
+    "verse_ref": "Hebräer 11:7"
+  },
+  "q_faith_031": {
+    "question": "Ergänze die Lücke: 'Durch den Glauben wurde Abraham gehorsam, als er berufen wurde, in ein Land zu ziehen, das er erben sollte; und er zog aus und wusste nicht, wo er _____ würde.'",
+    "correct": "hinkommen",
+    "wrong": ["ankommen", "bleiben", "wohnen"],
+    "hint": "Abrahams Reaktion auf Gottes Ruf",
+    "explanation": "Abrahams Glaube zeigte sich durch Gehorsam, als er aufbrach, ohne sein Ziel zu kennen.",
+    "full_verse": "Durch den Glauben wurde Abraham gehorsam, als er berufen wurde, in ein Land zu ziehen, das er erben sollte; und er zog aus und wusste nicht, wo er hinkommen würde.",
+    "verse_ref": "Hebräer 11:8"
+  },
+  "q_faith_032": {
+    "question": "Ergänze die Lücke: 'Durch den Glauben empfing auch Sara, die unfruchtbar war, Kraft, Nachkommen zu bekommen, trotz ihres Alters, weil sie den für _____ hielt, der es verheißen hatte.'",
+    "correct": "treu",
+    "wrong": ["wahr", "mächtig", "allmächtig"],
+    "hint": "Sara vertraute Gottes Charakter",
+    "explanation": "Saras Glaube beruhte darauf, dass Gott seine Verheißung halten würde.",
+    "full_verse": "Durch den Glauben empfing auch Sara, die unfruchtbar war, Kraft, Nachkommen zu bekommen, trotz ihres Alters, weil sie den für treu hielt, der es verheißen hatte.",
+    "verse_ref": "Hebräer 11:11"
+  },
+  "q_faith_033": {
+    "question": "Ergänze die Lücke: 'Durch den Glauben opferte Abraham den Isaak, als er versucht wurde, und gab den einzigen _____ dahin.'",
+    "correct": "Sohn",
+    "wrong": ["Kind", "Erben", "Geliebten"],
+    "hint": "Abraham war bereit, diese Person zu opfern",
+    "explanation": "Abrahams Glaube wurde geprüft, als Gott ihn bat, Isaak zu opfern.",
+    "full_verse": "Durch den Glauben opferte Abraham den Isaak, als er versucht wurde, und gab den einzigen Sohn dahin, als er schon die Verheißungen empfangen hatte.",
+    "verse_ref": "Hebräer 11:17"
+  },
+  "q_faith_034": {
+    "question": "Ergänze die Lücke: 'Durch den Glauben weigerte sich Mose, als er groß geworden war, ein Sohn der Tochter des _____ zu heißen.'",
+    "correct": "Pharao",
+    "wrong": ["Königs", "Ägypten", "Ramses"],
+    "hint": "Der Herrscher von Ägypten",
+    "explanation": "Mose entschied sich, mit Gottes Volk identifiziert zu werden anstatt mit dem ägyptischen Königshaus.",
+    "full_verse": "Durch den Glauben weigerte sich Mose, als er groß geworden war, ein Sohn der Tochter des Pharao zu heißen, und wollte viel lieber mit dem Volk Gottes Ungemach leiden.",
+    "verse_ref": "Hebräer 11:24-25"
+  },
+  "q_faith_035": {
+    "question": "Ergänze die Lücke: 'Durch den Glauben gingen sie durchs Rote Meer wie über trockenes Land; das versuchten die Ägypter auch und _____.'",
+    "correct": "ertranken",
+    "wrong": ["starben", "kamen um", "gingen unter"],
+    "hint": "Die Ägypter kamen im Wasser um",
+    "explanation": "Israels Glaube ermöglichte es ihnen, das Rote Meer zu überqueren, während die verfolgenden Ägypter ertranken.",
+    "full_verse": "Durch den Glauben gingen sie durchs Rote Meer wie über trockenes Land; das versuchten die Ägypter auch und ertranken.",
+    "verse_ref": "Hebräer 11:29"
+  },
+  "q_faith_036": {
+    "question": "Ergänze die Lücke: 'Durch den Glauben fielen die Mauern Jerichos, als Israel _____ Tage um sie herumgezogen war.'",
+    "correct": "sieben",
+    "wrong": ["sechs", "drei", "vierzig"],
+    "hint": "Eine bedeutsame Zahl in der Schrift",
+    "explanation": "Israels Glaube und Gehorsam beim Umrunden Jerichos führten zum Fall der Mauern.",
+    "full_verse": "Durch den Glauben fielen die Mauern Jerichos, als Israel sieben Tage um sie herumgezogen war.",
+    "verse_ref": "Hebräer 11:30"
+  },
+  "q_faith_037": {
+    "question": "Ergänze die Lücke: 'Durch den Glauben wurde die Hure Rahab nicht mit den Ungehorsamen umgebracht, weil sie die _____ freundlich aufgenommen hatte.'",
+    "correct": "Kundschafter",
+    "wrong": ["Boten", "Spione", "Fremden"],
+    "hint": "Die ausgesandten Männer",
+    "explanation": "Rahabs Glaube rettete sie, als Jericho zerstört wurde.",
+    "full_verse": "Durch den Glauben kam die Hure Rahab nicht um mit den Ungehorsamen, weil sie die Kundschafter freundlich aufgenommen hatte.",
+    "verse_ref": "Hebräer 11:31"
+  },
+  "q_faith_038": {
+    "question": "Ergänze die Lücke: 'Und die Apostel sprachen zu dem Herrn: Stärke uns den _____!'",
+    "correct": "Glauben",
+    "wrong": ["Mut", "Geist", "Willen"],
+    "hint": "Die Jünger baten um mehr davon",
+    "explanation": "Die Apostel erkannten ihr Bedürfnis nach größerem Glauben und baten Jesus, ihn zu vermehren.",
+    "full_verse": "Und die Apostel sprachen zu dem Herrn: Stärke uns den Glauben! Der Herr aber sprach: Wenn ihr Glauben hättet wie ein Senfkorn, würdet ihr zu diesem Maulbeerbaum sagen: Reiß dich aus und versetze dich ins Meer!, und er würde euch gehorsam sein.",
+    "verse_ref": "Lukas 17:5-6"
+  },
+  "q_faith_039": {
+    "question": "Ergänze die Lücke: 'Als das Jesus hörte, wunderte er sich und sprach zu denen, die ihm nachfolgten: Wahrlich, ich sage euch: Solchen Glauben habe ich in _____ bei keinem gefunden!'",
+    "correct": "Israel",
+    "wrong": ["Jerusalem", "Galiläa", "Judäa"],
+    "hint": "Jesus war von dieser Qualität beeindruckt",
+    "explanation": "Jesus staunte über den außergewöhnlichen Glauben des Hauptmanns an seine Autorität.",
+    "full_verse": "Als das Jesus hörte, wunderte er sich und sprach zu denen, die ihm nachfolgten: Wahrlich, ich sage euch: Solchen Glauben habe ich in Israel bei keinem gefunden!",
+    "verse_ref": "Matthäus 8:10"
+  },
+  "q_faith_040": {
+    "question": "Ergänze die Lücke: 'Da wandte sich Jesus um und sah sie und sprach: Sei getrost, meine Tochter, dein Glaube hat dir _____.'",
+    "correct": "geholfen",
+    "wrong": ["gerettet", "geheilt", "gesegnet"],
+    "hint": "Die Frau wurde gesund gemacht",
+    "explanation": "Jesus führte die Heilung der Frau auf ihren Glauben zurück.",
+    "full_verse": "Da wandte sich Jesus um und sah sie und sprach: Sei getrost, meine Tochter, dein Glaube hat dir geholfen. Und die Frau wurde gesund zu derselben Stunde.",
+    "verse_ref": "Matthäus 9:22"
+  },
+  "q_faith_041": {
+    "question": "Ergänze die Lücke: 'Da antwortete Jesus und sprach zu ihr: Frau, dein Glaube ist groß. Dir geschehe, wie du _____!'",
+    "correct": "willst",
+    "wrong": ["bittest", "hoffst", "glaubst"],
+    "hint": "Jesus gab ihr, was sie wünschte",
+    "explanation": "Jesus lobte den großen Glauben der kanaanäischen Frau und erfüllte ihre Bitte.",
+    "full_verse": "Da antwortete Jesus und sprach zu ihr: Frau, dein Glaube ist groß. Dir geschehe, wie du willst! Und ihre Tochter wurde gesund zu derselben Stunde.",
+    "verse_ref": "Matthäus 15:28"
+  },
+  "q_faith_042": {
+    "question": "Ergänze die Lücke: 'Er aber sprach zu der Frau: Dein Glaube hat dir geholfen; geh hin in _____!'",
+    "correct": "Frieden",
+    "wrong": ["Freude", "Hoffnung", "Liebe"],
+    "hint": "Jesus entlässt sie mit diesem Segen",
+    "explanation": "Jesus versicherte der sündigen Frau, dass ihr Glaube Rettung und Frieden gebracht hatte.",
+    "full_verse": "Er aber sprach zu der Frau: Dein Glaube hat dir geholfen; geh hin in Frieden!",
+    "verse_ref": "Lukas 7:50"
+  },
+  "q_faith_043": {
+    "question": "Ergänze die Lücke: 'Er aber sprach zu ihr: Meine Tochter, dein Glaube hat dich gesund gemacht; geh hin in _____!'",
+    "correct": "Frieden",
+    "wrong": ["Freude", "Hoffnung", "Liebe"],
+    "hint": "Jesus segnet ihren Abschied",
+    "explanation": "Jesus erklärte, dass der Glaube der Frau sie geheilt hatte, und segnete sie mit Frieden.",
+    "full_verse": "Er aber sprach zu ihr: Meine Tochter, dein Glaube hat dich gesund gemacht; geh hin in Frieden!",
+    "verse_ref": "Lukas 8:48"
+  },
+  "q_faith_044": {
+    "question": "Ergänze die Lücke: 'Und durch den Glauben an seinen Namen hat sein Name diesen, den ihr seht und kennt, stark gemacht; und der Glaube, der durch ihn gewirkt ist, hat diesem die volle _____ gegeben vor euer aller Augen.'",
+    "correct": "Gesundheit",
+    "wrong": ["Heilung", "Kraft", "Stärke"],
+    "hint": "Der Lahme wurde vollständig wiederhergestellt",
+    "explanation": "Petrus erklärt, dass der Glaube an Jesu Namen den Lahmen am Tempeltor heilte.",
+    "full_verse": "Und durch den Glauben an seinen Namen hat sein Name diesen, den ihr seht und kennt, stark gemacht; und der Glaube, der durch ihn gewirkt ist, hat diesem die volle Gesundheit gegeben vor euer aller Augen.",
+    "verse_ref": "Apostelgeschichte 3:16"
+  },
+  "q_faith_045": {
+    "question": "Ergänze die Lücke: 'Was sagt denn die Schrift? Abraham hat Gott geglaubt und das ist ihm zur _____ gerechnet worden.'",
+    "correct": "Gerechtigkeit",
+    "wrong": ["Ehre", "Heiligkeit", "Treue"],
+    "hint": "Abrahams Glaube wurde ihm als dies angerechnet",
+    "explanation": "Paulus zitiert Genesis, um zu zeigen, dass Abraham durch Glauben gerecht wurde, nicht durch Werke.",
+    "full_verse": "Was sagt denn die Schrift? Abraham hat Gott geglaubt und das ist ihm zur Gerechtigkeit gerechnet worden.",
+    "verse_ref": "Römer 4:3"
+  },
+  "q_faith_046": {
+    "question": "Ergänze die Lücke: 'Denn wenn du mit deinem Munde bekennst, dass Jesus der Herr ist, und glaubst in deinem Herzen, dass ihn Gott von den Toten auferweckt hat, so wirst du _____.'",
+    "correct": "gerettet",
+    "wrong": ["gesegnet", "vergeben", "geheilt"],
+    "hint": "Bekenntnis und Glaube führen dazu",
+    "explanation": "Paulus nennt die einfache Voraussetzung für die Rettung: Jesus als Herrn bekennen und an seine Auferstehung glauben.",
+    "full_verse": "Denn wenn du mit deinem Munde bekennst, dass Jesus der Herr ist, und glaubst in deinem Herzen, dass ihn Gott von den Toten auferweckt hat, so wirst du gerettet.",
+    "verse_ref": "Römer 10:9"
+  },
+  "q_faith_047": {
+    "question": "Ergänze die Lücke: 'Vor allen Dingen aber ergreift den Schild des Glaubens, mit dem ihr auslöschen könnt alle feurigen _____ des Bösen.'",
+    "correct": "Pfeile",
+    "wrong": ["Angriffe", "Waffen", "Geschosse"],
+    "hint": "Satans Waffen sind wie diese Projektile",
+    "explanation": "Paulus beschreibt den Glauben als Schild, der gegen Satans Angriffe schützt.",
+    "full_verse": "Vor allen Dingen aber ergreift den Schild des Glaubens, mit dem ihr auslöschen könnt alle feurigen Pfeile des Bösen.",
+    "verse_ref": "Epheser 6:16"
+  },
+  "q_faith_048": {
+    "question": "Ergänze die Lücke: 'Wir aber, die wir Kinder des Tages sind, wollen nüchtern sein, angetan mit dem Panzer des Glaubens und der Liebe und mit dem _____ der Hoffnung auf das Heil.'",
+    "correct": "Helm",
+    "wrong": ["Schild", "Krone", "Rüstung"],
+    "hint": "Rüstung, die den Kopf schützt",
+    "explanation": "Paulus verwendet das Bild einer Rüstung, um den geistlichen Schutz durch Glauben, Liebe und Hoffnung zu beschreiben.",
+    "full_verse": "Wir aber, die wir Kinder des Tages sind, wollen nüchtern sein, angetan mit dem Panzer des Glaubens und der Liebe und mit dem Helm der Hoffnung auf das Heil.",
+    "verse_ref": "1. Thessalonicher 5:8"
+  },
+  "q_faith_049": {
+    "question": "Ergänze die Lücke: 'Ich habe den guten Kampf gekämpft, ich habe den Lauf vollendet, ich habe _____ gehalten.'",
+    "correct": "Glauben",
+    "wrong": ["Hoffnung", "Treue", "Wort"],
+    "hint": "Paulus bewahrte dies sein ganzes Leben lang",
+    "explanation": "Paulus blickt auf sein Leben zurück und erklärt, dass er bis zum Ende treu geblieben ist.",
+    "full_verse": "Ich habe den guten Kampf gekämpft, ich habe den Lauf vollendet, ich habe Glauben gehalten.",
+    "verse_ref": "2. Timotheus 4:7"
+  },
+  "q_faith_050": {
+    "question": "Ergänze die Lücke: 'Und ihr werdet das Ziel eures Glaubens erlangen, nämlich der Seelen _____.'",
+    "correct": "Seligkeit",
+    "wrong": ["Rettung", "Heil", "Leben"],
+    "hint": "Der Glaube führt zur Rettung dieses Teils von uns",
+    "explanation": "Petrus ermutigt Gläubige, dass das letztendliche Ziel des Glaubens die Rettung ihrer Seelen ist.",
+    "full_verse": "Und ihr werdet das Ziel eures Glaubens erlangen, nämlich der Seelen Seligkeit.",
+    "verse_ref": "1. Petrus 1:9"
+  }
+}

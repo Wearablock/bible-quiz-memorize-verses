@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_proverbs_001",
+      "question": "Điền vào chỗ trống: 'Hãy hết lòng tin cậy Đức Giê-hô-va, chớ nương cậy nơi sự _____ của con; phàm trong các việc làm của con, khá nhận biết Ngài, thì Ngài sẽ chỉ dẫn các nẻo của con.'",
+      "correct": "thông sáng",
+      "wrong": ["khôn ngoan", "hiểu biết", "sức mạnh"],
+      "hint": "Từ này liên quan đến trí tuệ và lý luận của con người",
+      "explanation": "Chúng ta được kêu gọi hoàn toàn tin cậy Đức Chúa Trời thay vì dựa vào sự hiểu biết hạn chế của con người.",
+      "full_verse": "Hãy hết lòng tin cậy Đức Giê-hô-va, chớ nương cậy nơi sự thông sáng của con; phàm trong các việc làm của con, khá nhận biết Ngài, thì Ngài sẽ chỉ dẫn các nẻo của con.",
+      "verse_ref": "Châm Ngôn 3:5-6"
+    },
+    {
+      "id": "q_proverbs_002",
+      "question": "Điền vào chỗ trống: 'Sự kính sợ Đức Giê-hô-va là khởi đầu sự _____; còn kẻ ngu muội khinh bỉ sự khôn ngoan và lời khuyên dạy.'",
+      "correct": "tri thức",
+      "wrong": ["khôn ngoan", "thông sáng", "đức tin"],
+      "hint": "Đây là điều kẻ ngu muội khinh bỉ cùng với lời khuyên dạy",
+      "explanation": "Sự kính sợ Đức Chúa Trời là nền tảng của mọi tri thức thật.",
+      "full_verse": "Sự kính sợ Đức Giê-hô-va là khởi đầu sự tri thức; còn kẻ ngu muội khinh bỉ sự khôn ngoan và lời khuyên dạy.",
+      "verse_ref": "Châm Ngôn 1:7"
+    },
+    {
+      "id": "q_proverbs_003",
+      "question": "Điền vào chỗ trống: 'Hãy dạy cho _____ con đường nó phải theo; dầu khi nó trở về già, cũng không hề lìa khỏi đó.'",
+      "correct": "trẻ thơ",
+      "wrong": ["thanh niên", "môn đồ", "tín đồ"],
+      "hint": "Đây là những người nhỏ tuổi được nuôi dạy",
+      "explanation": "Sự dạy dỗ thuộc linh từ sớm có ảnh hưởng lâu dài suốt đời người.",
+      "full_verse": "Hãy dạy cho trẻ thơ con đường nó phải theo; dầu khi nó trở về già, cũng không hề lìa khỏi đó.",
+      "verse_ref": "Châm Ngôn 22:6"
+    },
+    {
+      "id": "q_proverbs_004",
+      "question": "Điền vào chỗ trống: 'Hãy phó thác công việc mình cho Đức Giê-hô-va, thì những _____ mình sẽ được thành.'",
+      "correct": "mưu định",
+      "wrong": ["đường lối", "bước chân", "việc làm"],
+      "hint": "Từ này chỉ những ý định cho tương lai",
+      "explanation": "Khi chúng ta dâng công việc cho Đức Chúa Trời, Ngài hướng dẫn và thiết lập những ý định của chúng ta.",
+      "full_verse": "Hãy phó thác công việc mình cho Đức Giê-hô-va, thì những mưu định mình sẽ được thành.",
+      "verse_ref": "Châm Ngôn 16:3"
+    },
+    {
+      "id": "q_proverbs_005",
+      "question": "Điền vào chỗ trống: 'Sự nhân từ và _____ chớ để lìa xa con; hãy đeo nó nơi cổ con, ghi nó trên bảng lòng con.'",
+      "correct": "chân thật",
+      "wrong": ["lẽ thật", "thương xót", "tử tế"],
+      "hint": "Đức tính này liên quan đến sự trung thành và đáng tin cậy",
+      "explanation": "Sự nhân từ và chân thật nên là bạn đồng hành không đổi, định hình tính cách của chúng ta.",
+      "full_verse": "Sự nhân từ và chân thật chớ để lìa xa con; hãy đeo nó nơi cổ con, ghi nó trên bảng lòng con.",
+      "verse_ref": "Châm Ngôn 3:3"
+    },
+    {
+      "id": "q_proverbs_006",
+      "question": "Điền vào chỗ trống: 'Khá cẩn thận giữ tấm _____ của con hơn hết, vì các nguồn sự sống do nơi nó mà ra.'",
+      "correct": "lòng",
+      "wrong": ["trí", "linh hồn", "miệng"],
+      "hint": "Đây là trung tâm của bản thể và cảm xúc của bạn",
+      "explanation": "Tấm lòng là nguồn sống, ảnh hưởng đến mọi suy nghĩ, lời nói và hành động của chúng ta.",
+      "full_verse": "Khá cẩn thận giữ tấm lòng của con hơn hết, vì các nguồn sự sống do nơi nó mà ra.",
+      "verse_ref": "Châm Ngôn 4:23"
+    },
+    {
+      "id": "q_proverbs_007",
+      "question": "Điền vào chỗ trống: 'Danh Đức Giê-hô-va là một _____ kiên cố; người công bình chạy đến đó, được yên ổn.'",
+      "correct": "ngọn tháp",
+      "wrong": ["thành", "đồn lũy", "nơi ẩn náu"],
+      "hint": "Đây là một công trình cao dùng để phòng thủ",
+      "explanation": "Danh Đức Chúa Trời đại diện cho tính cách và quyền năng của Ngài, bảo vệ những ai tin cậy Ngài.",
+      "full_verse": "Danh Đức Giê-hô-va là một ngọn tháp kiên cố; người công bình chạy đến đó, được yên ổn.",
+      "verse_ref": "Châm Ngôn 18:10"
+    },
+    {
+      "id": "q_proverbs_008",
+      "question": "Điền vào chỗ trống: 'Sắt mài nhọn sắt, cũng vậy người bổ dưỡng _____ mình.'",
+      "correct": "bạn hữu",
+      "wrong": ["chính mình", "những người khác", "bạn bè"],
+      "hint": "Từ này chỉ một cá nhân khác",
+      "explanation": "Các mối quan hệ lành mạnh giúp chúng ta phát triển và cải thiện qua sự khích lệ và thử thách lẫn nhau.",
+      "full_verse": "Sắt mài nhọn sắt, cũng vậy người bổ dưỡng bạn hữu mình.",
+      "verse_ref": "Châm Ngôn 27:17"
+    },
+    {
+      "id": "q_proverbs_009",
+      "question": "Điền vào chỗ trống: 'Duyên là giả dối, sắc lại hư không; nhưng người nữ nào kính sợ Đức Giê-hô-va sẽ được _____.'",
+      "correct": "khen ngợi",
+      "wrong": ["tôn kính", "phước", "yêu thương"],
+      "hint": "Điều này có nghĩa là được ca ngợi hoặc tôn vinh",
+      "explanation": "Giá trị thật được tìm thấy trong sự kính sợ Đức Chúa Trời, không phải vẻ bề ngoài.",
+      "full_verse": "Duyên là giả dối, sắc lại hư không; nhưng người nữ nào kính sợ Đức Giê-hô-va sẽ được khen ngợi.",
+      "verse_ref": "Châm Ngôn 31:30"
+    },
+    {
+      "id": "q_proverbs_010",
+      "question": "Điền vào chỗ trống: 'Lòng rộng rãi sẽ được _____; ai nhuần gội, chính mình cũng sẽ được nhuần gội.'",
+      "correct": "no nê",
+      "wrong": ["thịnh vượng", "thành công", "phát đạt"],
+      "hint": "Điều này có nghĩa là làm tốt hoặc thành công",
+      "explanation": "Sự rộng rãi mang lại phước lành cho người ban tặng.",
+      "full_verse": "Lòng rộng rãi sẽ được no nê; ai nhuần gội, chính mình cũng sẽ được nhuần gội.",
+      "verse_ref": "Châm Ngôn 11:25"
+    },
+    {
+      "id": "q_proverbs_011",
+      "question": "Điền vào chỗ trống: 'Hãy lấy tài vật và _____ mùa màng của con mà tôn vinh Đức Giê-hô-va.'",
+      "correct": "hoa lợi đầu mùa",
+      "wrong": ["phần tốt nhất", "một phần mười", "thu hoạch"],
+      "hint": "Đây là phần đầu tiên của mùa thu hoạch",
+      "explanation": "Dâng cho Đức Chúa Trời phần đầu tiên và tốt nhất của thu nhập thể hiện sự tin cậy và biết ơn.",
+      "full_verse": "Hãy lấy tài vật và hoa lợi đầu mùa mùa màng của con mà tôn vinh Đức Giê-hô-va.",
+      "verse_ref": "Châm Ngôn 3:9"
+    },
+    {
+      "id": "q_proverbs_012",
+      "question": "Điền vào chỗ trống: 'Sự ghen ghét sanh ra điều tranh cạnh; nhưng lòng thương yêu lấp hết các _____.'",
+      "correct": "tội lỗi",
+      "wrong": ["lầm lỗi", "lỗi lầm", "xúc phạm"],
+      "hint": "Đây là những lỗi lầm hoặc xúc phạm",
+      "explanation": "Tình yêu chọn tha thứ thay vì nuôi hận thù.",
+      "full_verse": "Sự ghen ghét sanh ra điều tranh cạnh; nhưng lòng thương yêu lấp hết các tội lỗi.",
+      "verse_ref": "Châm Ngôn 10:12"
+    },
+    {
+      "id": "q_proverbs_013",
+      "question": "Điền vào chỗ trống: 'Sự kiêu ngạo đến, sự _____ cũng đến; nhưng sự khôn ngoan vẫn ở với người khiêm nhường.'",
+      "correct": "sỉ nhục",
+      "wrong": ["xấu hổ", "sụp đổ", "hủy diệt"],
+      "hint": "Đây là điều ngược lại với vinh dự",
+      "explanation": "Kiêu ngạo dẫn đến xấu hổ, trong khi khiêm nhường dẫn đến khôn ngoan.",
+      "full_verse": "Sự kiêu ngạo đến, sự sỉ nhục cũng đến; nhưng sự khôn ngoan vẫn ở với người khiêm nhường.",
+      "verse_ref": "Châm Ngôn 11:2"
+    },
+    {
+      "id": "q_proverbs_014",
+      "question": "Điền vào chỗ trống: 'Sự buồn rầu ở nơi lòng người làm cho nao sờn; nhưng một lời lành khiến lòng vui _____.'",
+      "correct": "vẻ",
+      "wrong": ["mừng", "lắm", "luôn"],
+      "hint": "Từ nhỏ này chỉ sự vui lên",
+      "explanation": "Lời khích lệ có sức mạnh nâng cao tinh thần đang bị lo lắng đè nặng.",
+      "full_verse": "Sự buồn rầu ở nơi lòng người làm cho nao sờn; nhưng một lời lành khiến lòng vui vẻ.",
+      "verse_ref": "Châm Ngôn 12:25"
+    },
+    {
+      "id": "q_proverbs_015",
+      "question": "Điền vào chỗ trống: 'Sự trông đợi lâu dài làm lòng ra ốm; nhưng sự ước ao được thành là một cây _____.'",
+      "correct": "sự sống",
+      "wrong": ["vui mừng", "hy vọng", "phước"],
+      "hint": "Đây là điều cây ban cho",
+      "explanation": "Hy vọng bị trì hoãn có thể gây nản lòng, nhưng những ao ước được thành mang lại sức sống và niềm vui.",
+      "full_verse": "Sự trông đợi lâu dài làm lòng ra ốm; nhưng sự ước ao được thành là một cây sự sống.",
+      "verse_ref": "Châm Ngôn 13:12"
+    },
+    {
+      "id": "q_proverbs_016",
+      "question": "Điền vào chỗ trống: 'Có một con đường coi dường chánh đáng cho loài người; nhưng cuối cùng nó thành ra nẻo sự _____.'",
+      "correct": "chết",
+      "wrong": ["diệt vong", "hủy phá", "tối tăm"],
+      "hint": "Đây là hậu quả cuối cùng",
+      "explanation": "Sự phán đoán của con người có thể bị lừa dối; điều có vẻ đúng có thể dẫn đến sự hủy diệt.",
+      "full_verse": "Có một con đường coi dường chánh đáng cho loài người; nhưng cuối cùng nó thành ra nẻo sự chết.",
+      "verse_ref": "Châm Ngôn 14:12"
+    },
+    {
+      "id": "q_proverbs_017",
+      "question": "Điền vào chỗ trống: 'Lời đáp êm nhẹ làm nguôi cơn giận; còn lời xẳng xớm trêu thạnh nộ _____.'",
+      "correct": "nổi lên",
+      "wrong": ["xung đột", "tranh cãi", "giận dữ"],
+      "hint": "Cảm xúc này bị kích động bởi lời nặng nề",
+      "explanation": "Cách chúng ta đáp lời có thể xoa dịu hoặc leo thang xung đột.",
+      "full_verse": "Lời đáp êm nhẹ làm nguôi cơn giận; còn lời xẳng xớm trêu thạnh nộ nổi lên.",
+      "verse_ref": "Châm Ngôn 15:1"
+    },
+    {
+      "id": "q_proverbs_018",
+      "question": "Điền vào chỗ trống: 'Lòng người toan định đường lối mình; song Đức Giê-hô-va chỉ dẫn các _____ của người.'",
+      "correct": "bước",
+      "wrong": ["nẻo", "đường", "kế hoạch"],
+      "hint": "Đây là những bước đi riêng lẻ tiến về phía trước",
+      "explanation": "Chúng ta có thể lập kế hoạch, nhưng Đức Chúa Trời cuối cùng hướng dẫn đường đi của chúng ta.",
+      "full_verse": "Lòng người toan định đường lối mình; song Đức Giê-hô-va chỉ dẫn các bước của người.",
+      "verse_ref": "Châm Ngôn 16:9"
+    },
+    {
+      "id": "q_proverbs_019",
+      "question": "Điền vào chỗ trống: 'Bằng hữu thương mến nhau luôn luôn; còn anh em sanh ra để giúp trong lúc _____.'",
+      "correct": "hoạn nạn",
+      "wrong": ["khó khăn", "thiếu thốn", "gian khổ"],
+      "hint": "Từ này có nghĩa là hoàn cảnh khó khăn",
+      "explanation": "Bạn bè thật và gia đình luôn ở bên trong những lúc khó khăn.",
+      "full_verse": "Bằng hữu thương mến nhau luôn luôn; còn anh em sanh ra để giúp trong lúc hoạn nạn.",
+      "verse_ref": "Châm Ngôn 17:17"
+    },
+    {
+      "id": "q_proverbs_020",
+      "question": "Điền vào chỗ trống: 'Có nhiều bạn hữu làm cho mình bị hư đi; nhưng cũng có bạn tríu mến hơn anh _____.'",
+      "correct": "em ruột",
+      "wrong": ["cha", "mẹ", "chị"],
+      "hint": "Đây là thành viên nam trong gia đình",
+      "explanation": "Tình bạn thật có thể còn gần gũi hơn cả mối quan hệ gia đình.",
+      "full_verse": "Có nhiều bạn hữu làm cho mình bị hư đi; nhưng cũng có bạn tríu mến hơn anh em ruột.",
+      "verse_ref": "Châm Ngôn 18:24"
+    },
+    {
+      "id": "q_proverbs_021",
+      "question": "Điền vào chỗ trống: 'Trong lòng loài người có nhiều mưu kế; song ý _____ của Đức Giê-hô-va được thành.'",
+      "correct": "chỉ",
+      "wrong": ["muốn", "định", "đường"],
+      "hint": "Đây là ý định hoặc kế hoạch của Đức Chúa Trời",
+      "explanation": "Kế hoạch của con người có nhiều, nhưng mục đích tể trị của Đức Chúa Trời cuối cùng sẽ được thực hiện.",
+      "full_verse": "Trong lòng loài người có nhiều mưu kế; song ý chỉ của Đức Giê-hô-va được thành.",
+      "verse_ref": "Châm Ngôn 19:21"
+    },
+    {
+      "id": "q_proverbs_022",
+      "question": "Điền vào chỗ trống: 'Người công bình ăn ở cách thanh liêm; _____ cái người để lại sau mình lấy làm có phước thay!'",
+      "correct": "Con",
+      "wrong": ["Gia đình", "Dòng dõi", "Hậu tự"],
+      "hint": "Đây là con trai và con gái",
+      "explanation": "Đời sống công bình để lại di sản tích cực cho các thế hệ tương lai.",
+      "full_verse": "Người công bình ăn ở cách thanh liêm; Con cái người để lại sau mình lấy làm có phước thay!",
+      "verse_ref": "Châm Ngôn 20:7"
+    },
+    {
+      "id": "q_proverbs_023",
+      "question": "Điền vào chỗ trống: 'Ai theo đuổi sự công bình và nhân từ, sẽ tìm được sự sống, sự _____, và tôn trọng.'",
+      "correct": "công bình",
+      "wrong": ["bình an", "vui mừng", "phước"],
+      "hint": "Từ này có nghĩa là thành công và thịnh vượng",
+      "explanation": "Theo đuổi sự công bình và yêu thương dẫn đến cuộc sống trọn vẹn và được phước.",
+      "full_verse": "Ai theo đuổi sự công bình và nhân từ, sẽ tìm được sự sống, sự công bình, và tôn trọng.",
+      "verse_ref": "Châm Ngôn 21:21"
+    },
+    {
+      "id": "q_proverbs_024",
+      "question": "Điền vào chỗ trống: 'Danh tiếng tốt còn hơn tiền _____ nhiều; và ơn nghĩa quí hơn bạc và vàng.'",
+      "correct": "của",
+      "wrong": ["bạc", "châu báu", "tài sản"],
+      "hint": "Từ này chỉ sự giàu có dư dật",
+      "explanation": "Tính cách và danh tiếng quý giá hơn của cải vật chất.",
+      "full_verse": "Danh tiếng tốt còn hơn tiền của nhiều; và ơn nghĩa quí hơn bạc và vàng.",
+      "verse_ref": "Châm Ngôn 22:1"
+    },
+    {
+      "id": "q_proverbs_025",
+      "question": "Điền vào chỗ trống: 'Hãy chuyên lòng về sự khuyên dạy, và lắng tai nghe các lời _____ tri thức.'",
+      "correct": "của",
+      "wrong": ["khôn ngoan", "thật", "thông sáng"],
+      "hint": "Đây là điều sự khuyên dạy nhắm đến",
+      "explanation": "Chúng ta nên háo hức tiếp nhận cả sự khuyên dạy và tri thức.",
+      "full_verse": "Hãy chuyên lòng về sự khuyên dạy, và lắng tai nghe các lời của tri thức.",
+      "verse_ref": "Châm Ngôn 23:12"
+    },
+    {
+      "id": "q_proverbs_026",
+      "question": "Điền vào chỗ trống: 'Vì người công bình dầu có ngã bảy lần, cũng _____ lên; nhưng kẻ gian ác bị hoạn nạn đánh đổ.'",
+      "correct": "chờ dậy",
+      "wrong": ["đứng", "nhanh chóng", "luôn luôn"],
+      "hint": "Từ này chỉ sự lặp lại sau khi ngã",
+      "explanation": "Người công bình thể hiện sự kiên cường, đứng dậy sau những thất bại.",
+      "full_verse": "Vì người công bình dầu có ngã bảy lần, cũng chờ dậy lên; nhưng kẻ gian ác bị hoạn nạn đánh đổ.",
+      "verse_ref": "Châm Ngôn 24:16"
+    },
+    {
+      "id": "q_proverbs_027",
+      "question": "Điền vào chỗ trống: 'Lời nói phải thì, giống như trái táo bằng vàng có cẩn _____.'",
+      "correct": "bạc",
+      "wrong": ["vàng", "ngọc", "đồng"],
+      "hint": "Kim loại quý này làm nền",
+      "explanation": "Những lời đúng lúc, thích hợp thật đẹp đẽ và quý giá.",
+      "full_verse": "Lời nói phải thì, giống như trái táo bằng vàng có cẩn bạc.",
+      "verse_ref": "Châm Ngôn 25:11"
+    },
+    {
+      "id": "q_proverbs_028",
+      "question": "Điền vào chỗ trống: 'Không có củi, thì lửa phải tắt; không có kẻ thèo lẻo, thì sự tranh cạnh cũng _____ đi.'",
+      "correct": "yên lặng",
+      "wrong": ["dứt", "chấm dứt", "biến mất"],
+      "hint": "Đây chỉ người đi nói xấu",
+      "explanation": "Xung đột được duy trì bởi những người lan truyền lời nói tiêu cực về người khác.",
+      "full_verse": "Không có củi, thì lửa phải tắt; không có kẻ thèo lẻo, thì sự tranh cạnh cũng yên lặng đi.",
+      "verse_ref": "Châm Ngôn 26:20"
+    },
+    {
+      "id": "q_proverbs_029",
+      "question": "Điền vào chỗ trống: 'Chớ khoe khoang về ngày _____; vì con chẳng biết ngày ấy sẽ sanh ra điều gì.'",
+      "correct": "mai",
+      "wrong": ["bản thân", "tương lai", "kế hoạch"],
+      "hint": "Đây là ngày kế tiếp",
+      "explanation": "Chúng ta không nên cho là đương nhiên về tương lai, vì nó không chắc chắn.",
+      "full_verse": "Chớ khoe khoang về ngày mai; vì con chẳng biết ngày ấy sẽ sanh ra điều gì.",
+      "verse_ref": "Châm Ngôn 27:1"
+    },
+    {
+      "id": "q_proverbs_030",
+      "question": "Điền vào chỗ trống: 'Người nào giấu tội lỗi mình sẽ không được may mắn; nhưng ai xưng nó ra và lìa bỏ nó sẽ được thương _____.'",
+      "correct": "xót",
+      "wrong": ["ân", "thứ", "an"],
+      "hint": "Đây là sự đối xử nhân từ",
+      "explanation": "Sự xưng tội và ăn năn dẫn đến sự thương xót của Đức Chúa Trời.",
+      "full_verse": "Người nào giấu tội lỗi mình sẽ không được may mắn; nhưng ai xưng nó ra và lìa bỏ nó sẽ được thương xót.",
+      "verse_ref": "Châm Ngôn 28:13"
+    },
+    {
+      "id": "q_proverbs_031",
+      "question": "Điền vào chỗ trống: 'Sự sợ loài người gài bẫy _____; nhưng ai tin cậy nơi Đức Giê-hô-va được yên ổn vô sự.'",
+      "correct": "cho người",
+      "wrong": ["bẫy sập", "gánh nặng", "rủa sả"],
+      "hint": "Đây là điều bắt và mắc bẫy",
+      "explanation": "Bị kiểm soát bởi suy nghĩ của người khác có thể bẫy chúng ta, nhưng tin cậy Đức Chúa Trời mang lại sự an toàn.",
+      "full_verse": "Sự sợ loài người gài bẫy cho người; nhưng ai tin cậy nơi Đức Giê-hô-va được yên ổn vô sự.",
+      "verse_ref": "Châm Ngôn 29:25"
+    },
+    {
+      "id": "q_proverbs_032",
+      "question": "Điền vào chỗ trống: 'Các lời của Đức Chúa Trời đều đã được _____ cả; Ngài là cái khiên cho những kẻ nương náu mình nơi Ngài.'",
+      "correct": "luyện lọc",
+      "wrong": ["trong sạch", "thật", "hoàn hảo"],
+      "hint": "Điều này có nghĩa là không có khuyết điểm",
+      "explanation": "Lời Đức Chúa Trời hoàn toàn đáng tin cậy.",
+      "full_verse": "Các lời của Đức Chúa Trời đều đã được luyện lọc cả; Ngài là cái khiên cho những kẻ nương náu mình nơi Ngài.",
+      "verse_ref": "Châm Ngôn 30:5"
+    },
+    {
+      "id": "q_proverbs_033",
+      "question": "Điền vào chỗ trống: 'Vì Đức Giê-hô-va ban cho sự khôn ngoan; từ miệng Ngài ra điều tri thức và _____.'",
+      "correct": "thông sáng",
+      "wrong": ["lẽ thật", "sáng suốt", "phân biệt"],
+      "hint": "Đây là khả năng hiểu biết",
+      "explanation": "Sự khôn ngoan, tri thức và thông sáng thật đều đến từ Đức Chúa Trời.",
+      "full_verse": "Vì Đức Giê-hô-va ban cho sự khôn ngoan; từ miệng Ngài ra điều tri thức và thông sáng.",
+      "verse_ref": "Châm Ngôn 2:6"
+    },
+    {
+      "id": "q_proverbs_034",
+      "question": "Điền vào chỗ trống: 'Hỡi con, chớ khinh điều sửa phạt của Đức Giê-hô-va, chớ hiềm lòng khi Ngài _____.'",
+      "correct": "quở trách",
+      "wrong": ["sửa chữa", "trừng phạt", "hướng dẫn"],
+      "hint": "Đây là sự bày tỏ không hài lòng mạnh mẽ",
+      "explanation": "Đức Chúa Trời sửa phạt những ai Ngài yêu thương, và chúng ta nên chấp nhận sự sửa dạy của Ngài.",
+      "full_verse": "Hỡi con, chớ khinh điều sửa phạt của Đức Giê-hô-va, chớ hiềm lòng khi Ngài quở trách.",
+      "verse_ref": "Châm Ngôn 3:11-12"
+    },
+    {
+      "id": "q_proverbs_035",
+      "question": "Điền vào chỗ trống: 'Sự khôn ngoan là điều cần nhất; vậy khá cầu lấy sự _____; hãy dùng hết của con đã được mà mua sự thông sáng.'",
+      "correct": "khôn ngoan",
+      "wrong": ["tri thức", "sáng suốt", "thông sáng"],
+      "hint": "Đây là điều câu này bảo phải đạt được",
+      "explanation": "Sự khôn ngoan quý giá đến nỗi đáng theo đuổi bằng mọi giá.",
+      "full_verse": "Sự khôn ngoan là điều cần nhất; vậy khá cầu lấy sự khôn ngoan; hãy dùng hết của con đã được mà mua sự thông sáng.",
+      "verse_ref": "Châm Ngôn 4:7"
+    },
+    {
+      "id": "q_proverbs_036",
+      "question": "Điền vào chỗ trống: 'Có sáu điều Đức Giê-hô-va ghét, và bảy điều Ngài lấy làm gớm ghiếc: con mắt kiêu ngạo, lưỡi dối trá, tay đổ huyết vô tội, lòng bày mưu ác, chân vội vàng chạy đến sự _____, chứng dối nói điều dối, và người gây ra sự cãi lộn trong vòng anh em.'",
+      "correct": "dữ",
+      "wrong": ["tội", "rắc rối", "nghịch"],
+      "hint": "Đây là điều ngược lại với tốt",
+      "explanation": "Đức Chúa Trời ghét nhiều hình thức gian ác, bao gồm những ai háo hức làm điều sai.",
+      "full_verse": "Có sáu điều Đức Giê-hô-va ghét, và bảy điều Ngài lấy làm gớm ghiếc: con mắt kiêu ngạo, lưỡi dối trá, tay đổ huyết vô tội, lòng bày mưu ác, chân vội vàng chạy đến sự dữ, chứng dối nói điều dối, và người gây ra sự cãi lộn trong vòng anh em.",
+      "verse_ref": "Châm Ngôn 6:16-19"
+    },
+    {
+      "id": "q_proverbs_037",
+      "question": "Điền vào chỗ trống: 'Sự kính sợ Đức Giê-hô-va, ấy là khởi đầu sự khôn ngoan; sự nhìn biết Đấng Thánh, đó là sự _____.'",
+      "correct": "thông sáng",
+      "wrong": ["khôn ngoan", "sáng suốt", "phân biệt"],
+      "hint": "Đây là khả năng hiểu biết sâu sắc",
+      "explanation": "Sự khôn ngoan thật bắt đầu với sự kính sợ Đức Chúa Trời, và biết Ngài mang lại sự thông sáng.",
+      "full_verse": "Sự kính sợ Đức Giê-hô-va, ấy là khởi đầu sự khôn ngoan; sự nhìn biết Đấng Thánh, đó là sự thông sáng.",
+      "verse_ref": "Châm Ngôn 9:10"
+    },
+    {
+      "id": "q_proverbs_038",
+      "question": "Điền vào chỗ trống: 'Phước lành của Đức Giê-hô-va làm cho giàu có; Ngài chẳng thêm sự _____.'",
+      "correct": "đau lòng",
+      "wrong": ["lao động", "công việc", "nỗ lực"],
+      "hint": "Đây là công việc vất vả, kiệt sức",
+      "explanation": "Phước lành của Đức Chúa Trời mang lại sự thịnh vượng mà không có gánh nặng của sự lo lắng phấn đấu.",
+      "full_verse": "Phước lành của Đức Giê-hô-va làm cho giàu có; Ngài chẳng thêm sự đau lòng.",
+      "verse_ref": "Châm Ngôn 10:22"
+    },
+    {
+      "id": "q_proverbs_039",
+      "question": "Điền vào chỗ trống: 'Dân sự sa ngã tại nơi nào thiếu _____ khôn ngoan; nhưng nơi nào có nhiều mưu sĩ, nơi ấy có sự bình an.'",
+      "correct": "người",
+      "wrong": ["cố vấn", "lãnh đạo", "trưởng lão"],
+      "hint": "Đây là những người đưa ra lời khuyên",
+      "explanation": "Sự khuyên bảo khôn ngoan từ nhiều nguồn dẫn đến thành công.",
+      "full_verse": "Dân sự sa ngã tại nơi nào thiếu người khôn ngoan; nhưng nơi nào có nhiều mưu sĩ, nơi ấy có sự bình an.",
+      "verse_ref": "Châm Ngôn 11:14"
+    },
+    {
+      "id": "q_proverbs_040",
+      "question": "Điền vào chỗ trống: 'Đường lối kẻ ngu muội vốn ngay thẳng theo mắt nó; còn người khôn ngoan nghe lời _____ bảo.'",
+      "correct": "khuyên",
+      "wrong": ["cố vấn", "khôn ngoan", "người khác"],
+      "hint": "Đây là sự hướng dẫn hoặc đề nghị từ người khác",
+      "explanation": "Kẻ ngu muội tin vào phán đoán của mình; người khôn ngoan tìm kiếm và lắng nghe lời khuyên.",
+      "full_verse": "Đường lối kẻ ngu muội vốn ngay thẳng theo mắt nó; còn người khôn ngoan nghe lời khuyên bảo.",
+      "verse_ref": "Châm Ngôn 12:15"
+    },
+    {
+      "id": "q_proverbs_041",
+      "question": "Điền vào chỗ trống: 'Kẻ chậm nóng giận có thông sáng lớn; nhưng ai hay nóng nảy tôn lên sự _____.'",
+      "correct": "điên cuồng",
+      "wrong": ["giận dữ", "ngu dại", "kiêu ngạo"],
+      "hint": "Đây là điều ngược lại với khôn ngoan",
+      "explanation": "Kiên nhẫn phản ánh sự khôn ngoan, trong khi nóng nảy thể hiện sự ngu dại.",
+      "full_verse": "Kẻ chậm nóng giận có thông sáng lớn; nhưng ai hay nóng nảy tôn lên sự điên cuồng.",
+      "verse_ref": "Châm Ngôn 14:29"
+    },
+    {
+      "id": "q_proverbs_042",
+      "question": "Điền vào chỗ trống: 'Mưu định bị hỏng, bởi thiếu bàn _____; nhưng nơi đâu có nhiều mưu sĩ, việc bèn thành được.'",
+      "correct": "luận",
+      "wrong": ["khuyên", "hướng dẫn", "khôn ngoan"],
+      "hint": "Đây là lời khuyên hoặc hướng dẫn",
+      "explanation": "Tìm kiếm sự khuyên bảo khôn ngoan giúp đảm bảo thành công trong kế hoạch của chúng ta.",
+      "full_verse": "Mưu định bị hỏng, bởi thiếu bàn luận; nhưng nơi đâu có nhiều mưu sĩ, việc bèn thành được.",
+      "verse_ref": "Châm Ngôn 15:22"
+    },
+    {
+      "id": "q_proverbs_043",
+      "question": "Điền vào chỗ trống: 'Sự kiêu ngạo đi trước sự bại hoại, và tánh tự cao đi trước sự _____ ngã.'",
+      "correct": "té",
+      "wrong": ["sụp", "diệt vong", "thất bại"],
+      "hint": "Đây là sự ngã đột ngột",
+      "explanation": "Kiêu ngạo dẫn đến sự hủy diệt và sụp đổ.",
+      "full_verse": "Sự kiêu ngạo đi trước sự bại hoại, và tánh tự cao đi trước sự té ngã.",
+      "verse_ref": "Châm Ngôn 16:18"
+    },
+    {
+      "id": "q_proverbs_044",
+      "question": "Điền vào chỗ trống: 'Lòng vui mừng vốn là phương _____ hay; còn trí nao sờn làm xương cốt khô héo.'",
+      "correct": "thuốc",
+      "wrong": ["chữa lành", "trị liệu", "cứu chữa"],
+      "hint": "Đây là điều chữa lành",
+      "explanation": "Niềm vui và sự vui vẻ có tác dụng chữa lành cho toàn bộ con người chúng ta.",
+      "full_verse": "Lòng vui mừng vốn là phương thuốc hay; còn trí nao sờn làm xương cốt khô héo.",
+      "verse_ref": "Châm Ngôn 17:22"
+    },
+    {
+      "id": "q_proverbs_045",
+      "question": "Điền vào chỗ trống: 'Ai thương xót kẻ nghèo, tức cho Đức _____ vay mượn; Ngài sẽ báo lại việc ơn cho người.'",
+      "correct": "Giê-hô-va",
+      "wrong": ["Chúa Trời", "Đấng Chí Cao", "Đấng Toàn Năng"],
+      "hint": "Đây là danh giao ước của Đức Chúa Trời",
+      "explanation": "Giúp đỡ người nghèo giống như cho Đức Chúa Trời vay, Ngài hứa sẽ đền đáp.",
+      "full_verse": "Ai thương xót kẻ nghèo, tức cho Đức Giê-hô-va vay mượn; Ngài sẽ báo lại việc ơn cho người.",
+      "verse_ref": "Châm Ngôn 19:17"
+    },
+    {
+      "id": "q_proverbs_046",
+      "question": "Điền vào chỗ trống: 'Chớ nói: Tôi sẽ báo ác; hãy chờ đợi Đức Giê-hô-va, Ngài sẽ giải _____.'",
+      "correct": "cứu",
+      "wrong": ["giúp", "cứu rỗi", "giải thoát"],
+      "hint": "Điều này có nghĩa là trả thù thay cho ai đó",
+      "explanation": "Thay vì tìm cách trả thù, chúng ta nên tin cậy Đức Chúa Trời để mang lại công lý.",
+      "full_verse": "Chớ nói: Tôi sẽ báo ác; hãy chờ đợi Đức Giê-hô-va, Ngài sẽ giải cứu.",
+      "verse_ref": "Châm Ngôn 20:22"
+    },
+    {
+      "id": "q_proverbs_047",
+      "question": "Điền vào chỗ trống: 'Làm điều công bình và chánh trực Đức Giê-hô-va lấy làm tốt hơn của _____.'",
+      "correct": "tế lễ",
+      "wrong": ["lễ vật", "thờ phượng", "cầu nguyện"],
+      "hint": "Đây là một lễ vật tôn giáo",
+      "explanation": "Đức Chúa Trời quý trọng đời sống công bình hơn các nghi lễ tôn giáo.",
+      "full_verse": "Làm điều công bình và chánh trực Đức Giê-hô-va lấy làm tốt hơn của tế lễ.",
+      "verse_ref": "Châm Ngôn 21:3"
+    },
+    {
+      "id": "q_proverbs_048",
+      "question": "Điền vào chỗ trống: 'Phần thưởng của sự khiêm nhượng và sự kính sợ Đức Giê-hô-va, ấy là sự giàu có, sự tôn trọng, và _____ sống.'",
+      "correct": "mạng",
+      "wrong": ["vinh quang", "phước", "bình an"],
+      "hint": "Đây là sự tôn kính hoặc kính trọng cao",
+      "explanation": "Sự khiêm nhường và kính sợ Đức Chúa Trời dẫn đến những phần thưởng giàu có bao gồm sự tôn trọng và sự sống.",
+      "full_verse": "Phần thưởng của sự khiêm nhượng và sự kính sợ Đức Giê-hô-va, ấy là sự giàu có, sự tôn trọng, và mạng sống.",
+      "verse_ref": "Châm Ngôn 22:4"
+    },
+    {
+      "id": "q_proverbs_049",
+      "question": "Điền vào chỗ trống: 'Một người nữ tài đức ai sẽ tìm được? Giá trị nàng trổi hơn _____ ngọc.'",
+      "correct": "châu",
+      "wrong": ["vàng", "bạc", "đá quý"],
+      "hint": "Đây là những viên đá quý màu đỏ",
+      "explanation": "Một người vợ đức hạnh quý giá hơn những viên ngọc quý.",
+      "full_verse": "Một người nữ tài đức ai sẽ tìm được? Giá trị nàng trổi hơn châu ngọc.",
+      "verse_ref": "Châm Ngôn 31:10"
+    },
+    {
+      "id": "q_proverbs_050",
+      "question": "Điền vào chỗ trống: 'Chớ khôn ngoan theo mắt mình; hãy kính sợ Đức Giê-hô-va, và lìa khỏi sự _____.'",
+      "correct": "dữ",
+      "wrong": ["tội", "gian ác", "sai trái"],
+      "hint": "Đây là điều chúng ta nên tránh",
+      "explanation": "Sự khôn ngoan thật bao gồm sự kính sợ Đức Chúa Trời và tránh xa sự dữ.",
+      "full_verse": "Chớ khôn ngoan theo mắt mình; hãy kính sợ Đức Giê-hô-va, và lìa khỏi sự dữ.",
+      "verse_ref": "Châm Ngôn 3:7"
+    }
+  ]
+}

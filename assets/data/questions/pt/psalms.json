@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_psalms_001",
+      "question": "Complete o espaço em branco: 'O SENHOR é o meu _____; nada me faltará.'",
+      "correct": "pastor",
+      "wrong": ["guia", "pai", "protetor"],
+      "hint": "Esta pessoa cuida de ovelhas",
+      "explanation": "Deus é retratado como um pastor amoroso que provê todas as nossas necessidades.",
+      "full_verse": "O SENHOR é o meu pastor; nada me faltará.",
+      "verse_ref": "Salmo 23:1"
+    },
+    {
+      "id": "q_psalms_002",
+      "question": "Complete o espaço em branco: 'Ainda que eu andasse pelo vale da sombra da morte, não temeria _____ algum, porque tu estás comigo; a tua vara e o teu cajado me consolam.'",
+      "correct": "mal",
+      "wrong": ["perigo", "dano", "morte"],
+      "hint": "Este é o oposto do bem",
+      "explanation": "A presença de Deus nos dá coragem mesmo nas circunstâncias mais difíceis.",
+      "full_verse": "Ainda que eu andasse pelo vale da sombra da morte, não temeria mal algum, porque tu estás comigo; a tua vara e o teu cajado me consolam.",
+      "verse_ref": "Salmo 23:4"
+    },
+    {
+      "id": "q_psalms_003",
+      "question": "Complete o espaço em branco: 'Deus é o nosso refúgio e fortaleza, socorro bem presente na _____.'",
+      "correct": "angústia",
+      "wrong": ["necessidade", "aflição", "tribulação"],
+      "hint": "Esta palavra significa dificuldade ou sofrimento",
+      "explanation": "Deus está sempre disponível para nos ajudar em tempos de dificuldade.",
+      "full_verse": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
+      "verse_ref": "Salmo 46:1"
+    },
+    {
+      "id": "q_psalms_004",
+      "question": "Complete o espaço em branco: 'O SENHOR é a minha luz e a minha salvação; a quem _____? O SENHOR é a força da minha vida; de quem me recearei?'",
+      "correct": "temerei",
+      "wrong": ["confiarei", "seguirei", "adorarei"],
+      "hint": "Isto é o que não precisamos sentir quando Deus está conosco",
+      "explanation": "Com Deus como nossa luz e salvação, não temos razão para temer ninguém.",
+      "full_verse": "O SENHOR é a minha luz e a minha salvação; a quem temerei? O SENHOR é a força da minha vida; de quem me recearei?",
+      "verse_ref": "Salmo 27:1"
+    },
+    {
+      "id": "q_psalms_005",
+      "question": "Complete o espaço em branco: 'Lâmpada para os meus pés é a tua palavra, e _____ para o meu caminho.'",
+      "correct": "luz",
+      "wrong": ["guia", "farol", "tocha"],
+      "hint": "Isto ilumina o caminho à frente",
+      "explanation": "A Palavra de Deus fornece orientação e direção para nossas vidas.",
+      "full_verse": "Lâmpada para os meus pés é a tua palavra, e luz para o meu caminho.",
+      "verse_ref": "Salmo 119:105"
+    },
+    {
+      "id": "q_psalms_006",
+      "question": "Complete o espaço em branco: 'Bem-aventurado o homem que não anda segundo o conselho dos ímpios, nem se detém no caminho dos pecadores, nem se assenta na roda dos _____.'",
+      "correct": "escarnecedores",
+      "wrong": ["pecadores", "tolos", "zombadores"],
+      "hint": "Estas pessoas ridicularizam outras",
+      "explanation": "A verdadeira bem-aventurança vem de evitar a influência daqueles que zombam dos caminhos de Deus.",
+      "full_verse": "Bem-aventurado o homem que não anda segundo o conselho dos ímpios, nem se detém no caminho dos pecadores, nem se assenta na roda dos escarnecedores.",
+      "verse_ref": "Salmo 1:1"
+    },
+    {
+      "id": "q_psalms_007",
+      "question": "Complete o espaço em branco: 'Celebrai com _____ ao SENHOR, todos os habitantes da terra.'",
+      "correct": "júbilo",
+      "wrong": ["louvor", "glória", "gratidão"],
+      "hint": "Esta é uma expressão de grande felicidade",
+      "explanation": "Somos chamados a expressar nossa alegria a Deus com entusiasmo.",
+      "full_verse": "Celebrai com júbilo ao SENHOR, todos os habitantes da terra.",
+      "verse_ref": "Salmo 100:1"
+    },
+    {
+      "id": "q_psalms_008",
+      "question": "Complete o espaço em branco: 'Este é o dia que o SENHOR fez; regozijemo-nos e _____ nele.'",
+      "correct": "alegremo-nos",
+      "wrong": ["exultemos", "festejemos", "agradeçamos"],
+      "hint": "Isto significa estar feliz",
+      "explanation": "Cada dia é um presente de Deus, digno de celebração.",
+      "full_verse": "Este é o dia que o SENHOR fez; regozijemo-nos e alegremo-nos nele.",
+      "verse_ref": "Salmo 118:24"
+    },
+    {
+      "id": "q_psalms_009",
+      "question": "Complete o espaço em branco: 'Tudo quanto tem _____ louve ao SENHOR. Aleluia!'",
+      "correct": "fôlego",
+      "wrong": ["vida", "espírito", "voz"],
+      "hint": "Isto é o que todas as criaturas vivas têm",
+      "explanation": "Todos os seres vivos são chamados a louvar a Deus.",
+      "full_verse": "Tudo quanto tem fôlego louve ao SENHOR. Aleluia!",
+      "verse_ref": "Salmo 150:6"
+    },
+    {
+      "id": "q_psalms_010",
+      "question": "Complete o espaço em branco: 'Provai e vede que o SENHOR é _____; bem-aventurado o homem que nele confia.'",
+      "correct": "bom",
+      "wrong": ["grande", "fiel", "amoroso"],
+      "hint": "Este é o oposto de mau",
+      "explanation": "Podemos experimentar a bondade de Deus pessoalmente quando confiamos Nele.",
+      "full_verse": "Provai e vede que o SENHOR é bom; bem-aventurado o homem que nele confia.",
+      "verse_ref": "Salmo 34:8"
+    },
+    {
+      "id": "q_psalms_011",
+      "question": "Complete o espaço em branco: 'Deleita-te também no SENHOR, e ele te concederá os desejos do teu _____.'",
+      "correct": "coração",
+      "wrong": ["alma", "mente", "espírito"],
+      "hint": "Este é o centro de suas emoções e desejos",
+      "explanation": "Quando encontramos alegria em Deus, Ele molda e realiza nossos desejos mais profundos.",
+      "full_verse": "Deleita-te também no SENHOR, e ele te concederá os desejos do teu coração.",
+      "verse_ref": "Salmo 37:4"
+    },
+    {
+      "id": "q_psalms_012",
+      "question": "Complete o espaço em branco: 'Cria em mim, ó Deus, um coração puro e renova em mim um _____ reto.'",
+      "correct": "espírito",
+      "wrong": ["alma", "coração", "mente"],
+      "hint": "Esta é a parte interior de uma pessoa",
+      "explanation": "Davi pede a Deus transformação interior e compromisso renovado.",
+      "full_verse": "Cria em mim, ó Deus, um coração puro e renova em mim um espírito reto.",
+      "verse_ref": "Salmo 51:10"
+    },
+    {
+      "id": "q_psalms_013",
+      "question": "Complete o espaço em branco: 'Aquele que habita no esconderijo do Altíssimo, à _____ do Todo-Poderoso descansará.'",
+      "correct": "sombra",
+      "wrong": ["presença", "braços", "cuidado"],
+      "hint": "Isto é projetado quando a luz é bloqueada",
+      "explanation": "Deus fornece proteção e descanso para aqueles que habitam perto Dele.",
+      "full_verse": "Aquele que habita no esconderijo do Altíssimo, à sombra do Todo-Poderoso descansará.",
+      "verse_ref": "Salmo 91:1"
+    },
+    {
+      "id": "q_psalms_014",
+      "question": "Complete o espaço em branco: 'Bendize, ó minha alma, ao SENHOR, e tudo o que há em mim bendiga o seu santo _____.'",
+      "correct": "nome",
+      "wrong": ["palavra", "glória", "majestade"],
+      "hint": "Isto representa a identidade e o caráter de Deus",
+      "explanation": "Louvamos o nome de Deus porque representa quem Ele é.",
+      "full_verse": "Bendize, ó minha alma, ao SENHOR, e tudo o que há em mim bendiga o seu santo nome.",
+      "verse_ref": "Salmo 103:1"
+    },
+    {
+      "id": "q_psalms_015",
+      "question": "Complete o espaço em branco: 'Eu te louvarei, porque de um modo assombroso e _____ fui formado; maravilhosas são as tuas obras, e a minha alma o sabe muito bem.'",
+      "correct": "maravilhoso",
+      "wrong": ["belo", "perfeito", "único"],
+      "hint": "Isto significa de forma admirável",
+      "explanation": "Fomos criados com grande cuidado e intenção por Deus.",
+      "full_verse": "Eu te louvarei, porque de um modo assombroso e maravilhoso fui formado; maravilhosas são as tuas obras, e a minha alma o sabe muito bem.",
+      "verse_ref": "Salmo 139:14"
+    },
+    {
+      "id": "q_psalms_016",
+      "question": "Complete o espaço em branco: 'Os céus declaram a glória de Deus e o firmamento anuncia a obra das suas _____.'",
+      "correct": "mãos",
+      "wrong": ["poder", "criação", "majestade"],
+      "hint": "Estas são partes do corpo usadas para fazer coisas",
+      "explanation": "A própria criação testemunha o poder criativo de Deus.",
+      "full_verse": "Os céus declaram a glória de Deus e o firmamento anuncia a obra das suas mãos.",
+      "verse_ref": "Salmo 19:1"
+    },
+    {
+      "id": "q_psalms_017",
+      "question": "Complete o espaço em branco: 'Aquietai-vos e sabei que eu sou _____; serei exaltado entre os gentios; serei exaltado sobre a terra.'",
+      "correct": "Deus",
+      "wrong": ["Senhor", "santo", "soberano"],
+      "hint": "Este é o ser divino",
+      "explanation": "Somos chamados a nos aquietar e reconhecer a soberania de Deus.",
+      "full_verse": "Aquietai-vos e sabei que eu sou Deus; serei exaltado entre os gentios; serei exaltado sobre a terra.",
+      "verse_ref": "Salmo 46:10"
+    },
+    {
+      "id": "q_psalms_018",
+      "question": "Complete o espaço em branco: 'Certamente que a bondade e a misericórdia me seguirão todos os dias da minha vida; e habitarei na casa do SENHOR por longos _____.'",
+      "correct": "dias",
+      "wrong": ["tempos", "anos", "eternidade"],
+      "hint": "Esta é uma medida de tempo",
+      "explanation": "A bondade de Deus nos acompanha durante toda a vida e pela eternidade.",
+      "full_verse": "Certamente que a bondade e a misericórdia me seguirão todos os dias da minha vida; e habitarei na casa do SENHOR por longos dias.",
+      "verse_ref": "Salmo 23:6"
+    },
+    {
+      "id": "q_psalms_019",
+      "question": "Complete o espaço em branco: 'Elevo os meus olhos para os montes: de onde me virá o socorro? O meu socorro vem do SENHOR, que fez o céu e a _____.'",
+      "correct": "terra",
+      "wrong": ["mundo", "criação", "tudo"],
+      "hint": "Este é o chão em que pisamos",
+      "explanation": "Nossa ajuda vem do Criador de todas as coisas.",
+      "full_verse": "Elevo os meus olhos para os montes: de onde me virá o socorro? O meu socorro vem do SENHOR, que fez o céu e a terra.",
+      "verse_ref": "Salmo 121:1-2"
+    },
+    {
+      "id": "q_psalms_020",
+      "question": "Complete o espaço em branco: 'Perto está o SENHOR dos que têm o coração quebrantado e salva os contritos de _____.'",
+      "correct": "espírito",
+      "wrong": ["alma", "coração", "mente"],
+      "hint": "Esta é a parte interior de uma pessoa",
+      "explanation": "Deus está especialmente perto daqueles que experimentam dor emocional.",
+      "full_verse": "Perto está o SENHOR dos que têm o coração quebrantado e salva os contritos de espírito.",
+      "verse_ref": "Salmo 34:18"
+    },
+    {
+      "id": "q_psalms_021",
+      "question": "Complete o espaço em branco: 'Assim como o cervo brama pelas correntes das águas, assim _____ a minha alma por ti, ó Deus.'",
+      "correct": "suspira",
+      "wrong": ["anseia", "clama", "deseja"],
+      "hint": "Isto é o que um cervo sedento faz",
+      "explanation": "Nossas almas devem ansiar por Deus como um animal sedento busca água.",
+      "full_verse": "Assim como o cervo brama pelas correntes das águas, assim suspira a minha alma por ti, ó Deus.",
+      "verse_ref": "Salmo 42:1"
+    },
+    {
+      "id": "q_psalms_022",
+      "question": "Complete o espaço em branco: 'Lança o teu cuidado sobre o SENHOR, e ele te _____; nunca permitirá que o justo seja abalado.'",
+      "correct": "susterá",
+      "wrong": ["apoiará", "sustentará", "carregará"],
+      "hint": "Isto significa manter ou sustentar",
+      "explanation": "Deus nos convida a entregar nossas preocupações a Ele e promete nos sustentar.",
+      "full_verse": "Lança o teu cuidado sobre o SENHOR, e ele te susterá; nunca permitirá que o justo seja abalado.",
+      "verse_ref": "Salmo 55:22"
+    },
+    {
+      "id": "q_psalms_023",
+      "question": "Complete o espaço em branco: 'Porque o SENHOR Deus é um sol e escudo; o SENHOR dará graça e glória; não negará bem algum aos que andam na _____.'",
+      "correct": "retidão",
+      "wrong": ["justiça", "fidelidade", "santidade"],
+      "hint": "Isto significa integridade",
+      "explanation": "Deus dá generosamente àqueles que vivem com integridade.",
+      "full_verse": "Porque o SENHOR Deus é um sol e escudo; o SENHOR dará graça e glória; não negará bem algum aos que andam na retidão.",
+      "verse_ref": "Salmo 84:11"
+    },
+    {
+      "id": "q_psalms_024",
+      "question": "Complete o espaço em branco: 'Porque aos seus anjos dará ordem a teu respeito, para te guardarem em todos os teus _____.'",
+      "correct": "caminhos",
+      "wrong": ["passos", "dias", "trilhas"],
+      "hint": "Isto se refere às suas direções ou atividades",
+      "explanation": "Deus envia anjos para proteger Seu povo.",
+      "full_verse": "Porque aos seus anjos dará ordem a teu respeito, para te guardarem em todos os teus caminhos.",
+      "verse_ref": "Salmo 91:11"
+    },
+    {
+      "id": "q_psalms_025",
+      "question": "Complete o espaço em branco: 'Perto está o SENHOR de todos os que o invocam, de todos os que o invocam em _____.'",
+      "correct": "verdade",
+      "wrong": ["fé", "espírito", "sinceridade"],
+      "hint": "Isto significa genuinidade ou honestidade",
+      "explanation": "Deus se aproxima daqueles que O buscam sinceramente.",
+      "full_verse": "Perto está o SENHOR de todos os que o invocam, de todos os que o invocam em verdade.",
+      "verse_ref": "Salmo 145:18"
+    },
+    {
+      "id": "q_psalms_026",
+      "question": "Complete o espaço em branco: 'Quando vejo os teus céus, obra dos teus dedos, a lua e as estrelas que preparaste; que é o homem mortal para que te _____ dele, e o filho do homem, para que o visites?'",
+      "correct": "lembres",
+      "wrong": ["preocupes", "cuides", "importes"],
+      "hint": "Isto significa estar ciente ou pensar sobre",
+      "explanation": "Apesar da vastidão da criação, Deus se importa profundamente com a humanidade.",
+      "full_verse": "Quando vejo os teus céus, obra dos teus dedos, a lua e as estrelas que preparaste; que é o homem mortal para que te lembres dele, e o filho do homem, para que o visites?",
+      "verse_ref": "Salmo 8:3-4"
+    },
+    {
+      "id": "q_psalms_027",
+      "question": "Complete o espaço em branco: 'Far-me-ás ver a vereda da vida; na tua presença há plenitude de alegria; à tua _____ há delícias perpetuamente.'",
+      "correct": "destra",
+      "wrong": ["lado", "trono", "lugar"],
+      "hint": "Esta é uma parte do corpo simbolizando uma posição de honra",
+      "explanation": "A presença de Deus traz alegria completa e bênçãos eternas.",
+      "full_verse": "Far-me-ás ver a vereda da vida; na tua presença há plenitude de alegria; à tua destra há delícias perpetuamente.",
+      "verse_ref": "Salmo 16:11"
+    },
+    {
+      "id": "q_psalms_028",
+      "question": "Complete o espaço em branco: 'Sejam agradáveis as palavras da minha boca e a meditação do meu coração perante a tua face, SENHOR, Rocha minha e _____.'",
+      "correct": "Redentor",
+      "wrong": ["Salvador", "Libertador", "Refúgio"],
+      "hint": "Este é aquele que resgata pagando um preço",
+      "explanation": "Desejamos que tanto nossas palavras quanto pensamentos honrem a Deus.",
+      "full_verse": "Sejam agradáveis as palavras da minha boca e a meditação do meu coração perante a tua face, SENHOR, Rocha minha e Redentor.",
+      "verse_ref": "Salmo 19:14"
+    },
+    {
+      "id": "q_psalms_029",
+      "question": "Complete o espaço em branco: 'Do SENHOR é a terra e a sua plenitude, o mundo e aqueles que nele _____.'",
+      "correct": "habitam",
+      "wrong": ["vivem", "moram", "existem"],
+      "hint": "Isto significa residir ou existir",
+      "explanation": "Deus é dono de tudo na criação, incluindo todas as pessoas.",
+      "full_verse": "Do SENHOR é a terra e a sua plenitude, o mundo e aqueles que nele habitam.",
+      "verse_ref": "Salmo 24:1"
+    },
+    {
+      "id": "q_psalms_030",
+      "question": "Complete o espaço em branco: 'Instruir-te-ei e ensinar-te-ei o caminho que deves seguir; guiar-te-ei com os meus _____.'",
+      "correct": "olhos",
+      "wrong": ["conselhos", "palavras", "caminhos"],
+      "hint": "Estas são partes do corpo usadas para ver",
+      "explanation": "Deus promete nos guiar e aconselhar pessoalmente.",
+      "full_verse": "Instruir-te-ei e ensinar-te-ei o caminho que deves seguir; guiar-te-ei com os meus olhos.",
+      "verse_ref": "Salmo 32:8"
+    },
+    {
+      "id": "q_psalms_031",
+      "question": "Complete o espaço em branco: 'Os passos de um homem bom são confirmados pelo SENHOR, e ele se deleita no seu caminho. Ainda que caia, não ficará prostrado, pois o SENHOR o sustém com a sua _____.'",
+      "correct": "mão",
+      "wrong": ["braço", "poder", "força"],
+      "hint": "Esta parte do corpo é usada para segurar alguém",
+      "explanation": "Deus firma aqueles que se deleitam Nele, mesmo quando tropeçam.",
+      "full_verse": "Os passos de um homem bom são confirmados pelo SENHOR, e ele se deleita no seu caminho. Ainda que caia, não ficará prostrado, pois o SENHOR o sustém com a sua mão.",
+      "verse_ref": "Salmo 37:23-24"
+    },
+    {
+      "id": "q_psalms_032",
+      "question": "Complete o espaço em branco: 'Esperei com paciência no SENHOR, e ele se inclinou para mim, e ouviu o meu clamor. Tirou-me de um poço de destruição, de um charco de _____; pôs os meus pés sobre uma rocha e firmou os meus passos.'",
+      "correct": "lama",
+      "wrong": ["barro", "terra", "pó"],
+      "hint": "Esta é lama profunda e molhada",
+      "explanation": "Deus nos resgata de situações desesperadoras e nos dá estabilidade.",
+      "full_verse": "Esperei com paciência no SENHOR, e ele se inclinou para mim, e ouviu o meu clamor. Tirou-me de um poço de destruição, de um charco de lama; pôs os meus pés sobre uma rocha e firmou os meus passos.",
+      "verse_ref": "Salmo 40:1-2"
+    },
+    {
+      "id": "q_psalms_033",
+      "question": "Complete o espaço em branco: 'Os sacrifícios para Deus são o espírito quebrantado; a um coração quebrantado e _____, ó Deus, não desprezarás.'",
+      "correct": "contrito",
+      "wrong": ["humilde", "arrependido", "triste"],
+      "hint": "Isto significa sentir pesar por erros",
+      "explanation": "Deus valoriza o arrependimento genuíno mais do que rituais religiosos externos.",
+      "full_verse": "Os sacrifícios para Deus são o espírito quebrantado; a um coração quebrantado e contrito, ó Deus, não desprezarás.",
+      "verse_ref": "Salmo 51:17"
+    },
+    {
+      "id": "q_psalms_034",
+      "question": "Complete o espaço em branco: 'Quando eu tiver _____, confiarei em ti.'",
+      "correct": "medo",
+      "wrong": ["fraqueza", "problemas", "ansiedade"],
+      "hint": "Esta é uma emoção sentida ao enfrentar perigo",
+      "explanation": "O medo deve nos levar a confiar mais em Deus.",
+      "full_verse": "Quando eu tiver medo, confiarei em ti.",
+      "verse_ref": "Salmo 56:3"
+    },
+    {
+      "id": "q_psalms_035",
+      "question": "Complete o espaço em branco: 'Só em Deus, ó minha alma, espera silenciosa, porque dele vem a minha esperança. Só ele é a minha rocha e a minha _____; é o meu alto refúgio; não serei abalado.'",
+      "correct": "salvação",
+      "wrong": ["refúgio", "escudo", "força"],
+      "hint": "Esta é a libertação do perigo",
+      "explanation": "Somente Deus fornece verdadeiro descanso e segurança para nossas almas.",
+      "full_verse": "Só em Deus, ó minha alma, espera silenciosa, porque dele vem a minha esperança. Só ele é a minha rocha e a minha salvação; é o meu alto refúgio; não serei abalado.",
+      "verse_ref": "Salmo 62:5-6"
+    },
+    {
+      "id": "q_psalms_036",
+      "question": "Complete o espaço em branco: 'A minha carne e o meu coração desfalecem; mas Deus é a fortaleza do meu coração e a minha _____ para sempre.'",
+      "correct": "porção",
+      "wrong": ["esperança", "refúgio", "herança"],
+      "hint": "Isto significa a parte ou quinhão de alguém",
+      "explanation": "Mesmo quando nossos corpos falham, Deus permanece nossa herança eterna.",
+      "full_verse": "A minha carne e o meu coração desfalecem; mas Deus é a fortaleza do meu coração e a minha porção para sempre.",
+      "verse_ref": "Salmo 73:26"
+    },
+    {
+      "id": "q_psalms_037",
+      "question": "Complete o espaço em branco: 'Pois tu, Senhor, és bom, e pronto a perdoar, e abundante em benignidade para com todos os que te _____.'",
+      "correct": "invocam",
+      "wrong": ["buscam", "oram", "servem"],
+      "hint": "Isto significa clamar ou apelar",
+      "explanation": "O amor e o perdão de Deus estão disponíveis para todos que O buscam.",
+      "full_verse": "Pois tu, Senhor, és bom, e pronto a perdoar, e abundante em benignidade para com todos os que te invocam.",
+      "verse_ref": "Salmo 86:5"
+    },
+    {
+      "id": "q_psalms_038",
+      "question": "Complete o espaço em branco: 'Ensina-nos a contar os nossos dias, de tal maneira que alcancemos coração _____.'",
+      "correct": "sábio",
+      "wrong": ["prudente", "entendido", "conhecedor"],
+      "hint": "Esta é a qualidade de ser sábio",
+      "explanation": "Reconhecer a brevidade da vida nos ajuda a viver sabiamente.",
+      "full_verse": "Ensina-nos a contar os nossos dias, de tal maneira que alcancemos coração sábio.",
+      "verse_ref": "Salmo 90:12"
+    },
+    {
+      "id": "q_psalms_039",
+      "question": "Complete o espaço em branco: 'Cantai ao SENHOR um cântico novo; cantai ao SENHOR, toda a _____.'",
+      "correct": "terra",
+      "wrong": ["nação", "criação", "humanidade"],
+      "hint": "Este é o planeta em que vivemos",
+      "explanation": "Somos chamados a oferecer continuamente louvor renovado a Deus.",
+      "full_verse": "Cantai ao SENHOR um cântico novo; cantai ao SENHOR, toda a terra.",
+      "verse_ref": "Salmo 96:1"
+    },
+    {
+      "id": "q_psalms_040",
+      "question": "Complete o espaço em branco: 'Assim como está longe o oriente do ocidente, assim afasta de nós as nossas _____.'",
+      "correct": "transgressões",
+      "wrong": ["pecados", "iniquidades", "ofensas"],
+      "hint": "Esta é outra palavra para pecados ou violações",
+      "explanation": "Deus remove completamente nossos pecados de nós.",
+      "full_verse": "Assim como está longe o oriente do ocidente, assim afasta de nós as nossas transgressões.",
+      "verse_ref": "Salmo 103:12"
+    },
+    {
+      "id": "q_psalms_041",
+      "question": "Complete o espaço em branco: 'Louvai ao SENHOR, porque ele é bom, porque a sua benignidade dura para _____.'",
+      "correct": "sempre",
+      "wrong": ["eternidade", "todo o sempre", "jamais"],
+      "hint": "Isto significa por todo o tempo sem fim",
+      "explanation": "O amor de Deus é eterno e imutável.",
+      "full_verse": "Louvai ao SENHOR, porque ele é bom, porque a sua benignidade dura para sempre.",
+      "verse_ref": "Salmo 107:1"
+    },
+    {
+      "id": "q_psalms_042",
+      "question": "Complete o espaço em branco: 'Escondi a tua palavra no meu coração, para eu não _____ contra ti.'",
+      "correct": "pecar",
+      "wrong": ["rebelar", "desviar", "errar"],
+      "hint": "Isto é cometer erros contra Deus",
+      "explanation": "Memorizar as Escrituras nos ajuda a resistir à tentação.",
+      "full_verse": "Escondi a tua palavra no meu coração, para eu não pecar contra ti.",
+      "verse_ref": "Salmo 119:11"
+    },
+    {
+      "id": "q_psalms_043",
+      "question": "Complete o espaço em branco: 'Eis que os filhos são herança do SENHOR, e o fruto do ventre, o seu _____.'",
+      "correct": "galardão",
+      "wrong": ["presente", "bênção", "tesouro"],
+      "hint": "Isto é algo recebido como recompensa",
+      "explanation": "Os filhos são um presente precioso e uma bênção de Deus.",
+      "full_verse": "Eis que os filhos são herança do SENHOR, e o fruto do ventre, o seu galardão.",
+      "verse_ref": "Salmo 127:3"
+    },
+    {
+      "id": "q_psalms_044",
+      "question": "Complete o espaço em branco: 'Oh! Quão bom e quão suave é que os irmãos vivam em _____!'",
+      "correct": "união",
+      "wrong": ["paz", "harmonia", "amor"],
+      "hint": "Isto significa estar junto ou em unidade",
+      "explanation": "A unidade entre os crentes é agradável a Deus.",
+      "full_verse": "Oh! Quão bom e quão suave é que os irmãos vivam em união!",
+      "verse_ref": "Salmo 133:1"
+    },
+    {
+      "id": "q_psalms_045",
+      "question": "Complete o espaço em branco: 'Sonda-me, ó Deus, e conhece o meu coração; prova-me e conhece os meus pensamentos. E vê se há em mim algum caminho mau e guia-me pelo caminho _____.'",
+      "correct": "eterno",
+      "wrong": ["reto", "justo", "santo"],
+      "hint": "Isto significa que dura para sempre",
+      "explanation": "Convidamos Deus a nos examinar e nos guiar para a vida eterna.",
+      "full_verse": "Sonda-me, ó Deus, e conhece o meu coração; prova-me e conhece os meus pensamentos. E vê se há em mim algum caminho mau e guia-me pelo caminho eterno.",
+      "verse_ref": "Salmo 139:23-24"
+    },
+    {
+      "id": "q_psalms_046",
+      "question": "Complete o espaço em branco: 'Faze-me ouvir pela manhã a tua benignidade, porque em ti _____ ; faze-me saber o caminho que devo seguir, porque a ti levanto a minha alma.'",
+      "correct": "confio",
+      "wrong": ["espero", "creio", "descanso"],
+      "hint": "Esta é a confiança em alguém",
+      "explanation": "Buscamos a orientação e o amor de Deus a cada manhã.",
+      "full_verse": "Faze-me ouvir pela manhã a tua benignidade, porque em ti confio; faze-me saber o caminho que devo seguir, porque a ti levanto a minha alma.",
+      "verse_ref": "Salmo 143:8"
+    },
+    {
+      "id": "q_psalms_047",
+      "question": "Complete o espaço em branco: 'Sara os quebrantados de coração e liga-lhes as _____.'",
+      "correct": "feridas",
+      "wrong": ["dores", "mágoas", "tristezas"],
+      "hint": "Estas são lesões que precisam de cura",
+      "explanation": "Deus traz cura para aqueles que estão emocionalmente feridos.",
+      "full_verse": "Sara os quebrantados de coração e liga-lhes as feridas.",
+      "verse_ref": "Salmo 147:3"
+    },
+    {
+      "id": "q_psalms_048",
+      "question": "Complete o espaço em branco: 'Deitar-me faz em verdes pastos, guia-me mansamente a águas tranquilas. Refrigera a minha _____.'",
+      "correct": "alma",
+      "wrong": ["espírito", "coração", "mente"],
+      "hint": "Esta é a parte espiritual de uma pessoa",
+      "explanation": "Deus provê descanso e renovação para nosso ser mais íntimo.",
+      "full_verse": "Deitar-me faz em verdes pastos, guia-me mansamente a águas tranquilas. Refrigera a minha alma.",
+      "verse_ref": "Salmo 23:2-3"
+    },
+    {
+      "id": "q_psalms_049",
+      "question": "Complete o espaço em branco: 'Porque a sua ira dura só um momento; no seu favor está a vida. O choro pode durar uma noite, mas a alegria vem pela _____.'",
+      "correct": "manhã",
+      "wrong": ["aurora", "madrugada", "alvorada"],
+      "hint": "Este é o início de um novo dia",
+      "explanation": "O favor de Deus supera em muito Sua disciplina, e a alegria segue a tristeza.",
+      "full_verse": "Porque a sua ira dura só um momento; no seu favor está a vida. O choro pode durar uma noite, mas a alegria vem pela manhã.",
+      "verse_ref": "Salmo 30:5"
+    },
+    {
+      "id": "q_psalms_050",
+      "question": "Complete o espaço em branco: 'Porque o SENHOR é bom; a sua benignidade dura para sempre, e a sua fidelidade, de geração em _____.'",
+      "correct": "geração",
+      "wrong": ["eternidade", "tempo", "idade"],
+      "hint": "Isto se refere a grupos sucessivos de pessoas ao longo do tempo",
+      "explanation": "A fidelidade de Deus se estende a cada geração.",
+      "full_verse": "Porque o SENHOR é bom; a sua benignidade dura para sempre, e a sua fidelidade, de geração em geração.",
+      "verse_ref": "Salmo 100:5"
+    }
+  ]
+}

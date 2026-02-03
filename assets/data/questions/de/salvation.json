@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_salvation_001",
+      "question": "Fülle die Lücke aus: 'Denn also hat Gott die Welt geliebt, dass er seinen eingeborenen Sohn gab, auf dass alle, die an ihn glauben, nicht verloren werden, sondern das ewige _____ haben.'",
+      "correct": "Leben",
+      "wrong": ["Heil", "Glück", "Freude"],
+      "hint": "Dies ist, was ewig dauert",
+      "explanation": "Gottes Liebe gab uns das Geschenk des ewigen Lebens durch den Glauben an Jesus.",
+      "full_verse": "Denn also hat Gott die Welt geliebt, dass er seinen eingeborenen Sohn gab, auf dass alle, die an ihn glauben, nicht verloren werden, sondern das ewige Leben haben.",
+      "verse_ref": "Johannes 3:16"
+    },
+    {
+      "id": "q_salvation_002",
+      "question": "Fülle die Lücke aus: 'Denn wenn du mit deinem Munde bekennst, dass Jesus der Herr ist, und glaubst in deinem Herzen, dass ihn Gott von den Toten auferweckt hat, so wirst du _____.'",
+      "correct": "selig",
+      "wrong": ["gesegnet", "vergeben", "geheilt"],
+      "hint": "Dies bedeutet, vor der Sünde gerettet zu werden",
+      "explanation": "Die Errettung kommt durch das Bekenntnis Jesu als Herrn und den Glauben an seine Auferstehung.",
+      "full_verse": "Denn wenn du mit deinem Munde bekennst, dass Jesus der Herr ist, und glaubst in deinem Herzen, dass ihn Gott von den Toten auferweckt hat, so wirst du selig.",
+      "verse_ref": "Römer 10:9"
+    },
+    {
+      "id": "q_salvation_003",
+      "question": "Fülle die Lücke aus: 'Denn aus Gnade seid ihr selig geworden durch Glauben, und das nicht aus euch: Gottes Gabe ist es, nicht aus _____, auf dass sich nicht jemand rühme.'",
+      "correct": "Werken",
+      "wrong": ["Taten", "Verdienst", "Leistung"],
+      "hint": "Dies sind Handlungen oder Taten, die wir tun",
+      "explanation": "Die Errettung ist Gottes freies Geschenk, nicht durch unsere eigenen Bemühungen verdient.",
+      "full_verse": "Denn aus Gnade seid ihr selig geworden durch Glauben, und das nicht aus euch: Gottes Gabe ist es, nicht aus Werken, auf dass sich nicht jemand rühme.",
+      "verse_ref": "Epheser 2:8-9"
+    },
+    {
+      "id": "q_salvation_004",
+      "question": "Fülle die Lücke aus: 'Und ist in keinem andern Heil, ist auch kein andrer _____ unter dem Himmel den Menschen gegeben, darin wir sollen selig werden.'",
+      "correct": "Name",
+      "wrong": ["Weg", "Pfad", "Hoffnung"],
+      "hint": "Dies repräsentiert die Identität einer Person",
+      "explanation": "Jesus Christus ist die einzige Quelle der Errettung für die Menschheit.",
+      "full_verse": "Und ist in keinem andern Heil, ist auch kein andrer Name unter dem Himmel den Menschen gegeben, darin wir sollen selig werden.",
+      "verse_ref": "Apostelgeschichte 4:12"
+    },
+    {
+      "id": "q_salvation_005",
+      "question": "Fülle die Lücke aus: 'Jesus spricht zu ihm: Ich bin der Weg und die Wahrheit und das Leben; niemand kommt zum Vater denn durch _____.'",
+      "correct": "mich",
+      "wrong": ["Glauben", "ihn", "Gnade"],
+      "hint": "Jesus bezieht sich auf sich selbst",
+      "explanation": "Jesus ist der einzige Weg zu Gott, dem Vater.",
+      "full_verse": "Jesus spricht zu ihm: Ich bin der Weg und die Wahrheit und das Leben; niemand kommt zum Vater denn durch mich.",
+      "verse_ref": "Johannes 14:6"
+    },
+    {
+      "id": "q_salvation_006",
+      "question": "Fülle die Lücke aus: 'Denn der Sünde Sold ist der Tod; die Gabe Gottes aber ist das ewige Leben in Christus Jesus, unserm _____.'",
+      "correct": "Herrn",
+      "wrong": ["Retter", "König", "Meister"],
+      "hint": "Dieser Titel zeigt Jesu Autorität",
+      "explanation": "Sünde führt zum Tod, aber Gott bietet ewiges Leben durch Jesus.",
+      "full_verse": "Denn der Sünde Sold ist der Tod; die Gabe Gottes aber ist das ewige Leben in Christus Jesus, unserm Herrn.",
+      "verse_ref": "Römer 6:23"
+    },
+    {
+      "id": "q_salvation_007",
+      "question": "Fülle die Lücke aus: 'Sie sprachen: Glaube an den Herrn Jesus, so wirst du und dein _____ selig!'",
+      "correct": "Haus",
+      "wrong": ["Familie", "Kinder", "Volk"],
+      "hint": "Dies bezieht sich auf alle, die in deinem Zuhause leben",
+      "explanation": "Der Glaube an Jesus bringt Errettung, die ganze Familien beeinflussen kann.",
+      "full_verse": "Sie sprachen: Glaube an den Herrn Jesus, so wirst du und dein Haus selig!",
+      "verse_ref": "Apostelgeschichte 16:31"
+    },
+    {
+      "id": "q_salvation_008",
+      "question": "Fülle die Lücke aus: 'Machte er uns selig – nicht um der Werke der Gerechtigkeit willen, die wir getan hatten, sondern nach seiner _____.'",
+      "correct": "Barmherzigkeit",
+      "wrong": ["Gnade", "Liebe", "Güte"],
+      "hint": "Dies ist Mitgefühl, das denen gezeigt wird, die es nicht verdienen",
+      "explanation": "Unsere Errettung basiert auf Gottes Barmherzigkeit, nicht auf unserer eigenen Gerechtigkeit.",
+      "full_verse": "Machte er uns selig – nicht um der Werke der Gerechtigkeit willen, die wir getan hatten, sondern nach seiner Barmherzigkeit – durch das Bad der Wiedergeburt und Erneuerung im Heiligen Geist.",
+      "verse_ref": "Titus 3:5"
+    },
+    {
+      "id": "q_salvation_009",
+      "question": "Fülle die Lücke aus: 'Wie viele ihn aber aufnahmen, denen gab er Macht, Gottes _____ zu werden, denen, die an seinen Namen glauben.'",
+      "correct": "Kinder",
+      "wrong": ["Diener", "Nachfolger", "Jünger"],
+      "hint": "Dies beschreibt eine Familienbeziehung",
+      "explanation": "An Jesus zu glauben gibt uns das Recht, Teil von Gottes Familie zu werden.",
+      "full_verse": "Wie viele ihn aber aufnahmen, denen gab er Macht, Gottes Kinder zu werden, denen, die an seinen Namen glauben.",
+      "verse_ref": "Johannes 1:12"
+    },
+    {
+      "id": "q_salvation_010",
+      "question": "Fülle die Lücke aus: 'Gott aber erweist seine Liebe gegen uns darin, dass Christus für uns gestorben ist, als wir noch _____ waren.'",
+      "correct": "Sünder",
+      "wrong": ["verloren", "Feinde", "schwach"],
+      "hint": "Dies beschreibt Menschen, die Unrecht getan haben",
+      "explanation": "Gottes Liebe zeigt sich darin, dass Christus für uns starb, trotz unserer Sündhaftigkeit.",
+      "full_verse": "Gott aber erweist seine Liebe gegen uns darin, dass Christus für uns gestorben ist, als wir noch Sünder waren.",
+      "verse_ref": "Römer 5:8"
+    },
+    {
+      "id": "q_salvation_011",
+      "question": "Fülle die Lücke aus: 'Denn Gott hat seinen Sohn nicht in die Welt gesandt, dass er die Welt richte, sondern dass die Welt durch ihn _____ werde.'",
+      "correct": "selig",
+      "wrong": ["gerichtet", "erlöst", "geheilt"],
+      "hint": "Dies ist der Zweck von Jesu Kommen",
+      "explanation": "Jesus kam nicht, um zu verurteilen, sondern um die Welt zu retten.",
+      "full_verse": "Denn Gott hat seinen Sohn nicht in die Welt gesandt, dass er die Welt richte, sondern dass die Welt durch ihn selig werde.",
+      "verse_ref": "Johannes 3:17"
+    },
+    {
+      "id": "q_salvation_012",
+      "question": "Fülle die Lücke aus: 'Wahrlich, wahrlich, ich sage euch: Wer mein Wort hört und glaubt dem, der mich gesandt hat, der hat das ewige Leben und kommt nicht in das Gericht, sondern er ist vom Tode zum _____ hindurchgedrungen.'",
+      "correct": "Leben",
+      "wrong": ["Licht", "Frieden", "Heil"],
+      "hint": "Dies ist das Gegenteil von Tod",
+      "explanation": "An Jesus zu glauben bedeutet, vom geistlichen Tod zum ewigen Leben überzugehen.",
+      "full_verse": "Wahrlich, wahrlich, ich sage euch: Wer mein Wort hört und glaubt dem, der mich gesandt hat, der hat das ewige Leben und kommt nicht in das Gericht, sondern er ist vom Tode zum Leben hindurchgedrungen.",
+      "verse_ref": "Johannes 5:24"
+    },
+    {
+      "id": "q_salvation_013",
+      "question": "Fülle die Lücke aus: 'Wahrlich, wahrlich, ich sage euch: Wer _____, der hat das ewige Leben.'",
+      "correct": "glaubt",
+      "wrong": ["gehorcht", "folgt", "betet"],
+      "hint": "Dies bedeutet, Vertrauen zu haben",
+      "explanation": "Ewiges Leben kommt durch den Glauben an Jesus.",
+      "full_verse": "Wahrlich, wahrlich, ich sage euch: Wer glaubt, der hat das ewige Leben.",
+      "verse_ref": "Johannes 6:47"
+    },
+    {
+      "id": "q_salvation_014",
+      "question": "Fülle die Lücke aus: 'Ich bin die Tür; wenn jemand durch mich hineingeht, wird er selig werden und wird ein- und ausgehen und _____ finden.'",
+      "correct": "Weide",
+      "wrong": ["Ruhe", "Frieden", "Leben"],
+      "hint": "Dies ist, wo Schafe grasen",
+      "explanation": "Jesus ist der Eingang zur Errettung und geistlichen Nahrung.",
+      "full_verse": "Ich bin die Tür; wenn jemand durch mich hineingeht, wird er selig werden und wird ein- und ausgehen und Weide finden.",
+      "verse_ref": "Johannes 10:9"
+    },
+    {
+      "id": "q_salvation_015",
+      "question": "Fülle die Lücke aus: 'Und ich gebe ihnen das ewige Leben, und sie werden nimmermehr _____; und niemand wird sie aus meiner Hand reißen.'",
+      "correct": "umkommen",
+      "wrong": ["sterben", "fallen", "versagen"],
+      "hint": "Dies bedeutet, zerstört zu werden",
+      "explanation": "Jesus garantiert ewige Sicherheit für seine Nachfolger.",
+      "full_verse": "Und ich gebe ihnen das ewige Leben, und sie werden nimmermehr umkommen, und niemand wird sie aus meiner Hand reißen.",
+      "verse_ref": "Johannes 10:28"
+    },
+    {
+      "id": "q_salvation_016",
+      "question": "Fülle die Lücke aus: 'Und es soll geschehen: Wer den Namen des Herrn anrufen wird, der soll _____ werden.'",
+      "correct": "selig",
+      "wrong": ["gesegnet", "gehört", "vergeben"],
+      "hint": "Dies bedeutet, vor der Sünde gerettet zu werden",
+      "explanation": "Die Errettung ist für alle verfügbar, die den Herrn anrufen.",
+      "full_verse": "Und es soll geschehen: Wer den Namen des Herrn anrufen wird, der soll selig werden.",
+      "verse_ref": "Apostelgeschichte 2:21"
+    },
+    {
+      "id": "q_salvation_017",
+      "question": "Fülle die Lücke aus: 'Denn ich schäme mich des Evangeliums nicht; denn es ist eine Kraft Gottes, die da selig macht alle, die daran _____; die Juden zuerst und ebenso die Griechen.'",
+      "correct": "glauben",
+      "wrong": ["gehorchen", "bereuen", "folgen"],
+      "hint": "Dies bedeutet, Vertrauen zu haben",
+      "explanation": "Das Evangelium ist Gottes kraftvolle Botschaft der Errettung durch Glauben.",
+      "full_verse": "Denn ich schäme mich des Evangeliums nicht; denn es ist eine Kraft Gottes, die da selig macht alle, die daran glauben; die Juden zuerst und ebenso die Griechen.",
+      "verse_ref": "Römer 1:16"
+    },
+    {
+      "id": "q_salvation_018",
+      "question": "Fülle die Lücke aus: 'Denn sie sind allesamt Sünder und ermangeln des Ruhmes, den sie vor Gott haben sollen, und werden ohne Verdienst gerecht aus seiner _____ durch die Erlösung, die durch Christus Jesus geschehen ist.'",
+      "correct": "Gnade",
+      "wrong": ["Barmherzigkeit", "Liebe", "Macht"],
+      "hint": "Dies ist unverdiente Gunst",
+      "explanation": "Jeder hat gesündigt, aber die Rechtfertigung wird frei durch Gottes Gnade gegeben.",
+      "full_verse": "Denn sie sind allesamt Sünder und ermangeln des Ruhmes, den sie vor Gott haben sollen, und werden ohne Verdienst gerecht aus seiner Gnade durch die Erlösung, die durch Christus Jesus geschehen ist.",
+      "verse_ref": "Römer 3:23-24"
+    },
+    {
+      "id": "q_salvation_019",
+      "question": "Fülle die Lücke aus: 'Um wie viel mehr werden wir nun durch ihn bewahrt werden vor dem Zorn, nachdem wir jetzt durch sein _____ gerecht geworden sind!'",
+      "correct": "Blut",
+      "wrong": ["Tod", "Opfer", "Leiden"],
+      "hint": "Dies ist, was Christus für uns vergossen hat",
+      "explanation": "Christi Blut rettet uns vor dem Zorn, den wir verdienen.",
+      "full_verse": "Um wie viel mehr werden wir nun durch ihn bewahrt werden vor dem Zorn, nachdem wir jetzt durch sein Blut gerecht geworden sind!",
+      "verse_ref": "Römer 5:9"
+    },
+    {
+      "id": "q_salvation_020",
+      "question": "Fülle die Lücke aus: 'So gibt es nun keine _____ für die, die in Christus Jesus sind.'",
+      "correct": "Verdammnis",
+      "wrong": ["Strafe", "Schuld", "Gericht"],
+      "hint": "Dies bedeutet eine Erklärung der Schuld",
+      "explanation": "Die in Christus sind, sind frei vom Urteil der Sünde.",
+      "full_verse": "So gibt es nun keine Verdammnis für die, die in Christus Jesus sind.",
+      "verse_ref": "Römer 8:1"
+    },
+    {
+      "id": "q_salvation_021",
+      "question": "Fülle die Lücke aus: 'Denn »wer den _____ des Herrn anrufen wird, der soll gerettet werden«.'",
+      "correct": "Namen",
+      "wrong": ["Kraft", "Gnade", "Barmherzigkeit"],
+      "hint": "Dies repräsentiert Gottes Identität",
+      "explanation": "Den Namen des Herrn anzurufen bringt Errettung.",
+      "full_verse": "Denn »wer den Namen des Herrn anrufen wird, der soll gerettet werden«.",
+      "verse_ref": "Römer 10:13"
+    },
+    {
+      "id": "q_salvation_022",
+      "question": "Fülle die Lücke aus: 'Darum: Ist jemand in Christus, so ist er eine _____ Kreatur; das Alte ist vergangen, siehe, Neues ist geworden.'",
+      "correct": "neue",
+      "wrong": ["andere", "bessere", "heilige"],
+      "hint": "Dies ist das Gegenteil von alt",
+      "explanation": "In Christus werden wir völlig neue Geschöpfe.",
+      "full_verse": "Darum: Ist jemand in Christus, so ist er eine neue Kreatur; das Alte ist vergangen, siehe, Neues ist geworden.",
+      "verse_ref": "2. Korinther 5:17"
+    },
+    {
+      "id": "q_salvation_023",
+      "question": "Fülle die Lücke aus: 'Doch weil wir wissen, dass der Mensch durch Werke des Gesetzes nicht gerecht wird, sondern durch den _____ an Jesus Christus, sind auch wir zum Glauben an Christus Jesus gekommen.'",
+      "correct": "Glauben",
+      "wrong": ["Vertrauen", "Hoffnung", "Gehorsam"],
+      "hint": "Dies ist zuversichtliches Vertrauen",
+      "explanation": "Die Rechtfertigung kommt durch den Glauben an Christus, nicht durch das Befolgen des Gesetzes.",
+      "full_verse": "Doch weil wir wissen, dass der Mensch durch Werke des Gesetzes nicht gerecht wird, sondern durch den Glauben an Jesus Christus, sind auch wir zum Glauben an Christus Jesus gekommen, damit wir gerecht werden durch den Glauben an Christus und nicht durch Werke des Gesetzes.",
+      "verse_ref": "Galater 2:16"
+    },
+    {
+      "id": "q_salvation_024",
+      "question": "Fülle die Lücke aus: 'In ihm haben wir die Erlösung durch sein Blut, die Vergebung der Sünden, nach dem Reichtum seiner _____.'",
+      "correct": "Gnade",
+      "wrong": ["Barmherzigkeit", "Liebe", "Herrlichkeit"],
+      "hint": "Dies ist unverdiente Gunst von Gott",
+      "explanation": "Erlösung und Vergebung kommen durch Christi Blut und Gottes reiche Gnade.",
+      "full_verse": "In ihm haben wir die Erlösung durch sein Blut, die Vergebung der Sünden, nach dem Reichtum seiner Gnade.",
+      "verse_ref": "Epheser 1:7"
+    },
+    {
+      "id": "q_salvation_025",
+      "question": "Fülle die Lücke aus: 'Er hat uns errettet aus der Macht der _____ und hat uns versetzt in das Reich seines lieben Sohnes, in dem wir die Erlösung haben, nämlich die Vergebung der Sünden.'",
+      "correct": "Finsternis",
+      "wrong": ["Sünde", "Bosheit", "Tod"],
+      "hint": "Dies ist das Gegenteil von Licht",
+      "explanation": "Gott rettet uns aus der Macht der Finsternis und bringt uns in Christi Reich.",
+      "full_verse": "Er hat uns errettet aus der Macht der Finsternis und hat uns versetzt in das Reich seines lieben Sohnes, in dem wir die Erlösung haben, nämlich die Vergebung der Sünden.",
+      "verse_ref": "Kolosser 1:13-14"
+    },
+    {
+      "id": "q_salvation_026",
+      "question": "Fülle die Lücke aus: 'Das ist gewisslich wahr und ein Wort, des Glaubens wert, dass Christus Jesus in die Welt gekommen ist, die _____ selig zu machen, unter denen ich der erste bin.'",
+      "correct": "Sünder",
+      "wrong": ["Seelen", "Menschen", "Verlorenen"],
+      "hint": "Dies sind Menschen, die Unrecht getan haben",
+      "explanation": "Jesus kam speziell, um diejenigen zu retten, die gesündigt haben.",
+      "full_verse": "Das ist gewisslich wahr und ein Wort, des Glaubens wert, dass Christus Jesus in die Welt gekommen ist, die Sünder selig zu machen, unter denen ich der erste bin.",
+      "verse_ref": "1. Timotheus 1:15"
+    },
+    {
+      "id": "q_salvation_027",
+      "question": "Fülle die Lücke aus: 'Welcher will, dass alle Menschen gerettet werden und sie zur Erkenntnis der _____ kommen.'",
+      "correct": "Wahrheit",
+      "wrong": ["Gnade", "Liebe", "Errettung"],
+      "hint": "Dies ist, was wirklich und richtig ist",
+      "explanation": "Gott wünscht, dass alle gerettet werden und die Wahrheit erkennen.",
+      "full_verse": "Welcher will, dass alle Menschen gerettet werden und sie zur Erkenntnis der Wahrheit kommen.",
+      "verse_ref": "1. Timotheus 2:4"
+    },
+    {
+      "id": "q_salvation_028",
+      "question": "Fülle die Lücke aus: 'Der hat uns selig gemacht und berufen mit einem heiligen Ruf, nicht nach unsern Werken, sondern nach seinem Ratschluss und nach der _____.'",
+      "correct": "Gnade",
+      "wrong": ["Liebe", "Barmherzigkeit", "Güte"],
+      "hint": "Dies ist unverdiente Gunst",
+      "explanation": "Die Errettung basiert auf Gottes Gnade und Absicht, nicht auf unseren Werken.",
+      "full_verse": "Der hat uns selig gemacht und berufen mit einem heiligen Ruf, nicht nach unsern Werken, sondern nach seinem Ratschluss und nach der Gnade, die uns gegeben ist in Christus Jesus vor der Zeit der Welt.",
+      "verse_ref": "2. Timotheus 1:9"
+    },
+    {
+      "id": "q_salvation_029",
+      "question": "Fülle die Lücke aus: 'Und da er vollendet war, ist er für alle, die ihm _____, der Urheber der ewigen Seligkeit geworden.'",
+      "correct": "gehorsam",
+      "wrong": ["folgen", "vertrauen", "glauben"],
+      "hint": "Dies bedeutet, Befehlen zu folgen",
+      "explanation": "Jesus ist die Quelle der Errettung für diejenigen, die ihm gehorchen.",
+      "full_verse": "Und da er vollendet war, ist er für alle, die ihm gehorsam sind, der Urheber der ewigen Seligkeit geworden.",
+      "verse_ref": "Hebräer 5:9"
+    },
+    {
+      "id": "q_salvation_030",
+      "question": "Fülle die Lücke aus: 'Daher kann er auch für immer selig machen, die durch ihn zu Gott kommen; denn er lebt für immer und bittet für _____.'",
+      "correct": "sie",
+      "wrong": ["uns", "alle", "sein Volk"],
+      "hint": "Dies bezieht sich auf die Gläubigen",
+      "explanation": "Jesus tritt ständig für die Gläubigen bei Gott ein.",
+      "full_verse": "Daher kann er auch für immer selig machen, die durch ihn zu Gott kommen; denn er lebt für immer und bittet für sie.",
+      "verse_ref": "Hebräer 7:25"
+    },
+    {
+      "id": "q_salvation_031",
+      "question": "Fülle die Lücke aus: 'So ist auch Christus einmal geopfert worden, die Sünden vieler wegzunehmen; zum zweiten Mal erscheint er nicht der Sünde wegen, sondern zur _____ derer, die auf ihn warten.'",
+      "correct": "Seligkeit",
+      "wrong": ["Rettung", "Herrlichkeit", "Freude"],
+      "hint": "Dies ist Befreiung von der Sünde",
+      "explanation": "Christi zweites Kommen wird seinem Volk die endgültige Errettung bringen.",
+      "full_verse": "So ist auch Christus einmal geopfert worden, die Sünden vieler wegzunehmen; zum zweiten Mal erscheint er nicht der Sünde wegen, sondern zur Seligkeit derer, die auf ihn warten.",
+      "verse_ref": "Hebräer 9:28"
+    },
+    {
+      "id": "q_salvation_032",
+      "question": "Fülle die Lücke aus: 'Gelobt sei Gott, der Vater unseres Herrn Jesus Christus, der uns nach seiner großen Barmherzigkeit wiedergeboren hat zu einer lebendigen Hoffnung durch die Auferstehung Jesu Christi von den Toten, zu einem unvergänglichen und unbefleckten und unverwelklichen Erbe, das aufbewahrt wird im _____.'",
+      "correct": "Himmel",
+      "wrong": ["Herzen", "Geist", "Glauben"],
+      "hint": "Dies ist, wo Gott wohnt",
+      "explanation": "Unser himmlisches Erbe ist ewig und unveränderlich.",
+      "full_verse": "Gelobt sei Gott, der Vater unseres Herrn Jesus Christus, der uns nach seiner großen Barmherzigkeit wiedergeboren hat zu einer lebendigen Hoffnung durch die Auferstehung Jesu Christi von den Toten, zu einem unvergänglichen und unbefleckten und unverwelklichen Erbe, das aufbewahrt wird im Himmel.",
+      "verse_ref": "1. Petrus 1:3-4"
+    },
+    {
+      "id": "q_salvation_033",
+      "question": "Fülle die Lücke aus: 'Wenn ihr das Ziel eures Glaubens erlangt, nämlich der _____ Seligkeit.'",
+      "correct": "Seelen",
+      "wrong": ["ewigen", "wahren", "endgültigen"],
+      "hint": "Dies ist der spirituelle Teil einer Person",
+      "explanation": "Das ultimative Ziel des Glaubens ist die Errettung unserer Seelen.",
+      "full_verse": "Wenn ihr das Ziel eures Glaubens erlangt, nämlich der Seelen Seligkeit.",
+      "verse_ref": "1. Petrus 1:9"
+    },
+    {
+      "id": "q_salvation_034",
+      "question": "Fülle die Lücke aus: 'Der unsre Sünden selbst hinaufgetragen hat an seinem Leibe auf das Holz, auf dass wir, den Sünden abgestorben, der Gerechtigkeit leben. Durch seine _____ seid ihr heil geworden.'",
+      "correct": "Wunden",
+      "wrong": ["Blut", "Tod", "Opfer"],
+      "hint": "Dies sind Verletzungen am Körper",
+      "explanation": "Christi Leiden am Kreuz bringt unsere geistliche Heilung.",
+      "full_verse": "Der unsre Sünden selbst hinaufgetragen hat an seinem Leibe auf das Holz, auf dass wir, den Sünden abgestorben, der Gerechtigkeit leben. Durch seine Wunden seid ihr heil geworden.",
+      "verse_ref": "1. Petrus 2:24"
+    },
+    {
+      "id": "q_salvation_035",
+      "question": "Fülle die Lücke aus: 'Denn auch Christus hat einmal für die Sünden gelitten, der Gerechte für die Ungerechten, damit er euch zu _____ führte.'",
+      "correct": "Gott",
+      "wrong": ["Himmel", "Heil", "Leben"],
+      "hint": "Dies ist, zu wem Christus uns bringt",
+      "explanation": "Christi Leiden diente dazu, uns mit Gott zu versöhnen.",
+      "full_verse": "Denn auch Christus hat einmal für die Sünden gelitten, der Gerechte für die Ungerechten, damit er euch zu Gott führte.",
+      "verse_ref": "1. Petrus 3:18"
+    },
+    {
+      "id": "q_salvation_036",
+      "question": "Fülle die Lücke aus: 'Der Herr verzögert nicht die Verheißung, wie es einige für eine Verzögerung halten; sondern er hat Geduld mit euch und will nicht, dass jemand verloren werde, sondern dass jedermann zur _____ finde.'",
+      "correct": "Buße",
+      "wrong": ["Errettung", "Wahrheit", "Gnade"],
+      "hint": "Dies bedeutet, die Sünden zu bereuen",
+      "explanation": "Gott wartet geduldig darauf, dass alle bereuen und gerettet werden.",
+      "full_verse": "Der Herr verzögert nicht die Verheißung, wie es einige für eine Verzögerung halten; sondern er hat Geduld mit euch und will nicht, dass jemand verloren werde, sondern dass jedermann zur Buße finde.",
+      "verse_ref": "2. Petrus 3:9"
+    },
+    {
+      "id": "q_salvation_037",
+      "question": "Fülle die Lücke aus: 'Wenn wir aber im Licht wandeln, wie er im Licht ist, so haben wir Gemeinschaft untereinander, und das Blut Jesu, seines Sohnes, macht uns rein von aller _____.'",
+      "correct": "Sünde",
+      "wrong": ["Schuld", "Schande", "Unreinheit"],
+      "hint": "Dies ist Unrecht gegen Gott",
+      "explanation": "Jesu Blut reinigt die Gläubigen von aller Sünde.",
+      "full_verse": "Wenn wir aber im Licht wandeln, wie er im Licht ist, so haben wir Gemeinschaft untereinander, und das Blut Jesu, seines Sohnes, macht uns rein von aller Sünde.",
+      "verse_ref": "1. Johannes 1:7"
+    },
+    {
+      "id": "q_salvation_038",
+      "question": "Fülle die Lücke aus: 'Und wir haben gesehen und bezeugen, dass der Vater den Sohn gesandt hat als Heiland der _____.'",
+      "correct": "Welt",
+      "wrong": ["Gläubigen", "Kirche", "Völker"],
+      "hint": "Dies schließt die ganze Menschheit ein",
+      "explanation": "Jesus wurde gesandt, um die ganze Welt zu retten.",
+      "full_verse": "Und wir haben gesehen und bezeugen, dass der Vater den Sohn gesandt hat als Heiland der Welt.",
+      "verse_ref": "1. Johannes 4:14"
+    },
+    {
+      "id": "q_salvation_039",
+      "question": "Fülle die Lücke aus: 'Und das ist das Zeugnis, dass uns Gott das ewige Leben gegeben hat, und dieses Leben ist in seinem _____. Wer den Sohn hat, der hat das Leben; wer den Sohn Gottes nicht hat, der hat das Leben nicht.'",
+      "correct": "Sohn",
+      "wrong": ["Wort", "Geist", "Herzen"],
+      "hint": "Dies bezieht sich auf Jesus",
+      "explanation": "Ewiges Leben findet sich nur in Jesus Christus.",
+      "full_verse": "Und das ist das Zeugnis, dass uns Gott das ewige Leben gegeben hat, und dieses Leben ist in seinem Sohn. Wer den Sohn hat, der hat das Leben; wer den Sohn Gottes nicht hat, der hat das Leben nicht.",
+      "verse_ref": "1. Johannes 5:11-12"
+    },
+    {
+      "id": "q_salvation_040",
+      "question": "Fülle die Lücke aus: 'Siehe, ich stehe vor der Tür und klopfe an. Wenn jemand meine Stimme hören wird und die Tür auftun, zu dem werde ich hineingehen und das Abendmahl mit ihm halten und er mit _____.'",
+      "correct": "mir",
+      "wrong": ["Gott", "ihm", "uns"],
+      "hint": "Jesus bezieht sich auf sich selbst",
+      "explanation": "Jesus lädt uns ein, unsere Herzen zu öffnen und Gemeinschaft mit ihm zu haben.",
+      "full_verse": "Siehe, ich stehe vor der Tür und klopfe an. Wenn jemand meine Stimme hören wird und die Tür auftun, zu dem werde ich hineingehen und das Abendmahl mit ihm halten und er mit mir.",
+      "verse_ref": "Offenbarung 3:20"
+    },
+    {
+      "id": "q_salvation_041",
+      "question": "Fülle die Lücke aus: 'Aber er ist um unsrer Missetat willen verwundet und um unsrer Sünde willen zerschlagen. Die Strafe liegt auf ihm, auf dass wir Frieden hätten, und durch seine _____ sind wir geheilt.'",
+      "correct": "Wunden",
+      "wrong": ["Blut", "Tod", "Leiden"],
+      "hint": "Dies sind Verletzungen am Körper",
+      "explanation": "Christi Leiden und Wunden bringen uns Heilung und Frieden mit Gott.",
+      "full_verse": "Aber er ist um unsrer Missetat willen verwundet und um unsrer Sünde willen zerschlagen. Die Strafe liegt auf ihm, auf dass wir Frieden hätten, und durch seine Wunden sind wir geheilt.",
+      "verse_ref": "Jesaja 53:5"
+    },
+    {
+      "id": "q_salvation_042",
+      "question": "Fülle die Lücke aus: 'Wir gingen alle in die Irre wie Schafe, ein jeder sah auf seinen Weg. Aber der HERR warf unser aller _____ auf ihn.'",
+      "correct": "Sünde",
+      "wrong": ["Schuld", "Last", "Strafe"],
+      "hint": "Dies ist ein anderes Wort für Unrecht",
+      "explanation": "Christus trug die Sünden der ganzen Menschheit auf sich.",
+      "full_verse": "Wir gingen alle in die Irre wie Schafe, ein jeder sah auf seinen Weg. Aber der HERR warf unser aller Sünde auf ihn.",
+      "verse_ref": "Jesaja 53:6"
+    },
+    {
+      "id": "q_salvation_043",
+      "question": "Fülle die Lücke aus: 'Siehe, des HERRN Arm ist nicht zu kurz, dass er nicht helfen könnte, und seine _____ sind nicht taub geworden, dass er nicht hören könnte.'",
+      "correct": "Ohren",
+      "wrong": ["Augen", "Herz", "Hände"],
+      "hint": "Dieses Körperteil wird zum Hören benutzt",
+      "explanation": "Gott ist vollkommen fähig zu retten und unsere Gebete zu hören.",
+      "full_verse": "Siehe, des HERRN Arm ist nicht zu kurz, dass er nicht helfen könnte, und seine Ohren sind nicht taub geworden, dass er nicht hören könnte.",
+      "verse_ref": "Jesaja 59:1"
+    },
+    {
+      "id": "q_salvation_044",
+      "question": "Fülle die Lücke aus: 'Der HERR ist mein Licht und mein Heil; vor wem sollte ich mich fürchten? Der HERR ist meines Lebens _____; vor wem sollte mir grauen?'",
+      "correct": "Kraft",
+      "wrong": ["Stärke", "Schutz", "Schild"],
+      "hint": "Dies ist Macht oder Stärke",
+      "explanation": "Gott ist unser Licht, Heil und unsere sichere Festung.",
+      "full_verse": "Der HERR ist mein Licht und mein Heil; vor wem sollte ich mich fürchten? Der HERR ist meines Lebens Kraft; vor wem sollte mir grauen?",
+      "verse_ref": "Psalm 27:1"
+    },
+    {
+      "id": "q_salvation_045",
+      "question": "Fülle die Lücke aus: 'Meine Seele ist stille zu Gott, der mir hilft. Denn er ist mein Fels, meine Hilfe, mein _____; so werde ich nicht wanken.'",
+      "correct": "Schutz",
+      "wrong": ["Hort", "Turm", "Schild"],
+      "hint": "Dies ist Bewahrung vor Gefahr",
+      "explanation": "Unsere Seelen finden wahre Ruhe nur in Gott, unserer Quelle der Errettung.",
+      "full_verse": "Meine Seele ist stille zu Gott, der mir hilft. Denn er ist mein Fels, meine Hilfe, mein Schutz, daß ich nicht wanken werde.",
+      "verse_ref": "Psalm 62:2-3"
+    },
+    {
+      "id": "q_salvation_046",
+      "question": "Fülle die Lücke aus: 'Gott ist uns ein Gott, der da hilft, und der HERR, der Herr, der vom _____ errettet.'",
+      "correct": "Tode",
+      "wrong": ["Bösen", "Gericht", "Verderben"],
+      "hint": "Dies ist das Ende des Lebens",
+      "explanation": "Gott hat Macht über den Tod und bietet Befreiung davon.",
+      "full_verse": "Gott ist uns ein Gott, der da hilft, und der HERR, der Herr, der vom Tode errettet.",
+      "verse_ref": "Psalm 68:21"
+    },
+    {
+      "id": "q_salvation_047",
+      "question": "Fülle die Lücke aus: 'Der HERR ist meine Stärke und mein Lobgesang und ist mein _____.'",
+      "correct": "Heil",
+      "wrong": ["Schild", "Zuflucht", "Hoffnung"],
+      "hint": "Dies ist Befreiung von Gefahr oder Sünde",
+      "explanation": "Gott selbst ist unsere Errettung und Verteidigung.",
+      "full_verse": "Der HERR ist meine Stärke und mein Lobgesang und ist mein Heil.",
+      "verse_ref": "Psalm 118:14"
+    },
+    {
+      "id": "q_salvation_048",
+      "question": "Fülle die Lücke aus: 'Denn der Menschensohn ist gekommen, zu suchen und selig zu machen, was _____ ist.'",
+      "correct": "verloren",
+      "wrong": ["schwach", "sündig", "arm"],
+      "hint": "Dies beschreibt Menschen, die geistlich umherirren",
+      "explanation": "Jesu Mission war es, diejenigen zu finden und zu retten, die geistlich verloren sind.",
+      "full_verse": "Denn der Menschensohn ist gekommen, zu suchen und selig zu machen, was verloren ist.",
+      "verse_ref": "Lukas 19:10"
+    },
+    {
+      "id": "q_salvation_049",
+      "question": "Fülle die Lücke aus: 'Und sie wird einen Sohn gebären, dem sollst du den Namen Jesus geben, denn er wird sein _____ retten von ihren Sünden.'",
+      "correct": "Volk",
+      "wrong": ["Kinder", "Nachfolger", "Kirche"],
+      "hint": "Dies bezieht sich auf diejenigen, die zu ihm gehören",
+      "explanation": "Der Name Jesus bedeutet 'der Herr rettet', weil er sein Volk von der Sünde rettet.",
+      "full_verse": "Und sie wird einen Sohn gebären, dem sollst du den Namen Jesus geben, denn er wird sein Volk retten von ihren Sünden.",
+      "verse_ref": "Matthäus 1:21"
+    },
+    {
+      "id": "q_salvation_050",
+      "question": "Fülle die Lücke aus: 'Wer da glaubt und getauft wird, der wird selig werden; wer aber nicht glaubt, der wird _____ werden.'",
+      "correct": "verdammt",
+      "wrong": ["verloren", "gerichtet", "bestraft"],
+      "hint": "Dies bedeutet, für schuldig erklärt zu werden",
+      "explanation": "Glaube führt zur Errettung, während Unglaube zur Verdammnis führt.",
+      "full_verse": "Wer da glaubt und getauft wird, der wird selig werden; wer aber nicht glaubt, der wird verdammt werden.",
+      "verse_ref": "Markus 16:16"
+    }
+  ]
+}

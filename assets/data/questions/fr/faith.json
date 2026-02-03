@@ -1,1 +1,452 @@
-{}
+{
+  "faith_001": {
+    "question": "Selon Hébreux 11:1, la foi est « une ferme assurance des choses qu'on _____ ».",
+    "correct": "espère",
+    "wrong": ["voit", "touche", "entend"],
+    "hint": "C'est lié à l'anticipation du futur.",
+    "explanation": "La foi est une ferme assurance des choses qu'on espère, une démonstration de celles qu'on ne voit pas.",
+    "full_verse": "Or la foi est une ferme assurance des choses qu'on espère, une démonstration de celles qu'on ne voit pas.",
+    "verse_ref": "Hébreux 11:1"
+  },
+  "faith_002": {
+    "question": "Hébreux 11:1 dit que la foi est une « _____ de celles qu'on ne voit pas ».",
+    "correct": "démonstration",
+    "wrong": ["imagination", "négation", "description"],
+    "hint": "C'est une preuve ou une certitude.",
+    "explanation": "La foi nous donne la certitude des réalités invisibles.",
+    "full_verse": "Or la foi est une ferme assurance des choses qu'on espère, une démonstration de celles qu'on ne voit pas.",
+    "verse_ref": "Hébreux 11:1"
+  },
+  "faith_003": {
+    "question": "Selon Romains 10:17, « la foi vient de ce qu'on _____ ».",
+    "correct": "entend",
+    "wrong": ["voit", "touche", "ressent"],
+    "hint": "C'est lié à l'écoute.",
+    "explanation": "Ainsi la foi vient de ce qu'on entend, et ce qu'on entend vient de la parole de Christ.",
+    "full_verse": "Ainsi la foi vient de ce qu'on entend, et ce qu'on entend vient de la parole de Christ.",
+    "verse_ref": "Romains 10:17"
+  },
+  "faith_004": {
+    "question": "Romains 10:17 enseigne que ce qu'on entend vient de « la parole de _____ ».",
+    "correct": "Christ",
+    "wrong": ["Moïse", "Pierre", "Paul"],
+    "hint": "C'est le nom du Fils de Dieu.",
+    "explanation": "La foi vient de l'écoute de la parole de Christ.",
+    "full_verse": "Ainsi la foi vient de ce qu'on entend, et ce qu'on entend vient de la parole de Christ.",
+    "verse_ref": "Romains 10:17"
+  },
+  "faith_005": {
+    "question": "Selon Galates 2:20, Paul dit : « Ce n'est plus moi qui vis, c'est _____ qui vit en moi. »",
+    "correct": "Christ",
+    "wrong": ["l'Esprit", "Dieu", "l'amour"],
+    "hint": "C'est le Sauveur.",
+    "explanation": "Par la foi, Christ vit en nous et nous vivons pour lui.",
+    "full_verse": "J'ai été crucifié avec Christ; et si je vis, ce n'est plus moi qui vis, c'est Christ qui vit en moi; si je vis maintenant dans la chair, je vis dans la foi au Fils de Dieu, qui m'a aimé et qui s'est livré lui-même pour moi.",
+    "verse_ref": "Galates 2:20"
+  },
+  "faith_006": {
+    "question": "Galates 2:20 dit que Paul vit « dans la foi au _____ de Dieu ».",
+    "correct": "Fils",
+    "wrong": ["Père", "Esprit", "serviteur"],
+    "hint": "C'est la relation familiale de Jésus avec Dieu.",
+    "explanation": "Nous vivons par la foi en Jésus-Christ, le Fils de Dieu.",
+    "full_verse": "J'ai été crucifié avec Christ; et si je vis, ce n'est plus moi qui vis, c'est Christ qui vit en moi; si je vis maintenant dans la chair, je vis dans la foi au Fils de Dieu, qui m'a aimé et qui s'est livré lui-même pour moi.",
+    "verse_ref": "Galates 2:20"
+  },
+  "faith_007": {
+    "question": "Selon Jacques 2:17, « la foi sans les _____ est morte ».",
+    "correct": "œuvres",
+    "wrong": ["paroles", "prières", "chants"],
+    "hint": "Ce sont les actions.",
+    "explanation": "La vraie foi se manifeste par des actions concrètes.",
+    "full_verse": "Il en est ainsi de la foi: si elle n'a pas les œuvres, elle est morte en elle-même.",
+    "verse_ref": "Jacques 2:17"
+  },
+  "faith_008": {
+    "question": "Jacques 2:17 dit que la foi sans les œuvres est « _____ en elle-même ».",
+    "correct": "morte",
+    "wrong": ["vivante", "faible", "forte"],
+    "hint": "C'est le contraire de vivante.",
+    "explanation": "Une foi qui ne produit pas d'œuvres est une foi sans vie.",
+    "full_verse": "Il en est ainsi de la foi: si elle n'a pas les œuvres, elle est morte en elle-même.",
+    "verse_ref": "Jacques 2:17"
+  },
+  "faith_009": {
+    "question": "Selon Éphésiens 2:8, « c'est par la _____ que vous êtes sauvés ».",
+    "correct": "grâce",
+    "wrong": ["loi", "force", "sagesse"],
+    "hint": "C'est un don immérité de Dieu.",
+    "explanation": "Le salut est un don de la grâce divine, reçu par la foi.",
+    "full_verse": "Car c'est par la grâce que vous êtes sauvés, par le moyen de la foi. Et cela ne vient pas de vous, c'est le don de Dieu.",
+    "verse_ref": "Éphésiens 2:8"
+  },
+  "faith_010": {
+    "question": "Éphésiens 2:8 dit que le salut « ne vient pas de vous, c'est le _____ de Dieu ».",
+    "correct": "don",
+    "wrong": ["travail", "ordre", "désir"],
+    "hint": "C'est quelque chose de gratuit.",
+    "explanation": "Le salut est un cadeau gratuit de Dieu, pas le fruit de nos efforts.",
+    "full_verse": "Car c'est par la grâce que vous êtes sauvés, par le moyen de la foi. Et cela ne vient pas de vous, c'est le don de Dieu.",
+    "verse_ref": "Éphésiens 2:8"
+  },
+  "faith_011": {
+    "question": "Selon Hébreux 11:6, « sans la foi il est _____ de lui être agréable ».",
+    "correct": "impossible",
+    "wrong": ["possible", "facile", "difficile"],
+    "hint": "Cela signifie qu'on ne peut absolument pas.",
+    "explanation": "La foi est essentielle pour plaire à Dieu.",
+    "full_verse": "Or sans la foi il est impossible de lui être agréable; car il faut que celui qui s'approche de Dieu croie que Dieu existe, et qu'il est le rémunérateur de ceux qui le cherchent.",
+    "verse_ref": "Hébreux 11:6"
+  },
+  "faith_012": {
+    "question": "Hébreux 11:6 dit que celui qui s'approche de Dieu doit croire qu'il est « le _____ de ceux qui le cherchent ».",
+    "correct": "rémunérateur",
+    "wrong": ["juge", "créateur", "destructeur"],
+    "hint": "C'est celui qui récompense.",
+    "explanation": "Dieu récompense ceux qui le cherchent sincèrement.",
+    "full_verse": "Or sans la foi il est impossible de lui être agréable; car il faut que celui qui s'approche de Dieu croie que Dieu existe, et qu'il est le rémunérateur de ceux qui le cherchent.",
+    "verse_ref": "Hébreux 11:6"
+  },
+  "faith_013": {
+    "question": "Selon Marc 11:22, Jésus dit : « Ayez _____ en Dieu. »",
+    "correct": "foi",
+    "wrong": ["peur", "honte", "doute"],
+    "hint": "C'est le thème principal de cette catégorie.",
+    "explanation": "Jésus nous appelle à avoir une confiance totale en Dieu.",
+    "full_verse": "Jésus prit la parole, et leur dit: Ayez foi en Dieu.",
+    "verse_ref": "Marc 11:22"
+  },
+  "faith_014": {
+    "question": "Selon Marc 11:23, celui qui dit à cette _____ : « Ôte-toi de là » et croit, cela arrivera.",
+    "correct": "montagne",
+    "wrong": ["rivière", "forêt", "vallée"],
+    "hint": "C'est une grande élévation naturelle.",
+    "explanation": "La foi peut déplacer les obstacles les plus grands.",
+    "full_verse": "Je vous le dis en vérité, si quelqu'un dit à cette montagne: Ôte-toi de là et jette-toi dans la mer, et s'il ne doute point en son cœur, mais croit que ce qu'il dit arrive, il le verra s'accomplir.",
+    "verse_ref": "Marc 11:23"
+  },
+  "faith_015": {
+    "question": "Selon Romains 1:17, « Le _____ vivra par la foi. »",
+    "correct": "juste",
+    "wrong": ["pécheur", "riche", "sage"],
+    "hint": "C'est celui qui est en règle avec Dieu.",
+    "explanation": "Ceux qui sont déclarés justes vivent par la foi.",
+    "full_verse": "Car en lui la justice de Dieu est révélée par la foi et pour la foi, selon qu'il est écrit: Le juste vivra par la foi.",
+    "verse_ref": "Romains 1:17"
+  },
+  "faith_016": {
+    "question": "Romains 1:17 dit que « la _____ de Dieu est révélée par la foi ».",
+    "correct": "justice",
+    "wrong": ["colère", "puissance", "sagesse"],
+    "hint": "C'est ce qui nous rend justes devant Dieu.",
+    "explanation": "La justice de Dieu est révélée et reçue par la foi.",
+    "full_verse": "Car en lui la justice de Dieu est révélée par la foi et pour la foi, selon qu'il est écrit: Le juste vivra par la foi.",
+    "verse_ref": "Romains 1:17"
+  },
+  "faith_017": {
+    "question": "Selon 2 Corinthiens 5:7, « nous marchons par la _____, et non par la vue ».",
+    "correct": "foi",
+    "wrong": ["peur", "force", "sagesse"],
+    "hint": "C'est le thème de cette catégorie.",
+    "explanation": "Notre vie chrétienne est guidée par la foi, pas par ce que nous voyons.",
+    "full_verse": "car nous marchons par la foi et non par la vue.",
+    "verse_ref": "2 Corinthiens 5:7"
+  },
+  "faith_018": {
+    "question": "2 Corinthiens 5:7 dit que nous ne marchons pas par « la _____ ».",
+    "correct": "vue",
+    "wrong": ["foi", "prière", "parole"],
+    "hint": "C'est le sens de la vision.",
+    "explanation": "Nous ne nous fions pas à ce que nous voyons, mais à ce que Dieu dit.",
+    "full_verse": "car nous marchons par la foi et non par la vue.",
+    "verse_ref": "2 Corinthiens 5:7"
+  },
+  "faith_019": {
+    "question": "Selon Matthieu 17:20, si vous aviez de la foi comme un grain de _____...",
+    "correct": "sénevé",
+    "wrong": ["blé", "riz", "orge"],
+    "hint": "C'est une très petite graine.",
+    "explanation": "Même une foi minuscule peut accomplir de grandes choses.",
+    "full_verse": "C'est à cause de votre incrédulité, leur dit Jésus. Je vous le dis en vérité, si vous aviez de la foi comme un grain de sénevé, vous diriez à cette montagne: Transporte-toi d'ici là, et elle se transporterait; rien ne vous serait impossible.",
+    "verse_ref": "Matthieu 17:20"
+  },
+  "faith_020": {
+    "question": "Matthieu 17:20 dit qu'avec la foi, « _____ ne vous serait impossible ».",
+    "correct": "rien",
+    "wrong": ["tout", "peu", "beaucoup"],
+    "hint": "Cela signifie aucune chose.",
+    "explanation": "Avec la foi, toutes choses deviennent possibles.",
+    "full_verse": "C'est à cause de votre incrédulité, leur dit Jésus. Je vous le dis en vérité, si vous aviez de la foi comme un grain de sénevé, vous diriez à cette montagne: Transporte-toi d'ici là, et elle se transporterait; rien ne vous serait impossible.",
+    "verse_ref": "Matthieu 17:20"
+  },
+  "faith_021": {
+    "question": "Selon Romains 5:1, « étant donc _____ par la foi, nous avons la paix avec Dieu ».",
+    "correct": "justifiés",
+    "wrong": ["condamnés", "abandonnés", "oubliés"],
+    "hint": "Cela signifie déclarés justes.",
+    "explanation": "Par la foi, nous sommes déclarés justes et réconciliés avec Dieu.",
+    "full_verse": "Étant donc justifiés par la foi, nous avons la paix avec Dieu par notre Seigneur Jésus-Christ.",
+    "verse_ref": "Romains 5:1"
+  },
+  "faith_022": {
+    "question": "Romains 5:1 dit que par la foi nous avons « la _____ avec Dieu ».",
+    "correct": "paix",
+    "wrong": ["guerre", "distance", "peur"],
+    "hint": "C'est l'absence de conflit.",
+    "explanation": "La foi nous réconcilie avec Dieu et nous donne la paix.",
+    "full_verse": "Étant donc justifiés par la foi, nous avons la paix avec Dieu par notre Seigneur Jésus-Christ.",
+    "verse_ref": "Romains 5:1"
+  },
+  "faith_023": {
+    "question": "Selon 1 Pierre 1:7, « l'épreuve de votre _____ est plus précieuse que l'or ».",
+    "correct": "foi",
+    "wrong": ["patience", "sagesse", "force"],
+    "hint": "C'est le thème de cette catégorie.",
+    "explanation": "La foi éprouvée a plus de valeur que l'or périssable.",
+    "full_verse": "afin que l'épreuve de votre foi, plus précieuse que l'or périssable qui cependant est éprouvé par le feu, ait pour résultat la louange, la gloire et l'honneur, lorsque Jésus-Christ apparaîtra.",
+    "verse_ref": "1 Pierre 1:7"
+  },
+  "faith_024": {
+    "question": "1 Pierre 1:7 compare l'épreuve de la foi à l'or éprouvé par « le _____ ».",
+    "correct": "feu",
+    "wrong": ["eau", "temps", "vent"],
+    "hint": "C'est ce qui purifie l'or.",
+    "explanation": "Comme l'or est purifié par le feu, notre foi est affinée par les épreuves.",
+    "full_verse": "afin que l'épreuve de votre foi, plus précieuse que l'or périssable qui cependant est éprouvé par le feu, ait pour résultat la louange, la gloire et l'honneur, lorsque Jésus-Christ apparaîtra.",
+    "verse_ref": "1 Pierre 1:7"
+  },
+  "faith_025": {
+    "question": "Selon Jacques 1:6, celui qui doute « est semblable au flot de la _____ ».",
+    "correct": "mer",
+    "wrong": ["rivière", "fontaine", "pluie"],
+    "hint": "C'est une grande étendue d'eau salée.",
+    "explanation": "Le doute nous rend instables comme les vagues de la mer.",
+    "full_verse": "Mais qu'il la demande avec foi, sans douter; car celui qui doute est semblable au flot de la mer, agité par le vent et poussé de côté et d'autre.",
+    "verse_ref": "Jacques 1:6"
+  },
+  "faith_026": {
+    "question": "Jacques 1:6 dit de demander « avec foi, sans _____ ».",
+    "correct": "douter",
+    "wrong": ["prier", "espérer", "croire"],
+    "hint": "C'est le contraire de croire fermement.",
+    "explanation": "Nous devons prier avec une foi ferme, sans hésitation.",
+    "full_verse": "Mais qu'il la demande avec foi, sans douter; car celui qui doute est semblable au flot de la mer, agité par le vent et poussé de côté et d'autre.",
+    "verse_ref": "Jacques 1:6"
+  },
+  "faith_027": {
+    "question": "Selon Galates 3:11, « le juste vivra par la _____ ».",
+    "correct": "foi",
+    "wrong": ["loi", "force", "sagesse"],
+    "hint": "C'est la confiance en Dieu.",
+    "explanation": "La justification vient par la foi, non par la loi.",
+    "full_verse": "Et que nul ne soit justifié devant Dieu par la loi, cela est évident, puisqu'il est dit: Le juste vivra par la foi.",
+    "verse_ref": "Galates 3:11"
+  },
+  "faith_028": {
+    "question": "Galates 3:11 dit que « nul ne soit justifié devant Dieu par la _____ ».",
+    "correct": "loi",
+    "wrong": ["foi", "grâce", "prière"],
+    "hint": "Ce sont les commandements de l'Ancien Testament.",
+    "explanation": "L'observance de la loi ne peut nous justifier devant Dieu.",
+    "full_verse": "Et que nul ne soit justifié devant Dieu par la loi, cela est évident, puisqu'il est dit: Le juste vivra par la foi.",
+    "verse_ref": "Galates 3:11"
+  },
+  "faith_029": {
+    "question": "Selon Romains 4:20, Abraham « ne douta point, par _____, au sujet de la promesse de Dieu ».",
+    "correct": "incrédulité",
+    "wrong": ["fidélité", "obéissance", "sagesse"],
+    "hint": "C'est le manque de foi.",
+    "explanation": "Abraham n'a pas douté de la promesse de Dieu par manque de foi.",
+    "full_verse": "Il ne douta point, par incrédulité, au sujet de la promesse de Dieu; mais il fut fortifié par la foi, donnant gloire à Dieu.",
+    "verse_ref": "Romains 4:20"
+  },
+  "faith_030": {
+    "question": "Romains 4:20 dit qu'Abraham « fut _____ par la foi ».",
+    "correct": "fortifié",
+    "wrong": ["affaibli", "troublé", "abandonné"],
+    "hint": "Cela signifie rendu plus fort.",
+    "explanation": "La foi a donné force à Abraham face à l'impossible.",
+    "full_verse": "Il ne douta point, par incrédulité, au sujet de la promesse de Dieu; mais il fut fortifié par la foi, donnant gloire à Dieu.",
+    "verse_ref": "Romains 4:20"
+  },
+  "faith_031": {
+    "question": "Selon 1 Jean 5:4, « la victoire qui triomphe du monde, c'est notre _____ ».",
+    "correct": "foi",
+    "wrong": ["force", "sagesse", "richesse"],
+    "hint": "C'est la confiance en Dieu.",
+    "explanation": "Par la foi, nous vainquons le monde et ses tentations.",
+    "full_verse": "parce que tout ce qui est né de Dieu triomphe du monde; et la victoire qui triomphe du monde, c'est notre foi.",
+    "verse_ref": "1 Jean 5:4"
+  },
+  "faith_032": {
+    "question": "1 Jean 5:4 dit que « tout ce qui est né de _____ triomphe du monde ».",
+    "correct": "Dieu",
+    "wrong": ["l'homme", "la chair", "la terre"],
+    "hint": "C'est notre Père céleste.",
+    "explanation": "Ceux qui sont nés de Dieu ont la victoire sur le monde.",
+    "full_verse": "parce que tout ce qui est né de Dieu triomphe du monde; et la victoire qui triomphe du monde, c'est notre foi.",
+    "verse_ref": "1 Jean 5:4"
+  },
+  "faith_033": {
+    "question": "Selon Éphésiens 6:16, prenez « le _____ de la foi » pour éteindre les traits enflammés du malin.",
+    "correct": "bouclier",
+    "wrong": ["casque", "épée", "ceinture"],
+    "hint": "C'est une armure défensive.",
+    "explanation": "La foi nous protège comme un bouclier contre les attaques de l'ennemi.",
+    "full_verse": "prenez par-dessus tout cela le bouclier de la foi, avec lequel vous pourrez éteindre tous les traits enflammés du malin.",
+    "verse_ref": "Éphésiens 6:16"
+  },
+  "faith_034": {
+    "question": "Éphésiens 6:16 dit que le bouclier de la foi éteint « les traits _____ du malin ».",
+    "correct": "enflammés",
+    "wrong": ["glacés", "empoisonnés", "cachés"],
+    "hint": "Cela suggère le feu.",
+    "explanation": "Les attaques spirituelles sont comparées à des flèches de feu.",
+    "full_verse": "prenez par-dessus tout cela le bouclier de la foi, avec lequel vous pourrez éteindre tous les traits enflammés du malin.",
+    "verse_ref": "Éphésiens 6:16"
+  },
+  "faith_035": {
+    "question": "Selon Hébreux 12:2, Jésus est « le chef et le _____ de la foi ».",
+    "correct": "consommateur",
+    "wrong": ["destructeur", "créateur", "observateur"],
+    "hint": "C'est celui qui accomplit parfaitement.",
+    "explanation": "Jésus est l'auteur et le perfecteur de notre foi.",
+    "full_verse": "ayant les regards sur Jésus, le chef et le consommateur de la foi, qui, en vue de la joie qui lui était réservée, a souffert la croix, méprisé l'ignominie, et s'est assis à la droite du trône de Dieu.",
+    "verse_ref": "Hébreux 12:2"
+  },
+  "faith_036": {
+    "question": "Hébreux 12:2 nous dit d'avoir « les _____ sur Jésus ».",
+    "correct": "regards",
+    "wrong": ["mains", "pieds", "pensées"],
+    "hint": "C'est lié à la vision.",
+    "explanation": "Nous devons fixer nos yeux sur Jésus dans notre course de la foi.",
+    "full_verse": "ayant les regards sur Jésus, le chef et le consommateur de la foi, qui, en vue de la joie qui lui était réservée, a souffert la croix, méprisé l'ignominie, et s'est assis à la droite du trône de Dieu.",
+    "verse_ref": "Hébreux 12:2"
+  },
+  "faith_037": {
+    "question": "Selon Marc 9:23, Jésus dit : « Tout est _____ à celui qui croit. »",
+    "correct": "possible",
+    "wrong": ["interdit", "difficile", "impossible"],
+    "hint": "Cela signifie réalisable.",
+    "explanation": "La foi ouvre la porte à toutes les possibilités en Dieu.",
+    "full_verse": "Jésus lui dit: Si tu peux!... Tout est possible à celui qui croit.",
+    "verse_ref": "Marc 9:23"
+  },
+  "faith_038": {
+    "question": "Selon Marc 9:24, le père de l'enfant dit : « Je crois! viens au secours de mon _____ ! »",
+    "correct": "incrédulité",
+    "wrong": ["fils", "âme", "cœur"],
+    "hint": "C'est le contraire de la foi.",
+    "explanation": "Même avec une foi faible, nous pouvons demander à Dieu de l'aide.",
+    "full_verse": "Aussitôt le père de l'enfant s'écria: Je crois! viens au secours de mon incrédulité!",
+    "verse_ref": "Marc 9:24"
+  },
+  "faith_039": {
+    "question": "Selon Romains 10:9, « si tu _____ de ta bouche le Seigneur Jésus... tu seras sauvé ».",
+    "correct": "confesses",
+    "wrong": ["nies", "caches", "oublies"],
+    "hint": "Cela signifie déclarer ouvertement.",
+    "explanation": "La confession de Jésus comme Seigneur est essentielle au salut.",
+    "full_verse": "Si tu confesses de ta bouche le Seigneur Jésus, et si tu crois dans ton cœur que Dieu l'a ressuscité des morts, tu seras sauvé.",
+    "verse_ref": "Romains 10:9"
+  },
+  "faith_040": {
+    "question": "Romains 10:9 dit de croire que Dieu a « _____ » Jésus des morts.",
+    "correct": "ressuscité",
+    "wrong": ["abandonné", "oublié", "créé"],
+    "hint": "C'est revenir à la vie.",
+    "explanation": "La foi en la résurrection de Christ est centrale au christianisme.",
+    "full_verse": "Si tu confesses de ta bouche le Seigneur Jésus, et si tu crois dans ton cœur que Dieu l'a ressuscité des morts, tu seras sauvé.",
+    "verse_ref": "Romains 10:9"
+  },
+  "faith_041": {
+    "question": "Selon Hébreux 11:3, « c'est par la foi que nous reconnaissons que le monde a été formé par la _____ de Dieu ».",
+    "correct": "parole",
+    "wrong": ["main", "pensée", "volonté"],
+    "hint": "Dieu a parlé et le monde fut.",
+    "explanation": "Par la foi, nous comprenons que Dieu a créé l'univers par sa parole.",
+    "full_verse": "C'est par la foi que nous reconnaissons que le monde a été formé par la parole de Dieu, en sorte que ce qu'on voit n'a pas été fait de choses visibles.",
+    "verse_ref": "Hébreux 11:3"
+  },
+  "faith_042": {
+    "question": "Hébreux 11:3 dit que « ce qu'on voit n'a pas été fait de choses _____ ».",
+    "correct": "visibles",
+    "wrong": ["invisibles", "éternelles", "terrestres"],
+    "hint": "Ce qu'on peut voir avec les yeux.",
+    "explanation": "Le monde visible a été créé à partir de l'invisible.",
+    "full_verse": "C'est par la foi que nous reconnaissons que le monde a été formé par la parole de Dieu, en sorte que ce qu'on voit n'a pas été fait de choses visibles.",
+    "verse_ref": "Hébreux 11:3"
+  },
+  "faith_043": {
+    "question": "Selon 1 Timothée 6:12, Paul dit : « Combats le bon combat de la _____ ».",
+    "correct": "foi",
+    "wrong": ["vie", "guerre", "victoire"],
+    "hint": "C'est la confiance en Dieu.",
+    "explanation": "La vie chrétienne est un combat spirituel pour garder la foi.",
+    "full_verse": "Combats le bon combat de la foi, saisis la vie éternelle, à laquelle tu as été appelé, et pour laquelle tu as fait une belle confession en présence d'un grand nombre de témoins.",
+    "verse_ref": "1 Timothée 6:12"
+  },
+  "faith_044": {
+    "question": "1 Timothée 6:12 dit de saisir « la vie _____ ».",
+    "correct": "éternelle",
+    "wrong": ["terrestre", "temporelle", "mortelle"],
+    "hint": "C'est une vie sans fin.",
+    "explanation": "Par la foi, nous saisissons la vie éternelle en Christ.",
+    "full_verse": "Combats le bon combat de la foi, saisis la vie éternelle, à laquelle tu as été appelé, et pour laquelle tu as fait une belle confession en présence d'un grand nombre de témoins.",
+    "verse_ref": "1 Timothée 6:12"
+  },
+  "faith_045": {
+    "question": "Selon 2 Timothée 4:7, Paul dit : « J'ai gardé la _____ ».",
+    "correct": "foi",
+    "wrong": ["loi", "paix", "vie"],
+    "hint": "C'est la confiance en Dieu.",
+    "explanation": "Paul a persévéré dans la foi jusqu'à la fin de sa vie.",
+    "full_verse": "J'ai combattu le bon combat, j'ai achevé la course, j'ai gardé la foi.",
+    "verse_ref": "2 Timothée 4:7"
+  },
+  "faith_046": {
+    "question": "2 Timothée 4:7 dit : « J'ai achevé la _____ ».",
+    "correct": "course",
+    "wrong": ["guerre", "mission", "prière"],
+    "hint": "C'est une métaphore sportive.",
+    "explanation": "La vie chrétienne est comparée à une course à terminer.",
+    "full_verse": "J'ai combattu le bon combat, j'ai achevé la course, j'ai gardé la foi.",
+    "verse_ref": "2 Timothée 4:7"
+  },
+  "faith_047": {
+    "question": "Selon Colossiens 2:6-7, nous devons être « enracinés et fondés en lui, et _____ dans la foi ».",
+    "correct": "affermis",
+    "wrong": ["faibles", "seuls", "perdus"],
+    "hint": "Cela signifie rendus solides.",
+    "explanation": "Notre foi doit être solidement établie en Christ.",
+    "full_verse": "Ainsi donc, comme vous avez reçu le Seigneur Jésus-Christ, marchez en lui, étant enracinés et fondés en lui, et affermis par la foi, d'après les instructions qui vous ont été données, et abondez en actions de grâces.",
+    "verse_ref": "Colossiens 2:6-7"
+  },
+  "faith_048": {
+    "question": "Colossiens 2:6-7 dit d'être « _____ et fondés en lui ».",
+    "correct": "enracinés",
+    "wrong": ["déracinés", "éloignés", "séparés"],
+    "hint": "C'est comme un arbre avec ses racines.",
+    "explanation": "Nous devons être profondément enracinés en Christ.",
+    "full_verse": "Ainsi donc, comme vous avez reçu le Seigneur Jésus-Christ, marchez en lui, étant enracinés et fondés en lui, et affermis par la foi, d'après les instructions qui vous ont été données, et abondez en actions de grâces.",
+    "verse_ref": "Colossiens 2:6-7"
+  },
+  "faith_049": {
+    "question": "Selon Habacuc 2:4, « le juste vivra par sa _____ ».",
+    "correct": "foi",
+    "wrong": ["force", "sagesse", "richesse"],
+    "hint": "C'est la confiance en Dieu.",
+    "explanation": "Ce verset de l'Ancien Testament est cité trois fois dans le Nouveau Testament.",
+    "full_verse": "Voici, son âme s'est enflée, elle n'est pas droite en lui; Mais le juste vivra par sa foi.",
+    "verse_ref": "Habacuc 2:4"
+  },
+  "faith_050": {
+    "question": "Selon Proverbes 3:5, « _____ en l'Éternel de tout ton cœur ».",
+    "correct": "Confie-toi",
+    "wrong": ["Doute", "Éloigne-toi", "Cache-toi"],
+    "hint": "Cela signifie faire confiance.",
+    "explanation": "Nous devons avoir une confiance totale en Dieu.",
+    "full_verse": "Confie-toi en l'Éternel de tout ton cœur, Et ne t'appuie pas sur ta sagesse.",
+    "verse_ref": "Proverbes 3:5"
+  }
+}

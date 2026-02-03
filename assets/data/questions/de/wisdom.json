@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_wisdom_001",
+      "question": "Fülle die Lücke aus: 'Wenn es aber jemandem unter euch an Weisheit mangelt, der bitte Gott, der da gern gibt jedermann und _____ niemand, so wird sie ihm gegeben werden.'",
+      "correct": "rügt",
+      "wrong": ["tadelt", "schilt", "richtet"],
+      "hint": "Dies bedeutet, zu kritisieren oder zu verurteilen",
+      "explanation": "Gott gibt großzügig Weisheit jedem, der darum bittet, ohne Vorwürfe.",
+      "full_verse": "Wenn es aber jemandem unter euch an Weisheit mangelt, der bitte Gott, der da gern gibt jedermann und rügt niemand, so wird sie ihm gegeben werden.",
+      "verse_ref": "Jakobus 1:5"
+    },
+    {
+      "id": "q_wisdom_002",
+      "question": "Fülle die Lücke aus: 'Die Furcht des HERRN ist der Anfang der Erkenntnis. Die _____ verachten Weisheit und Zucht.'",
+      "correct": "Toren",
+      "wrong": ["Gottlosen", "Sünder", "Bösen"],
+      "hint": "Dies sind Menschen ohne Verstand",
+      "explanation": "Die Ehrfurcht vor Gott ist die Grundlage aller wahren Erkenntnis.",
+      "full_verse": "Die Furcht des HERRN ist der Anfang der Erkenntnis. Die Toren verachten Weisheit und Zucht.",
+      "verse_ref": "Sprüche 1:7"
+    },
+    {
+      "id": "q_wisdom_003",
+      "question": "Fülle die Lücke aus: 'Verlass dich auf den HERRN von ganzem Herzen und verlass dich nicht auf deinen _____. Erkenne ihn in allen deinen Wegen, so wird er deine Pfade ebnen.'",
+      "correct": "Verstand",
+      "wrong": ["Weisheit", "Wissen", "Kraft"],
+      "hint": "Dies bezieht sich auf menschlichen Intellekt und Vernunft",
+      "explanation": "Wir sollten Gott vollständig vertrauen, anstatt uns auf unser begrenztes Verständnis zu verlassen.",
+      "full_verse": "Verlass dich auf den HERRN von ganzem Herzen und verlass dich nicht auf deinen Verstand. Erkenne ihn in allen deinen Wegen, so wird er deine Pfade ebnen.",
+      "verse_ref": "Sprüche 3:5-6"
+    },
+    {
+      "id": "q_wisdom_004",
+      "question": "Fülle die Lücke aus: 'Der Weisheit Anfang ist die Furcht des HERRN, und den Heiligen erkennen, das ist _____.'",
+      "correct": "Verstand",
+      "wrong": ["Weisheit", "Einsicht", "Erkenntnis"],
+      "hint": "Dies ist die Fähigkeit, tief zu verstehen",
+      "explanation": "Wahre Weisheit beginnt mit Ehrfurcht vor Gott, und ihn zu kennen bringt Verständnis.",
+      "full_verse": "Der Weisheit Anfang ist die Furcht des HERRN, und den Heiligen erkennen, das ist Verstand.",
+      "verse_ref": "Sprüche 9:10"
+    },
+    {
+      "id": "q_wisdom_005",
+      "question": "Fülle die Lücke aus: 'Lasst das Wort Christi reichlich unter euch wohnen; lehrt und ermahnt einander in aller Weisheit mit Psalmen, Lobgesängen und geistlichen Liedern und singt dem Herrn _____ in euren Herzen.'",
+      "correct": "dankbar",
+      "wrong": ["freudig", "lobend", "liebend"],
+      "hint": "Dies ist Dankbarkeit",
+      "explanation": "Christi Wort sollte uns mit Weisheit und dankbarer Anbetung erfüllen.",
+      "full_verse": "Lasst das Wort Christi reichlich unter euch wohnen; lehrt und ermahnt einander in aller Weisheit mit Psalmen, Lobgesängen und geistlichen Liedern und singt dem Herrn dankbar in euren Herzen.",
+      "verse_ref": "Kolosser 3:16"
+    },
+    {
+      "id": "q_wisdom_006",
+      "question": "Fülle die Lücke aus: 'Denn der HERR gibt Weisheit, und aus seinem Munde kommt Erkenntnis und _____.'",
+      "correct": "Verstand",
+      "wrong": ["Wahrheit", "Einsicht", "Urteil"],
+      "hint": "Dies ist die Fähigkeit zu verstehen",
+      "explanation": "Wahre Weisheit, Erkenntnis und Verständnis kommen alle von Gott.",
+      "full_verse": "Denn der HERR gibt Weisheit, und aus seinem Munde kommt Erkenntnis und Verstand.",
+      "verse_ref": "Sprüche 2:6"
+    },
+    {
+      "id": "q_wisdom_007",
+      "question": "Fülle die Lücke aus: 'Der Weisheit Anfang ist: Erwirb _____! Und mit all deinem Erwerben erwirb Verstand!'",
+      "correct": "Weisheit",
+      "wrong": ["Erkenntnis", "Einsicht", "Verstand"],
+      "hint": "Dies ist, was der Vers sagt zu erwerben",
+      "explanation": "Weisheit ist so wertvoll, dass es sich lohnt, sie um jeden Preis zu verfolgen.",
+      "full_verse": "Der Weisheit Anfang ist: Erwirb Weisheit! Und mit all deinem Erwerben erwirb Verstand!",
+      "verse_ref": "Sprüche 4:7"
+    },
+    {
+      "id": "q_wisdom_008",
+      "question": "Fülle die Lücke aus: 'Denn Weisheit gibt Schutz, und Geld gibt auch Schutz; aber die Weisheit erhält ihrem Besitzer das _____.'",
+      "correct": "Leben",
+      "wrong": ["Glück", "Heil", "Gut"],
+      "hint": "Dies ist die Existenz",
+      "explanation": "Weisheit schützt und bewahrt diejenigen, die sie besitzen.",
+      "full_verse": "Denn Weisheit gibt Schutz, und Geld gibt auch Schutz; aber die Weisheit erhält ihrem Besitzer das Leben.",
+      "verse_ref": "Prediger 7:12"
+    },
+    {
+      "id": "q_wisdom_009",
+      "question": "Fülle die Lücke aus: 'Die Furcht des HERRN ist der Weisheit Anfang. Klug sind alle, die danach _____. Sein Lob bleibt ewiglich.'",
+      "correct": "tun",
+      "wrong": ["leben", "handeln", "streben"],
+      "hint": "Dies bedeutet, etwas auszuführen",
+      "explanation": "Gottes Gebote zu befolgen führt zu wahrem Verständnis.",
+      "full_verse": "Die Furcht des HERRN ist der Weisheit Anfang. Klug sind alle, die danach tun. Sein Lob bleibt ewiglich.",
+      "verse_ref": "Psalm 111:10"
+    },
+    {
+      "id": "q_wisdom_010",
+      "question": "Fülle die Lücke aus: 'Die Weisheit aber von oben her ist zuerst rein, dann friedfertig, gütig, lässt sich etwas sagen, ist reich an Barmherzigkeit und guten Früchten, unparteiisch, ohne _____.'",
+      "correct": "Heuchelei",
+      "wrong": ["Falschheit", "Betrug", "List"],
+      "hint": "Dies bedeutet ohne Verstellung",
+      "explanation": "Himmlische Weisheit hat viele Eigenschaften, einschließlich Reinheit und Aufrichtigkeit.",
+      "full_verse": "Die Weisheit aber von oben her ist zuerst rein, dann friedfertig, gütig, lässt sich etwas sagen, ist reich an Barmherzigkeit und guten Früchten, unparteiisch, ohne Heuchelei.",
+      "verse_ref": "Jakobus 3:17"
+    },
+    {
+      "id": "q_wisdom_011",
+      "question": "Fülle die Lücke aus: 'Wohl dem Menschen, der Weisheit erlangt, und dem Menschen, der _____ gewinnt!'",
+      "correct": "Verstand",
+      "wrong": ["Erkenntnis", "Einsicht", "Klugheit"],
+      "hint": "Dies ist die Fähigkeit zu verstehen",
+      "explanation": "Weisheit und Verständnis zu finden bringt Segen.",
+      "full_verse": "Wohl dem Menschen, der Weisheit erlangt, und dem Menschen, der Verstand gewinnt!",
+      "verse_ref": "Sprüche 3:13"
+    },
+    {
+      "id": "q_wisdom_012",
+      "question": "Fülle die Lücke aus: 'Mein Sohn, lass sie nicht aus den Augen weichen; halte fest an Vernunft und _____.'",
+      "correct": "Besonnenheit",
+      "wrong": ["Weisheit", "Vorsicht", "Klugheit"],
+      "hint": "Dies ist vorsichtiges Urteil in Rede und Handeln",
+      "explanation": "Wir sollten an Weisheit und gutem Urteil festhalten.",
+      "full_verse": "Mein Sohn, lass sie nicht aus den Augen weichen; halte fest an Vernunft und Besonnenheit.",
+      "verse_ref": "Sprüche 3:21"
+    },
+    {
+      "id": "q_wisdom_013",
+      "question": "Fülle die Lücke aus: 'Erwirb Weisheit, erwirb Verstand; vergiss sie nicht und weiche nicht von den Worten meines _____.'",
+      "correct": "Mundes",
+      "wrong": ["Herzens", "Geistes", "Willens"],
+      "hint": "Dies ist, womit man spricht",
+      "explanation": "Wir sollten Weisheit verfolgen und ihre Lehren nicht verlassen.",
+      "full_verse": "Erwirb Weisheit, erwirb Verstand; vergiss sie nicht und weiche nicht von den Worten meines Mundes.",
+      "verse_ref": "Sprüche 4:5"
+    },
+    {
+      "id": "q_wisdom_014",
+      "question": "Fülle die Lücke aus: 'Denn Weisheit ist besser als Perlen, und alles, was man wünschen kann, ist ihr nicht zu _____.'",
+      "correct": "vergleichen",
+      "wrong": ["gleichen", "messen", "schätzen"],
+      "hint": "Dies bedeutet, etwas gleichzusetzen",
+      "explanation": "Weisheit ist wertvoller als jeder irdische Schatz.",
+      "full_verse": "Denn Weisheit ist besser als Perlen, und alles, was man wünschen kann, ist ihr nicht zu vergleichen.",
+      "verse_ref": "Sprüche 8:11"
+    },
+    {
+      "id": "q_wisdom_015",
+      "question": "Fülle die Lücke aus: 'Es ist dem Toren eine Lust, Schandtat zu üben, aber Weisheit zu üben ist des verständigen Mannes _____.'",
+      "correct": "Lust",
+      "wrong": ["Freude", "Wonne", "Glück"],
+      "hint": "Dies ist, was der Weise empfindet",
+      "explanation": "Wer Verstand hat, findet Freude an Weisheit, nicht an Schlechtigkeit.",
+      "full_verse": "Es ist dem Toren eine Lust, Schandtat zu üben, aber Weisheit zu üben ist des verständigen Mannes Lust.",
+      "verse_ref": "Sprüche 10:23"
+    },
+    {
+      "id": "q_wisdom_016",
+      "question": "Fülle die Lücke aus: 'Wo Hochmut ist, da ist auch Schande; aber Weisheit ist bei den _____.'",
+      "correct": "Demütigen",
+      "wrong": ["Frommen", "Gerechten", "Weisen"],
+      "hint": "Dies sind Menschen ohne Stolz",
+      "explanation": "Stolz führt zu Schande, während Demut zu Weisheit führt.",
+      "full_verse": "Wo Hochmut ist, da ist auch Schande; aber Weisheit ist bei den Demütigen.",
+      "verse_ref": "Sprüche 11:2"
+    },
+    {
+      "id": "q_wisdom_017",
+      "question": "Fülle die Lücke aus: 'Dem Toren dünkt sein Weg recht; aber wer auf _____ hört, der ist weise.'",
+      "correct": "Rat",
+      "wrong": ["Weisung", "Worte", "andere"],
+      "hint": "Dies ist Führung von anderen",
+      "explanation": "Toren vertrauen ihrem eigenen Urteil; die Weisen suchen Rat.",
+      "full_verse": "Dem Toren dünkt sein Weg recht; aber wer auf Rat hört, der ist weise.",
+      "verse_ref": "Sprüche 12:15"
+    },
+    {
+      "id": "q_wisdom_018",
+      "question": "Fülle die Lücke aus: 'Unter den Hochmütigen ist immer Zank; die aber sich raten lassen, sind _____.'",
+      "correct": "weise",
+      "wrong": ["klug", "verständig", "vernünftig"],
+      "hint": "Dies ist, was jene sind, die Rat annehmen",
+      "explanation": "Stolz verursacht Konflikte, aber die Weisen nehmen Rat an.",
+      "full_verse": "Unter den Hochmütigen ist immer Zank; die aber sich raten lassen, sind weise.",
+      "verse_ref": "Sprüche 13:10"
+    },
+    {
+      "id": "q_wisdom_019",
+      "question": "Fülle die Lücke aus: 'Durch weise Frauen wird das Haus gebaut; eine Närrin aber reißt's nieder mit ihren _____.'",
+      "correct": "Händen",
+      "wrong": ["Taten", "Worten", "Werken"],
+      "hint": "Dies sind Körperteile zum Arbeiten",
+      "explanation": "Weisheit baut auf, während Torheit zerstört.",
+      "full_verse": "Durch weise Frauen wird das Haus gebaut; eine Närrin aber reißt's nieder mit ihren Händen.",
+      "verse_ref": "Sprüche 14:1"
+    },
+    {
+      "id": "q_wisdom_020",
+      "question": "Fülle die Lücke aus: 'Die Furcht des HERRN ist Zucht zur Weisheit, und ehe man zu Ehren kommt, muss man erst _____ werden.'",
+      "correct": "demütig",
+      "wrong": ["weise", "fromm", "gerecht"],
+      "hint": "Dies bedeutet ohne Stolz",
+      "explanation": "Gott zu fürchten und demütig zu sein führt zu Ehre.",
+      "full_verse": "Die Furcht des HERRN ist Zucht zur Weisheit, und ehe man zu Ehren kommt, muss man erst demütig werden.",
+      "verse_ref": "Sprüche 15:33"
+    },
+    {
+      "id": "q_wisdom_021",
+      "question": "Fülle die Lücke aus: 'Weisheit erwerben ist besser als Gold und Verstand erwerben vorzuziehen dem _____.'",
+      "correct": "Silber",
+      "wrong": ["Gold", "Reichtum", "Schatz"],
+      "hint": "Dies ist ein Edelmetall",
+      "explanation": "Weisheit und Einsicht sind wertvoller als Edelmetalle.",
+      "full_verse": "Weisheit erwerben ist besser als Gold und Verstand erwerben vorzuziehen dem Silber.",
+      "verse_ref": "Sprüche 16:16"
+    },
+    {
+      "id": "q_wisdom_022",
+      "question": "Fülle die Lücke aus: 'Auch ein Tor, wenn er schweigt, wird für weise gehalten und für verständig, wenn er den _____ hält.'",
+      "correct": "Mund",
+      "wrong": ["Frieden", "Reden", "Worte"],
+      "hint": "Dies ist ein Teil des Gesichts zum Sprechen",
+      "explanation": "Schweigen kann ein Zeichen von Weisheit sein.",
+      "full_verse": "Auch ein Tor, wenn er schweigt, wird für weise gehalten und für verständig, wenn er den Mund hält.",
+      "verse_ref": "Sprüche 17:28"
+    },
+    {
+      "id": "q_wisdom_023",
+      "question": "Fülle die Lücke aus: 'Ein verständiges Herz erwirbt Erkenntnis, und das Ohr der Weisen sucht _____.'",
+      "correct": "Erkenntnis",
+      "wrong": ["Weisheit", "Verstand", "Wahrheit"],
+      "hint": "Dies ist Wissen und Verstehen",
+      "explanation": "Weise Menschen verfolgen aktiv Wissen.",
+      "full_verse": "Ein verständiges Herz erwirbt Erkenntnis, und das Ohr der Weisen sucht Erkenntnis.",
+      "verse_ref": "Sprüche 18:15"
+    },
+    {
+      "id": "q_wisdom_024",
+      "question": "Fülle die Lücke aus: 'Wer Verstand erwirbt, liebt sein Leben; und der Verständige findet _____.'",
+      "correct": "Gutes",
+      "wrong": ["Glück", "Erfolg", "Segen"],
+      "hint": "Dies ist etwas Positives",
+      "explanation": "Weisheit zu lieben führt zu einem gedeihenden Leben.",
+      "full_verse": "Wer Verstand erwirbt, liebt sein Leben; und der Verständige findet Gutes.",
+      "verse_ref": "Sprüche 19:8"
+    },
+    {
+      "id": "q_wisdom_025",
+      "question": "Fülle die Lücke aus: 'Durch Weisheit wird ein Haus gebaut und durch Verstand _____.'",
+      "correct": "erhalten",
+      "wrong": ["gegründet", "gesichert", "vollendet"],
+      "hint": "Dies bedeutet, bewahrt zu werden",
+      "explanation": "Weisheit baut und Verstand erhält.",
+      "full_verse": "Durch Weisheit wird ein Haus gebaut und durch Verstand erhalten.",
+      "verse_ref": "Sprüche 24:3"
+    },
+    {
+      "id": "q_wisdom_026",
+      "question": "Fülle die Lücke aus: 'Und ich sah, dass die Weisheit mehr nützt als die Torheit, wie das Licht mehr nützt als die _____.'",
+      "correct": "Finsternis",
+      "wrong": ["Nacht", "Schatten", "Dunkelheit"],
+      "hint": "Dies ist das Gegenteil von Licht",
+      "explanation": "Weisheit erleuchtet wie Licht im Vergleich zur Finsternis der Torheit.",
+      "full_verse": "Und ich sah, dass die Weisheit mehr nützt als die Torheit, wie das Licht mehr nützt als die Finsternis.",
+      "verse_ref": "Prediger 2:13"
+    },
+    {
+      "id": "q_wisdom_027",
+      "question": "Fülle die Lücke aus: 'Weisheit macht den Weisen stärker als zehn _____, die in der Stadt sind.'",
+      "correct": "Gewaltige",
+      "wrong": ["Herrscher", "Könige", "Älteste"],
+      "hint": "Dies sind Menschen mit Autorität",
+      "explanation": "Weisheit gibt größere Macht als viele Autoritäten zusammen.",
+      "full_verse": "Weisheit macht den Weisen stärker als zehn Gewaltige, die in der Stadt sind.",
+      "verse_ref": "Prediger 7:19"
+    },
+    {
+      "id": "q_wisdom_028",
+      "question": "Fülle die Lücke aus: 'Wer ist so weise? Wer kann das auslegen? Die Weisheit des Menschen erleuchtet sein Angesicht; und wer frech blickt, wird _____.'",
+      "correct": "verhasst",
+      "wrong": ["verachtet", "gemieden", "abgelehnt"],
+      "hint": "Dies bedeutet, nicht gemocht zu werden",
+      "explanation": "Weisheit bringt ein angenehmes, mildes Antlitz.",
+      "full_verse": "Wer ist so weise? Wer kann das auslegen? Die Weisheit des Menschen erleuchtet sein Angesicht; und wer frech blickt, wird verhasst.",
+      "verse_ref": "Prediger 8:1"
+    },
+    {
+      "id": "q_wisdom_029",
+      "question": "Fülle die Lücke aus: 'Da sprach ich: Weisheit ist besser als Stärke. Doch die Weisheit des Geringen wird verachtet, und seine Worte hört man _____.'",
+      "correct": "nicht",
+      "wrong": ["kaum", "selten", "wenig"],
+      "hint": "Dies ist eine Verneinung",
+      "explanation": "Obwohl Weisheit Stärke übertrifft, ignoriert die Welt oft den weisen Armen.",
+      "full_verse": "Da sprach ich: Weisheit ist besser als Stärke. Doch die Weisheit des Geringen wird verachtet, und seine Worte hört man nicht.",
+      "verse_ref": "Prediger 9:16"
+    },
+    {
+      "id": "q_wisdom_030",
+      "question": "Fülle die Lücke aus: 'Wenn das Eisen stumpf wird und er die Schneide nicht gewetzt hat, muss er mehr Kraft anwenden; aber Weisheit bringt _____.'",
+      "correct": "Vorteil",
+      "wrong": ["Erfolg", "Gewinn", "Nutzen"],
+      "hint": "Dies ist ein positives Ergebnis",
+      "explanation": "Weisheit und Geschick sind effektiver als rohe Gewalt.",
+      "full_verse": "Wenn das Eisen stumpf wird und er die Schneide nicht gewetzt hat, muss er mehr Kraft anwenden; aber Weisheit bringt Vorteil.",
+      "verse_ref": "Prediger 10:10"
+    },
+    {
+      "id": "q_wisdom_031",
+      "question": "Fülle die Lücke aus: 'Bei den Großvätern ist die Weisheit, und Verstand bei den _____.'",
+      "correct": "Alten",
+      "wrong": ["Weisen", "Erfahrenen", "Betagten"],
+      "hint": "Dies bezieht sich auf ältere Menschen",
+      "explanation": "Alter und Erfahrung bringen oft Weisheit und Verständnis.",
+      "full_verse": "Bei den Großvätern ist die Weisheit, und Verstand bei den Alten.",
+      "verse_ref": "Hiob 12:12"
+    },
+    {
+      "id": "q_wisdom_032",
+      "question": "Fülle die Lücke aus: 'Und er sprach zum Menschen: Siehe, die Furcht des Herrn, das ist Weisheit, und meiden das _____, das ist Verstand.'",
+      "correct": "Böse",
+      "wrong": ["Übel", "Sünde", "Unrecht"],
+      "hint": "Dies ist das Gegenteil von Gut",
+      "explanation": "Wahre Weisheit fürchtet Gott und meidet das Böse.",
+      "full_verse": "Und er sprach zum Menschen: Siehe, die Furcht des Herrn, das ist Weisheit, und meiden das Böse, das ist Verstand.",
+      "verse_ref": "Hiob 28:28"
+    },
+    {
+      "id": "q_wisdom_033",
+      "question": "Fülle die Lücke aus: 'Das Gesetz des HERRN ist vollkommen und erquickt die Seele. Das Zeugnis des HERRN ist gewiss und macht die _____ weise.'",
+      "correct": "Einfältigen",
+      "wrong": ["Demütigen", "Sanftmütigen", "Jungen"],
+      "hint": "Dies beschreibt jemanden, der unerfahren oder naiv ist",
+      "explanation": "Gottes Wort bringt Weisheit sogar den Unerfahrenen.",
+      "full_verse": "Das Gesetz des HERRN ist vollkommen und erquickt die Seele. Das Zeugnis des HERRN ist gewiss und macht die Einfältigen weise.",
+      "verse_ref": "Psalm 19:8"
+    },
+    {
+      "id": "q_wisdom_034",
+      "question": "Fülle die Lücke aus: 'Der Mund des Gerechten redet Weisheit, und seine Zunge lehrt das _____.'",
+      "correct": "Recht",
+      "wrong": ["Wahre", "Gute", "Rechte"],
+      "hint": "Dies bedeutet fair und gerecht",
+      "explanation": "Gerechte Menschen sprechen Weisheit und Gerechtigkeit.",
+      "full_verse": "Der Mund des Gerechten redet Weisheit, und seine Zunge lehrt das Recht.",
+      "verse_ref": "Psalm 37:30"
+    },
+    {
+      "id": "q_wisdom_035",
+      "question": "Fülle die Lücke aus: 'Lehre uns bedenken, dass wir sterben müssen, auf dass wir klug _____.'",
+      "correct": "werden",
+      "wrong": ["handeln", "leben", "sein"],
+      "hint": "Dies beschreibt eine Veränderung",
+      "explanation": "Das Erkennen der Kürze des Lebens hilft uns, weise zu leben.",
+      "full_verse": "Lehre uns bedenken, dass wir sterben müssen, auf dass wir klug werden.",
+      "verse_ref": "Psalm 90:12"
+    },
+    {
+      "id": "q_wisdom_036",
+      "question": "Fülle die Lücke aus: 'Deine Gebote machen mich klüger als meine _____; denn sie sind ewiglich mein Schatz.'",
+      "correct": "Feinde",
+      "wrong": ["Lehrer", "Ältesten", "Freunde"],
+      "hint": "Dies sind diejenigen, die sich dir widersetzen",
+      "explanation": "Gottes Wort gibt Weisheit, die unsere Gegner übertrifft.",
+      "full_verse": "Deine Gebote machen mich klüger als meine Feinde; denn sie sind ewiglich mein Schatz.",
+      "verse_ref": "Psalm 119:98"
+    },
+    {
+      "id": "q_wisdom_037",
+      "question": "Fülle die Lücke aus: 'Auf ihm wird ruhen der Geist des HERRN, der Geist der Weisheit und des Verstandes, der Geist des Rates und der Stärke, der Geist der Erkenntnis und der Furcht des _____.'",
+      "correct": "HERRN",
+      "wrong": ["Gottes", "Höchsten", "Allmächtigen"],
+      "hint": "Dies ist der Bundesname Gottes",
+      "explanation": "Der Messias würde mit dem Geist der Weisheit erfüllt sein.",
+      "full_verse": "Auf ihm wird ruhen der Geist des HERRN, der Geist der Weisheit und des Verstandes, der Geist des Rates und der Stärke, der Geist der Erkenntnis und der Furcht des HERRN.",
+      "verse_ref": "Jesaja 11:2"
+    },
+    {
+      "id": "q_wisdom_038",
+      "question": "Fülle die Lücke aus: 'Er ändert Zeit und Stunde; er setzt Könige ab und setzt Könige ein; er gibt den Weisen ihre Weisheit und den Verständigen ihren _____.'",
+      "correct": "Verstand",
+      "wrong": ["Einsicht", "Rat", "Erkenntnis"],
+      "hint": "Dies ist die Fähigkeit zu verstehen",
+      "explanation": "Gott ist die Quelle aller Weisheit und Erkenntnis.",
+      "full_verse": "Er ändert Zeit und Stunde; er setzt Könige ab und setzt Könige ein; er gibt den Weisen ihre Weisheit und den Verständigen ihren Verstand.",
+      "verse_ref": "Daniel 2:21"
+    },
+    {
+      "id": "q_wisdom_039",
+      "question": "Fülle die Lücke aus: 'Darum, wer diese meine Rede hört und tut sie, der gleicht einem klugen Mann, der sein Haus auf _____ baute.'",
+      "correct": "Fels",
+      "wrong": ["Stein", "Grund", "Boden"],
+      "hint": "Dies ist ein festes Fundament",
+      "explanation": "Weise Menschen bauen ihr Leben auf Jesu Lehren.",
+      "full_verse": "Darum, wer diese meine Rede hört und tut sie, der gleicht einem klugen Mann, der sein Haus auf Fels baute.",
+      "verse_ref": "Matthäus 7:24"
+    },
+    {
+      "id": "q_wisdom_040",
+      "question": "Fülle die Lücke aus: 'O welch eine Tiefe des Reichtums, beides, der Weisheit und der Erkenntnis Gottes! Wie unbegreiflich sind seine Gerichte und unerforschlich seine _____!'",
+      "correct": "Wege",
+      "wrong": ["Pläne", "Gedanken", "Werke"],
+      "hint": "Dies sind Gottes Handlungsweisen",
+      "explanation": "Gottes Weisheit ist unendlich tief und jenseits menschlichen Verstehens.",
+      "full_verse": "O welch eine Tiefe des Reichtums, beides, der Weisheit und der Erkenntnis Gottes! Wie unbegreiflich sind seine Gerichte und unerforschlich seine Wege!",
+      "verse_ref": "Römer 11:33"
+    },
+    {
+      "id": "q_wisdom_041",
+      "question": "Fülle die Lücke aus: 'Denn die göttliche Torheit ist weiser, als die Menschen sind, und die göttliche Schwachheit ist stärker, als die Menschen _____.'",
+      "correct": "sind",
+      "wrong": ["können", "vermögen", "haben"],
+      "hint": "Dies ist ein Verb des Seins",
+      "explanation": "Selbst Gottes 'Schwachheit' übertrifft alle menschliche Stärke.",
+      "full_verse": "Denn die göttliche Torheit ist weiser, als die Menschen sind, und die göttliche Schwachheit ist stärker, als die Menschen sind.",
+      "verse_ref": "1. Korinther 1:25"
+    },
+    {
+      "id": "q_wisdom_042",
+      "question": "Fülle die Lücke aus: 'Durch ihn aber seid ihr in Christus Jesus, der uns von Gott gemacht ist zur Weisheit und zur Gerechtigkeit und zur Heiligung und zur _____.'",
+      "correct": "Erlösung",
+      "wrong": ["Rettung", "Befreiung", "Freiheit"],
+      "hint": "Dies ist, losgekauft oder gerettet zu werden",
+      "explanation": "Christus verkörpert Weisheit und bietet unsere Gerechtigkeit und Erlösung.",
+      "full_verse": "Durch ihn aber seid ihr in Christus Jesus, der uns von Gott gemacht ist zur Weisheit und zur Gerechtigkeit und zur Heiligung und zur Erlösung.",
+      "verse_ref": "1. Korinther 1:30"
+    },
+    {
+      "id": "q_wisdom_043",
+      "question": "Fülle die Lücke aus: 'Wovon wir auch reden unter den Vollkommenen; doch von einer Weisheit, die nicht von dieser Welt ist, auch nicht der _____ dieser Welt, die vergehen.'",
+      "correct": "Herrscher",
+      "wrong": ["Mächtigen", "Weisen", "Führer"],
+      "hint": "Dies sind Menschen mit Autorität",
+      "explanation": "Gottes Weisheit unterscheidet sich von der Weisheit weltlicher Autoritäten.",
+      "full_verse": "Wovon wir auch reden unter den Vollkommenen; doch von einer Weisheit, die nicht von dieser Welt ist, auch nicht der Herrscher dieser Welt, die vergehen.",
+      "verse_ref": "1. Korinther 2:6"
+    },
+    {
+      "id": "q_wisdom_044",
+      "question": "Fülle die Lücke aus: 'Denn die Weisheit dieser Welt ist Torheit bei Gott. Denn es steht geschrieben: »Die Weisen fängt er in ihrer _____.'",
+      "correct": "List",
+      "wrong": ["Klugheit", "Schlauheit", "Plänen"],
+      "hint": "Dies ist Gerissenheit oder trügerische Klugheit",
+      "explanation": "Weltliche Weisheit ist Torheit im Vergleich zu Gottes Weisheit.",
+      "full_verse": "Denn die Weisheit dieser Welt ist Torheit bei Gott. Denn es steht geschrieben: »Die Weisen fängt er in ihrer List.«",
+      "verse_ref": "1. Korinther 3:19"
+    },
+    {
+      "id": "q_wisdom_045",
+      "question": "Fülle die Lücke aus: 'Und bitte darum, dass der Gott unseres Herrn Jesus Christus, der Vater der Herrlichkeit, euch gebe den Geist der Weisheit und der _____, ihn zu erkennen.'",
+      "correct": "Offenbarung",
+      "wrong": ["Erkenntnis", "Einsicht", "Verstand"],
+      "hint": "Dies ist göttliche Enthüllung der Wahrheit",
+      "explanation": "Wir brauchen Gottes Geist, um uns Weisheit zu geben und Wahrheit zu offenbaren.",
+      "full_verse": "Und bitte darum, dass der Gott unseres Herrn Jesus Christus, der Vater der Herrlichkeit, euch gebe den Geist der Weisheit und der Offenbarung, ihn zu erkennen.",
+      "verse_ref": "Epheser 1:17"
+    },
+    {
+      "id": "q_wisdom_046",
+      "question": "Fülle die Lücke aus: 'So seht nun sorgfältig darauf, wie ihr euer Leben führt, nicht als Unweise, sondern als _____.'",
+      "correct": "Weise",
+      "wrong": ["Kluge", "Vorsichtige", "Besonnene"],
+      "hint": "Dies ist das Gegenteil von unweise",
+      "explanation": "Wir sollten sorgfältig und weise leben.",
+      "full_verse": "So seht nun sorgfältig darauf, wie ihr euer Leben führt, nicht als Unweise, sondern als Weise.",
+      "verse_ref": "Epheser 5:15"
+    },
+    {
+      "id": "q_wisdom_047",
+      "question": "Fülle die Lücke aus: 'Darum lassen wir auch von dem Tag an, an dem wir's gehört haben, nicht ab, für euch zu beten und zu bitten, dass ihr erfüllt werdet mit der Erkenntnis seines Willens in aller geistlichen Weisheit und _____.'",
+      "correct": "Einsicht",
+      "wrong": ["Verstand", "Erkenntnis", "Klugheit"],
+      "hint": "Dies ist tiefes Verstehen",
+      "explanation": "Der Heilige Geist gibt Weisheit und Verständnis von Gottes Willen.",
+      "full_verse": "Darum lassen wir auch von dem Tag an, an dem wir's gehört haben, nicht ab, für euch zu beten und zu bitten, dass ihr erfüllt werdet mit der Erkenntnis seines Willens in aller geistlichen Weisheit und Einsicht.",
+      "verse_ref": "Kolosser 1:9"
+    },
+    {
+      "id": "q_wisdom_048",
+      "question": "Fülle die Lücke aus: 'In ihm liegen verborgen alle Schätze der Weisheit und der _____.'",
+      "correct": "Erkenntnis",
+      "wrong": ["Einsicht", "Wahrheit", "Verstand"],
+      "hint": "Dies ist Information und Verständnis",
+      "explanation": "Alle Weisheit und Erkenntnis finden sich in Christus.",
+      "full_verse": "In ihm liegen verborgen alle Schätze der Weisheit und der Erkenntnis.",
+      "verse_ref": "Kolosser 2:3"
+    },
+    {
+      "id": "q_wisdom_049",
+      "question": "Fülle die Lücke aus: 'Wer ist weise und klug unter euch? Der zeige mit seinem guten Wandel seine Werke in Sanftmut und _____.'",
+      "correct": "Weisheit",
+      "wrong": ["Demut", "Güte", "Gnade"],
+      "hint": "Dies ist, was gute Taten hervorbringt",
+      "explanation": "Wahre Weisheit zeigt sich durch demütige, gute Taten.",
+      "full_verse": "Wer ist weise und klug unter euch? Der zeige mit seinem guten Wandel seine Werke in Sanftmut und Weisheit.",
+      "verse_ref": "Jakobus 3:13"
+    },
+    {
+      "id": "q_wisdom_050",
+      "question": "Fülle die Lücke aus: 'Und achtet die Geduld unseres Herrn für eure Rettung, wie auch unser lieber Bruder Paulus nach der _____, die ihm gegeben ist, euch geschrieben hat.'",
+      "correct": "Weisheit",
+      "wrong": ["Gnade", "Erkenntnis", "Einsicht"],
+      "hint": "Dies ist, was Gott Paulus zum Schreiben gab",
+      "explanation": "Paulus schrieb die Schrift mit gottgegebener Weisheit.",
+      "full_verse": "Und achtet die Geduld unseres Herrn für eure Rettung, wie auch unser lieber Bruder Paulus nach der Weisheit, die ihm gegeben ist, euch geschrieben hat.",
+      "verse_ref": "2. Petrus 3:15"
+    }
+  ]
+}

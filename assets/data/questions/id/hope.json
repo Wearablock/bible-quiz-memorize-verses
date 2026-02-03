@@ -1,1 +1,452 @@
-{}
+{
+  "q_hope_001": {
+    "question": "Lengkapi ayat: 'Semoga Allah, sumber pengharapan, memenuhi kamu dengan segala sukacita dan damai sejahtera dalam iman, supaya oleh kekuatan Roh Kudus kamu berlimpah-limpah dalam _____.'",
+    "correct": "pengharapan",
+    "wrong": ["iman", "sukacita", "kasih"],
+    "hint": "Pribadi ketiga dari Trinitas",
+    "explanation": "Paulus berdoa agar orang percaya dipenuhi dengan sukacita, damai sejahtera, dan pengharapan yang melimpah melalui Roh Kudus.",
+    "full_verse": "Semoga Allah, sumber pengharapan, memenuhi kamu dengan segala sukacita dan damai sejahtera dalam iman, supaya oleh kekuatan Roh Kudus kamu berlimpah-limpah dalam pengharapan.",
+    "verse_ref": "Roma 15:13"
+  },
+  "q_hope_002": {
+    "question": "Lengkapi ayat: 'Sebab Aku ini mengetahui rancangan-rancangan apa yang ada pada-Ku mengenai kamu, demikianlah firman TUHAN, yaitu rancangan damai sejahtera dan bukan rancangan kecelakaan, untuk memberikan kepadamu hari depan yang penuh _____.'",
+    "correct": "harapan",
+    "wrong": ["janji", "berkat", "tujuan"],
+    "hint": "Apa yang datang setelah hari ini",
+    "explanation": "Allah meyakinkan umat-Nya bahwa rancangan-Nya mencakup harapan dan masa depan yang cerah.",
+    "full_verse": "Sebab Aku ini mengetahui rancangan-rancangan apa yang ada pada-Ku mengenai kamu, demikianlah firman TUHAN, yaitu rancangan damai sejahtera dan bukan rancangan kecelakaan, untuk memberikan kepadamu hari depan yang penuh harapan.",
+    "verse_ref": "Yeremia 29:11"
+  },
+  "q_hope_003": {
+    "question": "Lengkapi ayat: 'Sebab kita diselamatkan dalam pengharapan. Tetapi pengharapan yang dilihat, bukan pengharapan lagi; sebab bagaimanakah orang masih mengharapkan apa yang sudah _____?'",
+    "correct": "dilihatnya",
+    "wrong": ["dimilikinya", "diketahuinya", "diperolehnya"],
+    "hint": "Memiliki sesuatu",
+    "explanation": "Paulus menjelaskan bahwa pengharapan melibatkan menunggu apa yang belum kita miliki.",
+    "full_verse": "Sebab kita diselamatkan dalam pengharapan. Tetapi pengharapan yang dilihat, bukan pengharapan lagi; sebab bagaimanakah orang masih mengharapkan apa yang sudah dilihatnya?",
+    "verse_ref": "Roma 8:24"
+  },
+  "q_hope_004": {
+    "question": "Lengkapi ayat: 'Pengharapan itu adalah sauh yang kuat dan aman bagi _____.'",
+    "correct": "jiwa kita",
+    "wrong": ["hati kita", "hidup kita", "iman kita"],
+    "hint": "Aman dan terlindungi",
+    "explanation": "Penulis Ibrani menggambarkan pengharapan sebagai sauh yang menjaga jiwa kita tetap teguh.",
+    "full_verse": "Pengharapan itu adalah sauh yang kuat dan aman bagi jiwa kita, yang telah dilabuhkan sampai ke belakang tabir.",
+    "verse_ref": "Ibrani 6:19"
+  },
+  "q_hope_005": {
+    "question": "Lengkapi ayat: 'Terpujilah Allah dan Bapa Tuhan kita Yesus Kristus, yang karena rahmat-Nya yang besar telah melahirkan kita kembali oleh kebangkitan Yesus Kristus dari antara orang mati, kepada suatu hidup yang penuh _____.'",
+    "correct": "harapan",
+    "wrong": ["iman", "hidup", "janji"],
+    "hint": "Harapan ini hidup",
+    "explanation": "Petrus memuji Allah karena memberikan kepada orang percaya harapan yang hidup melalui kebangkitan Kristus.",
+    "full_verse": "Terpujilah Allah dan Bapa Tuhan kita Yesus Kristus, yang karena rahmat-Nya yang besar telah melahirkan kita kembali oleh kebangkitan Yesus Kristus dari antara orang mati, kepada suatu hidup yang penuh harapan.",
+    "verse_ref": "1 Petrus 1:3"
+  },
+  "q_hope_006": {
+    "question": "Lengkapi ayat: 'Mengapa engkau tertekan, hai jiwaku, dan mengapa engkau gelisah di dalam diriku? Berharaplah kepada Allah! Sebab aku bersyukur lagi kepada-Nya, _____.'",
+    "correct": "penolongku dan Allahku",
+    "wrong": ["keselamatanku", "pelindungku", "kekuatanku"],
+    "hint": "Penyembahan masa depan kepada Allah",
+    "explanation": "Pemazmur mendorong jiwanya untuk berharap kepada Allah meskipun sedang patah semangat.",
+    "full_verse": "Mengapa engkau tertekan, hai jiwaku, dan mengapa engkau gelisah di dalam diriku? Berharaplah kepada Allah! Sebab aku bersyukur lagi kepada-Nya, penolongku dan Allahku!",
+    "verse_ref": "Mazmur 42:12"
+  },
+  "q_hope_007": {
+    "question": "Lengkapi ayat: 'Tetapi orang-orang yang menanti-nantikan TUHAN mendapat kekuatan baru: mereka seumpama rajawali yang naik terbang dengan kekuatan _____.'",
+    "correct": "sayapnya",
+    "wrong": ["angin", "Allah", "iman"],
+    "hint": "Burung yang megah",
+    "explanation": "Yesaya menjanjikan bahwa mereka yang berharap kepada Allah akan dikuatkan secara supernatural.",
+    "full_verse": "Tetapi orang-orang yang menanti-nantikan TUHAN mendapat kekuatan baru: mereka seumpama rajawali yang naik terbang dengan kekuatan sayapnya; mereka berlari dan tidak menjadi lesu, mereka berjalan dan tidak menjadi lelah.",
+    "verse_ref": "Yesaya 40:31"
+  },
+  "q_hope_008": {
+    "question": "Lengkapi ayat": 'TUHAN adalah bagianku, kataku dalam hatiku, oleh sebab itu aku berharap kepada-_____.'",
+    "correct": "Nya",
+    "wrong": ["Allah", "Tuhan", "Dia"],
+    "hint": "Menunggu dengan sabar",
+    "explanation": "Yeremia menyatakan bahwa karena Allah adalah warisannya, ia akan menanti dengan penuh harapan kepada-Nya.",
+    "full_verse": "TUHAN adalah bagianku, kataku dalam hatiku, oleh sebab itu aku berharap kepada-Nya.",
+    "verse_ref": "Ratapan 3:24"
+  },
+  "q_hope_009": {
+    "question": "Lengkapi ayat: 'Kuatkanlah dan teguhkanlah hatimu, hai kamu sekalian yang berharap kepada _____!'",
+    "correct": "TUHAN",
+    "wrong": ["Allah", "Juruselamat", "Raja"],
+    "hint": "Nama perjanjian Allah",
+    "explanation": "Daud mendorong mereka yang berharap kepada Allah untuk kuat dan berani.",
+    "full_verse": "Kuatkanlah dan teguhkanlah hatimu, hai kamu sekalian yang berharap kepada TUHAN!",
+    "verse_ref": "Mazmur 31:25"
+  },
+  "q_hope_010": {
+    "question": "Lengkapi ayat: 'Dan pengharapan tidak mengecewakan, karena kasih Allah telah dicurahkan di dalam _____ kita oleh Roh Kudus yang telah dikaruniakan kepada kita.'",
+    "correct": "hati",
+    "wrong": ["jiwa", "hidup", "pikiran"],
+    "hint": "Pusat keberadaan kita",
+    "explanation": "Paulus meyakinkan bahwa pengharapan kepada Allah tidak akan pernah mengecewakan karena kasih-Nya di dalam kita.",
+    "full_verse": "Dan pengharapan tidak mengecewakan, karena kasih Allah telah dicurahkan di dalam hati kita oleh Roh Kudus yang telah dikaruniakan kepada kita.",
+    "verse_ref": "Roma 5:5"
+  },
+  "q_hope_011": {
+    "question": "Lengkapi ayat: 'Kepada mereka Allah mau memberitahukan, betapa kaya dan mulianya rahasia itu di antara bangsa-bangsa lain, yaitu: Kristus ada di tengah-tengah kamu, Kristus yang adalah pengharapan akan _____.'",
+    "correct": "kemuliaan",
+    "wrong": ["keselamatan", "surga", "kehidupan"],
+    "hint": "Kemegahan masa depan bersama Allah",
+    "explanation": "Paulus menyatakan bahwa Kristus yang berdiam dalam orang percaya adalah pengharapan akan kemuliaan masa depan.",
+    "full_verse": "Kepada mereka Allah mau memberitahukan, betapa kaya dan mulianya rahasia itu di antara bangsa-bangsa lain, yaitu: Kristus ada di tengah-tengah kamu, Kristus yang adalah pengharapan akan kemuliaan!",
+    "verse_ref": "Kolose 1:27"
+  },
+  "q_hope_012": {
+    "question": "Lengkapi ayat: 'Dengan menantikan penggenapan pengharapan kita yang penuh bahagia itu, dan penyataan kemuliaan Allah yang Mahabesar dan Juruselamat kita Yesus _____.'",
+    "correct": "Kristus",
+    "wrong": ["Tuhan", "Raja", "Mesias"],
+    "hint": "Gelar Yesus",
+    "explanation": "Paulus menggambarkan kedatangan kembali Kristus sebagai pengharapan yang penuh berkat yang dinantikan orang percaya.",
+    "full_verse": "Dengan menantikan penggenapan pengharapan kita yang penuh bahagia itu, dan penyataan kemuliaan Allah yang Mahabesar dan Juruselamat kita Yesus Kristus.",
+    "verse_ref": "Titus 2:13"
+  },
+  "q_hope_013": {
+    "question": "Lengkapi ayat: 'Selanjutnya kami tidak mau, saudara-saudara, bahwa kamu tidak mengetahui tentang mereka yang meninggal, supaya kamu jangan berdukacita seperti orang-orang lain yang tidak mempunyai _____.'",
+    "correct": "pengharapan",
+    "wrong": ["iman", "damai", "penghiburan"],
+    "hint": "Orang percaya memiliki ini untuk masa depan",
+    "explanation": "Paulus menghibur orang percaya bahwa mereka memiliki pengharapan mengenai mereka yang telah meninggal dalam Kristus.",
+    "full_verse": "Selanjutnya kami tidak mau, saudara-saudara, bahwa kamu tidak mengetahui tentang mereka yang meninggal, supaya kamu jangan berdukacita seperti orang-orang lain yang tidak mempunyai pengharapan.",
+    "verse_ref": "1 Tesalonika 4:13"
+  },
+  "q_hope_014": {
+    "question": "Lengkapi ayat: 'Maka sekarang, apakah yang kuharapkan, ya Tuhan? Harapanku ialah kepada-_____.'",
+    "correct": "Mu",
+    "wrong": ["Allah", "Engkau", "surga"],
+    "hint": "Daud menyapa Allah secara langsung",
+    "explanation": "Daud menyatakan bahwa pengharapannya sepenuhnya ditempatkan pada Allah.",
+    "full_verse": "Maka sekarang, apakah yang kuharapkan, ya Tuhan? Harapanku ialah kepada-Mu.",
+    "verse_ref": "Mazmur 39:8"
+  },
+  "q_hope_015": {
+    "question": "Lengkapi ayat: 'Pada Allah saja aku tenang, sebab dari pada-Nyalah _____.'",
+    "correct": "harapanku",
+    "wrong": ["pertolonganku", "kekuatanku", "keselamatanku"],
+    "hint": "Sumber pengharapan",
+    "explanation": "Daud mendorong jiwanya untuk beristirahat di dalam Allah sebagai sumber segala pengharapan.",
+    "full_verse": "Pada Allah saja aku tenang, sebab dari pada-Nyalah harapanku.",
+    "verse_ref": "Mazmur 62:6"
+  },
+  "q_hope_016": {
+    "question": "Lengkapi ayat: 'Sebab Engkaulah harapanku, ya Tuhan ALLAH, kepercayaanku sejak masa _____.'",
+    "correct": "mudaku",
+    "wrong": ["lahirku", "kecilku", "awalku"],
+    "hint": "Tahun-tahun awal kehidupan",
+    "explanation": "Pemazmur bersaksi bahwa Allah telah menjadi pengharapannya sejak masa muda.",
+    "full_verse": "Sebab Engkaulah harapanku, ya Tuhan ALLAH, kepercayaanku sejak masa mudaku.",
+    "verse_ref": "Mazmur 71:5"
+  },
+  "q_hope_017": {
+    "question": "Lengkapi ayat: 'Engkau tempat perlindunganku dan perisaiku; aku berharap kepada _____.'",
+    "correct": "firman-Mu",
+    "wrong": ["nama-Mu", "janji-Mu", "kasih-Mu"],
+    "hint": "Kebenaran Allah yang diucapkan",
+    "explanation": "Pemazmur menaruh pengharapan pada firman Allah sebagai sumber perlindungan.",
+    "full_verse": "Engkau tempat perlindunganku dan perisaiku; aku berharap kepada firman-Mu.",
+    "verse_ref": "Mazmur 119:114"
+  },
+  "q_hope_018": {
+    "question": "Lengkapi ayat: 'Aku menanti-nantikan TUHAN, jiwaku menanti-nantikan Dia dan aku berharap kepada _____.'",
+    "correct": "firman-Nya",
+    "wrong": ["janji-Nya", "kasih-Nya", "kuasa-Nya"],
+    "hint": "Pengharapan untuk masa depan",
+    "explanation": "Pemazmur mengungkapkan ketergantungan penuh pada firman Allah untuk pengharapan.",
+    "full_verse": "Aku menanti-nantikan TUHAN, jiwaku menanti-nantikan Dia dan aku berharap kepada firman-Nya.",
+    "verse_ref": "Mazmur 130:5"
+  },
+  "q_hope_019": {
+    "question": "Lengkapi ayat: 'Berbahagialah orang yang mempunyai Allah Yakub sebagai penolongnya, yang menaruh harapannya pada TUHAN, _____.'",
+    "correct": "Allahnya",
+    "wrong": ["Tuhannya", "Rajanya", "Juruselamatnya"],
+    "hint": "Tuhan mereka",
+    "explanation": "Pemazmur menyatakan berkat atas mereka yang berharap kepada TUHAN Allah mereka.",
+    "full_verse": "Berbahagialah orang yang mempunyai Allah Yakub sebagai penolongnya, yang menaruh harapannya pada TUHAN, Allahnya.",
+    "verse_ref": "Mazmur 146:5"
+  },
+  "q_hope_020": {
+    "question": "Lengkapi ayat: 'Harap yang ditangguhkan membuat hati sakit, tetapi keinginan yang terpenuhi adalah pohon _____.'",
+    "correct": "kehidupan",
+    "wrong": ["sukacita", "harapan", "damai"],
+    "hint": "Sesuatu yang memberi vitalitas",
+    "explanation": "Salomo mengontraskan harapan yang tertunda dengan keinginan yang terpenuhi, yang membawa kehidupan.",
+    "full_verse": "Harap yang ditangguhkan membuat hati sakit, tetapi keinginan yang terpenuhi adalah pohon kehidupan.",
+    "verse_ref": "Amsal 13:12"
+  },
+  "q_hope_021": {
+    "question": "Lengkapi ayat: 'Pada waktu itu orang akan berkata: \"Sesungguhnya, inilah Allah kita, yang kita nanti-nantikan, supaya kita _____; inilah TUHAN yang kita nanti-nantikan.\"'",
+    "correct": "diselamatkan",
+    "wrong": ["ditolong", "diberkati", "dikasihi"],
+    "hint": "Allah menyelamatkan umat-Nya",
+    "explanation": "Yesaya menubuatkan hari ketika umat Allah akan merayakan keselamatan-Nya.",
+    "full_verse": "Pada waktu itu orang akan berkata: 'Sesungguhnya, inilah Allah kita, yang kita nanti-nantikan, supaya kita diselamatkan; inilah TUHAN yang kita nanti-nantikan; marilah kita bersorak-sorak dan bersukacita oleh karena keselamatan yang diadakan-Nya!'",
+    "verse_ref": "Yesaya 25:9"
+  },
+  "q_hope_022": {
+    "question": "Lengkapi ayat: 'Tetapi aku ini akan menunggu-nunggu TUHAN, aku akan berharap kepada Allah yang menyelamatkan aku; Allahku akan _____.'",
+    "correct": "mendengarkan aku",
+    "wrong": ["menolong aku", "menyelamatkan aku", "menjawab aku"],
+    "hint": "Allah merespons doa",
+    "explanation": "Mikha mengungkapkan pengharapan yang yakin bahwa Allah akan mendengarkannya.",
+    "full_verse": "Tetapi aku ini akan menunggu-nunggu TUHAN, aku akan berharap kepada Allah yang menyelamatkan aku; Allahku akan mendengarkan aku.",
+    "verse_ref": "Mikha 7:7"
+  },
+  "q_hope_023": {
+    "question": "Lengkapi ayat: 'Kembalilah ke tempat perlindunganmu, hai orang-orang tawanan yang masih mempunyai harapan! Pada hari ini juga Aku memberitahukan: Dua kali lipat Aku akan _____!'",
+    "correct": "menggantinya kepadamu",
+    "wrong": ["memberkatimu", "menolongmu", "memulihkanmu"],
+    "hint": "Dua kali",
+    "explanation": "Allah menjanjikan pemulihan ganda kepada mereka yang mempertahankan pengharapan.",
+    "full_verse": "Kembalilah ke tempat perlindunganmu, hai orang-orang tawanan yang masih mempunyai harapan! Pada hari ini juga Aku memberitahukan: Dua kali lipat Aku akan menggantinya kepadamu!",
+    "verse_ref": "Zakharia 9:12"
+  },
+  "q_hope_024": {
+    "question": "Lengkapi ayat: 'Dan ketekunan menimbulkan tahan uji dan tahan uji menimbulkan _____.'",
+    "correct": "pengharapan",
+    "wrong": ["iman", "kasih", "sukacita"],
+    "hint": "Hasil dari karakter yang dikembangkan",
+    "explanation": "Paulus menunjukkan perkembangan dari penderitaan ke ketekunan ke karakter ke pengharapan.",
+    "full_verse": "Dan ketekunan menimbulkan tahan uji dan tahan uji menimbulkan pengharapan.",
+    "verse_ref": "Roma 5:4"
+  },
+  "q_hope_025": {
+    "question": "Lengkapi ayat: 'Tetapi jika kita mengharapkan apa yang tidak kita lihat, kita menantikannya dengan _____.'",
+    "correct": "tekun",
+    "wrong": ["sungguh-sungguh", "penuh harap", "tenang"],
+    "hint": "Dengan ketabahan",
+    "explanation": "Paulus mengajarkan bahwa pengharapan melibatkan penantian yang sabar untuk apa yang belum terlihat.",
+    "full_verse": "Tetapi jika kita mengharapkan apa yang tidak kita lihat, kita menantikannya dengan tekun.",
+    "verse_ref": "Roma 8:25"
+  },
+  "q_hope_026": {
+    "question": "Lengkapi ayat: 'Bersukacitalah dalam pengharapan, sabarlah dalam kesesakan, dan bertekunlah dalam _____!'",
+    "correct": "doa",
+    "wrong": ["kasih", "iman", "pelayanan"],
+    "hint": "Komunikasi dengan Allah",
+    "explanation": "Paulus memberikan tiga instruksi untuk kehidupan Kristen, termasuk bersukacita dalam pengharapan.",
+    "full_verse": "Bersukacitalah dalam pengharapan, sabarlah dalam kesesakan, dan bertekunlah dalam doa!",
+    "verse_ref": "Roma 12:12"
+  },
+  "q_hope_027": {
+    "question": "Lengkapi ayat: 'Demikianlah tinggal ketiga hal ini, yaitu iman, pengharapan dan kasih, dan yang paling besar di antaranya ialah _____.'",
+    "correct": "kasih",
+    "wrong": ["iman", "pengharapan", "kasih karunia"],
+    "hint": "Kebajikan tertinggi",
+    "explanation": "Paulus menyatakan bahwa meskipun iman, pengharapan, dan kasih bertahan, kasih adalah yang terbesar.",
+    "full_verse": "Demikianlah tinggal ketiga hal ini, yaitu iman, pengharapan dan kasih, dan yang paling besar di antaranya ialah kasih.",
+    "verse_ref": "1 Korintus 13:13"
+  },
+  "q_hope_028": {
+    "question": "Lengkapi ayat: 'Sebab oleh Roh, dan berdasarkan iman, kita menantikan kebenaran yang kita _____.'",
+    "correct": "harapkan",
+    "wrong": ["nantikan", "doakan", "rindukan"],
+    "hint": "Pengharapan kita",
+    "explanation": "Paulus menggambarkan orang percaya yang dengan sungguh-sungguh mengharapkan kebenaran yang dijanjikan iman.",
+    "full_verse": "Sebab oleh Roh, dan berdasarkan iman, kita menantikan kebenaran yang kita harapkan.",
+    "verse_ref": "Galatia 5:5"
+  },
+  "q_hope_029": {
+    "question": "Lengkapi ayat: 'Dan supaya Ia menjadikan mata hatimu terang, agar kamu mengerti pengharapan apakah yang terkandung dalam panggilan-_____.'",
+    "correct": "Nya",
+    "wrong": ["Allah", "itu", "kita"],
+    "hint": "Undangan Allah",
+    "explanation": "Paulus berdoa agar orang percaya memahami pengharapan dari panggilan mereka dalam Kristus.",
+    "full_verse": "Dan supaya Ia menjadikan mata hatimu terang, agar kamu mengerti pengharapan apakah yang terkandung dalam panggilan-Nya, betapa kayanya kemuliaan bagian yang ditentukan-Nya bagi orang-orang kudus.",
+    "verse_ref": "Efesus 1:18"
+  },
+  "q_hope_030": {
+    "question": "Lengkapi ayat: 'Satu tubuh dan satu Roh, sebagaimana kamu telah dipanggil kepada satu pengharapan yang terkandung dalam _____.'",
+    "correct": "panggilanmu",
+    "wrong": ["imanmu", "hidupmu", "keselamatanmu"],
+    "hint": "Undangan Allah kepada orang percaya",
+    "explanation": "Paulus menekankan kesatuan orang percaya dalam satu pengharapan melalui panggilan mereka.",
+    "full_verse": "Satu tubuh dan satu Roh, sebagaimana kamu telah dipanggil kepada satu pengharapan yang terkandung dalam panggilanmu.",
+    "verse_ref": "Efesus 4:4"
+  },
+  "q_hope_031": {
+    "question": "Lengkapi ayat: 'Oleh karena pengharapan yang disediakan bagi kamu di _____. Tentang pengharapan itu telah lebih dahulu kamu dengar dalam berita kebenaran, yaitu Injil.'",
+    "correct": "surga",
+    "wrong": ["kemuliaan", "Allah", "Kristus"],
+    "hint": "Di mana Allah berdiam",
+    "explanation": "Paulus menggambarkan pengharapan sebagai harta yang disimpan di surga yang menghasilkan iman dan kasih.",
+    "full_verse": "Oleh karena pengharapan yang disediakan bagi kamu di surga. Tentang pengharapan itu telah lebih dahulu kamu dengar dalam berita kebenaran, yaitu Injil.",
+    "verse_ref": "Kolose 1:5"
+  },
+  "q_hope_032": {
+    "question": "Lengkapi ayat: 'Kami selalu mengingat pekerjaan imanmu, usaha kasihmu dan ketekunan pengharapanmu kepada Tuhan kita Yesus _____.'",
+    "correct": "Kristus",
+    "wrong": ["Tuhan", "Juruselamat", "Raja"],
+    "hint": "Gelar Tuhan kita",
+    "explanation": "Paulus memuji jemaat Tesalonika atas iman, kasih, dan pengharapan mereka dalam Kristus.",
+    "full_verse": "Kami selalu mengingat pekerjaan imanmu, usaha kasihmu dan ketekunan pengharapanmu kepada Tuhan kita Yesus Kristus di hadapan Allah dan Bapa kita.",
+    "verse_ref": "1 Tesalonika 1:3"
+  },
+  "q_hope_033": {
+    "question": "Lengkapi ayat: 'Tetapi kita, yang adalah orang-orang siang, haruslah sadar dan berbaju zirah iman dan kasih serta berketopong pengharapan _____.'",
+    "correct": "keselamatan",
+    "wrong": ["hidup kekal", "kemuliaan", "sukacita"],
+    "hint": "Perlindungan untuk kepala",
+    "explanation": "Paulus menggunakan gambaran perlengkapan perang, menggambarkan pengharapan keselamatan sebagai ketopong.",
+    "full_verse": "Tetapi kita, yang adalah orang-orang siang, haruslah sadar dan berbaju zirah iman dan kasih serta berketopong pengharapan keselamatan.",
+    "verse_ref": "1 Tesalonika 5:8"
+  },
+  "q_hope_034": {
+    "question": "Lengkapi ayat: 'Dan Ia, Tuhan kita Yesus Kristus, dan Allah, Bapa kita, yang dalam kasih karunia-Nya telah mengasihi kita dan yang telah menganugerahkan penghiburan abadi dan pengharapan yang _____.'",
+    "correct": "baik",
+    "wrong": ["mulia", "teguh", "kekal"],
+    "hint": "Pengharapan positif untuk masa depan",
+    "explanation": "Paulus berdoa agar orang percaya menerima penghiburan abadi dan pengharapan yang baik.",
+    "full_verse": "Dan Ia, Tuhan kita Yesus Kristus, dan Allah, Bapa kita, yang dalam kasih karunia-Nya telah mengasihi kita dan yang telah menganugerahkan penghiburan abadi dan pengharapan yang baik kepada kita.",
+    "verse_ref": "2 Tesalonika 2:16"
+  },
+  "q_hope_035": {
+    "question": "Lengkapi ayat: 'Dari Paulus, rasul Kristus Yesus menurut perintah Allah, Juruselamat kita, dan Kristus Yesus, dasar pengharapan _____.'",
+    "correct": "kita",
+    "wrong": ["kamu", "mereka", "semua"],
+    "hint": "Kristus adalah pengharapan kita",
+    "explanation": "Paulus mengidentifikasi Kristus Yesus sebagai pengharapan kita dalam salamnya kepada Timotius.",
+    "full_verse": "Dari Paulus, rasul Kristus Yesus menurut perintah Allah, Juruselamat kita, dan Kristus Yesus, dasar pengharapan kita.",
+    "verse_ref": "1 Timotius 1:1"
+  },
+  "q_hope_036": {
+    "question": "Lengkapi ayat: 'Itulah sebabnya kita berjerih payah dan berjuang, karena kita menaruh pengharapan kita kepada Allah yang hidup, Juruselamat semua manusia, terutama mereka yang _____.'",
+    "correct": "percaya",
+    "wrong": ["berharap", "setia", "mengikut"],
+    "hint": "Mereka yang memiliki iman",
+    "explanation": "Paulus menjelaskan bahwa pengharapan kepada Allah yang hidup memotivasi pelayanan Kristen.",
+    "full_verse": "Itulah sebabnya kita berjerih payah dan berjuang, karena kita menaruh pengharapan kita kepada Allah yang hidup, Juruselamat semua manusia, terutama mereka yang percaya.",
+    "verse_ref": "1 Timotius 4:10"
+  },
+  "q_hope_037": {
+    "question": "Lengkapi ayat: 'Peringatkanlah kepada orang-orang kaya di dunia ini agar mereka jangan tinggi hati dan jangan berharap pada sesuatu yang tak tentu seperti kekayaan, melainkan pada Allah yang dalam kekayaan-Nya memberikan kepada kita segala sesuatu untuk _____.'",
+    "correct": "dinikmati",
+    "wrong": ["dipakai", "disimpan", "dibagikan"],
+    "hint": "Objek pengharapan yang tepat",
+    "explanation": "Paulus memperingatkan agar tidak berharap pada kekayaan yang tidak pasti, melainkan pada Allah.",
+    "full_verse": "Peringatkanlah kepada orang-orang kaya di dunia ini agar mereka jangan tinggi hati dan jangan berharap pada sesuatu yang tak tentu seperti kekayaan, melainkan pada Allah yang dalam kekayaan-Nya memberikan kepada kita segala sesuatu untuk dinikmati.",
+    "verse_ref": "1 Timotius 6:17"
+  },
+  "q_hope_038": {
+    "question": "Lengkapi ayat: 'Dengan pengharapan akan hidup yang kekal yang telah dijanjikan sebelum permulaan zaman oleh Allah, yang tidak _____.'",
+    "correct": "berdusta",
+    "wrong": ["gagal", "berubah", "lupa"],
+    "hint": "Allah selalu mengatakan kebenaran",
+    "explanation": "Paulus mendasarkan pengharapan akan hidup kekal pada janji Allah yang benar.",
+    "full_verse": "Dengan pengharapan akan hidup yang kekal yang telah dijanjikan sebelum permulaan zaman oleh Allah, yang tidak berdusta.",
+    "verse_ref": "Titus 1:2"
+  },
+  "q_hope_039": {
+    "question": "Lengkapi ayat: 'Supaya, setelah dibenarkan oleh kasih karunia-Nya, kita, dalam pengharapan, menjadi ahli waris dari hidup yang _____.'",
+    "correct": "kekal",
+    "wrong": ["mulia", "penuh sukacita", "penuh damai"],
+    "hint": "Hidup selamanya",
+    "explanation": "Paulus menjelaskan bahwa pembenaran oleh kasih karunia membuat kita ahli waris dengan pengharapan hidup kekal.",
+    "full_verse": "Supaya, setelah dibenarkan oleh kasih karunia-Nya, kita, dalam pengharapan, menjadi ahli waris dari hidup yang kekal.",
+    "verse_ref": "Titus 3:7"
+  },
+  "q_hope_040": {
+    "question": "Lengkapi ayat: 'Tetapi Kristus setia sebagai Anak yang mengepalai rumah-Nya; dan rumah-Nya ialah kita, jika kita sampai kepada akhirnya teguh berpegang pada _____.'",
+    "correct": "keberanian dan pengharapan",
+    "wrong": ["iman dan kasih", "janji dan berkat", "doa dan puji-pujian"],
+    "hint": "Kita bangga dalam pengharapan ini",
+    "explanation": "Penulis mendorong orang percaya untuk berpegang teguh pada pengharapan mereka dalam Kristus.",
+    "full_verse": "Tetapi Kristus setia sebagai Anak yang mengepalai rumah-Nya; dan rumah-Nya ialah kita, jika kita sampai kepada akhirnya teguh berpegang pada keberanian dan pengharapan yang menjadi kebanggaan kita.",
+    "verse_ref": "Ibrani 3:6"
+  },
+  "q_hope_041": {
+    "question": "Lengkapi ayat: 'Supaya oleh dua kenyataan yang tidak berubah-ubah, tentang mana Allah tidak mungkin berdusta, kita yang mencari perlindungan, beroleh dorongan yang kuat untuk menjangkau pengharapan yang terletak di depan kita. Pengharapan itu adalah _____ bagi jiwa kita.'",
+    "correct": "sauh",
+    "wrong": ["perisai", "perlindungan", "benteng"],
+    "hint": "Sesuatu yang menjaga kapal tetap stabil",
+    "explanation": "Penulis menggambarkan pengharapan sebagai sauh yang menstabilkan jiwa.",
+    "full_verse": "Supaya oleh dua kenyataan yang tidak berubah-ubah, tentang mana Allah tidak mungkin berdusta, kita yang mencari perlindungan, beroleh dorongan yang kuat untuk menjangkau pengharapan yang terletak di depan kita. Pengharapan itu adalah sauh yang kuat dan aman bagi jiwa kita.",
+    "verse_ref": "Ibrani 6:18-19"
+  },
+  "q_hope_042": {
+    "question": "Lengkapi ayat: 'Sebab hukum Taurat sama sekali tidak menyempurnakan apa-apa. Tetapi sekarang ada pengharapan yang lebih baik yang dibawa masuk, yang memungkinkan kita untuk menghampiri _____.'",
+    "correct": "Allah",
+    "wrong": ["surga", "Kristus", "keselamatan"],
+    "hint": "Pengharapan membawa kita lebih dekat kepada-Nya",
+    "explanation": "Penulis mengontraskan hukum Taurat dengan pengharapan yang lebih baik yang membawa kita dekat kepada Allah.",
+    "full_verse": "Sebab hukum Taurat sama sekali tidak menyempurnakan apa-apa. Tetapi sekarang ada pengharapan yang lebih baik yang dibawa masuk, yang memungkinkan kita untuk menghampiri Allah.",
+    "verse_ref": "Ibrani 7:19"
+  },
+  "q_hope_043": {
+    "question": "Lengkapi ayat: 'Marilah kita teguh berpegang pada pengakuan tentang pengharapan kita, sebab Ia yang menjanjikannya, _____.'",
+    "correct": "setia",
+    "wrong": ["benar", "baik", "adil"],
+    "hint": "Allah menepati janji-Nya",
+    "explanation": "Penulis mendorong orang percaya untuk berpegang teguh pada pengharapan karena Allah setia.",
+    "full_verse": "Marilah kita teguh berpegang pada pengakuan tentang pengharapan kita, sebab Ia yang menjanjikannya, setia.",
+    "verse_ref": "Ibrani 10:23"
+  },
+  "q_hope_044": {
+    "question": "Lengkapi ayat: 'Iman adalah dasar dari segala sesuatu yang kita harapkan dan bukti dari segala sesuatu yang tidak kita _____.'",
+    "correct": "lihat",
+    "wrong": ["ketahui", "miliki", "pahami"],
+    "hint": "Iman berkaitan dengan yang tidak terlihat",
+    "explanation": "Penulis mendefinisikan iman dalam hubungannya dengan pengharapan dan realitas yang tidak terlihat.",
+    "full_verse": "Iman adalah dasar dari segala sesuatu yang kita harapkan dan bukti dari segala sesuatu yang tidak kita lihat.",
+    "verse_ref": "Ibrani 11:1"
+  },
+  "q_hope_045": {
+    "question": "Lengkapi ayat: 'Sebab itu siapkanlah akal budimu, waspadalah dan letakkanlah seluruh pengharapanmu kepada kasih karunia yang dianugerahkan kepadamu pada waktu penyataan Yesus _____.'",
+    "correct": "Kristus",
+    "wrong": ["Tuhan", "Juruselamat", "Raja"],
+    "hint": "Ketika Kristus muncul",
+    "explanation": "Petrus memanggil orang percaya untuk menaruh seluruh pengharapan mereka pada kasih karunia yang datang saat Kristus kembali.",
+    "full_verse": "Sebab itu siapkanlah akal budimu, waspadalah dan letakkanlah seluruh pengharapanmu kepada kasih karunia yang dianugerahkan kepadamu pada waktu penyataan Yesus Kristus.",
+    "verse_ref": "1 Petrus 1:13"
+  },
+  "q_hope_046": {
+    "question": "Lengkapi ayat: 'Karena Dialah kamu percaya kepada Allah, yang telah membangkitkan Dia dari antara orang mati dan yang telah memuliakan-Nya, sehingga imanmu dan pengharapanmu tertuju kepada _____.'",
+    "correct": "Allah",
+    "wrong": ["Kristus", "surga", "Dia"],
+    "hint": "Objek utama iman dan pengharapan",
+    "explanation": "Petrus menjelaskan bahwa melalui Kristus, iman dan pengharapan kita diarahkan kepada Allah.",
+    "full_verse": "Karena Dialah kamu percaya kepada Allah, yang telah membangkitkan Dia dari antara orang mati dan yang telah memuliakan-Nya, sehingga imanmu dan pengharapanmu tertuju kepada Allah.",
+    "verse_ref": "1 Petrus 1:21"
+  },
+  "q_hope_047": {
+    "question": "Lengkapi ayat: 'Tetapi kuduskanlah Kristus di dalam hatimu sebagai Tuhan! Dan siap sedialah pada segala waktu untuk memberi pertanggungan jawab kepada tiap-tiap orang yang meminta pertanggungan jawab dari kamu tentang pengharapan yang ada _____.'",
+    "correct": "padamu",
+    "wrong": ["dalam hatimu", "di dalam kamu", "bagimu"],
+    "hint": "Memiliki pengharapan",
+    "explanation": "Petrus memerintahkan orang percaya untuk siap menjelaskan pengharapan yang mereka miliki.",
+    "full_verse": "Tetapi kuduskanlah Kristus di dalam hatimu sebagai Tuhan! Dan siap sedialah pada segala waktu untuk memberi pertanggungan jawab kepada tiap-tiap orang yang meminta pertanggungan jawab dari kamu tentang pengharapan yang ada padamu, tetapi haruslah dengan lemah lembut dan hormat.",
+    "verse_ref": "1 Petrus 3:15"
+  },
+  "q_hope_048": {
+    "question": "Lengkapi ayat: 'Setiap orang yang menaruh pengharapan itu kepada-Nya, menyucikan diri sama seperti Dia yang adalah _____.'",
+    "correct": "suci",
+    "wrong": ["kudus", "benar", "bersih"],
+    "hint": "Bebas dari ketidakmurnian",
+    "explanation": "Yohanes mengajarkan bahwa pengharapan dalam Kristus membawa kepada penyucian pribadi.",
+    "full_verse": "Setiap orang yang menaruh pengharapan itu kepada-Nya, menyucikan diri sama seperti Dia yang adalah suci.",
+    "verse_ref": "1 Yohanes 3:3"
+  },
+  "q_hope_049": {
+    "question": "Lengkapi ayat: 'Hal-hal inilah yang kuingat dan oleh sebab itu aku akan berharap: Tak berkesudahan kasih setia TUHAN, tak habis-habisnya _____.'",
+    "correct": "rahmat-Nya",
+    "wrong": ["kasih-Nya", "kebaikan-Nya", "anugerah-Nya"],
+    "hint": "Tidak sepenuhnya dihancurkan",
+    "explanation": "Yeremia menemukan pengharapan dengan mengingat kasih setia Allah yang memelihara kita.",
+    "full_verse": "Hal-hal inilah yang kuingat dan oleh sebab itu aku akan berharap: Tak berkesudahan kasih setia TUHAN, tak habis-habisnya rahmat-Nya.",
+    "verse_ref": "Ratapan 3:21-22"
+  },
+  "q_hope_050": {
+    "question": "Lengkapi ayat: 'Engkau akan merasa aman, karena ada harapan; engkau akan memandang berkeliling, dan beristirahat dengan _____.'",
+    "correct": "tenteram",
+    "wrong": ["damai", "nyaman", "aman"],
+    "hint": "Terlindungi dari bahaya",
+    "explanation": "Zofar menggambarkan keamanan dan istirahat yang datang dari pengharapan.",
+    "full_verse": "Engkau akan merasa aman, karena ada harapan; engkau akan memandang berkeliling, dan beristirahat dengan tenteram.",
+    "verse_ref": "Ayub 11:18"
+  }
+}

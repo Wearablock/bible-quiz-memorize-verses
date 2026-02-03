@@ -1,1 +1,452 @@
-{}
+{
+  "q_hope_001": {
+    "question": "Điền vào chỗ trống: 'Xin Đức Chúa Trời của hy vọng đổ đầy anh chị em mọi niềm vui và bình an khi tin cậy Ngài, để anh chị em tràn đầy hy vọng bởi quyền năng của Đức Thánh _____.'",
+    "correct": "Linh",
+    "wrong": ["Thần", "Đấng", "Chúa"],
+    "hint": "Ngôi thứ ba của Ba Ngôi",
+    "explanation": "Phao-lô cầu nguyện rằng các tín hữu sẽ tràn đầy niềm vui, bình an và hy vọng qua Đức Thánh Linh.",
+    "full_verse": "Xin Đức Chúa Trời của hy vọng đổ đầy anh chị em mọi niềm vui và bình an khi tin cậy Ngài, để anh chị em tràn đầy hy vọng bởi quyền năng của Đức Thánh Linh.",
+    "verse_ref": "Rô-ma 15:13"
+  },
+  "q_hope_002": {
+    "question": "Điền vào chỗ trống: 'Vì Ta biết các kế hoạch Ta dành cho các ngươi, CHÚA phán, là các kế hoạch ban phước chứ không phải tai họa, ban cho các ngươi hy vọng và _____.'",
+    "correct": "tương lai",
+    "wrong": ["lời hứa", "phước lành", "mục đích"],
+    "hint": "Điều đến sau hôm nay",
+    "explanation": "Đức Chúa Trời đảm bảo với dân Ngài rằng các kế hoạch của Ngài bao gồm hy vọng và một tương lai tươi sáng.",
+    "full_verse": "Vì Ta biết các kế hoạch Ta dành cho các ngươi, CHÚA phán, là các kế hoạch ban phước chứ không phải tai họa, ban cho các ngươi hy vọng và tương lai.",
+    "verse_ref": "Giê-rê-mi 29:11"
+  },
+  "q_hope_003": {
+    "question": "Điền vào chỗ trống: 'Vì trong hy vọng này chúng ta được cứu. Nhưng hy vọng mà nhìn thấy thì không còn là hy vọng nữa. Ai lại hy vọng điều mình đã _____?'",
+    "correct": "có",
+    "wrong": ["thấy", "biết", "sở hữu"],
+    "hint": "Sở hữu điều gì đó",
+    "explanation": "Phao-lô giải thích rằng hy vọng bao gồm việc chờ đợi điều chúng ta chưa có.",
+    "full_verse": "Vì trong hy vọng này chúng ta được cứu. Nhưng hy vọng mà nhìn thấy thì không còn là hy vọng nữa. Ai lại hy vọng điều mình đã có?",
+    "verse_ref": "Rô-ma 8:24"
+  },
+  "q_hope_004": {
+    "question": "Điền vào chỗ trống: 'Chúng ta có hy vọng này như neo của linh hồn, vững chắc và _____.'",
+    "correct": "an toàn",
+    "wrong": ["mạnh mẽ", "vững vàng", "ổn định"],
+    "hint": "Được bảo vệ và an ninh",
+    "explanation": "Tác giả Hê-bơ-rơ mô tả hy vọng như một cái neo giữ linh hồn chúng ta vững vàng.",
+    "full_verse": "Chúng ta có hy vọng này như neo của linh hồn, vững chắc và an toàn. Nó đi vào nơi chí thánh phía sau bức màn.",
+    "verse_ref": "Hê-bơ-rơ 6:19"
+  },
+  "q_hope_005": {
+    "question": "Điền vào chỗ trống: 'Chúc tụng Đức Chúa Trời, Cha của Chúa Giê-xu Christ chúng ta! Trong lòng thương xót lớn lao, Ngài đã cho chúng ta được tái sinh vào một _____ sống động qua sự phục sinh của Đức Chúa Giê-xu Christ từ cõi chết.'",
+    "correct": "hy vọng",
+    "wrong": ["đức tin", "sự sống", "lời hứa"],
+    "hint": "Hy vọng này sống động",
+    "explanation": "Phi-e-rơ ca ngợi Đức Chúa Trời đã ban cho các tín hữu một hy vọng sống động qua sự phục sinh của Đấng Christ.",
+    "full_verse": "Chúc tụng Đức Chúa Trời, Cha của Chúa Giê-xu Christ chúng ta! Trong lòng thương xót lớn lao, Ngài đã cho chúng ta được tái sinh vào một hy vọng sống động qua sự phục sinh của Đức Chúa Giê-xu Christ từ cõi chết.",
+    "verse_ref": "1 Phi-e-rơ 1:3"
+  },
+  "q_hope_006": {
+    "question": "Điền vào chỗ trống: 'Hỡi linh hồn ta, sao ngươi buồn rầu? Sao ngươi bồn chồn trong ta? Hãy hy vọng nơi Đức Chúa Trời, vì ta sẽ còn _____ Ngài.'",
+    "correct": "ca ngợi",
+    "wrong": ["cảm tạ", "thờ phượng", "tin cậy"],
+    "hint": "Sự thờ phượng trong tương lai dành cho Đức Chúa Trời",
+    "explanation": "Tác giả Thi Thiên khuyến khích linh hồn mình hy vọng nơi Đức Chúa Trời dù đang chán nản.",
+    "full_verse": "Hỡi linh hồn ta, sao ngươi buồn rầu? Sao ngươi bồn chồn trong ta? Hãy hy vọng nơi Đức Chúa Trời, vì ta sẽ còn ca ngợi Ngài, Đấng Cứu Rỗi và Đức Chúa Trời ta.",
+    "verse_ref": "Thi Thiên 42:11"
+  },
+  "q_hope_007": {
+    "question": "Điền vào chỗ trống: 'Nhưng những ai hy vọng nơi CHÚA sẽ được sức mới. Họ sẽ cất cánh bay cao như chim _____.'",
+    "correct": "đại bàng",
+    "wrong": ["thiên sứ", "chim", "bồ câu"],
+    "hint": "Một loài chim oai nghiêm",
+    "explanation": "Ê-sai hứa rằng những ai hy vọng nơi Đức Chúa Trời sẽ được ban sức mạnh siêu nhiên.",
+    "full_verse": "Nhưng những ai hy vọng nơi CHÚA sẽ được sức mới. Họ sẽ cất cánh bay cao như chim đại bàng; họ sẽ chạy mà không mệt mỏi, sẽ đi mà không kiệt sức.",
+    "verse_ref": "Ê-sai 40:31"
+  },
+  "q_hope_008": {
+    "question": "Điền vào chỗ trống: 'Tôi tự nhủ: \"CHÚA là phần sản nghiệp của tôi; vì vậy tôi sẽ _____ Ngài.\"'",
+    "correct": "chờ đợi",
+    "wrong": ["hy vọng", "tin cậy", "tin"],
+    "hint": "Kiên nhẫn trông mong",
+    "explanation": "Giê-rê-mi tuyên bố rằng vì Đức Chúa Trời là sản nghiệp của ông, ông sẽ kiên nhẫn chờ đợi Ngài.",
+    "full_verse": "Tôi tự nhủ: 'CHÚA là phần sản nghiệp của tôi; vì vậy tôi sẽ chờ đợi Ngài.'",
+    "verse_ref": "Ca Thương 3:24"
+  },
+  "q_hope_009": {
+    "question": "Điền vào chỗ trống: 'Hãy mạnh mẽ và vững lòng, tất cả những ai hy vọng nơi _____.'",
+    "correct": "CHÚA",
+    "wrong": ["Đức Chúa Trời", "Cứu Chúa", "Vua"],
+    "hint": "Danh giao ước của Đức Chúa Trời",
+    "explanation": "Đa-vít khuyến khích những ai hy vọng nơi Đức Chúa Trời hãy mạnh mẽ và can đảm.",
+    "full_verse": "Hãy mạnh mẽ và vững lòng, tất cả những ai hy vọng nơi CHÚA.",
+    "verse_ref": "Thi Thiên 31:24"
+  },
+  "q_hope_010": {
+    "question": "Điền vào chỗ trống: 'Và hy vọng không làm chúng ta hổ thẹn, vì tình yêu của Đức Chúa Trời đã được đổ vào _____ chúng ta qua Đức Thánh Linh.'",
+    "correct": "lòng",
+    "wrong": ["hồn", "đời sống", "trí"],
+    "hint": "Trung tâm của con người chúng ta",
+    "explanation": "Phao-lô đảm bảo rằng hy vọng nơi Đức Chúa Trời sẽ không bao giờ thất vọng vì tình yêu của Ngài trong chúng ta.",
+    "full_verse": "Và hy vọng không làm chúng ta hổ thẹn, vì tình yêu của Đức Chúa Trời đã được đổ vào lòng chúng ta qua Đức Thánh Linh, Đấng đã được ban cho chúng ta.",
+    "verse_ref": "Rô-ma 5:5"
+  },
+  "q_hope_011": {
+    "question": "Điền vào chỗ trống: 'Đức Chúa Trời đã chọn bày tỏ cho các dân ngoại biết sự giàu có vinh hiển của mầu nhiệm này, đó là Đấng Christ ở trong anh chị em, hy vọng của _____.'",
+    "correct": "vinh hiển",
+    "wrong": ["sự cứu rỗi", "thiên đàng", "sự sống"],
+    "hint": "Sự huy hoàng trong tương lai với Đức Chúa Trời",
+    "explanation": "Phao-lô tiết lộ rằng Đấng Christ ngự trong các tín hữu là hy vọng của vinh hiển tương lai.",
+    "full_verse": "Đức Chúa Trời đã chọn bày tỏ cho các dân ngoại biết sự giàu có vinh hiển của mầu nhiệm này, đó là Đấng Christ ở trong anh chị em, hy vọng của vinh hiển.",
+    "verse_ref": "Cô-lô-se 1:27"
+  },
+  "q_hope_012": {
+    "question": "Điền vào chỗ trống: 'Trong khi chúng ta chờ đợi hy vọng phước hạnh—sự hiện ra vinh hiển của Đức Chúa Trời vĩ đại và Cứu Chúa chúng ta, Giê-xu _____.'",
+    "correct": "Christ",
+    "wrong": ["Chúa", "Vua", "Mê-si-a"],
+    "hint": "Danh xưng của Chúa Giê-xu",
+    "explanation": "Phao-lô mô tả sự trở lại của Đấng Christ như hy vọng phước hạnh mà các tín hữu háo hức chờ đợi.",
+    "full_verse": "Trong khi chúng ta chờ đợi hy vọng phước hạnh—sự hiện ra vinh hiển của Đức Chúa Trời vĩ đại và Cứu Chúa chúng ta, Giê-xu Christ.",
+    "verse_ref": "Tít 2:13"
+  },
+  "q_hope_013": {
+    "question": "Điền vào chỗ trống: 'Thưa anh chị em, chúng tôi không muốn anh chị em không biết về những người đã ngủ, để anh chị em không buồn rầu như những người khác không có _____.'",
+    "correct": "hy vọng",
+    "wrong": ["đức tin", "bình an", "sự an ủi"],
+    "hint": "Các tín hữu có điều này cho tương lai",
+    "explanation": "Phao-lô an ủi các tín hữu rằng họ có hy vọng về những người đã chết trong Đấng Christ.",
+    "full_verse": "Thưa anh chị em, chúng tôi không muốn anh chị em không biết về những người đã ngủ, để anh chị em không buồn rầu như những người khác không có hy vọng.",
+    "verse_ref": "1 Tê-sa-lô-ni-ca 4:13"
+  },
+  "q_hope_014": {
+    "question": "Điền vào chỗ trống: 'Nhưng bây giờ, lạy Chúa, tôi còn trông mong gì? Hy vọng của tôi ở nơi _____.'",
+    "correct": "Ngài",
+    "wrong": ["Đức Chúa Trời", "Chúa", "thiên đàng"],
+    "hint": "Đa-vít nói trực tiếp với Đức Chúa Trời",
+    "explanation": "Đa-vít tuyên bố rằng hy vọng của ông hoàn toàn đặt nơi Đức Chúa Trời.",
+    "full_verse": "Nhưng bây giờ, lạy Chúa, tôi còn trông mong gì? Hy vọng của tôi ở nơi Ngài.",
+    "verse_ref": "Thi Thiên 39:7"
+  },
+  "q_hope_015": {
+    "question": "Điền vào chỗ trống: 'Hỡi linh hồn ta, hãy nghỉ ngơi nơi Đức Chúa Trời; hy vọng của ta đến từ _____.'",
+    "correct": "Ngài",
+    "wrong": ["Đức Chúa Trời", "trên cao", "thiên đàng"],
+    "hint": "Nguồn của hy vọng",
+    "explanation": "Đa-vít khuyến khích linh hồn mình nghỉ ngơi nơi Đức Chúa Trời như nguồn của mọi hy vọng.",
+    "full_verse": "Hỡi linh hồn ta, hãy nghỉ ngơi nơi Đức Chúa Trời; hy vọng của ta đến từ Ngài.",
+    "verse_ref": "Thi Thiên 62:5"
+  },
+  "q_hope_016": {
+    "question": "Điền vào chỗ trống: 'Vì Ngài là hy vọng của tôi, lạy CHÚA Chí Cao, là sự tin cậy của tôi từ thuở _____.'",
+    "correct": "tuổi trẻ",
+    "wrong": ["lúc sinh", "thơ ấu", "ban đầu"],
+    "hint": "Những năm đầu đời",
+    "explanation": "Tác giả Thi Thiên làm chứng rằng Đức Chúa Trời là hy vọng của ông từ thời thơ ấu.",
+    "full_verse": "Vì Ngài là hy vọng của tôi, lạy CHÚA Chí Cao, là sự tin cậy của tôi từ thuở tuổi trẻ.",
+    "verse_ref": "Thi Thiên 71:5"
+  },
+  "q_hope_017": {
+    "question": "Điền vào chỗ trống: 'Ngài là nơi nương náu và thuẫn đỡ của tôi; tôi đặt hy vọng vào _____ Ngài.'",
+    "correct": "lời",
+    "wrong": ["danh", "lời hứa", "tình yêu"],
+    "hint": "Lẽ thật được Đức Chúa Trời phán",
+    "explanation": "Tác giả Thi Thiên đặt hy vọng vào lời Đức Chúa Trời như nguồn bảo vệ.",
+    "full_verse": "Ngài là nơi nương náu và thuẫn đỡ của tôi; tôi đặt hy vọng vào lời Ngài.",
+    "verse_ref": "Thi Thiên 119:114"
+  },
+  "q_hope_018": {
+    "question": "Điền vào chỗ trống: 'Tôi chờ đợi CHÚA, cả linh hồn tôi chờ đợi, và tôi đặt _____ vào lời Ngài.'",
+    "correct": "hy vọng",
+    "wrong": ["niềm tin", "đức tin", "lòng"],
+    "hint": "Kỳ vọng cho tương lai",
+    "explanation": "Tác giả Thi Thiên bày tỏ sự hoàn toàn lệ thuộc vào lời Đức Chúa Trời cho hy vọng.",
+    "full_verse": "Tôi chờ đợi CHÚA, cả linh hồn tôi chờ đợi, và tôi đặt hy vọng vào lời Ngài.",
+    "verse_ref": "Thi Thiên 130:5"
+  },
+  "q_hope_019": {
+    "question": "Điền vào chỗ trống: 'Phước cho người có sự giúp đỡ của Đức Chúa Trời của Gia-cốp, có hy vọng nơi CHÚA, _____ của mình.'",
+    "correct": "Đức Chúa Trời",
+    "wrong": ["Chúa", "Vua", "Cứu Chúa"],
+    "hint": "Thần của họ",
+    "explanation": "Tác giả Thi Thiên tuyên bố phước lành cho những ai hy vọng nơi CHÚA, Đức Chúa Trời của họ.",
+    "full_verse": "Phước cho người có sự giúp đỡ của Đức Chúa Trời của Gia-cốp, có hy vọng nơi CHÚA, Đức Chúa Trời của mình.",
+    "verse_ref": "Thi Thiên 146:5"
+  },
+  "q_hope_020": {
+    "question": "Điền vào chỗ trống: 'Hy vọng bị trì hoãn làm lòng đau, nhưng ước muốn được toại nguyện là cây _____.'",
+    "correct": "sự sống",
+    "wrong": ["vui mừng", "hy vọng", "bình an"],
+    "hint": "Điều gì đó mang lại sức sống",
+    "explanation": "Sa-lô-môn đối chiếu hy vọng bị trì hoãn với ước muốn được thỏa mãn, mang lại sự sống.",
+    "full_verse": "Hy vọng bị trì hoãn làm lòng đau, nhưng ước muốn được toại nguyện là cây sự sống.",
+    "verse_ref": "Châm Ngôn 13:12"
+  },
+  "q_hope_021": {
+    "question": "Điền vào chỗ trống: 'Trong ngày ấy họ sẽ nói: \"Đây thật là Đức Chúa Trời của chúng ta; chúng ta đã tin cậy Ngài, và Ngài đã _____ chúng ta.\"'",
+    "correct": "cứu",
+    "wrong": ["giúp", "ban phước", "yêu"],
+    "hint": "Đức Chúa Trời giải cứu dân Ngài",
+    "explanation": "Ê-sai tiên tri về ngày dân Đức Chúa Trời sẽ vui mừng về sự cứu rỗi của Ngài.",
+    "full_verse": "Trong ngày ấy họ sẽ nói: 'Đây thật là Đức Chúa Trời của chúng ta; chúng ta đã tin cậy Ngài, và Ngài đã cứu chúng ta. Đây là CHÚA, chúng ta đã tin cậy Ngài; hãy vui mừng và hân hỷ trong sự cứu rỗi của Ngài.'",
+    "verse_ref": "Ê-sai 25:9"
+  },
+  "q_hope_022": {
+    "question": "Điền vào chỗ trống: 'Nhưng về phần tôi, tôi trông đợi CHÚA với hy vọng, tôi chờ đợi Đức Chúa Trời cứu rỗi tôi; Đức Chúa Trời tôi sẽ _____ tôi.'",
+    "correct": "nghe",
+    "wrong": ["giúp", "cứu", "đáp"],
+    "hint": "Đức Chúa Trời đáp lời cầu nguyện",
+    "explanation": "Mi-chê bày tỏ hy vọng tin tưởng rằng Đức Chúa Trời sẽ nghe ông.",
+    "full_verse": "Nhưng về phần tôi, tôi trông đợi CHÚA với hy vọng, tôi chờ đợi Đức Chúa Trời cứu rỗi tôi; Đức Chúa Trời tôi sẽ nghe tôi.",
+    "verse_ref": "Mi-chê 7:7"
+  },
+  "q_hope_023": {
+    "question": "Điền vào chỗ trống: 'Hãy trở về thành trì của các ngươi, hỡi những tù nhân của hy vọng; ngay bây giờ Ta công bố rằng Ta sẽ phục hồi cho các ngươi gấp _____.'",
+    "correct": "đôi",
+    "wrong": ["bội", "nhiều", "tất cả"],
+    "hint": "Hai lần",
+    "explanation": "Đức Chúa Trời hứa sự phục hồi gấp đôi cho những ai giữ vững hy vọng.",
+    "full_verse": "Hãy trở về thành trì của các ngươi, hỡi những tù nhân của hy vọng; ngay bây giờ Ta công bố rằng Ta sẽ phục hồi cho các ngươi gấp đôi.",
+    "verse_ref": "Xa-cha-ri 9:12"
+  },
+  "q_hope_024": {
+    "question": "Điền vào chỗ trống: 'Sự kiên trì sinh ra phẩm chất; và phẩm chất sinh ra _____.'",
+    "correct": "hy vọng",
+    "wrong": ["đức tin", "tình yêu", "niềm vui"],
+    "hint": "Kết quả của phẩm chất được phát triển",
+    "explanation": "Phao-lô cho thấy sự tiến triển từ đau khổ đến kiên trì đến phẩm chất đến hy vọng.",
+    "full_verse": "Sự kiên trì sinh ra phẩm chất; và phẩm chất sinh ra hy vọng.",
+    "verse_ref": "Rô-ma 5:4"
+  },
+  "q_hope_025": {
+    "question": "Điền vào chỗ trống: 'Nhưng nếu chúng ta hy vọng điều chưa có, chúng ta chờ đợi với sự _____.'",
+    "correct": "kiên nhẫn",
+    "wrong": ["háo hức", "hy vọng", "yên lặng"],
+    "hint": "Với sự chịu đựng",
+    "explanation": "Phao-lô dạy rằng hy vọng bao gồm việc kiên nhẫn chờ đợi điều chưa thấy.",
+    "full_verse": "Nhưng nếu chúng ta hy vọng điều chưa có, chúng ta chờ đợi với sự kiên nhẫn.",
+    "verse_ref": "Rô-ma 8:25"
+  },
+  "q_hope_026": {
+    "question": "Điền vào chỗ trống: 'Hãy vui mừng trong hy vọng, kiên nhẫn trong hoạn nạn, trung tín trong _____.'",
+    "correct": "sự cầu nguyện",
+    "wrong": ["tình yêu", "đức tin", "sự phục vụ"],
+    "hint": "Giao tiếp với Đức Chúa Trời",
+    "explanation": "Phao-lô đưa ra ba hướng dẫn cho đời sống Cơ Đốc nhân, bao gồm hy vọng vui mừng.",
+    "full_verse": "Hãy vui mừng trong hy vọng, kiên nhẫn trong hoạn nạn, trung tín trong sự cầu nguyện.",
+    "verse_ref": "Rô-ma 12:12"
+  },
+  "q_hope_027": {
+    "question": "Điền vào chỗ trống: 'Và nay còn lại ba điều này: đức tin, hy vọng và tình yêu thương. Nhưng điều lớn nhất trong ba điều đó là _____.'",
+    "correct": "tình yêu thương",
+    "wrong": ["đức tin", "hy vọng", "ân điển"],
+    "hint": "Đức tính cao quý nhất",
+    "explanation": "Phao-lô tuyên bố rằng trong khi đức tin, hy vọng và tình yêu thương tồn tại, tình yêu thương là lớn nhất.",
+    "full_verse": "Và nay còn lại ba điều này: đức tin, hy vọng và tình yêu thương. Nhưng điều lớn nhất trong ba điều đó là tình yêu thương.",
+    "verse_ref": "1 Cô-rinh-tô 13:13"
+  },
+  "q_hope_028": {
+    "question": "Điền vào chỗ trống: 'Vì qua Đức Thánh Linh, chúng ta háo hức chờ đợi bởi đức tin sự công chính mà chúng ta _____.'",
+    "correct": "hy vọng",
+    "wrong": ["chờ đợi", "cầu xin", "ao ước"],
+    "hint": "Sự kỳ vọng của chúng ta",
+    "explanation": "Phao-lô mô tả các tín hữu háo hức hy vọng về sự công chính mà đức tin hứa.",
+    "full_verse": "Vì qua Đức Thánh Linh, chúng ta háo hức chờ đợi bởi đức tin sự công chính mà chúng ta hy vọng.",
+    "verse_ref": "Ga-la-ti 5:5"
+  },
+  "q_hope_029": {
+    "question": "Điền vào chỗ trống: 'Tôi cầu xin cho mắt lòng anh chị em được soi sáng để biết hy vọng mà Ngài đã _____ anh chị em.'",
+    "correct": "kêu gọi",
+    "wrong": ["chọn", "cứu", "ban phước"],
+    "hint": "Lời mời của Đức Chúa Trời",
+    "explanation": "Phao-lô cầu nguyện rằng các tín hữu sẽ hiểu hy vọng của sự kêu gọi họ trong Đấng Christ.",
+    "full_verse": "Tôi cầu xin cho mắt lòng anh chị em được soi sáng để biết hy vọng mà Ngài đã kêu gọi anh chị em, sự giàu có vinh hiển của cơ nghiệp Ngài trong các thánh đồ.",
+    "verse_ref": "Ê-phê-sô 1:18"
+  },
+  "q_hope_030": {
+    "question": "Điền vào chỗ trống: 'Chỉ có một thân thể và một Thánh Linh, cũng như anh chị em đã được kêu gọi đến một hy vọng khi được _____.'",
+    "correct": "kêu gọi",
+    "wrong": ["cứu", "chọn", "sinh"],
+    "hint": "Lời mời của Đức Chúa Trời cho các tín hữu",
+    "explanation": "Phao-lô nhấn mạnh sự hiệp nhất của các tín hữu trong một hy vọng qua sự kêu gọi của họ.",
+    "full_verse": "Chỉ có một thân thể và một Thánh Linh, cũng như anh chị em đã được kêu gọi đến một hy vọng khi được kêu gọi.",
+    "verse_ref": "Ê-phê-sô 4:4"
+  },
+  "q_hope_031": {
+    "question": "Điền vào chỗ trống: 'Đức tin và tình yêu thương xuất phát từ hy vọng được dành sẵn cho anh chị em trên _____.'",
+    "correct": "thiên đàng",
+    "wrong": ["vinh hiển", "Đức Chúa Trời", "Đấng Christ"],
+    "hint": "Nơi Đức Chúa Trời ngự",
+    "explanation": "Phao-lô mô tả hy vọng như kho báu được cất giữ trên thiên đàng sinh ra đức tin và tình yêu thương.",
+    "full_verse": "Đức tin và tình yêu thương xuất phát từ hy vọng được dành sẵn cho anh chị em trên thiên đàng và anh chị em đã nghe trong sứ điệp chân thật của Tin Lành.",
+    "verse_ref": "Cô-lô-se 1:5"
+  },
+  "q_hope_032": {
+    "question": "Điền vào chỗ trống: 'Chúng tôi nhớ trước mặt Đức Chúa Trời và Cha chúng ta về công việc bởi đức tin, lao khổ bởi tình yêu thương, và sự kiên trì bởi hy vọng nơi Chúa Giê-xu _____ của anh chị em.'",
+    "correct": "Christ",
+    "wrong": ["Chúa", "Cứu Chúa", "Vua"],
+    "hint": "Danh xưng của Chúa chúng ta",
+    "explanation": "Phao-lô khen ngợi người Tê-sa-lô-ni-ca về đức tin, tình yêu và hy vọng của họ trong Đấng Christ.",
+    "full_verse": "Chúng tôi nhớ trước mặt Đức Chúa Trời và Cha chúng ta về công việc bởi đức tin, lao khổ bởi tình yêu thương, và sự kiên trì bởi hy vọng nơi Chúa Giê-xu Christ của anh chị em.",
+    "verse_ref": "1 Tê-sa-lô-ni-ca 1:3"
+  },
+  "q_hope_033": {
+    "question": "Điền vào chỗ trống: 'Nhưng vì chúng ta thuộc về ban ngày, hãy tỉnh thức, mặc đức tin và tình yêu thương làm áo giáp, và hy vọng về sự cứu rỗi làm _____.'",
+    "correct": "mũ trụ",
+    "wrong": ["thuẫn", "gươm", "mão miện"],
+    "hint": "Áo giáp cho đầu",
+    "explanation": "Phao-lô sử dụng hình ảnh áo giáp, mô tả hy vọng về sự cứu rỗi như mũ trụ.",
+    "full_verse": "Nhưng vì chúng ta thuộc về ban ngày, hãy tỉnh thức, mặc đức tin và tình yêu thương làm áo giáp, và hy vọng về sự cứu rỗi làm mũ trụ.",
+    "verse_ref": "1 Tê-sa-lô-ni-ca 5:8"
+  },
+  "q_hope_034": {
+    "question": "Điền vào chỗ trống: 'Nguyện chính Chúa Giê-xu Christ chúng ta và Đức Chúa Trời, Cha chúng ta, là Đấng đã yêu thương chúng ta và bởi ân điển ban cho chúng ta sự khích lệ đời đời và _____ tốt lành.'",
+    "correct": "hy vọng",
+    "wrong": ["tin tức", "đức tin", "lời hứa"],
+    "hint": "Kỳ vọng tích cực cho tương lai",
+    "explanation": "Phao-lô cầu nguyện cho các tín hữu nhận được sự khích lệ đời đời và hy vọng tốt lành.",
+    "full_verse": "Nguyện chính Chúa Giê-xu Christ chúng ta và Đức Chúa Trời, Cha chúng ta, là Đấng đã yêu thương chúng ta và bởi ân điển ban cho chúng ta sự khích lệ đời đời và hy vọng tốt lành.",
+    "verse_ref": "2 Tê-sa-lô-ni-ca 2:16"
+  },
+  "q_hope_035": {
+    "question": "Điền vào chỗ trống: 'Phao-lô, sứ đồ của Đức Chúa Giê-xu Christ theo mệnh lệnh của Đức Chúa Trời, Cứu Chúa chúng ta, và Đức Chúa Giê-xu Christ, _____ của chúng ta.'",
+    "correct": "hy vọng",
+    "wrong": ["Chúa", "Vua", "Cứu Chúa"],
+    "hint": "Đấng Christ là sự kỳ vọng của chúng ta",
+    "explanation": "Phao-lô nhận diện Đức Chúa Giê-xu Christ là hy vọng của chúng ta trong lời chào Ti-mô-thê.",
+    "full_verse": "Phao-lô, sứ đồ của Đức Chúa Giê-xu Christ theo mệnh lệnh của Đức Chúa Trời, Cứu Chúa chúng ta, và Đức Chúa Giê-xu Christ, hy vọng của chúng ta.",
+    "verse_ref": "1 Ti-mô-thê 1:1"
+  },
+  "q_hope_036": {
+    "question": "Điền vào chỗ trống: 'Đó là lý do chúng tôi lao khổ và phấn đấu, vì chúng tôi đặt hy vọng vào Đức Chúa Trời hằng sống, là Cứu Chúa của mọi người, đặc biệt là những người _____.'",
+    "correct": "tin",
+    "wrong": ["hy vọng", "tin cậy", "theo"],
+    "hint": "Những người có đức tin",
+    "explanation": "Phao-lô giải thích rằng hy vọng nơi Đức Chúa Trời hằng sống thúc đẩy sự phục vụ Cơ Đốc.",
+    "full_verse": "Đó là lý do chúng tôi lao khổ và phấn đấu, vì chúng tôi đặt hy vọng vào Đức Chúa Trời hằng sống, là Cứu Chúa của mọi người, đặc biệt là những người tin.",
+    "verse_ref": "1 Ti-mô-thê 4:10"
+  },
+  "q_hope_037": {
+    "question": "Điền vào chỗ trống: 'Hãy truyền cho những người giàu trong đời này đừng kiêu ngạo, cũng đừng đặt hy vọng vào sự giàu có không chắc chắn, nhưng hãy đặt hy vọng vào _____.'",
+    "correct": "Đức Chúa Trời",
+    "wrong": ["thiên đàng", "Đấng Christ", "Chúa"],
+    "hint": "Đối tượng đúng đắn của hy vọng",
+    "explanation": "Phao-lô cảnh báo chống lại việc hy vọng vào sự giàu có không chắc chắn thay vì nơi Đức Chúa Trời.",
+    "full_verse": "Hãy truyền cho những người giàu trong đời này đừng kiêu ngạo, cũng đừng đặt hy vọng vào sự giàu có không chắc chắn, nhưng hãy đặt hy vọng vào Đức Chúa Trời, Đấng ban cho chúng ta mọi sự dư dật để hưởng.",
+    "verse_ref": "1 Ti-mô-thê 6:17"
+  },
+  "q_hope_038": {
+    "question": "Điền vào chỗ trống: 'Trong hy vọng về sự sống đời đời, mà Đức Chúa Trời, Đấng không hề _____, đã hứa trước muôn đời.'",
+    "correct": "nói dối",
+    "wrong": ["thất bại", "thay đổi", "quên"],
+    "hint": "Đức Chúa Trời luôn nói sự thật",
+    "explanation": "Phao-lô đặt nền tảng hy vọng về sự sống đời đời trên lời hứa chân thật của Đức Chúa Trời.",
+    "full_verse": "Trong hy vọng về sự sống đời đời, mà Đức Chúa Trời, Đấng không hề nói dối, đã hứa trước muôn đời.",
+    "verse_ref": "Tít 1:2"
+  },
+  "q_hope_039": {
+    "question": "Điền vào chỗ trống: 'Để sau khi được xưng công chính bởi ân điển Ngài, chúng ta trở nên người thừa kế có hy vọng về sự _____ đời đời.'",
+    "correct": "sống",
+    "wrong": ["vinh hiển", "vui mừng", "bình an"],
+    "hint": "Sống mãi mãi",
+    "explanation": "Phao-lô giải thích rằng sự xưng công chính bởi ân điển làm chúng ta trở thành người thừa kế có hy vọng về sự sống đời đời.",
+    "full_verse": "Để sau khi được xưng công chính bởi ân điển Ngài, chúng ta trở nên người thừa kế có hy vọng về sự sống đời đời.",
+    "verse_ref": "Tít 3:7"
+  },
+  "q_hope_040": {
+    "question": "Điền vào chỗ trống: 'Nhưng Đấng Christ thì trung tín như Con cai quản nhà Đức Chúa Trời. Và chúng ta là nhà Ngài, nếu chúng ta giữ vững sự tin tưởng và hy vọng mà chúng ta _____ cho đến cuối cùng.'",
+    "correct": "tự hào",
+    "wrong": ["tin cậy", "đứng vững", "sống"],
+    "hint": "Chúng ta lấy làm vinh dự về hy vọng này",
+    "explanation": "Tác giả khuyến khích các tín hữu giữ vững hy vọng của họ trong Đấng Christ.",
+    "full_verse": "Nhưng Đấng Christ thì trung tín như Con cai quản nhà Đức Chúa Trời. Và chúng ta là nhà Ngài, nếu chúng ta giữ vững sự tin tưởng và hy vọng mà chúng ta tự hào cho đến cuối cùng.",
+    "verse_ref": "Hê-bơ-rơ 3:6"
+  },
+  "q_hope_041": {
+    "question": "Điền vào chỗ trống: 'Chúng ta là những người đã chạy trốn để nắm lấy hy vọng đặt trước mặt có thể được khích lệ lớn. Chúng ta có hy vọng này như _____ cho linh hồn.'",
+    "correct": "neo",
+    "wrong": ["thuẫn", "nơi nương náu", "thành trì"],
+    "hint": "Thứ giữ tàu thuyền vững vàng",
+    "explanation": "Tác giả mô tả hy vọng như một cái neo ổn định linh hồn.",
+    "full_verse": "Chúng ta là những người đã chạy trốn để nắm lấy hy vọng đặt trước mặt có thể được khích lệ lớn. Chúng ta có hy vọng này như neo cho linh hồn, vững chắc và an toàn.",
+    "verse_ref": "Hê-bơ-rơ 6:18"
+  },
+  "q_hope_042": {
+    "question": "Điền vào chỗ trống: 'Vì luật pháp không làm cho điều gì hoàn hảo, và một hy vọng tốt hơn được giới thiệu, nhờ đó chúng ta đến gần _____.'",
+    "correct": "Đức Chúa Trời",
+    "wrong": ["thiên đàng", "Đấng Christ", "sự cứu rỗi"],
+    "hint": "Hy vọng đưa chúng ta đến gần Ngài",
+    "explanation": "Tác giả đối chiếu luật pháp với hy vọng tốt hơn đưa chúng ta đến gần Đức Chúa Trời.",
+    "full_verse": "Vì luật pháp không làm cho điều gì hoàn hảo, và một hy vọng tốt hơn được giới thiệu, nhờ đó chúng ta đến gần Đức Chúa Trời.",
+    "verse_ref": "Hê-bơ-rơ 7:19"
+  },
+  "q_hope_043": {
+    "question": "Điền vào chỗ trống: 'Hãy giữ vững hy vọng chúng ta tuyên xưng không lay chuyển, vì Đấng đã hứa là _____.'",
+    "correct": "thành tín",
+    "wrong": ["chân thật", "thiện lành", "công bằng"],
+    "hint": "Đức Chúa Trời giữ lời hứa của Ngài",
+    "explanation": "Tác giả khuyến khích các tín hữu giữ vững hy vọng vì Đức Chúa Trời thành tín.",
+    "full_verse": "Hãy giữ vững hy vọng chúng ta tuyên xưng không lay chuyển, vì Đấng đã hứa là thành tín.",
+    "verse_ref": "Hê-bơ-rơ 10:23"
+  },
+  "q_hope_044": {
+    "question": "Điền vào chỗ trống: 'Đức tin là sự xác quyết về những điều chúng ta hy vọng và bằng chứng về những điều chúng ta không _____.'",
+    "correct": "thấy",
+    "wrong": ["biết", "có", "hiểu"],
+    "hint": "Đức tin liên quan đến điều vô hình",
+    "explanation": "Tác giả định nghĩa đức tin trong mối liên hệ với hy vọng và những thực tại vô hình.",
+    "full_verse": "Đức tin là sự xác quyết về những điều chúng ta hy vọng và bằng chứng về những điều chúng ta không thấy.",
+    "verse_ref": "Hê-bơ-rơ 11:1"
+  },
+  "q_hope_045": {
+    "question": "Điền vào chỗ trống: 'Vậy, với tâm trí tỉnh táo và hoàn toàn minh mẫn, hãy đặt hy vọng vào ân điển sẽ được mang đến cho anh chị em khi Đức Chúa Giê-xu Christ được _____ trong ngày Ngài đến.'",
+    "correct": "bày tỏ",
+    "wrong": ["thấy", "hiện ra", "xuất hiện"],
+    "hint": "Khi Đấng Christ xuất hiện",
+    "explanation": "Phi-e-rơ kêu gọi các tín hữu đặt hy vọng hoàn toàn vào ân điển đến khi Đấng Christ trở lại.",
+    "full_verse": "Vậy, với tâm trí tỉnh táo và hoàn toàn minh mẫn, hãy đặt hy vọng vào ân điển sẽ được mang đến cho anh chị em khi Đức Chúa Giê-xu Christ được bày tỏ trong ngày Ngài đến.",
+    "verse_ref": "1 Phi-e-rơ 1:13"
+  },
+  "q_hope_046": {
+    "question": "Điền vào chỗ trống: 'Qua Ngài anh chị em tin vào Đức Chúa Trời, Đấng đã khiến Ngài từ cõi chết sống lại và ban vinh hiển cho Ngài, để đức tin và hy vọng của anh chị em ở nơi _____.'",
+    "correct": "Đức Chúa Trời",
+    "wrong": ["Đấng Christ", "thiên đàng", "Ngài"],
+    "hint": "Đối tượng tối thượng của đức tin và hy vọng",
+    "explanation": "Phi-e-rơ giải thích rằng qua Đấng Christ, đức tin và hy vọng của chúng ta hướng về Đức Chúa Trời.",
+    "full_verse": "Qua Ngài anh chị em tin vào Đức Chúa Trời, Đấng đã khiến Ngài từ cõi chết sống lại và ban vinh hiển cho Ngài, để đức tin và hy vọng của anh chị em ở nơi Đức Chúa Trời.",
+    "verse_ref": "1 Phi-e-rơ 1:21"
+  },
+  "q_hope_047": {
+    "question": "Điền vào chỗ trống: 'Nhưng trong lòng hãy tôn Đấng Christ làm Chúa. Hãy luôn sẵn sàng trả lời cho mọi người hỏi anh chị em về lý do của hy vọng mà anh chị em _____.'",
+    "correct": "có",
+    "wrong": ["giữ", "gìn giữ", "chia sẻ"],
+    "hint": "Sở hữu hy vọng",
+    "explanation": "Phi-e-rơ hướng dẫn các tín hữu luôn sẵn sàng giải thích hy vọng họ có.",
+    "full_verse": "Nhưng trong lòng hãy tôn Đấng Christ làm Chúa. Hãy luôn sẵn sàng trả lời cho mọi người hỏi anh chị em về lý do của hy vọng mà anh chị em có. Nhưng hãy làm điều này với sự nhu mì và kính trọng.",
+    "verse_ref": "1 Phi-e-rơ 3:15"
+  },
+  "q_hope_048": {
+    "question": "Điền vào chỗ trống: 'Ai có hy vọng này nơi Ngài thì tự thanh tẩy mình, cũng như Ngài _____.'",
+    "correct": "thanh sạch",
+    "wrong": ["thánh khiết", "công chính", "sạch"],
+    "hint": "Không có sự ô uế",
+    "explanation": "Giăng dạy rằng hy vọng trong Đấng Christ dẫn đến sự thanh tẩy cá nhân.",
+    "full_verse": "Ai có hy vọng này nơi Ngài thì tự thanh tẩy mình, cũng như Ngài thanh sạch.",
+    "verse_ref": "1 Giăng 3:3"
+  },
+  "q_hope_049": {
+    "question": "Điền vào chỗ trống: 'Tôi gọi điều này về tâm trí và vì vậy tôi có hy vọng: Nhờ tình yêu thương lớn lao của CHÚA, chúng ta không bị _____.'",
+    "correct": "tiêu diệt",
+    "wrong": ["hủy hoại", "bỏ rơi", "quên"],
+    "hint": "Không bị hủy diệt hoàn toàn",
+    "explanation": "Giê-rê-mi tìm thấy hy vọng bằng cách nhớ tình yêu thành tín của Đức Chúa Trời gìn giữ chúng ta.",
+    "full_verse": "Tôi gọi điều này về tâm trí và vì vậy tôi có hy vọng: Nhờ tình yêu thương lớn lao của CHÚA, chúng ta không bị tiêu diệt, vì lòng thương xót của Ngài không bao giờ cạn.",
+    "verse_ref": "Ca Thương 3:21-22"
+  },
+  "q_hope_050": {
+    "question": "Điền vào chỗ trống: 'Bạn sẽ được an toàn, vì có hy vọng; bạn sẽ nhìn quanh và nghỉ ngơi trong sự _____.'",
+    "correct": "bình yên",
+    "wrong": ["bình an", "an ủi", "an ninh"],
+    "hint": "Được bảo vệ khỏi nguy hiểm",
+    "explanation": "Sô-pha mô tả sự an toàn và nghỉ ngơi đến từ hy vọng.",
+    "full_verse": "Bạn sẽ được an toàn, vì có hy vọng; bạn sẽ nhìn quanh và nghỉ ngơi trong sự bình yên.",
+    "verse_ref": "Gióp 11:18"
+  }
+}

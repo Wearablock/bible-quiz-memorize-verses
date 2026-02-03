@@ -1,1 +1,452 @@
-{}
+{
+  "q_jesus_001": {
+    "question": "Completa il versetto: 'Perché Dio ha tanto amato il mondo, che ha dato il suo unigenito Figlio, affinché chiunque crede in lui non perisca, ma abbia vita _____.'",
+    "correct": "eterna",
+    "wrong": ["gioiosa", "pacifica", "piena"],
+    "hint": "Il dono di credere in Gesù",
+    "explanation": "Questo famoso versetto riassume il vangelo: l'amore di Dio lo ha portato a dare suo Figlio per la vita eterna.",
+    "full_verse": "Perché Dio ha tanto amato il mondo, che ha dato il suo unigenito Figlio, affinché chiunque crede in lui non perisca, ma abbia vita eterna.",
+    "verse_ref": "Giovanni 3:16"
+  },
+  "q_jesus_002": {
+    "question": "Completa il versetto: 'Gesù gli disse: \"Io sono la via, la verità e la vita; nessuno viene al Padre se non per mezzo di _____.\"'",
+    "correct": "me",
+    "wrong": ["fede", "grazia", "preghiera"],
+    "hint": "Gesù è l'unica via",
+    "explanation": "Gesù dichiara di essere l'unica via per arrivare a Dio Padre.",
+    "full_verse": "Gesù gli disse: 'Io sono la via, la verità e la vita; nessuno viene al Padre se non per mezzo di me.'",
+    "verse_ref": "Giovanni 14:6"
+  },
+  "q_jesus_003": {
+    "question": "Completa il versetto: 'Gesù le disse: \"Io sono la risurrezione e la vita; chi crede in me, anche se muore, _____.\"'",
+    "correct": "vivrà",
+    "wrong": ["risorgerà", "crederà", "vincerà"],
+    "hint": "La morte fisica non può fermare i credenti",
+    "explanation": "Gesù dichiara di essere la fonte della vita di risurrezione per tutti coloro che credono.",
+    "full_verse": "Gesù le disse: 'Io sono la risurrezione e la vita; chi crede in me, anche se muore, vivrà.'",
+    "verse_ref": "Giovanni 11:25"
+  },
+  "q_jesus_004": {
+    "question": "Completa il versetto: 'Venite a me, voi tutti che siete affaticati e oppressi, e io vi darò _____.'",
+    "correct": "riposo",
+    "wrong": ["pace", "speranza", "forza"],
+    "hint": "Sollievo dalla fatica",
+    "explanation": "Gesù invita tutti coloro che sono stanchi e sopraffatti a trovare riposo in lui.",
+    "full_verse": "Venite a me, voi tutti che siete affaticati e oppressi, e io vi darò riposo.",
+    "verse_ref": "Matteo 11:28"
+  },
+  "q_jesus_005": {
+    "question": "Completa il versetto: 'Gesù parlò loro di nuovo, dicendo: \"Io sono la luce del mondo; chi mi segue non camminerà nelle _____.'\"",
+    "correct": "tenebre",
+    "wrong": ["paure", "peccati", "vergogne"],
+    "hint": "L'opposto della luce",
+    "explanation": "Gesù dichiara di essere la luce che guida i credenti fuori dall'oscurità spirituale.",
+    "full_verse": "Gesù parlò loro di nuovo, dicendo: 'Io sono la luce del mondo; chi mi segue non camminerà nelle tenebre, ma avrà la luce della vita.'",
+    "verse_ref": "Giovanni 8:12"
+  },
+  "q_jesus_006": {
+    "question": "Completa il versetto: 'Io sono il buon pastore; il buon pastore dà la sua _____ per le pecore.'",
+    "correct": "vita",
+    "wrong": ["verga", "bastone", "cura"],
+    "hint": "Il sacrificio supremo",
+    "explanation": "Gesù si descrive come il pastore che sacrifica la sua vita per le sue pecore.",
+    "full_verse": "Io sono il buon pastore; il buon pastore dà la sua vita per le pecore.",
+    "verse_ref": "Giovanni 10:11"
+  },
+  "q_jesus_007": {
+    "question": "Completa il versetto: 'Io sono la vite, voi siete i tralci. Colui che dimora in me e nel quale io dimoro, porta molto _____.'",
+    "correct": "frutto",
+    "wrong": ["gioia", "amore", "speranza"],
+    "hint": "Ciò che cresce sui rami",
+    "explanation": "Gesù usa la metafora della vite per insegnare a dimorare in lui per la fecondità spirituale.",
+    "full_verse": "Io sono la vite, voi siete i tralci. Colui che dimora in me e nel quale io dimoro, porta molto frutto; perché senza di me non potete fare nulla.",
+    "verse_ref": "Giovanni 15:5"
+  },
+  "q_jesus_008": {
+    "question": "Completa il versetto: 'Insegnando loro a osservare tutte quante le cose che vi ho comandate. E ecco, io sono con voi tutti i giorni, sino alla fine dell'_____.'",
+    "correct": "età",
+    "wrong": ["mondo", "tempo", "era"],
+    "hint": "Fino alla fine di questo periodo",
+    "explanation": "Gesù promette la sua presenza continua con i suoi discepoli fino alla fine dei tempi.",
+    "full_verse": "Insegnando loro a osservare tutte quante le cose che vi ho comandate. E ecco, io sono con voi tutti i giorni, sino alla fine dell'età presente.",
+    "verse_ref": "Matteo 28:20"
+  },
+  "q_jesus_009": {
+    "question": "Completa il versetto: 'E la Parola è diventata carne e ha abitato per un tempo fra di noi, piena di grazia e di verità; e noi abbiamo contemplato la sua gloria, gloria come di unigenito dal _____.'",
+    "correct": "Padre",
+    "wrong": ["cielo", "Dio", "alto"],
+    "hint": "Gesù è venuto da lui",
+    "explanation": "Giovanni dichiara che Gesù, la Parola, è diventato umano e ha rivelato la gloria del Padre.",
+    "full_verse": "E la Parola è diventata carne e ha abitato per un tempo fra di noi, piena di grazia e di verità; e noi abbiamo contemplato la sua gloria, gloria come di unigenito dal Padre.",
+    "verse_ref": "Giovanni 1:14"
+  },
+  "q_jesus_010": {
+    "question": "Completa il versetto: 'Io e il Padre siamo _____.'",
+    "correct": "uno",
+    "wrong": ["uniti", "insieme", "uguali"],
+    "hint": "L'unità di Gesù e del Padre",
+    "explanation": "Gesù dichiara la sua unità con Dio Padre, affermando la sua divinità.",
+    "full_verse": "Io e il Padre siamo uno.",
+    "verse_ref": "Giovanni 10:30"
+  },
+  "q_jesus_011": {
+    "question": "Completa il versetto: 'Simon Pietro rispose: \"Tu sei il Cristo, il Figlio del Dio _____.\"'",
+    "correct": "vivente",
+    "wrong": ["eterno", "Altissimo", "santo"],
+    "hint": "Pietro confessa l'identità divina di Gesù",
+    "explanation": "La confessione di Pietro riconosce Gesù come Messia e Figlio di Dio.",
+    "full_verse": "Simon Pietro rispose: 'Tu sei il Cristo, il Figlio del Dio vivente.'",
+    "verse_ref": "Matteo 16:16"
+  },
+  "q_jesus_012": {
+    "question": "Completa il versetto: 'Egli è l'immagine del Dio invisibile, il primogenito di ogni _____.'",
+    "correct": "creatura",
+    "wrong": ["cosa", "essere", "creazione"],
+    "hint": "Tutto ciò che è stato fatto",
+    "explanation": "Paolo dichiara che Gesù è la rappresentazione visibile del Dio invisibile.",
+    "full_verse": "Egli è l'immagine del Dio invisibile, il primogenito di ogni creatura.",
+    "verse_ref": "Colossesi 1:15"
+  },
+  "q_jesus_013": {
+    "question": "Completa il versetto: 'Il quale, pur essendo in forma di Dio, non considerò l'essere uguale a Dio qualcosa a cui aggrapparsi gelosamente, ma svuotò se stesso, prendendo forma di _____.'",
+    "correct": "servo",
+    "wrong": ["uomo", "umano", "schiavo"],
+    "hint": "Gesù si è umiliato in questo ruolo",
+    "explanation": "Paolo descrive l'umiltà di Gesù nel lasciare la gloria divina per diventare servo.",
+    "full_verse": "Il quale, pur essendo in forma di Dio, non considerò l'essere uguale a Dio qualcosa a cui aggrapparsi gelosamente, ma svuotò se stesso, prendendo forma di servo, divenendo simile agli uomini.",
+    "verse_ref": "Filippesi 2:6-7"
+  },
+  "q_jesus_014": {
+    "question": "Completa il versetto: 'Egli è lo splendore della sua gloria e l'impronta della sua essenza, e sostiene tutte le cose con la parola della sua _____.'",
+    "correct": "potenza",
+    "wrong": ["mano", "volontà", "forza"],
+    "hint": "Come Gesù sostiene tutte le cose",
+    "explanation": "L'autore di Ebrei descrive Gesù come la perfetta rivelazione di Dio.",
+    "full_verse": "Egli è lo splendore della sua gloria e l'impronta della sua essenza, e sostiene tutte le cose con la parola della sua potenza.",
+    "verse_ref": "Ebrei 1:3"
+  },
+  "q_jesus_015": {
+    "question": "Completa il versetto: 'Perché in lui abita corporalmente tutta la pienezza della _____.'",
+    "correct": "Deità",
+    "wrong": ["Divinità", "Spirito", "grazia"],
+    "hint": "La completa natura divina",
+    "explanation": "Paolo dichiara che la completa natura di Dio dimora nel corpo fisico di Cristo.",
+    "full_verse": "Perché in lui abita corporalmente tutta la pienezza della Deità.",
+    "verse_ref": "Colossesi 2:9"
+  },
+  "q_jesus_016": {
+    "question": "Completa il versetto: 'Nel principio era la Parola, e la Parola era con Dio, e la Parola era _____.'",
+    "correct": "Dio",
+    "wrong": ["divina", "santa", "eterna"],
+    "hint": "L'identità della Parola",
+    "explanation": "Giovanni dichiara che Gesù, la Parola, era sia con Dio che era Dio fin dal principio.",
+    "full_verse": "Nel principio era la Parola, e la Parola era con Dio, e la Parola era Dio.",
+    "verse_ref": "Giovanni 1:1"
+  },
+  "q_jesus_017": {
+    "question": "Completa il versetto: 'Gesù disse loro: \"Io sono il pane della vita; chi viene a me non avrà più fame e chi crede in me non avrà mai più _____.\"'",
+    "correct": "sete",
+    "wrong": ["vuoto", "bisogno", "mancanza"],
+    "hint": "L'opposto della fame",
+    "explanation": "Gesù dichiara di essere il pane spirituale che soddisfa ogni fame e sete.",
+    "full_verse": "Gesù disse loro: 'Io sono il pane della vita; chi viene a me non avrà più fame e chi crede in me non avrà mai più sete.'",
+    "verse_ref": "Giovanni 6:35"
+  },
+  "q_jesus_018": {
+    "question": "Completa il versetto: 'Io sono la porta; se uno entra per me, sarà salvato, ed entrerà e uscirà, e troverà _____.'",
+    "correct": "pastura",
+    "wrong": ["riposo", "pace", "vita"],
+    "hint": "Cosa trovano le pecore in un campo",
+    "explanation": "Gesù si descrive come la porta attraverso cui le persone trovano salvezza e provvigione.",
+    "full_verse": "Io sono la porta; se uno entra per me, sarà salvato, ed entrerà e uscirà, e troverà pastura.",
+    "verse_ref": "Giovanni 10:9"
+  },
+  "q_jesus_019": {
+    "question": "Completa il versetto: 'Gesù gli disse: \"Da tanto tempo sono con voi e tu non mi hai conosciuto, Filippo? Chi ha visto me, ha visto il _____.\"'",
+    "correct": "Padre",
+    "wrong": ["Dio", "verità", "luce"],
+    "hint": "Gesù rivela questa persona",
+    "explanation": "Gesù dice a Filippo che vederlo equivale a vedere Dio Padre.",
+    "full_verse": "Gesù gli disse: 'Da tanto tempo sono con voi e tu non mi hai conosciuto, Filippo? Chi ha visto me, ha visto il Padre; come mai dici: Mostraci il Padre?'",
+    "verse_ref": "Giovanni 14:9"
+  },
+  "q_jesus_020": {
+    "question": "Completa il versetto: 'Perché il Figlio dell'uomo è venuto per cercare e salvare ciò che era _____.'",
+    "correct": "perduto",
+    "wrong": ["mondo", "peccatori", "rotto"],
+    "hint": "Coloro che si sono smarriti",
+    "explanation": "Gesù riassume la sua missione come cercare e salvare coloro che sono perduti.",
+    "full_verse": "Perché il Figlio dell'uomo è venuto per cercare e salvare ciò che era perduto.",
+    "verse_ref": "Luca 19:10"
+  },
+  "q_jesus_021": {
+    "question": "Completa il versetto: 'Ella partorirà un figlio, e tu gli porrai nome Gesù, perché è lui che salverà il suo popolo dai loro _____.'",
+    "correct": "peccati",
+    "wrong": ["nemici", "problemi", "paure"],
+    "hint": "Da cosa Gesù ci salva",
+    "explanation": "L'angelo spiega che il nome di Gesù riflette la sua missione di salvare dai peccati.",
+    "full_verse": "Ella partorirà un figlio, e tu gli porrai nome Gesù, perché è lui che salverà il suo popolo dai loro peccati.",
+    "verse_ref": "Matteo 1:21"
+  },
+  "q_jesus_022": {
+    "question": "Completa il versetto: 'Oggi, nella città di Davide, è nato per voi un Salvatore, che è Cristo, il _____.'",
+    "correct": "Signore",
+    "wrong": ["Re", "Messia", "Figlio"],
+    "hint": "Un titolo di autorità",
+    "explanation": "L'angelo annuncia la nascita di Gesù con tre titoli: Salvatore, Cristo e Signore.",
+    "full_verse": "Oggi, nella città di Davide, è nato per voi un Salvatore, che è Cristo, il Signore.",
+    "verse_ref": "Luca 2:11"
+  },
+  "q_jesus_023": {
+    "question": "Completa il versetto: 'Ma queste cose sono state scritte, affinché crediate che Gesù è il Cristo, il Figlio di Dio, e affinché, credendo, abbiate _____ nel suo nome.'",
+    "correct": "vita",
+    "wrong": ["speranza", "fede", "gioia"],
+    "hint": "Lo scopo del Vangelo di Giovanni",
+    "explanation": "Giovanni dichiara il suo scopo: che i lettori credano in Gesù e abbiano vita.",
+    "full_verse": "Ma queste cose sono state scritte, affinché crediate che Gesù è il Cristo, il Figlio di Dio, e affinché, credendo, abbiate vita nel suo nome.",
+    "verse_ref": "Giovanni 20:31"
+  },
+  "q_jesus_024": {
+    "question": "Completa il versetto: 'In nessun altro è la salvezza; perché non vi è sotto il cielo nessun altro nome che sia stato dato agli uomini, per il quale dobbiamo essere _____.'",
+    "correct": "salvati",
+    "wrong": ["guariti", "benedetti", "perdonati"],
+    "hint": "Ciò che il nome di Gesù fornisce",
+    "explanation": "Pietro dichiara che la salvezza è esclusivamente attraverso il nome di Gesù.",
+    "full_verse": "In nessun altro è la salvezza; perché non vi è sotto il cielo nessun altro nome che sia stato dato agli uomini, per il quale dobbiamo essere salvati.",
+    "verse_ref": "Atti 4:12"
+  },
+  "q_jesus_025": {
+    "question": "Completa il versetto: 'Ma Dio dimostra il suo amore verso di noi in questo: che, mentre eravamo ancora peccatori, Cristo è _____ per noi.'",
+    "correct": "morto",
+    "wrong": ["venuto", "vissuto", "sofferto"],
+    "hint": "Il sacrificio supremo di Cristo",
+    "explanation": "Paolo sottolinea che Cristo è morto per noi mentre eravamo ancora nei nostri peccati.",
+    "full_verse": "Ma Dio dimostra il suo amore verso di noi in questo: che, mentre eravamo ancora peccatori, Cristo è morto per noi.",
+    "verse_ref": "Romani 5:8"
+  },
+  "q_jesus_026": {
+    "question": "Completa il versetto: 'Infatti c'è un solo Dio e anche un solo mediatore fra Dio e gli uomini, Cristo _____.'",
+    "correct": "Gesù",
+    "wrong": ["Signore", "Salvatore", "Messia"],
+    "hint": "Il nome del mediatore",
+    "explanation": "Paolo dichiara che Gesù è l'unico mediatore fra Dio e l'umanità.",
+    "full_verse": "Infatti c'è un solo Dio e anche un solo mediatore fra Dio e gli uomini, Cristo Gesù uomo.",
+    "verse_ref": "1 Timoteo 2:5"
+  },
+  "q_jesus_027": {
+    "question": "Completa il versetto: 'Infatti non abbiamo un sommo sacerdote che non possa simpatizzare con noi nelle nostre debolezze, ma uno che è stato tentato in ogni cosa come noi, senza però _____.'",
+    "correct": "peccare",
+    "wrong": ["cadere", "fallire", "cedere"],
+    "hint": "Gesù è rimasto senza questo",
+    "explanation": "L'autore di Ebrei spiega che Gesù è stato tentato ma è rimasto senza peccato.",
+    "full_verse": "Infatti non abbiamo un sommo sacerdote che non possa simpatizzare con noi nelle nostre debolezze, ma uno che è stato tentato in ogni cosa come noi, senza però peccare.",
+    "verse_ref": "Ebrei 4:15"
+  },
+  "q_jesus_028": {
+    "question": "Completa il versetto: 'Fissando lo sguardo su Gesù, colui che crea la fede e la rende perfetta. Per la gioia che gli era posta dinanzi egli sopportò la croce, disprezzando l'infamia, e si è seduto alla destra del _____ di Dio.'",
+    "correct": "trono",
+    "wrong": ["gloria", "presenza", "maestà"],
+    "hint": "Dove Gesù siede ora",
+    "explanation": "Gesù ha sopportato la croce e ora siede alla destra di Dio nella gloria.",
+    "full_verse": "Fissando lo sguardo su Gesù, colui che crea la fede e la rende perfetta. Per la gioia che gli era posta dinanzi egli sopportò la croce, disprezzando l'infamia, e si è seduto alla destra del trono di Dio.",
+    "verse_ref": "Ebrei 12:2"
+  },
+  "q_jesus_029": {
+    "question": "Completa il versetto: '\"Io sono l'Alfa e l'Omega\", dice il Signore Dio, \"colui che è, che era e che viene, l'_____.\"'",
+    "correct": "Onnipotente",
+    "wrong": ["Eterno", "Santo", "Infinito"],
+    "hint": "Un titolo che enfatizza la potenza di Dio",
+    "explanation": "Dio dichiara di essere il principio e la fine, l'Onnipotente.",
+    "full_verse": "'Io sono l'Alfa e l'Omega', dice il Signore Dio, 'colui che è, che era e che viene, l'Onnipotente.'",
+    "verse_ref": "Apocalisse 1:8"
+  },
+  "q_jesus_030": {
+    "question": "Completa il versetto: 'Io sono l'Alfa e l'Omega, il primo e l'ultimo, il principio e la _____.'",
+    "correct": "fine",
+    "wrong": ["conclusione", "termine", "compimento"],
+    "hint": "L'opposto del principio",
+    "explanation": "Gesù usa tre frasi parallele per dichiarare la sua natura eterna.",
+    "full_verse": "Io sono l'Alfa e l'Omega, il primo e l'ultimo, il principio e la fine.",
+    "verse_ref": "Apocalisse 22:13"
+  },
+  "q_jesus_031": {
+    "question": "Completa il versetto: 'Gesù disse loro: \"In verità, in verità vi dico: prima che Abraamo fosse nato, io _____.\"'",
+    "correct": "sono",
+    "wrong": ["ero", "esisto", "vivevo"],
+    "hint": "Gesù usa il nome del patto di Dio",
+    "explanation": "Gesù dichiara la sua esistenza eterna usando il nome divino 'Io sono'.",
+    "full_verse": "Gesù disse loro: 'In verità, in verità vi dico: prima che Abraamo fosse nato, io sono.'",
+    "verse_ref": "Giovanni 8:58"
+  },
+  "q_jesus_032": {
+    "question": "Completa il versetto: 'E Gesù, avvicinatosi, parlò loro, dicendo: \"Ogni potere mi è stato dato in cielo e sulla _____.\"'",
+    "correct": "terra",
+    "wrong": ["creazione", "mondo", "natura"],
+    "hint": "Il nostro pianeta",
+    "explanation": "Il Gesù risorto dichiara di aver ricevuto ogni autorità in cielo e sulla terra.",
+    "full_verse": "E Gesù, avvicinatosi, parlò loro, dicendo: 'Ogni potere mi è stato dato in cielo e sulla terra.'",
+    "verse_ref": "Matteo 28:18"
+  },
+  "q_jesus_033": {
+    "question": "Completa il versetto: 'Questa è la vita eterna: che conoscano te, il solo vero Dio, e colui che tu hai mandato, Gesù _____.'",
+    "correct": "Cristo",
+    "wrong": ["Signore", "Salvatore", "Messia"],
+    "hint": "Il titolo di Gesù",
+    "explanation": "Gesù definisce la vita eterna come conoscere Dio e colui che ha mandato—Gesù Cristo.",
+    "full_verse": "Questa è la vita eterna: che conoscano te, il solo vero Dio, e colui che tu hai mandato, Gesù Cristo.",
+    "verse_ref": "Giovanni 17:3"
+  },
+  "q_jesus_034": {
+    "question": "Completa il versetto: 'Poiché vi ho prima di tutto trasmesso, come l'ho ricevuto anch'io, che Cristo morì per i nostri peccati, secondo le Scritture; che fu seppellito; che è stato risuscitato il _____ giorno.'",
+    "correct": "terzo",
+    "wrong": ["primo", "secondo", "quarto"],
+    "hint": "Il giorno della risurrezione",
+    "explanation": "Paolo riassume il vangelo: Cristo morì, fu seppellito e risorse il terzo giorno.",
+    "full_verse": "Poiché vi ho prima di tutto trasmesso, come l'ho ricevuto anch'io, che Cristo morì per i nostri peccati, secondo le Scritture; che fu seppellito; che è stato risuscitato il terzo giorno, secondo le Scritture.",
+    "verse_ref": "1 Corinzi 15:3-4"
+  },
+  "q_jesus_035": {
+    "question": "Completa il versetto: 'Colui che non ha conosciuto peccato, egli lo ha fatto diventare peccato per noi, affinché noi diventassimo giustizia di _____ in lui.'",
+    "correct": "Dio",
+    "wrong": ["Cristo", "cielo", "lui"],
+    "hint": "La cui giustizia riceviamo",
+    "explanation": "Paolo spiega il grande scambio: Cristo ha preso il nostro peccato affinché potessimo ricevere la giustizia di Dio.",
+    "full_verse": "Colui che non ha conosciuto peccato, egli lo ha fatto diventare peccato per noi, affinché noi diventassimo giustizia di Dio in lui.",
+    "verse_ref": "2 Corinzi 5:21"
+  },
+  "q_jesus_036": {
+    "question": "Completa il versetto: 'Ma quando giunse la pienezza del tempo, Dio mandò suo Figlio, nato da donna, nato sotto la legge, per riscattare quelli che erano sotto la legge, affinché noi ricevessimo l'adozione a _____.'",
+    "correct": "figli",
+    "wrong": ["gloria", "cielo", "grazia"],
+    "hint": "Diventare figli di Dio",
+    "explanation": "Paolo spiega che Gesù è venuto per riscattarci e darci l'adozione come figli di Dio.",
+    "full_verse": "Ma quando giunse la pienezza del tempo, Dio mandò suo Figlio, nato da donna, nato sotto la legge, per riscattare quelli che erano sotto la legge, affinché noi ricevessimo l'adozione a figli.",
+    "verse_ref": "Galati 4:4-5"
+  },
+  "q_jesus_037": {
+    "question": "Completa il versetto: 'Questa potenza egli l'ha manifestata in Cristo, risuscitandolo dai morti e facendolo sedere alla propria destra nel cielo, al di sopra di ogni principato, autorità, potenza, signoria e di ogni altro nome che si nomina non solo in questo _____.'",
+    "correct": "mondo",
+    "wrong": ["tempo", "età", "secolo"],
+    "hint": "Il nostro ambito attuale",
+    "explanation": "Paolo descrive l'esaltazione di Cristo al di sopra di tutti i poteri e le autorità.",
+    "full_verse": "Questa potenza egli l'ha manifestata in Cristo, risuscitandolo dai morti e facendolo sedere alla propria destra nel cielo, al di sopra di ogni principato, autorità, potenza, signoria e di ogni altro nome che si nomina non solo in questo mondo, ma anche in quello futuro.",
+    "verse_ref": "Efesini 1:20-21"
+  },
+  "q_jesus_038": {
+    "question": "Completa il versetto: 'Perciò Dio lo ha sovranamente innalzato e gli ha dato il nome che è al di sopra di ogni nome, affinché nel nome di Gesù si pieghi ogni _____.'",
+    "correct": "ginocchio",
+    "wrong": ["testa", "cuore", "anima"],
+    "hint": "Parte del corpo che si piega in adorazione",
+    "explanation": "Paolo dichiara che Dio ha esaltato Gesù e gli ha dato il nome supremo.",
+    "full_verse": "Perciò Dio lo ha sovranamente innalzato e gli ha dato il nome che è al di sopra di ogni nome, affinché nel nome di Gesù si pieghi ogni ginocchio nei cieli, sulla terra e sotto terra.",
+    "verse_ref": "Filippesi 2:9-11"
+  },
+  "q_jesus_039": {
+    "question": "Completa il versetto: 'Poiché in lui sono state create tutte le cose che sono nei cieli e sulla terra, le visibili e le invisibili: troni, signorie, principati, potestà; tutte le cose sono state create per mezzo di lui e in vista di _____.'",
+    "correct": "lui",
+    "wrong": ["Dio", "noi", "gloria"],
+    "hint": "Tutta la creazione è per Cristo",
+    "explanation": "Paolo dichiara che tutte le cose sono state create da Cristo e per Cristo.",
+    "full_verse": "Poiché in lui sono state create tutte le cose che sono nei cieli e sulla terra, le visibili e le invisibili: troni, signorie, principati, potestà; tutte le cose sono state create per mezzo di lui e in vista di lui.",
+    "verse_ref": "Colossesi 1:16-17"
+  },
+  "q_jesus_040": {
+    "question": "Completa il versetto: 'Egli ha portato i nostri peccati nel suo corpo, sul legno della croce, affinché, morti al peccato, vivessimo per la giustizia, e dalle sue lividure siete stati _____.'",
+    "correct": "guariti",
+    "wrong": ["salvati", "perdonati", "liberati"],
+    "hint": "Resi sani attraverso la sua sofferenza",
+    "explanation": "Pietro descrive come il sacrificio di Cristo sulla croce porta guarigione a noi.",
+    "full_verse": "Egli ha portato i nostri peccati nel suo corpo, sul legno della croce, affinché, morti al peccato, vivessimo per la giustizia, e dalle sue lividure siete stati guariti.",
+    "verse_ref": "1 Pietro 2:24"
+  },
+  "q_jesus_041": {
+    "question": "Completa il versetto: 'Figlioli miei, vi scrivo queste cose perché non pecchiate; e se qualcuno ha peccato, abbiamo un avvocato presso il Padre: Gesù Cristo, il _____.'",
+    "correct": "giusto",
+    "wrong": ["santo", "fedele", "vivente"],
+    "hint": "Il carattere morale di Gesù",
+    "explanation": "Giovanni assicura ai credenti che Gesù intercede per noi quando pecchiamo.",
+    "full_verse": "Figlioli miei, vi scrivo queste cose perché non pecchiate; e se qualcuno ha peccato, abbiamo un avvocato presso il Padre: Gesù Cristo, il giusto.",
+    "verse_ref": "1 Giovanni 2:1"
+  },
+  "q_jesus_042": {
+    "question": "Completa il versetto: 'Poiché un bambino ci è nato, un figlio ci è stato dato, e il dominio riposerà sulle sue spalle; sarà chiamato Consigliere ammirabile, Dio potente, Padre eterno, Principe della _____.'",
+    "correct": "pace",
+    "wrong": ["gloria", "vita", "giustizia"],
+    "hint": "L'opposto della guerra",
+    "explanation": "Isaia profetizza sul Messia con quattro gloriosi titoli.",
+    "full_verse": "Poiché un bambino ci è nato, un figlio ci è stato dato, e il dominio riposerà sulle sue spalle; sarà chiamato Consigliere ammirabile, Dio potente, Padre eterno, Principe della pace.",
+    "verse_ref": "Isaia 9:6"
+  },
+  "q_jesus_043": {
+    "question": "Completa il versetto: 'Egli è stato trafitto a causa delle nostre trasgressioni, schiacciato a causa delle nostre iniquità; il castigo, per cui abbiamo pace, è caduto su di lui e dalle sue _____ siamo stati guariti.'",
+    "correct": "lividure",
+    "wrong": ["sangue", "morte", "ferite"],
+    "hint": "Segni fisici delle percosse",
+    "explanation": "Isaia profetizza sul servo sofferente che porta guarigione attraverso le sue lividure.",
+    "full_verse": "Egli è stato trafitto a causa delle nostre trasgressioni, schiacciato a causa delle nostre iniquità; il castigo, per cui abbiamo pace, è caduto su di lui e dalle sue lividure siamo stati guariti.",
+    "verse_ref": "Isaia 53:5"
+  },
+  "q_jesus_044": {
+    "question": "Completa il versetto: 'Ma da te, o Betlemme, Efrata, piccola per essere fra le migliaia di Giuda, da te mi uscirà colui che sarà dominatore in Israele, le cui origini risalgono ai tempi _____, ai giorni eterni.'",
+    "correct": "antichi",
+    "wrong": ["passati", "remoti", "lontani"],
+    "hint": "Da molto tempo fa",
+    "explanation": "Michea profetizza che il Messia sarebbe venuto da Betlemme con origini eterne.",
+    "full_verse": "Ma da te, o Betlemme, Efrata, piccola per essere fra le migliaia di Giuda, da te mi uscirà colui che sarà dominatore in Israele, le cui origini risalgono ai tempi antichi, ai giorni eterni.",
+    "verse_ref": "Michea 5:2"
+  },
+  "q_jesus_045": {
+    "question": "Completa il versetto: 'Da quel tempo Gesù cominciò a predicare e a dire: \"Ravvedetevi, perché il regno dei _____ è vicino.\"'",
+    "correct": "cieli",
+    "wrong": ["Dio", "gloria", "pace"],
+    "hint": "Dove Dio dimora",
+    "explanation": "Gesù inizia il suo ministero chiamando le persone al ravvedimento mentre il regno di Dio si avvicina.",
+    "full_verse": "Da quel tempo Gesù cominciò a predicare e a dire: 'Ravvedetevi, perché il regno dei cieli è vicino.'",
+    "verse_ref": "Matteo 4:17"
+  },
+  "q_jesus_046": {
+    "question": "Completa il versetto: 'Poiché anche il Figlio dell'uomo non è venuto per essere servito, ma per servire, e per dare la sua vita come prezzo di riscatto per _____.'",
+    "correct": "molti",
+    "wrong": ["tutti", "noi", "peccatori"],
+    "hint": "Un grande numero di persone",
+    "explanation": "Gesù descrive la sua missione come servire e dare la sua vita come riscatto.",
+    "full_verse": "Poiché anche il Figlio dell'uomo non è venuto per essere servito, ma per servire, e per dare la sua vita come prezzo di riscatto per molti.",
+    "verse_ref": "Marco 10:45"
+  },
+  "q_jesus_047": {
+    "question": "Completa il versetto: 'E disse loro: \"Così sta scritto, che il Cristo avrebbe sofferto e sarebbe risuscitato dai morti il terzo giorno, e che nel suo nome si sarebbe predicato il ravvedimento per il perdono dei peccati a tutte le _____.\"'",
+    "correct": "genti",
+    "wrong": ["persone", "popolazioni", "terre"],
+    "hint": "Tutti i gruppi etnici",
+    "explanation": "Il Gesù risorto spiega che il vangelo sarebbe stato predicato a tutte le nazioni.",
+    "full_verse": "E disse loro: 'Così sta scritto, che il Cristo avrebbe sofferto e sarebbe risuscitato dai morti il terzo giorno, e che nel suo nome si sarebbe predicato il ravvedimento per il perdono dei peccati a tutte le genti, cominciando da Gerusalemme.'",
+    "verse_ref": "Luca 24:46-47"
+  },
+  "q_jesus_048": {
+    "question": "Completa il versetto: 'In verità, in verità vi dico: chi ascolta la mia parola e crede a colui che mi ha mandato, ha vita eterna; e non viene in giudizio, ma è passato dalla morte alla _____.'",
+    "correct": "vita",
+    "wrong": ["gloria", "cielo", "pace"],
+    "hint": "L'opposto della morte",
+    "explanation": "Gesù promette vita eterna a coloro che credono, passando dalla morte alla vita.",
+    "full_verse": "In verità, in verità vi dico: chi ascolta la mia parola e crede a colui che mi ha mandato, ha vita eterna; e non viene in giudizio, ma è passato dalla morte alla vita.",
+    "verse_ref": "Giovanni 5:24"
+  },
+  "q_jesus_049": {
+    "question": "Completa il versetto: 'Il vostro cuore non sia turbato; abbiate fede in Dio, e abbiate fede anche in me! Nella casa del Padre mio ci sono molte dimore; se no, vi avrei detto forse che io vado a prepararvi un _____?'",
+    "correct": "luogo",
+    "wrong": ["posto", "casa", "dimora"],
+    "hint": "Un posto preparato per noi",
+    "explanation": "Gesù conforta i suoi discepoli con la promessa di preparare un luogo per loro.",
+    "full_verse": "Il vostro cuore non sia turbato; abbiate fede in Dio, e abbiate fede anche in me! Nella casa del Padre mio ci sono molte dimore; se no, vi avrei detto forse che io vado a prepararvi un luogo?",
+    "verse_ref": "Giovanni 14:1-3"
+  },
+  "q_jesus_050": {
+    "question": "Completa il versetto: 'Ecco, io sto alla porta e busso: se qualcuno ascolta la mia voce e apre la porta, io entrerò da lui e cenerò con lui ed egli con _____.'",
+    "correct": "me",
+    "wrong": ["noi", "loro", "Dio"],
+    "hint": "Gesù offre comunione",
+    "explanation": "Gesù offre intima comunione a chiunque gli apra la porta.",
+    "full_verse": "Ecco, io sto alla porta e busso: se qualcuno ascolta la mia voce e apre la porta, io entrerò da lui e cenerò con lui ed egli con me.",
+    "verse_ref": "Apocalisse 3:20"
+  }
+}

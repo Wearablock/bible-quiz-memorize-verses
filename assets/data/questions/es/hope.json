@@ -1,1 +1,452 @@
-{}
+{
+  "q_hope_001": {
+    "question": "Completa el espacio en blanco: 'Y el Dios de esperanza os llene de todo gozo y paz en el creer, para que abundéis en esperanza por el poder del Espíritu _____.'",
+    "correct": "Santo",
+    "wrong": ["de Dios", "divino", "celestial"],
+    "hint": "La tercera persona de la Trinidad",
+    "explanation": "Pablo ora para que los creyentes sean llenos de gozo, paz y esperanza abundante a través del Espíritu Santo.",
+    "full_verse": "Y el Dios de esperanza os llene de todo gozo y paz en el creer, para que abundéis en esperanza por el poder del Espíritu Santo.",
+    "verse_ref": "Romanos 15:13"
+  },
+  "q_hope_002": {
+    "question": "Completa el espacio en blanco: 'Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz, y no de mal, para daros el fin que _____.'",
+    "correct": "esperáis",
+    "wrong": ["queréis", "buscáis", "pedís"],
+    "hint": "Lo que viene después de hoy",
+    "explanation": "Dios asegura a Su pueblo que Sus planes incluyen esperanza y un futuro brillante.",
+    "full_verse": "Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz, y no de mal, para daros el fin que esperáis.",
+    "verse_ref": "Jeremías 29:11"
+  },
+  "q_hope_003": {
+    "question": "Completa el espacio en blanco: 'Porque en esperanza fuimos salvos; pero la esperanza que se ve, no es esperanza; porque lo que alguno ve, ¿a qué _____?'",
+    "correct": "esperarlo",
+    "wrong": ["verlo", "tenerlo", "buscarlo"],
+    "hint": "Poseer algo",
+    "explanation": "Pablo explica que la esperanza implica esperar lo que aún no poseemos.",
+    "full_verse": "Porque en esperanza fuimos salvos; pero la esperanza que se ve, no es esperanza; porque lo que alguno ve, ¿a qué esperarlo?",
+    "verse_ref": "Romanos 8:24"
+  },
+  "q_hope_004": {
+    "question": "Completa el espacio en blanco: 'La cual tenemos como segura y firme ancla del _____, y que penetra hasta dentro del velo.'",
+    "correct": "alma",
+    "wrong": ["corazón", "espíritu", "ser"],
+    "hint": "La parte interior de nosotros",
+    "explanation": "El escritor de Hebreos describe la esperanza como un ancla que mantiene nuestras almas firmes.",
+    "full_verse": "La cual tenemos como segura y firme ancla del alma, y que penetra hasta dentro del velo.",
+    "verse_ref": "Hebreos 6:19"
+  },
+  "q_hope_005": {
+    "question": "Completa el espacio en blanco: 'Bendito el Dios y Padre de nuestro Señor Jesucristo, que según su grande misericordia nos hizo renacer para una esperanza _____ por la resurrección de Jesucristo de los muertos.'",
+    "correct": "viva",
+    "wrong": ["eterna", "santa", "gloriosa"],
+    "hint": "Esta esperanza está viva",
+    "explanation": "Pedro alaba a Dios por dar a los creyentes una esperanza viva a través de la resurrección de Cristo.",
+    "full_verse": "Bendito el Dios y Padre de nuestro Señor Jesucristo, que según su grande misericordia nos hizo renacer para una esperanza viva, por la resurrección de Jesucristo de los muertos.",
+    "verse_ref": "1 Pedro 1:3"
+  },
+  "q_hope_006": {
+    "question": "Completa el espacio en blanco: '¿Por qué te abates, oh alma mía, y por qué te turbas dentro de mí? Espera en Dios; porque aún he de _____.'",
+    "correct": "alabarle",
+    "wrong": ["agradecerle", "adorarle", "confiar"],
+    "hint": "Adoración futura a Dios",
+    "explanation": "El salmista anima a su alma a esperar en Dios a pesar del desánimo actual.",
+    "full_verse": "¿Por qué te abates, oh alma mía, y por qué te turbas dentro de mí? Espera en Dios; porque aún he de alabarle, salvación mía y Dios mío.",
+    "verse_ref": "Salmos 42:11"
+  },
+  "q_hope_007": {
+    "question": "Completa el espacio en blanco: 'Pero los que esperan a Jehová tendrán nuevas fuerzas; levantarán alas como las _____.'",
+    "correct": "águilas",
+    "wrong": ["ángeles", "aves", "palomas"],
+    "hint": "Un ave majestuosa",
+    "explanation": "Isaías promete que aquellos que esperan en Dios serán fortalecidos sobrenaturalmente.",
+    "full_verse": "Pero los que esperan a Jehová tendrán nuevas fuerzas; levantarán alas como las águilas; correrán, y no se cansarán; caminarán, y no se fatigarán.",
+    "verse_ref": "Isaías 40:31"
+  },
+  "q_hope_008": {
+    "question": "Completa el espacio en blanco: 'Mi porción es Jehová, dijo mi alma; por tanto, en él _____.'",
+    "correct": "esperaré",
+    "wrong": ["confiaré", "creeré", "descansaré"],
+    "hint": "Esperando pacientemente",
+    "explanation": "Jeremías declara que porque Dios es su herencia, esperará en Él con esperanza.",
+    "full_verse": "Mi porción es Jehová, dijo mi alma; por tanto, en él esperaré.",
+    "verse_ref": "Lamentaciones 3:24"
+  },
+  "q_hope_009": {
+    "question": "Completa el espacio en blanco: 'Esforzaos todos vosotros los que esperáis en _____.'",
+    "correct": "Jehová",
+    "wrong": ["Dios", "el Salvador", "el Rey"],
+    "hint": "El nombre del pacto de Dios",
+    "explanation": "David anima a aquellos que esperan en Dios a ser fuertes y valientes.",
+    "full_verse": "Esforzaos todos vosotros los que esperáis en Jehová, y tome aliento vuestro corazón.",
+    "verse_ref": "Salmos 31:24"
+  },
+  "q_hope_010": {
+    "question": "Completa el espacio en blanco: 'Y la esperanza no avergüenza; porque el amor de Dios ha sido derramado en nuestros _____ por el Espíritu Santo que nos fue dado.'",
+    "correct": "corazones",
+    "wrong": ["almas", "vidas", "mentes"],
+    "hint": "El centro de nuestro ser",
+    "explanation": "Pablo asegura que la esperanza en Dios nunca decepcionará por Su amor en nosotros.",
+    "full_verse": "Y la esperanza no avergüenza; porque el amor de Dios ha sido derramado en nuestros corazones por el Espíritu Santo que nos fue dado.",
+    "verse_ref": "Romanos 5:5"
+  },
+  "q_hope_011": {
+    "question": "Completa el espacio en blanco: 'A quienes Dios quiso dar a conocer las riquezas de la gloria de este misterio entre los gentiles; que es Cristo en vosotros, la esperanza de _____.'",
+    "correct": "gloria",
+    "wrong": ["salvación", "cielo", "vida"],
+    "hint": "Esplendor futuro con Dios",
+    "explanation": "Pablo revela que Cristo morando en los creyentes es la esperanza de gloria futura.",
+    "full_verse": "A quienes Dios quiso dar a conocer las riquezas de la gloria de este misterio entre los gentiles; que es Cristo en vosotros, la esperanza de gloria.",
+    "verse_ref": "Colosenses 1:27"
+  },
+  "q_hope_012": {
+    "question": "Completa el espacio en blanco: 'Aguardando la esperanza bienaventurada y la manifestación gloriosa de nuestro gran Dios y Salvador _____.'",
+    "correct": "Jesucristo",
+    "wrong": ["el Señor", "el Rey", "el Mesías"],
+    "hint": "El título de Jesús",
+    "explanation": "Pablo describe el regreso de Cristo como la esperanza bienaventurada que los creyentes esperan ansiosamente.",
+    "full_verse": "Aguardando la esperanza bienaventurada y la manifestación gloriosa de nuestro gran Dios y Salvador Jesucristo.",
+    "verse_ref": "Tito 2:13"
+  },
+  "q_hope_013": {
+    "question": "Completa el espacio en blanco: 'Tampoco queremos, hermanos, que ignoréis acerca de los que duermen, para que no os entristezcáis como los otros que no tienen _____.'",
+    "correct": "esperanza",
+    "wrong": ["fe", "paz", "consuelo"],
+    "hint": "Los creyentes tienen esto para el futuro",
+    "explanation": "Pablo consuela a los creyentes de que tienen esperanza respecto a los que han muerto en Cristo.",
+    "full_verse": "Tampoco queremos, hermanos, que ignoréis acerca de los que duermen, para que no os entristezcáis como los otros que no tienen esperanza.",
+    "verse_ref": "1 Tesalonicenses 4:13"
+  },
+  "q_hope_014": {
+    "question": "Completa el espacio en blanco: 'Y ahora, Señor, ¿qué esperaré? Mi esperanza está en _____.'",
+    "correct": "ti",
+    "wrong": ["Dios", "el cielo", "tu gracia"],
+    "hint": "David se dirige a Dios directamente",
+    "explanation": "David declara que su esperanza está puesta enteramente en Dios.",
+    "full_verse": "Y ahora, Señor, ¿qué esperaré? Mi esperanza está en ti.",
+    "verse_ref": "Salmos 39:7"
+  },
+  "q_hope_015": {
+    "question": "Completa el espacio en blanco: 'Alma mía, en Dios solamente reposa, porque de él es mi _____.'",
+    "correct": "esperanza",
+    "wrong": ["salvación", "paz", "fuerza"],
+    "hint": "La fuente de esperanza",
+    "explanation": "David anima a su alma a descansar en Dios como la fuente de toda esperanza.",
+    "full_verse": "Alma mía, en Dios solamente reposa, porque de él es mi esperanza.",
+    "verse_ref": "Salmos 62:5"
+  },
+  "q_hope_016": {
+    "question": "Completa el espacio en blanco: 'Porque tú, oh Señor Jehová, eres mi esperanza, seguridad mía desde mi _____.'",
+    "correct": "juventud",
+    "wrong": ["nacimiento", "niñez", "principio"],
+    "hint": "Primeros años de vida",
+    "explanation": "El salmista testifica que Dios ha sido su esperanza desde temprana edad.",
+    "full_verse": "Porque tú, oh Señor Jehová, eres mi esperanza, seguridad mía desde mi juventud.",
+    "verse_ref": "Salmos 71:5"
+  },
+  "q_hope_017": {
+    "question": "Completa el espacio en blanco: 'Mi escondedero y mi escudo eres tú; en tu _____ he esperado.'",
+    "correct": "palabra",
+    "wrong": ["nombre", "promesa", "amor"],
+    "hint": "La verdad hablada de Dios",
+    "explanation": "El salmista pone su esperanza en la palabra de Dios como fuente de protección.",
+    "full_verse": "Mi escondedero y mi escudo eres tú; en tu palabra he esperado.",
+    "verse_ref": "Salmos 119:114"
+  },
+  "q_hope_018": {
+    "question": "Completa el espacio en blanco: 'Esperé yo a Jehová, esperó mi alma; en su palabra he _____.'",
+    "correct": "esperado",
+    "wrong": ["confiado", "creído", "descansado"],
+    "hint": "Expectativa para el futuro",
+    "explanation": "El salmista expresa completa dependencia en la palabra de Dios para la esperanza.",
+    "full_verse": "Esperé yo a Jehová, esperó mi alma; en su palabra he esperado.",
+    "verse_ref": "Salmos 130:5"
+  },
+  "q_hope_019": {
+    "question": "Completa el espacio en blanco: 'Bienaventurado aquel cuyo ayudador es el Dios de Jacob, cuya esperanza está en Jehová su _____.'",
+    "correct": "Dios",
+    "wrong": ["Señor", "Rey", "Salvador"],
+    "hint": "Su deidad",
+    "explanation": "El salmista declara bienaventurados a aquellos que esperan en el Señor su Dios.",
+    "full_verse": "Bienaventurado aquel cuyo ayudador es el Dios de Jacob, cuya esperanza está en Jehová su Dios.",
+    "verse_ref": "Salmos 146:5"
+  },
+  "q_hope_020": {
+    "question": "Completa el espacio en blanco: 'La esperanza que se demora es tormento del corazón; pero árbol de vida es el deseo _____.'",
+    "correct": "cumplido",
+    "wrong": ["alcanzado", "logrado", "realizado"],
+    "hint": "Algo que da vitalidad",
+    "explanation": "Salomón contrasta la esperanza demorada con el deseo cumplido, que trae vida.",
+    "full_verse": "La esperanza que se demora es tormento del corazón; pero árbol de vida es el deseo cumplido.",
+    "verse_ref": "Proverbios 13:12"
+  },
+  "q_hope_021": {
+    "question": "Completa el espacio en blanco: 'Y se dirá en aquel día: He aquí, éste es nuestro Dios, le hemos esperado, y nos _____.'",
+    "correct": "salvará",
+    "wrong": ["ayudará", "bendecirá", "amará"],
+    "hint": "Dios libró a Su pueblo",
+    "explanation": "Isaías profetiza un día cuando el pueblo de Dios celebrará Su salvación.",
+    "full_verse": "Y se dirá en aquel día: He aquí, éste es nuestro Dios, le hemos esperado, y nos salvará; éste es Jehová a quien hemos esperado, nos gozaremos y nos alegraremos en su salvación.",
+    "verse_ref": "Isaías 25:9"
+  },
+  "q_hope_022": {
+    "question": "Completa el espacio en blanco: 'Mas yo a Jehová miraré, esperaré al Dios de mi salvación; el Dios mío me _____.'",
+    "correct": "oirá",
+    "wrong": ["ayudará", "salvará", "responderá"],
+    "hint": "Dios responde a la oración",
+    "explanation": "Miqueas expresa esperanza confiada en que Dios le escuchará.",
+    "full_verse": "Mas yo a Jehová miraré, esperaré al Dios de mi salvación; el Dios mío me oirá.",
+    "verse_ref": "Miqueas 7:7"
+  },
+  "q_hope_023": {
+    "question": "Completa el espacio en blanco: 'Volveos a la fortaleza, oh prisioneros de esperanza; hoy también os anuncio que os restauraré el _____.'",
+    "correct": "doble",
+    "wrong": ["todo", "mucho", "bien"],
+    "hint": "Dos veces",
+    "explanation": "Dios promete doble restauración a aquellos que mantienen la esperanza.",
+    "full_verse": "Volveos a la fortaleza, oh prisioneros de esperanza; hoy también os anuncio que os restauraré el doble.",
+    "verse_ref": "Zacarías 9:12"
+  },
+  "q_hope_024": {
+    "question": "Completa el espacio en blanco: 'Y la paciencia, prueba; y la prueba, _____.'",
+    "correct": "esperanza",
+    "wrong": ["fe", "amor", "gozo"],
+    "hint": "El resultado del carácter desarrollado",
+    "explanation": "Pablo muestra la progresión del sufrimiento a la paciencia al carácter a la esperanza.",
+    "full_verse": "Y la paciencia, prueba; y la prueba, esperanza.",
+    "verse_ref": "Romanos 5:4"
+  },
+  "q_hope_025": {
+    "question": "Completa el espacio en blanco: 'Pero si esperamos lo que no vemos, con paciencia lo _____.'",
+    "correct": "aguardamos",
+    "wrong": ["esperamos", "buscamos", "pedimos"],
+    "hint": "Con perseverancia",
+    "explanation": "Pablo enseña que la esperanza implica esperar pacientemente lo que aún no se ve.",
+    "full_verse": "Pero si esperamos lo que no vemos, con paciencia lo aguardamos.",
+    "verse_ref": "Romanos 8:25"
+  },
+  "q_hope_026": {
+    "question": "Completa el espacio en blanco: 'Gozosos en la esperanza; sufridos en la tribulación; constantes en la _____.'",
+    "correct": "oración",
+    "wrong": ["fe", "amor", "servicio"],
+    "hint": "Comunicación con Dios",
+    "explanation": "Pablo da tres instrucciones para la vida cristiana, incluyendo esperanza gozosa.",
+    "full_verse": "Gozosos en la esperanza; sufridos en la tribulación; constantes en la oración.",
+    "verse_ref": "Romanos 12:12"
+  },
+  "q_hope_027": {
+    "question": "Completa el espacio en blanco: 'Y ahora permanecen la fe, la esperanza y el amor, estos tres; pero el mayor de ellos es el _____.'",
+    "correct": "amor",
+    "wrong": ["fe", "esperanza", "gracia"],
+    "hint": "La virtud suprema",
+    "explanation": "Pablo declara que mientras la fe, la esperanza y el amor permanecen, el amor es el mayor.",
+    "full_verse": "Y ahora permanecen la fe, la esperanza y el amor, estos tres; pero el mayor de ellos es el amor.",
+    "verse_ref": "1 Corintios 13:13"
+  },
+  "q_hope_028": {
+    "question": "Completa el espacio en blanco: 'Pues nosotros por el Espíritu aguardamos por fe la esperanza de la _____.'",
+    "correct": "justicia",
+    "wrong": ["salvación", "gloria", "vida"],
+    "hint": "Nuestra expectativa",
+    "explanation": "Pablo describe a los creyentes esperando ansiosamente la justicia que la fe promete.",
+    "full_verse": "Pues nosotros por el Espíritu aguardamos por fe la esperanza de la justicia.",
+    "verse_ref": "Gálatas 5:5"
+  },
+  "q_hope_029": {
+    "question": "Completa el espacio en blanco: 'Alumbrando los ojos de vuestro entendimiento, para que sepáis cuál es la esperanza a que él os ha _____.'",
+    "correct": "llamado",
+    "wrong": ["elegido", "salvado", "bendecido"],
+    "hint": "La invitación de Dios",
+    "explanation": "Pablo ora para que los creyentes entiendan la esperanza de su llamamiento en Cristo.",
+    "full_verse": "Alumbrando los ojos de vuestro entendimiento, para que sepáis cuál es la esperanza a que él os ha llamado, y cuáles las riquezas de la gloria de su herencia en los santos.",
+    "verse_ref": "Efesios 1:18"
+  },
+  "q_hope_030": {
+    "question": "Completa el espacio en blanco: 'Un cuerpo, y un Espíritu, como fuisteis también llamados en una misma esperanza de vuestra _____.'",
+    "correct": "vocación",
+    "wrong": ["salvación", "fe", "vida"],
+    "hint": "La invitación de Dios a los creyentes",
+    "explanation": "Pablo enfatiza la unidad de los creyentes en una esperanza a través de su llamamiento.",
+    "full_verse": "Un cuerpo, y un Espíritu, como fuisteis también llamados en una misma esperanza de vuestra vocación.",
+    "verse_ref": "Efesios 4:4"
+  },
+  "q_hope_031": {
+    "question": "Completa el espacio en blanco: 'A causa de la esperanza que os está guardada en los _____.'",
+    "correct": "cielos",
+    "wrong": ["gloria", "Dios", "Cristo"],
+    "hint": "Donde Dios habita",
+    "explanation": "Pablo describe la esperanza como un tesoro guardado en los cielos que produce fe y amor.",
+    "full_verse": "A causa de la esperanza que os está guardada en los cielos, de la cual ya habéis oído por la palabra verdadera del evangelio.",
+    "verse_ref": "Colosenses 1:5"
+  },
+  "q_hope_032": {
+    "question": "Completa el espacio en blanco: 'Acordándonos sin cesar delante del Dios y Padre nuestro de la obra de vuestra fe, del trabajo de vuestro amor y de vuestra constancia en la esperanza en nuestro Señor _____.'",
+    "correct": "Jesucristo",
+    "wrong": ["Dios", "Salvador", "Rey"],
+    "hint": "El título de nuestro Señor",
+    "explanation": "Pablo elogia a los tesalonicenses por su fe, amor y esperanza en Cristo.",
+    "full_verse": "Acordándonos sin cesar delante del Dios y Padre nuestro de la obra de vuestra fe, del trabajo de vuestro amor y de vuestra constancia en la esperanza en nuestro Señor Jesucristo.",
+    "verse_ref": "1 Tesalonicenses 1:3"
+  },
+  "q_hope_033": {
+    "question": "Completa el espacio en blanco: 'Pero nosotros, que somos del día, seamos sobrios, habiéndonos vestido con la coraza de fe y de amor, y con la esperanza de salvación como _____.'",
+    "correct": "yelmo",
+    "wrong": ["escudo", "espada", "corona"],
+    "hint": "Armadura para la cabeza",
+    "explanation": "Pablo usa la imagen de la armadura, describiendo la esperanza de salvación como un yelmo.",
+    "full_verse": "Pero nosotros, que somos del día, seamos sobrios, habiéndonos vestido con la coraza de fe y de amor, y con la esperanza de salvación como yelmo.",
+    "verse_ref": "1 Tesalonicenses 5:8"
+  },
+  "q_hope_034": {
+    "question": "Completa el espacio en blanco: 'Y el mismo Jesucristo Señor nuestro, y Dios nuestro Padre, el cual nos amó y nos dio consolación eterna y buena _____ por gracia.'",
+    "correct": "esperanza",
+    "wrong": ["nueva", "fe", "promesa"],
+    "hint": "Expectativa positiva para el futuro",
+    "explanation": "Pablo ora para que los creyentes reciban consolación eterna y buena esperanza.",
+    "full_verse": "Y el mismo Jesucristo Señor nuestro, y Dios nuestro Padre, el cual nos amó y nos dio consolación eterna y buena esperanza por gracia.",
+    "verse_ref": "2 Tesalonicenses 2:16"
+  },
+  "q_hope_035": {
+    "question": "Completa el espacio en blanco: 'Pablo, apóstol de Jesucristo por mandato de Dios nuestro Salvador, y del Señor Jesucristo nuestra _____.'",
+    "correct": "esperanza",
+    "wrong": ["Señor", "Rey", "Salvador"],
+    "hint": "Cristo es nuestra expectativa",
+    "explanation": "Pablo identifica a Cristo Jesús como nuestra esperanza en su saludo a Timoteo.",
+    "full_verse": "Pablo, apóstol de Jesucristo por mandato de Dios nuestro Salvador, y del Señor Jesucristo nuestra esperanza.",
+    "verse_ref": "1 Timoteo 1:1"
+  },
+  "q_hope_036": {
+    "question": "Completa el espacio en blanco: 'Que por esto mismo trabajamos y sufrimos oprobios, porque esperamos en el Dios viviente, que es el Salvador de todos los hombres, mayormente de los que _____.'",
+    "correct": "creen",
+    "wrong": ["esperan", "confían", "siguen"],
+    "hint": "Aquellos que tienen fe",
+    "explanation": "Pablo explica que la esperanza en el Dios viviente motiva el servicio cristiano.",
+    "full_verse": "Que por esto mismo trabajamos y sufrimos oprobios, porque esperamos en el Dios viviente, que es el Salvador de todos los hombres, mayormente de los que creen.",
+    "verse_ref": "1 Timoteo 4:10"
+  },
+  "q_hope_037": {
+    "question": "Completa el espacio en blanco: 'A los ricos de este siglo manda que no sean altivos, ni pongan la esperanza en las riquezas, las cuales son inciertas, sino en el Dios vivo, que nos da todas las cosas en abundancia para que las _____.'",
+    "correct": "disfrutemos",
+    "wrong": ["tengamos", "usemos", "compartamos"],
+    "hint": "El objeto apropiado de la esperanza",
+    "explanation": "Pablo advierte contra esperar en riquezas inciertas en lugar de en Dios.",
+    "full_verse": "A los ricos de este siglo manda que no sean altivos, ni pongan la esperanza en las riquezas, las cuales son inciertas, sino en el Dios vivo, que nos da todas las cosas en abundancia para que las disfrutemos.",
+    "verse_ref": "1 Timoteo 6:17"
+  },
+  "q_hope_038": {
+    "question": "Completa el espacio en blanco: 'En la esperanza de la vida eterna, la cual Dios, que no miente, prometió desde antes del principio de los _____.'",
+    "correct": "siglos",
+    "wrong": ["tiempos", "días", "años"],
+    "hint": "Dios siempre dice la verdad",
+    "explanation": "Pablo fundamenta la esperanza en la vida eterna en la promesa veraz de Dios.",
+    "full_verse": "En la esperanza de la vida eterna, la cual Dios, que no miente, prometió desde antes del principio de los siglos.",
+    "verse_ref": "Tito 1:2"
+  },
+  "q_hope_039": {
+    "question": "Completa el espacio en blanco: 'Para que justificados por su gracia, viniésemos a ser herederos conforme a la esperanza de la vida _____.'",
+    "correct": "eterna",
+    "wrong": ["gloriosa", "gozosa", "celestial"],
+    "hint": "Vivir para siempre",
+    "explanation": "Pablo explica que la justificación por gracia nos hace herederos con esperanza de vida eterna.",
+    "full_verse": "Para que justificados por su gracia, viniésemos a ser herederos conforme a la esperanza de la vida eterna.",
+    "verse_ref": "Tito 3:7"
+  },
+  "q_hope_040": {
+    "question": "Completa el espacio en blanco: 'Pero Cristo como hijo sobre su casa, la cual casa somos nosotros, si retenemos firme hasta el fin la confianza y el gloriarnos en la _____.'",
+    "correct": "esperanza",
+    "wrong": ["fe", "gracia", "salvación"],
+    "hint": "Nos enorgullecemos en esta esperanza",
+    "explanation": "El escritor anima a los creyentes a mantenerse firmes en su esperanza en Cristo.",
+    "full_verse": "Pero Cristo como hijo sobre su casa, la cual casa somos nosotros, si retenemos firme hasta el fin la confianza y el gloriarnos en la esperanza.",
+    "verse_ref": "Hebreos 3:6"
+  },
+  "q_hope_041": {
+    "question": "Completa el espacio en blanco: 'Para que por dos cosas inmutables, en las cuales es imposible que Dios mienta, tengamos un fortísimo consuelo los que hemos acudido para asirnos de la esperanza puesta delante de nosotros. La cual tenemos como segura y firme _____ del alma.'",
+    "correct": "ancla",
+    "wrong": ["escudo", "refugio", "fortaleza"],
+    "hint": "Algo que mantiene un barco estable",
+    "explanation": "El escritor describe la esperanza como un ancla que estabiliza el alma.",
+    "full_verse": "Para que por dos cosas inmutables, en las cuales es imposible que Dios mienta, tengamos un fortísimo consuelo los que hemos acudido para asirnos de la esperanza puesta delante de nosotros. La cual tenemos como segura y firme ancla del alma.",
+    "verse_ref": "Hebreos 6:18-19"
+  },
+  "q_hope_042": {
+    "question": "Completa el espacio en blanco: 'Pues nada perfeccionó la ley, y de la introducción de una mejor esperanza, por la cual nos acercamos a _____.'",
+    "correct": "Dios",
+    "wrong": ["cielo", "Cristo", "salvación"],
+    "hint": "La esperanza nos acerca a Él",
+    "explanation": "El escritor contrasta la ley con la mejor esperanza que nos acerca a Dios.",
+    "full_verse": "Pues nada perfeccionó la ley, y de la introducción de una mejor esperanza, por la cual nos acercamos a Dios.",
+    "verse_ref": "Hebreos 7:19"
+  },
+  "q_hope_043": {
+    "question": "Completa el espacio en blanco: 'Mantengamos firme, sin fluctuar, la profesión de nuestra esperanza, porque fiel es el que _____.'",
+    "correct": "prometió",
+    "wrong": ["llamó", "salvó", "amó"],
+    "hint": "Dios cumple Sus promesas",
+    "explanation": "El escritor anima a los creyentes a mantenerse firmes en la esperanza porque Dios es fiel.",
+    "full_verse": "Mantengamos firme, sin fluctuar, la profesión de nuestra esperanza, porque fiel es el que prometió.",
+    "verse_ref": "Hebreos 10:23"
+  },
+  "q_hope_044": {
+    "question": "Completa el espacio en blanco: 'Es, pues, la fe la certeza de lo que se espera, la convicción de lo que no se _____.'",
+    "correct": "ve",
+    "wrong": ["sabe", "tiene", "entiende"],
+    "hint": "La fe se relaciona con lo invisible",
+    "explanation": "El escritor define la fe en relación con la esperanza y las realidades invisibles.",
+    "full_verse": "Es, pues, la fe la certeza de lo que se espera, la convicción de lo que no se ve.",
+    "verse_ref": "Hebreos 11:1"
+  },
+  "q_hope_045": {
+    "question": "Completa el espacio en blanco: 'Por tanto, ceñid los lomos de vuestro entendimiento, sed sobrios, y esperad por completo en la gracia que se os traerá cuando Jesucristo sea _____.'",
+    "correct": "manifestado",
+    "wrong": ["visto", "revelado", "mostrado"],
+    "hint": "Cuando Cristo aparezca",
+    "explanation": "Pedro llama a los creyentes a poner su esperanza completamente en la gracia que viene en el regreso de Cristo.",
+    "full_verse": "Por tanto, ceñid los lomos de vuestro entendimiento, sed sobrios, y esperad por completo en la gracia que se os traerá cuando Jesucristo sea manifestado.",
+    "verse_ref": "1 Pedro 1:13"
+  },
+  "q_hope_046": {
+    "question": "Completa el espacio en blanco: 'Y mediante el cual creéis en Dios, quien le resucitó de los muertos y le ha dado gloria, para que vuestra fe y esperanza sean en _____.'",
+    "correct": "Dios",
+    "wrong": ["Cristo", "cielo", "Él"],
+    "hint": "El objeto último de fe y esperanza",
+    "explanation": "Pedro explica que a través de Cristo, nuestra fe y esperanza están dirigidas a Dios.",
+    "full_verse": "Y mediante el cual creéis en Dios, quien le resucitó de los muertos y le ha dado gloria, para que vuestra fe y esperanza sean en Dios.",
+    "verse_ref": "1 Pedro 1:21"
+  },
+  "q_hope_047": {
+    "question": "Completa el espacio en blanco: 'Sino santificad a Dios el Señor en vuestros corazones, y estad siempre preparados para presentar defensa con mansedumbre y reverencia ante todo el que os demande razón de la esperanza que hay en _____.'",
+    "correct": "vosotros",
+    "wrong": ["nosotros", "Cristo", "Dios"],
+    "hint": "Poseyendo esperanza",
+    "explanation": "Pedro instruye a los creyentes a estar listos para explicar la esperanza que poseen.",
+    "full_verse": "Sino santificad a Dios el Señor en vuestros corazones, y estad siempre preparados para presentar defensa con mansedumbre y reverencia ante todo el que os demande razón de la esperanza que hay en vosotros.",
+    "verse_ref": "1 Pedro 3:15"
+  },
+  "q_hope_048": {
+    "question": "Completa el espacio en blanco: 'Y todo aquel que tiene esta esperanza en él, se purifica a sí mismo, así como él es _____.'",
+    "correct": "puro",
+    "wrong": ["santo", "justo", "limpio"],
+    "hint": "Libre de impureza",
+    "explanation": "Juan enseña que la esperanza en Cristo lleva a la purificación personal.",
+    "full_verse": "Y todo aquel que tiene esta esperanza en él, se purifica a sí mismo, así como él es puro.",
+    "verse_ref": "1 Juan 3:3"
+  },
+  "q_hope_049": {
+    "question": "Completa el espacio en blanco: 'Esto recapacitaré en mi corazón, por lo tanto esperaré. Por la misericordia de Jehová no hemos sido _____.'",
+    "correct": "consumidos",
+    "wrong": ["destruidos", "abandonados", "olvidados"],
+    "hint": "No completamente destruidos",
+    "explanation": "Jeremías encuentra esperanza al recordar el amor fiel de Dios que nos preserva.",
+    "full_verse": "Esto recapacitaré en mi corazón, por lo tanto esperaré. Por la misericordia de Jehová no hemos sido consumidos, porque nunca decayeron sus misericordias.",
+    "verse_ref": "Lamentaciones 3:21-22"
+  },
+  "q_hope_050": {
+    "question": "Completa el espacio en blanco: 'Tendrás confianza, porque hay esperanza; mirarás alrededor, y dormirás _____.'",
+    "correct": "seguro",
+    "wrong": ["en paz", "tranquilo", "confiado"],
+    "hint": "Protegido del peligro",
+    "explanation": "Zofar describe la seguridad y el descanso que viene de la esperanza.",
+    "full_verse": "Tendrás confianza, porque hay esperanza; mirarás alrededor, y dormirás seguro.",
+    "verse_ref": "Job 11:18"
+  }
+}

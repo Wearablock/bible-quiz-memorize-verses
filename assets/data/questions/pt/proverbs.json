@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_proverbs_001",
+      "question": "Complete o espaço em branco: 'Confia no SENHOR de todo o teu coração, e não te estribes no teu próprio _____; reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas.'",
+      "correct": "entendimento",
+      "wrong": ["sabedoria", "conhecimento", "força"],
+      "hint": "Esta palavra se relaciona ao intelecto e raciocínio humano",
+      "explanation": "Somos chamados a confiar em Deus completamente em vez de confiar em nosso próprio entendimento humano limitado.",
+      "full_verse": "Confia no SENHOR de todo o teu coração, e não te estribes no teu próprio entendimento; reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas.",
+      "verse_ref": "Provérbios 3:5-6"
+    },
+    {
+      "id": "q_proverbs_002",
+      "question": "Complete o espaço em branco: 'O temor do SENHOR é o princípio da _____; os loucos desprezam a sabedoria e a instrução.'",
+      "correct": "ciência",
+      "wrong": ["sabedoria", "entendimento", "fé"],
+      "hint": "É isso que os loucos desprezam junto com a instrução",
+      "explanation": "A reverência a Deus é o fundamento de todo verdadeiro conhecimento.",
+      "full_verse": "O temor do SENHOR é o princípio da ciência; os loucos desprezam a sabedoria e a instrução.",
+      "verse_ref": "Provérbios 1:7"
+    },
+    {
+      "id": "q_proverbs_003",
+      "question": "Complete o espaço em branco: 'Instrui o _____ no caminho em que deve andar, e até quando envelhecer não se desviará dele.'",
+      "correct": "menino",
+      "wrong": ["jovem", "discípulo", "crente"],
+      "hint": "Isso se refere aos pequenos sendo criados",
+      "explanation": "O treinamento espiritual precoce tem efeitos duradouros ao longo da vida de uma pessoa.",
+      "full_verse": "Instrui o menino no caminho em que deve andar, e até quando envelhecer não se desviará dele.",
+      "verse_ref": "Provérbios 22:6"
+    },
+    {
+      "id": "q_proverbs_004",
+      "question": "Complete o espaço em branco: 'Confia ao SENHOR as tuas obras, e teus _____ serão estabelecidos.'",
+      "correct": "pensamentos",
+      "wrong": ["caminhos", "passos", "obras"],
+      "hint": "Esta palavra se refere às suas intenções para o futuro",
+      "explanation": "Quando dedicamos nosso trabalho a Deus, Ele guia e estabelece nossas intenções.",
+      "full_verse": "Confia ao SENHOR as tuas obras, e teus pensamentos serão estabelecidos.",
+      "verse_ref": "Provérbios 16:3"
+    },
+    {
+      "id": "q_proverbs_005",
+      "question": "Complete o espaço em branco: 'Não te desamparem a benignidade e a _____; ata-as ao teu pescoço, escreve-as na tábua do teu coração.'",
+      "correct": "fidelidade",
+      "wrong": ["verdade", "misericórdia", "bondade"],
+      "hint": "Esta virtude se relaciona a ser leal e confiável",
+      "explanation": "O amor e a fidelidade devem ser companheiros constantes, moldando nosso caráter.",
+      "full_verse": "Não te desamparem a benignidade e a fidelidade; ata-as ao teu pescoço, escreve-as na tábua do teu coração.",
+      "verse_ref": "Provérbios 3:3"
+    },
+    {
+      "id": "q_proverbs_006",
+      "question": "Complete o espaço em branco: 'Sobre tudo o que se deve guardar, guarda o teu _____; porque dele procedem as fontes da vida.'",
+      "correct": "coração",
+      "wrong": ["mente", "alma", "língua"],
+      "hint": "Este é o centro do seu ser e emoções",
+      "explanation": "O coração é a fonte da vida, afetando todos os nossos pensamentos, palavras e ações.",
+      "full_verse": "Sobre tudo o que se deve guardar, guarda o teu coração; porque dele procedem as fontes da vida.",
+      "verse_ref": "Provérbios 4:23"
+    },
+    {
+      "id": "q_proverbs_007",
+      "question": "Complete o espaço em branco: 'O nome do SENHOR é uma _____ forte; a ela correrá o justo, e estará em alto refúgio.'",
+      "correct": "torre",
+      "wrong": ["cidade", "fortaleza", "refúgio"],
+      "hint": "Esta é uma estrutura alta usada para defesa",
+      "explanation": "O nome de Deus representa Seu caráter e poder, provendo proteção para aqueles que Nele confiam.",
+      "full_verse": "O nome do SENHOR é uma torre forte; a ela correrá o justo, e estará em alto refúgio.",
+      "verse_ref": "Provérbios 18:10"
+    },
+    {
+      "id": "q_proverbs_008",
+      "question": "Complete o espaço em branco: 'Assim como o ferro afia o ferro, assim o homem afia o rosto do seu _____.'",
+      "correct": "amigo",
+      "wrong": ["irmão", "próximo", "companheiro"],
+      "hint": "Isso se refere a uma única outra pessoa",
+      "explanation": "Relacionamentos saudáveis nos ajudam a crescer e melhorar através de encorajamento e desafio mútuos.",
+      "full_verse": "Assim como o ferro afia o ferro, assim o homem afia o rosto do seu amigo.",
+      "verse_ref": "Provérbios 27:17"
+    },
+    {
+      "id": "q_proverbs_009",
+      "question": "Complete o espaço em branco: 'Enganosa é a beleza e vã a formosura, mas a mulher que teme ao SENHOR, essa sim será _____.'",
+      "correct": "louvada",
+      "wrong": ["honrada", "abençoada", "amada"],
+      "hint": "Isso significa ser elogiada ou celebrada",
+      "explanation": "O verdadeiro valor é encontrado na reverência a Deus, não na aparência exterior.",
+      "full_verse": "Enganosa é a beleza e vã a formosura, mas a mulher que teme ao SENHOR, essa sim será louvada.",
+      "verse_ref": "Provérbios 31:30"
+    },
+    {
+      "id": "q_proverbs_010",
+      "question": "Complete o espaço em branco: 'A alma generosa engordará, e o que regar também será _____.'",
+      "correct": "regado",
+      "wrong": ["próspero", "abençoado", "feliz"],
+      "hint": "Isso significa receber o mesmo tratamento",
+      "explanation": "A generosidade traz bênçãos de volta ao doador.",
+      "full_verse": "A alma generosa engordará, e o que regar também será regado.",
+      "verse_ref": "Provérbios 11:25"
+    },
+    {
+      "id": "q_proverbs_011",
+      "question": "Complete o espaço em branco: 'Honra ao SENHOR com os teus bens, e com a _____ de toda a tua renda.'",
+      "correct": "primícia",
+      "wrong": ["melhor", "dízimo", "colheita"],
+      "hint": "Isso se refere à primeira porção da sua colheita",
+      "explanation": "Dar a Deus o primeiro e o melhor de nossa renda demonstra confiança e gratidão.",
+      "full_verse": "Honra ao SENHOR com os teus bens, e com a primícia de toda a tua renda.",
+      "verse_ref": "Provérbios 3:9"
+    },
+    {
+      "id": "q_proverbs_012",
+      "question": "Complete o espaço em branco: 'O ódio excita contendas, mas o amor cobre todas as _____.'",
+      "correct": "transgressões",
+      "wrong": ["pecados", "falhas", "ofensas"],
+      "hint": "Isso se refere a erros ou ofensas",
+      "explanation": "O amor escolhe perdoar em vez de guardar rancor.",
+      "full_verse": "O ódio excita contendas, mas o amor cobre todas as transgressões.",
+      "verse_ref": "Provérbios 10:12"
+    },
+    {
+      "id": "q_proverbs_013",
+      "question": "Complete o espaço em branco: 'Vindo a soberba, virá também a _____; mas com os humildes está a sabedoria.'",
+      "correct": "afronta",
+      "wrong": ["vergonha", "queda", "destruição"],
+      "hint": "Isso é o oposto de honra",
+      "explanation": "O orgulho leva à vergonha, enquanto a humildade leva à sabedoria.",
+      "full_verse": "Vindo a soberba, virá também a afronta; mas com os humildes está a sabedoria.",
+      "verse_ref": "Provérbios 11:2"
+    },
+    {
+      "id": "q_proverbs_014",
+      "question": "Complete o espaço em branco: 'A ansiedade no coração do homem o abate, mas uma boa palavra o _____.'",
+      "correct": "alegra",
+      "wrong": ["anima", "fortalece", "levanta"],
+      "hint": "Esta palavra indica tornar feliz",
+      "explanation": "Palavras encorajadoras têm o poder de levantar espíritos abatidos pela preocupação.",
+      "full_verse": "A ansiedade no coração do homem o abate, mas uma boa palavra o alegra.",
+      "verse_ref": "Provérbios 12:25"
+    },
+    {
+      "id": "q_proverbs_015",
+      "question": "Complete o espaço em branco: 'A esperança demorada enfraquece o coração, mas o desejo cumprido é árvore de _____.'",
+      "correct": "vida",
+      "wrong": ["alegria", "esperança", "bênção"],
+      "hint": "É isso que a árvore proporciona",
+      "explanation": "Esperanças atrasadas podem ser desanimadoras, mas desejos realizados trazem vitalidade e alegria.",
+      "full_verse": "A esperança demorada enfraquece o coração, mas o desejo cumprido é árvore de vida.",
+      "verse_ref": "Provérbios 13:12"
+    },
+    {
+      "id": "q_proverbs_016",
+      "question": "Complete o espaço em branco: 'Há um caminho que ao homem parece direito, mas o fim dele são os caminhos da _____.'",
+      "correct": "morte",
+      "wrong": ["ruína", "destruição", "escuridão"],
+      "hint": "Esta é a consequência final",
+      "explanation": "O julgamento humano pode ser enganado; o que parece certo pode levar à destruição.",
+      "full_verse": "Há um caminho que ao homem parece direito, mas o fim dele são os caminhos da morte.",
+      "verse_ref": "Provérbios 14:12"
+    },
+    {
+      "id": "q_proverbs_017",
+      "question": "Complete o espaço em branco: 'A resposta branda desvia o furor, mas a palavra dura suscita a _____.'",
+      "correct": "ira",
+      "wrong": ["contenda", "conflito", "fúria"],
+      "hint": "Esta emoção é provocada por palavras duras",
+      "explanation": "Como respondemos pode tanto acalmar quanto escalar um conflito.",
+      "full_verse": "A resposta branda desvia o furor, mas a palavra dura suscita a ira.",
+      "verse_ref": "Provérbios 15:1"
+    },
+    {
+      "id": "q_proverbs_018",
+      "question": "Complete o espaço em branco: 'O coração do homem considera o seu caminho, mas o SENHOR lhe dirige os _____.'",
+      "correct": "passos",
+      "wrong": ["caminhos", "planos", "pensamentos"],
+      "hint": "Isso se refere a movimentos individuais para frente",
+      "explanation": "Podemos fazer planos, mas Deus em última instância dirige nosso caminho.",
+      "full_verse": "O coração do homem considera o seu caminho, mas o SENHOR lhe dirige os passos.",
+      "verse_ref": "Provérbios 16:9"
+    },
+    {
+      "id": "q_proverbs_019",
+      "question": "Complete o espaço em branco: 'Em todo o tempo ama o amigo; e na _____ nasce o irmão.'",
+      "correct": "angústia",
+      "wrong": ["dificuldade", "necessidade", "tribulação"],
+      "hint": "Esta palavra significa circunstâncias difíceis",
+      "explanation": "Verdadeiros amigos e família estão presentes durante tempos difíceis.",
+      "full_verse": "Em todo o tempo ama o amigo; e na angústia nasce o irmão.",
+      "verse_ref": "Provérbios 17:17"
+    },
+    {
+      "id": "q_proverbs_020",
+      "question": "Complete o espaço em branco: 'O homem que tem muitos amigos pode sair perdendo, mas há amigo mais chegado do que um _____.'",
+      "correct": "irmão",
+      "wrong": ["pai", "mãe", "parente"],
+      "hint": "Este é um membro masculino da família",
+      "explanation": "A verdadeira amizade pode ser ainda mais próxima do que os laços familiares.",
+      "full_verse": "O homem que tem muitos amigos pode sair perdendo, mas há amigo mais chegado do que um irmão.",
+      "verse_ref": "Provérbios 18:24"
+    },
+    {
+      "id": "q_proverbs_021",
+      "question": "Complete o espaço em branco: 'Muitos propósitos há no coração do homem, porém o conselho do SENHOR _____.'",
+      "correct": "permanecerá",
+      "wrong": ["vencerá", "prevalecerá", "triunfará"],
+      "hint": "Isso se refere à intenção ou desígnio de Deus",
+      "explanation": "Os planos humanos são muitos, mas o propósito soberano de Deus será finalmente cumprido.",
+      "full_verse": "Muitos propósitos há no coração do homem, porém o conselho do SENHOR permanecerá.",
+      "verse_ref": "Provérbios 19:21"
+    },
+    {
+      "id": "q_proverbs_022",
+      "question": "Complete o espaço em branco: 'O justo anda na sua sinceridade; bem-aventurados serão os seus _____ depois dele.'",
+      "correct": "filhos",
+      "wrong": ["famílias", "descendentes", "herdeiros"],
+      "hint": "Estes são os filhos e filhas",
+      "explanation": "Uma vida justa deixa um legado positivo para as gerações futuras.",
+      "full_verse": "O justo anda na sua sinceridade; bem-aventurados serão os seus filhos depois dele.",
+      "verse_ref": "Provérbios 20:7"
+    },
+    {
+      "id": "q_proverbs_023",
+      "question": "Complete o espaço em branco: 'O que segue a justiça e a benignidade achará a vida, a justiça e a _____.'",
+      "correct": "honra",
+      "wrong": ["paz", "alegria", "bênção"],
+      "hint": "Esta palavra significa respeito e estima elevados",
+      "explanation": "Perseguir a justiça e o amor leva a uma vida plena e abençoada.",
+      "full_verse": "O que segue a justiça e a benignidade achará a vida, a justiça e a honra.",
+      "verse_ref": "Provérbios 21:21"
+    },
+    {
+      "id": "q_proverbs_024",
+      "question": "Complete o espaço em branco: 'Mais digno de ser escolhido é o bom nome do que as muitas _____; e a graça é melhor do que a prata e o ouro.'",
+      "correct": "riquezas",
+      "wrong": ["posses", "tesouros", "fortunas"],
+      "hint": "Esta palavra se refere a riqueza abundante",
+      "explanation": "Caráter e reputação são mais valiosos do que riqueza material.",
+      "full_verse": "Mais digno de ser escolhido é o bom nome do que as muitas riquezas; e a graça é melhor do que a prata e o ouro.",
+      "verse_ref": "Provérbios 22:1"
+    },
+    {
+      "id": "q_proverbs_025",
+      "question": "Complete o espaço em branco: 'Aplica o teu coração ao ensino, e os teus ouvidos às palavras do _____.'",
+      "correct": "conhecimento",
+      "wrong": ["sabedoria", "verdade", "entendimento"],
+      "hint": "É isso que a instrução visa transmitir",
+      "explanation": "Devemos receber ansiosamente tanto a instrução quanto o conhecimento.",
+      "full_verse": "Aplica o teu coração ao ensino, e os teus ouvidos às palavras do conhecimento.",
+      "verse_ref": "Provérbios 23:12"
+    },
+    {
+      "id": "q_proverbs_026",
+      "question": "Complete o espaço em branco: 'Porque sete vezes cairá o justo, e se levantará; mas os ímpios tropeçarão no _____.'",
+      "correct": "mal",
+      "wrong": ["pecado", "erro", "caminho"],
+      "hint": "Esta palavra indica o oposto do bem",
+      "explanation": "Os justos demonstram resiliência, levantando-se após as quedas.",
+      "full_verse": "Porque sete vezes cairá o justo, e se levantará; mas os ímpios tropeçarão no mal.",
+      "verse_ref": "Provérbios 24:16"
+    },
+    {
+      "id": "q_proverbs_027",
+      "question": "Complete o espaço em branco: 'Como maçãs de ouro em salvas de prata, assim é a palavra dita a seu _____.'",
+      "correct": "tempo",
+      "wrong": ["modo", "lugar", "propósito"],
+      "hint": "Isso se refere ao momento apropriado",
+      "explanation": "Palavras bem cronometradas e apropriadas são belas e valiosas.",
+      "full_verse": "Como maçãs de ouro em salvas de prata, assim é a palavra dita a seu tempo.",
+      "verse_ref": "Provérbios 25:11"
+    },
+    {
+      "id": "q_proverbs_028",
+      "question": "Complete o espaço em branco: 'Sem lenha se apagará o fogo, e não havendo _____, cessará a contenda.'",
+      "correct": "maldizente",
+      "wrong": ["fofoqueiro", "intrigante", "caluniador"],
+      "hint": "Isso se refere a alguém que espalha rumores",
+      "explanation": "O conflito é sustentado por aqueles que espalham conversas negativas sobre outros.",
+      "full_verse": "Sem lenha se apagará o fogo, e não havendo maldizente, cessará a contenda.",
+      "verse_ref": "Provérbios 26:20"
+    },
+    {
+      "id": "q_proverbs_029",
+      "question": "Complete o espaço em branco: 'Não te glories do dia de _____; porque não sabes o que produzirá este dia.'",
+      "correct": "amanhã",
+      "wrong": ["futuro", "depois", "adiante"],
+      "hint": "Isso se refere ao próximo dia",
+      "explanation": "Não devemos presumir sobre o futuro, pois é incerto.",
+      "full_verse": "Não te glories do dia de amanhã; porque não sabes o que produzirá este dia.",
+      "verse_ref": "Provérbios 27:1"
+    },
+    {
+      "id": "q_proverbs_030",
+      "question": "Complete o espaço em branco: 'O que encobre as suas transgressões nunca prosperará, mas o que as confessa e deixa, alcançará _____.'",
+      "correct": "misericórdia",
+      "wrong": ["graça", "perdão", "paz"],
+      "hint": "Este é um tratamento compassivo",
+      "explanation": "Confissão e arrependimento levam à misericórdia de Deus.",
+      "full_verse": "O que encobre as suas transgressões nunca prosperará, mas o que as confessa e deixa, alcançará misericórdia.",
+      "verse_ref": "Provérbios 28:13"
+    },
+    {
+      "id": "q_proverbs_031",
+      "question": "Complete o espaço em branco: 'O temor do homem armará laços, mas o que confia no SENHOR será _____.'",
+      "correct": "posto em alto retiro",
+      "wrong": ["seguro", "protegido", "guardado"],
+      "hint": "Isso significa estar em lugar seguro",
+      "explanation": "Ser controlado pelo que os outros pensam pode nos prender, mas confiar em Deus traz segurança.",
+      "full_verse": "O temor do homem armará laços, mas o que confia no SENHOR será posto em alto retiro.",
+      "verse_ref": "Provérbios 29:25"
+    },
+    {
+      "id": "q_proverbs_032",
+      "question": "Complete o espaço em branco: 'Toda a Palavra de Deus é _____; escudo é para os que confiam nele.'",
+      "correct": "pura",
+      "wrong": ["perfeita", "verdadeira", "fiel"],
+      "hint": "Isso significa sem defeitos",
+      "explanation": "A Palavra de Deus é completamente confiável e digna de confiança.",
+      "full_verse": "Toda a Palavra de Deus é pura; escudo é para os que confiam nele.",
+      "verse_ref": "Provérbios 30:5"
+    },
+    {
+      "id": "q_proverbs_033",
+      "question": "Complete o espaço em branco: 'Porque o SENHOR dá a sabedoria; da sua boca é que vem o conhecimento e o _____.'",
+      "correct": "entendimento",
+      "wrong": ["verdade", "discernimento", "juízo"],
+      "hint": "Esta é a capacidade de compreender",
+      "explanation": "Verdadeira sabedoria, conhecimento e entendimento vêm de Deus.",
+      "full_verse": "Porque o SENHOR dá a sabedoria; da sua boca é que vem o conhecimento e o entendimento.",
+      "verse_ref": "Provérbios 2:6"
+    },
+    {
+      "id": "q_proverbs_034",
+      "question": "Complete o espaço em branco: 'Filho meu, não rejeites a correção do SENHOR, nem te enojes da sua _____.'",
+      "correct": "repreensão",
+      "wrong": ["correção", "punição", "disciplina"],
+      "hint": "Esta é uma expressão forte de desaprovação",
+      "explanation": "Deus disciplina aqueles que Ele ama, e devemos aceitar Sua correção.",
+      "full_verse": "Filho meu, não rejeites a correção do SENHOR, nem te enojes da sua repreensão; porque o SENHOR repreende aquele a quem ama, como o pai ao filho a quem quer bem.",
+      "verse_ref": "Provérbios 3:11-12"
+    },
+    {
+      "id": "q_proverbs_035",
+      "question": "Complete o espaço em branco: 'A sabedoria é a coisa principal; adquire pois a _____; e com tudo o que possuis adquire o entendimento.'",
+      "correct": "sabedoria",
+      "wrong": ["conhecimento", "discernimento", "entendimento"],
+      "hint": "É isso que o versículo diz para obter",
+      "explanation": "A sabedoria é tão valiosa que vale a pena persegui-la a qualquer custo.",
+      "full_verse": "A sabedoria é a coisa principal; adquire pois a sabedoria; e com tudo o que possuis adquire o entendimento.",
+      "verse_ref": "Provérbios 4:7"
+    },
+    {
+      "id": "q_proverbs_036",
+      "question": "Complete o espaço em branco: 'Estas seis coisas o SENHOR odeia, e a sétima a sua alma abomina: olhos altivos, língua mentirosa, mãos que derramam sangue inocente, coração que maquina pensamentos perversos, pés que se apressam a correr para o _____.'",
+      "correct": "mal",
+      "wrong": ["pecado", "perigo", "erro"],
+      "hint": "Isso é o oposto do bem",
+      "explanation": "Deus odeia várias formas de maldade, incluindo aqueles ansiosos para fazer o mal.",
+      "full_verse": "Estas seis coisas o SENHOR odeia, e a sétima a sua alma abomina: olhos altivos, língua mentirosa, mãos que derramam sangue inocente, coração que maquina pensamentos perversos, pés que se apressam a correr para o mal, testemunha falsa que profere mentiras, e o que semeia contendas entre irmãos.",
+      "verse_ref": "Provérbios 6:16-19"
+    },
+    {
+      "id": "q_proverbs_037",
+      "question": "Complete o espaço em branco: 'O temor do SENHOR é o princípio da sabedoria, e o conhecimento do Santo é o _____.'",
+      "correct": "entendimento",
+      "wrong": ["sabedoria", "discernimento", "juízo"],
+      "hint": "Esta é a capacidade de compreender profundamente",
+      "explanation": "A verdadeira sabedoria começa com reverência a Deus, e conhecê-Lo traz entendimento.",
+      "full_verse": "O temor do SENHOR é o princípio da sabedoria, e o conhecimento do Santo é o entendimento.",
+      "verse_ref": "Provérbios 9:10"
+    },
+    {
+      "id": "q_proverbs_038",
+      "question": "Complete o espaço em branco: 'A bênção do SENHOR é que enriquece; e não acrescenta dores com _____.'",
+      "correct": "ela",
+      "wrong": ["trabalho", "esforço", "fadiga"],
+      "hint": "Isso se refere à bênção mencionada",
+      "explanation": "A bênção de Deus traz prosperidade sem o fardo do esforço ansioso.",
+      "full_verse": "A bênção do SENHOR é que enriquece; e não acrescenta dores com ela.",
+      "verse_ref": "Provérbios 10:22"
+    },
+    {
+      "id": "q_proverbs_039",
+      "question": "Complete o espaço em branco: 'Não havendo sábia direção, cai o povo, mas na multidão de _____ há segurança.'",
+      "correct": "conselheiros",
+      "wrong": ["líderes", "sábios", "anciãos"],
+      "hint": "Essas são pessoas que dão conselhos",
+      "explanation": "Sábio conselho de muitas fontes leva ao sucesso.",
+      "full_verse": "Não havendo sábia direção, cai o povo, mas na multidão de conselheiros há segurança.",
+      "verse_ref": "Provérbios 11:14"
+    },
+    {
+      "id": "q_proverbs_040",
+      "question": "Complete o espaço em branco: 'O caminho do tolo é reto aos seus olhos, mas o que dá ouvidos ao conselho é _____.'",
+      "correct": "sábio",
+      "wrong": ["prudente", "entendido", "justo"],
+      "hint": "Este é o oposto de tolo",
+      "explanation": "Os tolos confiam em seu próprio julgamento; os sábios buscam e obedecem ao conselho.",
+      "full_verse": "O caminho do tolo é reto aos seus olhos, mas o que dá ouvidos ao conselho é sábio.",
+      "verse_ref": "Provérbios 12:15"
+    },
+    {
+      "id": "q_proverbs_041",
+      "question": "Complete o espaço em branco: 'O longânimo é grande em entendimento, mas o que é de ânimo precipitado exalta a _____.'",
+      "correct": "loucura",
+      "wrong": ["ira", "tolice", "orgulho"],
+      "hint": "Isso é o oposto de sabedoria",
+      "explanation": "A paciência reflete sabedoria, enquanto um temperamento rápido mostra tolice.",
+      "full_verse": "O longânimo é grande em entendimento, mas o que é de ânimo precipitado exalta a loucura.",
+      "verse_ref": "Provérbios 14:29"
+    },
+    {
+      "id": "q_proverbs_042",
+      "question": "Complete o espaço em branco: 'Sem conselho os projetos fracassam, mas com a multidão de conselheiros se _____.'",
+      "correct": "confirmam",
+      "wrong": ["realizam", "estabelecem", "prosperam"],
+      "hint": "Isso significa ter sucesso ou se estabelecer",
+      "explanation": "Buscar conselho sábio ajuda a garantir sucesso em nossos planos.",
+      "full_verse": "Sem conselho os projetos fracassam, mas com a multidão de conselheiros se confirmam.",
+      "verse_ref": "Provérbios 15:22"
+    },
+    {
+      "id": "q_proverbs_043",
+      "question": "Complete o espaço em branco: 'A soberba precede a ruína, e a altivez do espírito precede a _____.'",
+      "correct": "queda",
+      "wrong": ["destruição", "ruína", "derrota"],
+      "hint": "Isso é uma descida ou colapso súbito",
+      "explanation": "O orgulho leva à destruição e à queda.",
+      "full_verse": "A soberba precede a ruína, e a altivez do espírito precede a queda.",
+      "verse_ref": "Provérbios 16:18"
+    },
+    {
+      "id": "q_proverbs_044",
+      "question": "Complete o espaço em branco: 'O coração alegre é como o bom _____; mas o espírito abatido seca os ossos.'",
+      "correct": "remédio",
+      "wrong": ["medicamento", "tratamento", "cura"],
+      "hint": "Isso é algo que cura",
+      "explanation": "Alegria e contentamento têm um efeito curativo em todo o nosso ser.",
+      "full_verse": "O coração alegre é como o bom remédio; mas o espírito abatido seca os ossos.",
+      "verse_ref": "Provérbios 17:22"
+    },
+    {
+      "id": "q_proverbs_045",
+      "question": "Complete o espaço em branco: 'Ao SENHOR empresta o que se compadece do pobre, e ele lhe _____ o seu benefício.'",
+      "correct": "pagará",
+      "wrong": ["retribuirá", "recompensará", "devolverá"],
+      "hint": "Isso significa dar de volta",
+      "explanation": "Ajudar os pobres é como emprestar a Deus, que promete retribuir.",
+      "full_verse": "Ao SENHOR empresta o que se compadece do pobre, e ele lhe pagará o seu benefício.",
+      "verse_ref": "Provérbios 19:17"
+    },
+    {
+      "id": "q_proverbs_046",
+      "question": "Complete o espaço em branco: 'Não digas: Vingar-me-ei do mal; espera pelo SENHOR, e ele te _____.'",
+      "correct": "livrará",
+      "wrong": ["ajudará", "salvará", "defenderá"],
+      "hint": "Isso significa ser libertado ou resgatado",
+      "explanation": "Em vez de buscar vingança, devemos confiar que Deus trará justiça.",
+      "full_verse": "Não digas: Vingar-me-ei do mal; espera pelo SENHOR, e ele te livrará.",
+      "verse_ref": "Provérbios 20:22"
+    },
+    {
+      "id": "q_proverbs_047",
+      "question": "Complete o espaço em branco: 'Fazer justiça e juízo é mais aceitável ao SENHOR do que _____.'",
+      "correct": "sacrifício",
+      "wrong": ["ofertas", "adoração", "oração"],
+      "hint": "Esta é uma oferta religiosa",
+      "explanation": "Deus valoriza uma vida justa mais do que rituais religiosos.",
+      "full_verse": "Fazer justiça e juízo é mais aceitável ao SENHOR do que sacrifício.",
+      "verse_ref": "Provérbios 21:3"
+    },
+    {
+      "id": "q_proverbs_048",
+      "question": "Complete o espaço em branco: 'O galardão da humildade e o temor do SENHOR são riquezas, e honra, e _____.'",
+      "correct": "vida",
+      "wrong": ["paz", "glória", "bênção"],
+      "hint": "Esta é a existência terrena e eterna",
+      "explanation": "Humildade e reverência a Deus levam a ricas recompensas, incluindo honra e vida.",
+      "full_verse": "O galardão da humildade e o temor do SENHOR são riquezas, e honra, e vida.",
+      "verse_ref": "Provérbios 22:4"
+    },
+    {
+      "id": "q_proverbs_049",
+      "question": "Complete o espaço em branco: 'Mulher virtuosa quem a achará? O seu valor muito excede ao dos _____.'",
+      "correct": "rubis",
+      "wrong": ["ouro", "prata", "diamantes"],
+      "hint": "Estas são pedras preciosas vermelhas",
+      "explanation": "Uma esposa virtuosa é mais valiosa do que pedras preciosas.",
+      "full_verse": "Mulher virtuosa quem a achará? O seu valor muito excede ao dos rubis.",
+      "verse_ref": "Provérbios 31:10"
+    },
+    {
+      "id": "q_proverbs_050",
+      "question": "Complete o espaço em branco: 'Não sejas sábio a teus próprios olhos; teme ao SENHOR, e aparta-te do _____.'",
+      "correct": "mal",
+      "wrong": ["pecado", "maldade", "erro"],
+      "hint": "Isso é o que devemos evitar",
+      "explanation": "A verdadeira sabedoria envolve temer a Deus e se afastar do mal.",
+      "full_verse": "Não sejas sábio a teus próprios olhos; teme ao SENHOR, e aparta-te do mal.",
+      "verse_ref": "Provérbios 3:7"
+    }
+  ]
+}

@@ -1,1 +1,452 @@
-{}
+{
+  "q_forgiveness_001": {
+    "question": "Điền vào chỗ trống: 'Nếu chúng ta xưng tội mình, Ngài là thành tín và công chính sẽ tha tội cho chúng ta và _____ chúng ta khỏi mọi điều bất chính.'",
+    "correct": "thanh tẩy",
+    "wrong": ["rửa sạch", "giải thoát", "cứu"],
+    "hint": "Đức Chúa Trời làm nhiều hơn là chỉ tha thứ",
+    "explanation": "Giăng đảm bảo với các tín hữu rằng việc xưng tội dẫn đến cả sự tha thứ và thanh tẩy khỏi tội lỗi.",
+    "full_verse": "Nếu chúng ta xưng tội mình, Ngài là thành tín và công chính sẽ tha tội cho chúng ta và thanh tẩy chúng ta khỏi mọi điều bất chính.",
+    "verse_ref": "1 Giăng 1:9"
+  },
+  "q_forgiveness_002": {
+    "question": "Điền vào chỗ trống: 'Hãy nhân từ và thương xót nhau, tha thứ cho nhau như trong Đấng Christ, Đức Chúa Trời đã _____ anh chị em.'",
+    "correct": "tha thứ",
+    "wrong": ["yêu thương", "cứu", "ban phước"],
+    "hint": "Hành động của Đức Chúa Trời đối với chúng ta là mẫu mực",
+    "explanation": "Phao-lô hướng dẫn các tín hữu tha thứ cho người khác dựa trên sự tha thứ họ nhận được từ Đức Chúa Trời.",
+    "full_verse": "Hãy nhân từ và thương xót nhau, tha thứ cho nhau như trong Đấng Christ, Đức Chúa Trời đã tha thứ anh chị em.",
+    "verse_ref": "Ê-phê-sô 4:32"
+  },
+  "q_forgiveness_003": {
+    "question": "Điền vào chỗ trống: 'Hãy chịu đựng nhau và tha thứ cho nhau nếu ai có điều gì phàn nàn với người khác. Hãy tha thứ như _____ đã tha thứ anh chị em.'",
+    "correct": "Chúa",
+    "wrong": ["Cha", "Đấng Christ", "Đức Chúa Trời"],
+    "hint": "Sự tha thứ của chúng ta nên phản ánh sự tha thứ của Ngài",
+    "explanation": "Phao-lô kêu gọi các tín hữu bày tỏ sự tha thứ như họ đã nhận từ Chúa.",
+    "full_verse": "Hãy chịu đựng nhau và tha thứ cho nhau nếu ai có điều gì phàn nàn với người khác. Hãy tha thứ như Chúa đã tha thứ anh chị em.",
+    "verse_ref": "Cô-lô-se 3:13"
+  },
+  "q_forgiveness_004": {
+    "question": "Điền vào chỗ trống: 'Vì nếu anh chị em tha thứ cho người khác khi họ phạm tội với mình, thì _____ trên trời cũng sẽ tha thứ cho anh chị em.'",
+    "correct": "Cha",
+    "wrong": ["Chúa", "Đức Chúa Trời", "Vua"],
+    "hint": "Chúa Giê-xu nói về Đức Chúa Trời với danh xưng gia đình",
+    "explanation": "Chúa Giê-xu dạy rằng sự sẵn lòng tha thứ cho người khác có liên quan đến việc nhận sự tha thứ của Đức Chúa Trời.",
+    "full_verse": "Vì nếu anh chị em tha thứ cho người khác khi họ phạm tội với mình, thì Cha trên trời cũng sẽ tha thứ cho anh chị em.",
+    "verse_ref": "Ma-thi-ơ 6:14"
+  },
+  "q_forgiveness_005": {
+    "question": "Điền vào chỗ trống: 'Và khi anh chị em đứng cầu nguyện, nếu có điều gì nghịch với ai, hãy _____ họ, để Cha trên trời cũng tha tội cho anh chị em.'",
+    "correct": "tha thứ",
+    "wrong": ["buông bỏ", "xá tội", "ban phước"],
+    "hint": "Điều chúng ta phải làm trước khi cầu nguyện",
+    "explanation": "Chúa Giê-xu dạy rằng việc tha thứ cho người khác nên đi trước lời cầu nguyện của chúng ta.",
+    "full_verse": "Và khi anh chị em đứng cầu nguyện, nếu có điều gì nghịch với ai, hãy tha thứ họ, để Cha trên trời cũng tha tội cho anh chị em.",
+    "verse_ref": "Mác 11:25"
+  },
+  "q_forgiveness_006": {
+    "question": "Điền vào chỗ trống: 'Vậy, hãy ăn năn và quay về với Đức Chúa Trời, để tội lỗi anh chị em được xóa bỏ, hầu cho những thời kỳ _____ đến từ Chúa.'",
+    "correct": "tươi mới",
+    "wrong": ["phước lành", "chữa lành", "bình an"],
+    "hint": "Sự tha thứ mang lại sự đổi mới thuộc linh",
+    "explanation": "Phi-e-rơ kêu gọi ăn năn dẫn đến sự tha thứ và sự tươi mới thuộc linh.",
+    "full_verse": "Vậy, hãy ăn năn và quay về với Đức Chúa Trời, để tội lỗi anh chị em được xóa bỏ, hầu cho những thời kỳ tươi mới đến từ Chúa.",
+    "verse_ref": "Công Vụ 3:19"
+  },
+  "q_forgiveness_007": {
+    "question": "Điền vào chỗ trống: 'Phương đông xa cách phương tây bao nhiêu, Ngài đã đem _____ chúng ta xa khỏi chúng ta bấy nhiêu.'",
+    "correct": "tội lỗi",
+    "wrong": ["lỗi lầm", "tội ác", "sự xấu hổ"],
+    "hint": "Đức Chúa Trời tách những điều này khỏi chúng ta hoàn toàn",
+    "explanation": "Đa-vít mô tả một cách thơ mộng việc Đức Chúa Trời loại bỏ tội lỗi chúng ta hoàn toàn như thế nào.",
+    "full_verse": "Phương đông xa cách phương tây bao nhiêu, Ngài đã đem tội lỗi chúng ta xa khỏi chúng ta bấy nhiêu.",
+    "verse_ref": "Thi Thiên 103:12"
+  },
+  "q_forgiveness_008": {
+    "question": "Điền vào chỗ trống: 'Dù tội các ngươi như màu đỏ thẫm, sẽ trở nên trắng như _____.'",
+    "correct": "tuyết",
+    "wrong": ["len", "mây", "ánh sáng"],
+    "hint": "Biểu tượng của sự tinh khiết và sạch sẽ",
+    "explanation": "Đức Chúa Trời hứa sự thanh tẩy hoàn toàn, biến đổi tội đỏ thẫm thành trắng tinh.",
+    "full_verse": "Bây giờ hãy đến, chúng ta cùng nhau lý luận, CHÚA phán. Dù tội các ngươi như màu đỏ thẫm, sẽ trở nên trắng như tuyết; dù đỏ như màu điều, sẽ trở nên như len.",
+    "verse_ref": "Ê-sai 1:18"
+  },
+  "q_forgiveness_009": {
+    "question": "Điền vào chỗ trống: 'Ai là Đức Chúa Trời giống như Ngài, là Đấng tha thứ tội ác và bỏ qua sự vi phạm của _____ sản nghiệp Ngài?'",
+    "correct": "phần còn lại",
+    "wrong": ["dân", "con cái", "người được chọn"],
+    "hint": "Phần trung tín của dân Đức Chúa Trời",
+    "explanation": "Mi-chê ca ngợi sự sẵn lòng độc đáo của Đức Chúa Trời trong việc tha thứ tội lỗi cho dân Ngài.",
+    "full_verse": "Ai là Đức Chúa Trời giống như Ngài, là Đấng tha thứ tội ác và bỏ qua sự vi phạm của phần còn lại sản nghiệp Ngài? Ngài không giữ cơn giận mãi mãi nhưng vui thích bày tỏ lòng thương xót.",
+    "verse_ref": "Mi-chê 7:18"
+  },
+  "q_forgiveness_010": {
+    "question": "Điền vào chỗ trống: 'Đừng phán xét, thì các ngươi sẽ không bị phán xét. Đừng kết án, thì các ngươi sẽ không bị kết án. Hãy tha thứ, thì các ngươi sẽ được _____.'",
+    "correct": "tha thứ",
+    "wrong": ["ban phước", "cứu", "yêu thương"],
+    "hint": "Điều chúng ta cho đi, chúng ta nhận lại",
+    "explanation": "Chúa Giê-xu dạy về bản chất tương hỗ của sự tha thứ.",
+    "full_verse": "Đừng phán xét, thì các ngươi sẽ không bị phán xét. Đừng kết án, thì các ngươi sẽ không bị kết án. Hãy tha thứ, thì các ngươi sẽ được tha thứ.",
+    "verse_ref": "Lu-ca 6:37"
+  },
+  "q_forgiveness_011": {
+    "question": "Điền vào chỗ trống: 'Bấy giờ Phi-e-rơ đến gần Đức Chúa Giê-xu và hỏi: \"Thưa Chúa, nếu anh em tôi phạm tội với tôi, tôi phải tha thứ mấy lần? Đến bảy lần sao?\" Đức Chúa Giê-xu đáp: \"Ta nói với ngươi, không phải bảy lần, nhưng bảy mươi lần bảy _____.'\"",
+    "correct": "lần",
+    "wrong": ["lần hơn", "thêm", "cách"],
+    "hint": "Chúa Giê-xu nhân con số lên",
+    "explanation": "Chúa Giê-xu dạy rằng sự tha thứ nên không giới hạn, không đếm được.",
+    "full_verse": "Bấy giờ Phi-e-rơ đến gần Đức Chúa Giê-xu và hỏi: 'Thưa Chúa, nếu anh em tôi phạm tội với tôi, tôi phải tha thứ mấy lần? Đến bảy lần sao?' Đức Chúa Giê-xu đáp: 'Ta nói với ngươi, không phải bảy lần, nhưng bảy mươi lần bảy lần.'",
+    "verse_ref": "Ma-thi-ơ 18:21-22"
+  },
+  "q_forgiveness_012": {
+    "question": "Điền vào chỗ trống: 'Hãy coi chừng. Nếu anh em ngươi phạm tội với ngươi, hãy quở trách người; và nếu người _____, hãy tha thứ cho người.'",
+    "correct": "ăn năn",
+    "wrong": ["xin", "quay lại", "thay đổi"],
+    "hint": "Quay lưng khỏi tội lỗi",
+    "explanation": "Chúa Giê-xu dạy rằng sự ăn năn nên được đáp lại bằng sự tha thứ.",
+    "full_verse": "Hãy coi chừng. Nếu anh em ngươi phạm tội với ngươi, hãy quở trách người; và nếu người ăn năn, hãy tha thứ cho người. Dù người phạm tội với ngươi bảy lần trong một ngày và bảy lần trở lại nói: 'Tôi ăn năn,' ngươi phải tha thứ cho người.",
+    "verse_ref": "Lu-ca 17:3-4"
+  },
+  "q_forgiveness_013": {
+    "question": "Điền vào chỗ trống: 'Đức Chúa Giê-xu nói: \"Lạy Cha, xin tha thứ cho họ, vì họ không biết mình đang _____.\"'",
+    "correct": "làm gì",
+    "wrong": ["nói gì", "nghĩ gì", "gây ra gì"],
+    "hint": "Chúa Giê-xu cầu nguyện điều này trên thập tự giá",
+    "explanation": "Ngay cả khi bị đóng đinh, Chúa Giê-xu cầu xin Cha tha thứ cho những người đóng đinh Ngài.",
+    "full_verse": "Đức Chúa Giê-xu nói: 'Lạy Cha, xin tha thứ cho họ, vì họ không biết mình đang làm gì.' Và họ chia nhau áo Ngài bằng cách bốc thăm.",
+    "verse_ref": "Lu-ca 23:34"
+  },
+  "q_forgiveness_014": {
+    "question": "Điền vào chỗ trống: 'Phi-e-rơ đáp: \"Hãy ăn năn và chịu phép báp-têm, mỗi người trong danh Đức Chúa Giê-xu Christ để được tha tội. Và các ngươi sẽ nhận được món quà là Đức Thánh _____.\"'",
+    "correct": "Linh",
+    "wrong": ["Thần", "Quyền Năng", "Sự Sống"],
+    "hint": "Món quà được hứa sau sự tha thứ",
+    "explanation": "Phi-e-rơ kết nối sự ăn năn và phép báp-têm với sự tha thứ và nhận lãnh Đức Thánh Linh.",
+    "full_verse": "Phi-e-rơ đáp: 'Hãy ăn năn và chịu phép báp-têm, mỗi người trong danh Đức Chúa Giê-xu Christ để được tha tội. Và các ngươi sẽ nhận được món quà là Đức Thánh Linh.'",
+    "verse_ref": "Công Vụ 2:38"
+  },
+  "q_forgiveness_015": {
+    "question": "Điền vào chỗ trống: 'Tất cả các tiên tri đều làm chứng về Ngài rằng ai tin Ngài sẽ nhận được sự tha tội qua _____ Ngài.'",
+    "correct": "danh",
+    "wrong": ["huyết", "sự chết", "ân điển"],
+    "hint": "Sự tha thứ đến qua điều này",
+    "explanation": "Phi-e-rơ tuyên bố rằng sự tha thứ đến qua việc tin vào danh Đức Chúa Giê-xu.",
+    "full_verse": "Tất cả các tiên tri đều làm chứng về Ngài rằng ai tin Ngài sẽ nhận được sự tha tội qua danh Ngài.",
+    "verse_ref": "Công Vụ 10:43"
+  },
+  "q_forgiveness_016": {
+    "question": "Điền vào chỗ trống: 'Vậy, hỡi anh em, tôi muốn anh em biết rằng qua Đức Chúa Giê-xu, sự tha tội được _____ cho anh em.'",
+    "correct": "công bố",
+    "wrong": ["ban cho", "dâng", "hứa"],
+    "hint": "Sứ điệp đang được loan báo",
+    "explanation": "Phao-lô tuyên bố tin lành về sự tha thứ có sẵn qua Đức Chúa Giê-xu.",
+    "full_verse": "Vậy, hỡi anh em, tôi muốn anh em biết rằng qua Đức Chúa Giê-xu, sự tha tội được công bố cho anh em.",
+    "verse_ref": "Công Vụ 13:38"
+  },
+  "q_forgiveness_017": {
+    "question": "Điền vào chỗ trống: 'Phước cho những người có tội lỗi được tha, có tội được _____.'",
+    "correct": "che đậy",
+    "wrong": ["cất đi", "rửa sạch", "quên đi"],
+    "hint": "Tội lỗi được che khuất",
+    "explanation": "Phao-lô trích Đa-vít để mô tả phước lành của những người có tội được tha thứ.",
+    "full_verse": "Phước cho những người có tội lỗi được tha, có tội được che đậy.",
+    "verse_ref": "Rô-ma 4:7"
+  },
+  "q_forgiveness_018": {
+    "question": "Điền vào chỗ trống: 'Đức Chúa Trời đã ở trong Đấng Christ để hòa giải thế gian với chính Ngài, không kể tội lỗi họ. Và Ngài đã giao cho chúng tôi sứ điệp _____.'",
+    "correct": "hòa giải",
+    "wrong": ["tha thứ", "cứu rỗi", "bình an"],
+    "hint": "Sứ điệp về việc được đem trở lại với nhau",
+    "explanation": "Phao-lô giải thích rằng Đức Chúa Trời tha thứ tội lỗi và ban cho các tín hữu sứ điệp hòa giải.",
+    "full_verse": "Đức Chúa Trời đã ở trong Đấng Christ để hòa giải thế gian với chính Ngài, không kể tội lỗi họ. Và Ngài đã giao cho chúng tôi sứ điệp hòa giải.",
+    "verse_ref": "2 Cô-rinh-tô 5:19"
+  },
+  "q_forgiveness_019": {
+    "question": "Điền vào chỗ trống: 'Vì Ta sẽ tha thứ sự gian ác của họ và không còn _____ tội lỗi họ nữa.'",
+    "correct": "nhớ",
+    "wrong": ["ghi", "kể", "giữ"],
+    "hint": "Đức Chúa Trời sẽ không nhắc lại chúng",
+    "explanation": "Đức Chúa Trời hứa sự tha thứ hoàn toàn, chọn không nhớ đến tội đã được tha.",
+    "full_verse": "Vì Ta sẽ tha thứ sự gian ác của họ và không còn nhớ tội lỗi họ nữa.",
+    "verse_ref": "Hê-bơ-rơ 8:12"
+  },
+  "q_forgiveness_020": {
+    "question": "Điền vào chỗ trống: 'Rồi Ngài nói thêm: \"Tội lỗi và sự vi phạm luật pháp của họ, Ta sẽ không còn _____ nữa.\"'",
+    "correct": "nhớ",
+    "wrong": ["ghi", "kể", "giữ"],
+    "hint": "Đức Chúa Trời chọn quên đi",
+    "explanation": "Tác giả Hê-bơ-rơ nhấn mạnh lời hứa của Đức Chúa Trời về việc không nhớ đến tội đã được tha.",
+    "full_verse": "Rồi Ngài nói thêm: 'Tội lỗi và sự vi phạm luật pháp của họ, Ta sẽ không còn nhớ nữa.'",
+    "verse_ref": "Hê-bơ-rơ 10:17"
+  },
+  "q_forgiveness_021": {
+    "question": "Điền vào chỗ trống: 'Lời cầu nguyện bởi đức tin sẽ cứu người bệnh; Chúa sẽ đỡ người dậy. Nếu người đã phạm tội, sẽ được _____.'",
+    "correct": "tha thứ",
+    "wrong": ["chữa lành", "phục hồi", "cứu"],
+    "hint": "Tội lỗi được đề cập cùng với bệnh tật",
+    "explanation": "Gia-cơ kết nối lời cầu nguyện đầy đức tin với cả sự chữa lành và tha thứ.",
+    "full_verse": "Lời cầu nguyện bởi đức tin sẽ cứu người bệnh; Chúa sẽ đỡ người dậy. Nếu người đã phạm tội, sẽ được tha thứ.",
+    "verse_ref": "Gia-cơ 5:15"
+  },
+  "q_forgiveness_022": {
+    "question": "Điền vào chỗ trống: 'Phước cho người có tội lỗi được tha, có tội được _____.'",
+    "correct": "che đậy",
+    "wrong": ["cất đi", "rửa sạch", "quên đi"],
+    "hint": "Tội lỗi được che khuất",
+    "explanation": "Đa-vít ca ngợi phước lành của việc nhận được sự tha thứ từ Đức Chúa Trời.",
+    "full_verse": "Phước cho người có tội lỗi được tha, có tội được che đậy.",
+    "verse_ref": "Thi Thiên 32:1"
+  },
+  "q_forgiveness_023": {
+    "question": "Điền vào chỗ trống: 'Bấy giờ tôi thừa nhận tội lỗi với Ngài và không che giấu sự gian ác của tôi. Tôi nói: \"Tôi sẽ xưng tội với CHÚA.\" Và Ngài tha _____ tội lỗi tôi.'",
+    "correct": "mặc cảm",
+    "wrong": ["gánh nặng", "sức nặng", "vết nhơ"],
+    "hint": "Trách nhiệm đạo đức về tội lỗi",
+    "explanation": "Đa-vít làm chứng rằng việc xưng tội dẫn đến sự tha thứ mặc cảm tội lỗi.",
+    "full_verse": "Bấy giờ tôi thừa nhận tội lỗi với Ngài và không che giấu sự gian ác của tôi. Tôi nói: 'Tôi sẽ xưng tội với CHÚA.' Và Ngài tha mặc cảm tội lỗi tôi.",
+    "verse_ref": "Thi Thiên 32:5"
+  },
+  "q_forgiveness_024": {
+    "question": "Điền vào chỗ trống: 'Xin thương xót tôi, lạy Đức Chúa Trời, theo tình yêu thương bền vững của Ngài; theo lòng _____ lớn lao của Ngài, xin xóa bỏ các vi phạm của tôi.'",
+    "correct": "thương xót",
+    "wrong": ["ân điển", "nhân từ", "tốt lành"],
+    "hint": "Cảm xúc dịu dàng của Đức Chúa Trời đối với chúng ta",
+    "explanation": "Đa-vít cầu xin lòng thương xót của Đức Chúa Trời để được tha thứ tội lỗi.",
+    "full_verse": "Xin thương xót tôi, lạy Đức Chúa Trời, theo tình yêu thương bền vững của Ngài; theo lòng thương xót lớn lao của Ngài, xin xóa bỏ các vi phạm của tôi.",
+    "verse_ref": "Thi Thiên 51:1"
+  },
+  "q_forgiveness_025": {
+    "question": "Điền vào chỗ trống: 'Vì Chúa là thiện, sẵn lòng tha thứ, và giàu lòng _____ với tất cả những ai kêu cầu Ngài.'",
+    "correct": "thương xót",
+    "wrong": ["ân điển", "yêu thương", "nhân từ"],
+    "hint": "Đức Chúa Trời giàu có về phẩm chất này",
+    "explanation": "Đa-vít ca ngợi sự sẵn lòng tha thứ của Đức Chúa Trời và lòng thương xót dư dật của Ngài.",
+    "full_verse": "Vì Chúa là thiện, sẵn lòng tha thứ, và giàu lòng thương xót với tất cả những ai kêu cầu Ngài.",
+    "verse_ref": "Thi Thiên 86:5"
+  },
+  "q_forgiveness_026": {
+    "question": "Điền vào chỗ trống: 'Ngài tha thứ mọi tội lỗi ngươi và chữa lành mọi _____ ngươi.'",
+    "correct": "bệnh tật",
+    "wrong": ["vết thương", "đau ốm", "đau đớn"],
+    "hint": "Các chứng bệnh về thể xác",
+    "explanation": "Đa-vít ca ngợi Đức Chúa Trời vì cả việc tha thứ tội lỗi và chữa lành bệnh tật thể xác.",
+    "full_verse": "Ngài tha thứ mọi tội lỗi ngươi và chữa lành mọi bệnh tật ngươi.",
+    "verse_ref": "Thi Thiên 103:3"
+  },
+  "q_forgiveness_027": {
+    "question": "Điền vào chỗ trống: 'Nhưng Chúa có sự tha thứ, để chúng ta có thể _____ Ngài.'",
+    "correct": "kính sợ",
+    "wrong": ["vui mừng", "yêu thương", "tin cậy"],
+    "hint": "Sự tôn kính thánh khiết đối với Đức Chúa Trời",
+    "explanation": "Tác giả Thi Thiên nhận ra rằng sự tha thứ của Đức Chúa Trời dẫn đến sự phục vụ kính sợ.",
+    "full_verse": "Nhưng Chúa có sự tha thứ, để chúng ta có thể kính sợ Ngài.",
+    "verse_ref": "Thi Thiên 130:4"
+  },
+  "q_forgiveness_028": {
+    "question": "Điền vào chỗ trống: 'Ai muốn nuôi dưỡng tình yêu thì che đậy lỗi lầm, nhưng ai nhắc đi nhắc lại việc ấy làm xa cách _____ thân.'",
+    "correct": "bạn bè",
+    "wrong": ["tấm lòng", "mối ràng buộc", "người thân"],
+    "hint": "Các mối quan hệ bị ảnh hưởng",
+    "explanation": "Sa-lô-môn dạy rằng tình yêu che đậy lỗi lầm thay vì lan truyền chúng.",
+    "full_verse": "Ai muốn nuôi dưỡng tình yêu thì che đậy lỗi lầm, nhưng ai nhắc đi nhắc lại việc ấy làm xa cách bạn bè thân.",
+    "verse_ref": "Châm Ngôn 17:9"
+  },
+  "q_forgiveness_029": {
+    "question": "Điền vào chỗ trống: 'Ta, chính Ta là Đấng xóa bỏ tội lỗi ngươi vì cớ Ta, và Ta không còn _____ tội lỗi ngươi nữa.'",
+    "correct": "nhớ",
+    "wrong": ["ghi", "kể", "giữ"],
+    "hint": "Đức Chúa Trời chọn quên đi",
+    "explanation": "Đức Chúa Trời tuyên bố rằng Ngài tha thứ vì cớ chính Ngài và quên tội lỗi chúng ta.",
+    "full_verse": "Ta, chính Ta là Đấng xóa bỏ tội lỗi ngươi vì cớ Ta, và Ta không còn nhớ tội lỗi ngươi nữa.",
+    "verse_ref": "Ê-sai 43:25"
+  },
+  "q_forgiveness_030": {
+    "question": "Điền vào chỗ trống: 'Kẻ ác hãy bỏ đường lối mình, người bất chính hãy bỏ ý tưởng mình. Hãy trở về với CHÚA, Ngài sẽ _____ họ.'",
+    "correct": "thương xót",
+    "wrong": ["thương hại", "cảm thông", "ân điển"],
+    "hint": "Phản ứng của Đức Chúa Trời đối với sự ăn năn",
+    "explanation": "Ê-sai kêu gọi ăn năn với lời hứa về lòng thương xót và sự tha thứ của Đức Chúa Trời.",
+    "full_verse": "Kẻ ác hãy bỏ đường lối mình, người bất chính hãy bỏ ý tưởng mình. Hãy trở về với CHÚA, Ngài sẽ thương xót họ, và đến với Đức Chúa Trời chúng ta, vì Ngài sẽ tha thứ rộng rãi.",
+    "verse_ref": "Ê-sai 55:7"
+  },
+  "q_forgiveness_031": {
+    "question": "Điền vào chỗ trống: 'Họ sẽ không còn dạy người lân cận hay nói với nhau: \"Hãy biết CHÚA,\" vì tất cả sẽ biết Ta, từ người nhỏ nhất đến người lớn nhất, CHÚA phán. Vì Ta sẽ tha thứ sự gian ác của họ và không còn _____ tội lỗi họ nữa.'",
+    "correct": "nhớ",
+    "wrong": ["ghi nhận", "kể", "giữ"],
+    "hint": "Đức Chúa Trời sẽ không nghĩ đến chúng",
+    "explanation": "Đức Chúa Trời hứa một giao ước mới với sự tha thứ hoàn toàn và sự biết Ngài cá nhân.",
+    "full_verse": "Họ sẽ không còn dạy người lân cận hay nói với nhau: 'Hãy biết CHÚA,' vì tất cả sẽ biết Ta, từ người nhỏ nhất đến người lớn nhất, CHÚA phán. Vì Ta sẽ tha thứ sự gian ác của họ và không còn nhớ tội lỗi họ nữa.",
+    "verse_ref": "Giê-rê-mi 31:34"
+  },
+  "q_forgiveness_032": {
+    "question": "Điền vào chỗ trống: 'Chúa, Đức Chúa Trời chúng tôi, có lòng thương xót và hay tha thứ, dù chúng tôi đã _____ Ngài.'",
+    "correct": "nổi loạn",
+    "wrong": ["phạm tội", "quay lưng", "chống lại"],
+    "hint": "Sự chống đối chủ động với Đức Chúa Trời",
+    "explanation": "Đa-ni-ên thừa nhận sự tha thứ của Đức Chúa Trời bất chấp sự nổi loạn của Y-sơ-ra-ên.",
+    "full_verse": "Chúa, Đức Chúa Trời chúng tôi, có lòng thương xót và hay tha thứ, dù chúng tôi đã nổi loạn chống Ngài.",
+    "verse_ref": "Đa-ni-ên 9:9"
+  },
+  "q_forgiveness_033": {
+    "question": "Điền vào chỗ trống: 'Nhưng nếu anh chị em không tha thứ cho người khác, thì Cha cũng sẽ không tha _____ cho anh chị em.'",
+    "correct": "tội",
+    "wrong": ["nợ", "lỗi", "sai phạm"],
+    "hint": "Điều chúng ta cần được tha thứ",
+    "explanation": "Chúa Giê-xu cảnh báo rằng việc không tha thứ cho người khác ngăn cản sự tha thứ của chính chúng ta.",
+    "full_verse": "Nhưng nếu anh chị em không tha thứ cho người khác, thì Cha cũng sẽ không tha tội cho anh chị em.",
+    "verse_ref": "Ma-thi-ơ 6:15"
+  },
+  "q_forgiveness_034": {
+    "question": "Điền vào chỗ trống: 'Khi Đức Chúa Giê-xu thấy đức tin của họ, Ngài nói với người bại: \"Hỡi con, tội con được _____.\"'",
+    "correct": "tha",
+    "wrong": ["cất đi", "rửa sạch", "xá"],
+    "hint": "Chúa Giê-xu tuyên bố điều này về tội của người ấy",
+    "explanation": "Chúa Giê-xu chứng minh quyền năng tha tội của Ngài bằng cách chữa lành người bại.",
+    "full_verse": "Khi Đức Chúa Giê-xu thấy đức tin của họ, Ngài nói với người bại: 'Hỡi con, tội con được tha.'",
+    "verse_ref": "Ma-thi-ơ 9:2"
+  },
+  "q_forgiveness_035": {
+    "question": "Điền vào chỗ trống: 'Vậy Ta nói với các ngươi: Mọi tội lỗi và lời phạm thượng đều có thể được tha, nhưng phạm thượng Đức Thánh _____ thì không được tha.'",
+    "correct": "Linh",
+    "wrong": ["Cha", "Con", "Chúa"],
+    "hint": "Ngôi thứ ba của Ba Ngôi",
+    "explanation": "Chúa Giê-xu cảnh báo về tội không thể tha thứ là phạm thượng Đức Thánh Linh.",
+    "full_verse": "Vậy Ta nói với các ngươi: Mọi tội lỗi và lời phạm thượng đều có thể được tha, nhưng phạm thượng Đức Thánh Linh thì không được tha.",
+    "verse_ref": "Ma-thi-ơ 12:31"
+  },
+  "q_forgiveness_036": {
+    "question": "Điền vào chỗ trống: 'Đây là huyết Ta của giao ước, đổ ra cho nhiều người để tha _____.'",
+    "correct": "tội",
+    "wrong": ["mọi người", "nhiều người", "các ngươi"],
+    "hint": "Chúa Giê-xu đổ huyết vì mục đích này",
+    "explanation": "Chúa Giê-xu tuyên bố trong Tiệc Ly rằng huyết Ngài mang lại sự tha thứ.",
+    "full_verse": "Đây là huyết Ta của giao ước, đổ ra cho nhiều người để tha tội.",
+    "verse_ref": "Ma-thi-ơ 26:28"
+  },
+  "q_forgiveness_037": {
+    "question": "Điền vào chỗ trống: 'Khi Đức Chúa Giê-xu thấy đức tin của họ, Ngài nói với người bại: \"Hỡi con, tội con được _____.\"'",
+    "correct": "tha",
+    "wrong": ["cất đi", "rửa sạch", "xá"],
+    "hint": "Chúa Giê-xu tuyên bố điều này trước khi chữa lành",
+    "explanation": "Chúa Giê-xu ưu tiên tha tội cho người ấy trước khi chữa lành thân thể.",
+    "full_verse": "Khi Đức Chúa Giê-xu thấy đức tin của họ, Ngài nói với người bại: 'Hỡi con, tội con được tha.'",
+    "verse_ref": "Mác 2:5"
+  },
+  "q_forgiveness_038": {
+    "question": "Điền vào chỗ trống: 'Khi Đức Chúa Giê-xu thấy đức tin của họ, Ngài nói: \"Hỡi bạn, tội bạn được _____.\"'",
+    "correct": "tha",
+    "wrong": ["cất đi", "rửa sạch", "xá"],
+    "hint": "Chúa Giê-xu đề cập đến nhu cầu thuộc linh của người ấy",
+    "explanation": "Lu-ca ghi lại việc Chúa Giê-xu tha tội cho người bại, chứng minh quyền năng thiêng liêng của Ngài.",
+    "full_verse": "Khi Đức Chúa Giê-xu thấy đức tin của họ, Ngài nói: 'Hỡi bạn, tội bạn được tha.'",
+    "verse_ref": "Lu-ca 5:20"
+  },
+  "q_forgiveness_039": {
+    "question": "Điền vào chỗ trống: 'Vậy Ta nói với ngươi, nhiều tội của người này đã được tha—như _____ lớn của người đã cho thấy.'",
+    "correct": "tình yêu",
+    "wrong": ["đức tin", "nước mắt", "sự sùng kính"],
+    "hint": "Cảm xúc của bà cho thấy sự tha thứ đã nhận",
+    "explanation": "Chúa Giê-xu giải thích rằng tình yêu lớn của người phụ nữ là bằng chứng của sự tha thứ bà nhận được.",
+    "full_verse": "Vậy Ta nói với ngươi, nhiều tội của người này đã được tha—như tình yêu lớn của người đã cho thấy. Nhưng ai được tha ít thì yêu ít.",
+    "verse_ref": "Lu-ca 7:47"
+  },
+  "q_forgiveness_040": {
+    "question": "Điền vào chỗ trống: 'Rồi Đức Chúa Giê-xu nói với bà: \"Tội của ngươi được _____.\"'",
+    "correct": "tha",
+    "wrong": ["cất đi", "rửa sạch", "xá"],
+    "hint": "Chúa Giê-xu tuyên bố điều này với người phụ nữ",
+    "explanation": "Chúa Giê-xu đích thân công bố sự tha thứ cho người phụ nữ tội lỗi.",
+    "full_verse": "Rồi Đức Chúa Giê-xu nói với bà: 'Tội của ngươi được tha.'",
+    "verse_ref": "Lu-ca 7:48"
+  },
+  "q_forgiveness_041": {
+    "question": "Điền vào chỗ trống: 'Xin tha tội cho chúng con, vì chúng con cũng tha cho mọi người mắc nợ chúng con. Và xin đừng đem chúng con vào _____.'",
+    "correct": "cám dỗ",
+    "wrong": ["điều ác", "tội lỗi", "nguy hiểm"],
+    "hint": "Chúng ta xin tránh điều này",
+    "explanation": "Chúa Giê-xu dạy các môn đồ cầu xin sự tha thứ và được bảo vệ khỏi cám dỗ.",
+    "full_verse": "Xin tha tội cho chúng con, vì chúng con cũng tha cho mọi người mắc nợ chúng con. Và xin đừng đem chúng con vào cám dỗ.",
+    "verse_ref": "Lu-ca 11:4"
+  },
+  "q_forgiveness_042": {
+    "question": "Điền vào chỗ trống: 'Đức Chúa Trời đã tôn Ngài lên bên hữu Ngài làm Chúa và Cứu Chúa để ban cho Y-sơ-ra-ên sự ăn năn và tha _____.'",
+    "correct": "tội",
+    "wrong": ["nợ", "lỗi", "mặc cảm"],
+    "hint": "Điều Chúa Giê-xu đến để tha thứ",
+    "explanation": "Phi-e-rơ tuyên bố rằng Chúa Giê-xu được tôn cao để mang lại sự ăn năn và tha thứ.",
+    "full_verse": "Đức Chúa Trời đã tôn Ngài lên bên hữu Ngài làm Chúa và Cứu Chúa để ban cho Y-sơ-ra-ên sự ăn năn và tha tội.",
+    "verse_ref": "Công Vụ 5:31"
+  },
+  "q_forgiveness_043": {
+    "question": "Điền vào chỗ trống: 'Để mở mắt họ, đem họ từ bóng tối ra ánh sáng, từ quyền lực của Sa-tan đến với Đức Chúa Trời, hầu cho họ nhận được sự tha tội và một chỗ giữa những người được _____ bởi đức tin nơi Ta.'",
+    "correct": "thánh hóa",
+    "wrong": ["cứu", "ban phước", "chọn"],
+    "hint": "Được làm cho thánh",
+    "explanation": "Phao-lô mô tả sứ mạng của mình là đưa người ta từ bóng tối ra ánh sáng và nhận sự tha thứ.",
+    "full_verse": "Để mở mắt họ, đem họ từ bóng tối ra ánh sáng, từ quyền lực của Sa-tan đến với Đức Chúa Trời, hầu cho họ nhận được sự tha tội và một chỗ giữa những người được thánh hóa bởi đức tin nơi Ta.",
+    "verse_ref": "Công Vụ 26:18"
+  },
+  "q_forgiveness_044": {
+    "question": "Điền vào chỗ trống: 'Trong Ngài chúng ta được cứu chuộc bởi huyết Ngài, được tha tội, theo sự giàu có của _____ Đức Chúa Trời.'",
+    "correct": "ân điển",
+    "wrong": ["tình yêu", "lòng thương xót", "vinh hiển"],
+    "hint": "Ơn huệ không đáng được của Đức Chúa Trời",
+    "explanation": "Phao-lô tuyên bố rằng sự tha thứ đến qua huyết Đấng Christ và ân điển giàu có của Đức Chúa Trời.",
+    "full_verse": "Trong Ngài chúng ta được cứu chuộc bởi huyết Ngài, được tha tội, theo sự giàu có của ân điển Đức Chúa Trời.",
+    "verse_ref": "Ê-phê-sô 1:7"
+  },
+  "q_forgiveness_045": {
+    "question": "Điền vào chỗ trống: 'Trong Ngài chúng ta được cứu chuộc, được tha _____.'",
+    "correct": "tội",
+    "wrong": ["mọi điều", "nợ", "mặc cảm"],
+    "hint": "Điều chúng ta được tha thứ",
+    "explanation": "Phao-lô nói ngắn gọn rằng sự cứu chuộc trong Đấng Christ nghĩa là được tha tội.",
+    "full_verse": "Trong Ngài chúng ta được cứu chuộc, được tha tội.",
+    "verse_ref": "Cô-lô-se 1:14"
+  },
+  "q_forgiveness_046": {
+    "question": "Điền vào chỗ trống: 'Khi anh chị em chết trong tội lỗi và trong sự không cắt bì của xác thịt, Đức Chúa Trời đã làm cho anh chị em sống với Đấng Christ. Ngài đã tha thứ tất cả _____ chúng ta.'",
+    "correct": "tội",
+    "wrong": ["nợ", "lỗi", "sai phạm"],
+    "hint": "Mọi điều chúng ta làm sai",
+    "explanation": "Phao-lô giải thích rằng Đức Chúa Trời làm cho chúng ta sống bằng cách tha thứ tất cả tội lỗi chúng ta qua Đấng Christ.",
+    "full_verse": "Khi anh chị em chết trong tội lỗi và trong sự không cắt bì của xác thịt, Đức Chúa Trời đã làm cho anh chị em sống với Đấng Christ. Ngài đã tha thứ tất cả tội chúng ta.",
+    "verse_ref": "Cô-lô-se 2:13"
+  },
+  "q_forgiveness_047": {
+    "question": "Điền vào chỗ trống: 'Hỡi các con nhỏ, tôi viết điều này cho các con để các con không phạm tội. Nhưng nếu ai phạm tội, chúng ta có một Đấng Biện Hộ với Cha—Đức Chúa Giê-xu Christ, Đấng _____ Chính.'",
+    "correct": "Công",
+    "wrong": ["Thánh", "Thành Tín", "Hằng Sống"],
+    "hint": "Tính cách đạo đức của Chúa Giê-xu",
+    "explanation": "Giăng đảm bảo với các tín hữu rằng Chúa Giê-xu biện hộ cho chúng ta khi chúng ta phạm tội.",
+    "full_verse": "Hỡi các con nhỏ, tôi viết điều này cho các con để các con không phạm tội. Nhưng nếu ai phạm tội, chúng ta có một Đấng Biện Hộ với Cha—Đức Chúa Giê-xu Christ, Đấng Công Chính.",
+    "verse_ref": "1 Giăng 2:1"
+  },
+  "q_forgiveness_048": {
+    "question": "Điền vào chỗ trống: 'Tôi viết cho các con, hỡi các con nhỏ, vì tội lỗi các con đã được tha vì _____ Ngài.'",
+    "correct": "danh",
+    "wrong": ["huyết", "sự chết", "tình yêu"],
+    "hint": "Sự tha thứ đến qua điều này",
+    "explanation": "Giăng nhắc nhở các tín hữu rằng tội lỗi họ được tha qua danh Đức Chúa Giê-xu.",
+    "full_verse": "Tôi viết cho các con, hỡi các con nhỏ, vì tội lỗi các con đã được tha vì danh Ngài.",
+    "verse_ref": "1 Giăng 2:12"
+  },
+  "q_forgiveness_049": {
+    "question": "Điền vào chỗ trống: 'Nếu dân Ta, là dân được gọi bằng danh Ta, hạ mình xuống, cầu nguyện, tìm kiếm mặt Ta và từ bỏ đường lối gian ác, thì Ta sẽ nghe từ trời, tha thứ tội họ và chữa lành _____ họ.'",
+    "correct": "đất",
+    "wrong": ["lòng", "dân tộc", "dân"],
+    "hint": "Đức Chúa Trời hứa phục hồi lãnh thổ của họ",
+    "explanation": "Đức Chúa Trời hứa tha thứ và chữa lành cho dân Ngài khi họ hạ mình và ăn năn.",
+    "full_verse": "Nếu dân Ta, là dân được gọi bằng danh Ta, hạ mình xuống, cầu nguyện, tìm kiếm mặt Ta và từ bỏ đường lối gian ác, thì Ta sẽ nghe từ trời, tha thứ tội họ và chữa lành đất họ.",
+    "verse_ref": "2 Sử Ký 7:14"
+  },
+  "q_forgiveness_050": {
+    "question": "Điền vào chỗ trống: 'CHÚA chậm giận, giàu tình yêu thương và hay tha thứ tội lỗi và sự nổi loạn. Tuy nhiên Ngài không để kẻ có tội không bị phạt; Ngài phạt con cái vì tội của cha mẹ đến đời thứ ba và thứ _____.'",
+    "correct": "tư",
+    "wrong": ["năm", "sáu", "bảy"],
+    "hint": "Hậu quả của tội lỗi tiếp tục qua các dòng dõi gia đình",
+    "explanation": "Môi-se tuyên bố tính cách của Đức Chúa Trời là chậm giận và hay tha thứ, nhưng cũng công bằng.",
+    "full_verse": "CHÚA chậm giận, giàu tình yêu thương và hay tha thứ tội lỗi và sự nổi loạn. Tuy nhiên Ngài không để kẻ có tội không bị phạt; Ngài phạt con cái vì tội của cha mẹ đến đời thứ ba và thứ tư.",
+    "verse_ref": "Dân Số Ký 14:18"
+  }
+}

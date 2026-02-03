@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_strength_001",
+      "question": "Completa el espacio en blanco: 'Todo lo puedo en Cristo que me _____.'",
+      "correct": "fortalece",
+      "wrong": ["ayuda", "sostiene", "guía"],
+      "hint": "Significa dar fuerza",
+      "explanation": "Cristo nos capacita para enfrentar cualquier situación con Su fuerza.",
+      "full_verse": "Todo lo puedo en Cristo que me fortalece.",
+      "verse_ref": "Filipenses 4:13"
+    },
+    {
+      "id": "q_strength_002",
+      "question": "Completa el espacio en blanco: 'Pero los que esperan a Jehová tendrán nuevas fuerzas; levantarán alas como las _____; correrán, y no se cansarán; caminarán, y no se fatigarán.'",
+      "correct": "águilas",
+      "wrong": ["palomas", "ángeles", "aves"],
+      "hint": "Ave poderosa que vuela muy alto",
+      "explanation": "Los que confían en Dios reciben fuerza renovada para elevarse sobre las dificultades.",
+      "full_verse": "Pero los que esperan a Jehová tendrán nuevas fuerzas; levantarán alas como las águilas; correrán, y no se cansarán; caminarán, y no se fatigarán.",
+      "verse_ref": "Isaías 40:31"
+    },
+    {
+      "id": "q_strength_003",
+      "question": "Completa el espacio en blanco: 'Dios es nuestro amparo y fortaleza, nuestro pronto auxilio en las _____.'",
+      "correct": "tribulaciones",
+      "wrong": ["dificultades", "pruebas", "angustias"],
+      "hint": "Momentos de gran aflicción",
+      "explanation": "Dios siempre está disponible como nuestra fuente de fuerza y ayuda.",
+      "full_verse": "Dios es nuestro amparo y fortaleza, nuestro pronto auxilio en las tribulaciones.",
+      "verse_ref": "Salmos 46:1"
+    },
+    {
+      "id": "q_strength_004",
+      "question": "Completa el espacio en blanco: 'Y me ha dicho: Bástate mi gracia; porque mi poder se perfecciona en la _____.'",
+      "correct": "debilidad",
+      "wrong": ["humildad", "fe", "prueba"],
+      "hint": "Lo opuesto a la fuerza",
+      "explanation": "El poder de Dios es más evidente cuando reconocemos nuestras propias limitaciones.",
+      "full_verse": "Y me ha dicho: Bástate mi gracia; porque mi poder se perfecciona en la debilidad.",
+      "verse_ref": "2 Corintios 12:9"
+    },
+    {
+      "id": "q_strength_005",
+      "question": "Completa el espacio en blanco: 'No os entristezcáis, porque el gozo de Jehová es vuestra _____.'",
+      "correct": "fuerza",
+      "wrong": ["esperanza", "paz", "refugio"],
+      "hint": "Capacidad para superar desafíos",
+      "explanation": "Encontrar gozo en el Señor nos da la fuerza para perseverar.",
+      "full_verse": "No os entristezcáis, porque el gozo de Jehová es vuestra fuerza.",
+      "verse_ref": "Nehemías 8:10"
+    },
+    {
+      "id": "q_strength_006",
+      "question": "Completa el espacio en blanco: 'Jehová es mi fortaleza y mi escudo; en él confió mi corazón, y fui ayudado, por lo que se gozó mi corazón, y con mi _____ le alabaré.'",
+      "correct": "cántico",
+      "wrong": ["voz", "alma", "boca"],
+      "hint": "Expresión musical de alabanza",
+      "explanation": "Cuando Dios nos fortalece, nuestra respuesta es alabanza gozosa.",
+      "full_verse": "Jehová es mi fortaleza y mi escudo; en él confió mi corazón, y fui ayudado, por lo que se gozó mi corazón, y con mi cántico le alabaré.",
+      "verse_ref": "Salmos 28:7"
+    },
+    {
+      "id": "q_strength_007",
+      "question": "Completa el espacio en blanco: 'No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sustentaré con la diestra de mi _____.'",
+      "correct": "justicia",
+      "wrong": ["poder", "fuerza", "mano"],
+      "hint": "Rectitud moral de Dios",
+      "explanation": "Dios promete Su presencia, fuerza y apoyo a quienes confían en Él.",
+      "full_verse": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sustentaré con la diestra de mi justicia.",
+      "verse_ref": "Isaías 41:10"
+    },
+    {
+      "id": "q_strength_008",
+      "question": "Completa el espacio en blanco: 'Por lo demás, hermanos míos, fortaleceos en el Señor, y en el poder de su _____.'",
+      "correct": "fuerza",
+      "wrong": ["gracia", "amor", "gloria"],
+      "hint": "Capacidad para actuar",
+      "explanation": "Nuestra fuerza proviene del poder ilimitado del Señor.",
+      "full_verse": "Por lo demás, hermanos míos, fortaleceos en el Señor, y en el poder de su fuerza.",
+      "verse_ref": "Efesios 6:10"
+    },
+    {
+      "id": "q_strength_009",
+      "question": "Completa el espacio en blanco: 'Dios es el que me ciñe de poder, y quien hace _____ mi camino.'",
+      "correct": "perfecto",
+      "wrong": ["seguro", "recto", "claro"],
+      "hint": "Sin defectos",
+      "explanation": "Dios proporciona fuerza y nos mantiene en un camino perfecto.",
+      "full_verse": "Dios es el que me ciñe de poder, y quien hace perfecto mi camino.",
+      "verse_ref": "Salmos 18:32"
+    },
+    {
+      "id": "q_strength_010",
+      "question": "Completa el espacio en blanco: 'Mi carne y mi corazón desfallecen; mas la roca de mi corazón y mi _____ es Dios para siempre.'",
+      "correct": "porción",
+      "wrong": ["esperanza", "refugio", "herencia"],
+      "hint": "Significa parte o asignación",
+      "explanation": "Incluso cuando nuestros cuerpos fallan, Dios sigue siendo nuestra fuente eterna de fuerza.",
+      "full_verse": "Mi carne y mi corazón desfallecen; mas la roca de mi corazón y mi porción es Dios para siempre.",
+      "verse_ref": "Salmos 73:26"
+    },
+    {
+      "id": "q_strength_011",
+      "question": "Completa el espacio en blanco: 'Esforzaos y cobrad ánimo; no temáis, ni tengáis miedo de ellos, porque Jehová tu Dios es el que va contigo; no te dejará, ni te _____.'",
+      "correct": "desamparará",
+      "wrong": ["abandonará", "olvidará", "fallará"],
+      "hint": "Significa dejar sin protección",
+      "explanation": "La presencia constante de Dios nos da fuerza y valor.",
+      "full_verse": "Esforzaos y cobrad ánimo; no temáis, ni tengáis miedo de ellos, porque Jehová tu Dios es el que va contigo; no te dejará, ni te desamparará.",
+      "verse_ref": "Deuteronomio 31:6"
+    },
+    {
+      "id": "q_strength_012",
+      "question": "Completa el espacio en blanco: 'Mira que te mando que te esfuerces y seas _____; no temas ni desmayes, porque Jehová tu Dios estará contigo en dondequiera que vayas.'",
+      "correct": "valiente",
+      "wrong": ["fuerte", "fiel", "firme"],
+      "hint": "Que tiene valor y coraje",
+      "explanation": "Dios nos manda ser fuertes porque Él siempre está con nosotros.",
+      "full_verse": "Mira que te mando que te esfuerces y seas valiente; no temas ni desmayes, porque Jehová tu Dios estará contigo en dondequiera que vayas.",
+      "verse_ref": "Josué 1:9"
+    },
+    {
+      "id": "q_strength_013",
+      "question": "Completa el espacio en blanco: 'Buscad a Jehová y su poder; buscad su _____ continuamente.'",
+      "correct": "rostro",
+      "wrong": ["presencia", "gloria", "ayuda"],
+      "hint": "Representa la presencia de Dios",
+      "explanation": "Debemos buscar continuamente la fuerza y presencia de Dios.",
+      "full_verse": "Buscad a Jehová y su poder; buscad su rostro continuamente.",
+      "verse_ref": "1 Crónicas 16:11"
+    },
+    {
+      "id": "q_strength_014",
+      "question": "Completa el espacio en blanco: 'Te amo, oh Jehová, fortaleza mía. Jehová, roca mía y castillo mío, y mi libertador; Dios mío, fortaleza mía, en él _____.'",
+      "correct": "confiaré",
+      "wrong": ["descansaré", "esperaré", "habitaré"],
+      "hint": "Tener fe en alguien",
+      "explanation": "Dios es nuestra fuente suprema de fuerza y protección.",
+      "full_verse": "Te amo, oh Jehová, fortaleza mía. Jehová, roca mía y castillo mío, y mi libertador; Dios mío, fortaleza mía, en él confiaré.",
+      "verse_ref": "Salmos 18:1-2"
+    },
+    {
+      "id": "q_strength_015",
+      "question": "Completa el espacio en blanco: 'Jehová es mi luz y mi salvación; ¿de quién temeré? Jehová es la fortaleza de mi vida; ¿de quién he de _____?'",
+      "correct": "atemorizarme",
+      "wrong": ["huir", "esconderme", "preocuparme"],
+      "hint": "Sentir miedo",
+      "explanation": "Con Dios como nuestra fuerza, no tenemos razón para temer.",
+      "full_verse": "Jehová es mi luz y mi salvación; ¿de quién temeré? Jehová es la fortaleza de mi vida; ¿de quién he de atemorizarme?",
+      "verse_ref": "Salmos 27:1"
+    },
+    {
+      "id": "q_strength_016",
+      "question": "Completa el espacio en blanco: 'Jehová dará poder a su pueblo; Jehová bendecirá a su pueblo con _____.'",
+      "correct": "paz",
+      "wrong": ["gozo", "esperanza", "amor"],
+      "hint": "Estado de calma y tranquilidad",
+      "explanation": "Dios da a Su pueblo tanto fuerza como paz.",
+      "full_verse": "Jehová dará poder a su pueblo; Jehová bendecirá a su pueblo con paz.",
+      "verse_ref": "Salmos 29:11"
+    },
+    {
+      "id": "q_strength_017",
+      "question": "Completa el espacio en blanco: 'Esforzaos todos vosotros los que _____ en Jehová, y tome aliento vuestro corazón.'",
+      "correct": "esperáis",
+      "wrong": ["confiáis", "creéis", "descansáis"],
+      "hint": "Tener expectativa confiada",
+      "explanation": "Aquellos que esperan en Dios encontrarán fuerza y valor.",
+      "full_verse": "Esforzaos todos vosotros los que esperáis en Jehová, y tome aliento vuestro corazón.",
+      "verse_ref": "Salmos 31:24"
+    },
+    {
+      "id": "q_strength_018",
+      "question": "Completa el espacio en blanco: 'La salvación de los justos es de Jehová, y él es su fortaleza en el tiempo de la _____.'",
+      "correct": "angustia",
+      "wrong": ["necesidad", "prueba", "tribulación"],
+      "hint": "Momento de gran aflicción",
+      "explanation": "Dios es nuestra fortaleza cuando surgen dificultades.",
+      "full_verse": "La salvación de los justos es de Jehová, y él es su fortaleza en el tiempo de la angustia.",
+      "verse_ref": "Salmos 37:39"
+    },
+    {
+      "id": "q_strength_019",
+      "question": "Completa el espacio en blanco: 'Pero yo cantaré de tu poder, y alabaré de mañana tu misericordia; porque has sido mi amparo y _____ en el día de mi angustia.'",
+      "correct": "refugio",
+      "wrong": ["fortaleza", "escudo", "protección"],
+      "hint": "Lugar de protección",
+      "explanation": "Alabamos la fuerza de Dios porque Él es nuestro refugio.",
+      "full_verse": "Pero yo cantaré de tu poder, y alabaré de mañana tu misericordia; porque has sido mi amparo y refugio en el día de mi angustia.",
+      "verse_ref": "Salmos 59:16"
+    },
+    {
+      "id": "q_strength_020",
+      "question": "Completa el espacio en blanco: 'Temible eres, oh Dios, desde tus santuarios; el Dios de Israel, él da fuerza y _____ a su pueblo. Bendito sea Dios.'",
+      "correct": "vigor",
+      "wrong": ["poder", "valor", "victoria"],
+      "hint": "Energía y vitalidad",
+      "explanation": "Dios proporciona a Su pueblo fuerza y vigor.",
+      "full_verse": "Temible eres, oh Dios, desde tus santuarios; el Dios de Israel, él da fuerza y vigor a su pueblo. Bendito sea Dios.",
+      "verse_ref": "Salmos 68:35"
+    },
+    {
+      "id": "q_strength_021",
+      "question": "Completa el espacio en blanco: 'Bienaventurado el hombre que tiene en ti sus fuerzas, en cuyo corazón están tus _____.'",
+      "correct": "caminos",
+      "wrong": ["mandamientos", "palabras", "promesas"],
+      "hint": "Rutas o senderos",
+      "explanation": "Los que encuentran su fuerza en Dios y lo buscan son bendecidos.",
+      "full_verse": "Bienaventurado el hombre que tiene en ti sus fuerzas, en cuyo corazón están tus caminos.",
+      "verse_ref": "Salmos 84:5"
+    },
+    {
+      "id": "q_strength_022",
+      "question": "Completa el espacio en blanco: 'Mi fortaleza y mi cántico es JAH, y él me ha sido por _____.'",
+      "correct": "salvación",
+      "wrong": ["escudo", "refugio", "esperanza"],
+      "hint": "Liberación del peligro",
+      "explanation": "Dios es nuestra fuerza, defensa y fuente de salvación.",
+      "full_verse": "Mi fortaleza y mi cántico es JAH, y él me ha sido por salvación.",
+      "verse_ref": "Salmos 118:14"
+    },
+    {
+      "id": "q_strength_023",
+      "question": "Completa el espacio en blanco: 'El día que clamé, me respondiste; me fortaleciste con _____ en mi alma.'",
+      "correct": "vigor",
+      "wrong": ["fuerza", "paz", "gozo"],
+      "hint": "Energía y vitalidad interior",
+      "explanation": "Dios responde a nuestras oraciones y nos da vigor y fuerza.",
+      "full_verse": "El día que clamé, me respondiste; me fortaleciste con vigor en mi alma.",
+      "verse_ref": "Salmos 138:3"
+    },
+    {
+      "id": "q_strength_024",
+      "question": "Completa el espacio en blanco: 'He aquí Dios es salvación mía; me aseguraré y no temeré; porque mi fortaleza y mi _____ es JAH Jehová, quien ha sido salvación para mí.'",
+      "correct": "canción",
+      "wrong": ["escudo", "refugio", "esperanza"],
+      "hint": "Expresión musical",
+      "explanation": "Dios es tanto nuestra fuerza como nuestra protección.",
+      "full_verse": "He aquí Dios es salvación mía; me aseguraré y no temeré; porque mi fortaleza y mi canción es JAH Jehová, quien ha sido salvación para mí.",
+      "verse_ref": "Isaías 12:2"
+    },
+    {
+      "id": "q_strength_025",
+      "question": "Completa el espacio en blanco: 'El da esfuerzo al cansado, y multiplica las fuerzas al que no tiene _____.'",
+      "correct": "ningunas",
+      "wrong": ["esperanza", "poder", "vigor"],
+      "hint": "Carencia total",
+      "explanation": "Dios fortalece a los cansados y débiles.",
+      "full_verse": "El da esfuerzo al cansado, y multiplica las fuerzas al que no tiene ningunas.",
+      "verse_ref": "Isaías 40:29"
+    },
+    {
+      "id": "q_strength_026",
+      "question": "Completa el espacio en blanco: 'Porque yo Jehová soy tu Dios, quien te sostiene de tu mano derecha, y te dice: No temas, yo te _____.'",
+      "correct": "ayudo",
+      "wrong": ["salvo", "protejo", "guío"],
+      "hint": "Dar asistencia o apoyo",
+      "explanation": "Dios personalmente toma nuestra mano y promete ayudarnos.",
+      "full_verse": "Porque yo Jehová soy tu Dios, quien te sostiene de tu mano derecha, y te dice: No temas, yo te ayudo.",
+      "verse_ref": "Isaías 41:13"
+    },
+    {
+      "id": "q_strength_027",
+      "question": "Completa el espacio en blanco: 'Oh Jehová, fortaleza mía y fuerza mía, y refugio mío en el tiempo de la aflicción, a ti vendrán naciones desde los extremos de la _____.'",
+      "correct": "tierra",
+      "wrong": ["mundo", "mar", "creación"],
+      "hint": "Nuestro planeta",
+      "explanation": "Dios es nuestra fuerza y refugio, y todas las naciones vendrán a Él.",
+      "full_verse": "Oh Jehová, fortaleza mía y fuerza mía, y refugio mío en el tiempo de la aflicción, a ti vendrán naciones desde los extremos de la tierra.",
+      "verse_ref": "Jeremías 16:19"
+    },
+    {
+      "id": "q_strength_028",
+      "question": "Completa el espacio en blanco: 'Jehová el Señor es mi fortaleza, el cual hace mis pies como de ciervas, y en mis alturas me hace _____.'",
+      "correct": "andar",
+      "wrong": ["correr", "subir", "saltar"],
+      "hint": "Moverse a pie",
+      "explanation": "Dios nos da fuerza para superar obstáculos y alcanzar nuevas alturas.",
+      "full_verse": "Jehová el Señor es mi fortaleza, el cual hace mis pies como de ciervas, y en mis alturas me hace andar.",
+      "verse_ref": "Habacuc 3:19"
+    },
+    {
+      "id": "q_strength_029",
+      "question": "Completa el espacio en blanco: 'No con ejército, ni con fuerza, sino con mi _____, ha dicho Jehová de los ejércitos.'",
+      "correct": "Espíritu",
+      "wrong": ["palabra", "mano", "gracia"],
+      "hint": "La tercera persona de la Trinidad",
+      "explanation": "La verdadera fuerza no viene del esfuerzo humano sino del Espíritu de Dios.",
+      "full_verse": "No con ejército, ni con fuerza, sino con mi Espíritu, ha dicho Jehová de los ejércitos.",
+      "verse_ref": "Zacarías 4:6"
+    },
+    {
+      "id": "q_strength_030",
+      "question": "Completa el espacio en blanco: 'Antes, en todas estas cosas somos más que _____ por medio de aquel que nos amó.'",
+      "correct": "vencedores",
+      "wrong": ["victoriosos", "ganadores", "campeones"],
+      "hint": "Los que triunfan sobre los obstáculos",
+      "explanation": "A través del amor de Cristo, tenemos victoria abrumadora.",
+      "full_verse": "Antes, en todas estas cosas somos más que vencedores por medio de aquel que nos amó.",
+      "verse_ref": "Romanos 8:37"
+    },
+    {
+      "id": "q_strength_031",
+      "question": "Completa el espacio en blanco: 'Porque lo insensato de Dios es más sabio que los hombres, y lo _____ de Dios es más fuerte que los hombres.'",
+      "correct": "débil",
+      "wrong": ["humilde", "sencillo", "pequeño"],
+      "hint": "Lo opuesto a fuerte",
+      "explanation": "Incluso la 'debilidad' de Dios supera toda fuerza humana.",
+      "full_verse": "Porque lo insensato de Dios es más sabio que los hombres, y lo débil de Dios es más fuerte que los hombres.",
+      "verse_ref": "1 Corintios 1:25"
+    },
+    {
+      "id": "q_strength_032",
+      "question": "Completa el espacio en blanco: 'No os ha sobrevenido ninguna tentación que no sea humana; pero fiel es Dios, que no os dejará ser tentados más de lo que podéis resistir, sino que dará también juntamente con la tentación la salida, para que podáis _____.'",
+      "correct": "soportar",
+      "wrong": ["vencer", "resistir", "escapar"],
+      "hint": "Aguantar con paciencia",
+      "explanation": "Dios nos da la fuerza para soportar cualquier tentación.",
+      "full_verse": "No os ha sobrevenido ninguna tentación que no sea humana; pero fiel es Dios, que no os dejará ser tentados más de lo que podéis resistir, sino que dará también juntamente con la tentación la salida, para que podáis soportar.",
+      "verse_ref": "1 Corintios 10:13"
+    },
+    {
+      "id": "q_strength_033",
+      "question": "Completa el espacio en blanco: 'Velad, estad firmes en la fe; portaos varonilmente, y _____.'",
+      "correct": "esforzaos",
+      "wrong": ["sed fuertes", "confiad", "perseverad"],
+      "hint": "Poner empeño y vigor",
+      "explanation": "Somos llamados a estar alerta, ser fieles, valientes y fuertes.",
+      "full_verse": "Velad, estad firmes en la fe; portaos varonilmente, y esforzaos.",
+      "verse_ref": "1 Corintios 16:13"
+    },
+    {
+      "id": "q_strength_034",
+      "question": "Completa el espacio en blanco: 'Por lo cual, por amor a Cristo me gozo en las debilidades, en afrentas, en necesidades, en persecuciones, en angustias; porque cuando soy _____, entonces soy fuerte.'",
+      "correct": "débil",
+      "wrong": ["humilde", "pequeño", "pobre"],
+      "hint": "Lo opuesto a fuerte",
+      "explanation": "El poder de Dios se perfecciona en nuestra debilidad.",
+      "full_verse": "Por lo cual, por amor a Cristo me gozo en las debilidades, en afrentas, en necesidades, en persecuciones, en angustias; porque cuando soy débil, entonces soy fuerte.",
+      "verse_ref": "2 Corintios 12:10"
+    },
+    {
+      "id": "q_strength_035",
+      "question": "Completa el espacio en blanco: 'Para que os dé, conforme a las riquezas de su gloria, el ser fortalecidos con poder en el hombre _____ por su Espíritu.'",
+      "correct": "interior",
+      "wrong": ["nuevo", "espiritual", "renovado"],
+      "hint": "La parte interna del ser",
+      "explanation": "Dios nos fortalece espiritualmente desde adentro.",
+      "full_verse": "Para que os dé, conforme a las riquezas de su gloria, el ser fortalecidos con poder en el hombre interior por su Espíritu.",
+      "verse_ref": "Efesios 3:16"
+    },
+    {
+      "id": "q_strength_036",
+      "question": "Completa el espacio en blanco: 'Fortalecidos con todo poder, conforme a la potencia de su gloria, para toda paciencia y longanimidad con _____.'",
+      "correct": "gozo",
+      "wrong": ["fe", "esperanza", "paz"],
+      "hint": "Alegría profunda",
+      "explanation": "El poder de Dios nos permite perseverar con paciencia y gozo.",
+      "full_verse": "Fortalecidos con todo poder, conforme a la potencia de su gloria, para toda paciencia y longanimidad con gozo.",
+      "verse_ref": "Colosenses 1:11"
+    },
+    {
+      "id": "q_strength_037",
+      "question": "Completa el espacio en blanco: 'Porque no nos ha dado Dios espíritu de cobardía, sino de poder, de amor y de _____.'",
+      "correct": "dominio propio",
+      "wrong": ["sabiduría", "valor", "fe"],
+      "hint": "Autocontrol",
+      "explanation": "El Espíritu de Dios nos capacita con poder, amor y dominio propio.",
+      "full_verse": "Porque no nos ha dado Dios espíritu de cobardía, sino de poder, de amor y de dominio propio.",
+      "verse_ref": "2 Timoteo 1:7"
+    },
+    {
+      "id": "q_strength_038",
+      "question": "Completa el espacio en blanco: 'Tú, pues, hijo mío, esfuérzate en la _____ que es en Cristo Jesús.'",
+      "correct": "gracia",
+      "wrong": ["fe", "amor", "fuerza"],
+      "hint": "Favor inmerecido de Dios",
+      "explanation": "Nuestra fuerza proviene de la gracia que se encuentra en Cristo.",
+      "full_verse": "Tú, pues, hijo mío, esfuérzate en la gracia que es en Cristo Jesús.",
+      "verse_ref": "2 Timoteo 2:1"
+    },
+    {
+      "id": "q_strength_039",
+      "question": "Completa el espacio en blanco: 'Pero el Señor estuvo a mi lado, y me dio fuerzas, para que por mí fuese cumplida la predicación, y que todos los _____ oyesen.'",
+      "correct": "gentiles",
+      "wrong": ["pueblos", "hombres", "oyentes"],
+      "hint": "Los no judíos",
+      "explanation": "Dios nos fortalece para cumplir Sus propósitos.",
+      "full_verse": "Pero el Señor estuvo a mi lado, y me dio fuerzas, para que por mí fuese cumplida la predicación, y que todos los gentiles oyesen.",
+      "verse_ref": "2 Timoteo 4:17"
+    },
+    {
+      "id": "q_strength_040",
+      "question": "Completa el espacio en blanco: 'Apagaron fuegos impetuosos, evitaron filo de espada, sacaron fuerzas de debilidad, se hicieron fuertes en batallas, pusieron en fuga _____ extranjeros.'",
+      "correct": "ejércitos",
+      "wrong": ["enemigos", "naciones", "invasores"],
+      "hint": "Fuerzas militares",
+      "explanation": "La fe puede convertir la debilidad en fuerza para la victoria.",
+      "full_verse": "Apagaron fuegos impetuosos, evitaron filo de espada, sacaron fuerzas de debilidad, se hicieron fuertes en batallas, pusieron en fuga ejércitos extranjeros.",
+      "verse_ref": "Hebreos 11:34"
+    },
+    {
+      "id": "q_strength_041",
+      "question": "Completa el espacio en blanco: 'Mas el Dios de toda gracia, que nos llamó a su gloria eterna en Jesucristo, después que hayáis padecido un poco de tiempo, él mismo os perfeccione, afirme, fortalezca y _____.'",
+      "correct": "establezca",
+      "wrong": ["sostenga", "guarde", "proteja"],
+      "hint": "Hacer firme y estable",
+      "explanation": "Dios nos fortalecerá y establecerá después de que soportemos las pruebas.",
+      "full_verse": "Mas el Dios de toda gracia, que nos llamó a su gloria eterna en Jesucristo, después que hayáis padecido un poco de tiempo, él mismo os perfeccione, afirme, fortalezca y establezca.",
+      "verse_ref": "1 Pedro 5:10"
+    },
+    {
+      "id": "q_strength_042",
+      "question": "Completa el espacio en blanco: 'Hijitos, vosotros sois de Dios, y los habéis vencido; porque mayor es el que está en vosotros, que el que está en el _____.'",
+      "correct": "mundo",
+      "wrong": ["pecado", "enemigo", "mal"],
+      "hint": "El sistema contrario a Dios",
+      "explanation": "Dios dentro de nosotros es mayor que cualquier fuerza en el mundo.",
+      "full_verse": "Hijitos, vosotros sois de Dios, y los habéis vencido; porque mayor es el que está en vosotros, que el que está en el mundo.",
+      "verse_ref": "1 Juan 4:4"
+    },
+    {
+      "id": "q_strength_043",
+      "question": "Completa el espacio en blanco: 'Jehová es mi fortaleza y mi cántico, y ha sido mi _____. Este es mi Dios, y lo alabaré; Dios de mi padre, y lo enalteceré.'",
+      "correct": "salvación",
+      "wrong": ["escudo", "refugio", "esperanza"],
+      "hint": "Liberación del peligro",
+      "explanation": "Dios es nuestra fuerza, protección y salvación.",
+      "full_verse": "Jehová es mi fortaleza y mi cántico, y ha sido mi salvación. Este es mi Dios, y lo alabaré; Dios de mi padre, y lo enalteceré.",
+      "verse_ref": "Éxodo 15:2"
+    },
+    {
+      "id": "q_strength_044",
+      "question": "Completa el espacio en blanco: 'Dios es el que me ciñe de fuerza, y quien despeja mi _____.'",
+      "correct": "camino",
+      "wrong": ["sendero", "vida", "mente"],
+      "hint": "Ruta o dirección",
+      "explanation": "Dios proporciona fuerza y nos guía con seguridad.",
+      "full_verse": "Dios es el que me ciñe de fuerza, y quien despeja mi camino.",
+      "verse_ref": "2 Samuel 22:33"
+    },
+    {
+      "id": "q_strength_045",
+      "question": "Completa el espacio en blanco: 'De la boca de los niños y de los que maman, fundaste la fortaleza, a causa de tus enemigos, para hacer callar al enemigo y al _____.'",
+      "correct": "vengativo",
+      "wrong": ["adversario", "malvado", "rebelde"],
+      "hint": "El que busca venganza",
+      "explanation": "La fuerza de Dios se manifiesta incluso a través de la alabanza de los niños.",
+      "full_verse": "De la boca de los niños y de los que maman, fundaste la fortaleza, a causa de tus enemigos, para hacer callar al enemigo y al vengativo.",
+      "verse_ref": "Salmos 8:2"
+    },
+    {
+      "id": "q_strength_046",
+      "question": "Completa el espacio en blanco: 'Sean gratos los dichos de mi boca y la meditación de mi corazón delante de ti, oh Jehová, roca mía, y _____ mío.'",
+      "correct": "redentor",
+      "wrong": ["salvador", "fortaleza", "refugio"],
+      "hint": "El que rescata pagando un precio",
+      "explanation": "Dios es nuestra fuerza (roca) y nuestro Redentor.",
+      "full_verse": "Sean gratos los dichos de mi boca y la meditación de mi corazón delante de ti, oh Jehová, roca mía, y redentor mío.",
+      "verse_ref": "Salmos 19:14"
+    },
+    {
+      "id": "q_strength_047",
+      "question": "Completa el espacio en blanco: 'Mi mano estará siempre con él, mi _____ también lo fortalecerá.'",
+      "correct": "brazo",
+      "wrong": ["mano", "poder", "fuerza"],
+      "hint": "Parte del cuerpo que simboliza fuerza",
+      "explanation": "El brazo de Dios representa Su poder para fortalecer y sostener.",
+      "full_verse": "Mi mano estará siempre con él, mi brazo también lo fortalecerá.",
+      "verse_ref": "Salmos 89:21"
+    },
+    {
+      "id": "q_strength_048",
+      "question": "Completa el espacio en blanco: 'Buscad a Jehová y su poder; buscad _____ su rostro.'",
+      "correct": "siempre",
+      "wrong": ["continuamente", "diariamente", "eternamente"],
+      "hint": "En todo momento",
+      "explanation": "Debemos buscar constantemente la fuerza y presencia de Dios.",
+      "full_verse": "Buscad a Jehová y su poder; buscad siempre su rostro.",
+      "verse_ref": "Salmos 105:4"
+    },
+    {
+      "id": "q_strength_049",
+      "question": "Completa el espacio en blanco: 'Bendito sea Jehová, mi roca, quien adiestra mis manos para la batalla, y mis dedos para la _____.'",
+      "correct": "guerra",
+      "wrong": ["pelea", "lucha", "victoria"],
+      "hint": "Conflicto armado",
+      "explanation": "Dios nos equipa y fortalece para las batallas espirituales.",
+      "full_verse": "Bendito sea Jehová, mi roca, quien adiestra mis manos para la batalla, y mis dedos para la guerra.",
+      "verse_ref": "Salmos 144:1"
+    },
+    {
+      "id": "q_strength_050",
+      "question": "Completa el espacio en blanco: 'El hombre sabio es fuerte, y de pujante vigor el hombre _____.'",
+      "correct": "docto",
+      "wrong": ["prudente", "entendido", "justo"],
+      "hint": "Persona con conocimiento",
+      "explanation": "La sabiduría y el conocimiento aumentan nuestra fuerza.",
+      "full_verse": "El hombre sabio es fuerte, y de pujante vigor el hombre docto.",
+      "verse_ref": "Proverbios 24:5"
+    }
+  ]
+}

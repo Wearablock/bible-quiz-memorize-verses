@@ -1,1 +1,452 @@
-{}
+{
+  "q_forgiveness_001": {
+    "question": "Complete o espaço em branco: 'Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados, e nos _____ de toda a injustiça.'",
+    "correct": "purificar",
+    "wrong": ["limpar", "libertar", "salvar"],
+    "hint": "Deus faz mais do que apenas perdoar",
+    "explanation": "João assegura aos crentes que a confissão leva tanto ao perdão quanto à purificação do pecado.",
+    "full_verse": "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados, e nos purificar de toda a injustiça.",
+    "verse_ref": "1 João 1:9"
+  },
+  "q_forgiveness_002": {
+    "question": "Complete o espaço em branco: 'Antes sede uns para com os outros benignos, misericordiosos, perdoando-vos uns aos outros, como também Deus vos _____ em Cristo.'",
+    "correct": "perdoou",
+    "wrong": ["amou", "salvou", "abençoou"],
+    "hint": "A ação de Deus para conosco é o modelo",
+    "explanation": "Paulo instrui os crentes a perdoar uns aos outros baseado no perdão que receberam de Deus.",
+    "full_verse": "Antes sede uns para com os outros benignos, misericordiosos, perdoando-vos uns aos outros, como também Deus vos perdoou em Cristo.",
+    "verse_ref": "Efésios 4:32"
+  },
+  "q_forgiveness_003": {
+    "question": "Complete o espaço em branco: 'Suportando-vos uns aos outros, e perdoando-vos uns aos outros, se algum tiver queixa contra outro; assim como _____ vos perdoou, assim fazei vós também.'",
+    "correct": "Cristo",
+    "wrong": ["o Pai", "o Senhor", "Deus"],
+    "hint": "Nosso perdão deve espelhar o Dele",
+    "explanation": "Paulo chama os crentes a estender o mesmo perdão que receberam de Cristo.",
+    "full_verse": "Suportando-vos uns aos outros, e perdoando-vos uns aos outros, se algum tiver queixa contra outro; assim como Cristo vos perdoou, assim fazei vós também.",
+    "verse_ref": "Colossenses 3:13"
+  },
+  "q_forgiveness_004": {
+    "question": "Complete o espaço em branco: 'Porque, se perdoardes aos homens as suas ofensas, também vosso _____ celestial vos perdoará a vós.'",
+    "correct": "Pai",
+    "wrong": ["Senhor", "Deus", "Rei"],
+    "hint": "Jesus fala de Deus em termos familiares",
+    "explanation": "Jesus ensina que nossa disposição de perdoar outros está conectada a receber o perdão de Deus.",
+    "full_verse": "Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós.",
+    "verse_ref": "Mateus 6:14"
+  },
+  "q_forgiveness_005": {
+    "question": "Complete o espaço em branco: 'E, quando estiverdes orando, perdoai, se tendes alguma coisa contra alguém, para que vosso Pai, que está nos céus, vos _____ as vossas ofensas.'",
+    "correct": "perdoe",
+    "wrong": ["liberte", "absolva", "abençoe"],
+    "hint": "O que devemos fazer antes da oração",
+    "explanation": "Jesus ensina que o perdão dos outros deve preceder nossas orações.",
+    "full_verse": "E, quando estiverdes orando, perdoai, se tendes alguma coisa contra alguém, para que vosso Pai, que está nos céus, vos perdoe as vossas ofensas.",
+    "verse_ref": "Marcos 11:25"
+  },
+  "q_forgiveness_006": {
+    "question": "Complete o espaço em branco: 'Arrependei-vos, pois, e convertei-vos, para que sejam apagados os vossos pecados, e venham assim os tempos do _____ pela presença do Senhor.'",
+    "correct": "refrigério",
+    "wrong": ["bênção", "cura", "paz"],
+    "hint": "O perdão traz renovação espiritual",
+    "explanation": "Pedro chama ao arrependimento que leva ao perdão e refrigério espiritual.",
+    "full_verse": "Arrependei-vos, pois, e convertei-vos, para que sejam apagados os vossos pecados, e venham assim os tempos do refrigério pela presença do Senhor.",
+    "verse_ref": "Atos 3:19"
+  },
+  "q_forgiveness_007": {
+    "question": "Complete o espaço em branco: 'Quanto está longe o oriente do ocidente, assim afasta de nós as nossas _____.'",
+    "correct": "transgressões",
+    "wrong": ["pecados", "culpas", "vergonhas"],
+    "hint": "Deus separa estas de nós completamente",
+    "explanation": "Davi descreve poeticamente quão completamente Deus remove nossos pecados de nós.",
+    "full_verse": "Quanto está longe o oriente do ocidente, assim afasta de nós as nossas transgressões.",
+    "verse_ref": "Salmos 103:12"
+  },
+  "q_forgiveness_008": {
+    "question": "Complete o espaço em branco: 'Ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a _____.'",
+    "correct": "neve",
+    "wrong": ["lã", "nuvem", "luz"],
+    "hint": "Um símbolo de pureza e limpeza",
+    "explanation": "Deus promete purificação completa, transformando pecados escarlates em branco puro.",
+    "full_verse": "Vinde então, e argui-me, diz o Senhor: ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a neve; ainda que sejam vermelhos como o carmesim, se tornarão como a branca lã.",
+    "verse_ref": "Isaías 1:18"
+  },
+  "q_forgiveness_009": {
+    "question": "Complete o espaço em branco: 'Quem, ó Deus, é semelhante a ti, que perdoas a iniquidade, e que te esqueces da transgressão do _____ da tua herança?'",
+    "correct": "restante",
+    "wrong": ["povo", "filhos", "escolhidos"],
+    "hint": "A porção fiel do povo de Deus",
+    "explanation": "Miqueias celebra a disposição única de Deus em perdoar os pecados de Seu povo.",
+    "full_verse": "Quem, ó Deus, é semelhante a ti, que perdoas a iniquidade, e que te esqueces da transgressão do restante da tua herança? Não retém a sua ira para sempre, porque tem prazer na misericórdia.",
+    "verse_ref": "Miqueias 7:18"
+  },
+  "q_forgiveness_010": {
+    "question": "Complete o espaço em branco: 'Não julgueis, e não sereis julgados; não condeneis, e não sereis condenados; soltai, e sereis _____.'",
+    "correct": "soltos",
+    "wrong": ["abençoados", "salvos", "amados"],
+    "hint": "O que damos, recebemos",
+    "explanation": "Jesus ensina a natureza recíproca do perdão.",
+    "full_verse": "Não julgueis, e não sereis julgados; não condeneis, e não sereis condenados; soltai, e sereis soltos.",
+    "verse_ref": "Lucas 6:37"
+  },
+  "q_forgiveness_011": {
+    "question": "Complete o espaço em branco: 'Então Pedro, aproximando-se dele, disse: Senhor, até quantas vezes pecará meu irmão contra mim, e eu lhe perdoarei? Até sete? Jesus lhe disse: Não te digo que até sete; mas, até setenta vezes _____.'",
+    "correct": "sete",
+    "wrong": ["mais", "além", "sempre"],
+    "hint": "Jesus multiplica o número",
+    "explanation": "Jesus ensina que o perdão deve ser ilimitado, não contado.",
+    "full_verse": "Então Pedro, aproximando-se dele, disse: Senhor, até quantas vezes pecará meu irmão contra mim, e eu lhe perdoarei? Até sete? Jesus lhe disse: Não te digo que até sete; mas, até setenta vezes sete.",
+    "verse_ref": "Mateus 18:21-22"
+  },
+  "q_forgiveness_012": {
+    "question": "Complete o espaço em branco: 'Olhai por vós mesmos. E, se teu irmão pecar contra ti, repreende-o e, se ele se _____, perdoa-lhe.'",
+    "correct": "arrepender",
+    "wrong": ["pedir", "retornar", "mudar"],
+    "hint": "Uma virada do pecado",
+    "explanation": "Jesus ensina que o arrependimento deve ser recebido com perdão.",
+    "full_verse": "Olhai por vós mesmos. E, se teu irmão pecar contra ti, repreende-o e, se ele se arrepender, perdoa-lhe. E, se pecar contra ti sete vezes no dia, e sete vezes no dia vier ter contigo, dizendo: Arrependo-me; perdoa-lhe.",
+    "verse_ref": "Lucas 17:3-4"
+  },
+  "q_forgiveness_013": {
+    "question": "Complete o espaço em branco: 'E dizia Jesus: Pai, perdoa-lhes, porque não sabem o que _____.'",
+    "correct": "fazem",
+    "wrong": ["dizem", "pensam", "causam"],
+    "hint": "Jesus orou isto na cruz",
+    "explanation": "Mesmo sendo crucificado, Jesus pediu ao Pai que perdoasse aqueles que O crucificaram.",
+    "full_verse": "E dizia Jesus: Pai, perdoa-lhes, porque não sabem o que fazem. E, repartindo as suas vestes, lançaram sortes.",
+    "verse_ref": "Lucas 23:34"
+  },
+  "q_forgiveness_014": {
+    "question": "Complete o espaço em branco: 'E disse-lhes Pedro: Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo, para perdão dos pecados; e recebereis o dom do Espírito _____.'",
+    "correct": "Santo",
+    "wrong": ["de Deus", "Divino", "da Vida"],
+    "hint": "O dom prometido após o perdão",
+    "explanation": "Pedro conecta arrependimento e batismo com perdão e recebimento do Espírito Santo.",
+    "full_verse": "E disse-lhes Pedro: Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo, para perdão dos pecados; e recebereis o dom do Espírito Santo.",
+    "verse_ref": "Atos 2:38"
+  },
+  "q_forgiveness_015": {
+    "question": "Complete o espaço em branco: 'A este dão testemunho todos os profetas, de que todos os que nele creem receberão o perdão dos pecados pelo seu _____.'",
+    "correct": "nome",
+    "wrong": ["sangue", "morte", "graça"],
+    "hint": "O perdão vem através disto",
+    "explanation": "Pedro declara que o perdão vem através de crer no nome de Jesus.",
+    "full_verse": "A este dão testemunho todos os profetas, de que todos os que nele creem receberão o perdão dos pecados pelo seu nome.",
+    "verse_ref": "Atos 10:43"
+  },
+  "q_forgiveness_016": {
+    "question": "Complete o espaço em branco: 'Seja-vos, pois, notório, varões irmãos, que por este se vos _____ a remissão dos pecados.'",
+    "correct": "anuncia",
+    "wrong": ["dá", "oferece", "promete"],
+    "hint": "A mensagem está sendo proclamada",
+    "explanation": "Paulo declara as boas novas do perdão disponível através de Jesus.",
+    "full_verse": "Seja-vos, pois, notório, varões irmãos, que por este se vos anuncia a remissão dos pecados.",
+    "verse_ref": "Atos 13:38"
+  },
+  "q_forgiveness_017": {
+    "question": "Complete o espaço em branco: 'Bem-aventurados aqueles cujas maldades são perdoadas, e cujos pecados são _____.'",
+    "correct": "cobertos",
+    "wrong": ["removidos", "limpos", "esquecidos"],
+    "hint": "Pecados são escondidos da vista",
+    "explanation": "Paulo cita Davi para descrever a bem-aventurança daqueles cujos pecados são perdoados.",
+    "full_verse": "Bem-aventurados aqueles cujas maldades são perdoadas, e cujos pecados são cobertos.",
+    "verse_ref": "Romanos 4:7"
+  },
+  "q_forgiveness_018": {
+    "question": "Complete o espaço em branco: 'Isto é, Deus estava em Cristo reconciliando consigo o mundo, não lhes imputando os seus pecados; e pôs em nós a palavra da _____.'",
+    "correct": "reconciliação",
+    "wrong": ["perdão", "salvação", "paz"],
+    "hint": "A mensagem de ser reunido novamente",
+    "explanation": "Paulo explica que Deus perdoa pecados e dá aos crentes a mensagem da reconciliação.",
+    "full_verse": "Isto é, Deus estava em Cristo reconciliando consigo o mundo, não lhes imputando os seus pecados; e pôs em nós a palavra da reconciliação.",
+    "verse_ref": "2 Coríntios 5:19"
+  },
+  "q_forgiveness_019": {
+    "question": "Complete o espaço em branco: 'Porque serei misericordioso para com as suas iniquidades, e de seus pecados e de suas prevaricações não me lembrarei _____.'",
+    "correct": "mais",
+    "wrong": ["jamais", "nunca", "além"],
+    "hint": "Deus não os recordará",
+    "explanation": "Deus promete perdão completo, escolhendo não lembrar dos pecados perdoados.",
+    "full_verse": "Porque serei misericordioso para com as suas iniquidades, e de seus pecados e de suas prevaricações não me lembrarei mais.",
+    "verse_ref": "Hebreus 8:12"
+  },
+  "q_forgiveness_020": {
+    "question": "Complete o espaço em branco: 'E não me lembrarei _____ de seus pecados e de suas iniquidades.'",
+    "correct": "mais",
+    "wrong": ["jamais", "nunca", "além"],
+    "hint": "Deus escolhe esquecer",
+    "explanation": "O escritor de Hebreus enfatiza a promessa de Deus de não lembrar dos pecados perdoados.",
+    "full_verse": "E não me lembrarei mais de seus pecados e de suas iniquidades.",
+    "verse_ref": "Hebreus 10:17"
+  },
+  "q_forgiveness_021": {
+    "question": "Complete o espaço em branco: 'E a oração da fé salvará o doente, e o Senhor o levantará; e, se houver cometido pecados, ser-lhe-ão _____.'",
+    "correct": "perdoados",
+    "wrong": ["curados", "restaurados", "salvos"],
+    "hint": "O pecado é tratado junto com a doença",
+    "explanation": "Tiago conecta a oração de fé tanto com a cura quanto com o perdão.",
+    "full_verse": "E a oração da fé salvará o doente, e o Senhor o levantará; e, se houver cometido pecados, ser-lhe-ão perdoados.",
+    "verse_ref": "Tiago 5:15"
+  },
+  "q_forgiveness_022": {
+    "question": "Complete o espaço em branco: 'Bem-aventurado aquele cuja transgressão é perdoada, e cujo pecado é _____.'",
+    "correct": "coberto",
+    "wrong": ["removido", "limpo", "esquecido"],
+    "hint": "Pecados são escondidos da vista",
+    "explanation": "Davi celebra a bem-aventurança de receber perdão de Deus.",
+    "full_verse": "Bem-aventurado aquele cuja transgressão é perdoada, e cujo pecado é coberto.",
+    "verse_ref": "Salmos 32:1"
+  },
+  "q_forgiveness_023": {
+    "question": "Complete o espaço em branco: 'Confessei-te o meu pecado, e a minha maldade não encobri. Dizia eu: Confessarei ao Senhor as minhas transgressões; e tu perdoaste a _____ do meu pecado.'",
+    "correct": "maldade",
+    "wrong": ["peso", "carga", "mancha"],
+    "hint": "A responsabilidade moral pelo pecado",
+    "explanation": "Davi testifica que a confissão leva ao perdão da culpa.",
+    "full_verse": "Confessei-te o meu pecado, e a minha maldade não encobri. Dizia eu: Confessarei ao Senhor as minhas transgressões; e tu perdoaste a maldade do meu pecado.",
+    "verse_ref": "Salmos 32:5"
+  },
+  "q_forgiveness_024": {
+    "question": "Complete o espaço em branco: 'Tem misericórdia de mim, ó Deus, segundo a tua benignidade; apaga as minhas transgressões, segundo a multidão das tuas _____.'",
+    "correct": "misericórdias",
+    "wrong": ["graças", "bênçãos", "bondades"],
+    "hint": "O sentimento terno de Deus para conosco",
+    "explanation": "Davi apela às misericórdias de Deus para o perdão de seus pecados.",
+    "full_verse": "Tem misericórdia de mim, ó Deus, segundo a tua benignidade; apaga as minhas transgressões, segundo a multidão das tuas misericórdias.",
+    "verse_ref": "Salmos 51:1"
+  },
+  "q_forgiveness_025": {
+    "question": "Complete o espaço em branco: 'Pois tu, Senhor, és bom, e pronto a perdoar, e abundante em _____ para todos os que te invocam.'",
+    "correct": "benignidade",
+    "wrong": ["graça", "amor", "bondade"],
+    "hint": "Deus é rico nesta qualidade",
+    "explanation": "Davi louva a prontidão de Deus em perdoar e Sua abundante benignidade.",
+    "full_verse": "Pois tu, Senhor, és bom, e pronto a perdoar, e abundante em benignidade para todos os que te invocam.",
+    "verse_ref": "Salmos 86:5"
+  },
+  "q_forgiveness_026": {
+    "question": "Complete o espaço em branco: 'Quem perdoa todas as tuas iniquidades, quem sara todas as tuas _____.'",
+    "correct": "enfermidades",
+    "wrong": ["feridas", "doenças", "dores"],
+    "hint": "Enfermidades físicas",
+    "explanation": "Davi louva a Deus tanto por perdoar pecados quanto por curar enfermidades físicas.",
+    "full_verse": "Quem perdoa todas as tuas iniquidades, quem sara todas as tuas enfermidades.",
+    "verse_ref": "Salmos 103:3"
+  },
+  "q_forgiveness_027": {
+    "question": "Complete o espaço em branco: 'Mas contigo está o perdão, para que sejas _____.'",
+    "correct": "temido",
+    "wrong": ["amado", "servido", "adorado"],
+    "hint": "Santo respeito por Deus",
+    "explanation": "O salmista reconhece que o perdão de Deus leva ao temor reverente.",
+    "full_verse": "Mas contigo está o perdão, para que sejas temido.",
+    "verse_ref": "Salmos 130:4"
+  },
+  "q_forgiveness_028": {
+    "question": "Complete o espaço em branco: 'O que encobre a transgressão busca a amizade, mas o que revolve o assunto separa os _____.'",
+    "correct": "amigos",
+    "wrong": ["corações", "laços", "pessoas"],
+    "hint": "Relacionamentos são afetados",
+    "explanation": "Salomão ensina que o amor cobre ofensas em vez de espalhá-las.",
+    "full_verse": "O que encobre a transgressão busca a amizade, mas o que revolve o assunto separa os amigos íntimos.",
+    "verse_ref": "Provérbios 17:9"
+  },
+  "q_forgiveness_029": {
+    "question": "Complete o espaço em branco: 'Eu, eu mesmo, sou o que apago as tuas transgressões por amor de mim, e dos teus pecados não me _____.'",
+    "correct": "lembro",
+    "wrong": ["recordo", "esqueço", "ocupo"],
+    "hint": "Deus escolhe esquecer",
+    "explanation": "Deus declara que Ele perdoa por Sua própria causa e esquece nossos pecados.",
+    "full_verse": "Eu, eu mesmo, sou o que apago as tuas transgressões por amor de mim, e dos teus pecados não me lembro.",
+    "verse_ref": "Isaías 43:25"
+  },
+  "q_forgiveness_030": {
+    "question": "Complete o espaço em branco: 'Deixe o ímpio o seu caminho, e o homem maligno os seus pensamentos, e se converta ao Senhor, que se compadecerá dele; torne para o nosso Deus, porque grandioso é em _____.'",
+    "correct": "perdoar",
+    "wrong": ["piedade", "compaixão", "graça"],
+    "hint": "A resposta de Deus ao arrependimento",
+    "explanation": "Isaías chama ao arrependimento com a promessa da misericórdia e perdão de Deus.",
+    "full_verse": "Deixe o ímpio o seu caminho, e o homem maligno os seus pensamentos, e se converta ao Senhor, que se compadecerá dele; torne para o nosso Deus, porque grandioso é em perdoar.",
+    "verse_ref": "Isaías 55:7"
+  },
+  "q_forgiveness_031": {
+    "question": "Complete o espaço em branco: 'Porque lhes perdoarei a sua maldade, e nunca mais me _____ dos seus pecados.'",
+    "correct": "lembrarei",
+    "wrong": ["recordarei", "ocuparei", "esquecerei"],
+    "hint": "Deus não os trará à mente",
+    "explanation": "Deus promete uma nova aliança com perdão completo e conhecimento pessoal Dele.",
+    "full_verse": "Porque lhes perdoarei a sua maldade, e nunca mais me lembrarei dos seus pecados.",
+    "verse_ref": "Jeremias 31:34"
+  },
+  "q_forgiveness_032": {
+    "question": "Complete o espaço em branco: 'Ao Senhor nosso Deus pertence a misericórdia e o perdão; pois nos _____ contra ele.'",
+    "correct": "rebelamos",
+    "wrong": ["pecamos", "viramos", "lutamos"],
+    "hint": "Oposição ativa a Deus",
+    "explanation": "Daniel reconhece o perdão de Deus apesar da rebelião de Israel.",
+    "full_verse": "Ao Senhor nosso Deus pertence a misericórdia e o perdão; pois nos rebelamos contra ele.",
+    "verse_ref": "Daniel 9:9"
+  },
+  "q_forgiveness_033": {
+    "question": "Complete o espaço em branco: 'Se, porém, não perdoardes aos homens as suas ofensas, também vosso Pai vos não perdoará as vossas _____.'",
+    "correct": "ofensas",
+    "wrong": ["dívidas", "erros", "faltas"],
+    "hint": "O que precisamos que seja perdoado",
+    "explanation": "Jesus adverte que a falta de perdão para com outros bloqueia nosso próprio perdão.",
+    "full_verse": "Se, porém, não perdoardes aos homens as suas ofensas, também vosso Pai vos não perdoará as vossas ofensas.",
+    "verse_ref": "Mateus 6:15"
+  },
+  "q_forgiveness_034": {
+    "question": "Complete o espaço em branco: 'E Jesus, vendo a fé deles, disse ao paralítico: Filho, perdoados estão os teus _____.'",
+    "correct": "pecados",
+    "wrong": ["erros", "males", "faltas"],
+    "hint": "Jesus declarou isto sobre os pecados do homem",
+    "explanation": "Jesus demonstrou Sua autoridade para perdoar pecados ao curar o paralítico.",
+    "full_verse": "E Jesus, vendo a fé deles, disse ao paralítico: Filho, perdoados estão os teus pecados.",
+    "verse_ref": "Mateus 9:2"
+  },
+  "q_forgiveness_035": {
+    "question": "Complete o espaço em branco: 'Portanto, eu vos digo: Todo o pecado e blasfêmia se perdoará aos homens; mas a blasfêmia contra o _____ não será perdoada aos homens.'",
+    "correct": "Espírito",
+    "wrong": ["Pai", "Filho", "Senhor"],
+    "hint": "A terceira pessoa da Trindade",
+    "explanation": "Jesus adverte sobre o pecado imperdoável de blasfemar contra o Espírito Santo.",
+    "full_verse": "Portanto, eu vos digo: Todo o pecado e blasfêmia se perdoará aos homens; mas a blasfêmia contra o Espírito não será perdoada aos homens.",
+    "verse_ref": "Mateus 12:31"
+  },
+  "q_forgiveness_036": {
+    "question": "Complete o espaço em branco: 'Porque isto é o meu sangue, o sangue do novo testamento, que é derramado por muitos, para remissão dos _____.'",
+    "correct": "pecados",
+    "wrong": ["todos", "muitos", "vós"],
+    "hint": "Jesus derramou Seu sangue para este propósito",
+    "explanation": "Jesus declara na Última Ceia que Seu sangue traz perdão.",
+    "full_verse": "Porque isto é o meu sangue, o sangue do novo testamento, que é derramado por muitos, para remissão dos pecados.",
+    "verse_ref": "Mateus 26:28"
+  },
+  "q_forgiveness_037": {
+    "question": "Complete o espaço em branco: 'E Jesus, vendo-lhes a fé, disse ao paralítico: Filho, perdoados estão os teus _____.'",
+    "correct": "pecados",
+    "wrong": ["erros", "males", "faltas"],
+    "hint": "Jesus declarou isto primeiro antes de curar",
+    "explanation": "Jesus priorizou perdoar os pecados do homem antes de curar seu corpo.",
+    "full_verse": "E Jesus, vendo-lhes a fé, disse ao paralítico: Filho, perdoados estão os teus pecados.",
+    "verse_ref": "Marcos 2:5"
+  },
+  "q_forgiveness_038": {
+    "question": "Complete o espaço em branco: 'E, vendo ele a fé deles, disse-lhe: Homem, os teus pecados te são _____.'",
+    "correct": "perdoados",
+    "wrong": ["removidos", "limpos", "absolvidos"],
+    "hint": "Jesus tratou da necessidade espiritual do homem",
+    "explanation": "Lucas registra Jesus perdoando os pecados do paralítico, demonstrando Sua autoridade divina.",
+    "full_verse": "E, vendo ele a fé deles, disse-lhe: Homem, os teus pecados te são perdoados.",
+    "verse_ref": "Lucas 5:20"
+  },
+  "q_forgiveness_039": {
+    "question": "Complete o espaço em branco: 'Por isso te digo que os seus muitos pecados lhe são perdoados, porque muito _____.'",
+    "correct": "amou",
+    "wrong": ["creu", "chorou", "devotou"],
+    "hint": "Sua emoção demonstrou o perdão recebido",
+    "explanation": "Jesus explica que o grande amor da mulher era evidência de seu perdão.",
+    "full_verse": "Por isso te digo que os seus muitos pecados lhe são perdoados, porque muito amou; mas aquele a quem pouco é perdoado pouco ama.",
+    "verse_ref": "Lucas 7:47"
+  },
+  "q_forgiveness_040": {
+    "question": "Complete o espaço em branco: 'E disse-lhe a ela: Os teus pecados te são _____.'",
+    "correct": "perdoados",
+    "wrong": ["removidos", "limpos", "absolvidos"],
+    "hint": "Jesus declarou isto à mulher",
+    "explanation": "Jesus pessoalmente pronunciou perdão à mulher pecadora.",
+    "full_verse": "E disse-lhe a ela: Os teus pecados te são perdoados.",
+    "verse_ref": "Lucas 7:48"
+  },
+  "q_forgiveness_041": {
+    "question": "Complete o espaço em branco: 'E perdoa-nos os nossos pecados, pois também nós perdoamos a qualquer que nos deve; e não nos conduzas em _____.'",
+    "correct": "tentação",
+    "wrong": ["mal", "pecado", "perigo"],
+    "hint": "Pedimos para evitar isto",
+    "explanation": "Jesus ensina Seus discípulos a orar por perdão e proteção contra a tentação.",
+    "full_verse": "E perdoa-nos os nossos pecados, pois também nós perdoamos a qualquer que nos deve; e não nos conduzas em tentação, mas livra-nos do mal.",
+    "verse_ref": "Lucas 11:4"
+  },
+  "q_forgiveness_042": {
+    "question": "Complete o espaço em branco: 'Deus com a sua destra o elevou a Príncipe e Salvador, para dar a Israel o arrependimento e a remissão dos _____.'",
+    "correct": "pecados",
+    "wrong": ["dívidas", "erros", "culpas"],
+    "hint": "O que Jesus veio perdoar",
+    "explanation": "Pedro declara que Jesus foi exaltado para trazer arrependimento e perdão.",
+    "full_verse": "Deus com a sua destra o elevou a Príncipe e Salvador, para dar a Israel o arrependimento e a remissão dos pecados.",
+    "verse_ref": "Atos 5:31"
+  },
+  "q_forgiveness_043": {
+    "question": "Complete o espaço em branco: 'Para lhes abrires os olhos, e das trevas os converteres à luz, e do poder de Satanás a Deus; a fim de que recebam a remissão de pecados, e herança entre os que são _____ pela fé em mim.'",
+    "correct": "santificados",
+    "wrong": ["salvos", "abençoados", "escolhidos"],
+    "hint": "Feitos santos",
+    "explanation": "Paulo descreve sua missão de trazer pessoas das trevas à luz e ao perdão.",
+    "full_verse": "Para lhes abrires os olhos, e das trevas os converteres à luz, e do poder de Satanás a Deus; a fim de que recebam a remissão de pecados, e herança entre os que são santificados pela fé em mim.",
+    "verse_ref": "Atos 26:18"
+  },
+  "q_forgiveness_044": {
+    "question": "Complete o espaço em branco: 'Em quem temos a redenção pelo seu sangue, a remissão das ofensas, segundo as riquezas da sua _____.'",
+    "correct": "graça",
+    "wrong": ["amor", "misericórdia", "glória"],
+    "hint": "O favor imerecido de Deus",
+    "explanation": "Paulo declara que o perdão vem através do sangue de Cristo e da rica graça de Deus.",
+    "full_verse": "Em quem temos a redenção pelo seu sangue, a remissão das ofensas, segundo as riquezas da sua graça.",
+    "verse_ref": "Efésios 1:7"
+  },
+  "q_forgiveness_045": {
+    "question": "Complete o espaço em branco: 'Em quem temos a redenção, a saber, a remissão dos _____.'",
+    "correct": "pecados",
+    "wrong": ["todos", "dívidas", "culpas"],
+    "hint": "Do que somos perdoados",
+    "explanation": "Paulo declara sucintamente que a redenção em Cristo significa perdão dos pecados.",
+    "full_verse": "Em quem temos a redenção pelo seu sangue, a saber, a remissão dos pecados.",
+    "verse_ref": "Colossenses 1:14"
+  },
+  "q_forgiveness_046": {
+    "question": "Complete o espaço em branco: 'E, quando vós estáveis mortos nos pecados, e na incircuncisão da vossa carne, vos vivificou juntamente com ele, perdoando-vos todas as _____.'",
+    "correct": "ofensas",
+    "wrong": ["dívidas", "erros", "faltas"],
+    "hint": "Tudo o que fizemos de errado",
+    "explanation": "Paulo explica que Deus nos vivificou perdoando todos os nossos pecados através de Cristo.",
+    "full_verse": "E, quando vós estáveis mortos nos pecados, e na incircuncisão da vossa carne, vos vivificou juntamente com ele, perdoando-vos todas as ofensas.",
+    "verse_ref": "Colossenses 2:13"
+  },
+  "q_forgiveness_047": {
+    "question": "Complete o espaço em branco: 'Meus filhinhos, estas coisas vos escrevo, para que não pequeis; e, se alguém pecar, temos um Advogado para com o Pai, Jesus Cristo, o _____.'",
+    "correct": "Justo",
+    "wrong": ["Santo", "Fiel", "Vivente"],
+    "hint": "O caráter moral de Jesus",
+    "explanation": "João assegura aos crentes que Jesus advoga por nós quando pecamos.",
+    "full_verse": "Meus filhinhos, estas coisas vos escrevo, para que não pequeis; e, se alguém pecar, temos um Advogado para com o Pai, Jesus Cristo, o Justo.",
+    "verse_ref": "1 João 2:1"
+  },
+  "q_forgiveness_048": {
+    "question": "Complete o espaço em branco: 'Filhinhos, escrevo-vos, porque pelo seu _____ vos são perdoados os pecados.'",
+    "correct": "nome",
+    "wrong": ["sangue", "morte", "amor"],
+    "hint": "O perdão vem através disto",
+    "explanation": "João lembra aos crentes que seus pecados são perdoados através do nome de Jesus.",
+    "full_verse": "Filhinhos, escrevo-vos, porque pelo seu nome vos são perdoados os pecados.",
+    "verse_ref": "1 João 2:12"
+  },
+  "q_forgiveness_049": {
+    "question": "Complete o espaço em branco: 'E se o meu povo, que se chama pelo meu nome, se humilhar, e orar, e buscar a minha face e se converter dos seus maus caminhos, então eu ouvirei dos céus, e perdoarei os seus pecados, e sararei a sua _____.'",
+    "correct": "terra",
+    "wrong": ["corações", "nação", "povo"],
+    "hint": "Deus promete restaurar seu território",
+    "explanation": "Deus promete perdão e cura ao Seu povo que se humilha e se arrepende.",
+    "full_verse": "E se o meu povo, que se chama pelo meu nome, se humilhar, e orar, e buscar a minha face e se converter dos seus maus caminhos, então eu ouvirei dos céus, e perdoarei os seus pecados, e sararei a sua terra.",
+    "verse_ref": "2 Crônicas 7:14"
+  },
+  "q_forgiveness_050": {
+    "question": "Complete o espaço em branco: 'O Senhor é longânimo, e grande em misericórdia, que perdoa a iniquidade e a transgressão, que o culpado não tem por inocente, e visita a iniquidade dos pais sobre os filhos até a terceira e quarta _____.'",
+    "correct": "geração",
+    "wrong": ["nível", "grau", "extensão"],
+    "hint": "Os efeitos do pecado continuam através das linhagens familiares",
+    "explanation": "Moisés declara o caráter de Deus como tardio em irar-se e perdoador, mas justo.",
+    "full_verse": "O Senhor é longânimo, e grande em misericórdia, que perdoa a iniquidade e a transgressão, que o culpado não tem por inocente, e visita a iniquidade dos pais sobre os filhos até a terceira e quarta geração.",
+    "verse_ref": "Números 14:18"
+  }
+}

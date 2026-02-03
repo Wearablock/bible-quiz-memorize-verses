@@ -1,1 +1,452 @@
-{}
+{
+  "q_prayer_001": {
+    "question": "Điền vào chỗ trống: 'Chớ lo phiền chi hết, nhưng trong mọi sự hãy dùng lời cầu nguyện, nài xin, và sự tạ ơn mà trình các sự cầu xin của mình cho _____.'",
+    "correct": "Đức Chúa Trời",
+    "wrong": ["thiên đàng", "Chúa", "Chúa Giê-xu"],
+    "hint": "Chúng ta dâng lời cầu xin lên Ngài",
+    "explanation": "Phao-lô dạy các tín đồ thay thế lo lắng bằng sự cầu nguyện và tạ ơn Đức Chúa Trời.",
+    "full_verse": "Chớ lo phiền chi hết, nhưng trong mọi sự hãy dùng lời cầu nguyện, nài xin, và sự tạ ơn mà trình các sự cầu xin của mình cho Đức Chúa Trời.",
+    "verse_ref": "Phi-líp 4:6"
+  },
+  "q_prayer_002": {
+    "question": "Điền vào chỗ trống: 'Cầu nguyện không _____.'",
+    "correct": "thôi",
+    "wrong": ["ngừng", "dứt", "nghỉ"],
+    "hint": "Cầu nguyện liên tục",
+    "explanation": "Phao-lô đưa ra mệnh lệnh ngắn gọn nhưng sâu sắc nhất về cầu nguyện—đừng bao giờ ngừng cầu nguyện.",
+    "full_verse": "Cầu nguyện không thôi.",
+    "verse_ref": "1 Tê-sa-lô-ni-ca 5:17"
+  },
+  "q_prayer_003": {
+    "question": "Điền vào chỗ trống: 'Vậy các ngươi hãy cầu như vầy: Lạy Cha chúng tôi ở trên trời, danh Cha được tôn _____.'",
+    "correct": "thánh",
+    "wrong": ["kính", "cao", "vinh"],
+    "hint": "Điều cần được tôn kính là thánh",
+    "explanation": "Chúa Giê-xu bắt đầu Bài cầu nguyện chung bằng cách dạy chúng ta tôn danh Đức Chúa Trời là thánh.",
+    "full_verse": "Vậy các ngươi hãy cầu như vầy: Lạy Cha chúng tôi ở trên trời, danh Cha được tôn thánh.",
+    "verse_ref": "Ma-thi-ơ 6:9"
+  },
+  "q_prayer_004": {
+    "question": "Điền vào chỗ trống: 'Vậy hãy xưng tội cùng nhau, và cầu nguyện cho nhau, hầu cho anh em được lành bệnh: người công bình lấy lòng sốt sắng cầu nguyện, thật có linh _____.'",
+    "correct": "nghiệm",
+    "wrong": ["năng", "lực", "hiệu"],
+    "hint": "Nó mang lại kết quả",
+    "explanation": "Gia-cơ dạy rằng lời cầu nguyện của người công bình vừa có quyền năng vừa có linh nghiệm.",
+    "full_verse": "Vậy hãy xưng tội cùng nhau, và cầu nguyện cho nhau, hầu cho anh em được lành bệnh: người công bình lấy lòng sốt sắng cầu nguyện, thật có linh nghiệm.",
+    "verse_ref": "Gia-cơ 5:16"
+  },
+  "q_prayer_005": {
+    "question": "Điền vào chỗ trống: 'Hãy xin, sẽ được; hãy tìm, sẽ gặp; hãy gõ cửa, sẽ _____ cho.'",
+    "correct": "mở",
+    "wrong": ["chỉ", "bày", "mở khóa"],
+    "hint": "Điều xảy ra với cánh cửa",
+    "explanation": "Chúa Giê-xu khuyến khích kiên trì cầu nguyện với lời hứa Đức Chúa Trời sẽ đáp lời.",
+    "full_verse": "Hãy xin, sẽ được; hãy tìm, sẽ gặp; hãy gõ cửa, sẽ mở cho.",
+    "verse_ref": "Ma-thi-ơ 7:7"
+  },
+  "q_prayer_006": {
+    "question": "Điền vào chỗ trống: 'Các ngươi nhân danh ta mà cầu xin điều chi, ta sẽ làm cho, để Cha được sáng danh nơi _____.'",
+    "correct": "Con",
+    "wrong": ["lời cầu nguyện", "câu trả lời", "tín đồ"],
+    "hint": "Chúa Giê-xu nói về chính Ngài",
+    "explanation": "Chúa Giê-xu hứa đáp lời những lời cầu nguyện nhân danh Ngài vì vinh quang của Cha.",
+    "full_verse": "Các ngươi nhân danh ta mà cầu xin điều chi, ta sẽ làm cho, để Cha được sáng danh nơi Con.",
+    "verse_ref": "Giăng 14:13"
+  },
+  "q_prayer_007": {
+    "question": "Điền vào chỗ trống: 'Nầy là điều chúng ta dạn dĩ ở trước mặt Chúa, nếu chúng ta theo ý muốn Ngài mà cầu xin việc gì, thì Ngài _____ chúng ta.'",
+    "correct": "nghe",
+    "wrong": ["đáp lời", "giúp", "ban phước"],
+    "hint": "Đức Chúa Trời chú ý đến lời cầu nguyện của chúng ta",
+    "explanation": "Giăng đảm bảo với các tín đồ rằng Đức Chúa Trời nghe những lời cầu nguyện phù hợp với ý muốn Ngài.",
+    "full_verse": "Nầy là điều chúng ta dạn dĩ ở trước mặt Chúa, nếu chúng ta theo ý muốn Ngài mà cầu xin việc gì, thì Ngài nghe chúng ta.",
+    "verse_ref": "1 Giăng 5:14"
+  },
+  "q_prayer_008": {
+    "question": "Điền vào chỗ trống: 'Bấy giờ các ngươi sẽ kêu cầu ta, sẽ đi và cầu nguyện ta, và ta sẽ _____ các ngươi.'",
+    "correct": "nhậm lời",
+    "wrong": ["nói với", "trả lời", "đáp ứng"],
+    "hint": "Đức Chúa Trời chú ý",
+    "explanation": "Đức Chúa Trời hứa sẽ nhậm lời khi dân Ngài kêu cầu Ngài trong sự cầu nguyện.",
+    "full_verse": "Bấy giờ các ngươi sẽ kêu cầu ta, sẽ đi và cầu nguyện ta, và ta sẽ nhậm lời các ngươi.",
+    "verse_ref": "Giê-rê-mi 29:12"
+  },
+  "q_prayer_009": {
+    "question": "Điền vào chỗ trống: 'Đức Giê-hô-va ở gần mọi người cầu khẩn Ngài, tức ở gần mọi người có lòng _____ thật mà cầu khẩn Ngài.'",
+    "correct": "thành",
+    "wrong": ["đức tin", "yêu thương", "hy vọng"],
+    "hint": "Cầu nguyện chân thành, thật lòng",
+    "explanation": "Đức Chúa Trời đến gần những ai kêu cầu Ngài cách chân thành và thành thật.",
+    "full_verse": "Đức Giê-hô-va ở gần mọi người cầu khẩn Ngài, tức ở gần mọi người có lòng thành thật mà cầu khẩn Ngài.",
+    "verse_ref": "Thi Thiên 145:18"
+  },
+  "q_prayer_010": {
+    "question": "Điền vào chỗ trống: 'Cũng một lẽ ấy, Đức Thánh Linh giúp cho sự yếu đuối chúng ta. Vì chúng ta chẳng biết sự mình phải xin đặng cầu nguyện cho xứng đáng; nhưng chính Đức Thánh Linh lấy sự than thở không thể _____ được mà cầu khẩn thay cho chúng ta.'",
+    "correct": "nói ra",
+    "wrong": ["cầu nguyện", "thở dài", "kêu khóc"],
+    "hint": "Biểu hiện sâu xa vượt qua lời nói",
+    "explanation": "Phao-lô dạy rằng Đức Thánh Linh giúp chúng ta cầu nguyện khi chúng ta không biết phải cầu nguyện như thế nào.",
+    "full_verse": "Cũng một lẽ ấy, Đức Thánh Linh giúp cho sự yếu đuối chúng ta. Vì chúng ta chẳng biết sự mình phải xin đặng cầu nguyện cho xứng đáng; nhưng chính Đức Thánh Linh lấy sự than thở không thể nói ra được mà cầu khẩn thay cho chúng ta.",
+    "verse_ref": "Rô-ma 8:26"
+  },
+  "q_prayer_011": {
+    "question": "Điền vào chỗ trống: 'Song khi ngươi cầu nguyện, hãy vào phòng riêng, đóng cửa lại, rồi cầu nguyện Cha ngươi, là Đấng ở nơi _____; và Cha ngươi, là Đấng thấy trong chỗ kín nhiệm, sẽ thưởng cho ngươi.'",
+    "correct": "kín nhiệm",
+    "wrong": ["riêng tư", "im lặng", "tối tăm"],
+    "hint": "Ẩn khỏi tầm nhìn của công chúng",
+    "explanation": "Chúa Giê-xu dạy về sự cầu nguyện riêng tư mà Đức Chúa Trời nhìn thấy và ban thưởng.",
+    "full_verse": "Song khi ngươi cầu nguyện, hãy vào phòng riêng, đóng cửa lại, rồi cầu nguyện Cha ngươi, là Đấng ở nơi kín nhiệm; và Cha ngươi, là Đấng thấy trong chỗ kín nhiệm, sẽ thưởng cho ngươi.",
+    "verse_ref": "Ma-thi-ơ 6:6"
+  },
+  "q_prayer_012": {
+    "question": "Điền vào chỗ trống: 'Quả thật, ta lại nói cùng các ngươi, nếu hai người trong các ngươi thuận nhau ở dưới đất mà cầu xin không cứ việc chi, thì Cha ta ở trên _____ sẽ cho họ.'",
+    "correct": "trời",
+    "wrong": ["vinh quang", "quyền năng", "tình yêu"],
+    "hint": "Nơi Đức Chúa Trời ngự",
+    "explanation": "Chúa Giê-xu hứa rằng lời cầu nguyện hiệp một đồng ý sẽ được Cha đáp lời.",
+    "full_verse": "Quả thật, ta lại nói cùng các ngươi, nếu hai người trong các ngươi thuận nhau ở dưới đất mà cầu xin không cứ việc chi, thì Cha ta ở trên trời sẽ cho họ.",
+    "verse_ref": "Ma-thi-ơ 18:19"
+  },
+  "q_prayer_013": {
+    "question": "Điền vào chỗ trống: 'Trong khi cầu nguyện, các ngươi lấy đức tin xin việc gì bất kỳ, thảy đều _____.'",
+    "correct": "được cả",
+    "wrong": ["tin cả", "hy vọng cả", "yêu thương cả"],
+    "hint": "Giao tiếp với Đức Chúa Trời",
+    "explanation": "Chúa Giê-xu kết nối đức tin tin tưởng với việc nhận được câu trả lời cho lời cầu nguyện.",
+    "full_verse": "Trong khi cầu nguyện, các ngươi lấy đức tin xin việc gì bất kỳ, thảy đều được cả.",
+    "verse_ref": "Ma-thi-ơ 21:22"
+  },
+  "q_prayer_014": {
+    "question": "Điền vào chỗ trống: 'Bởi vậy ta nói cùng các ngươi: Mọi điều các ngươi xin trong lúc cầu nguyện, hãy tin là đã được, thì sẽ _____ điều đó.'",
+    "correct": "được",
+    "wrong": ["nhận", "có", "lấy"],
+    "hint": "Đã sở hữu điều bạn cầu xin",
+    "explanation": "Chúa Giê-xu dạy rằng đức tin trong cầu nguyện có nghĩa là tin rằng chúng ta đã nhận được.",
+    "full_verse": "Bởi vậy ta nói cùng các ngươi: Mọi điều các ngươi xin trong lúc cầu nguyện, hãy tin là đã được, thì sẽ được điều đó.",
+    "verse_ref": "Mác 11:24"
+  },
+  "q_prayer_015": {
+    "question": "Điền vào chỗ trống: 'Ta lại nói cùng các ngươi: Hãy xin, sẽ ban cho; hãy tìm, sẽ gặp; hãy gõ cửa, sẽ _____ cho.'",
+    "correct": "mở",
+    "wrong": ["chỉ", "bày", "mở khóa"],
+    "hint": "Được phép vào",
+    "explanation": "Chúa Giê-xu khuyến khích kiên trì xin, tìm và gõ trong cầu nguyện.",
+    "full_verse": "Ta lại nói cùng các ngươi: Hãy xin, sẽ ban cho; hãy tìm, sẽ gặp; hãy gõ cửa, sẽ mở cho.",
+    "verse_ref": "Lu-ca 11:9"
+  },
+  "q_prayer_016": {
+    "question": "Điền vào chỗ trống: 'Đức Chúa Giê-xu phán cùng môn đồ một thí dụ, để tỏ ra rằng phải cầu nguyện luôn, chớ hề _____.'",
+    "correct": "mỏi mệt",
+    "wrong": ["từ bỏ", "bỏ cuộc", "nhượng bộ"],
+    "hint": "Không bỏ cuộc",
+    "explanation": "Chúa Giê-xu dạy qua một ẩn dụ rằng chúng ta nên kiên trì trong cầu nguyện.",
+    "full_verse": "Đức Chúa Giê-xu phán cùng môn đồ một thí dụ, để tỏ ra rằng phải cầu nguyện luôn, chớ hề mỏi mệt.",
+    "verse_ref": "Lu-ca 18:1"
+  },
+  "q_prayer_017": {
+    "question": "Điền vào chỗ trống: 'Ví bằng các ngươi cứ ở trong ta, và những lời ta ở trong các ngươi, hãy cầu xin mọi điều mình muốn, thì sẽ _____ cho.'",
+    "correct": "được",
+    "wrong": ["ban", "cho", "cung cấp"],
+    "hint": "Điều đó sẽ xảy ra",
+    "explanation": "Chúa Giê-xu hứa đáp lời cầu nguyện cho những ai ở trong Ngài và lời Ngài.",
+    "full_verse": "Ví bằng các ngươi cứ ở trong ta, và những lời ta ở trong các ngươi, hãy cầu xin mọi điều mình muốn, thì sẽ được cho.",
+    "verse_ref": "Giăng 15:7"
+  },
+  "q_prayer_018": {
+    "question": "Điền vào chỗ trống: 'Đến bây giờ, các ngươi chưa từng nhân danh ta mà cầu xin điều chi hết. Hãy cầu xin đi, các ngươi sẽ được, hầu cho sự vui mừng các ngươi được _____.'",
+    "correct": "trọn vẹn",
+    "wrong": ["đầy đủ", "hoàn hảo", "lớn lao"],
+    "hint": "Niềm vui đạt đến sự trọn vẹn",
+    "explanation": "Chúa Giê-xu khuyến khích các môn đồ cầu nguyện nhân danh Ngài để được vui mừng trọn vẹn.",
+    "full_verse": "Đến bây giờ, các ngươi chưa từng nhân danh ta mà cầu xin điều chi hết. Hãy cầu xin đi, các ngươi sẽ được, hầu cho sự vui mừng các ngươi được trọn vẹn.",
+    "verse_ref": "Giăng 16:24"
+  },
+  "q_prayer_019": {
+    "question": "Điền vào chỗ trống: 'Phải bền đỗ và tỉnh thức trong sự cầu nguyện, mà thêm sự _____.'",
+    "correct": "tạ ơn",
+    "wrong": ["trung tín", "hy vọng", "cầu nguyện"],
+    "hint": "Bày tỏ lòng biết ơn",
+    "explanation": "Phao-lô kêu gọi các tín đồ cầu nguyện tận tâm, tỉnh thức và tạ ơn.",
+    "full_verse": "Phải bền đỗ và tỉnh thức trong sự cầu nguyện, mà thêm sự tạ ơn.",
+    "verse_ref": "Cô-lô-se 4:2"
+  },
+  "q_prayer_020": {
+    "question": "Điền vào chỗ trống: 'Hãy nhờ Đức Thánh Linh, thường thường làm đủ mọi thứ cầu nguyện và nài xin. Hãy tỉnh thức về điều đó, lấy lòng bền đỗ mà cầu nguyện cho hết thảy các _____.'",
+    "correct": "thánh đồ",
+    "wrong": ["tín đồ", "Cơ-đốc nhân", "người tin"],
+    "hint": "Những anh chị em cùng đức tin",
+    "explanation": "Phao-lô hướng dẫn các tín đồ cầu nguyện trong Thánh Linh cho tất cả dân sự của Đức Chúa Trời.",
+    "full_verse": "Hãy nhờ Đức Thánh Linh, thường thường làm đủ mọi thứ cầu nguyện và nài xin. Hãy tỉnh thức về điều đó, lấy lòng bền đỗ mà cầu nguyện cho hết thảy các thánh đồ.",
+    "verse_ref": "Ê-phê-sô 6:18"
+  },
+  "q_prayer_021": {
+    "question": "Điền vào chỗ trống: 'Vậy, ta muốn những người đàn ông đều giơ tay thánh sạch lên trời, mà cầu nguyện khắp mọi nơi, bỏ sự giận dữ và _____ cãi.'",
+    "correct": "điều",
+    "wrong": ["tranh", "đánh", "nghi"],
+    "hint": "Cãi vã hoặc bất đồng",
+    "explanation": "Phao-lô hướng dẫn những người nam cầu nguyện với tay thánh và tấm lòng bình an.",
+    "full_verse": "Vậy, ta muốn những người đàn ông đều giơ tay thánh sạch lên trời, mà cầu nguyện khắp mọi nơi, bỏ sự giận dữ và điều cãi.",
+    "verse_ref": "1 Ti-mô-thê 2:8"
+  },
+  "q_prayer_022": {
+    "question": "Điền vào chỗ trống: 'Vậy, chúng ta hãy vững lòng đến gần ngôi ơn phước, hầu cho được thương xót và tìm được ơn để giúp chúng ta trong thì _____.'",
+    "correct": "có cần dùng",
+    "wrong": ["khó khăn", "hoạn nạn", "yếu đuối"],
+    "hint": "Khi chúng ta cần được giúp đỡ",
+    "explanation": "Chúng ta được khuyến khích mạnh dạn đến gần ngôi Đức Chúa Trời để được giúp đỡ khi cần.",
+    "full_verse": "Vậy, chúng ta hãy vững lòng đến gần ngôi ơn phước, hầu cho được thương xót và tìm được ơn để giúp chúng ta trong thì có cần dùng.",
+    "verse_ref": "Hê-bơ-rơ 4:16"
+  },
+  "q_prayer_023": {
+    "question": "Điền vào chỗ trống: 'Ví bằng trong anh em có kẻ kém khôn ngoan, hãy cầu xin Đức Chúa Trời, là Đấng ban cho mọi người cách rộng rãi, không trách móc ai, thì kẻ ấy sẽ được _____.'",
+    "correct": "ban cho",
+    "wrong": ["trả lời", "giúp đỡ", "hướng dẫn"],
+    "hint": "Đức Chúa Trời không chỉ trích chúng ta khi cầu xin",
+    "explanation": "Gia-cơ khuyến khích các tín đồ cầu xin Đức Chúa Trời sự khôn ngoan, Đấng ban cho cách rộng rãi.",
+    "full_verse": "Ví bằng trong anh em có kẻ kém khôn ngoan, hãy cầu xin Đức Chúa Trời, là Đấng ban cho mọi người cách rộng rãi, không trách móc ai, thì kẻ ấy sẽ được ban cho.",
+    "verse_ref": "Gia-cơ 1:5"
+  },
+  "q_prayer_024": {
+    "question": "Điền vào chỗ trống: 'Anh em tham muốn mà chẳng được chi; anh em giết người và ghen ghét mà chẳng được việc gì hết; anh em có sự tranh cạnh và chiến đấu; anh em chẳng được chi, vì không _____.'",
+    "correct": "cầu xin",
+    "wrong": ["cầu nguyện", "tin", "tìm kiếm"],
+    "hint": "Đơn giản là xin Đức Chúa Trời",
+    "explanation": "Gia-cơ chỉ ra rằng chúng ta thường thiếu thốn vì không cầu xin Đức Chúa Trời.",
+    "full_verse": "Anh em tham muốn mà chẳng được chi; anh em giết người và ghen ghét mà chẳng được việc gì hết; anh em có sự tranh cạnh và chiến đấu; anh em chẳng được chi, vì không cầu xin.",
+    "verse_ref": "Gia-cơ 4:2"
+  },
+  "q_prayer_025": {
+    "question": "Điền vào chỗ trống: 'Vì mắt Chúa đoái trông người công bình, tai Ngài lắng nghe lời cầu nguyện họ; nhưng mặt Chúa làm nghịch với kẻ làm _____.'",
+    "correct": "dữ",
+    "wrong": ["sai", "tội", "ác"],
+    "hint": "Ngược lại với điều tốt",
+    "explanation": "Phi-e-rơ trích dẫn Thi Thiên 34, cho thấy Đức Chúa Trời nghe lời cầu nguyện của người công bình.",
+    "full_verse": "Vì mắt Chúa đoái trông người công bình, tai Ngài lắng nghe lời cầu nguyện họ; nhưng mặt Chúa làm nghịch với kẻ làm dữ.",
+    "verse_ref": "1 Phi-e-rơ 3:12"
+  },
+  "q_prayer_026": {
+    "question": "Điền vào chỗ trống: 'Hỡi Đức Chúa Trời của sự công bình tôi, khi tôi kêu cầu, xin hãy đáp lời tôi! Trong cơn gian truân Chúa đã giải cứu tôi; xin hãy thương xót tôi, và nghe lời _____ tôi.'",
+    "correct": "cầu nguyện",
+    "wrong": ["khóc", "kêu cầu", "nài xin"],
+    "hint": "Đa-vít cầu xin sự nhân từ của Đức Chúa Trời",
+    "explanation": "Đa-vít kêu cầu Đức Chúa Trời xin sự thương xót và giải cứu trong cơn gian truân.",
+    "full_verse": "Hỡi Đức Chúa Trời của sự công bình tôi, khi tôi kêu cầu, xin hãy đáp lời tôi! Trong cơn gian truân Chúa đã giải cứu tôi; xin hãy thương xót tôi, và nghe lời cầu nguyện tôi.",
+    "verse_ref": "Thi Thiên 4:1"
+  },
+  "q_prayer_027": {
+    "question": "Điền vào chỗ trống: 'Đức Giê-hô-va ôi! Buổi sáng Ngài sẽ nghe tiếng tôi; buổi sáng tôi sẽ trình bày duyên cớ tôi trước mặt Ngài, và _____ đợi.'",
+    "correct": "trông",
+    "wrong": ["kiên nhẫn", "hy vọng", "im lặng"],
+    "hint": "Với sự mong đợi",
+    "explanation": "Đa-vít dâng lời cầu nguyện vào buổi sáng và trông đợi với sự mong chờ.",
+    "full_verse": "Đức Giê-hô-va ôi! Buổi sáng Ngài sẽ nghe tiếng tôi; buổi sáng tôi sẽ trình bày duyên cớ tôi trước mặt Ngài, và trông đợi.",
+    "verse_ref": "Thi Thiên 5:3"
+  },
+  "q_prayer_028": {
+    "question": "Điền vào chỗ trống: 'Đức Chúa Trời ôi! Tôi cầu khẩn Chúa, vì Chúa sẽ nhậm lời tôi: xin nghiêng tai qua mà nghe lời _____.'",
+    "correct": "tôi",
+    "wrong": ["tiếng", "kêu cầu", "nói"],
+    "hint": "Giao tiếp với Đức Chúa Trời",
+    "explanation": "Đa-vít bày tỏ sự tin tưởng rằng Đức Chúa Trời sẽ nghe và đáp lời cầu nguyện của ông.",
+    "full_verse": "Đức Chúa Trời ôi! Tôi cầu khẩn Chúa, vì Chúa sẽ nhậm lời tôi: xin nghiêng tai qua mà nghe lời tôi.",
+    "verse_ref": "Thi Thiên 17:6"
+  },
+  "q_prayer_029": {
+    "question": "Điền vào chỗ trống: 'Còn tôi, tôi sẽ kêu cầu cùng Đức Chúa Trời, Đức Giê-hô-va sẽ cứu tôi. Chiều, mai, và trưa, tôi sẽ than thở rên siết; Ngài _____ tiếng tôi.'",
+    "correct": "sẽ nghe",
+    "wrong": ["sẽ đáp", "sẽ biết", "sẽ nhận"],
+    "hint": "Đức Chúa Trời chú ý",
+    "explanation": "Đa-vít làm chứng rằng Đức Chúa Trời nghe lời cầu nguyện của ông suốt cả ngày.",
+    "full_verse": "Còn tôi, tôi sẽ kêu cầu cùng Đức Chúa Trời, Đức Giê-hô-va sẽ cứu tôi. Chiều, mai, và trưa, tôi sẽ than thở rên siết; Ngài sẽ nghe tiếng tôi.",
+    "verse_ref": "Thi Thiên 55:17"
+  },
+  "q_prayer_030": {
+    "question": "Điền vào chỗ trống: 'Nhưng Đức Chúa Trời đã nghe, Ngài đã lắng tai nghe tiếng _____ tôi.'",
+    "correct": "cầu nguyện",
+    "wrong": ["tiếng", "kêu cầu", "nài xin"],
+    "hint": "Điều Đa-vít nói với Đức Chúa Trời",
+    "explanation": "Tác giả Thi Thiên làm chứng rằng Đức Chúa Trời đã thật sự lắng nghe lời cầu nguyện của ông.",
+    "full_verse": "Nhưng Đức Chúa Trời đã nghe, Ngài đã lắng tai nghe tiếng cầu nguyện tôi.",
+    "verse_ref": "Thi Thiên 66:19"
+  },
+  "q_prayer_031": {
+    "question": "Điền vào chỗ trống: 'Hỡi Đức Giê-hô-va, xin hãy lắng tai nghe lời cầu nguyện tôi, dủ nghe tiếng nài _____.'",
+    "correct": "xin",
+    "wrong": ["kêu", "khẩn", "van"],
+    "hint": "Cầu xin sự thương xót của Đức Chúa Trời",
+    "explanation": "Đa-vít nài xin Đức Chúa Trời nghe lời cầu nguyện và tiếng nài xin thương xót của ông.",
+    "full_verse": "Hỡi Đức Giê-hô-va, xin hãy lắng tai nghe lời cầu nguyện tôi, dủ nghe tiếng nài xin.",
+    "verse_ref": "Thi Thiên 86:6"
+  },
+  "q_prayer_032": {
+    "question": "Điền vào chỗ trống: 'Ngài sẽ nghe lời cầu nguyện của người khốn khổ, không khinh dể lời _____.'",
+    "correct": "nài xin",
+    "wrong": ["kêu cầu", "cầu nguyện", "yêu cầu"],
+    "hint": "Một lời cầu xin tha thiết",
+    "explanation": "Tác giả Thi Thiên đảm bảo rằng Đức Chúa Trời đáp lời cầu nguyện của người thiếu thốn.",
+    "full_verse": "Ngài sẽ nghe lời cầu nguyện của người khốn khổ, không khinh dể lời nài xin.",
+    "verse_ref": "Thi Thiên 102:17"
+  },
+  "q_prayer_033": {
+    "question": "Điền vào chỗ trống: 'Nguyện lời cầu nguyện tôi thấu đến trước mặt Chúa như hương, nguyện sự giơ tay tôi lên được giống như của lễ _____ chiều.'",
+    "correct": "buổi",
+    "wrong": ["dâng", "thờ phượng", "ngợi khen"],
+    "hint": "Một nghi lễ thời Cựu Ước",
+    "explanation": "Đa-vít so sánh lời cầu nguyện của ông như hương và tay giơ lên như của lễ.",
+    "full_verse": "Nguyện lời cầu nguyện tôi thấu đến trước mặt Chúa như hương, nguyện sự giơ tay tôi lên được giống như của lễ buổi chiều.",
+    "verse_ref": "Thi Thiên 141:2"
+  },
+  "q_prayer_034": {
+    "question": "Điền vào chỗ trống: 'Hãy tìm kiếm Đức Giê-hô-va đang khi mình gặp được; hãy kêu cầu đang khi Ngài ở _____.'",
+    "correct": "gần",
+    "wrong": ["đây", "kề", "hiện diện"],
+    "hint": "Trong tầm với",
+    "explanation": "Ê-sai thúc giục tìm kiếm Đức Chúa Trời và kêu cầu Ngài khi Ngài có thể tiếp cận được.",
+    "full_verse": "Hãy tìm kiếm Đức Giê-hô-va đang khi mình gặp được; hãy kêu cầu đang khi Ngài ở gần.",
+    "verse_ref": "Ê-sai 55:6"
+  },
+  "q_prayer_035": {
+    "question": "Điền vào chỗ trống: 'Ta sẽ nhậm lời họ trước khi kêu cầu ta; họ còn nói, ta đã _____.'",
+    "correct": "nghe rồi",
+    "wrong": ["đáp rồi", "trả lời rồi", "lắng nghe rồi"],
+    "hint": "Đức Chúa Trời chú ý ngay cả trước khi chúng ta nói xong",
+    "explanation": "Đức Chúa Trời hứa sẽ nghe và đáp lời ngay cả trước khi dân Ngài cầu nguyện xong.",
+    "full_verse": "Ta sẽ nhậm lời họ trước khi kêu cầu ta; họ còn nói, ta đã nghe rồi.",
+    "verse_ref": "Ê-sai 65:24"
+  },
+  "q_prayer_036": {
+    "question": "Điền vào chỗ trống: 'Hãy kêu cầu ta, ta sẽ trả lời cho; ta sẽ tỏ cho ngươi những việc lớn và khó, là những việc ngươi chưa từng _____.'",
+    "correct": "biết",
+    "wrong": ["thấy", "hiểu", "có"],
+    "hint": "Thông tin ẩn giấu",
+    "explanation": "Đức Chúa Trời mời chúng ta kêu cầu Ngài và hứa sẽ bày tỏ những sự thật ẩn giấu.",
+    "full_verse": "Hãy kêu cầu ta, ta sẽ trả lời cho; ta sẽ tỏ cho ngươi những việc lớn và khó, là những việc ngươi chưa từng biết.",
+    "verse_ref": "Giê-rê-mi 33:3"
+  },
+  "q_prayer_037": {
+    "question": "Điền vào chỗ trống: 'Hỡi Đức Chúa Trời chúng tôi, xin hãy nghiêng tai mà nghe; xin mở mắt mà xem những nơi bị hoang vu của chúng tôi, và thành được xưng bằng danh Ngài. Vì chúng tôi không cậy sự công bình mình, song cậy sự thương xót lớn của _____.'",
+    "correct": "Ngài",
+    "wrong": ["Chúa", "Đức Chúa Trời", "Cha"],
+    "hint": "Sự nhân từ của Đức Chúa Trời",
+    "explanation": "Đa-ni-ên cầu nguyện dựa trên sự thương xót của Đức Chúa Trời, không phải sự công bình của con người.",
+    "full_verse": "Hỡi Đức Chúa Trời chúng tôi, xin hãy nghiêng tai mà nghe; xin mở mắt mà xem những nơi bị hoang vu của chúng tôi, và thành được xưng bằng danh Ngài. Vì chúng tôi không cậy sự công bình mình, song cậy sự thương xót lớn của Ngài.",
+    "verse_ref": "Đa-ni-ên 9:18"
+  },
+  "q_prayer_038": {
+    "question": "Điền vào chỗ trống: 'Vả, khi các ngươi cầu nguyện, đừng dùng những lời lặp vô ích như người ngoại; vì họ tưởng vì _____ nhiều lời thì được nhậm.'",
+    "correct": "cớ",
+    "wrong": ["những", "lời", "dâng"],
+    "hint": "Số lượng lời nói",
+    "explanation": "Chúa Giê-xu cảnh báo chống lại sự lặp lại vô nghĩa trong cầu nguyện.",
+    "full_verse": "Vả, khi các ngươi cầu nguyện, đừng dùng những lời lặp vô ích như người ngoại; vì họ tưởng vì cớ nhiều lời thì được nhậm.",
+    "verse_ref": "Ma-thi-ơ 6:7"
+  },
+  "q_prayer_039": {
+    "question": "Điền vào chỗ trống: 'Hãy thức canh và cầu nguyện, kẻo các ngươi sa vào chước cám dỗ; tâm thần thì muốn lắm, mà xác thịt thì _____.'",
+    "correct": "yếu đuối",
+    "wrong": ["mệt mỏi", "mỏng manh", "tội lỗi"],
+    "hint": "Thiếu sức mạnh",
+    "explanation": "Chúa Giê-xu cảnh báo các môn đồ cầu nguyện để tránh sa vào sự cám dỗ.",
+    "full_verse": "Hãy thức canh và cầu nguyện, kẻo các ngươi sa vào chước cám dỗ; tâm thần thì muốn lắm, mà xác thịt thì yếu đuối.",
+    "verse_ref": "Ma-thi-ơ 26:41"
+  },
+  "q_prayer_040": {
+    "question": "Điền vào chỗ trống: 'Trong những ngày đó, Đức Chúa Giê-xu đi lên núi để cầu nguyện; và thức thâu đêm cầu nguyện _____ Trời.'",
+    "correct": "Đức Chúa",
+    "wrong": ["thiên đàng", "Cha", "Chúa"],
+    "hint": "Chúa Giê-xu cầu nguyện với ai",
+    "explanation": "Lu-ca ghi lại Chúa Giê-xu thức suốt đêm cầu nguyện Đức Chúa Trời.",
+    "full_verse": "Trong những ngày đó, Đức Chúa Giê-xu đi lên núi để cầu nguyện; và thức thâu đêm cầu nguyện Đức Chúa Trời.",
+    "verse_ref": "Lu-ca 6:12"
+  },
+  "q_prayer_041": {
+    "question": "Điền vào chỗ trống: 'Hết thảy những người đó bền lòng đồng một ý mà cầu nguyện, với các người đàn bà, và Ma-ri là mẹ Đức Chúa Giê-xu cùng anh em _____.'",
+    "correct": "Ngài",
+    "wrong": ["môn đồ", "theo", "bạn"],
+    "hint": "Các thành viên trong gia đình Chúa Giê-xu",
+    "explanation": "Các tín đồ đầu tiên, bao gồm gia đình Chúa Giê-xu, dâng mình cho sự cầu nguyện hiệp một.",
+    "full_verse": "Hết thảy những người đó bền lòng đồng một ý mà cầu nguyện, với các người đàn bà, và Ma-ri là mẹ Đức Chúa Giê-xu cùng anh em Ngài.",
+    "verse_ref": "Công vụ 1:14"
+  },
+  "q_prayer_042": {
+    "question": "Điền vào chỗ trống: 'Vả, những người ấy bền lòng giữ lời dạy của các sứ đồ, sự thông công của anh em, lễ bẻ bánh, và sự _____.'",
+    "correct": "cầu nguyện",
+    "wrong": ["thờ phượng", "ngợi khen", "kiêng ăn"],
+    "hint": "Giao tiếp với Đức Chúa Trời",
+    "explanation": "Hội thánh đầu tiên dâng mình cho sự dạy dỗ, thông công, tiệc thánh và cầu nguyện.",
+    "full_verse": "Vả, những người ấy bền lòng giữ lời dạy của các sứ đồ, sự thông công của anh em, lễ bẻ bánh, và sự cầu nguyện.",
+    "verse_ref": "Công vụ 2:42"
+  },
+  "q_prayer_043": {
+    "question": "Điền vào chỗ trống: 'Hãy vui mừng trong sự trông cậy, nhịn nhục trong sự hoạn nạn, bền lòng mà _____.'",
+    "correct": "cầu nguyện",
+    "wrong": ["yêu thương", "tin", "phục vụ"],
+    "hint": "Giao tiếp với Đức Chúa Trời",
+    "explanation": "Phao-lô đưa ra ba hướng dẫn cho đời sống Cơ-đốc, bao gồm cầu nguyện trung tín.",
+    "full_verse": "Hãy vui mừng trong sự trông cậy, nhịn nhục trong sự hoạn nạn, bền lòng mà cầu nguyện.",
+    "verse_ref": "Rô-ma 12:12"
+  },
+  "q_prayer_044": {
+    "question": "Điền vào chỗ trống: 'Vả, Đức Chúa Trời, bởi quyền lực cảm động trong chúng ta, có thể làm trổi hơn vô cùng mọi việc chúng ta cầu xin hoặc _____.'",
+    "correct": "suy tưởng",
+    "wrong": ["mơ ước", "nghĩ đến", "tất cả"],
+    "hint": "Đức Chúa Trời làm việc trong các tín đồ",
+    "explanation": "Phao-lô ca ngợi Đức Chúa Trời có thể làm nhiều hơn những gì chúng ta có thể cầu xin hoặc tưởng tượng.",
+    "full_verse": "Vả, Đức Chúa Trời, bởi quyền lực cảm động trong chúng ta, có thể làm trổi hơn vô cùng mọi việc chúng ta cầu xin hoặc suy tưởng.",
+    "verse_ref": "Ê-phê-sô 3:20"
+  },
+  "q_prayer_045": {
+    "question": "Điền vào chỗ trống: 'Sự bình an của Đức Chúa Trời vượt quá mọi sự hiểu biết, sẽ giữ gìn lòng và ý tưởng anh em trong Đức Chúa _____.'",
+    "correct": "Giê-xu Crit",
+    "wrong": ["Cha", "Cứu Chúa", "Trời"],
+    "hint": "Danh đầy đủ của Chúa chúng ta",
+    "explanation": "Phao-lô hứa rằng sự bình an của Đức Chúa Trời sẽ giữ gìn các tín đồ khi cầu nguyện với lòng tạ ơn.",
+    "full_verse": "Sự bình an của Đức Chúa Trời vượt quá mọi sự hiểu biết, sẽ giữ gìn lòng và ý tưởng anh em trong Đức Chúa Giê-xu Crit.",
+    "verse_ref": "Phi-líp 4:7"
+  },
+  "q_prayer_046": {
+    "question": "Điền vào chỗ trống: 'Vậy, trước hết mọi sự ta dặn rằng, phải khẩn nguyện, cầu xin, kêu van, tạ ơn cho mọi _____.'",
+    "correct": "người",
+    "wrong": ["dân tộc", "tín đồ", "thánh đồ"],
+    "hint": "Mọi người",
+    "explanation": "Phao-lô hướng dẫn rằng nên cầu nguyện cho tất cả mọi người.",
+    "full_verse": "Vậy, trước hết mọi sự ta dặn rằng, phải khẩn nguyện, cầu xin, kêu van, tạ ơn cho mọi người.",
+    "verse_ref": "1 Ti-mô-thê 2:1"
+  },
+  "q_prayer_047": {
+    "question": "Điền vào chỗ trống: 'Khi Đấng Christ còn trong xác thịt, đã kêu lớn tiếng khóc lóc mà dâng những lời cầu nguyện nài xin cho Đấng có quyền cứu mình khỏi chết, và vì lòng _____ nên được nhậm lời.'",
+    "correct": "nhân đức",
+    "wrong": ["đức tin", "cầu nguyện", "vâng phục"],
+    "hint": "Sự nhún nhường quy phục Đức Chúa Trời",
+    "explanation": "Tác giả mô tả những lời cầu nguyện mãnh liệt của Chúa Giê-xu trong chức vụ trần gian của Ngài.",
+    "full_verse": "Khi Đấng Christ còn trong xác thịt, đã kêu lớn tiếng khóc lóc mà dâng những lời cầu nguyện nài xin cho Đấng có quyền cứu mình khỏi chết, và vì lòng nhân đức nên được nhậm lời.",
+    "verse_ref": "Hê-bơ-rơ 5:7"
+  },
+  "q_prayer_048": {
+    "question": "Điền vào chỗ trống: 'Sự cầu nguyện bởi đức tin sẽ cứu kẻ bệnh, Chúa sẽ đỡ kẻ ấy dậy; nếu kẻ bệnh có phạm tội, cũng sẽ được _____ cho.'",
+    "correct": "tha",
+    "wrong": ["chữa lành", "phục hồi", "cứu"],
+    "hint": "Tội lỗi được tha thứ",
+    "explanation": "Gia-cơ liên kết lời cầu nguyện đức tin với sự chữa lành và tha thứ.",
+    "full_verse": "Sự cầu nguyện bởi đức tin sẽ cứu kẻ bệnh, Chúa sẽ đỡ kẻ ấy dậy; nếu kẻ bệnh có phạm tội, cũng sẽ được tha cho.",
+    "verse_ref": "Gia-cơ 5:15"
+  },
+  "q_prayer_049": {
+    "question": "Điền vào chỗ trống: 'Và chúng ta xin điều gì mặc dầu, thì nhận được điều ấy, bởi chúng ta vâng giữ các điều răn của Ngài và làm những điều _____ trước mặt Ngài.'",
+    "correct": "đẹp lòng",
+    "wrong": ["tôn kính", "vinh hiển", "phục vụ"],
+    "hint": "Điều làm Đức Chúa Trời vui lòng",
+    "explanation": "Giăng liên kết lời cầu nguyện được đáp với sự vâng phục các điều răn của Đức Chúa Trời.",
+    "full_verse": "Và chúng ta xin điều gì mặc dầu, thì nhận được điều ấy, bởi chúng ta vâng giữ các điều răn của Ngài và làm những điều đẹp lòng trước mặt Ngài.",
+    "verse_ref": "1 Giăng 3:22"
+  },
+  "q_prayer_050": {
+    "question": "Điền vào chỗ trống: 'Khói hương từ tay thiên sứ bay lên trước mặt Đức Chúa Trời, với những lời cầu nguyện của các thánh _____.'",
+    "correct": "đồ",
+    "wrong": ["nhân", "dân", "người"],
+    "hint": "Phần của cơ thể thiên sứ",
+    "explanation": "Khải tượng của Giăng cho thấy lời cầu nguyện của các tín đồ bay lên trước mặt Đức Chúa Trời như hương.",
+    "full_verse": "Khói hương từ tay thiên sứ bay lên trước mặt Đức Chúa Trời, với những lời cầu nguyện của các thánh đồ.",
+    "verse_ref": "Khải Huyền 8:4"
+  }
+}

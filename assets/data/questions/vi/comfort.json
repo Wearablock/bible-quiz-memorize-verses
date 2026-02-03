@@ -1,1 +1,452 @@
-{}
+{
+  "q_comfort_001": {
+    "question": "Điền vào chỗ trống: 'Dù khi tôi đi trong thung lũng bóng chết, tôi cũng chẳng sợ tai họa nào, vì Chúa ở cùng _____.'",
+    "correct": "tôi",
+    "wrong": ["chúng tôi", "họ", "mọi người"],
+    "hint": "Sự hiện diện của Đức Chúa Trời là cá nhân",
+    "explanation": "Đa-vít bày tỏ sự tin tưởng rằng sự hiện diện của Đức Chúa Trời mang lại sự an ủi và bảo vệ ngay cả trong những lúc đen tối nhất của cuộc sống.",
+    "full_verse": "Dù khi tôi đi trong thung lũng bóng chết, tôi cũng chẳng sợ tai họa nào, vì Chúa ở cùng tôi; cây trượng và cây gậy của Chúa an ủi tôi.",
+    "verse_ref": "Thi Thiên 23:4"
+  },
+  "q_comfort_002": {
+    "question": "Điền vào chỗ trống: 'Chúc tụng Đức Chúa Trời, Cha của Chúa Giê-xu Christ chúng ta, là Cha hay thương xót và Đức Chúa Trời của mọi sự _____.'",
+    "correct": "an ủi",
+    "wrong": ["thương xót", "ân điển", "yêu thương"],
+    "hint": "Điều này mô tả bản tính an ủi của Đức Chúa Trời",
+    "explanation": "Phao-lô xác định Đức Chúa Trời là nguồn của mọi sự an ủi, Ngài an ủi chúng ta để chúng ta có thể an ủi người khác.",
+    "full_verse": "Chúc tụng Đức Chúa Trời, Cha của Chúa Giê-xu Christ chúng ta, là Cha hay thương xót và Đức Chúa Trời của mọi sự an ủi, Ngài an ủi chúng ta trong mọi hoạn nạn.",
+    "verse_ref": "2 Cô-rinh-tô 1:3-4"
+  },
+  "q_comfort_003": {
+    "question": "Điền vào chỗ trống: 'Phước cho những người than khóc, vì họ sẽ được _____.'",
+    "correct": "an ủi",
+    "wrong": ["chữa lành", "ban phước", "cứu rỗi"],
+    "hint": "Chúa Giê-xu hứa sự an ủi cho người đau buồn",
+    "explanation": "Trong Bát Phúc, Chúa Giê-xu hứa sự an ủi thiên thượng cho những ai đau buồn và than khóc.",
+    "full_verse": "Phước cho những người than khóc, vì họ sẽ được an ủi.",
+    "verse_ref": "Ma-thi-ơ 5:4"
+  },
+  "q_comfort_004": {
+    "question": "Điền vào chỗ trống: 'Đừng sợ, vì Ta ở với ngươi; chớ kinh hoàng, vì Ta là _____ ngươi.'",
+    "correct": "Đức Chúa Trời",
+    "wrong": ["Chúa", "Cứu Chúa", "Vua"],
+    "hint": "Đức Chúa Trời tuyên bố danh xưng của Ngài là lý do để không sợ hãi",
+    "explanation": "Đức Chúa Trời trấn an dân Ngài rằng sự hiện diện và danh xưng của Ngài loại bỏ nỗi sợ hãi.",
+    "full_verse": "Đừng sợ, vì Ta ở với ngươi; chớ kinh hoàng, vì Ta là Đức Chúa Trời ngươi. Ta sẽ thêm sức cho ngươi và giúp đỡ ngươi; Ta sẽ nâng đỡ ngươi bằng tay phải công chính của Ta.",
+    "verse_ref": "Ê-sai 41:10"
+  },
+  "q_comfort_005": {
+    "question": "Điền vào chỗ trống: 'Ta để lại sự bình an cho các ngươi; Ta ban sự _____ của Ta cho các ngươi.'",
+    "correct": "bình an",
+    "wrong": ["yêu thương", "vui mừng", "Thánh Linh"],
+    "hint": "Chúa Giê-xu ban điều Ngài để lại",
+    "explanation": "Chúa Giê-xu hứa với các môn đồ một sự bình an siêu nhiên mà thế gian không thể ban cho.",
+    "full_verse": "Ta để lại sự bình an cho các ngươi; Ta ban sự bình an của Ta cho các ngươi. Ta ban cho các ngươi không như thế gian ban cho. Lòng các ngươi đừng bối rối và đừng sợ hãi.",
+    "verse_ref": "Giăng 14:27"
+  },
+  "q_comfort_006": {
+    "question": "Điền vào chỗ trống: 'CHÚA gần gũi những người _____.'",
+    "correct": "đau thương",
+    "wrong": ["công chính", "trung tín", "khiêm nhường"],
+    "hint": "Đức Chúa Trời đến gần những người có tấm lòng bị tổn thương",
+    "explanation": "Đức Chúa Trời hứa sự gần gũi đặc biệt với những người bị tổn thương về cảm xúc và tan nát trong tâm hồn.",
+    "full_verse": "CHÚA gần gũi những người đau thương và cứu những ai có tâm linh tan vỡ.",
+    "verse_ref": "Thi Thiên 34:18"
+  },
+  "q_comfort_007": {
+    "question": "Điền vào chỗ trống: 'Hỡi những ai mệt mỏi và gánh nặng, hãy đến với Ta, Ta sẽ cho các ngươi được _____.'",
+    "correct": "nghỉ ngơi",
+    "wrong": ["bình an", "hy vọng", "sức mạnh"],
+    "hint": "Chúa Giê-xu ban cho sự giải thoát khỏi kiệt sức",
+    "explanation": "Chúa Giê-xu mời gọi tất cả những ai mệt mỏi và quá tải đến tìm sự nghỉ ngơi nơi Ngài.",
+    "full_verse": "Hỡi những ai mệt mỏi và gánh nặng, hãy đến với Ta, Ta sẽ cho các ngươi được nghỉ ngơi.",
+    "verse_ref": "Ma-thi-ơ 11:28"
+  },
+  "q_comfort_008": {
+    "question": "Điền vào chỗ trống: 'Chúng ta biết rằng mọi sự hiệp lại làm _____ cho những ai yêu mến Đức Chúa Trời.'",
+    "correct": "ích",
+    "wrong": ["lợi", "phước", "vinh hiển"],
+    "hint": "Mục đích của Đức Chúa Trời trong mọi hoàn cảnh",
+    "explanation": "Phao-lô đảm bảo với các tín hữu rằng Đức Chúa Trời điều phối mọi việc vì lợi ích cuối cùng của họ.",
+    "full_verse": "Chúng ta biết rằng mọi sự hiệp lại làm ích cho những ai yêu mến Đức Chúa Trời, tức là những người được gọi theo ý muốn của Ngài.",
+    "verse_ref": "Rô-ma 8:28"
+  },
+  "q_comfort_009": {
+    "question": "Điền vào chỗ trống: 'Đức Chúa Trời là nơi nương náu và sức mạnh của chúng ta, là sự giúp đỡ luôn có trong _____.'",
+    "correct": "hoạn nạn",
+    "wrong": ["nhu cầu", "nguy hiểm", "khốn khổ"],
+    "hint": "Khi khó khăn đến, Đức Chúa Trời ở đó",
+    "explanation": "Tác giả Thi Thiên tuyên bố Đức Chúa Trời là nguồn bảo vệ và giúp đỡ liên tục trong những lúc khó khăn.",
+    "full_verse": "Đức Chúa Trời là nơi nương náu và sức mạnh của chúng ta, là sự giúp đỡ luôn có trong hoạn nạn.",
+    "verse_ref": "Thi Thiên 46:1"
+  },
+  "q_comfort_010": {
+    "question": "Điền vào chỗ trống: 'Như mẹ an ủi con, Ta cũng sẽ _____ các ngươi.'",
+    "correct": "an ủi",
+    "wrong": ["yêu thương", "bảo vệ", "dẫn dắt"],
+    "hint": "Đức Chúa Trời hứa sự an ủi như người mẹ",
+    "explanation": "Đức Chúa Trời so sánh sự an ủi của Ngài với sự chăm sóc dịu dàng mà một người mẹ dành cho con mình.",
+    "full_verse": "Như mẹ an ủi con, Ta cũng sẽ an ủi các ngươi; và các ngươi sẽ được an ủi tại Giê-ru-sa-lem.",
+    "verse_ref": "Ê-sai 66:13"
+  },
+  "q_comfort_011": {
+    "question": "Điền vào chỗ trống: 'CHÚA là _____ tôi; tôi chẳng thiếu thốn gì.'",
+    "correct": "Đấng Chăn Chiên",
+    "wrong": ["Đức Chúa Trời", "Vua", "Cha"],
+    "hint": "Hình ảnh ẩn dụ này thể hiện sự hướng dẫn đầy quan tâm của Đức Chúa Trời",
+    "explanation": "Đa-vít sử dụng hình ảnh người chăn chiên để mô tả sự chu cấp và chăm sóc trọn vẹn của Đức Chúa Trời.",
+    "full_verse": "CHÚA là Đấng Chăn Chiên tôi; tôi chẳng thiếu thốn gì.",
+    "verse_ref": "Thi Thiên 23:1"
+  },
+  "q_comfort_012": {
+    "question": "Điền vào chỗ trống: 'CHÚA là ánh sáng và sự cứu rỗi của tôi—tôi sẽ _____ ai?'",
+    "correct": "sợ",
+    "wrong": ["tin cậy", "theo", "phục vụ"],
+    "hint": "Sự hiện diện của Đức Chúa Trời loại bỏ cảm xúc này",
+    "explanation": "Đa-vít tuyên bố rằng với Đức Chúa Trời là ánh sáng và sự cứu rỗi, không có lý do gì để sợ hãi.",
+    "full_verse": "CHÚA là ánh sáng và sự cứu rỗi của tôi—tôi sẽ sợ ai? CHÚA là thành lũy của đời tôi—tôi sẽ hãi ai?",
+    "verse_ref": "Thi Thiên 27:1"
+  },
+  "q_comfort_013": {
+    "question": "Điền vào chỗ trống: 'Hãy trao gánh nặng cho CHÚA, Ngài sẽ _____ ngươi.'",
+    "correct": "nâng đỡ",
+    "wrong": ["an ủi", "giúp đỡ", "cứu"],
+    "hint": "Đức Chúa Trời sẽ giữ bạn tiếp tục",
+    "explanation": "Tác giả Thi Thiên khuyến khích giao những lo lắng cho Đức Chúa Trời, Ngài sẽ hỗ trợ và duy trì chúng ta.",
+    "full_verse": "Hãy trao gánh nặng cho CHÚA, Ngài sẽ nâng đỡ ngươi; Ngài sẽ không bao giờ để người công chính bị rúng động.",
+    "verse_ref": "Thi Thiên 55:22"
+  },
+  "q_comfort_014": {
+    "question": "Điền vào chỗ trống: 'Thịt và lòng tôi có thể suy yếu, nhưng Đức Chúa Trời là sức mạnh của lòng tôi và là phần sản nghiệp tôi _____.'",
+    "correct": "đời đời",
+    "wrong": ["mãi mãi", "vĩnh cửu", "hằng ngày"],
+    "hint": "Sự chu cấp của Đức Chúa Trời không có kết thúc",
+    "explanation": "Ngay cả khi thân thể và tâm hồn chúng ta suy yếu, Đức Chúa Trời vẫn là sức mạnh và sản nghiệp đời đời của chúng ta.",
+    "full_verse": "Thịt và lòng tôi có thể suy yếu, nhưng Đức Chúa Trời là sức mạnh của lòng tôi và là phần sản nghiệp tôi đời đời.",
+    "verse_ref": "Thi Thiên 73:26"
+  },
+  "q_comfort_015": {
+    "question": "Điền vào chỗ trống: 'Khi trong tôi đầy lo âu, sự an ủi của Chúa mang lại _____.'",
+    "correct": "niềm vui",
+    "wrong": ["bình an", "nghỉ ngơi", "hy vọng"],
+    "hint": "Sự an ủi của Đức Chúa Trời tạo ra cảm xúc tích cực này",
+    "explanation": "Tác giả Thi Thiên làm chứng rằng sự an ủi của Đức Chúa Trời biến đổi sự lo âu thành niềm vui.",
+    "full_verse": "Khi trong tôi đầy lo âu, sự an ủi của Chúa mang lại niềm vui cho linh hồn tôi.",
+    "verse_ref": "Thi Thiên 94:19"
+  },
+  "q_comfort_016": {
+    "question": "Điền vào chỗ trống: 'Sự an ủi của tôi trong đau khổ là đây: _____ Chúa gìn giữ sự sống tôi.'",
+    "correct": "Lời hứa",
+    "wrong": ["Lời", "Tình yêu", "Ân điển"],
+    "hint": "Cam kết của Đức Chúa Trời mang lại sự sống",
+    "explanation": "Tác giả Thi Thiên tìm thấy sự an ủi trong đau khổ qua những lời hứa trung tín của Đức Chúa Trời.",
+    "full_verse": "Sự an ủi của tôi trong đau khổ là đây: Lời hứa Chúa gìn giữ sự sống tôi.",
+    "verse_ref": "Thi Thiên 119:50"
+  },
+  "q_comfort_017": {
+    "question": "Điền vào chỗ trống: 'Xin tình yêu thương bền vững của Chúa an ủi tôi, theo _____ Chúa đã hứa với đầy tớ Ngài.'",
+    "correct": "lời",
+    "wrong": ["điều", "giao ước", "ơn thương xót"],
+    "hint": "Tác giả Thi Thiên cầu xin dựa trên điều Đức Chúa Trời đã nói",
+    "explanation": "Tác giả Thi Thiên cầu xin sự an ủi dựa trên tình yêu thương bền vững và lời hứa của Đức Chúa Trời.",
+    "full_verse": "Xin tình yêu thương bền vững của Chúa an ủi tôi, theo lời Chúa đã hứa với đầy tớ Ngài.",
+    "verse_ref": "Thi Thiên 119:76"
+  },
+  "q_comfort_018": {
+    "question": "Điền vào chỗ trống: 'Ngài chữa lành những tấm lòng tan vỡ và băng bó _____.'",
+    "correct": "vết thương",
+    "wrong": ["tấm lòng", "nỗi buồn", "đau đớn"],
+    "hint": "Đức Chúa Trời chữa lành những tổn thương về cảm xúc",
+    "explanation": "Đức Chúa Trời không chỉ chữa lành những tấm lòng tan vỡ mà còn chăm sóc những vết thương cụ thể mà chúng ta mang.",
+    "full_verse": "Ngài chữa lành những tấm lòng tan vỡ và băng bó vết thương của họ.",
+    "verse_ref": "Thi Thiên 147:3"
+  },
+  "q_comfort_019": {
+    "question": "Điền vào chỗ trống: 'Hãy an ủi, hãy an ủi _____ Ta, Đức Chúa Trời các ngươi phán.'",
+    "correct": "dân",
+    "wrong": ["con cái", "đầy tớ", "nước"],
+    "hint": "Đức Chúa Trời nói với cộng đồng của Ngài",
+    "explanation": "Đức Chúa Trời ra lệnh cho dân Ngài nhận được sự an ủi gấp đôi, nhấn mạnh tầm quan trọng của sự an ủi.",
+    "full_verse": "Hãy an ủi, hãy an ủi dân Ta, Đức Chúa Trời các ngươi phán.",
+    "verse_ref": "Ê-sai 40:1"
+  },
+  "q_comfort_020": {
+    "question": "Điền vào chỗ trống: 'Hỡi các tầng trời, hãy reo vui; hỡi đất, hãy mừng rỡ; hỡi các núi, hãy cất tiếng hát! Vì CHÚA _____ dân Ngài.'",
+    "correct": "an ủi",
+    "wrong": ["yêu thương", "cứu", "ban phước"],
+    "hint": "Tất cả tạo vật vui mừng vì sự an ủi của Đức Chúa Trời",
+    "explanation": "Tạo vật được kêu gọi vui mừng vì Đức Chúa Trời ban sự an ủi cho dân Ngài.",
+    "full_verse": "Hỡi các tầng trời, hãy reo vui; hỡi đất, hãy mừng rỡ; hỡi các núi, hãy cất tiếng hát! Vì CHÚA an ủi dân Ngài và thương xót những người khốn khổ của Ngài.",
+    "verse_ref": "Ê-sai 49:13"
+  },
+  "q_comfort_021": {
+    "question": "Điền vào chỗ trống: 'Ta, chính Ta là Đấng _____ các ngươi.'",
+    "correct": "an ủi",
+    "wrong": ["cứu", "yêu thương", "bảo vệ"],
+    "hint": "Đức Chúa Trời đích thân ban sự an ủi",
+    "explanation": "Đức Chúa Trời nhấn mạnh tuyên bố rằng chính Ngài là Đấng mang lại sự an ủi.",
+    "full_verse": "Ta, chính Ta là Đấng an ủi các ngươi. Ngươi là ai mà sợ loài người hay chết, sợ con cái loài người sẽ trở nên như cỏ?",
+    "verse_ref": "Ê-sai 51:12"
+  },
+  "q_comfort_022": {
+    "question": "Điền vào chỗ trống: 'Dù núi có dời, dù đồi có chuyển, nhưng _____ Ta dành cho ngươi sẽ không dời.'",
+    "correct": "tình yêu thương",
+    "wrong": ["ơn thương xót", "ân điển", "lời hứa"],
+    "hint": "Cảm xúc của Đức Chúa Trời dành cho chúng ta không lay chuyển",
+    "explanation": "Đức Chúa Trời hứa rằng tình yêu của Ngài vững chắc hơn cả núi non.",
+    "full_verse": "Dù núi có dời, dù đồi có chuyển, nhưng tình yêu thương Ta dành cho ngươi sẽ không dời, giao ước bình an của Ta sẽ không chuyển, CHÚA là Đấng thương xót ngươi phán vậy.",
+    "verse_ref": "Ê-sai 54:10"
+  },
+  "q_comfort_023": {
+    "question": "Điền vào chỗ trống: 'Thần của Chúa là CHÚA ngự trên Ta, vì CHÚA đã xức dầu cho Ta để rao tin lành cho người _____.'",
+    "correct": "nghèo khổ",
+    "wrong": ["lạc lõng", "tan vỡ", "khiêm nhường"],
+    "hint": "Tin lành đến với những người có nhu cầu",
+    "explanation": "Ê-sai tiên tri về sứ mạng của Đấng Mê-si mang tin lành và sự an ủi đến cho những người khốn khó.",
+    "full_verse": "Thần của Chúa là CHÚA ngự trên Ta, vì CHÚA đã xức dầu cho Ta để rao tin lành cho người nghèo khổ. Ngài sai Ta đến để băng bó những tấm lòng tan vỡ, để rao sự tự do cho kẻ bị giam cầm.",
+    "verse_ref": "Ê-sai 61:1"
+  },
+  "q_comfort_024": {
+    "question": "Điền vào chỗ trống: 'Ta sẽ biến sự than khóc của họ thành niềm vui; Ta sẽ an ủi họ và ban cho họ _____ thay vì sầu muộn.'",
+    "correct": "vui mừng",
+    "wrong": ["bình an", "hy vọng", "nghỉ ngơi"],
+    "hint": "Đức Chúa Trời biến đổi nỗi buồn thành lễ hội",
+    "explanation": "Đức Chúa Trời hứa biến đổi nỗi buồn thành niềm vui và thay thế sự than khóc bằng vui mừng.",
+    "full_verse": "Ta sẽ biến sự than khóc của họ thành niềm vui; Ta sẽ an ủi họ và ban cho họ vui mừng thay vì sầu muộn.",
+    "verse_ref": "Giê-rê-mi 31:13"
+  },
+  "q_comfort_025": {
+    "question": "Điền vào chỗ trống: 'Nhờ tình yêu thương lớn lao của CHÚA, chúng ta không bị tiêu diệt, vì lòng thương xót của Ngài không bao giờ _____.'",
+    "correct": "cạn",
+    "wrong": ["dứt", "hết", "ngừng"],
+    "hint": "Ơn thương xót của Đức Chúa Trời không bao giờ thất bại",
+    "explanation": "Ngay cả trong đau khổ, tình yêu và lòng thương xót của Đức Chúa Trời vẫn không đổi và đáng tin cậy.",
+    "full_verse": "Nhờ tình yêu thương lớn lao của CHÚA, chúng ta không bị tiêu diệt, vì lòng thương xót của Ngài không bao giờ cạn. Mỗi buổi sáng đều mới mẻ; sự thành tín của Ngài thật lớn lao.",
+    "verse_ref": "Ca Thương 3:22-23"
+  },
+  "q_comfort_026": {
+    "question": "Điền vào chỗ trống: 'CHÚA là thiện, là nơi nương náu trong ngày _____.'",
+    "correct": "hoạn nạn",
+    "wrong": ["nhu cầu", "nguy hiểm", "khốn khổ"],
+    "hint": "Đức Chúa Trời là nơi an toàn khi khó khăn đến",
+    "explanation": "Na-hum tuyên bố sự thiện lành của Đức Chúa Trời và vai trò của Ngài như nơi nương náu trong những lúc khó khăn.",
+    "full_verse": "CHÚA là thiện, là nơi nương náu trong ngày hoạn nạn. Ngài chăm sóc những ai tin cậy Ngài.",
+    "verse_ref": "Na-hum 1:7"
+  },
+  "q_comfort_027": {
+    "question": "Điền vào chỗ trống: 'CHÚA, Đức Chúa Trời ngươi, ở giữa ngươi, là Chiến Sĩ Đại Năng, Đấng _____.'",
+    "correct": "giải cứu",
+    "wrong": ["chiến đấu", "bảo vệ", "chinh phục"],
+    "hint": "Đức Chúa Trời như một chiến binh mang lại sự giải cứu",
+    "explanation": "Sô-phô-ni mô tả Đức Chúa Trời như một chiến binh đại năng, Đấng giải cứu và vui mừng về dân Ngài.",
+    "full_verse": "CHÚA, Đức Chúa Trời ngươi, ở giữa ngươi, là Chiến Sĩ Đại Năng, Đấng giải cứu. Ngài sẽ vui mừng vì ngươi; trong tình yêu, Ngài sẽ không còn quở trách ngươi, nhưng sẽ vui hát vì ngươi.",
+    "verse_ref": "Sô-phô-ni 3:17"
+  },
+  "q_comfort_028": {
+    "question": "Điền vào chỗ trống: 'Hãy mang lấy ách của Ta và học theo Ta, vì Ta nhu mì và khiêm nhường trong _____.'",
+    "correct": "lòng",
+    "wrong": ["thần", "trí", "hồn"],
+    "hint": "Chúa Giê-xu mô tả tính cách nội tâm của Ngài",
+    "explanation": "Chúa Giê-xu mời chúng ta học theo bản tính nhu mì và khiêm nhường của Ngài, tìm được sự nghỉ ngơi cho linh hồn.",
+    "full_verse": "Hãy mang lấy ách của Ta và học theo Ta, vì Ta nhu mì và khiêm nhường trong lòng, và các ngươi sẽ tìm được sự nghỉ ngơi cho linh hồn mình.",
+    "verse_ref": "Ma-thi-ơ 11:29"
+  },
+  "q_comfort_029": {
+    "question": "Điền vào chỗ trống: 'Lòng các ngươi đừng _____. Các ngươi tin Đức Chúa Trời, cũng hãy tin Ta.'",
+    "correct": "bối rối",
+    "wrong": ["sợ hãi", "lo âu", "lo lắng"],
+    "hint": "Chúa Giê-xu nói về sự xáo trộn nội tâm",
+    "explanation": "Chúa Giê-xu an ủi các môn đồ bằng cách kêu gọi họ tin cậy Ngài như họ tin cậy Đức Chúa Trời.",
+    "full_verse": "Lòng các ngươi đừng bối rối. Các ngươi tin Đức Chúa Trời, cũng hãy tin Ta.",
+    "verse_ref": "Giăng 14:1"
+  },
+  "q_comfort_030": {
+    "question": "Điền vào chỗ trống: 'Ta sẽ cầu xin Cha, và Ngài sẽ ban cho các ngươi một Đấng Giúp Đỡ khác để ở với các ngươi _____.'",
+    "correct": "mãi mãi",
+    "wrong": ["luôn luôn", "vĩnh cửu", "hằng ngày"],
+    "hint": "Sự hiện diện của Đấng Giúp Đỡ không có kết thúc",
+    "explanation": "Chúa Giê-xu hứa Đức Thánh Linh là Đấng An Ủi và Giúp Đỡ vĩnh viễn.",
+    "full_verse": "Ta sẽ cầu xin Cha, và Ngài sẽ ban cho các ngươi một Đấng Giúp Đỡ khác để ở với các ngươi mãi mãi.",
+    "verse_ref": "Giăng 14:16"
+  },
+  "q_comfort_031": {
+    "question": "Điền vào chỗ trống: 'Ta sẽ không để các ngươi _____; Ta sẽ đến với các ngươi.'",
+    "correct": "mồ côi",
+    "wrong": ["xa lạ", "một mình", "bị bỏ"],
+    "hint": "Chúa Giê-xu hứa không để chúng ta không cha mẹ",
+    "explanation": "Chúa Giê-xu đảm bảo với các môn đồ rằng Ngài sẽ không bỏ rơi họ như những đứa trẻ không cha mẹ.",
+    "full_verse": "Ta sẽ không để các ngươi mồ côi; Ta sẽ đến với các ngươi.",
+    "verse_ref": "Giăng 14:18"
+  },
+  "q_comfort_032": {
+    "question": "Điền vào chỗ trống: 'Ta đã nói với các ngươi những điều này để các ngươi được bình an trong Ta. Trong thế gian các ngươi có hoạn nạn. Nhưng hãy vững lòng! Ta đã thắng _____.'",
+    "correct": "thế gian",
+    "wrong": ["kẻ thù", "bóng tối", "điều ác"],
+    "hint": "Chúa Giê-xu đã chinh phục lĩnh vực này",
+    "explanation": "Chúa Giê-xu thừa nhận hoạn nạn nhưng khích lệ các tín hữu với chiến thắng của Ngài trên thế gian.",
+    "full_verse": "Ta đã nói với các ngươi những điều này để các ngươi được bình an trong Ta. Trong thế gian các ngươi có hoạn nạn. Nhưng hãy vững lòng! Ta đã thắng thế gian.",
+    "verse_ref": "Giăng 16:33"
+  },
+  "q_comfort_033": {
+    "question": "Điền vào chỗ trống: 'Tôi nghĩ rằng những đau khổ hiện tại không đáng so sánh với _____ sẽ được tỏ ra trong chúng ta.'",
+    "correct": "vinh hiển",
+    "wrong": ["niềm vui", "phần thưởng", "phước lành"],
+    "hint": "Sự huy hoàng tương lai vượt trội hơn nỗi đau hiện tại",
+    "explanation": "Phao-lô đặt đau khổ vào viễn cảnh đúng đắn bằng cách so sánh nó với vinh hiển tương lai không thể so sánh được.",
+    "full_verse": "Tôi nghĩ rằng những đau khổ hiện tại không đáng so sánh với vinh hiển sẽ được tỏ ra trong chúng ta.",
+    "verse_ref": "Rô-ma 8:18"
+  },
+  "q_comfort_034": {
+    "question": "Điền vào chỗ trống: 'Vì mọi điều đã được viết ra từ trước đều được viết để dạy dỗ chúng ta, để nhờ sự kiên nhẫn và sự khích lệ từ Kinh Thánh mà chúng ta có _____.'",
+    "correct": "hy vọng",
+    "wrong": ["đức tin", "bình an", "niềm vui"],
+    "hint": "Kinh Thánh tạo ra kỳ vọng này",
+    "explanation": "Phao-lô giải thích rằng Kinh Thánh cung cấp sự kiên nhẫn và khích lệ để tạo ra hy vọng.",
+    "full_verse": "Vì mọi điều đã được viết ra từ trước đều được viết để dạy dỗ chúng ta, để nhờ sự kiên nhẫn và sự khích lệ từ Kinh Thánh mà chúng ta có hy vọng.",
+    "verse_ref": "Rô-ma 15:4"
+  },
+  "q_comfort_035": {
+    "question": "Điền vào chỗ trống: 'Vì như chúng ta được chia sẻ dư dật trong sự đau khổ của Đấng Christ, thì _____ của chúng ta cũng dư dật qua Đấng Christ.'",
+    "correct": "sự an ủi",
+    "wrong": ["niềm vui", "hy vọng", "bình an"],
+    "hint": "Đau khổ và an ủi được kết nối",
+    "explanation": "Phao-lô dạy rằng chia sẻ trong sự đau khổ của Đấng Christ cũng có nghĩa là chia sẻ dư dật trong sự an ủi của Ngài.",
+    "full_verse": "Vì như chúng ta được chia sẻ dư dật trong sự đau khổ của Đấng Christ, thì sự an ủi của chúng ta cũng dư dật qua Đấng Christ.",
+    "verse_ref": "2 Cô-rinh-tô 1:5"
+  },
+  "q_comfort_036": {
+    "question": "Điền vào chỗ trống: 'Nhưng Đức Chúa Trời, Đấng an ủi những người chán nản, đã an ủi chúng tôi bởi sự đến của _____.'",
+    "correct": "Tít",
+    "wrong": ["Ti-mô-thê", "Phao-lô", "Ba-na-ba"],
+    "hint": "Sự đến của người này mang lại sự an ủi",
+    "explanation": "Phao-lô chia sẻ cách Đức Chúa Trời sử dụng sự đến của Tít để mang lại sự an ủi trong thời kỳ khó khăn.",
+    "full_verse": "Nhưng Đức Chúa Trời, Đấng an ủi những người chán nản, đã an ủi chúng tôi bởi sự đến của Tít.",
+    "verse_ref": "2 Cô-rinh-tô 7:6"
+  },
+  "q_comfort_037": {
+    "question": "Điền vào chỗ trống: 'Nguyện chính Chúa Giê-xu Christ chúng ta và Đức Chúa Trời, Cha chúng ta, là Đấng đã yêu thương chúng ta và bởi ân điển ban cho chúng ta sự khích lệ đời đời và _____ tốt lành.'",
+    "correct": "hy vọng",
+    "wrong": ["tin tức", "đức tin", "lời hứa"],
+    "hint": "Đức Chúa Trời ban cho chúng ta kỳ vọng tích cực",
+    "explanation": "Phao-lô cầu nguyện rằng sự khích lệ đời đời và hy vọng của Đức Chúa Trời sẽ củng cố các tín hữu.",
+    "full_verse": "Nguyện chính Chúa Giê-xu Christ chúng ta và Đức Chúa Trời, Cha chúng ta, là Đấng đã yêu thương chúng ta và bởi ân điển ban cho chúng ta sự khích lệ đời đời và hy vọng tốt lành, khích lệ lòng các anh chị em và thêm sức cho mọi việc lành và lời nói.",
+    "verse_ref": "2 Tê-sa-lô-ni-ca 2:16-17"
+  },
+  "q_comfort_038": {
+    "question": "Điền vào chỗ trống: 'Vậy, chúng ta hãy dạn dĩ đến gần ngai ân điển, để nhận được ơn thương xót và tìm được ân điển giúp đỡ chúng ta trong lúc _____.'",
+    "correct": "cần thiết",
+    "wrong": ["hoạn nạn", "khốn khổ", "yếu đuối"],
+    "hint": "Ân điển có sẵn khi chúng ta cần",
+    "explanation": "Chúng ta được khuyến khích dạn dĩ đến gần ngai Đức Chúa Trời để nhận sự giúp đỡ khi chúng ta cần nhất.",
+    "full_verse": "Vậy, chúng ta hãy dạn dĩ đến gần ngai ân điển, để nhận được ơn thương xót và tìm được ân điển giúp đỡ chúng ta trong lúc cần thiết.",
+    "verse_ref": "Hê-bơ-rơ 4:16"
+  },
+  "q_comfort_039": {
+    "question": "Điền vào chỗ trống: 'Ta sẽ không bao giờ lìa ngươi, cũng không bao giờ _____ ngươi.'",
+    "correct": "bỏ",
+    "wrong": ["rời", "quên", "từ chối"],
+    "hint": "Đức Chúa Trời hứa không bao giờ bỏ rơi chúng ta",
+    "explanation": "Đức Chúa Trời đưa ra lời hứa mạnh mẽ không bao giờ lìa bỏ hay bỏ rơi dân Ngài.",
+    "full_verse": "Hãy giữ đời sống mình khỏi tham tiền và hãy thỏa lòng với những gì mình có, vì Đức Chúa Trời đã phán: 'Ta sẽ không bao giờ lìa ngươi, cũng không bao giờ bỏ ngươi.'",
+    "verse_ref": "Hê-bơ-rơ 13:5"
+  },
+  "q_comfort_040": {
+    "question": "Điền vào chỗ trống: 'Hãy trao mọi lo lắng cho Ngài, vì Ngài _____ các anh chị em.'",
+    "correct": "chăm sóc",
+    "wrong": ["yêu thương", "chu cấp", "canh giữ"],
+    "hint": "Sự quan tâm của Đức Chúa Trời thúc đẩy việc giao những lo lắng cho Ngài",
+    "explanation": "Phi-e-rơ khuyến khích các tín hữu giao mọi lo lắng cho Đức Chúa Trời vì Ngài thực sự chăm sóc họ.",
+    "full_verse": "Hãy trao mọi lo lắng cho Ngài, vì Ngài chăm sóc các anh chị em.",
+    "verse_ref": "1 Phi-e-rơ 5:7"
+  },
+  "q_comfort_041": {
+    "question": "Điền vào chỗ trống: 'Vì Chiên Con ở giữa ngai sẽ chăn dắt họ; Ngài sẽ dẫn họ đến các suối nước _____.'",
+    "correct": "sự sống",
+    "wrong": ["hy vọng", "đời đời", "ân điển"],
+    "hint": "Chiên Con cung cấp sự tươi mát",
+    "explanation": "Trong Khải Huyền, Chúa Giê-xu như Chiên Con chăn dắt dân Ngài đến sự tươi mát và an ủi đời đời.",
+    "full_verse": "Vì Chiên Con ở giữa ngai sẽ chăn dắt họ; Ngài sẽ dẫn họ đến các suối nước sự sống. Và Đức Chúa Trời sẽ lau ráo mọi nước mắt khỏi mắt họ.",
+    "verse_ref": "Khải Huyền 7:17"
+  },
+  "q_comfort_042": {
+    "question": "Điền vào chỗ trống: 'Ngài sẽ lau ráo mọi _____ khỏi mắt họ.'",
+    "correct": "nước mắt",
+    "wrong": ["nỗi buồn", "đau đớn", "sầu muộn"],
+    "hint": "Đức Chúa Trời loại bỏ bằng chứng của sự khóc",
+    "explanation": "Trong trời mới đất mới, Đức Chúa Trời sẽ đích thân loại bỏ mọi sầu muộn và đau buồn.",
+    "full_verse": "Ngài sẽ lau ráo mọi nước mắt khỏi mắt họ. Sẽ không còn sự chết, không còn than khóc, kêu la, đau đớn nữa, vì những điều trước đã qua rồi.",
+    "verse_ref": "Khải Huyền 21:4"
+  },
+  "q_comfort_043": {
+    "question": "Điền vào chỗ trống: 'Chính CHÚA đi trước ngươi và sẽ ở với ngươi; Ngài sẽ không lìa ngươi, cũng không _____ ngươi.'",
+    "correct": "bỏ",
+    "wrong": ["rời", "quên", "từ chối"],
+    "hint": "Đức Chúa Trời sẽ không bao giờ bỏ rơi dân Ngài",
+    "explanation": "Môi-se khuyến khích Giô-suê với lời hứa rằng Đức Chúa Trời đi trước và không bao giờ bỏ rơi dân Ngài.",
+    "full_verse": "Chính CHÚA đi trước ngươi và sẽ ở với ngươi; Ngài sẽ không lìa ngươi, cũng không bỏ ngươi. Đừng sợ, đừng nản lòng.",
+    "verse_ref": "Phục Truyền 31:8"
+  },
+  "q_comfort_044": {
+    "question": "Điền vào chỗ trống: 'Ta há không phán dặn ngươi sao? Hãy mạnh mẽ và _____. Đừng sợ hãi, đừng nản lòng.'",
+    "correct": "can đảm",
+    "wrong": ["trung tín", "dũng cảm", "bạo dạn"],
+    "hint": "Đức Chúa Trời ra lệnh sự mạnh mẽ và phẩm chất này",
+    "explanation": "Đức Chúa Trời ra lệnh cho Giô-suê phải mạnh mẽ và can đảm vì Ngài sẽ ở cùng ông bất cứ nơi nào ông đi.",
+    "full_verse": "Ta há không phán dặn ngươi sao? Hãy mạnh mẽ và can đảm. Đừng sợ hãi, đừng nản lòng, vì CHÚA, Đức Chúa Trời ngươi, ở cùng ngươi bất cứ nơi nào ngươi đi.",
+    "verse_ref": "Giô-suê 1:9"
+  },
+  "q_comfort_045": {
+    "question": "Điền vào chỗ trống: 'CHÚA là nơi nương náu cho kẻ bị áp bức, là thành lũy trong thời _____.'",
+    "correct": "hoạn nạn",
+    "wrong": ["nhu cầu", "nguy hiểm", "khốn khổ"],
+    "hint": "Đức Chúa Trời bảo vệ trong những mùa khó khăn",
+    "explanation": "Tác giả Thi Thiên tuyên bố Đức Chúa Trời là nơi an toàn cho những người bị bức hại và đang gặp khó khăn.",
+    "full_verse": "CHÚA là nơi nương náu cho kẻ bị áp bức, là thành lũy trong thời hoạn nạn.",
+    "verse_ref": "Thi Thiên 9:9"
+  },
+  "q_comfort_046": {
+    "question": "Điền vào chỗ trống: 'CHÚA là vầng đá, thành lũy và Đấng Giải Cứu tôi; Đức Chúa Trời tôi là vầng đá, nơi tôi _____.'",
+    "correct": "nương náu",
+    "wrong": ["trú ẩn", "an ủi", "nghỉ ngơi"],
+    "hint": "Đa-vít tìm thấy sự an toàn nơi Đức Chúa Trời",
+    "explanation": "Đa-vít sử dụng nhiều hình ảnh ẩn dụ để mô tả Đức Chúa Trời là nguồn bảo vệ và an toàn tối thượng.",
+    "full_verse": "CHÚA là vầng đá, thành lũy và Đấng Giải Cứu tôi; Đức Chúa Trời tôi là vầng đá, nơi tôi nương náu, là thuẫn đỡ, là sừng cứu rỗi, là đồn lũy tôi.",
+    "verse_ref": "Thi Thiên 18:2"
+  },
+  "q_comfort_047": {
+    "question": "Điền vào chỗ trống: 'Sự than khóc có thể kéo dài suốt đêm, nhưng niềm vui đến vào buổi _____.'",
+    "correct": "sáng",
+    "wrong": ["bình minh", "ngày", "ánh sáng"],
+    "hint": "Niềm vui đến sau khi bóng tối qua đi",
+    "explanation": "Tác giả Thi Thiên đảm bảo rằng nỗi buồn chỉ là tạm thời và niềm vui sẽ đến với ngày mới.",
+    "full_verse": "Vì cơn giận của Ngài chỉ trong chốc lát, nhưng ơn huệ của Ngài suốt cả đời; sự than khóc có thể kéo dài suốt đêm, nhưng niềm vui đến vào buổi sáng.",
+    "verse_ref": "Thi Thiên 30:5"
+  },
+  "q_comfort_048": {
+    "question": "Điền vào chỗ trống: 'Hỡi linh hồn ta, sao ngươi buồn rầu? Sao ngươi bồn chồn trong ta? Hãy hy vọng nơi Đức Chúa Trời, vì ta sẽ còn _____ Ngài.'",
+    "correct": "ca ngợi",
+    "wrong": ["cảm tạ", "thờ phượng", "tin cậy"],
+    "hint": "Tác giả Thi Thiên khuyến khích sự thờ phượng trong tương lai",
+    "explanation": "Tác giả Thi Thiên khuyên linh hồn mình hy vọng nơi Đức Chúa Trời dù đang chán nản.",
+    "full_verse": "Hỡi linh hồn ta, sao ngươi buồn rầu? Sao ngươi bồn chồn trong ta? Hãy hy vọng nơi Đức Chúa Trời, vì ta sẽ còn ca ngợi Ngài, Đấng Cứu Rỗi và Đức Chúa Trời ta.",
+    "verse_ref": "Thi Thiên 42:5"
+  },
+  "q_comfort_049": {
+    "question": "Điền vào chỗ trống: 'Ai ở trong nơi kín đáo của Đấng Chí Cao sẽ được nghỉ ngơi dưới bóng của Đấng _____.'",
+    "correct": "Toàn Năng",
+    "wrong": ["Chúa", "Cứu Chúa", "Vua"],
+    "hint": "Danh xưng này nhấn mạnh quyền năng của Đức Chúa Trời",
+    "explanation": "Những ai lấy Đức Chúa Trời làm nơi ở sẽ tìm thấy sự nghỉ ngơi dưới sự hiện diện bảo vệ của Ngài.",
+    "full_verse": "Ai ở trong nơi kín đáo của Đấng Chí Cao sẽ được nghỉ ngơi dưới bóng của Đấng Toàn Năng.",
+    "verse_ref": "Thi Thiên 91:1"
+  },
+  "q_comfort_050": {
+    "question": "Điền vào chỗ trống: 'Tôi ngước mắt lên các núi—sự giúp đỡ tôi đến từ đâu? Sự giúp đỡ tôi đến từ _____.'",
+    "correct": "CHÚA",
+    "wrong": ["các tầng trời", "Đấng Chí Cao", "Đấng Toàn Năng"],
+    "hint": "Tác giả Thi Thiên xác định nguồn giúp đỡ",
+    "explanation": "Tác giả Thi Thiên nhìn xa hơn các nguồn trần thế, hướng đến Đức Chúa Trời là Đấng tạo dựng trời đất để được giúp đỡ.",
+    "full_verse": "Tôi ngước mắt lên các núi—sự giúp đỡ tôi đến từ đâu? Sự giúp đỡ tôi đến từ CHÚA, Đấng tạo dựng trời và đất.",
+    "verse_ref": "Thi Thiên 121:1-2"
+  }
+}

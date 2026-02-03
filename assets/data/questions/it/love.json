@@ -1,1 +1,452 @@
-{}
+{
+  "q_love_001": {
+    "question": "Completa il versetto: 'Perché Dio ha tanto _____ il mondo, che ha dato il suo unigenito Figlio.'",
+    "correct": "amato",
+    "wrong": ["benedetto", "creato", "giudicato"],
+    "hint": "Questo versetto descrive il più grande atto di Dio verso l'umanità",
+    "explanation": "Giovanni 3:16 rivela la profondità dell'amore di Dio - Ha amato il mondo così tanto che ha dato suo Figlio per la nostra salvezza.",
+    "full_verse": "Perché Dio ha tanto amato il mondo, che ha dato il suo unigenito Figlio, affinché chiunque crede in lui non perisca, ma abbia vita eterna.",
+    "verse_ref": "Giovanni 3:16"
+  },
+  "q_love_002": {
+    "question": "Completa il versetto: 'L'amore è paziente, è _____.'",
+    "correct": "benevolo",
+    "wrong": ["forte", "saggio", "puro"],
+    "hint": "Questa qualità implica gentilezza e considerazione",
+    "explanation": "Paolo inizia la sua famosa descrizione dell'amore enfatizzando la pazienza e la benevolenza come qualità fondamentali.",
+    "full_verse": "L'amore è paziente, è benevolo; l'amore non invidia; l'amore non si vanta, non si gonfia.",
+    "verse_ref": "1 Corinzi 13:4"
+  },
+  "q_love_003": {
+    "question": "Completa il versetto: 'Nessuno ha amore più grande di quello di dare la sua _____ per i suoi amici.'",
+    "correct": "vita",
+    "wrong": ["ricchezza", "orgoglio", "casa"],
+    "hint": "Gesù ha dimostrato questo sacrificio supremo",
+    "explanation": "Gesù pronunciò queste parole prima della sua crocifissione, insegnando che la più grande espressione d'amore è il sacrificio di sé.",
+    "full_verse": "Nessuno ha amore più grande di quello di dare la sua vita per i suoi amici.",
+    "verse_ref": "Giovanni 15:13"
+  },
+  "q_love_004": {
+    "question": "Completa il versetto: 'Ora dunque queste tre cose rimangono: fede, speranza e amore; ma la più grande di esse è l'_____.'",
+    "correct": "amore",
+    "wrong": ["fede", "speranza", "pace"],
+    "hint": "Paolo dichiara questa come la suprema tra le tre",
+    "explanation": "Nel concludere il suo discorso sull'amore, Paolo dichiara che mentre fede, speranza e amore perdurano, l'amore è la più grande virtù.",
+    "full_verse": "Ora dunque queste tre cose rimangono: fede, speranza e amore; ma la più grande di esse è l'amore.",
+    "verse_ref": "1 Corinzi 13:13"
+  },
+  "q_love_005": {
+    "question": "Completa il versetto: 'Noi amiamo perché egli ci ha amati per _____.'",
+    "correct": "primo",
+    "wrong": ["sempre", "veramente", "profondamente"],
+    "hint": "L'amore di Dio ha preceduto il nostro",
+    "explanation": "La nostra capacità di amare ha origine dall'iniziativa di Dio - Egli ci ha amati prima che potessimo amarlo.",
+    "full_verse": "Noi amiamo perché egli ci ha amati per primo.",
+    "verse_ref": "1 Giovanni 4:19"
+  },
+  "q_love_006": {
+    "question": "Completa il versetto: 'Ama il tuo _____ come te stesso.'",
+    "correct": "prossimo",
+    "wrong": ["famiglia", "amico", "fratello"],
+    "hint": "Questo comando estende l'amore oltre la nostra cerchia ristretta",
+    "explanation": "Gesù citò questo comando dal Levitico come il secondo più grande comandamento, insegnandoci ad estendere l'amore a tutte le persone.",
+    "full_verse": "Ama il tuo prossimo come te stesso.",
+    "verse_ref": "Marco 12:31"
+  },
+  "q_love_007": {
+    "question": "Completa il versetto: 'Dio è _____.'",
+    "correct": "amore",
+    "wrong": ["luce", "spirito", "santo"],
+    "hint": "Questo definisce la natura essenziale di Dio",
+    "explanation": "Giovanni fa questa profonda dichiarazione che l'amore non è solo qualcosa che Dio fa, ma chi Egli fondamentalmente è.",
+    "full_verse": "Chi non ama non ha conosciuto Dio, perché Dio è amore.",
+    "verse_ref": "1 Giovanni 4:8"
+  },
+  "q_love_008": {
+    "question": "Completa il versetto: 'L'amore non gode dell'ingiustizia, ma gioisce con la _____.'",
+    "correct": "verità",
+    "wrong": ["giustizia", "umiltà", "fedeltà"],
+    "hint": "L'amore celebra ciò che è genuino e onesto",
+    "explanation": "Il vero amore non trova piacere nel male ma celebra la verità e la giustizia.",
+    "full_verse": "L'amore non gode dell'ingiustizia, ma gioisce con la verità.",
+    "verse_ref": "1 Corinzi 13:6"
+  },
+  "q_love_009": {
+    "question": "Completa il versetto: 'Soprattutto, abbiate amore intenso gli uni per gli altri, perché l'amore copre una gran quantità di _____.'",
+    "correct": "peccati",
+    "wrong": ["difetti", "errori", "torti"],
+    "hint": "L'amore ha il potere di perdonare molte trasgressioni",
+    "explanation": "Pietro insegna che l'amore profondo e genuino ha il potere di perdonare e trascurare molte offese.",
+    "full_verse": "Soprattutto, abbiate amore intenso gli uni per gli altri, perché l'amore copre una gran quantità di peccati.",
+    "verse_ref": "1 Pietro 4:8"
+  },
+  "q_love_010": {
+    "question": "Completa il versetto: 'Ma io vi dico: amate i vostri _____ e pregate per quelli che vi perseguitano.'",
+    "correct": "nemici",
+    "wrong": ["prossimi", "fratelli", "amici"],
+    "hint": "Gesù ci comanda di amare anche coloro che ci oppongono",
+    "explanation": "Gesù insegnò radicalmente che l'amore deve estendersi anche a coloro che ci odiano e ci perseguitano.",
+    "full_verse": "Ma io vi dico: amate i vostri nemici e pregate per quelli che vi perseguitano.",
+    "verse_ref": "Matteo 5:44"
+  },
+  "q_love_011": {
+    "question": "Completa il versetto: 'Mariti, amate le vostre mogli, come anche Cristo ha amato la _____.'",
+    "correct": "chiesa",
+    "wrong": ["discepoli", "mondo", "Padre"],
+    "hint": "L'amore sacrificale di Cristo per i credenti è il modello",
+    "explanation": "Paolo istruisce i mariti ad amare le loro mogli con lo stesso amore sacrificale che Cristo ha mostrato alla chiesa.",
+    "full_verse": "Mariti, amate le vostre mogli, come anche Cristo ha amato la chiesa e ha dato se stesso per lei.",
+    "verse_ref": "Efesini 5:25"
+  },
+  "q_love_012": {
+    "question": "Completa il versetto: 'Non abbiate altro debito con nessuno, se non di amarvi gli uni gli _____.'",
+    "correct": "altri",
+    "wrong": ["prossimi", "fratelli", "amici"],
+    "hint": "Questo debito non può mai essere pienamente pagato",
+    "explanation": "Paolo insegna che mentre dovremmo pagare tutti i debiti, l'obbligo di amarci a vicenda è continuo e mai pienamente saldato.",
+    "full_verse": "Non abbiate altro debito con nessuno, se non di amarvi gli uni gli altri; perché chi ama il prossimo ha adempiuto la legge.",
+    "verse_ref": "Romani 13:8"
+  },
+  "q_love_013": {
+    "question": "Completa il versetto: 'Nell'amore non c'è paura; anzi, l'amore _____ scaccia la paura.'",
+    "correct": "perfetto",
+    "wrong": ["vero", "puro", "grande"],
+    "hint": "L'amore completo e maturo elimina la paura",
+    "explanation": "Giovanni insegna che quando l'amore raggiunge maturità e completezza, rimuove ogni paura del giudizio.",
+    "full_verse": "Nell'amore non c'è paura; anzi, l'amore perfetto scaccia la paura, perché la paura implica apprensione di castigo.",
+    "verse_ref": "1 Giovanni 4:18"
+  },
+  "q_love_014": {
+    "question": "Completa il versetto: 'Ama il Signore Dio tuo con tutto il tuo cuore, con tutta la tua anima e con tutta la tua _____.'",
+    "correct": "mente",
+    "wrong": ["corpo", "vita", "ricchezza"],
+    "hint": "Questo coinvolge la nostra capacità intellettuale",
+    "explanation": "Gesù dichiarò questo come il più grande comandamento - amare Dio completamente con ogni aspetto del nostro essere.",
+    "full_verse": "Ama il Signore Dio tuo con tutto il tuo cuore, con tutta la tua anima e con tutta la tua mente.",
+    "verse_ref": "Matteo 22:37"
+  },
+  "q_love_015": {
+    "question": "Completa il versetto: 'Io vi do un nuovo comandamento: che vi amiate gli uni gli altri. Come io vi ho amati, anche voi amatevi gli uni gli _____.'",
+    "correct": "altri",
+    "wrong": ["prossimi", "fratelli", "amici"],
+    "hint": "Gesù ha modellato questo amore reciproco",
+    "explanation": "Gesù diede questo nuovo comandamento ai suoi discepoli, stabilendo il proprio amore come standard per come dovremmo amarci.",
+    "full_verse": "Io vi do un nuovo comandamento: che vi amiate gli uni gli altri. Come io vi ho amati, anche voi amatevi gli uni gli altri.",
+    "verse_ref": "Giovanni 13:34"
+  },
+  "q_love_016": {
+    "question": "Completa il versetto: 'Carissimi, amiamoci gli uni gli altri, perché l'amore è da _____.'",
+    "correct": "Dio",
+    "wrong": ["cielo", "alto", "dentro"],
+    "hint": "L'amore ha una fonte divina",
+    "explanation": "Giovanni insegna che l'amore autentico ha origine da Dio - Egli è la fonte di ogni vero amore.",
+    "full_verse": "Carissimi, amiamoci gli uni gli altri, perché l'amore è da Dio e chiunque ama è nato da Dio e conosce Dio.",
+    "verse_ref": "1 Giovanni 4:7"
+  },
+  "q_love_017": {
+    "question": "Completa il versetto: 'Vedete quale amore ci ha manifestato il Padre, dandoci di essere chiamati _____ di Dio!'",
+    "correct": "figli",
+    "wrong": ["servi", "amici", "eredi"],
+    "hint": "Questo descrive la nostra relazione con Dio",
+    "explanation": "Giovanni si meraviglia dell'amore stravagante di Dio che ci concede il privilegio di essere suoi figli.",
+    "full_verse": "Vedete quale amore ci ha manifestato il Padre, dandoci di essere chiamati figli di Dio!",
+    "verse_ref": "1 Giovanni 3:1"
+  },
+  "q_love_018": {
+    "question": "Completa il versetto: 'L'amore non verrà mai _____.'",
+    "correct": "meno",
+    "wrong": ["fine", "termine", "conclusione"],
+    "hint": "L'amore è permanente e infallibile",
+    "explanation": "Paolo dichiara che a differenza dei doni spirituali che cesseranno, l'amore è eterno e non verrà mai meno.",
+    "full_verse": "L'amore non verrà mai meno. Le profezie verranno abolite; le lingue cesseranno.",
+    "verse_ref": "1 Corinzi 13:8"
+  },
+  "q_love_019": {
+    "question": "Completa il versetto: 'Conservatevi nell'amore di Dio, aspettando la _____ del nostro Signore Gesù Cristo.'",
+    "correct": "misericordia",
+    "wrong": ["ritorno", "venuta", "gloria"],
+    "hint": "Questa qualità conduce alla vita eterna",
+    "explanation": "Giuda incoraggia i credenti a rimanere nell'amore di Dio mentre aspettano il misericordioso ritorno di Cristo.",
+    "full_verse": "Conservatevi nell'amore di Dio, aspettando la misericordia del nostro Signore Gesù Cristo che vi condurrà a vita eterna.",
+    "verse_ref": "Giuda 1:21"
+  },
+  "q_love_020": {
+    "question": "Completa il versetto: 'Tutto quello che fate, fatelo con _____.'",
+    "correct": "amore",
+    "wrong": ["fede", "pace", "gioia"],
+    "hint": "Questo dovrebbe motivare tutte le nostre azioni",
+    "explanation": "L'istruzione semplice ma profonda di Paolo che l'amore dovrebbe essere la motivazione dietro tutto ciò che facciamo.",
+    "full_verse": "Tutto quello che fate, fatelo con amore.",
+    "verse_ref": "1 Corinzi 16:14"
+  },
+  "q_love_021": {
+    "question": "Completa il versetto: 'Ma Dio dimostra il suo amore verso di noi in questo: che, mentre eravamo ancora _____, Cristo è morto per noi.'",
+    "correct": "peccatori",
+    "wrong": ["perduti", "rotti", "deboli"],
+    "hint": "Cristo è morto per noi nel nostro stato decaduto",
+    "explanation": "Paolo enfatizza che l'amore di Dio è incondizionato - Cristo è morto per noi mentre eravamo ancora in ribellione contro di Lui.",
+    "full_verse": "Ma Dio dimostra il suo amore verso di noi in questo: che, mentre eravamo ancora peccatori, Cristo è morto per noi.",
+    "verse_ref": "Romani 5:8"
+  },
+  "q_love_022": {
+    "question": "Completa il versetto: 'L'amore sopporta ogni cosa, crede ogni cosa, spera ogni cosa, _____ ogni cosa.'",
+    "correct": "sopporta",
+    "wrong": ["sostiene", "crede", "perdona"],
+    "hint": "L'amore continua nonostante le difficoltà",
+    "explanation": "Paolo descrive la natura duratura dell'amore - non si arrende mai e continua attraverso tutte le circostanze.",
+    "full_verse": "L'amore sopporta ogni cosa, crede ogni cosa, spera ogni cosa, sopporta ogni cosa.",
+    "verse_ref": "1 Corinzi 13:7"
+  },
+  "q_love_023": {
+    "question": "Completa il versetto: 'Da questo abbiamo conosciuto l'amore: egli ha dato la sua _____ per noi.'",
+    "correct": "vita",
+    "wrong": ["gloria", "corona", "potenza"],
+    "hint": "Gesù ha fatto il sacrificio supremo",
+    "explanation": "Giovanni indica la morte sacrificale di Cristo come l'esempio definitivo di ciò che il vero amore appare.",
+    "full_verse": "Da questo abbiamo conosciuto l'amore: egli ha dato la sua vita per noi; anche noi dobbiamo dare la nostra vita per i fratelli.",
+    "verse_ref": "1 Giovanni 3:16"
+  },
+  "q_love_024": {
+    "question": "Completa il versetto: 'Se parlassi le lingue degli uomini e degli angeli, ma non avessi amore, sarei un rame risonante o uno squillante _____.'",
+    "correct": "cembalo",
+    "wrong": ["campana", "tamburo", "corno"],
+    "hint": "Questo è uno strumento a percussione",
+    "explanation": "Paolo inizia il suo capitolo sull'amore affermando che anche i doni più impressionanti sono senza significato senza amore.",
+    "full_verse": "Se parlassi le lingue degli uomini e degli angeli, ma non avessi amore, sarei un rame risonante o uno squillante cembalo.",
+    "verse_ref": "1 Corinzi 13:1"
+  },
+  "q_love_025": {
+    "question": "Completa il versetto: 'Se uno dice: \"Io amo Dio», ma odia suo fratello, è _____.'",
+    "correct": "bugiardo",
+    "wrong": ["stolto", "peccatore", "ipocrita"],
+    "hint": "Questa persona non sta dicendo la verità",
+    "explanation": "Giovanni chiarisce che l'amore per Dio e l'odio per gli altri sono incompatibili - uno prova che l'altro è falso.",
+    "full_verse": "Se uno dice: «Io amo Dio», ma odia suo fratello, è bugiardo; perché chi non ama suo fratello che ha visto, non può amare Dio che non ha visto.",
+    "verse_ref": "1 Giovanni 4:20"
+  },
+  "q_love_026": {
+    "question": "Completa il versetto: 'Questo è il mio comandamento: che vi amiate gli uni gli altri, come io vi ho _____.'",
+    "correct": "amati",
+    "wrong": ["insegnato", "benedetti", "scelti"],
+    "hint": "Gesù ha dato l'esempio da seguire",
+    "explanation": "Gesù comanda ai suoi seguaci di amare con lo stesso amore sacrificale che ha dimostrato.",
+    "full_verse": "Questo è il mio comandamento: che vi amiate gli uni gli altri, come io vi ho amati.",
+    "verse_ref": "Giovanni 15:12"
+  },
+  "q_love_027": {
+    "question": "Completa il versetto: 'Chi ama suo fratello rimane nella _____ e non c'è nulla in lui che lo faccia inciampare.'",
+    "correct": "luce",
+    "wrong": ["verità", "Spirito", "Signore"],
+    "hint": "Questo è l'opposto delle tenebre",
+    "explanation": "Giovanni contrasta amore e odio come luce e tenebre - chi ama cammina nella luce di Dio.",
+    "full_verse": "Chi ama suo fratello rimane nella luce e non c'è nulla in lui che lo faccia inciampare.",
+    "verse_ref": "1 Giovanni 2:10"
+  },
+  "q_love_028": {
+    "question": "Completa il versetto: 'Al di sopra di tutte queste cose vestitevi dell'amore che è il vincolo della _____.'",
+    "correct": "perfezione",
+    "wrong": ["armonia", "pace", "ordine"],
+    "hint": "L'amore crea completezza totale",
+    "explanation": "Paolo descrive l'amore come la virtù che tiene insieme tutte le altre virtù in perfetta integrità.",
+    "full_verse": "Al di sopra di tutte queste cose vestitevi dell'amore che è il vincolo della perfezione.",
+    "verse_ref": "Colossesi 3:14"
+  },
+  "q_love_029": {
+    "question": "Completa il versetto: 'Infatti sono persuaso che né morte, né vita... potranno separarci dall'_____ di Dio.'",
+    "correct": "amore",
+    "wrong": ["grazia", "potenza", "presenza"],
+    "hint": "Niente può rompere questo legame con Dio",
+    "explanation": "Paolo dichiara trionfalmente che assolutamente nulla può separare i credenti dall'amore di Dio in Cristo.",
+    "full_verse": "Infatti sono persuaso che né morte, né vita, né angeli, né principati, né cose presenti, né cose future, né potenze, né altezza, né profondità, né alcun'altra creatura potranno separarci dall'amore di Dio che è in Cristo Gesù, nostro Signore.",
+    "verse_ref": "Romani 8:38-39"
+  },
+  "q_love_030": {
+    "question": "Completa il versetto: 'Se avessi il dono di profezia e conoscessi tutti i misteri e tutta la scienza e avessi tutta la fede in modo da trasportare i monti, ma non avessi amore, non sarei _____.'",
+    "correct": "nulla",
+    "wrong": ["vuoto", "perduto", "stolto"],
+    "hint": "Senza amore, anche i grandi doni equivalgono a zero",
+    "explanation": "Paolo enfatizza che anche i più grandi doni e abilità spirituali sono inutili senza amore.",
+    "full_verse": "Se avessi il dono di profezia e conoscessi tutti i misteri e tutta la scienza e avessi tutta la fede in modo da trasportare i monti, ma non avessi amore, non sarei nulla.",
+    "verse_ref": "1 Corinzi 13:2"
+  },
+  "q_love_031": {
+    "question": "Completa il versetto: 'Sì, io ti amo di un amore _____; perciò ti ho attirato con bontà.'",
+    "correct": "eterno",
+    "wrong": ["infinito", "perpetuo", "immenso"],
+    "hint": "Questo amore non ha fine",
+    "explanation": "Dio dichiara il suo amore per il suo popolo come eterno e immutabile, attirandoli con bontà.",
+    "full_verse": "Sì, io ti amo di un amore eterno; perciò ti ho attirato con bontà.",
+    "verse_ref": "Geremia 31:3"
+  },
+  "q_love_032": {
+    "question": "Completa il versetto: 'Quanto all'amore fraterno, siate pieni di affetto gli uni per gli altri. Quanto all'onore, fate a gara nel rendervelo _____.'",
+    "correct": "reciprocamente",
+    "wrong": ["vicendevolmente", "sempre", "costantemente"],
+    "hint": "Metti gli altri al primo posto",
+    "explanation": "Paolo istruisce i credenti a praticare l'amore disinteressato, mettendo l'onore degli altri al di sopra del proprio.",
+    "full_verse": "Quanto all'amore fraterno, siate pieni di affetto gli uni per gli altri. Quanto all'onore, fate a gara nel rendervelo reciprocamente.",
+    "verse_ref": "Romani 12:10"
+  },
+  "q_love_033": {
+    "question": "Completa il versetto: 'Il Signore vi faccia crescere e _____ nell'amore gli uni verso gli altri.'",
+    "correct": "abbondare",
+    "wrong": ["moltiplicare", "espandere", "diffondere"],
+    "hint": "L'amore dovrebbe traboccare abbondantemente",
+    "explanation": "Paolo prega che l'amore dei Tessalonicesi cresca così tanto da traboccare verso tutti intorno a loro.",
+    "full_verse": "Il Signore vi faccia crescere e abbondare nell'amore gli uni verso gli altri e verso tutti, come anche noi abbondiamo verso di voi.",
+    "verse_ref": "1 Tessalonicesi 3:12"
+  },
+  "q_love_034": {
+    "question": "Completa il versetto: 'Se distribuissi tutti i miei beni per nutrire i poveri, e se dessi il mio corpo a essere arso, ma non avessi amore, non ne avrei alcun _____.'",
+    "correct": "vantaggio",
+    "wrong": ["profitto", "beneficio", "guadagno"],
+    "hint": "Senza amore, anche il sacrificio è inutile",
+    "explanation": "Paolo mostra che anche gli atti più generosi e sacrificali sono senza profitto senza amore genuino.",
+    "full_verse": "Se distribuissi tutti i miei beni per nutrire i poveri, e se dessi il mio corpo a essere arso, ma non avessi amore, non ne avrei alcun vantaggio.",
+    "verse_ref": "1 Corinzi 13:3"
+  },
+  "q_love_035": {
+    "question": "Completa il versetto: 'Voi avete udito che fu detto: \"Ama il tuo prossimo e odia il tuo _____.'\"",
+    "correct": "nemico",
+    "wrong": ["rivale", "avversario", "oppositore"],
+    "hint": "Gesù citò questo insegnamento comune prima di correggerlo",
+    "explanation": "Gesù citò la popolare interpretazione errata prima di insegnare che dobbiamo amare anche i nostri nemici.",
+    "full_verse": "Voi avete udito che fu detto: 'Ama il tuo prossimo e odia il tuo nemico.'",
+    "verse_ref": "Matteo 5:43"
+  },
+  "q_love_036": {
+    "question": "Completa il versetto: 'Nessuno ha mai visto Dio; se ci amiamo gli uni gli altri, Dio dimora in noi e il suo amore diventa _____ in noi.'",
+    "correct": "perfetto",
+    "wrong": ["completo", "intero", "pieno"],
+    "hint": "L'amore di Dio raggiunge il suo obiettivo in noi",
+    "explanation": "Giovanni insegna che amarsi a vicenda è prova della presenza di Dio e del suo amore che raggiunge il suo scopo previsto.",
+    "full_verse": "Nessuno ha mai visto Dio; se ci amiamo gli uni gli altri, Dio dimora in noi e il suo amore diventa perfetto in noi.",
+    "verse_ref": "1 Giovanni 4:12"
+  },
+  "q_love_037": {
+    "question": "Completa il versetto: 'In questo è l'amore: che camminiamo secondo i suoi _____.'",
+    "correct": "comandamenti",
+    "wrong": ["insegnamenti", "istruzioni", "precetti"],
+    "hint": "L'amore si dimostra seguendo le istruzioni di Dio",
+    "explanation": "Giovanni definisce l'amore praticamente come obbedienza ai comandamenti di Dio, non solo un'emozione.",
+    "full_verse": "In questo è l'amore: che camminiamo secondo i suoi comandamenti. Questo è il comandamento in cui dovete camminare, come avete imparato fin dal principio, per camminare in esso.",
+    "verse_ref": "2 Giovanni 1:6"
+  },
+  "q_love_038": {
+    "question": "Completa il versetto: 'Da questo conosceranno tutti che siete miei discepoli, se avete amore gli uni per gli _____.'",
+    "correct": "altri",
+    "wrong": ["prossimi", "fratelli", "amici"],
+    "hint": "L'amore reciproco identifica i seguaci di Cristo",
+    "explanation": "Gesù dichiarò che l'amore tra i suoi seguaci sarebbe stato il segno distintivo del vero discepolato.",
+    "full_verse": "Da questo conosceranno tutti che siete miei discepoli, se avete amore gli uni per gli altri.",
+    "verse_ref": "Giovanni 13:35"
+  },
+  "q_love_039": {
+    "question": "Completa il versetto: 'Bontà e verità non ti abbandonino; legatele al _____.'",
+    "correct": "collo",
+    "wrong": ["cuore", "polso", "fianco"],
+    "hint": "Indossa queste virtù come gioielli",
+    "explanation": "Il proverbio ci istruisce a tenere bontà e verità vicine, come una collana sempre indossata.",
+    "full_verse": "Bontà e verità non ti abbandonino; legatele al collo, scrivile sulla tavola del tuo cuore.",
+    "verse_ref": "Proverbi 3:3"
+  },
+  "q_love_040": {
+    "question": "Completa il versetto: 'L'amore non si comporta in modo sconveniente, non cerca il proprio interesse, non si _____ facilmente.'",
+    "correct": "irrita",
+    "wrong": ["offende", "ferisce", "provoca"],
+    "hint": "L'amore mantiene la calma",
+    "explanation": "Paolo descrive l'amore come paziente con gli altri, non rapido ad arrabbiarsi o perdere la calma.",
+    "full_verse": "L'amore non si comporta in modo sconveniente, non cerca il proprio interesse, non si irrita facilmente, non tiene conto del male ricevuto.",
+    "verse_ref": "1 Corinzi 13:5"
+  },
+  "q_love_041": {
+    "question": "Completa il versetto: 'Or la speranza non delude, perché l'amore di Dio è stato sparso nei nostri _____ mediante lo Spirito Santo.'",
+    "correct": "cuori",
+    "wrong": ["anime", "vite", "menti"],
+    "hint": "Lo Spirito riempie questa parte di noi con l'amore di Dio",
+    "explanation": "Paolo descrive come lo Spirito Santo riempie i cuori dei credenti con la conoscenza esperienziale dell'amore di Dio.",
+    "full_verse": "Or la speranza non delude, perché l'amore di Dio è stato sparso nei nostri cuori mediante lo Spirito Santo che ci è stato dato.",
+    "verse_ref": "Romani 5:5"
+  },
+  "q_love_042": {
+    "question": "Completa il versetto: 'L'odio provoca contese, ma l'amore copre ogni _____.'",
+    "correct": "colpa",
+    "wrong": ["peccato", "difetto", "errore"],
+    "hint": "L'amore trascura le offese",
+    "explanation": "Questo proverbio contrasta l'odio, che crea conflitto, con l'amore, che perdona e copre le offese.",
+    "full_verse": "L'odio provoca contese, ma l'amore copre ogni colpa.",
+    "verse_ref": "Proverbi 10:12"
+  },
+  "q_love_043": {
+    "question": "Completa il versetto: 'Mettimi come un sigillo sul tuo cuore, come un sigillo sul tuo braccio; perché l'amore è forte come la _____.'",
+    "correct": "morte",
+    "wrong": ["vita", "fede", "Dio"],
+    "hint": "La potenza dell'amore è paragonata a qualcosa di inevitabile",
+    "explanation": "Il Cantico dei Cantici descrive poeticamente il potere irresistibile dell'amore, paragonandolo alla forza inarrestabile della morte.",
+    "full_verse": "Mettimi come un sigillo sul tuo cuore, come un sigillo sul tuo braccio; perché l'amore è forte come la morte, la gelosia è dura come il soggiorno dei morti.",
+    "verse_ref": "Cantico dei Cantici 8:6"
+  },
+  "q_love_044": {
+    "question": "Completa il versetto: 'In questo si è manifestato per noi l'amore di Dio: che Dio ha mandato il suo unigenito _____ nel mondo.'",
+    "correct": "Figlio",
+    "wrong": ["Spirito", "Parola", "Dono"],
+    "hint": "Dio ha mandato Gesù per dimostrare il suo amore",
+    "explanation": "Giovanni spiega che l'amore di Dio è stato dimostrato mandando Gesù Cristo nel mondo.",
+    "full_verse": "In questo si è manifestato per noi l'amore di Dio: che Dio ha mandato il suo unigenito Figlio nel mondo, affinché, per mezzo di lui, vivessimo.",
+    "verse_ref": "1 Giovanni 4:9"
+  },
+  "q_love_045": {
+    "question": "Completa il versetto: 'L'amore sia senza _____. Aborrite il male e attenetevi fermamente al bene.'",
+    "correct": "ipocrisia",
+    "wrong": ["impurità", "falsità", "inganno"],
+    "hint": "L'amore dovrebbe essere senza pretese",
+    "explanation": "Paolo istruisce che l'amore deve essere autentico e senza ipocrisia, accompagnato da discernimento morale.",
+    "full_verse": "L'amore sia senza ipocrisia. Aborrite il male e attenetevi fermamente al bene.",
+    "verse_ref": "Romani 12:9"
+  },
+  "q_love_046": {
+    "question": "Completa il versetto: 'L'amore non tiene conto del male _____.'",
+    "correct": "ricevuto",
+    "wrong": ["fatto", "commesso", "subito"],
+    "hint": "L'amore non serba rancore",
+    "explanation": "Paolo descrive l'amore come perdonatore, che non tiene un elenco delle offese commesse contro di noi.",
+    "full_verse": "L'amore non si comporta in modo sconveniente, non cerca il proprio interesse, non si irrita facilmente, non tiene conto del male ricevuto.",
+    "verse_ref": "1 Corinzi 13:5"
+  },
+  "q_love_047": {
+    "question": "Completa il versetto: 'Quel che vale è la fede che opera per mezzo dell'_____.'",
+    "correct": "amore",
+    "wrong": ["opere", "azioni", "fatti"],
+    "hint": "La fede dovrebbe essere dimostrata in questo modo",
+    "explanation": "Paolo insegna che la vera fede è attiva e si manifesta attraverso l'amore per gli altri.",
+    "full_verse": "Infatti, in Cristo Gesù non ha valore né la circoncisione né l'incirconcisione; quello che vale è la fede che opera per mezzo dell'amore.",
+    "verse_ref": "Galati 5:6"
+  },
+  "q_love_048": {
+    "question": "Completa il versetto: 'Quand'ero bambino, parlavo da bambino, pensavo da bambino, ragionavo da bambino; ma quando sono diventato uomo, ho smesso le cose da _____.'",
+    "correct": "bambino",
+    "wrong": ["giovane", "immaturo", "fanciullo"],
+    "hint": "Crescere significa lasciare questa fase",
+    "explanation": "Paolo illustra che l'amore porta maturità, come crescere dall'infanzia all'età adulta.",
+    "full_verse": "Quand'ero bambino, parlavo da bambino, pensavo da bambino, ragionavo da bambino; ma quando sono diventato uomo, ho smesso le cose da bambino.",
+    "verse_ref": "1 Corinzi 13:11"
+  },
+  "q_love_049": {
+    "question": "Completa il versetto: 'Figlioli, non amiamo a parole né con la lingua, ma con i fatti e in _____.'",
+    "correct": "verità",
+    "wrong": ["azione", "fede", "spirito"],
+    "hint": "L'amore dovrebbe essere genuino e reale",
+    "explanation": "Giovanni chiede un amore che vada oltre le semplici parole verso azioni genuine che riflettano la verità.",
+    "full_verse": "Figlioli, non amiamo a parole né con la lingua, ma con i fatti e in verità.",
+    "verse_ref": "1 Giovanni 3:18"
+  },
+  "q_love_050": {
+    "question": "Completa il versetto: 'Noi abbiamo conosciuto l'amore che Dio ha per noi, e vi abbiamo creduto. Dio è amore; e chi dimora nell'amore dimora in _____, e Dio dimora in lui.'",
+    "correct": "Dio",
+    "wrong": ["pace", "luce", "verità"],
+    "hint": "Vivere nell'amore significa dimorare nel Divino",
+    "explanation": "Giovanni insegna che coloro che vivono nell'amore sperimentano una dimora intima e reciproca con Dio.",
+    "full_verse": "Noi abbiamo conosciuto l'amore che Dio ha per noi, e vi abbiamo creduto. Dio è amore; e chi dimora nell'amore dimora in Dio, e Dio dimora in lui.",
+    "verse_ref": "1 Giovanni 4:16"
+  }
+}

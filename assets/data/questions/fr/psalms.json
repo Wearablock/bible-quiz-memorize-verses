@@ -1,1 +1,452 @@
-{}
+{
+  "q_psalms_001": {
+    "question": "Selon Psaume 23:1, « L'Éternel est mon _____; je ne manquerai de rien. »",
+    "correct": "berger",
+    "wrong": ["guide", "père", "protecteur"],
+    "hint": "Cette personne prend soin des brebis",
+    "explanation": "Dieu est représenté comme un berger attentionné qui pourvoit à tous nos besoins.",
+    "full_verse": "L'Éternel est mon berger; je ne manquerai de rien.",
+    "verse_ref": "Psaume 23:1"
+  },
+  "q_psalms_002": {
+    "question": "Selon Psaume 23:4, « Quand je marche dans la vallée de l'ombre de la mort, je ne crains aucun _____, car tu es avec moi. »",
+    "correct": "mal",
+    "wrong": ["danger", "ennemi", "mort"],
+    "hint": "C'est le contraire du bien",
+    "explanation": "La présence de Dieu nous donne du courage même dans les circonstances les plus difficiles.",
+    "full_verse": "Quand je marche dans la vallée de l'ombre de la mort, je ne crains aucun mal, car tu es avec moi; ta houlette et ton bâton me rassurent.",
+    "verse_ref": "Psaume 23:4"
+  },
+  "q_psalms_003": {
+    "question": "Selon Psaume 46:2, « Dieu est pour nous un refuge et un appui, un secours qui ne manque jamais dans la _____. »",
+    "correct": "détresse",
+    "wrong": ["danger", "besoin", "difficulté"],
+    "hint": "Ce mot signifie difficulté ou épreuve",
+    "explanation": "Dieu est toujours disponible pour nous aider dans les moments difficiles.",
+    "full_verse": "Dieu est pour nous un refuge et un appui, un secours qui ne manque jamais dans la détresse.",
+    "verse_ref": "Psaume 46:2"
+  },
+  "q_psalms_004": {
+    "question": "Selon Psaume 27:1, « L'Éternel est ma lumière et mon salut: de qui aurais-je _____? »",
+    "correct": "crainte",
+    "wrong": ["peur", "frayeur", "terreur"],
+    "hint": "C'est ce que nous n'avons pas besoin de ressentir quand Dieu est avec nous",
+    "explanation": "Avec Dieu comme notre lumière et notre salut, nous n'avons aucune raison de craindre quiconque.",
+    "full_verse": "L'Éternel est ma lumière et mon salut: de qui aurais-je crainte? L'Éternel est le soutien de ma vie: de qui aurais-je peur?",
+    "verse_ref": "Psaume 27:1"
+  },
+  "q_psalms_005": {
+    "question": "Selon Psaume 119:105, « Ta parole est une lampe à mes pieds, et une _____ sur mon sentier. »",
+    "correct": "lumière",
+    "wrong": ["guide", "balise", "torche"],
+    "hint": "Cela illumine le chemin devant nous",
+    "explanation": "La Parole de Dieu fournit une direction et une guidance pour notre vie.",
+    "full_verse": "Ta parole est une lampe à mes pieds, et une lumière sur mon sentier.",
+    "verse_ref": "Psaume 119:105"
+  },
+  "q_psalms_006": {
+    "question": "Selon Psaume 1:1, « Heureux l'homme qui ne marche pas selon le conseil des méchants, qui ne s'arrête pas sur la voie des pécheurs, et qui ne s'assied pas en compagnie des _____. »",
+    "correct": "moqueurs",
+    "wrong": ["pécheurs", "insensés", "impies"],
+    "hint": "Ces personnes se moquent des autres",
+    "explanation": "La vraie bénédiction vient en évitant l'influence de ceux qui se moquent des voies de Dieu.",
+    "full_verse": "Heureux l'homme qui ne marche pas selon le conseil des méchants, qui ne s'arrête pas sur la voie des pécheurs, et qui ne s'assied pas en compagnie des moqueurs.",
+    "verse_ref": "Psaume 1:1"
+  },
+  "q_psalms_007": {
+    "question": "Selon Psaume 100:1, « Poussez vers l'Éternel des cris de _____, vous tous, habitants de la terre! »",
+    "correct": "joie",
+    "wrong": ["louange", "gloire", "reconnaissance"],
+    "hint": "C'est une expression de grand bonheur",
+    "explanation": "Nous sommes appelés à exprimer notre joie à Dieu avec enthousiasme.",
+    "full_verse": "Poussez vers l'Éternel des cris de joie, vous tous, habitants de la terre!",
+    "verse_ref": "Psaume 100:1"
+  },
+  "q_psalms_008": {
+    "question": "Selon Psaume 118:24, « C'est ici la journée que l'Éternel a faite: qu'elle soit pour nous un sujet d'allégresse et de _____! »",
+    "correct": "joie",
+    "wrong": ["bonheur", "reconnaissance", "louange"],
+    "hint": "Cela signifie être heureux",
+    "explanation": "Chaque jour est un don de Dieu, digne d'être célébré.",
+    "full_verse": "C'est ici la journée que l'Éternel a faite: qu'elle soit pour nous un sujet d'allégresse et de joie!",
+    "verse_ref": "Psaume 118:24"
+  },
+  "q_psalms_009": {
+    "question": "Selon Psaume 150:6, « Que tout ce qui respire _____ l'Éternel! Louez l'Éternel! »",
+    "correct": "loue",
+    "wrong": ["bénisse", "adore", "serve"],
+    "hint": "C'est ce que toutes les créatures vivantes doivent faire envers Dieu",
+    "explanation": "Tous les êtres vivants sont appelés à louer Dieu.",
+    "full_verse": "Que tout ce qui respire loue l'Éternel! Louez l'Éternel!",
+    "verse_ref": "Psaume 150:6"
+  },
+  "q_psalms_010": {
+    "question": "Selon Psaume 34:9, « Sentez et voyez combien l'Éternel est _____! Heureux l'homme qui cherche en lui son refuge! »",
+    "correct": "bon",
+    "wrong": ["grand", "fidèle", "aimant"],
+    "hint": "C'est le contraire de mauvais",
+    "explanation": "Nous pouvons expérimenter personnellement la bonté de Dieu quand nous lui faisons confiance.",
+    "full_verse": "Sentez et voyez combien l'Éternel est bon! Heureux l'homme qui cherche en lui son refuge!",
+    "verse_ref": "Psaume 34:9"
+  },
+  "q_psalms_011": {
+    "question": "Selon Psaume 37:4, « Fais de l'Éternel tes délices, et il te donnera ce que ton _____ désire. »",
+    "correct": "cœur",
+    "wrong": ["âme", "esprit", "être"],
+    "hint": "C'est le centre de vos émotions et désirs",
+    "explanation": "Quand nous trouvons notre joie en Dieu, il façonne et accomplit nos désirs les plus profonds.",
+    "full_verse": "Fais de l'Éternel tes délices, et il te donnera ce que ton cœur désire.",
+    "verse_ref": "Psaume 37:4"
+  },
+  "q_psalms_012": {
+    "question": "Selon Psaume 51:12, « Ô Dieu! crée en moi un cœur pur, renouvelle en moi un esprit _____. »",
+    "correct": "bien disposé",
+    "wrong": ["saint", "nouveau", "fidèle"],
+    "hint": "Cela signifie être ferme et stable",
+    "explanation": "David demande à Dieu une transformation intérieure et un engagement renouvelé.",
+    "full_verse": "Ô Dieu! crée en moi un cœur pur, renouvelle en moi un esprit bien disposé.",
+    "verse_ref": "Psaume 51:12"
+  },
+  "q_psalms_013": {
+    "question": "Selon Psaume 91:1, « Celui qui demeure sous l'abri du Très-Haut repose à l'_____ du Tout-Puissant. »",
+    "correct": "ombre",
+    "wrong": ["présence", "bras", "protection"],
+    "hint": "C'est ce qui est créé quand la lumière est bloquée",
+    "explanation": "Dieu fournit protection et repos à ceux qui demeurent près de lui.",
+    "full_verse": "Celui qui demeure sous l'abri du Très-Haut repose à l'ombre du Tout-Puissant.",
+    "verse_ref": "Psaume 91:1"
+  },
+  "q_psalms_014": {
+    "question": "Selon Psaume 103:1, « Mon âme, bénis l'Éternel! Que tout ce qui est en moi bénisse son saint _____! »",
+    "correct": "nom",
+    "wrong": ["parole", "gloire", "majesté"],
+    "hint": "Cela représente l'identité et le caractère de Dieu",
+    "explanation": "Nous louons le nom de Dieu parce qu'il représente qui il est.",
+    "full_verse": "Mon âme, bénis l'Éternel! Que tout ce qui est en moi bénisse son saint nom!",
+    "verse_ref": "Psaume 103:1"
+  },
+  "q_psalms_015": {
+    "question": "Selon Psaume 139:14, « Je te loue de ce que je suis une créature si _____. Tes œuvres sont admirables, et mon âme le reconnaît bien. »",
+    "correct": "merveilleuse",
+    "wrong": ["belle", "parfaite", "unique"],
+    "hint": "Cela signifie d'une manière étonnante",
+    "explanation": "Nous sommes créés avec beaucoup de soin et d'intention par Dieu.",
+    "full_verse": "Je te loue de ce que je suis une créature si merveilleuse. Tes œuvres sont admirables, et mon âme le reconnaît bien.",
+    "verse_ref": "Psaume 139:14"
+  },
+  "q_psalms_016": {
+    "question": "Selon Psaume 19:2, « Les cieux racontent la gloire de Dieu, et l'étendue manifeste l'œuvre de ses _____. »",
+    "correct": "mains",
+    "wrong": ["puissance", "création", "majesté"],
+    "hint": "Ce sont des parties du corps utilisées pour faire des choses",
+    "explanation": "La création elle-même témoigne de la puissance créatrice de Dieu.",
+    "full_verse": "Les cieux racontent la gloire de Dieu, et l'étendue manifeste l'œuvre de ses mains.",
+    "verse_ref": "Psaume 19:2"
+  },
+  "q_psalms_017": {
+    "question": "Selon Psaume 46:11, « Arrêtez, et sachez que je suis _____: Je domine sur les nations, je domine sur la terre. »",
+    "correct": "Dieu",
+    "wrong": ["l'Éternel", "saint", "souverain"],
+    "hint": "C'est l'être divin",
+    "explanation": "Nous sommes appelés à nous calmer et à reconnaître la souveraineté de Dieu.",
+    "full_verse": "Arrêtez, et sachez que je suis Dieu: Je domine sur les nations, je domine sur la terre.",
+    "verse_ref": "Psaume 46:11"
+  },
+  "q_psalms_018": {
+    "question": "Selon Psaume 23:6, « Oui, le bonheur et la grâce m'accompagneront tous les jours de ma vie, et j'habiterai dans la maison de l'Éternel jusqu'à la fin de mes _____. »",
+    "correct": "jours",
+    "wrong": ["temps", "années", "moments"],
+    "hint": "Cela se réfère à la durée de la vie",
+    "explanation": "La bonté de Dieu nous accompagne tout au long de la vie et dans l'éternité.",
+    "full_verse": "Oui, le bonheur et la grâce m'accompagneront tous les jours de ma vie, et j'habiterai dans la maison de l'Éternel jusqu'à la fin de mes jours.",
+    "verse_ref": "Psaume 23:6"
+  },
+  "q_psalms_019": {
+    "question": "Selon Psaume 121:1-2, « Je lève mes yeux vers les montagnes... D'où me viendra le secours? Le secours me vient de l'Éternel, qui a fait les cieux et la _____. »",
+    "correct": "terre",
+    "wrong": ["création", "monde", "tout"],
+    "hint": "C'est le sol sur lequel nous nous tenons",
+    "explanation": "Notre secours vient du Créateur de toutes choses.",
+    "full_verse": "Je lève mes yeux vers les montagnes... D'où me viendra le secours? Le secours me vient de l'Éternel, qui a fait les cieux et la terre.",
+    "verse_ref": "Psaume 121:1-2"
+  },
+  "q_psalms_020": {
+    "question": "Selon Psaume 34:19, « L'Éternel est près de ceux qui ont le cœur brisé, et il sauve ceux qui ont l'esprit dans l'_____. »",
+    "correct": "abattement",
+    "wrong": ["affliction", "détresse", "angoisse"],
+    "hint": "Cela signifie être écrasé ou découragé",
+    "explanation": "Dieu est particulièrement proche de ceux qui souffrent de douleur émotionnelle.",
+    "full_verse": "L'Éternel est près de ceux qui ont le cœur brisé, et il sauve ceux qui ont l'esprit dans l'abattement.",
+    "verse_ref": "Psaume 34:19"
+  },
+  "q_psalms_021": {
+    "question": "Selon Psaume 42:2, « Comme une biche soupire après des courants d'eau, ainsi mon âme _____ après toi, ô Dieu! »",
+    "correct": "soupire",
+    "wrong": ["aspire", "languit", "désire"],
+    "hint": "C'est ce que fait une biche assoiffée",
+    "explanation": "Nos âmes devraient aspirer à Dieu comme un animal assoiffé cherche de l'eau.",
+    "full_verse": "Comme une biche soupire après des courants d'eau, ainsi mon âme soupire après toi, ô Dieu!",
+    "verse_ref": "Psaume 42:2"
+  },
+  "q_psalms_022": {
+    "question": "Selon Psaume 55:23, « Remets ton sort à l'Éternel, et il te _____; il ne laissera jamais chanceler le juste. »",
+    "correct": "soutiendra",
+    "wrong": ["aidera", "portera", "gardera"],
+    "hint": "Cela signifie maintenir ou supporter",
+    "explanation": "Dieu nous invite à lui donner nos soucis et promet de nous soutenir.",
+    "full_verse": "Remets ton sort à l'Éternel, et il te soutiendra; il ne laissera jamais chanceler le juste.",
+    "verse_ref": "Psaume 55:23"
+  },
+  "q_psalms_023": {
+    "question": "Selon Psaume 84:12, « Car l'Éternel Dieu est un soleil et un bouclier; l'Éternel donne la grâce et la gloire; il ne refuse aucun bien à ceux qui marchent dans l'_____. »",
+    "correct": "intégrité",
+    "wrong": ["justice", "fidélité", "sainteté"],
+    "hint": "Cela signifie sans faute",
+    "explanation": "Dieu donne généreusement à ceux qui vivent avec intégrité.",
+    "full_verse": "Car l'Éternel Dieu est un soleil et un bouclier; l'Éternel donne la grâce et la gloire, il ne refuse aucun bien à ceux qui marchent dans l'intégrité.",
+    "verse_ref": "Psaume 84:12"
+  },
+  "q_psalms_024": {
+    "question": "Selon Psaume 91:11, « Car il ordonnera à ses anges de te garder dans toutes tes _____. »",
+    "correct": "voies",
+    "wrong": ["chemins", "pas", "jours"],
+    "hint": "Cela se réfère à vos directions ou activités",
+    "explanation": "Dieu envoie des anges pour protéger son peuple.",
+    "full_verse": "Car il ordonnera à ses anges de te garder dans toutes tes voies.",
+    "verse_ref": "Psaume 91:11"
+  },
+  "q_psalms_025": {
+    "question": "Selon Psaume 145:18, « L'Éternel est près de tous ceux qui l'invoquent, de tous ceux qui l'invoquent avec _____. »",
+    "correct": "sincérité",
+    "wrong": ["foi", "esprit", "vérité"],
+    "hint": "Cela signifie authenticité ou honnêteté",
+    "explanation": "Dieu s'approche de ceux qui le cherchent sincèrement.",
+    "full_verse": "L'Éternel est près de tous ceux qui l'invoquent, de tous ceux qui l'invoquent avec sincérité.",
+    "verse_ref": "Psaume 145:18"
+  },
+  "q_psalms_026": {
+    "question": "Selon Psaume 8:4-5, « Quand je contemple les cieux, ouvrage de tes mains, la lune et les étoiles que tu as créées: Qu'est-ce que l'homme, pour que tu te _____ de lui? »",
+    "correct": "souviennes",
+    "wrong": ["occupes", "soucies", "préoccupes"],
+    "hint": "Cela signifie penser à ou se rappeler",
+    "explanation": "Malgré l'immensité de la création, Dieu se soucie profondément de l'humanité.",
+    "full_verse": "Quand je contemple les cieux, ouvrage de tes mains, la lune et les étoiles que tu as créées: Qu'est-ce que l'homme, pour que tu te souviennes de lui? Et le fils de l'homme, pour que tu prennes garde à lui?",
+    "verse_ref": "Psaume 8:4-5"
+  },
+  "q_psalms_027": {
+    "question": "Selon Psaume 16:11, « Tu me feras connaître le sentier de la vie; il y a d'abondantes joies devant ta face, des délices éternelles à ta _____. »",
+    "correct": "droite",
+    "wrong": ["présence", "trône", "place"],
+    "hint": "C'est une partie du corps symbolisant une position d'honneur",
+    "explanation": "La présence de Dieu apporte une joie complète et des bénédictions éternelles.",
+    "full_verse": "Tu me feras connaître le sentier de la vie; il y a d'abondantes joies devant ta face, des délices éternelles à ta droite.",
+    "verse_ref": "Psaume 16:11"
+  },
+  "q_psalms_028": {
+    "question": "Selon Psaume 19:15, « Reçois favorablement les paroles de ma bouche et les sentiments de mon cœur, ô Éternel, mon rocher et mon _____! »",
+    "correct": "libérateur",
+    "wrong": ["sauveur", "refuge", "défenseur"],
+    "hint": "C'est celui qui délivre ou rachète",
+    "explanation": "Nous désirons que nos paroles et nos pensées honorent Dieu.",
+    "full_verse": "Reçois favorablement les paroles de ma bouche et les sentiments de mon cœur, ô Éternel, mon rocher et mon libérateur!",
+    "verse_ref": "Psaume 19:15"
+  },
+  "q_psalms_029": {
+    "question": "Selon Psaume 24:1, « A l'Éternel la terre et ce qu'elle renferme, le monde et ceux qui l'_____! »",
+    "correct": "habitent",
+    "wrong": ["peuplent", "occupent", "remplissent"],
+    "hint": "Cela signifie résider ou vivre",
+    "explanation": "Dieu possède tout dans la création, y compris tous les peuples.",
+    "full_verse": "A l'Éternel la terre et ce qu'elle renferme, le monde et ceux qui l'habitent!",
+    "verse_ref": "Psaume 24:1"
+  },
+  "q_psalms_030": {
+    "question": "Selon Psaume 32:8, « Je t'instruirai et te montrerai la voie que tu dois suivre; je te _____ de mon œil. »",
+    "correct": "conseillerai",
+    "wrong": ["guiderai", "surveillerai", "conduirai"],
+    "hint": "Cela signifie donner des conseils",
+    "explanation": "Dieu promet de nous guider et de nous conseiller personnellement.",
+    "full_verse": "Je t'instruirai et te montrerai la voie que tu dois suivre; je te conseillerai, j'aurai le regard sur toi.",
+    "verse_ref": "Psaume 32:8"
+  },
+  "q_psalms_031": {
+    "question": "Selon Psaume 37:23-24, « L'Éternel affermit les pas de l'homme, et il prend plaisir à sa voie; s'il tombe, il n'est pas terrassé, car l'Éternel lui prend la _____. »",
+    "correct": "main",
+    "wrong": ["bras", "force", "vie"],
+    "hint": "Cette partie du corps est utilisée pour tenir quelqu'un",
+    "explanation": "Dieu soutient ceux qui se réjouissent en lui, même quand ils trébuchent.",
+    "full_verse": "L'Éternel affermit les pas de l'homme, et il prend plaisir à sa voie; s'il tombe, il n'est pas terrassé, car l'Éternel lui prend la main.",
+    "verse_ref": "Psaume 37:23-24"
+  },
+  "q_psalms_032": {
+    "question": "Selon Psaume 40:2-3, « J'ai espéré en l'Éternel, et il s'est incliné vers moi, il a écouté mes cris. Il m'a retiré de la fosse de destruction, du fond de la _____. »",
+    "correct": "boue",
+    "wrong": ["terre", "fosse", "poussière"],
+    "hint": "C'est de la terre mouillée et profonde",
+    "explanation": "Dieu nous sauve des situations désespérées et nous donne de la stabilité.",
+    "full_verse": "J'ai espéré en l'Éternel, et il s'est incliné vers moi, il a écouté mes cris. Il m'a retiré de la fosse de destruction, du fond de la boue; il a dressé mes pieds sur le roc, il a affermi mes pas.",
+    "verse_ref": "Psaume 40:2-3"
+  },
+  "q_psalms_033": {
+    "question": "Selon Psaume 51:19, « Les sacrifices qui sont agréables à Dieu, c'est un esprit brisé: ô Dieu! tu ne dédaignes pas un cœur brisé et _____. »",
+    "correct": "contrit",
+    "wrong": ["humble", "repentant", "triste"],
+    "hint": "Cela signifie éprouver du regret pour ses fautes",
+    "explanation": "Dieu valorise la repentance sincère plus que les rituels religieux extérieurs.",
+    "full_verse": "Les sacrifices qui sont agréables à Dieu, c'est un esprit brisé: ô Dieu! tu ne dédaignes pas un cœur brisé et contrit.",
+    "verse_ref": "Psaume 51:19"
+  },
+  "q_psalms_034": {
+    "question": "Selon Psaume 56:4, « Quand je suis dans la _____, je me confie en toi. »",
+    "correct": "crainte",
+    "wrong": ["détresse", "peine", "angoisse"],
+    "hint": "C'est une émotion ressentie face au danger",
+    "explanation": "La peur devrait nous pousser à faire davantage confiance à Dieu.",
+    "full_verse": "Quand je suis dans la crainte, je me confie en toi.",
+    "verse_ref": "Psaume 56:4"
+  },
+  "q_psalms_035": {
+    "question": "Selon Psaume 62:2-3, « Oui, c'est en Dieu que mon âme se confie; de lui vient mon salut. Oui, c'est lui qui est mon rocher et mon _____. »",
+    "correct": "salut",
+    "wrong": ["refuge", "bouclier", "force"],
+    "hint": "C'est la délivrance du danger",
+    "explanation": "Dieu seul fournit un vrai repos et une vraie sécurité pour nos âmes.",
+    "full_verse": "Oui, c'est en Dieu que mon âme se confie; de lui vient mon salut. Oui, c'est lui qui est mon rocher et mon salut; ma haute retraite: je ne chancellerai guère.",
+    "verse_ref": "Psaume 62:2-3"
+  },
+  "q_psalms_036": {
+    "question": "Selon Psaume 73:26, « Ma chair et mon cœur peuvent se consumer: Dieu sera toujours le rocher de mon cœur et mon _____ pour toujours. »",
+    "correct": "partage",
+    "wrong": ["espoir", "refuge", "héritage"],
+    "hint": "Cela signifie sa part ou son allocation",
+    "explanation": "Même quand notre corps défaille, Dieu reste notre héritage éternel.",
+    "full_verse": "Ma chair et mon cœur peuvent se consumer: Dieu sera toujours le rocher de mon cœur et mon partage pour toujours.",
+    "verse_ref": "Psaume 73:26"
+  },
+  "q_psalms_037": {
+    "question": "Selon Psaume 86:5, « Car tu es bon, Seigneur, tu pardonnes, tu es plein d'amour pour tous ceux qui t'_____. »",
+    "correct": "invoquent",
+    "wrong": ["aiment", "prient", "adorent"],
+    "hint": "Cela signifie crier ou faire appel",
+    "explanation": "L'amour et le pardon de Dieu sont disponibles pour tous ceux qui le cherchent.",
+    "full_verse": "Car tu es bon, Seigneur, tu pardonnes, tu es plein d'amour pour tous ceux qui t'invoquent.",
+    "verse_ref": "Psaume 86:5"
+  },
+  "q_psalms_038": {
+    "question": "Selon Psaume 90:12, « Enseigne-nous à bien compter nos jours, afin que nous appliquions notre cœur à la _____. »",
+    "correct": "sagesse",
+    "wrong": ["intelligence", "connaissance", "prudence"],
+    "hint": "C'est la qualité d'être sage",
+    "explanation": "Reconnaître la brièveté de la vie nous aide à vivre sagement.",
+    "full_verse": "Enseigne-nous à bien compter nos jours, afin que nous appliquions notre cœur à la sagesse.",
+    "verse_ref": "Psaume 90:12"
+  },
+  "q_psalms_039": {
+    "question": "Selon Psaume 96:1, « Chantez à l'Éternel un cantique _____! Chantez à l'Éternel, vous tous, habitants de la terre! »",
+    "correct": "nouveau",
+    "wrong": ["de louange", "de joie", "sacré"],
+    "hint": "C'est l'opposé de vieux",
+    "explanation": "Nous sommes appelés à offrir continuellement de nouvelles louanges à Dieu.",
+    "full_verse": "Chantez à l'Éternel un cantique nouveau! Chantez à l'Éternel, vous tous, habitants de la terre!",
+    "verse_ref": "Psaume 96:1"
+  },
+  "q_psalms_040": {
+    "question": "Selon Psaume 103:12, « Autant l'orient est éloigné de l'occident, autant il éloigne de nous nos _____. »",
+    "correct": "transgressions",
+    "wrong": ["péchés", "iniquités", "offenses"],
+    "hint": "C'est un autre mot pour péchés ou violations",
+    "explanation": "Dieu enlève complètement nos péchés de nous.",
+    "full_verse": "Autant l'orient est éloigné de l'occident, autant il éloigne de nous nos transgressions.",
+    "verse_ref": "Psaume 103:12"
+  },
+  "q_psalms_041": {
+    "question": "Selon Psaume 107:1, « Louez l'Éternel, car il est bon, car sa miséricorde dure à _____! »",
+    "correct": "toujours",
+    "wrong": ["jamais", "éternellement", "perpétuité"],
+    "hint": "Cela signifie pour tout le temps sans fin",
+    "explanation": "L'amour de Dieu est éternel et immuable.",
+    "full_verse": "Louez l'Éternel, car il est bon, car sa miséricorde dure à toujours!",
+    "verse_ref": "Psaume 107:1"
+  },
+  "q_psalms_042": {
+    "question": "Selon Psaume 119:11, « Je serre ta parole dans mon cœur, afin de ne pas _____ contre toi. »",
+    "correct": "pécher",
+    "wrong": ["me rebeller", "m'éloigner", "m'égarer"],
+    "hint": "C'est commettre une faute contre Dieu",
+    "explanation": "Mémoriser l'Écriture nous aide à résister à la tentation.",
+    "full_verse": "Je serre ta parole dans mon cœur, afin de ne pas pécher contre toi.",
+    "verse_ref": "Psaume 119:11"
+  },
+  "q_psalms_043": {
+    "question": "Selon Psaume 127:3, « Voici, les enfants sont un héritage de l'Éternel, le fruit des entrailles est une _____. »",
+    "correct": "récompense",
+    "wrong": ["don", "bénédiction", "trésor"],
+    "hint": "C'est quelque chose reçu pour un accomplissement",
+    "explanation": "Les enfants sont un don précieux et une bénédiction de Dieu.",
+    "full_verse": "Voici, les enfants sont un héritage de l'Éternel, le fruit des entrailles est une récompense.",
+    "verse_ref": "Psaume 127:3"
+  },
+  "q_psalms_044": {
+    "question": "Selon Psaume 133:1, « Voici, oh! qu'il est agréable, qu'il est doux pour des frères de demeurer _____! »",
+    "correct": "ensemble",
+    "wrong": ["en paix", "unis", "en harmonie"],
+    "hint": "Cela signifie être réunis",
+    "explanation": "L'unité parmi les croyants est agréable à Dieu.",
+    "full_verse": "Voici, oh! qu'il est agréable, qu'il est doux pour des frères de demeurer ensemble!",
+    "verse_ref": "Psaume 133:1"
+  },
+  "q_psalms_045": {
+    "question": "Selon Psaume 139:23-24, « Sonde-moi, ô Dieu, et connais mon cœur! Éprouve-moi, et connais mes pensées! Regarde si je suis sur une mauvaise voie, et conduis-moi sur la voie de l'_____! »",
+    "correct": "éternité",
+    "wrong": ["justice", "sainteté", "intégrité"],
+    "hint": "Cela signifie durant pour toujours",
+    "explanation": "Nous invitons Dieu à nous examiner et à nous guider vers la vie éternelle.",
+    "full_verse": "Sonde-moi, ô Dieu, et connais mon cœur! Éprouve-moi, et connais mes pensées! Regarde si je suis sur une mauvaise voie, et conduis-moi sur la voie de l'éternité!",
+    "verse_ref": "Psaume 139:23-24"
+  },
+  "q_psalms_046": {
+    "question": "Selon Psaume 143:8, « Fais-moi dès le matin entendre ta bonté! Car je me confie en toi. Fais-moi connaître le chemin où je dois marcher! Car j'élève à toi mon _____. »",
+    "correct": "âme",
+    "wrong": ["cœur", "esprit", "être"],
+    "hint": "C'est la partie spirituelle d'une personne",
+    "explanation": "Nous cherchons la direction et l'amour de Dieu chaque matin.",
+    "full_verse": "Fais-moi dès le matin entendre ta bonté! Car je me confie en toi. Fais-moi connaître le chemin où je dois marcher! Car j'élève à toi mon âme.",
+    "verse_ref": "Psaume 143:8"
+  },
+  "q_psalms_047": {
+    "question": "Selon Psaume 147:3, « Il guérit ceux qui ont le cœur brisé, et il panse leurs _____. »",
+    "correct": "blessures",
+    "wrong": ["cœurs", "douleurs", "chagrins"],
+    "hint": "Ce sont des blessures qui ont besoin de guérison",
+    "explanation": "Dieu apporte la guérison à ceux qui sont blessés émotionnellement.",
+    "full_verse": "Il guérit ceux qui ont le cœur brisé, et il panse leurs blessures.",
+    "verse_ref": "Psaume 147:3"
+  },
+  "q_psalms_048": {
+    "question": "Selon Psaume 23:2-3, « Il me fait reposer dans de verts pâturages, il me dirige près des eaux paisibles. Il restaure mon _____. »",
+    "correct": "âme",
+    "wrong": ["esprit", "cœur", "être"],
+    "hint": "C'est la partie spirituelle d'une personne",
+    "explanation": "Dieu fournit repos et renouvellement pour notre être intérieur.",
+    "full_verse": "Il me fait reposer dans de verts pâturages, il me dirige près des eaux paisibles. Il restaure mon âme.",
+    "verse_ref": "Psaume 23:2-3"
+  },
+  "q_psalms_049": {
+    "question": "Selon Psaume 30:6, « Car sa colère dure un instant, mais sa grâce toute la vie; le soir arrivent les pleurs, et le _____ l'allégresse. »",
+    "correct": "matin",
+    "wrong": ["jour", "lendemain", "réveil"],
+    "hint": "C'est quand un nouveau jour commence",
+    "explanation": "La faveur de Dieu dure bien plus longtemps que sa discipline, et la joie suit la tristesse.",
+    "full_verse": "Car sa colère dure un instant, mais sa grâce toute la vie; le soir arrivent les pleurs, et le matin l'allégresse.",
+    "verse_ref": "Psaume 30:6"
+  },
+  "q_psalms_050": {
+    "question": "Selon Psaume 100:5, « Car l'Éternel est bon; sa bonté dure toujours, et sa fidélité de génération en _____. »",
+    "correct": "génération",
+    "wrong": ["âge", "temps", "éternité"],
+    "hint": "Cela se réfère aux groupes successifs de personnes au fil du temps",
+    "explanation": "La fidélité de Dieu s'étend à chaque génération.",
+    "full_verse": "Car l'Éternel est bon; sa bonté dure toujours, et sa fidélité de génération en génération.",
+    "verse_ref": "Psaume 100:5"
+  }
+}

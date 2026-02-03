@@ -1,1 +1,452 @@
-{}
+{
+  "q_jesus_001": {
+    "question": "Điền vào chỗ trống: 'Vì Đức Chúa Trời yêu thương thế gian đến nỗi đã ban Con Một của Ngài, hầu cho hễ ai tin Con ấy không bị hư mất mà được sự _____ đời đời.'",
+    "correct": "sống",
+    "wrong": ["vui mừng", "bình an", "hy vọng"],
+    "hint": "Món quà của việc tin vào Chúa Giê-xu",
+    "explanation": "Câu nổi tiếng này tóm tắt Tin Lành—tình yêu của Đức Chúa Trời dẫn Ngài ban Con Ngài để chúng ta có sự sống đời đời.",
+    "full_verse": "Vì Đức Chúa Trời yêu thương thế gian đến nỗi đã ban Con Một của Ngài, hầu cho hễ ai tin Con ấy không bị hư mất mà được sự sống đời đời.",
+    "verse_ref": "Giăng 3:16"
+  },
+  "q_jesus_002": {
+    "question": "Điền vào chỗ trống: 'Đức Chúa Giê-xu đáp: \"Ta là đường đi, chân lý và sự sống. Không ai đến được với Cha mà không qua _____.\"'",
+    "correct": "Ta",
+    "wrong": ["đức tin", "ân điển", "sự cầu nguyện"],
+    "hint": "Chúa Giê-xu là con đường duy nhất",
+    "explanation": "Chúa Giê-xu tuyên bố chính Ngài là con đường duy nhất đến với Đức Chúa Trời Cha.",
+    "full_verse": "Đức Chúa Giê-xu đáp: 'Ta là đường đi, chân lý và sự sống. Không ai đến được với Cha mà không qua Ta.'",
+    "verse_ref": "Giăng 14:6"
+  },
+  "q_jesus_003": {
+    "question": "Điền vào chỗ trống: 'Đức Chúa Giê-xu nói với bà: \"Ta là sự sống lại và sự sống. Người nào tin Ta thì dù có _____, cũng sẽ sống.\"'",
+    "correct": "chết",
+    "wrong": ["ngã", "thất bại", "phạm tội"],
+    "hint": "Cái chết thể xác không thể ngăn cản tín hữu",
+    "explanation": "Chúa Giê-xu tuyên bố rằng Ngài là nguồn của sự sống lại cho tất cả những ai tin.",
+    "full_verse": "Đức Chúa Giê-xu nói với bà: 'Ta là sự sống lại và sự sống. Người nào tin Ta thì dù có chết, cũng sẽ sống.'",
+    "verse_ref": "Giăng 11:25"
+  },
+  "q_jesus_004": {
+    "question": "Điền vào chỗ trống: 'Hỡi những ai mệt mỏi và gánh nặng, hãy đến với Ta, Ta sẽ cho các ngươi được _____.'",
+    "correct": "nghỉ ngơi",
+    "wrong": ["bình an", "hy vọng", "sức mạnh"],
+    "hint": "Sự giải thoát khỏi kiệt sức",
+    "explanation": "Chúa Giê-xu mời gọi tất cả những ai mệt mỏi và quá tải đến tìm sự nghỉ ngơi nơi Ngài.",
+    "full_verse": "Hỡi những ai mệt mỏi và gánh nặng, hãy đến với Ta, Ta sẽ cho các ngươi được nghỉ ngơi.",
+    "verse_ref": "Ma-thi-ơ 11:28"
+  },
+  "q_jesus_005": {
+    "question": "Điền vào chỗ trống: 'Khi Đức Chúa Giê-xu lại nói với dân chúng, Ngài phán: \"Ta là ánh sáng của thế gian. Ai theo Ta sẽ không bước đi trong _____.\"'",
+    "correct": "bóng tối",
+    "wrong": ["sợ hãi", "tội lỗi", "xấu hổ"],
+    "hint": "Điều ngược lại với ánh sáng",
+    "explanation": "Chúa Giê-xu tuyên bố chính Ngài là ánh sáng hướng dẫn các tín hữu ra khỏi bóng tối thuộc linh.",
+    "full_verse": "Khi Đức Chúa Giê-xu lại nói với dân chúng, Ngài phán: 'Ta là ánh sáng của thế gian. Ai theo Ta sẽ không bước đi trong bóng tối, nhưng sẽ có ánh sáng của sự sống.'",
+    "verse_ref": "Giăng 8:12"
+  },
+  "q_jesus_006": {
+    "question": "Điền vào chỗ trống: 'Ta là người chăn hiền lành. Người chăn hiền lành hy sinh _____ mình vì bầy chiên.'",
+    "correct": "mạng sống",
+    "wrong": ["cây gậy", "cây trượng", "tấm lòng"],
+    "hint": "Sự hy sinh tối thượng",
+    "explanation": "Chúa Giê-xu mô tả chính Ngài như người chăn hy sinh mạng sống vì bầy chiên.",
+    "full_verse": "Ta là người chăn hiền lành. Người chăn hiền lành hy sinh mạng sống mình vì bầy chiên.",
+    "verse_ref": "Giăng 10:11"
+  },
+  "q_jesus_007": {
+    "question": "Điền vào chỗ trống: 'Ta là cây nho, các ngươi là nhánh. Nếu ai cứ ở trong Ta và Ta trong người ấy, thì sinh nhiều _____.'",
+    "correct": "trái",
+    "wrong": ["vui mừng", "tình yêu", "hy vọng"],
+    "hint": "Điều mọc trên nhánh cây",
+    "explanation": "Chúa Giê-xu sử dụng hình ảnh cây nho để dạy về việc ở trong Ngài để sinh trái thuộc linh.",
+    "full_verse": "Ta là cây nho, các ngươi là nhánh. Nếu ai cứ ở trong Ta và Ta trong người ấy, thì sinh nhiều trái; vì ngoài Ta, các ngươi không làm chi được.",
+    "verse_ref": "Giăng 15:5"
+  },
+  "q_jesus_008": {
+    "question": "Điền vào chỗ trống: 'Và dạy họ giữ tất cả những điều Ta đã truyền cho các ngươi. Và nầy, Ta ở với các ngươi luôn cho đến tận thế _____.'",
+    "correct": "này",
+    "wrong": ["gian", "đời", "kỳ"],
+    "hint": "Cho đến hết thời đại này",
+    "explanation": "Chúa Giê-xu hứa sự hiện diện liên tục với các môn đồ cho đến tận thế.",
+    "full_verse": "Và dạy họ giữ tất cả những điều Ta đã truyền cho các ngươi. Và nầy, Ta ở với các ngươi luôn cho đến tận thế này.",
+    "verse_ref": "Ma-thi-ơ 28:20"
+  },
+  "q_jesus_009": {
+    "question": "Điền vào chỗ trống: 'Ngôi Lời đã trở nên xác thịt, ở giữa chúng ta. Chúng ta đã ngắm xem vinh hiển của Ngài, thật như vinh hiển của Con Một đến từ _____.'",
+    "correct": "Cha",
+    "wrong": ["thiên đàng", "Đức Chúa Trời", "trên cao"],
+    "hint": "Chúa Giê-xu đến từ Ngài",
+    "explanation": "Giăng tuyên bố rằng Chúa Giê-xu, Ngôi Lời, đã trở nên người và bày tỏ vinh hiển của Cha.",
+    "full_verse": "Ngôi Lời đã trở nên xác thịt, ở giữa chúng ta, đầy ơn và lẽ thật. Chúng ta đã ngắm xem vinh hiển của Ngài, thật như vinh hiển của Con Một đến từ Cha.",
+    "verse_ref": "Giăng 1:14"
+  },
+  "q_jesus_010": {
+    "question": "Điền vào chỗ trống: 'Ta với Cha là _____.'",
+    "correct": "một",
+    "wrong": ["hiệp nhất", "cùng nhau", "bằng nhau"],
+    "hint": "Sự hiệp nhất của Chúa Giê-xu và Cha",
+    "explanation": "Chúa Giê-xu tuyên bố sự hiệp nhất với Đức Chúa Trời Cha, khẳng định thần tính của Ngài.",
+    "full_verse": "Ta với Cha là một.",
+    "verse_ref": "Giăng 10:30"
+  },
+  "q_jesus_011": {
+    "question": "Điền vào chỗ trống: 'Si-môn Phi-e-rơ thưa: \"Thầy là Đấng Christ, Con Đức Chúa Trời _____.'\"",
+    "correct": "hằng sống",
+    "wrong": ["Chúa", "Cha", "Vua"],
+    "hint": "Phi-e-rơ xưng nhận danh tính thiêng liêng của Chúa Giê-xu",
+    "explanation": "Lời xưng nhận của Phi-e-rơ thừa nhận Chúa Giê-xu vừa là Đấng Mê-si vừa là Con Đức Chúa Trời.",
+    "full_verse": "Si-môn Phi-e-rơ thưa: 'Thầy là Đấng Christ, Con Đức Chúa Trời hằng sống.'",
+    "verse_ref": "Ma-thi-ơ 16:16"
+  },
+  "q_jesus_012": {
+    "question": "Điền vào chỗ trống: 'Con là hình ảnh của Đức Chúa Trời không thấy được, là Đấng sinh ra đầu tiên trên toàn thể _____.'",
+    "correct": "tạo vật",
+    "wrong": ["muôn vật", "tạo hóa", "sinh vật"],
+    "hint": "Mọi thứ được tạo dựng",
+    "explanation": "Phao-lô tuyên bố rằng Chúa Giê-xu là hình ảnh hữu hình của Đức Chúa Trời vô hình.",
+    "full_verse": "Con là hình ảnh của Đức Chúa Trời không thấy được, là Đấng sinh ra đầu tiên trên toàn thể tạo vật.",
+    "verse_ref": "Cô-lô-se 1:15"
+  },
+  "q_jesus_013": {
+    "question": "Điền vào chỗ trống: 'Ngài vốn có hình Đức Chúa Trời, song chẳng coi sự bình đẳng với Đức Chúa Trời là điều phải nắm giữ; nhưng đã tự làm trống mình đi, lấy hình của một _____ mà ra.'",
+    "correct": "tôi tớ",
+    "wrong": ["người", "con người", "nô lệ"],
+    "hint": "Chúa Giê-xu hạ mình xuống vai trò này",
+    "explanation": "Phao-lô mô tả sự khiêm nhường của Chúa Giê-xu khi rời bỏ vinh hiển thiêng liêng để trở thành tôi tớ.",
+    "full_verse": "Ngài vốn có hình Đức Chúa Trời, song chẳng coi sự bình đẳng với Đức Chúa Trời là điều phải nắm giữ; nhưng đã tự làm trống mình đi, lấy hình của một tôi tớ mà ra, trở nên giống như loài người.",
+    "verse_ref": "Phi-líp 2:6-7"
+  },
+  "q_jesus_014": {
+    "question": "Điền vào chỗ trống: 'Con là phản ảnh vinh hiển của Đức Chúa Trời và là hình ảnh trung thực của bản thể Ngài, nâng đỡ muôn vật bằng _____ quyền năng của Ngài.'",
+    "correct": "lời",
+    "wrong": ["tay", "ý muốn", "sức mạnh"],
+    "hint": "Cách Chúa Giê-xu nâng đỡ muôn vật",
+    "explanation": "Tác giả Hê-bơ-rơ mô tả Chúa Giê-xu là sự mặc khải hoàn hảo của Đức Chúa Trời.",
+    "full_verse": "Con là phản ảnh vinh hiển của Đức Chúa Trời và là hình ảnh trung thực của bản thể Ngài, nâng đỡ muôn vật bằng lời quyền năng của Ngài.",
+    "verse_ref": "Hê-bơ-rơ 1:3"
+  },
+  "q_jesus_015": {
+    "question": "Điền vào chỗ trống: 'Vì trong Đấng Christ, tất cả sự đầy trọn của thần _____ ngự trong thân thể.'",
+    "correct": "tính",
+    "wrong": ["Đức Chúa Trời", "Thánh Linh", "Cha"],
+    "hint": "Bản chất thiêng liêng trọn vẹn",
+    "explanation": "Phao-lô tuyên bố rằng bản chất trọn vẹn của Đức Chúa Trời ngự trong thân thể vật lý của Đấng Christ.",
+    "full_verse": "Vì trong Đấng Christ, tất cả sự đầy trọn của thần tính ngự trong thân thể.",
+    "verse_ref": "Cô-lô-se 2:9"
+  },
+  "q_jesus_016": {
+    "question": "Điền vào chỗ trống: 'Ban đầu có Ngôi Lời, Ngôi Lời ở với Đức Chúa Trời, và Ngôi Lời là _____.'",
+    "correct": "Đức Chúa Trời",
+    "wrong": ["thiêng liêng", "thánh", "đời đời"],
+    "hint": "Danh tính của Ngôi Lời",
+    "explanation": "Giăng tuyên bố rằng Chúa Giê-xu, Ngôi Lời, vừa ở với Đức Chúa Trời vừa là Đức Chúa Trời từ ban đầu.",
+    "full_verse": "Ban đầu có Ngôi Lời, Ngôi Lời ở với Đức Chúa Trời, và Ngôi Lời là Đức Chúa Trời.",
+    "verse_ref": "Giăng 1:1"
+  },
+  "q_jesus_017": {
+    "question": "Điền vào chỗ trống: 'Đức Chúa Giê-xu tuyên bố: \"Ta là bánh của sự sống. Ai đến với Ta sẽ không hề đói, và ai tin Ta sẽ không hề _____.\"'",
+    "correct": "khát",
+    "wrong": ["trống rỗng", "thiếu thốn", "cần"],
+    "hint": "Điều ngược lại với đói",
+    "explanation": "Chúa Giê-xu tuyên bố chính Ngài là bánh thuộc linh thỏa mãn mọi đói khát.",
+    "full_verse": "Đức Chúa Giê-xu tuyên bố: 'Ta là bánh của sự sống. Ai đến với Ta sẽ không hề đói, và ai tin Ta sẽ không hề khát.'",
+    "verse_ref": "Giăng 6:35"
+  },
+  "q_jesus_018": {
+    "question": "Điền vào chỗ trống: 'Ta là cửa; ai qua Ta mà vào sẽ được cứu. Người ấy sẽ vào ra và tìm được _____.'",
+    "correct": "đồng cỏ",
+    "wrong": ["nghỉ ngơi", "bình an", "sự sống"],
+    "hint": "Điều chiên tìm thấy trên đồng",
+    "explanation": "Chúa Giê-xu mô tả chính Ngài là cửa mà qua đó người ta tìm được sự cứu rỗi và sự chu cấp.",
+    "full_verse": "Ta là cửa; ai qua Ta mà vào sẽ được cứu. Người ấy sẽ vào ra và tìm được đồng cỏ.",
+    "verse_ref": "Giăng 10:9"
+  },
+  "q_jesus_019": {
+    "question": "Điền vào chỗ trống: 'Đức Chúa Giê-xu đáp: \"Phi-líp ơi, Ta ở với các ngươi bấy lâu mà ngươi không biết Ta sao? Ai đã thấy Ta tức là đã thấy _____.\"'",
+    "correct": "Cha",
+    "wrong": ["Đức Chúa Trời", "lẽ thật", "ánh sáng"],
+    "hint": "Chúa Giê-xu bày tỏ người này",
+    "explanation": "Chúa Giê-xu nói với Phi-líp rằng thấy Ngài tức là thấy Đức Chúa Trời Cha.",
+    "full_verse": "Đức Chúa Giê-xu đáp: 'Phi-líp ơi, Ta ở với các ngươi bấy lâu mà ngươi không biết Ta sao? Ai đã thấy Ta tức là đã thấy Cha. Sao ngươi lại nói: \"Xin chỉ Cha cho chúng con\"?'",
+    "verse_ref": "Giăng 14:9"
+  },
+  "q_jesus_020": {
+    "question": "Điền vào chỗ trống: 'Vì Con Người đã đến để tìm và cứu kẻ _____.'",
+    "correct": "hư mất",
+    "wrong": ["thế gian", "tội nhân", "tan vỡ"],
+    "hint": "Những người đã đi lạc",
+    "explanation": "Chúa Giê-xu tóm tắt sứ mạng của Ngài là tìm và cứu những người hư mất.",
+    "full_verse": "Vì Con Người đã đến để tìm và cứu kẻ hư mất.",
+    "verse_ref": "Lu-ca 19:10"
+  },
+  "q_jesus_021": {
+    "question": "Điền vào chỗ trống: 'Ma-ri sẽ sinh một con trai, ngươi phải đặt tên là Giê-xu, vì chính con ấy sẽ cứu dân mình khỏi _____ họ.'",
+    "correct": "tội",
+    "wrong": ["kẻ thù", "khó khăn", "nỗi sợ"],
+    "hint": "Điều Chúa Giê-xu cứu chúng ta khỏi",
+    "explanation": "Thiên sứ giải thích rằng tên Giê-xu phản ánh sứ mạng cứu khỏi tội lỗi của Ngài.",
+    "full_verse": "Ma-ri sẽ sinh một con trai, ngươi phải đặt tên là Giê-xu, vì chính con ấy sẽ cứu dân mình khỏi tội họ.",
+    "verse_ref": "Ma-thi-ơ 1:21"
+  },
+  "q_jesus_022": {
+    "question": "Điền vào chỗ trống: 'Vì hôm nay trong thành Đa-vít, một Đấng Cứu Thế đã sinh ra cho các ngươi; Ngài là Đấng Christ, là _____.'",
+    "correct": "Chúa",
+    "wrong": ["Vua", "Đấng Christ", "Con"],
+    "hint": "Một danh xưng quyền bính",
+    "explanation": "Thiên sứ công bố sự ra đời của Chúa Giê-xu với ba danh xưng: Cứu Chúa, Đấng Christ, và Chúa.",
+    "full_verse": "Vì hôm nay trong thành Đa-vít, một Đấng Cứu Thế đã sinh ra cho các ngươi; Ngài là Đấng Christ, là Chúa.",
+    "verse_ref": "Lu-ca 2:11"
+  },
+  "q_jesus_023": {
+    "question": "Điền vào chỗ trống: 'Nhưng các việc này được ghi chép để anh chị em tin rằng Đức Chúa Giê-xu là Đấng Christ, Con Đức Chúa Trời, và để khi tin, anh chị em có _____ trong danh Ngài.'",
+    "correct": "sự sống",
+    "wrong": ["hy vọng", "đức tin", "vui mừng"],
+    "hint": "Mục đích của Tin Lành Giăng",
+    "explanation": "Giăng nói mục đích của ông: để người đọc tin vào Chúa Giê-xu và có sự sống.",
+    "full_verse": "Nhưng các việc này được ghi chép để anh chị em tin rằng Đức Chúa Giê-xu là Đấng Christ, Con Đức Chúa Trời, và để khi tin, anh chị em có sự sống trong danh Ngài.",
+    "verse_ref": "Giăng 20:31"
+  },
+  "q_jesus_024": {
+    "question": "Điền vào chỗ trống: 'Chẳng có sự cứu rỗi trong đấng nào khác, vì dưới trời không có danh nào khác ban cho loài người để chúng ta phải nhờ đó mà được _____.'",
+    "correct": "cứu",
+    "wrong": ["chữa lành", "ban phước", "tha thứ"],
+    "hint": "Điều danh Chúa Giê-xu mang lại",
+    "explanation": "Phi-e-rơ tuyên bố rằng sự cứu rỗi chỉ có qua danh Chúa Giê-xu.",
+    "full_verse": "Chẳng có sự cứu rỗi trong đấng nào khác, vì dưới trời không có danh nào khác ban cho loài người để chúng ta phải nhờ đó mà được cứu.",
+    "verse_ref": "Công Vụ 4:12"
+  },
+  "q_jesus_025": {
+    "question": "Điền vào chỗ trống: 'Nhưng Đức Chúa Trời bày tỏ tình yêu của Ngài đối với chúng ta trong điều này: Khi chúng ta còn là tội nhân, Đấng Christ đã _____ vì chúng ta.'",
+    "correct": "chết",
+    "wrong": ["đến", "sống", "chịu khổ"],
+    "hint": "Sự hy sinh tối thượng của Đấng Christ",
+    "explanation": "Phao-lô nhấn mạnh rằng Đấng Christ đã chết vì chúng ta khi chúng ta còn trong tội lỗi.",
+    "full_verse": "Nhưng Đức Chúa Trời bày tỏ tình yêu của Ngài đối với chúng ta trong điều này: Khi chúng ta còn là tội nhân, Đấng Christ đã chết vì chúng ta.",
+    "verse_ref": "Rô-ma 5:8"
+  },
+  "q_jesus_026": {
+    "question": "Điền vào chỗ trống: 'Vì chỉ có một Đức Chúa Trời và một Đấng Trung Bảo giữa Đức Chúa Trời và loài người, là Đức Chúa Giê-xu _____.'",
+    "correct": "Christ",
+    "wrong": ["Chúa", "Cứu Chúa", "Mê-si-a"],
+    "hint": "Tên của Đấng Trung Bảo",
+    "explanation": "Phao-lô tuyên bố rằng Chúa Giê-xu là Đấng Trung Bảo duy nhất giữa Đức Chúa Trời và loài người.",
+    "full_verse": "Vì chỉ có một Đức Chúa Trời và một Đấng Trung Bảo giữa Đức Chúa Trời và loài người, là Đức Chúa Giê-xu Christ.",
+    "verse_ref": "1 Ti-mô-thê 2:5"
+  },
+  "q_jesus_027": {
+    "question": "Điền vào chỗ trống: 'Vì chúng ta không có một thầy tế lễ thượng phẩm không thể cảm thông sự yếu đuối của chúng ta, nhưng có một vị đã bị cám dỗ đủ mọi cách như chúng ta, song không hề phạm _____.'",
+    "correct": "tội",
+    "wrong": ["ngã", "thất bại", "nhượng bộ"],
+    "hint": "Chúa Giê-xu vẫn không có điều này",
+    "explanation": "Tác giả Hê-bơ-rơ giải thích rằng Chúa Giê-xu bị cám dỗ nhưng vẫn không phạm tội.",
+    "full_verse": "Vì chúng ta không có một thầy tế lễ thượng phẩm không thể cảm thông sự yếu đuối của chúng ta, nhưng có một vị đã bị cám dỗ đủ mọi cách như chúng ta, song không hề phạm tội.",
+    "verse_ref": "Hê-bơ-rơ 4:15"
+  },
+  "q_jesus_028": {
+    "question": "Điền vào chỗ trống: 'Hãy nhìn xem Đức Chúa Giê-xu, Đấng khởi đầu và hoàn tất đức tin. Vì niềm vui đặt trước mặt Ngài, Ngài đã chịu thập tự giá, coi thường sự sỉ nhục, và ngồi bên phải _____ của Đức Chúa Trời.'",
+    "correct": "ngai",
+    "wrong": ["vinh hiển", "sự hiện diện", "uy nghi"],
+    "hint": "Nơi Chúa Giê-xu hiện đang ngồi",
+    "explanation": "Chúa Giê-xu chịu đựng thập tự giá và hiện đang ngồi bên phải ngai Đức Chúa Trời trong vinh hiển.",
+    "full_verse": "Hãy nhìn xem Đức Chúa Giê-xu, Đấng khởi đầu và hoàn tất đức tin. Vì niềm vui đặt trước mặt Ngài, Ngài đã chịu thập tự giá, coi thường sự sỉ nhục, và ngồi bên phải ngai của Đức Chúa Trời.",
+    "verse_ref": "Hê-bơ-rơ 12:2"
+  },
+  "q_jesus_029": {
+    "question": "Điền vào chỗ trống: '\"Ta là An-pha và Ô-mê-ga,\" Chúa là Đức Chúa Trời phán, \"Đấng hiện có, đã có và còn đến, là Đấng Toàn _____.\"'",
+    "correct": "Năng",
+    "wrong": ["Thánh", "Cao", "Vô Hạn"],
+    "hint": "Một danh xưng nhấn mạnh quyền năng của Đức Chúa Trời",
+    "explanation": "Đức Chúa Trời tuyên bố chính Ngài là khởi đầu và kết thúc, Đấng Toàn Năng.",
+    "full_verse": "'Ta là An-pha và Ô-mê-ga,' Chúa là Đức Chúa Trời phán, 'Đấng hiện có, đã có và còn đến, là Đấng Toàn Năng.'",
+    "verse_ref": "Khải Huyền 1:8"
+  },
+  "q_jesus_030": {
+    "question": "Điền vào chỗ trống: 'Ta là An-pha và Ô-mê-ga, Đầu Tiên và Cuối Cùng, Khởi Đầu và _____ Cùng.'",
+    "correct": "Cuối",
+    "wrong": ["Hoàn Tất", "Kết Thúc", "Chung"],
+    "hint": "Điều ngược lại với khởi đầu",
+    "explanation": "Chúa Giê-xu sử dụng ba cặp từ song song để tuyên bố bản tính đời đời của Ngài.",
+    "full_verse": "Ta là An-pha và Ô-mê-ga, Đầu Tiên và Cuối Cùng, Khởi Đầu và Cuối Cùng.",
+    "verse_ref": "Khải Huyền 22:13"
+  },
+  "q_jesus_031": {
+    "question": "Điền vào chỗ trống: '\"Thật vậy, thật vậy, Ta nói cùng các ngươi,\" Đức Chúa Giê-xu đáp, \"trước khi Áp-ra-ham sinh ra, Ta _____!\"'",
+    "correct": "hiện hữu",
+    "wrong": ["đã có", "tồn tại", "sống"],
+    "hint": "Chúa Giê-xu sử dụng danh giao ước của Đức Chúa Trời",
+    "explanation": "Chúa Giê-xu tuyên bố sự tồn tại đời đời của Ngài bằng danh thiêng liêng 'Ta hiện hữu.'",
+    "full_verse": "'Thật vậy, thật vậy, Ta nói cùng các ngươi,' Đức Chúa Giê-xu đáp, 'trước khi Áp-ra-ham sinh ra, Ta hiện hữu!'",
+    "verse_ref": "Giăng 8:58"
+  },
+  "q_jesus_032": {
+    "question": "Điền vào chỗ trống: 'Đức Chúa Giê-xu đến gần và phán với họ: \"Tất cả quyền năng trên trời dưới đất đã giao cho _____.'\"",
+    "correct": "Ta",
+    "wrong": ["các ngươi", "chúng ta", "họ"],
+    "hint": "Chúa Giê-xu nói về chính Ngài",
+    "explanation": "Chúa Giê-xu phục sinh tuyên bố rằng Ngài đã nhận tất cả quyền năng trên trời và dưới đất.",
+    "full_verse": "Đức Chúa Giê-xu đến gần và phán với họ: 'Tất cả quyền năng trên trời dưới đất đã giao cho Ta.'",
+    "verse_ref": "Ma-thi-ơ 28:18"
+  },
+  "q_jesus_033": {
+    "question": "Điền vào chỗ trống: 'Vả, sự sống đời đời là nhìn biết Cha, tức là Đức Chúa Trời có một và thật, cùng Đức Chúa Giê-xu Christ mà Cha đã _____.'",
+    "correct": "sai đến",
+    "wrong": ["ban cho", "bày tỏ", "hứa"],
+    "hint": "Hành động của Cha đối với Chúa Giê-xu",
+    "explanation": "Chúa Giê-xu định nghĩa sự sống đời đời là biết Đức Chúa Trời và Đấng Ngài đã sai đến—Chúa Giê-xu Christ.",
+    "full_verse": "Vả, sự sống đời đời là nhìn biết Cha, tức là Đức Chúa Trời có một và thật, cùng Đức Chúa Giê-xu Christ mà Cha đã sai đến.",
+    "verse_ref": "Giăng 17:3"
+  },
+  "q_jesus_034": {
+    "question": "Điền vào chỗ trống: 'Vì tôi đã truyền cho anh chị em điều quan trọng nhất mà tôi đã nhận: Đấng Christ đã chết vì tội chúng ta theo lời Kinh Thánh, Ngài được chôn, đến ngày thứ _____ Ngài sống lại.'",
+    "correct": "ba",
+    "wrong": ["nhất", "hai", "bốn"],
+    "hint": "Ngày phục sinh",
+    "explanation": "Phao-lô tóm tắt Tin Lành: Đấng Christ đã chết, được chôn, và sống lại vào ngày thứ ba.",
+    "full_verse": "Vì tôi đã truyền cho anh chị em điều quan trọng nhất mà tôi đã nhận: Đấng Christ đã chết vì tội chúng ta theo lời Kinh Thánh, Ngài được chôn, đến ngày thứ ba Ngài sống lại theo lời Kinh Thánh.",
+    "verse_ref": "1 Cô-rinh-tô 15:3-4"
+  },
+  "q_jesus_035": {
+    "question": "Điền vào chỗ trống: 'Đức Chúa Trời đã khiến Đấng không biết tội lỗi trở nên tội lỗi vì chúng ta, hầu cho trong Ngài chúng ta trở nên sự công chính của _____.'",
+    "correct": "Đức Chúa Trời",
+    "wrong": ["Đấng Christ", "thiên đàng", "Ngài"],
+    "hint": "Chúng ta nhận sự công chính của ai",
+    "explanation": "Phao-lô giải thích sự trao đổi vĩ đại: Đấng Christ mang tội chúng ta để chúng ta nhận sự công chính của Đức Chúa Trời.",
+    "full_verse": "Đức Chúa Trời đã khiến Đấng không biết tội lỗi trở nên tội lỗi vì chúng ta, hầu cho trong Ngài chúng ta trở nên sự công chính của Đức Chúa Trời.",
+    "verse_ref": "2 Cô-rinh-tô 5:21"
+  },
+  "q_jesus_036": {
+    "question": "Điền vào chỗ trống: 'Nhưng khi kỳ hạn đã đến, Đức Chúa Trời sai Con Ngài, sinh bởi một người nữ, sinh dưới luật pháp, để chuộc những người dưới luật pháp, hầu cho chúng ta được làm con _____.'",
+    "correct": "nuôi",
+    "wrong": ["vinh hiển", "thiên đàng", "ân điển"],
+    "hint": "Trở nên con cái của Đức Chúa Trời",
+    "explanation": "Phao-lô giải thích rằng Chúa Giê-xu đến để chuộc chúng ta và ban cho chúng ta quyền làm con nuôi của Đức Chúa Trời.",
+    "full_verse": "Nhưng khi kỳ hạn đã đến, Đức Chúa Trời sai Con Ngài, sinh bởi một người nữ, sinh dưới luật pháp, để chuộc những người dưới luật pháp, hầu cho chúng ta được làm con nuôi.",
+    "verse_ref": "Ga-la-ti 4:4-5"
+  },
+  "q_jesus_037": {
+    "question": "Điền vào chỗ trống: 'Ngài đã khiến Đấng Christ từ cõi chết sống lại và cho ngồi bên phải Ngài trên các tầng trời, cao hơn tất cả các chính quyền, quyền lực, thế lực và _____, và mọi danh được nêu lên.'",
+    "correct": "chủ quyền",
+    "wrong": ["vinh hiển", "sức mạnh", "ngai"],
+    "hint": "Một loại quyền bính",
+    "explanation": "Phao-lô mô tả sự tôn cao của Đấng Christ trên tất cả các quyền lực và quyền bính.",
+    "full_verse": "Ngài đã khiến Đấng Christ từ cõi chết sống lại và cho ngồi bên phải Ngài trên các tầng trời, cao hơn tất cả các chính quyền, quyền lực, thế lực và chủ quyền, và mọi danh được nêu lên.",
+    "verse_ref": "Ê-phê-sô 1:20-21"
+  },
+  "q_jesus_038": {
+    "question": "Điền vào chỗ trống: 'Vì vậy, Đức Chúa Trời đã tôn Ngài lên cao nhất và ban cho Ngài danh trên hết mọi danh, hầu cho khi nghe danh Đức Chúa Giê-xu, mọi _____ đều quỳ xuống.'",
+    "correct": "đầu gối",
+    "wrong": ["đầu", "lòng", "linh hồn"],
+    "hint": "Bộ phận cơ thể cong xuống khi thờ phượng",
+    "explanation": "Phao-lô tuyên bố rằng Đức Chúa Trời đã tôn cao Chúa Giê-xu và ban cho Ngài danh tối cao.",
+    "full_verse": "Vì vậy, Đức Chúa Trời đã tôn Ngài lên cao nhất và ban cho Ngài danh trên hết mọi danh, hầu cho khi nghe danh Đức Chúa Giê-xu, mọi đầu gối đều quỳ xuống, ở trên trời, dưới đất và bên dưới đất.",
+    "verse_ref": "Phi-líp 2:9-11"
+  },
+  "q_jesus_039": {
+    "question": "Điền vào chỗ trống: 'Vì trong Ngài muôn vật được tạo nên: trên trời, dưới đất, hữu hình, vô hình, bất kể là ngôi vua, hay quyền cai trị, hay các lãnh đạo, hay các quyền bính; muôn vật được tạo nên bởi Ngài và vì _____.'",
+    "correct": "Ngài",
+    "wrong": ["Đức Chúa Trời", "chúng ta", "vinh hiển"],
+    "hint": "Mọi tạo vật là vì Đấng Christ",
+    "explanation": "Phao-lô tuyên bố rằng muôn vật được tạo nên bởi Đấng Christ và vì Đấng Christ.",
+    "full_verse": "Vì trong Ngài muôn vật được tạo nên: trên trời, dưới đất, hữu hình, vô hình, bất kể là ngôi vua, hay quyền cai trị, hay các lãnh đạo, hay các quyền bính; muôn vật được tạo nên bởi Ngài và vì Ngài.",
+    "verse_ref": "Cô-lô-se 1:16-17"
+  },
+  "q_jesus_040": {
+    "question": "Điền vào chỗ trống: 'Chính Ngài đã mang tội lỗi chúng ta trong thân thể Ngài trên cây gỗ, hầu cho chúng ta chết với tội lỗi và sống vì sự công chính; nhờ vết thương của Ngài mà anh chị em được _____.'",
+    "correct": "chữa lành",
+    "wrong": ["cứu", "tha thứ", "giải thoát"],
+    "hint": "Được làm lành qua sự chịu khổ của Ngài",
+    "explanation": "Phi-e-rơ mô tả cách sự hy sinh của Đấng Christ trên thập tự giá mang lại sự chữa lành cho chúng ta.",
+    "full_verse": "Chính Ngài đã mang tội lỗi chúng ta trong thân thể Ngài trên cây gỗ, hầu cho chúng ta chết với tội lỗi và sống vì sự công chính; nhờ vết thương của Ngài mà anh chị em được chữa lành.",
+    "verse_ref": "1 Phi-e-rơ 2:24"
+  },
+  "q_jesus_041": {
+    "question": "Điền vào chỗ trống: 'Hỡi các con nhỏ, tôi viết điều này cho các con để các con không phạm tội. Nhưng nếu ai phạm tội, chúng ta có một Đấng Biện Hộ với Cha—Đức Chúa Giê-xu Christ, Đấng Công _____.'",
+    "correct": "Chính",
+    "wrong": ["Thánh", "Thành Tín", "Hằng Sống"],
+    "hint": "Tính cách đạo đức của Chúa Giê-xu",
+    "explanation": "Giăng đảm bảo với các tín hữu rằng Chúa Giê-xu biện hộ cho chúng ta khi chúng ta phạm tội.",
+    "full_verse": "Hỡi các con nhỏ, tôi viết điều này cho các con để các con không phạm tội. Nhưng nếu ai phạm tội, chúng ta có một Đấng Biện Hộ với Cha—Đức Chúa Giê-xu Christ, Đấng Công Chính.",
+    "verse_ref": "1 Giăng 2:1"
+  },
+  "q_jesus_042": {
+    "question": "Điền vào chỗ trống: 'Vì có một con trẻ sinh cho chúng ta, một con trai ban cho chúng ta, quyền cai trị sẽ trên vai Ngài. Ngài sẽ được gọi là Đấng Mưu Luận Lạ Lùng, Đức Chúa Trời Quyền Năng, Cha Đời Đời, Chúa Bình _____.'",
+    "correct": "An",
+    "wrong": ["Vinh Hiển", "Sự Sống", "Các Vua"],
+    "hint": "Điều ngược lại với chiến tranh",
+    "explanation": "Ê-sai tiên tri về Đấng Mê-si với bốn danh xưng vinh hiển.",
+    "full_verse": "Vì có một con trẻ sinh cho chúng ta, một con trai ban cho chúng ta, quyền cai trị sẽ trên vai Ngài. Ngài sẽ được gọi là Đấng Mưu Luận Lạ Lùng, Đức Chúa Trời Quyền Năng, Cha Đời Đời, Chúa Bình An.",
+    "verse_ref": "Ê-sai 9:6"
+  },
+  "q_jesus_043": {
+    "question": "Điền vào chỗ trống: 'Nhưng Ngài đã vì vi phạm chúng ta mà bị đâm, vì gian ác chúng ta mà bị giập; hình phạt mang lại bình an cho chúng ta ở trên Ngài, và nhờ vết _____ Ngài mà chúng ta được chữa lành.'",
+    "correct": "thương",
+    "wrong": ["huyết", "sự chết", "sọc"],
+    "hint": "Những vết thương thể xác",
+    "explanation": "Ê-sai tiên tri về người tôi tớ chịu khổ, Đấng mang lại sự chữa lành qua vết thương của Ngài.",
+    "full_verse": "Nhưng Ngài đã vì vi phạm chúng ta mà bị đâm, vì gian ác chúng ta mà bị giập; hình phạt mang lại bình an cho chúng ta ở trên Ngài, và nhờ vết thương Ngài mà chúng ta được chữa lành.",
+    "verse_ref": "Ê-sai 53:5"
+  },
+  "q_jesus_044": {
+    "question": "Điền vào chỗ trống: 'Nhưng ngươi, Bết-lê-hem Ép-ra-ta, dù ngươi nhỏ trong các chi tộc Giu-đa, từ ngươi sẽ ra một Đấng sẽ cai trị Y-sơ-ra-ên, nguồn gốc từ ngày xưa, từ thời _____.'",
+    "correct": "đời đời",
+    "wrong": ["xưa", "cổ", "xa xưa"],
+    "hint": "Từ lâu đời",
+    "explanation": "Mi-chê tiên tri rằng Đấng Mê-si sẽ đến từ Bết-lê-hem với nguồn gốc đời đời.",
+    "full_verse": "Nhưng ngươi, Bết-lê-hem Ép-ra-ta, dù ngươi nhỏ trong các chi tộc Giu-đa, từ ngươi sẽ ra một Đấng sẽ cai trị Y-sơ-ra-ên, nguồn gốc từ ngày xưa, từ thời đời đời.",
+    "verse_ref": "Mi-chê 5:2"
+  },
+  "q_jesus_045": {
+    "question": "Điền vào chỗ trống: 'Từ lúc ấy, Đức Chúa Giê-xu bắt đầu giảng dạy: \"Hãy ăn năn, vì nước _____ đã đến gần.\"'",
+    "correct": "Thiên Đàng",
+    "wrong": ["Đức Chúa Trời", "vinh hiển", "bình an"],
+    "hint": "Nơi Đức Chúa Trời ngự",
+    "explanation": "Chúa Giê-xu bắt đầu chức vụ kêu gọi người ta ăn năn khi nước Đức Chúa Trời đến gần.",
+    "full_verse": "Từ lúc ấy, Đức Chúa Giê-xu bắt đầu giảng dạy: 'Hãy ăn năn, vì nước Thiên Đàng đã đến gần.'",
+    "verse_ref": "Ma-thi-ơ 4:17"
+  },
+  "q_jesus_046": {
+    "question": "Điền vào chỗ trống: 'Vì Con Người không đến để được phục vụ, nhưng để phục vụ và hiến mạng sống mình làm giá chuộc cho _____.'",
+    "correct": "nhiều người",
+    "wrong": ["tất cả", "chúng ta", "tội nhân"],
+    "hint": "Một số lượng lớn người",
+    "explanation": "Chúa Giê-xu mô tả sứ mạng của Ngài là phục vụ và hiến mạng sống làm giá chuộc.",
+    "full_verse": "Vì Con Người không đến để được phục vụ, nhưng để phục vụ và hiến mạng sống mình làm giá chuộc cho nhiều người.",
+    "verse_ref": "Mác 10:45"
+  },
+  "q_jesus_047": {
+    "question": "Điền vào chỗ trống: 'Ngài nói với họ: \"Có lời chép rằng: Đấng Mê-si phải chịu khổ và ngày thứ ba từ cõi chết sống lại, và sự ăn năn để được tha tội sẽ được rao giảng trong danh Ngài cho mọi _____.\"'",
+    "correct": "dân tộc",
+    "wrong": ["người", "dân", "xứ"],
+    "hint": "Tất cả các nhóm dân tộc",
+    "explanation": "Chúa Giê-xu phục sinh giải thích rằng Tin Lành sẽ được rao giảng cho mọi dân tộc.",
+    "full_verse": "Ngài nói với họ: 'Có lời chép rằng: Đấng Mê-si phải chịu khổ và ngày thứ ba từ cõi chết sống lại, và sự ăn năn để được tha tội sẽ được rao giảng trong danh Ngài cho mọi dân tộc, bắt đầu từ Giê-ru-sa-lem.'",
+    "verse_ref": "Lu-ca 24:46-47"
+  },
+  "q_jesus_048": {
+    "question": "Điền vào chỗ trống: 'Thật vậy, thật vậy, Ta nói cùng các ngươi, ai nghe lời Ta và tin Đấng đã sai Ta thì có sự sống đời đời và không bị phán xét, nhưng đã vượt qua từ sự chết đến sự _____.'",
+    "correct": "sống",
+    "wrong": ["vinh hiển", "thiên đàng", "bình an"],
+    "hint": "Điều ngược lại với sự chết",
+    "explanation": "Chúa Giê-xu hứa sự sống đời đời cho những ai tin, vượt qua từ sự chết đến sự sống.",
+    "full_verse": "Thật vậy, thật vậy, Ta nói cùng các ngươi, ai nghe lời Ta và tin Đấng đã sai Ta thì có sự sống đời đời và không bị phán xét, nhưng đã vượt qua từ sự chết đến sự sống.",
+    "verse_ref": "Giăng 5:24"
+  },
+  "q_jesus_049": {
+    "question": "Điền vào chỗ trống: 'Lòng các ngươi chớ bối rối. Hãy tin Đức Chúa Trời, cũng hãy tin Ta. Trong nhà Cha Ta có nhiều chỗ ở. Nếu không có, Ta đã nói với các ngươi rồi. Ta đi để sửa soạn một _____ cho các ngươi.'",
+    "correct": "chỗ",
+    "wrong": ["phòng", "nhà", "dinh thự"],
+    "hint": "Một vị trí được chuẩn bị cho chúng ta",
+    "explanation": "Chúa Giê-xu an ủi các môn đồ với lời hứa chuẩn bị một chỗ cho họ.",
+    "full_verse": "Lòng các ngươi chớ bối rối. Hãy tin Đức Chúa Trời, cũng hãy tin Ta. Trong nhà Cha Ta có nhiều chỗ ở. Nếu không có, Ta đã nói với các ngươi rồi. Ta đi để sửa soạn một chỗ cho các ngươi.",
+    "verse_ref": "Giăng 14:1-3"
+  },
+  "q_jesus_050": {
+    "question": "Điền vào chỗ trống: 'Nầy, Ta đứng ngoài cửa và gõ. Nếu ai nghe tiếng Ta mà mở cửa, thì Ta sẽ vào và ăn với người ấy, và người ấy với _____.'",
+    "correct": "Ta",
+    "wrong": ["chúng ta", "họ", "Đức Chúa Trời"],
+    "hint": "Chúa Giê-xu mời gọi sự thông công",
+    "explanation": "Chúa Giê-xu mời gọi sự thông công mật thiết với bất kỳ ai mở cửa cho Ngài.",
+    "full_verse": "Nầy, Ta đứng ngoài cửa và gõ. Nếu ai nghe tiếng Ta mà mở cửa, thì Ta sẽ vào và ăn với người ấy, và người ấy với Ta.",
+    "verse_ref": "Khải Huyền 3:20"
+  }
+}

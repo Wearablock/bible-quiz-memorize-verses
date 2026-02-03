@@ -1,1 +1,452 @@
-{}
+{
+  "q_love_001": {
+    "question": "Fill in the blank: 'For God so _____ the world that he gave his one and only Son.'",
+    "correct": "loved",
+    "wrong": ["blessed", "created", "judged"],
+    "hint": "This verse describes God's greatest act toward humanity",
+    "explanation": "John 3:16 reveals the depth of God's love - He loved the world so much that He gave His Son for our salvation.",
+    "full_verse": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
+    "verse_ref": "John 3:16"
+  },
+  "q_love_002": {
+    "question": "Fill in the blank: 'Love is patient, love is _____.'",
+    "correct": "kind",
+    "wrong": ["strong", "wise", "pure"],
+    "hint": "This quality involves gentleness and consideration",
+    "explanation": "Paul begins his famous description of love by emphasizing patience and kindness as its foundational qualities.",
+    "full_verse": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud.",
+    "verse_ref": "1 Corinthians 13:4"
+  },
+  "q_love_003": {
+    "question": "Fill in the blank: 'Greater love has no one than this: to lay down one's _____ for one's friends.'",
+    "correct": "life",
+    "wrong": ["wealth", "pride", "home"],
+    "hint": "Jesus demonstrated this ultimate sacrifice",
+    "explanation": "Jesus spoke these words before His crucifixion, teaching that the greatest expression of love is self-sacrifice.",
+    "full_verse": "Greater love has no one than this: to lay down one's life for one's friends.",
+    "verse_ref": "John 15:13"
+  },
+  "q_love_004": {
+    "question": "Fill in the blank: 'And now these three remain: faith, hope and love. But the greatest of these is _____.'",
+    "correct": "love",
+    "wrong": ["faith", "hope", "peace"],
+    "hint": "Paul declares this as supreme among the three",
+    "explanation": "In concluding his discourse on love, Paul declares that while faith, hope, and love all endure, love is the greatest virtue.",
+    "full_verse": "And now these three remain: faith, hope and love. But the greatest of these is love.",
+    "verse_ref": "1 Corinthians 13:13"
+  },
+  "q_love_005": {
+    "question": "Fill in the blank: 'We love because he _____ loved us.'",
+    "correct": "first",
+    "wrong": ["always", "truly", "deeply"],
+    "hint": "God's love preceded ours",
+    "explanation": "Our ability to love originates from God's initiative - He loved us before we could love Him.",
+    "full_verse": "We love because he first loved us.",
+    "verse_ref": "1 John 4:19"
+  },
+  "q_love_006": {
+    "question": "Fill in the blank: 'Love your _____ as yourself.'",
+    "correct": "neighbor",
+    "wrong": ["family", "friend", "brother"],
+    "hint": "This command extends love beyond our inner circle",
+    "explanation": "Jesus quoted this command from Leviticus as the second greatest commandment, teaching us to extend love to all people.",
+    "full_verse": "Love your neighbor as yourself.",
+    "verse_ref": "Mark 12:31"
+  },
+  "q_love_007": {
+    "question": "Fill in the blank: 'God is _____.'",
+    "correct": "love",
+    "wrong": ["light", "spirit", "holy"],
+    "hint": "This defines God's essential nature",
+    "explanation": "John makes this profound declaration that love is not just something God does, but who He fundamentally is.",
+    "full_verse": "Whoever does not love does not know God, because God is love.",
+    "verse_ref": "1 John 4:8"
+  },
+  "q_love_008": {
+    "question": "Fill in the blank: 'Love does not delight in evil but rejoices with the _____.'",
+    "correct": "truth",
+    "wrong": ["righteous", "humble", "faithful"],
+    "hint": "Love celebrates what is genuine and honest",
+    "explanation": "True love finds no pleasure in wrongdoing but celebrates truth and righteousness.",
+    "full_verse": "Love does not delight in evil but rejoices with the truth.",
+    "verse_ref": "1 Corinthians 13:6"
+  },
+  "q_love_009": {
+    "question": "Fill in the blank: 'Above all, love each other deeply, because love covers over a multitude of _____.'",
+    "correct": "sins",
+    "wrong": ["faults", "mistakes", "wrongs"],
+    "hint": "Love has the power to forgive many transgressions",
+    "explanation": "Peter teaches that deep, genuine love has the power to forgive and overlook many offenses.",
+    "full_verse": "Above all, love each other deeply, because love covers over a multitude of sins.",
+    "verse_ref": "1 Peter 4:8"
+  },
+  "q_love_010": {
+    "question": "Fill in the blank: 'But I tell you, love your _____ and pray for those who persecute you.'",
+    "correct": "enemies",
+    "wrong": ["neighbors", "brothers", "friends"],
+    "hint": "Jesus commands us to love even those who oppose us",
+    "explanation": "Jesus radically taught that love must extend even to those who hate and persecute us.",
+    "full_verse": "But I tell you, love your enemies and pray for those who persecute you.",
+    "verse_ref": "Matthew 5:44"
+  },
+  "q_love_011": {
+    "question": "Fill in the blank: 'Husbands, love your wives, just as Christ loved the _____.'",
+    "correct": "church",
+    "wrong": ["disciples", "world", "Father"],
+    "hint": "Christ's sacrificial love for believers is the model",
+    "explanation": "Paul instructs husbands to love their wives with the same self-sacrificing love Christ showed the church.",
+    "full_verse": "Husbands, love your wives, just as Christ loved the church and gave himself up for her.",
+    "verse_ref": "Ephesians 5:25"
+  },
+  "q_love_012": {
+    "question": "Fill in the blank: 'Let no debt remain outstanding, except the continuing debt to love one _____.'",
+    "correct": "another",
+    "wrong": ["neighbor", "brother", "friend"],
+    "hint": "This debt can never be fully paid",
+    "explanation": "Paul teaches that while we should pay all debts, the obligation to love others is ongoing and never fully discharged.",
+    "full_verse": "Let no debt remain outstanding, except the continuing debt to love one another, for whoever loves others has fulfilled the law.",
+    "verse_ref": "Romans 13:8"
+  },
+  "q_love_013": {
+    "question": "Fill in the blank: 'There is no fear in love. But _____ love drives out fear.'",
+    "correct": "perfect",
+    "wrong": ["true", "pure", "great"],
+    "hint": "Complete, mature love eliminates fear",
+    "explanation": "John teaches that when love reaches maturity and completeness, it removes all fear of judgment.",
+    "full_verse": "There is no fear in love. But perfect love drives out fear, because fear has to do with punishment.",
+    "verse_ref": "1 John 4:18"
+  },
+  "q_love_014": {
+    "question": "Fill in the blank: 'Love the Lord your God with all your heart and with all your soul and with all your _____.'",
+    "correct": "mind",
+    "wrong": ["body", "life", "wealth"],
+    "hint": "This involves our intellectual capacity",
+    "explanation": "Jesus declared this as the greatest commandment - loving God completely with every aspect of our being.",
+    "full_verse": "Love the Lord your God with all your heart and with all your soul and with all your mind.",
+    "verse_ref": "Matthew 22:37"
+  },
+  "q_love_015": {
+    "question": "Fill in the blank: 'A new command I give you: Love one another. As I have loved you, so you must love one _____.'",
+    "correct": "another",
+    "wrong": ["neighbor", "brother", "friend"],
+    "hint": "Jesus modeled this mutual love",
+    "explanation": "Jesus gave this new commandment to His disciples, setting His own love as the standard for how we should love.",
+    "full_verse": "A new command I give you: Love one another. As I have loved you, so you must love one another.",
+    "verse_ref": "John 13:34"
+  },
+  "q_love_016": {
+    "question": "Fill in the blank: 'Dear friends, let us love one another, for love comes from _____.'",
+    "correct": "God",
+    "wrong": ["heaven", "above", "within"],
+    "hint": "Love has a divine source",
+    "explanation": "John teaches that authentic love originates from God - He is the source of all true love.",
+    "full_verse": "Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God.",
+    "verse_ref": "1 John 4:7"
+  },
+  "q_love_017": {
+    "question": "Fill in the blank: 'How great is the love the Father has lavished on us, that we should be called _____ of God!'",
+    "correct": "children",
+    "wrong": ["servants", "friends", "heirs"],
+    "hint": "This describes our relationship with God",
+    "explanation": "John marvels at God's extravagant love that grants us the privilege of being His children.",
+    "full_verse": "See what great love the Father has lavished on us, that we should be called children of God!",
+    "verse_ref": "1 John 3:1"
+  },
+  "q_love_018": {
+    "question": "Fill in the blank: 'Love never _____.'",
+    "correct": "fails",
+    "wrong": ["ends", "stops", "quits"],
+    "hint": "Love is permanent and unfailing",
+    "explanation": "Paul declares that unlike spiritual gifts which will cease, love is eternal and will never fail.",
+    "full_verse": "Love never fails. But where there are prophecies, they will cease; where there are tongues, they will be stilled.",
+    "verse_ref": "1 Corinthians 13:8"
+  },
+  "q_love_019": {
+    "question": "Fill in the blank: 'Keep yourselves in God's love as you wait for the _____ of our Lord Jesus Christ.'",
+    "correct": "mercy",
+    "wrong": ["return", "coming", "glory"],
+    "hint": "This quality leads to eternal life",
+    "explanation": "Jude encourages believers to remain in God's love while awaiting Christ's merciful return.",
+    "full_verse": "Keep yourselves in God's love as you wait for the mercy of our Lord Jesus Christ to bring you to eternal life.",
+    "verse_ref": "Jude 1:21"
+  },
+  "q_love_020": {
+    "question": "Fill in the blank: 'Do everything in _____.'",
+    "correct": "love",
+    "wrong": ["faith", "peace", "joy"],
+    "hint": "This should motivate all our actions",
+    "explanation": "Paul's simple yet profound instruction that love should be the motivation behind everything we do.",
+    "full_verse": "Do everything in love.",
+    "verse_ref": "1 Corinthians 16:14"
+  },
+  "q_love_021": {
+    "question": "Fill in the blank: 'But God demonstrates his own love for us in this: While we were still _____, Christ died for us.'",
+    "correct": "sinners",
+    "wrong": ["lost", "broken", "weak"],
+    "hint": "Christ died for us in our fallen state",
+    "explanation": "Paul emphasizes that God's love is unconditional - Christ died for us while we were still in rebellion against Him.",
+    "full_verse": "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.",
+    "verse_ref": "Romans 5:8"
+  },
+  "q_love_022": {
+    "question": "Fill in the blank: 'It always protects, always trusts, always hopes, always _____.'",
+    "correct": "perseveres",
+    "wrong": ["endures", "believes", "forgives"],
+    "hint": "Love continues despite difficulties",
+    "explanation": "Paul describes love's enduring nature - it never gives up and keeps going through all circumstances.",
+    "full_verse": "It always protects, always trusts, always hopes, always perseveres.",
+    "verse_ref": "1 Corinthians 13:7"
+  },
+  "q_love_023": {
+    "question": "Fill in the blank: 'This is how we know what love is: Jesus Christ laid down his _____ for us.'",
+    "correct": "life",
+    "wrong": ["glory", "crown", "power"],
+    "hint": "Jesus made the ultimate sacrifice",
+    "explanation": "John points to Christ's sacrificial death as the defining example of what true love looks like.",
+    "full_verse": "This is how we know what love is: Jesus Christ laid down his life for us. And we ought to lay down our lives for our brothers and sisters.",
+    "verse_ref": "1 John 3:16"
+  },
+  "q_love_024": {
+    "question": "Fill in the blank: 'If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging _____.'",
+    "correct": "cymbal",
+    "wrong": ["bell", "drum", "horn"],
+    "hint": "This is a percussion instrument",
+    "explanation": "Paul begins his love chapter by stating that even the most impressive gifts are meaningless without love.",
+    "full_verse": "If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal.",
+    "verse_ref": "1 Corinthians 13:1"
+  },
+  "q_love_025": {
+    "question": "Fill in the blank: 'Whoever claims to love God yet hates a brother or sister is a _____.'",
+    "correct": "liar",
+    "wrong": ["fool", "sinner", "hypocrite"],
+    "hint": "This person is not being truthful",
+    "explanation": "John makes clear that love for God and hatred for others are incompatible - one proves the other false.",
+    "full_verse": "Whoever claims to love God yet hates a brother or sister is a liar. For whoever does not love their brother and sister, whom they have seen, cannot love God, whom they have not seen.",
+    "verse_ref": "1 John 4:20"
+  },
+  "q_love_026": {
+    "question": "Fill in the blank: 'My command is this: Love each other as I have _____ you.'",
+    "correct": "loved",
+    "wrong": ["taught", "blessed", "chosen"],
+    "hint": "Jesus set the example for us to follow",
+    "explanation": "Jesus commands His followers to love with the same sacrificial love He demonstrated.",
+    "full_verse": "My command is this: Love each other as I have loved you.",
+    "verse_ref": "John 15:12"
+  },
+  "q_love_027": {
+    "question": "Fill in the blank: 'Anyone who loves their brother and sister lives in the _____, and there is nothing in them to make them stumble.'",
+    "correct": "light",
+    "wrong": ["truth", "Spirit", "Lord"],
+    "hint": "This is the opposite of darkness",
+    "explanation": "John contrasts love and hate as light and darkness - those who love walk in God's light.",
+    "full_verse": "Anyone who loves their brother and sister lives in the light, and there is nothing in them to make them stumble.",
+    "verse_ref": "1 John 2:10"
+  },
+  "q_love_028": {
+    "question": "Fill in the blank: 'And over all these virtues put on love, which binds them all together in perfect _____.'",
+    "correct": "unity",
+    "wrong": ["harmony", "peace", "order"],
+    "hint": "Love creates complete togetherness",
+    "explanation": "Paul describes love as the virtue that holds all other virtues together in perfect wholeness.",
+    "full_verse": "And over all these virtues put on love, which binds them all together in perfect unity.",
+    "verse_ref": "Colossians 3:14"
+  },
+  "q_love_029": {
+    "question": "Fill in the blank: 'For I am convinced that neither death nor life... will be able to separate us from the _____ of God.'",
+    "correct": "love",
+    "wrong": ["grace", "power", "presence"],
+    "hint": "Nothing can break this bond with God",
+    "explanation": "Paul triumphantly declares that absolutely nothing can separate believers from God's love in Christ.",
+    "full_verse": "For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord.",
+    "verse_ref": "Romans 8:38-39"
+  },
+  "q_love_030": {
+    "question": "Fill in the blank: 'If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am _____.'",
+    "correct": "nothing",
+    "wrong": ["empty", "lost", "foolish"],
+    "hint": "Without love, even great gifts amount to zero",
+    "explanation": "Paul emphasizes that even the greatest spiritual gifts and abilities are worthless without love.",
+    "full_verse": "If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing.",
+    "verse_ref": "1 Corinthians 13:2"
+  },
+  "q_love_031": {
+    "question": "Fill in the blank: 'I have loved you with an _____ love; I have drawn you with unfailing kindness.'",
+    "correct": "everlasting",
+    "wrong": ["eternal", "endless", "infinite"],
+    "hint": "This love has no end",
+    "explanation": "God declares His love for His people as eternal and unchanging, drawing them with kindness.",
+    "full_verse": "I have loved you with an everlasting love; I have drawn you with unfailing kindness.",
+    "verse_ref": "Jeremiah 31:3"
+  },
+  "q_love_032": {
+    "question": "Fill in the blank: 'Be devoted to one another in love. Honor one another above _____.'",
+    "correct": "yourselves",
+    "wrong": ["others", "all", "everything"],
+    "hint": "Put others first",
+    "explanation": "Paul instructs believers to practice selfless love, putting others' honor above their own.",
+    "full_verse": "Be devoted to one another in love. Honor one another above yourselves.",
+    "verse_ref": "Romans 12:10"
+  },
+  "q_love_033": {
+    "question": "Fill in the blank: 'May the Lord make your love increase and _____ for each other and for everyone else.'",
+    "correct": "overflow",
+    "wrong": ["abound", "multiply", "spread"],
+    "hint": "Love should spill over abundantly",
+    "explanation": "Paul prays that the Thessalonians' love would grow so much that it overflows to everyone around them.",
+    "full_verse": "May the Lord make your love increase and overflow for each other and for everyone else, just as ours does for you.",
+    "verse_ref": "1 Thessalonians 3:12"
+  },
+  "q_love_034": {
+    "question": "Fill in the blank: 'If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain _____.'",
+    "correct": "nothing",
+    "wrong": ["little", "less", "empty"],
+    "hint": "Without love, even sacrifice is worthless",
+    "explanation": "Paul shows that even the most generous and sacrificial acts are profitless without genuine love.",
+    "full_verse": "If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing.",
+    "verse_ref": "1 Corinthians 13:3"
+  },
+  "q_love_035": {
+    "question": "Fill in the blank: 'You have heard that it was said, \"Love your neighbor and hate your _____.'\"",
+    "correct": "enemy",
+    "wrong": ["rival", "foe", "opponent"],
+    "hint": "Jesus quoted this common teaching before correcting it",
+    "explanation": "Jesus quoted the popular misinterpretation before teaching that we must love even our enemies.",
+    "full_verse": "You have heard that it was said, 'Love your neighbor and hate your enemy.'",
+    "verse_ref": "Matthew 5:43"
+  },
+  "q_love_036": {
+    "question": "Fill in the blank: 'No one has ever seen God; but if we love one another, God lives in us and his love is made _____ in us.'",
+    "correct": "complete",
+    "wrong": ["perfect", "whole", "full"],
+    "hint": "God's love reaches its goal in us",
+    "explanation": "John teaches that loving one another is evidence of God's presence and His love reaching its intended purpose.",
+    "full_verse": "No one has ever seen God; but if we love one another, God lives in us and his love is made complete in us.",
+    "verse_ref": "1 John 4:12"
+  },
+  "q_love_037": {
+    "question": "Fill in the blank: 'And this is love: that we walk in _____ to his commands.'",
+    "correct": "obedience",
+    "wrong": ["response", "accordance", "submission"],
+    "hint": "Love is demonstrated through following God's instructions",
+    "explanation": "John defines love practically as obedience to God's commands, not just an emotion.",
+    "full_verse": "And this is love: that we walk in obedience to his commands. As you have heard from the beginning, his command is that you walk in love.",
+    "verse_ref": "2 John 1:6"
+  },
+  "q_love_038": {
+    "question": "Fill in the blank: 'By this everyone will know that you are my disciples, if you love one _____.'",
+    "correct": "another",
+    "wrong": ["neighbor", "brother", "friend"],
+    "hint": "Mutual love identifies Christ's followers",
+    "explanation": "Jesus declared that love among His followers would be the distinguishing mark of true discipleship.",
+    "full_verse": "By this everyone will know that you are my disciples, if you love one another.",
+    "verse_ref": "John 13:35"
+  },
+  "q_love_039": {
+    "question": "Fill in the blank: 'Let love and faithfulness never leave you; bind them around your _____.'",
+    "correct": "neck",
+    "wrong": ["heart", "wrist", "waist"],
+    "hint": "Wear these virtues like jewelry",
+    "explanation": "The proverb instructs us to keep love and faithfulness close, like a necklace always worn.",
+    "full_verse": "Let love and faithfulness never leave you; bind them around your neck, write them on the tablet of your heart.",
+    "verse_ref": "Proverbs 3:3"
+  },
+  "q_love_040": {
+    "question": "Fill in the blank: 'It does not dishonor others, it is not self-seeking, it is not easily _____.'",
+    "correct": "angered",
+    "wrong": ["offended", "hurt", "provoked"],
+    "hint": "Love maintains composure",
+    "explanation": "Paul describes love as patient with others, not quick to become upset or lose temper.",
+    "full_verse": "It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs.",
+    "verse_ref": "1 Corinthians 13:5"
+  },
+  "q_love_041": {
+    "question": "Fill in the blank: 'And hope does not put us to shame, because God's love has been poured out into our _____ through the Holy Spirit.'",
+    "correct": "hearts",
+    "wrong": ["souls", "lives", "minds"],
+    "hint": "The Spirit fills this part of us with God's love",
+    "explanation": "Paul describes how the Holy Spirit fills believers' hearts with the experiential knowledge of God's love.",
+    "full_verse": "And hope does not put us to shame, because God's love has been poured out into our hearts through the Holy Spirit, who has been given to us.",
+    "verse_ref": "Romans 5:5"
+  },
+  "q_love_042": {
+    "question": "Fill in the blank: 'Hatred stirs up conflict, but love covers over all _____.'",
+    "correct": "wrongs",
+    "wrong": ["sins", "faults", "mistakes"],
+    "hint": "Love overlooks offenses",
+    "explanation": "This proverb contrasts hatred, which creates strife, with love, which forgives and covers offenses.",
+    "full_verse": "Hatred stirs up conflict, but love covers over all wrongs.",
+    "verse_ref": "Proverbs 10:12"
+  },
+  "q_love_043": {
+    "question": "Fill in the blank: 'Place me like a seal over your heart, like a seal on your arm; for love is as strong as _____.'",
+    "correct": "death",
+    "wrong": ["life", "faith", "God"],
+    "hint": "Love's power is compared to something unavoidable",
+    "explanation": "The Song of Solomon poetically describes love's irresistible power, comparing it to death's unstoppable force.",
+    "full_verse": "Place me like a seal over your heart, like a seal on your arm; for love is as strong as death, its jealousy unyielding as the grave.",
+    "verse_ref": "Song of Solomon 8:6"
+  },
+  "q_love_044": {
+    "question": "Fill in the blank: 'This is how God showed his love among us: He sent his one and only _____ into the world.'",
+    "correct": "Son",
+    "wrong": ["Spirit", "Word", "Gift"],
+    "hint": "God sent Jesus to demonstrate His love",
+    "explanation": "John explains that God's love was demonstrated through sending Jesus Christ into the world.",
+    "full_verse": "This is how God showed his love among us: He sent his one and only Son into the world that we might live through him.",
+    "verse_ref": "1 John 4:9"
+  },
+  "q_love_045": {
+    "question": "Fill in the blank: 'Love must be _____. Hate what is evil; cling to what is good.'",
+    "correct": "sincere",
+    "wrong": ["pure", "true", "genuine"],
+    "hint": "Love should be without pretense",
+    "explanation": "Paul instructs that love must be authentic and unhypocritical, accompanied by moral discernment.",
+    "full_verse": "Love must be sincere. Hate what is evil; cling to what is good.",
+    "verse_ref": "Romans 12:9"
+  },
+  "q_love_046": {
+    "question": "Fill in the blank: 'It keeps no record of _____.'",
+    "correct": "wrongs",
+    "wrong": ["sins", "faults", "debts"],
+    "hint": "Love doesn't hold grudges",
+    "explanation": "Paul describes love as forgiving, not keeping a list of offenses committed against us.",
+    "full_verse": "It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs.",
+    "verse_ref": "1 Corinthians 13:5"
+  },
+  "q_love_047": {
+    "question": "Fill in the blank: 'The only thing that counts is faith expressing itself through _____.'",
+    "correct": "love",
+    "wrong": ["works", "deeds", "action"],
+    "hint": "Faith should be demonstrated this way",
+    "explanation": "Paul teaches that true faith is active and shows itself through love for others.",
+    "full_verse": "For in Christ Jesus neither circumcision nor uncircumcision has any value. The only thing that counts is faith expressing itself through love.",
+    "verse_ref": "Galatians 5:6"
+  },
+  "q_love_048": {
+    "question": "Fill in the blank: 'When I was a child, I talked like a child, I thought like a child, I reasoned like a child. When I became a man, I put the ways of _____ behind me.'",
+    "correct": "childhood",
+    "wrong": ["youth", "immaturity", "children"],
+    "hint": "Growing up means leaving this stage behind",
+    "explanation": "Paul illustrates that love brings maturity, like growing from childhood to adulthood.",
+    "full_verse": "When I was a child, I talked like a child, I thought like a child, I reasoned like a child. When I became a man, I put the ways of childhood behind me.",
+    "verse_ref": "1 Corinthians 13:11"
+  },
+  "q_love_049": {
+    "question": "Fill in the blank: 'Dear children, let us not love with words or speech but with actions and in _____.'",
+    "correct": "truth",
+    "wrong": ["deed", "faith", "spirit"],
+    "hint": "Love should be genuine and real",
+    "explanation": "John calls for love that goes beyond mere words to genuine actions that reflect truth.",
+    "full_verse": "Dear children, let us not love with words or speech but with actions and in truth.",
+    "verse_ref": "1 John 3:18"
+  },
+  "q_love_050": {
+    "question": "Fill in the blank: 'And so we know and rely on the love God has for us. God is love. Whoever lives in love lives in _____, and God in them.'",
+    "correct": "God",
+    "wrong": ["peace", "light", "truth"],
+    "hint": "Living in love means dwelling in the Divine",
+    "explanation": "John teaches that those who live in love experience an intimate, mutual indwelling with God.",
+    "full_verse": "And so we know and rely on the love God has for us. God is love. Whoever lives in love lives in God, and God in them.",
+    "verse_ref": "1 John 4:16"
+  }
+}

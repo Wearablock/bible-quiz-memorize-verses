@@ -1,1 +1,452 @@
-{}
+{
+  "q_comfort_001": {
+    "question": "Completa il versetto: 'Anche se camminassi nella valle dell'ombra della morte, non temerei alcun male, perché tu sei con _____.'",
+    "correct": "me",
+    "wrong": ["noi", "loro", "tutti"],
+    "hint": "La presenza di Dio è personale",
+    "explanation": "Davide esprime fiducia che la presenza di Dio offre conforto e protezione anche nei momenti più bui della vita.",
+    "full_verse": "Anche se camminassi nella valle dell'ombra della morte, non temerei alcun male, perché tu sei con me; il tuo bastone e la tua verga mi danno sicurezza.",
+    "verse_ref": "Salmo 23:4"
+  },
+  "q_comfort_002": {
+    "question": "Completa il versetto: 'Benedetto sia il Dio e Padre del nostro Signore Gesù Cristo, il Padre delle misericordie e il Dio di ogni _____.'",
+    "correct": "consolazione",
+    "wrong": ["grazia", "misericordia", "amore"],
+    "hint": "Questo descrive la natura consolatrice di Dio",
+    "explanation": "Paolo identifica Dio come la fonte ultima di ogni consolazione, che ci consola affinché possiamo consolare gli altri.",
+    "full_verse": "Benedetto sia il Dio e Padre del nostro Signore Gesù Cristo, il Padre delle misericordie e il Dio di ogni consolazione, il quale ci consola in ogni nostra afflizione.",
+    "verse_ref": "2 Corinzi 1:3-4"
+  },
+  "q_comfort_003": {
+    "question": "Completa il versetto: 'Beati quelli che fanno cordoglio, perché saranno _____.'",
+    "correct": "consolati",
+    "wrong": ["guariti", "benedetti", "salvati"],
+    "hint": "Gesù promette consolazione a chi è in lutto",
+    "explanation": "Nelle Beatitudini, Gesù promette la consolazione divina a coloro che piangono e sono in lutto.",
+    "full_verse": "Beati quelli che fanno cordoglio, perché saranno consolati.",
+    "verse_ref": "Matteo 5:4"
+  },
+  "q_comfort_004": {
+    "question": "Completa il versetto: 'Non temere, perché io sono con te; non ti smarrire, perché io sono il tuo _____.'",
+    "correct": "Dio",
+    "wrong": ["Signore", "Salvatore", "Re"],
+    "hint": "Dio dichiara la sua identità come ragione per non temere",
+    "explanation": "Dio rassicura il suo popolo che la sua presenza e identità eliminano la necessità di temere.",
+    "full_verse": "Non temere, perché io sono con te; non ti smarrire, perché io sono il tuo Dio; io ti fortifico, io ti soccorro, io ti sostengo con la destra della mia giustizia.",
+    "verse_ref": "Isaia 41:10"
+  },
+  "q_comfort_005": {
+    "question": "Completa il versetto: 'Vi lascio pace; vi do la mia _____.'",
+    "correct": "pace",
+    "wrong": ["amore", "gioia", "Spirito"],
+    "hint": "Gesù dà ciò che lascia",
+    "explanation": "Gesù promette ai suoi discepoli una pace soprannaturale che il mondo non può dare.",
+    "full_verse": "Vi lascio pace; vi do la mia pace. Io non vi do come il mondo dà. Il vostro cuore non sia turbato e non si sgomenti.",
+    "verse_ref": "Giovanni 14:27"
+  },
+  "q_comfort_006": {
+    "question": "Completa il versetto: 'Il SIGNORE è vicino a quelli che hanno il cuore _____.'",
+    "correct": "spezzato",
+    "wrong": ["giusto", "fedele", "umile"],
+    "hint": "Dio si avvicina a chi ha il cuore ferito",
+    "explanation": "Dio promette la sua speciale vicinanza a coloro che sono emotivamente feriti e abbattuti nello spirito.",
+    "full_verse": "Il SIGNORE è vicino a quelli che hanno il cuore spezzato e salva quelli che hanno lo spirito afflitto.",
+    "verse_ref": "Salmo 34:18"
+  },
+  "q_comfort_007": {
+    "question": "Completa il versetto: 'Venite a me, voi tutti che siete affaticati e oppressi, e io vi darò _____.'",
+    "correct": "riposo",
+    "wrong": ["pace", "speranza", "forza"],
+    "hint": "Gesù offre sollievo dalla stanchezza",
+    "explanation": "Gesù invita tutti coloro che sono stanchi e sopraffatti a trovare riposo in lui.",
+    "full_verse": "Venite a me, voi tutti che siete affaticati e oppressi, e io vi darò riposo.",
+    "verse_ref": "Matteo 11:28"
+  },
+  "q_comfort_008": {
+    "question": "Completa il versetto: 'Or sappiamo che tutte le cose cooperano al _____ di quelli che amano Dio.'",
+    "correct": "bene",
+    "wrong": ["beneficio", "benedizione", "gloria"],
+    "hint": "Lo scopo di Dio in tutte le circostanze",
+    "explanation": "Paolo assicura ai credenti che Dio orchestra tutte le cose per il loro bene ultimo.",
+    "full_verse": "Or sappiamo che tutte le cose cooperano al bene di quelli che amano Dio, i quali sono chiamati secondo il suo disegno.",
+    "verse_ref": "Romani 8:28"
+  },
+  "q_comfort_009": {
+    "question": "Completa il versetto: 'Dio è per noi un rifugio e una forza, un aiuto sempre pronto nelle _____.'",
+    "correct": "difficoltà",
+    "wrong": ["necessità", "angosce", "pericoli"],
+    "hint": "Quando sorgono difficoltà, Dio è presente",
+    "explanation": "Il salmista dichiara Dio come fonte costante di protezione e aiuto nei momenti difficili.",
+    "full_verse": "Dio è per noi un rifugio e una forza, un aiuto sempre pronto nelle difficoltà.",
+    "verse_ref": "Salmo 46:1"
+  },
+  "q_comfort_010": {
+    "question": "Completa il versetto: 'Come una madre consola il suo figlio, così io _____ voi.'",
+    "correct": "consolerò",
+    "wrong": ["amerò", "proteggerò", "guiderò"],
+    "hint": "Dio promette una consolazione materna",
+    "explanation": "Dio paragona la sua consolazione alla tenera cura che una madre dà al suo bambino.",
+    "full_verse": "Come una madre consola il suo figlio, così io consolerò voi; sarete consolati a Gerusalemme.",
+    "verse_ref": "Isaia 66:13"
+  },
+  "q_comfort_011": {
+    "question": "Completa il versetto: 'Il SIGNORE è il mio _____; nulla mi manca.'",
+    "correct": "pastore",
+    "wrong": ["Dio", "Re", "Padre"],
+    "hint": "Questa metafora mostra la guida premurosa di Dio",
+    "explanation": "Davide usa la metafora del pastore per descrivere la completa provvidenza e cura di Dio.",
+    "full_verse": "Il SIGNORE è il mio pastore; nulla mi manca.",
+    "verse_ref": "Salmo 23:1"
+  },
+  "q_comfort_012": {
+    "question": "Completa il versetto: 'Il SIGNORE è la mia luce e la mia salvezza; di chi _____?'",
+    "correct": "temerò",
+    "wrong": ["mi fiderò", "seguirò", "servirò"],
+    "hint": "La presenza di Dio elimina questa emozione",
+    "explanation": "Davide dichiara che con Dio come luce e salvezza, non c'è ragione di temere.",
+    "full_verse": "Il SIGNORE è la mia luce e la mia salvezza; di chi temerò? Il SIGNORE è il baluardo della mia vita; di chi avrò paura?",
+    "verse_ref": "Salmo 27:1"
+  },
+  "q_comfort_013": {
+    "question": "Completa il versetto: 'Getta sul SIGNORE il tuo affanno, ed egli ti _____.'",
+    "correct": "sosterrà",
+    "wrong": ["consolerà", "aiuterà", "salverà"],
+    "hint": "Dio ti manterrà in piedi",
+    "explanation": "Il salmista incoraggia a dare le nostre preoccupazioni a Dio, che ci sosterrà e manterrà.",
+    "full_verse": "Getta sul SIGNORE il tuo affanno, ed egli ti sosterrà; egli non permetterà mai che il giusto vacilli.",
+    "verse_ref": "Salmo 55:22"
+  },
+  "q_comfort_014": {
+    "question": "Completa il versetto: 'La mia carne e il mio cuore possono venir meno, ma Dio è la roccia del mio cuore e la mia parte di eredità, in _____.'",
+    "correct": "eterno",
+    "wrong": ["sempre", "perpetuo", "ogni giorno"],
+    "hint": "La provvidenza di Dio non ha fine",
+    "explanation": "Anche quando il nostro corpo e il nostro spirito vengono meno, Dio rimane la nostra forza eterna e la nostra eredità.",
+    "full_verse": "La mia carne e il mio cuore possono venir meno, ma Dio è la roccia del mio cuore e la mia parte di eredità, in eterno.",
+    "verse_ref": "Salmo 73:26"
+  },
+  "q_comfort_015": {
+    "question": "Completa il versetto: 'Quando ero turbato da grandi preoccupazioni, il tuo conforto mi ha dato _____.'",
+    "correct": "gioia",
+    "wrong": ["pace", "riposo", "speranza"],
+    "hint": "La consolazione di Dio produce questa emozione positiva",
+    "explanation": "Il salmista testimonia che la consolazione di Dio trasforma l'ansia opprimente in gioia.",
+    "full_verse": "Quando ero turbato da grandi preoccupazioni, il tuo conforto mi ha dato gioia.",
+    "verse_ref": "Salmo 94:19"
+  },
+  "q_comfort_016": {
+    "question": "Completa il versetto: 'Questa è la mia consolazione nell'afflizione: che la tua _____ mi fa vivere.'",
+    "correct": "parola",
+    "wrong": ["promessa", "amore", "grazia"],
+    "hint": "L'impegno di Dio dà vita",
+    "explanation": "Il salmista trova consolazione nella sofferenza attraverso le fedeli promesse di Dio.",
+    "full_verse": "Questa è la mia consolazione nell'afflizione: che la tua parola mi fa vivere.",
+    "verse_ref": "Salmo 119:50"
+  },
+  "q_comfort_017": {
+    "question": "Completa il versetto: 'Sia la tua bontà la mia consolazione, secondo la _____ data al tuo servo.'",
+    "correct": "promessa",
+    "wrong": ["parola", "alleanza", "misericordia"],
+    "hint": "Il salmista si appella a ciò che Dio ha detto",
+    "explanation": "Il salmista chiede consolazione basata sull'amore immutabile di Dio e sulle sue promesse.",
+    "full_verse": "Sia la tua bontà la mia consolazione, secondo la promessa data al tuo servo.",
+    "verse_ref": "Salmo 119:76"
+  },
+  "q_comfort_018": {
+    "question": "Completa il versetto: 'Egli guarisce chi ha il cuore spezzato e fascia le loro _____.'",
+    "correct": "ferite",
+    "wrong": ["cuori", "dolori", "sofferenze"],
+    "hint": "Dio provvede guarigione per le ferite emotive",
+    "explanation": "Dio non solo guarisce i cuori spezzati ma si prende cura anche delle ferite specifiche che portiamo.",
+    "full_verse": "Egli guarisce chi ha il cuore spezzato e fascia le loro ferite.",
+    "verse_ref": "Salmo 147:3"
+  },
+  "q_comfort_019": {
+    "question": "Completa il versetto: 'Consolate, consolate il mio _____, dice il vostro Dio.'",
+    "correct": "popolo",
+    "wrong": ["figli", "servi", "nazione"],
+    "hint": "Dio si rivolge alla sua comunità",
+    "explanation": "Dio comanda che il suo popolo riceva doppia consolazione, sottolineando l'importanza del conforto.",
+    "full_verse": "Consolate, consolate il mio popolo, dice il vostro Dio.",
+    "verse_ref": "Isaia 40:1"
+  },
+  "q_comfort_020": {
+    "question": "Completa il versetto: 'Esultate, o cieli! Rallegrati, o terra! Prorompete in grida di gioia, o monti! Perché il SIGNORE _____ il suo popolo.'",
+    "correct": "consola",
+    "wrong": ["ama", "salva", "benedice"],
+    "hint": "Tutta la creazione celebra la consolazione di Dio",
+    "explanation": "La creazione è chiamata a celebrare perché Dio provvede consolazione al suo popolo.",
+    "full_verse": "Esultate, o cieli! Rallegrati, o terra! Prorompete in grida di gioia, o monti! Perché il SIGNORE consola il suo popolo e ha pietà dei suoi afflitti.",
+    "verse_ref": "Isaia 49:13"
+  },
+  "q_comfort_021": {
+    "question": "Completa il versetto: 'Io, io sono colui che vi _____.'",
+    "correct": "consola",
+    "wrong": ["salva", "ama", "protegge"],
+    "hint": "Dio stesso provvede consolazione",
+    "explanation": "Dio dichiara enfaticamente che lui stesso è colui che porta consolazione.",
+    "full_verse": "Io, io sono colui che vi consola; chi sei tu che temi l'uomo che deve morire, e il figlio dell'uomo che passerà come l'erba?",
+    "verse_ref": "Isaia 51:12"
+  },
+  "q_comfort_022": {
+    "question": "Completa il versetto: 'Anche se i monti fossero rimossi e i colli fossero scrollati, il mio _____ per te non sarà rimosso.'",
+    "correct": "amore",
+    "wrong": ["misericordia", "grazia", "promessa"],
+    "hint": "L'emozione di Dio verso di noi è incrollabile",
+    "explanation": "Dio promette che il suo amore è più stabile delle montagne stesse.",
+    "full_verse": "Anche se i monti fossero rimossi e i colli fossero scrollati, il mio amore per te non sarà rimosso, né il mio patto di pace sarà scrollato, dice il SIGNORE che ha pietà di te.",
+    "verse_ref": "Isaia 54:10"
+  },
+  "q_comfort_023": {
+    "question": "Completa il versetto: 'Lo Spirito del Signore, DIO, è su di me, perché il SIGNORE mi ha unto per annunciare la buona notizia agli _____.'",
+    "correct": "umili",
+    "wrong": ["perduti", "afflitti", "poveri"],
+    "hint": "La buona notizia arriva a chi è nel bisogno",
+    "explanation": "Isaia profetizza sulla missione del Messia di portare buone notizie e consolazione ai bisognosi.",
+    "full_verse": "Lo Spirito del Signore, DIO, è su di me, perché il SIGNORE mi ha unto per annunciare la buona notizia agli umili. Mi ha mandato a fasciare quelli che hanno il cuore spezzato, a proclamare la libertà ai prigionieri.",
+    "verse_ref": "Isaia 61:1"
+  },
+  "q_comfort_024": {
+    "question": "Completa il versetto: 'Cambierò il loro lutto in gioia, li consolerò e li rallegrerò, liberandoli dal _____.'",
+    "correct": "dolore",
+    "wrong": ["pianto", "timore", "peccato"],
+    "hint": "Dio trasforma il dolore in celebrazione",
+    "explanation": "Dio promette di trasformare la tristezza in gioia e di sostituire il lutto con allegrezza.",
+    "full_verse": "Cambierò il loro lutto in gioia, li consolerò e li rallegrerò, liberandoli dal dolore.",
+    "verse_ref": "Geremia 31:13"
+  },
+  "q_comfort_025": {
+    "question": "Completa il versetto: 'È una grazia del SIGNORE che non siamo stati completamente distrutti; le sue compassioni infatti non sono _____ mai.'",
+    "correct": "esaurite",
+    "wrong": ["finite", "cessate", "fermate"],
+    "hint": "Le misericordie di Dio non vengono meno",
+    "explanation": "Anche nella sofferenza, l'amore e la compassione di Dio rimangono costanti e affidabili.",
+    "full_verse": "È una grazia del SIGNORE che non siamo stati completamente distrutti; le sue compassioni infatti non sono esaurite mai; si rinnovano ogni mattina. Grande è la tua fedeltà!",
+    "verse_ref": "Lamentazioni 3:22-23"
+  },
+  "q_comfort_026": {
+    "question": "Completa il versetto: 'Il SIGNORE è buono; è un rifugio nel giorno dell'_____.'",
+    "correct": "angoscia",
+    "wrong": ["bisogno", "afflizione", "pericolo"],
+    "hint": "Dio è un luogo sicuro quando arrivano le difficoltà",
+    "explanation": "Naum dichiara la bontà di Dio e il suo ruolo di rifugio nei momenti difficili.",
+    "full_verse": "Il SIGNORE è buono; è un rifugio nel giorno dell'angoscia. Egli conosce quelli che confidano in lui.",
+    "verse_ref": "Naum 1:7"
+  },
+  "q_comfort_027": {
+    "question": "Completa il versetto: 'Il SIGNORE, il tuo Dio, è in mezzo a te come un potente che _____.'",
+    "correct": "salva",
+    "wrong": ["combatte", "protegge", "conquista"],
+    "hint": "Dio come guerriero porta liberazione",
+    "explanation": "Sofonia descrive Dio come un potente guerriero che salva e gioisce per il suo popolo.",
+    "full_verse": "Il SIGNORE, il tuo Dio, è in mezzo a te come un potente che salva; egli si rallegrerà con gran gioia per causa tua; si acqueterà nel suo amore, esulterà per causa tua con grida di gioia.",
+    "verse_ref": "Sofonia 3:17"
+  },
+  "q_comfort_028": {
+    "question": "Completa il versetto: 'Prendete su di voi il mio giogo e imparate da me, perché io sono mansueto e umile di _____.'",
+    "correct": "cuore",
+    "wrong": ["spirito", "mente", "anima"],
+    "hint": "Gesù descrive il suo carattere interiore",
+    "explanation": "Gesù ci invita a imparare dalla sua natura mansueta e umile, trovando riposo per le nostre anime.",
+    "full_verse": "Prendete su di voi il mio giogo e imparate da me, perché io sono mansueto e umile di cuore; e voi troverete riposo per le anime vostre.",
+    "verse_ref": "Matteo 11:29"
+  },
+  "q_comfort_029": {
+    "question": "Completa il versetto: 'Il vostro cuore non sia _____; abbiate fede in Dio e abbiate fede anche in me.'",
+    "correct": "turbato",
+    "wrong": ["impaurito", "ansioso", "preoccupato"],
+    "hint": "Gesù affronta il turbamento interiore",
+    "explanation": "Gesù conforta i suoi discepoli chiamandoli a confidare in lui come confidano in Dio.",
+    "full_verse": "Il vostro cuore non sia turbato; abbiate fede in Dio e abbiate fede anche in me.",
+    "verse_ref": "Giovanni 14:1"
+  },
+  "q_comfort_030": {
+    "question": "Completa il versetto: 'E io pregherò il Padre, ed egli vi darà un altro Consolatore, perché stia con voi per _____.'",
+    "correct": "sempre",
+    "wrong": ["eternamente", "ogni giorno", "tutti i tempi"],
+    "hint": "La presenza dell'Aiutante non ha fine",
+    "explanation": "Gesù promette lo Spirito Santo come Consolatore e Aiutante permanente.",
+    "full_verse": "E io pregherò il Padre, ed egli vi darà un altro Consolatore, perché stia con voi per sempre.",
+    "verse_ref": "Giovanni 14:16"
+  },
+  "q_comfort_031": {
+    "question": "Completa il versetto: 'Non vi lascerò _____; tornerò a voi.'",
+    "correct": "orfani",
+    "wrong": ["soli", "stranieri", "abbandonati"],
+    "hint": "Gesù promette di non lasciarci senza genitori",
+    "explanation": "Gesù assicura ai suoi discepoli che non li abbandonerà come bambini senza genitori.",
+    "full_verse": "Non vi lascerò orfani; tornerò a voi.",
+    "verse_ref": "Giovanni 14:18"
+  },
+  "q_comfort_032": {
+    "question": "Completa il versetto: 'Vi ho detto queste cose, affinché abbiate pace in me. Nel mondo avrete tribolazione; ma fatevi coraggio, io ho vinto il _____.'",
+    "correct": "mondo",
+    "wrong": ["nemico", "tenebre", "male"],
+    "hint": "Gesù ha conquistato questo regno",
+    "explanation": "Gesù riconosce la tribolazione ma incoraggia i credenti con la sua vittoria sul mondo.",
+    "full_verse": "Vi ho detto queste cose, affinché abbiate pace in me. Nel mondo avrete tribolazione; ma fatevi coraggio, io ho vinto il mondo.",
+    "verse_ref": "Giovanni 16:33"
+  },
+  "q_comfort_033": {
+    "question": "Completa il versetto: 'Io ritengo che le sofferenze del tempo presente non siano paragonabili alla _____ che deve essere manifestata a nostro riguardo.'",
+    "correct": "gloria",
+    "wrong": ["gioia", "ricompensa", "benedizione"],
+    "hint": "Lo splendore futuro supera il dolore presente",
+    "explanation": "Paolo mette la sofferenza in prospettiva paragonandola all'incomparabile gloria futura.",
+    "full_verse": "Io ritengo che le sofferenze del tempo presente non siano paragonabili alla gloria che deve essere manifestata a nostro riguardo.",
+    "verse_ref": "Romani 8:18"
+  },
+  "q_comfort_034": {
+    "question": "Completa il versetto: 'Tutto ciò che fu scritto nel passato, fu scritto per nostra istruzione, affinché mediante la pazienza e la consolazione delle Scritture, noi riteniamo la _____.'",
+    "correct": "speranza",
+    "wrong": ["fede", "pace", "gioia"],
+    "hint": "La Scrittura produce questa aspettativa",
+    "explanation": "Paolo spiega che la Scrittura fornisce pazienza e consolazione che producono speranza.",
+    "full_verse": "Tutto ciò che fu scritto nel passato, fu scritto per nostra istruzione, affinché mediante la pazienza e la consolazione delle Scritture, noi riteniamo la speranza.",
+    "verse_ref": "Romani 15:4"
+  },
+  "q_comfort_035": {
+    "question": "Completa il versetto: 'Perché, come abbondano in noi le sofferenze di Cristo, così anche la nostra _____ abbonda per mezzo di Cristo.'",
+    "correct": "consolazione",
+    "wrong": ["gioia", "speranza", "pace"],
+    "hint": "Sofferenza e consolazione sono collegate",
+    "explanation": "Paolo insegna che condividere le sofferenze di Cristo significa anche condividere abbondantemente la sua consolazione.",
+    "full_verse": "Perché, come abbondano in noi le sofferenze di Cristo, così anche la nostra consolazione abbonda per mezzo di Cristo.",
+    "verse_ref": "2 Corinzi 1:5"
+  },
+  "q_comfort_036": {
+    "question": "Completa il versetto: 'Ma Dio che consola gli afflitti, ci ha consolati con la venuta di _____.'",
+    "correct": "Tito",
+    "wrong": ["Timoteo", "Paolo", "Barnaba"],
+    "hint": "L'arrivo di questa persona ha portato consolazione",
+    "explanation": "Paolo condivide come Dio ha usato l'arrivo di Tito per portare consolazione durante un momento difficile.",
+    "full_verse": "Ma Dio che consola gli afflitti, ci ha consolati con la venuta di Tito.",
+    "verse_ref": "2 Corinzi 7:6"
+  },
+  "q_comfort_037": {
+    "question": "Completa il versetto: 'Ora lo stesso Signore nostro Gesù Cristo e Dio nostro Padre, che ci ha amati e ci ha dato per grazia una consolazione eterna e una buona _____.'",
+    "correct": "speranza",
+    "wrong": ["notizia", "fede", "promessa"],
+    "hint": "Dio ci dà un'aspettativa positiva",
+    "explanation": "Paolo prega che la consolazione eterna e la speranza di Dio rafforzino i credenti.",
+    "full_verse": "Ora lo stesso Signore nostro Gesù Cristo e Dio nostro Padre, che ci ha amati e ci ha dato per grazia una consolazione eterna e una buona speranza, consoli i vostri cuori e vi confermi in ogni opera e parola buona.",
+    "verse_ref": "2 Tessalonicesi 2:16-17"
+  },
+  "q_comfort_038": {
+    "question": "Completa il versetto: 'Accostiamoci dunque con piena fiducia al trono della grazia, per ottenere misericordia e trovare grazia per essere soccorsi al momento _____.'",
+    "correct": "opportuno",
+    "wrong": ["del bisogno", "dell'angoscia", "della debolezza"],
+    "hint": "La grazia è disponibile quando ne abbiamo bisogno",
+    "explanation": "Siamo incoraggiati ad accostarci con fiducia al trono di Dio per ricevere aiuto quando ne abbiamo più bisogno.",
+    "full_verse": "Accostiamoci dunque con piena fiducia al trono della grazia, per ottenere misericordia e trovare grazia per essere soccorsi al momento opportuno.",
+    "verse_ref": "Ebrei 4:16"
+  },
+  "q_comfort_039": {
+    "question": "Completa il versetto: 'Io non ti lascerò e non ti _____.'",
+    "correct": "abbandonerò",
+    "wrong": ["dimenticherò", "rifiuterò", "trascurerò"],
+    "hint": "Dio promette di non deserterci mai",
+    "explanation": "Dio fa una promessa enfatica di non lasciare né abbandonare mai il suo popolo.",
+    "full_verse": "La vostra condotta non sia dominata dall'amore del denaro; siate contenti delle cose che avete, perché Dio stesso ha detto: 'Io non ti lascerò e non ti abbandonerò.'",
+    "verse_ref": "Ebrei 13:5"
+  },
+  "q_comfort_040": {
+    "question": "Completa il versetto: 'Gettate su di lui ogni vostra preoccupazione, perché egli ha _____ di voi.'",
+    "correct": "cura",
+    "wrong": ["amore", "provvidenza", "attenzione"],
+    "hint": "La preoccupazione di Dio motiva a dargli le nostre ansie",
+    "explanation": "Pietro incoraggia i credenti a dare tutte le loro preoccupazioni a Dio perché lui si prende cura di loro.",
+    "full_verse": "Gettate su di lui ogni vostra preoccupazione, perché egli ha cura di voi.",
+    "verse_ref": "1 Pietro 5:7"
+  },
+  "q_comfort_041": {
+    "question": "Completa il versetto: 'Perché l'Agnello che è in mezzo al trono li pascerà e li guiderà alle sorgenti delle acque della _____.'",
+    "correct": "vita",
+    "wrong": ["speranza", "grazia", "gioia"],
+    "hint": "L'Agnello provvede ristoro",
+    "explanation": "Nell'Apocalisse, Gesù come l'Agnello pasce il suo popolo verso il ristoro e la consolazione eterna.",
+    "full_verse": "Perché l'Agnello che è in mezzo al trono li pascerà e li guiderà alle sorgenti delle acque della vita; e Dio asciugherà ogni lacrima dai loro occhi.",
+    "verse_ref": "Apocalisse 7:17"
+  },
+  "q_comfort_042": {
+    "question": "Completa il versetto: 'Egli asciugherà ogni _____ dai loro occhi.'",
+    "correct": "lacrima",
+    "wrong": ["dolore", "sofferenza", "tristezza"],
+    "hint": "Dio rimuove l'evidenza del pianto",
+    "explanation": "Nel nuovo cielo e nella nuova terra, Dio rimuoverà personalmente ogni dolore e tristezza.",
+    "full_verse": "Egli asciugherà ogni lacrima dai loro occhi e non ci sarà più la morte, né cordoglio, né grido, né dolore, perché le cose di prima sono passate.",
+    "verse_ref": "Apocalisse 21:4"
+  },
+  "q_comfort_043": {
+    "question": "Completa il versetto: 'Il SIGNORE stesso andrà davanti a te e sarà con te; non ti lascerà e non ti _____.'",
+    "correct": "abbandonerà",
+    "wrong": ["dimenticherà", "rifiuterà", "trascurerà"],
+    "hint": "Dio non deserterà mai il suo popolo",
+    "explanation": "Mosè incoraggia Giosuè con la promessa che Dio va avanti e non abbandona mai il suo popolo.",
+    "full_verse": "Il SIGNORE stesso andrà davanti a te e sarà con te; non ti lascerà e non ti abbandonerà. Non temere e non ti smarrire.",
+    "verse_ref": "Deuteronomio 31:8"
+  },
+  "q_comfort_044": {
+    "question": "Completa il versetto: 'Non te l'ho io comandato? Sii forte e _____. Non temere e non ti smarrire.'",
+    "correct": "coraggioso",
+    "wrong": ["fedele", "valoroso", "audace"],
+    "hint": "Dio comanda forza e questa qualità",
+    "explanation": "Dio comanda a Giosuè di essere forte e coraggioso perché sarà con lui ovunque andrà.",
+    "full_verse": "Non te l'ho io comandato? Sii forte e coraggioso. Non temere e non ti smarrire, perché il SIGNORE, il tuo Dio, sarà con te dovunque andrai.",
+    "verse_ref": "Giosuè 1:9"
+  },
+  "q_comfort_045": {
+    "question": "Completa il versetto: 'Il SIGNORE sarà un rifugio per l'oppresso, un rifugio in tempo di _____.'",
+    "correct": "angoscia",
+    "wrong": ["bisogno", "pericolo", "afflizione"],
+    "hint": "Dio protegge durante le stagioni difficili",
+    "explanation": "Il salmista dichiara Dio come luogo sicuro per chi è perseguitato e in difficoltà.",
+    "full_verse": "Il SIGNORE sarà un rifugio per l'oppresso, un rifugio in tempo di angoscia.",
+    "verse_ref": "Salmo 9:9"
+  },
+  "q_comfort_046": {
+    "question": "Completa il versetto: 'Il SIGNORE è la mia roccia, la mia fortezza, il mio liberatore; il mio Dio, la mia rupe in cui mi _____.'",
+    "correct": "rifugio",
+    "wrong": ["riparo", "riposo", "nascondo"],
+    "hint": "Davide trova sicurezza in Dio",
+    "explanation": "Davide usa molteplici metafore per descrivere Dio come la sua fonte ultima di protezione e sicurezza.",
+    "full_verse": "Il SIGNORE è la mia roccia, la mia fortezza, il mio liberatore; il mio Dio, la mia rupe in cui mi rifugio, il mio scudo, la forza della mia salvezza, il mio alto rifugio.",
+    "verse_ref": "Salmo 18:2"
+  },
+  "q_comfort_047": {
+    "question": "Completa il versetto: 'La sera ci accompagna il pianto; ma la mattina viene la _____.'",
+    "correct": "gioia",
+    "wrong": ["luce", "speranza", "pace"],
+    "hint": "La gioia arriva dopo che l'oscurità passa",
+    "explanation": "Il salmista assicura che il dolore è temporaneo e la gioia arriverà con il nuovo giorno.",
+    "full_verse": "Poiché la sua ira dura solo un momento, ma la sua benevolenza dura tutta una vita. La sera ci accompagna il pianto; ma la mattina viene la gioia.",
+    "verse_ref": "Salmo 30:5"
+  },
+  "q_comfort_048": {
+    "question": "Completa il versetto: 'Perché ti abbatti, anima mia? Perché ti agiti in me? Spera in Dio, perché lo celebrerò ancora; egli è il mio _____.'",
+    "correct": "salvatore",
+    "wrong": ["Signore", "rifugio", "Dio"],
+    "hint": "Il salmista incoraggia l'adorazione futura",
+    "explanation": "Il salmista consiglia la propria anima a sperare in Dio nonostante lo scoraggiamento attuale.",
+    "full_verse": "Perché ti abbatti, anima mia? Perché ti agiti in me? Spera in Dio, perché lo celebrerò ancora; egli è il mio salvatore e il mio Dio.",
+    "verse_ref": "Salmo 42:5"
+  },
+  "q_comfort_049": {
+    "question": "Completa il versetto: 'Chi abita al riparo dell'Altissimo riposa all'ombra dell'_____.'",
+    "correct": "Onnipotente",
+    "wrong": ["Signore", "Salvatore", "Re"],
+    "hint": "Questo titolo enfatizza la potenza di Dio",
+    "explanation": "Chi fa di Dio la propria dimora trova riposo sotto la sua presenza protettiva.",
+    "full_verse": "Chi abita al riparo dell'Altissimo riposa all'ombra dell'Onnipotente.",
+    "verse_ref": "Salmo 91:1"
+  },
+  "q_comfort_050": {
+    "question": "Completa il versetto: 'Alzo gli occhi verso i monti: da dove mi verrà l'aiuto? Il mio aiuto viene dal _____.'",
+    "correct": "SIGNORE",
+    "wrong": ["cielo", "Altissimo", "Onnipotente"],
+    "hint": "Il salmista identifica la fonte dell'aiuto",
+    "explanation": "Il salmista guarda oltre le fonti terrene a Dio come creatore del cielo e della terra per ricevere aiuto.",
+    "full_verse": "Alzo gli occhi verso i monti: da dove mi verrà l'aiuto? Il mio aiuto viene dal SIGNORE, che ha fatto il cielo e la terra.",
+    "verse_ref": "Salmo 121:1-2"
+  }
+}

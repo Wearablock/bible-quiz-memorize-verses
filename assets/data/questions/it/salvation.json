@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_salvation_001",
+      "question": "Completa il versetto: 'Perché Dio ha tanto amato il mondo, che ha dato il suo unigenito Figlio, affinché chiunque crede in lui non perisca, ma abbia vita _____.'",
+      "correct": "eterna",
+      "wrong": ["abbondante", "nuova", "celeste"],
+      "hint": "Questa è la vita che dura per sempre",
+      "explanation": "L'amore di Dio ha provveduto il dono della vita eterna attraverso la fede in Gesù.",
+      "full_verse": "Perché Dio ha tanto amato il mondo, che ha dato il suo unigenito Figlio, affinché chiunque crede in lui non perisca, ma abbia vita eterna.",
+      "verse_ref": "Giovanni 3:16"
+    },
+    {
+      "id": "q_salvation_002",
+      "question": "Completa il versetto: 'Se con la bocca avrai confessato Gesù come Signore e avrai creduto con il cuore che Dio lo ha risuscitato dai morti, sarai _____.'",
+      "correct": "salvato",
+      "wrong": ["benedetto", "perdonato", "guarito"],
+      "hint": "Questo significa essere liberato dal peccato",
+      "explanation": "La salvezza viene dalla confessione di Gesù come Signore e dalla fede nella Sua risurrezione.",
+      "full_verse": "Se con la bocca avrai confessato Gesù come Signore e avrai creduto con il cuore che Dio lo ha risuscitato dai morti, sarai salvato.",
+      "verse_ref": "Romani 10:9"
+    },
+    {
+      "id": "q_salvation_003",
+      "question": "Completa il versetto: 'Infatti è per grazia che siete stati salvati, mediante la fede; e ciò non viene da voi; è il dono di Dio. Non è in virtù di _____ affinché nessuno se ne vanti.'",
+      "correct": "opere",
+      "wrong": ["meriti", "sforzi", "azioni"],
+      "hint": "Queste sono azioni o cose che facciamo",
+      "explanation": "La salvezza è un dono gratuito di Dio, non guadagnato attraverso i nostri sforzi.",
+      "full_verse": "Infatti è per grazia che siete stati salvati, mediante la fede; e ciò non viene da voi; è il dono di Dio. Non è in virtù di opere affinché nessuno se ne vanti.",
+      "verse_ref": "Efesini 2:8-9"
+    },
+    {
+      "id": "q_salvation_004",
+      "question": "Completa il versetto: 'In nessun altro è la salvezza; perché non vi è sotto il cielo nessun altro _____ che sia stato dato agli uomini, per il quale noi dobbiamo essere salvati.'",
+      "correct": "nome",
+      "wrong": ["via", "sentiero", "speranza"],
+      "hint": "Questo rappresenta l'identità di una persona",
+      "explanation": "Gesù Cristo è l'unica fonte di salvezza per l'umanità.",
+      "full_verse": "In nessun altro è la salvezza; perché non vi è sotto il cielo nessun altro nome che sia stato dato agli uomini, per il quale noi dobbiamo essere salvati.",
+      "verse_ref": "Atti 4:12"
+    },
+    {
+      "id": "q_salvation_005",
+      "question": "Completa il versetto: 'Gesù gli disse: \"Io sono la via, la verità e la vita; nessuno viene al Padre se non per mezzo di _____.\"'",
+      "correct": "me",
+      "wrong": ["fede", "Lui", "grazia"],
+      "hint": "Gesù si sta riferendo a se stesso",
+      "explanation": "Gesù è l'unica via per raggiungere Dio Padre.",
+      "full_verse": "Gesù gli disse: \"Io sono la via, la verità e la vita; nessuno viene al Padre se non per mezzo di me.\"",
+      "verse_ref": "Giovanni 14:6"
+    },
+    {
+      "id": "q_salvation_006",
+      "question": "Completa il versetto: 'Perché il salario del peccato è la morte, ma il dono di Dio è la vita eterna in Cristo Gesù, nostro _____.'",
+      "correct": "Signore",
+      "wrong": ["Salvatore", "Re", "Maestro"],
+      "hint": "Questo titolo mostra l'autorità di Gesù",
+      "explanation": "Il peccato porta alla morte, ma Dio offre la vita eterna attraverso Gesù.",
+      "full_verse": "Perché il salario del peccato è la morte, ma il dono di Dio è la vita eterna in Cristo Gesù, nostro Signore.",
+      "verse_ref": "Romani 6:23"
+    },
+    {
+      "id": "q_salvation_007",
+      "question": "Completa il versetto: 'Ed essi risposero: \"Credi nel Signore Gesù, e sarai salvato tu e la tua _____.\"'",
+      "correct": "famiglia",
+      "wrong": ["casa", "discendenza", "gente"],
+      "hint": "Questo si riferisce alle persone che vivono con te",
+      "explanation": "La fede in Gesù porta una salvezza che può influenzare intere famiglie.",
+      "full_verse": "Ed essi risposero: \"Credi nel Signore Gesù, e sarai salvato tu e la tua famiglia.\"",
+      "verse_ref": "Atti 16:31"
+    },
+    {
+      "id": "q_salvation_008",
+      "question": "Completa il versetto: 'Egli ci ha salvati non per opere giuste da noi compiute, ma per la sua _____. Ci ha salvati mediante il lavacro della rigenerazione e del rinnovamento dello Spirito Santo.'",
+      "correct": "misericordia",
+      "wrong": ["grazia", "amore", "bontà"],
+      "hint": "Questa è la compassione mostrata a chi non la merita",
+      "explanation": "La nostra salvezza si basa sulla misericordia di Dio, non sulla nostra giustizia.",
+      "full_verse": "Egli ci ha salvati non per opere giuste da noi compiute, ma per la sua misericordia. Ci ha salvati mediante il lavacro della rigenerazione e del rinnovamento dello Spirito Santo.",
+      "verse_ref": "Tito 3:5"
+    },
+    {
+      "id": "q_salvation_009",
+      "question": "Completa il versetto: 'Ma a tutti quelli che l'hanno ricevuto egli ha dato il diritto di diventare _____ di Dio, a quelli cioè che credono nel suo nome.'",
+      "correct": "figli",
+      "wrong": ["servi", "seguaci", "discepoli"],
+      "hint": "Questo descrive una relazione familiare",
+      "explanation": "Credere in Gesù ci dà il diritto di entrare a far parte della famiglia di Dio.",
+      "full_verse": "Ma a tutti quelli che l'hanno ricevuto egli ha dato il diritto di diventare figli di Dio, a quelli cioè che credono nel suo nome.",
+      "verse_ref": "Giovanni 1:12"
+    },
+    {
+      "id": "q_salvation_010",
+      "question": "Completa il versetto: 'Ma Dio dimostra il suo amore verso di noi in questo: che, mentre eravamo ancora _____, Cristo è morto per noi.'",
+      "correct": "peccatori",
+      "wrong": ["perduti", "nemici", "deboli"],
+      "hint": "Questo descrive persone che hanno fatto del male",
+      "explanation": "L'amore di Dio si manifesta nel fatto che Cristo è morto per noi nonostante la nostra peccaminosità.",
+      "full_verse": "Ma Dio dimostra il suo amore verso di noi in questo: che, mentre eravamo ancora peccatori, Cristo è morto per noi.",
+      "verse_ref": "Romani 5:8"
+    },
+    {
+      "id": "q_salvation_011",
+      "question": "Completa il versetto: 'Dio infatti non ha mandato suo Figlio nel mondo per condannare il mondo, ma perché il mondo sia _____ per mezzo di lui.'",
+      "correct": "salvato",
+      "wrong": ["giudicato", "redento", "guarito"],
+      "hint": "Questo è lo scopo della venuta di Gesù",
+      "explanation": "Gesù è venuto non per condannare ma per salvare il mondo.",
+      "full_verse": "Dio infatti non ha mandato suo Figlio nel mondo per condannare il mondo, ma perché il mondo sia salvato per mezzo di lui.",
+      "verse_ref": "Giovanni 3:17"
+    },
+    {
+      "id": "q_salvation_012",
+      "question": "Completa il versetto: 'In verità, in verità vi dico: chi ascolta la mia parola e crede a colui che mi ha mandato, ha vita eterna e non viene in giudizio, ma è passato dalla morte alla _____.'",
+      "correct": "vita",
+      "wrong": ["gloria", "pace", "libertà"],
+      "hint": "Questo è l'opposto della morte",
+      "explanation": "Credere in Gesù significa passare dalla morte spirituale alla vita eterna.",
+      "full_verse": "In verità, in verità vi dico: chi ascolta la mia parola e crede a colui che mi ha mandato, ha vita eterna e non viene in giudizio, ma è passato dalla morte alla vita.",
+      "verse_ref": "Giovanni 5:24"
+    },
+    {
+      "id": "q_salvation_013",
+      "question": "Completa il versetto: 'In verità, in verità vi dico: chi _____ ha vita eterna.'",
+      "correct": "crede",
+      "wrong": ["obbedisce", "segue", "prega"],
+      "hint": "Questo significa avere fede",
+      "explanation": "La vita eterna viene dalla fede in Gesù.",
+      "full_verse": "In verità, in verità vi dico: chi crede ha vita eterna.",
+      "verse_ref": "Giovanni 6:47"
+    },
+    {
+      "id": "q_salvation_014",
+      "question": "Completa il versetto: 'Io sono la porta; se uno entra per me, sarà salvato, entrerà e uscirà, e troverà _____.'",
+      "correct": "pascolo",
+      "wrong": ["riposo", "pace", "vita"],
+      "hint": "Questo è dove pascolano le pecore",
+      "explanation": "Gesù è l'ingresso alla salvezza e al nutrimento spirituale.",
+      "full_verse": "Io sono la porta; se uno entra per me, sarà salvato, entrerà e uscirà, e troverà pascolo.",
+      "verse_ref": "Giovanni 10:9"
+    },
+    {
+      "id": "q_salvation_015",
+      "question": "Completa il versetto: 'Io do loro la vita eterna e non _____ mai, e nessuno le rapirà dalla mia mano.'",
+      "correct": "periranno",
+      "wrong": ["moriranno", "cadranno", "falliranno"],
+      "hint": "Questo significa essere distrutti",
+      "explanation": "Gesù garantisce la sicurezza eterna per i Suoi seguaci.",
+      "full_verse": "Io do loro la vita eterna e non periranno mai, e nessuno le rapirà dalla mia mano.",
+      "verse_ref": "Giovanni 10:28"
+    },
+    {
+      "id": "q_salvation_016",
+      "question": "Completa il versetto: 'E avverrà che chiunque avrà invocato il nome del Signore sarà _____.'",
+      "correct": "salvato",
+      "wrong": ["benedetto", "ascoltato", "perdonato"],
+      "hint": "Questo significa essere liberato dal peccato",
+      "explanation": "La salvezza è disponibile per tutti coloro che invocano il Signore.",
+      "full_verse": "E avverrà che chiunque avrà invocato il nome del Signore sarà salvato.",
+      "verse_ref": "Atti 2:21"
+    },
+    {
+      "id": "q_salvation_017",
+      "question": "Completa il versetto: 'Infatti non mi vergogno del vangelo, perché è la potenza di Dio per la salvezza di chiunque _____: prima del Giudeo, poi del Greco.'",
+      "correct": "crede",
+      "wrong": ["obbedisce", "si pente", "segue"],
+      "hint": "Questo significa avere fede",
+      "explanation": "Il vangelo è il potente messaggio di salvezza di Dio attraverso la fede.",
+      "full_verse": "Infatti non mi vergogno del vangelo, perché è la potenza di Dio per la salvezza di chiunque crede: prima del Giudeo, poi del Greco.",
+      "verse_ref": "Romani 1:16"
+    },
+    {
+      "id": "q_salvation_018",
+      "question": "Completa il versetto: 'Tutti hanno peccato e sono privi della gloria di Dio, ma sono giustificati gratuitamente per la sua _____, mediante la redenzione che è in Cristo Gesù.'",
+      "correct": "grazia",
+      "wrong": ["misericordia", "amore", "potenza"],
+      "hint": "Questo è il favore immeritato",
+      "explanation": "Tutti hanno peccato, ma la giustificazione è data gratuitamente attraverso la grazia di Dio.",
+      "full_verse": "Tutti hanno peccato e sono privi della gloria di Dio, ma sono giustificati gratuitamente per la sua grazia, mediante la redenzione che è in Cristo Gesù.",
+      "verse_ref": "Romani 3:23-24"
+    },
+    {
+      "id": "q_salvation_019",
+      "question": "Completa il versetto: 'Tanto più dunque, essendo ora giustificati per il suo sangue, saremo per mezzo di lui salvati dall'_____.'",
+      "correct": "ira",
+      "wrong": ["giudizio", "rabbia", "punizione"],
+      "hint": "Questa è la giusta indignazione di Dio contro il peccato",
+      "explanation": "Il sangue di Cristo ci salva dall'ira che meritiamo.",
+      "full_verse": "Tanto più dunque, essendo ora giustificati per il suo sangue, saremo per mezzo di lui salvati dall'ira.",
+      "verse_ref": "Romani 5:9"
+    },
+    {
+      "id": "q_salvation_020",
+      "question": "Completa il versetto: 'Non c'è dunque più nessuna _____ per quelli che sono in Cristo Gesù.'",
+      "correct": "condanna",
+      "wrong": ["giudizio", "punizione", "colpa"],
+      "hint": "Questa è una dichiarazione di colpevolezza",
+      "explanation": "Coloro che sono in Cristo sono liberi dalla sentenza del peccato.",
+      "full_verse": "Non c'è dunque più nessuna condanna per quelli che sono in Cristo Gesù.",
+      "verse_ref": "Romani 8:1"
+    },
+    {
+      "id": "q_salvation_021",
+      "question": "Completa il versetto: 'Infatti chiunque avrà invocato il _____ del Signore sarà salvato.'",
+      "correct": "nome",
+      "wrong": ["potenza", "grazia", "misericordia"],
+      "hint": "Questo rappresenta l'identità di Dio",
+      "explanation": "Invocare il nome del Signore porta la salvezza.",
+      "full_verse": "Infatti chiunque avrà invocato il nome del Signore sarà salvato.",
+      "verse_ref": "Romani 10:13"
+    },
+    {
+      "id": "q_salvation_022",
+      "question": "Completa il versetto: 'Se dunque uno è in Cristo, egli è una nuova creatura; le cose vecchie sono passate: ecco, sono diventate _____.'",
+      "correct": "nuove",
+      "wrong": ["vive", "speranza", "cambiate"],
+      "hint": "Questo è l'opposto di vecchio",
+      "explanation": "In Cristo diventiamo creature completamente nuove.",
+      "full_verse": "Se dunque uno è in Cristo, egli è una nuova creatura; le cose vecchie sono passate: ecco, sono diventate nuove.",
+      "verse_ref": "2 Corinzi 5:17"
+    },
+    {
+      "id": "q_salvation_023",
+      "question": "Completa il versetto: 'Sappiamo che l'uomo non è giustificato per le opere della legge ma soltanto per mezzo della fede in Cristo Gesù, e abbiamo anche noi creduto in Cristo Gesù per essere giustificati per la _____ in Cristo.'",
+      "correct": "fede",
+      "wrong": ["fiducia", "speranza", "credenza"],
+      "hint": "Questa è una convinzione sicura",
+      "explanation": "La giustificazione viene dalla fede in Cristo, non dall'osservanza della legge.",
+      "full_verse": "Sappiamo che l'uomo non è giustificato per le opere della legge ma soltanto per mezzo della fede in Cristo Gesù, e abbiamo anche noi creduto in Cristo Gesù per essere giustificati per la fede in Cristo e non per le opere della legge.",
+      "verse_ref": "Galati 2:16"
+    },
+    {
+      "id": "q_salvation_024",
+      "question": "Completa il versetto: 'In lui abbiamo la redenzione mediante il suo sangue, il perdono dei peccati secondo le ricchezze della sua _____.'",
+      "correct": "grazia",
+      "wrong": ["misericordia", "amore", "gloria"],
+      "hint": "Questo è il favore immeritato di Dio",
+      "explanation": "La redenzione e il perdono vengono attraverso il sangue di Cristo e l'abbondante grazia di Dio.",
+      "full_verse": "In lui abbiamo la redenzione mediante il suo sangue, il perdono dei peccati secondo le ricchezze della sua grazia.",
+      "verse_ref": "Efesini 1:7"
+    },
+    {
+      "id": "q_salvation_025",
+      "question": "Completa il versetto: 'Egli ci ha liberati dal potere delle _____ e ci ha trasportati nel regno del suo amato Figlio. In lui abbiamo la redenzione, il perdono dei peccati.'",
+      "correct": "tenebre",
+      "wrong": ["peccato", "male", "morte"],
+      "hint": "Questo è l'opposto della luce",
+      "explanation": "Dio ci libera dal potere delle tenebre e ci porta nel regno di Cristo.",
+      "full_verse": "Egli ci ha liberati dal potere delle tenebre e ci ha trasportati nel regno del suo amato Figlio. In lui abbiamo la redenzione, il perdono dei peccati.",
+      "verse_ref": "Colossesi 1:13-14"
+    },
+    {
+      "id": "q_salvation_026",
+      "question": "Completa il versetto: 'Certa è quest'affermazione e degna di essere pienamente accettata: Cristo Gesù è venuto nel mondo per salvare i _____, dei quali io sono il primo.'",
+      "correct": "peccatori",
+      "wrong": ["perduti", "deboli", "bisognosi"],
+      "hint": "Queste sono persone che hanno fatto del male",
+      "explanation": "Gesù è venuto specificamente per salvare coloro che hanno peccato.",
+      "full_verse": "Certa è quest'affermazione e degna di essere pienamente accettata: Cristo Gesù è venuto nel mondo per salvare i peccatori, dei quali io sono il primo.",
+      "verse_ref": "1 Timoteo 1:15"
+    },
+    {
+      "id": "q_salvation_027",
+      "question": "Completa il versetto: 'Il quale vuole che tutti gli uomini siano salvati e vengano alla conoscenza della _____.'",
+      "correct": "verità",
+      "wrong": ["vangelo", "Signore", "salvezza"],
+      "hint": "Questo è ciò che è reale e corretto",
+      "explanation": "Dio desidera che tutti siano salvati e conoscano la verità.",
+      "full_verse": "Il quale vuole che tutti gli uomini siano salvati e vengano alla conoscenza della verità.",
+      "verse_ref": "1 Timoteo 2:4"
+    },
+    {
+      "id": "q_salvation_028",
+      "question": "Completa il versetto: 'Egli ci ha salvati e ci ha chiamati con una santa vocazione, non a motivo delle nostre opere, ma secondo il suo proposito e la sua _____.'",
+      "correct": "grazia",
+      "wrong": ["volontà", "amore", "misericordia"],
+      "hint": "Questo è il favore immeritato",
+      "explanation": "La salvezza si basa sulla grazia e sul proposito di Dio, non sulle nostre opere.",
+      "full_verse": "Egli ci ha salvati e ci ha chiamati con una santa vocazione, non a motivo delle nostre opere, ma secondo il suo proposito e la sua grazia.",
+      "verse_ref": "2 Timoteo 1:9"
+    },
+    {
+      "id": "q_salvation_029",
+      "question": "Completa il versetto: 'E, reso perfetto, divenne autore di salvezza eterna per tutti quelli che gli _____.'",
+      "correct": "obbediscono",
+      "wrong": ["seguono", "credono", "si affidano"],
+      "hint": "Questo significa seguire i comandamenti",
+      "explanation": "Gesù è la fonte della salvezza per coloro che gli obbediscono.",
+      "full_verse": "E, reso perfetto, divenne autore di salvezza eterna per tutti quelli che gli obbediscono.",
+      "verse_ref": "Ebrei 5:9"
+    },
+    {
+      "id": "q_salvation_030",
+      "question": "Completa il versetto: 'Perciò egli può salvare perfettamente quelli che per mezzo di lui si avvicinano a Dio, essendo sempre vivente per _____ per loro.'",
+      "correct": "intercedere",
+      "wrong": ["pregare", "parlare", "supplicare"],
+      "hint": "Questo significa pregare per conto di altri",
+      "explanation": "Gesù intercede continuamente per i credenti davanti a Dio.",
+      "full_verse": "Perciò egli può salvare perfettamente quelli che per mezzo di lui si avvicinano a Dio, essendo sempre vivente per intercedere per loro.",
+      "verse_ref": "Ebrei 7:25"
+    },
+    {
+      "id": "q_salvation_031",
+      "question": "Completa il versetto: 'Così anche Cristo, dopo essersi offerto una volta sola per portare i peccati di molti, apparirà una seconda volta, senza peccato, a quelli che lo aspettano per la loro _____.'",
+      "correct": "salvezza",
+      "wrong": ["pace", "gloria", "vita"],
+      "hint": "Questa è la liberazione dal peccato",
+      "explanation": "La seconda venuta di Cristo porterà la salvezza finale al Suo popolo.",
+      "full_verse": "Così anche Cristo, dopo essersi offerto una volta sola per portare i peccati di molti, apparirà una seconda volta, senza peccato, a quelli che lo aspettano per la loro salvezza.",
+      "verse_ref": "Ebrei 9:28"
+    },
+    {
+      "id": "q_salvation_032",
+      "question": "Completa il versetto: 'Benedetto sia il Dio e Padre del nostro Signore Gesù Cristo, che nella sua grande misericordia ci ha fatti rinascere a una speranza viva mediante la risurrezione di Gesù Cristo dai morti, per un'eredità che non può perire, né guastarsi, né _____.'",
+      "correct": "svanire",
+      "wrong": ["finire", "decadere", "diminuire"],
+      "hint": "Questo significa perdere colore o scomparire",
+      "explanation": "La nostra eredità celeste è eterna e immutabile.",
+      "full_verse": "Benedetto sia il Dio e Padre del nostro Signore Gesù Cristo, che nella sua grande misericordia ci ha fatti rinascere a una speranza viva mediante la risurrezione di Gesù Cristo dai morti, per un'eredità che non può perire, né guastarsi, né svanire.",
+      "verse_ref": "1 Pietro 1:3-4"
+    },
+    {
+      "id": "q_salvation_033",
+      "question": "Completa il versetto: 'Perché ottenete il fine della vostra fede: la salvezza delle _____.'",
+      "correct": "anime",
+      "wrong": ["vite", "cuori", "spiriti"],
+      "hint": "Questa è la parte spirituale di una persona",
+      "explanation": "L'obiettivo finale della fede è la salvezza delle nostre anime.",
+      "full_verse": "Perché ottenete il fine della vostra fede: la salvezza delle anime.",
+      "verse_ref": "1 Pietro 1:9"
+    },
+    {
+      "id": "q_salvation_034",
+      "question": "Completa il versetto: 'Egli stesso portò i nostri peccati nel suo corpo sul legno della croce, affinché, morti al peccato, vivessimo per la giustizia; e dalle sue _____ siete stati guariti.'",
+      "correct": "lividure",
+      "wrong": ["sangue", "morte", "sacrificio"],
+      "hint": "Queste sono ferite sul corpo",
+      "explanation": "La sofferenza di Cristo sulla croce porta la nostra guarigione spirituale.",
+      "full_verse": "Egli stesso portò i nostri peccati nel suo corpo sul legno della croce, affinché, morti al peccato, vivessimo per la giustizia; e dalle sue lividure siete stati guariti.",
+      "verse_ref": "1 Pietro 2:24"
+    },
+    {
+      "id": "q_salvation_035",
+      "question": "Completa il versetto: 'Anche Cristo ha sofferto una volta per i peccati, lui giusto per gli ingiusti, per condurvi a _____.'",
+      "correct": "Dio",
+      "wrong": ["cielo", "salvezza", "vita"],
+      "hint": "Questo è chi Cristo ci porta",
+      "explanation": "La sofferenza di Cristo aveva lo scopo di riconciliarci con Dio.",
+      "full_verse": "Anche Cristo ha sofferto una volta per i peccati, lui giusto per gli ingiusti, per condurvi a Dio.",
+      "verse_ref": "1 Pietro 3:18"
+    },
+    {
+      "id": "q_salvation_036",
+      "question": "Completa il versetto: 'Il Signore non ritarda l'adempimento della sua promessa, come alcuni credono che egli faccia. Invece usa pazienza verso di voi, non volendo che qualcuno _____, ma che tutti giungano al ravvedimento.'",
+      "correct": "perisca",
+      "wrong": ["muoia", "soffra", "cada"],
+      "hint": "Questo significa essere distrutti",
+      "explanation": "Dio attende pazientemente che tutti si ravvedano e siano salvati.",
+      "full_verse": "Il Signore non ritarda l'adempimento della sua promessa, come alcuni credono che egli faccia. Invece usa pazienza verso di voi, non volendo che qualcuno perisca, ma che tutti giungano al ravvedimento.",
+      "verse_ref": "2 Pietro 3:9"
+    },
+    {
+      "id": "q_salvation_037",
+      "question": "Completa il versetto: 'Ma se camminiamo nella luce, com'egli è nella luce, abbiamo comunione gli uni con gli altri, e il sangue di Gesù Cristo, suo Figlio, ci purifica da ogni _____.'",
+      "correct": "peccato",
+      "wrong": ["colpa", "vergogna", "male"],
+      "hint": "Questa è la trasgressione contro Dio",
+      "explanation": "Il sangue di Gesù purifica i credenti da ogni peccato.",
+      "full_verse": "Ma se camminiamo nella luce, com'egli è nella luce, abbiamo comunione gli uni con gli altri, e il sangue di Gesù Cristo, suo Figlio, ci purifica da ogni peccato.",
+      "verse_ref": "1 Giovanni 1:7"
+    },
+    {
+      "id": "q_salvation_038",
+      "question": "Completa il versetto: 'E noi abbiamo veduto e testimoniamo che il Padre ha mandato il Figlio per essere il Salvatore del _____.'",
+      "correct": "mondo",
+      "wrong": ["chiesa", "popolo", "nazioni"],
+      "hint": "Questo include tutta l'umanità",
+      "explanation": "Gesù è stato mandato per salvare il mondo intero.",
+      "full_verse": "E noi abbiamo veduto e testimoniamo che il Padre ha mandato il Figlio per essere il Salvatore del mondo.",
+      "verse_ref": "1 Giovanni 4:14"
+    },
+    {
+      "id": "q_salvation_039",
+      "question": "Completa il versetto: 'E la testimonianza è questa: Dio ci ha dato la vita eterna, e questa vita è nel suo _____. Chi ha il Figlio ha la vita; chi non ha il Figlio di Dio non ha la vita.'",
+      "correct": "Figlio",
+      "wrong": ["parola", "grazia", "spirito"],
+      "hint": "Questo si riferisce a Gesù",
+      "explanation": "La vita eterna si trova solo in Gesù Cristo.",
+      "full_verse": "E la testimonianza è questa: Dio ci ha dato la vita eterna, e questa vita è nel suo Figlio. Chi ha il Figlio ha la vita; chi non ha il Figlio di Dio non ha la vita.",
+      "verse_ref": "1 Giovanni 5:11-12"
+    },
+    {
+      "id": "q_salvation_040",
+      "question": "Completa il versetto: 'Ecco, io sto alla porta e busso; se qualcuno ode la mia voce e apre la porta, io entrerò da lui e cenerò con lui ed egli con _____.'",
+      "correct": "me",
+      "wrong": ["Dio", "lui", "loro"],
+      "hint": "Gesù si sta riferendo a se stesso",
+      "explanation": "Gesù ci invita ad aprire i nostri cuori e avere comunione con Lui.",
+      "full_verse": "Ecco, io sto alla porta e busso; se qualcuno ode la mia voce e apre la porta, io entrerò da lui e cenerò con lui ed egli con me.",
+      "verse_ref": "Apocalisse 3:20"
+    },
+    {
+      "id": "q_salvation_041",
+      "question": "Completa il versetto: 'Egli è stato trafitto per le nostre trasgressioni, schiacciato per le nostre iniquità; il castigo, per cui abbiamo pace, è caduto su di lui e dalle sue _____ siamo stati guariti.'",
+      "correct": "lividure",
+      "wrong": ["sangue", "morte", "sofferenze"],
+      "hint": "Queste sono ferite sul corpo",
+      "explanation": "La sofferenza e le ferite di Cristo ci portano guarigione e pace con Dio.",
+      "full_verse": "Egli è stato trafitto per le nostre trasgressioni, schiacciato per le nostre iniquità; il castigo, per cui abbiamo pace, è caduto su di lui e dalle sue lividure siamo stati guariti.",
+      "verse_ref": "Isaia 53:5"
+    },
+    {
+      "id": "q_salvation_042",
+      "question": "Completa il versetto: 'Noi tutti eravamo smarriti come pecore, ognuno di noi seguiva la propria via; e il SIGNORE ha fatto ricadere su di lui l'_____ di noi tutti.'",
+      "correct": "iniquità",
+      "wrong": ["peccato", "colpa", "peso"],
+      "hint": "Questa è un'altra parola per peccato o malvagità",
+      "explanation": "Cristo ha portato su di sé i peccati di tutta l'umanità.",
+      "full_verse": "Noi tutti eravamo smarriti come pecore, ognuno di noi seguiva la propria via; e il SIGNORE ha fatto ricadere su di lui l'iniquità di noi tutti.",
+      "verse_ref": "Isaia 53:6"
+    },
+    {
+      "id": "q_salvation_043",
+      "question": "Completa il versetto: 'Ecco, la mano del SIGNORE non è troppo corta per salvare, né il suo _____ troppo duro per udire.'",
+      "correct": "orecchio",
+      "wrong": ["occhio", "cuore", "mano"],
+      "hint": "Questa parte del corpo serve per ascoltare",
+      "explanation": "Dio è pienamente capace di salvare e ascoltare le nostre preghiere.",
+      "full_verse": "Ecco, la mano del SIGNORE non è troppo corta per salvare, né il suo orecchio troppo duro per udire.",
+      "verse_ref": "Isaia 59:1"
+    },
+    {
+      "id": "q_salvation_044",
+      "question": "Completa il versetto: 'Il SIGNORE è la mia luce e la mia salvezza; di chi temerò? Il SIGNORE è il _____ della mia vita; di chi avrò paura?'",
+      "correct": "rifugio",
+      "wrong": ["forza", "scudo", "sostegno"],
+      "hint": "Questo è un luogo fortificato di protezione",
+      "explanation": "Dio è la nostra luce, salvezza e fortezza sicura.",
+      "full_verse": "Il SIGNORE è la mia luce e la mia salvezza; di chi temerò? Il SIGNORE è il rifugio della mia vita; di chi avrò paura?",
+      "verse_ref": "Salmo 27:1"
+    },
+    {
+      "id": "q_salvation_045",
+      "question": "Completa il versetto: 'Sì, l'anima mia trova _____ in Dio; da lui viene la mia salvezza.'",
+      "correct": "riposo",
+      "wrong": ["pace", "speranza", "gioia"],
+      "hint": "Questo è uno stato di rilassamento o quiete",
+      "explanation": "Le nostre anime trovano vero riposo solo in Dio, la nostra fonte di salvezza.",
+      "full_verse": "Sì, l'anima mia trova riposo in Dio; da lui viene la mia salvezza.",
+      "verse_ref": "Salmo 62:1"
+    },
+    {
+      "id": "q_salvation_046",
+      "question": "Completa il versetto: 'Il nostro Dio è un Dio che salva; al SIGNORE, al Signore, appartiene la liberazione dalla _____.'",
+      "correct": "morte",
+      "wrong": ["peccato", "giudizio", "distruzione"],
+      "hint": "Questa è la fine della vita",
+      "explanation": "Dio ha potere sulla morte e provvede la liberazione da essa.",
+      "full_verse": "Il nostro Dio è un Dio che salva; al SIGNORE, al Signore, appartiene la liberazione dalla morte.",
+      "verse_ref": "Salmo 68:20"
+    },
+    {
+      "id": "q_salvation_047",
+      "question": "Completa il versetto: 'Il SIGNORE è la mia forza e il mio cantico; egli è stato la mia _____.'",
+      "correct": "salvezza",
+      "wrong": ["scudo", "rifugio", "speranza"],
+      "hint": "Questa è la liberazione dal pericolo o dal peccato",
+      "explanation": "Dio stesso è la nostra salvezza e difesa.",
+      "full_verse": "Il SIGNORE è la mia forza e il mio cantico; egli è stato la mia salvezza.",
+      "verse_ref": "Salmo 118:14"
+    },
+    {
+      "id": "q_salvation_048",
+      "question": "Completa il versetto: 'Perché il Figlio dell'uomo è venuto per cercare e salvare ciò che era _____.'",
+      "correct": "perduto",
+      "wrong": ["mondo", "peccatori", "deboli"],
+      "hint": "Questo descrive persone spiritualmente smarrite",
+      "explanation": "La missione di Gesù era trovare e salvare coloro che sono spiritualmente perduti.",
+      "full_verse": "Perché il Figlio dell'uomo è venuto per cercare e salvare ciò che era perduto.",
+      "verse_ref": "Luca 19:10"
+    },
+    {
+      "id": "q_salvation_049",
+      "question": "Completa il versetto: 'Ella partorirà un figlio e tu gli porrai nome Gesù, perché è lui che salverà il suo _____ dai loro peccati.'",
+      "correct": "popolo",
+      "wrong": ["figli", "seguaci", "chiesa"],
+      "hint": "Questo si riferisce a coloro che appartengono a Lui",
+      "explanation": "Il nome Gesù significa 'il Signore salva' perché Egli salva il Suo popolo dal peccato.",
+      "full_verse": "Ella partorirà un figlio e tu gli porrai nome Gesù, perché è lui che salverà il suo popolo dai loro peccati.",
+      "verse_ref": "Matteo 1:21"
+    },
+    {
+      "id": "q_salvation_050",
+      "question": "Completa il versetto: 'Chi avrà creduto e sarà stato battezzato sarà salvato; ma chi non avrà creduto sarà _____.'",
+      "correct": "condannato",
+      "wrong": ["perduto", "giudicato", "punito"],
+      "hint": "Questo significa essere dichiarato colpevole",
+      "explanation": "La fede conduce alla salvezza, mentre l'incredulità porta alla condanna.",
+      "full_verse": "Chi avrà creduto e sarà stato battezzato sarà salvato; ma chi non avrà creduto sarà condannato.",
+      "verse_ref": "Marco 16:16"
+    }
+  ]
+}

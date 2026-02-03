@@ -1,1 +1,452 @@
-{}
+{
+  "q_comfort_001": {
+    "question": "Fill in the blank: 'Even though I walk through the darkest valley, I will fear no evil, for you are with _____.'",
+    "correct": "me",
+    "wrong": ["us", "them", "all"],
+    "hint": "God's presence is personal",
+    "explanation": "David expresses confidence that God's presence provides comfort and protection even in life's darkest moments.",
+    "full_verse": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
+    "verse_ref": "Psalm 23:4"
+  },
+  "q_comfort_002": {
+    "question": "Fill in the blank: 'Praise be to the God and Father of our Lord Jesus Christ, the Father of compassion and the God of all _____.'",
+    "correct": "comfort",
+    "wrong": ["mercy", "grace", "love"],
+    "hint": "This describes God's nature to console",
+    "explanation": "Paul identifies God as the ultimate source of all comfort, who comforts us so we can comfort others.",
+    "full_verse": "Praise be to the God and Father of our Lord Jesus Christ, the Father of compassion and the God of all comfort, who comforts us in all our troubles.",
+    "verse_ref": "2 Corinthians 1:3-4"
+  },
+  "q_comfort_003": {
+    "question": "Fill in the blank: 'Blessed are those who mourn, for they will be _____.'",
+    "correct": "comforted",
+    "wrong": ["healed", "blessed", "saved"],
+    "hint": "Jesus promises consolation to the grieving",
+    "explanation": "In the Beatitudes, Jesus promises divine comfort to those who grieve and mourn.",
+    "full_verse": "Blessed are those who mourn, for they will be comforted.",
+    "verse_ref": "Matthew 5:4"
+  },
+  "q_comfort_004": {
+    "question": "Fill in the blank: 'So do not fear, for I am with you; do not be dismayed, for I am your _____.'",
+    "correct": "God",
+    "wrong": ["Lord", "Savior", "King"],
+    "hint": "God declares His identity as the reason not to fear",
+    "explanation": "God reassures His people that His presence and identity eliminate the need for fear.",
+    "full_verse": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.",
+    "verse_ref": "Isaiah 41:10"
+  },
+  "q_comfort_005": {
+    "question": "Fill in the blank: 'Peace I leave with you; my _____ I give you.'",
+    "correct": "peace",
+    "wrong": ["love", "joy", "Spirit"],
+    "hint": "Jesus gives what He leaves",
+    "explanation": "Jesus promises His disciples a supernatural peace that the world cannot give.",
+    "full_verse": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.",
+    "verse_ref": "John 14:27"
+  },
+  "q_comfort_006": {
+    "question": "Fill in the blank: 'The LORD is close to the _____.'",
+    "correct": "brokenhearted",
+    "wrong": ["righteous", "faithful", "humble"],
+    "hint": "God draws near to those with wounded hearts",
+    "explanation": "God promises His special nearness to those who are emotionally wounded and crushed in spirit.",
+    "full_verse": "The LORD is close to the brokenhearted and saves those who are crushed in spirit.",
+    "verse_ref": "Psalm 34:18"
+  },
+  "q_comfort_007": {
+    "question": "Fill in the blank: 'Come to me, all you who are weary and burdened, and I will give you _____.'",
+    "correct": "rest",
+    "wrong": ["peace", "hope", "strength"],
+    "hint": "Jesus offers relief from exhaustion",
+    "explanation": "Jesus invites all who are tired and overwhelmed to find rest in Him.",
+    "full_verse": "Come to me, all you who are weary and burdened, and I will give you rest.",
+    "verse_ref": "Matthew 11:28"
+  },
+  "q_comfort_008": {
+    "question": "Fill in the blank: 'And we know that in all things God works for the _____ of those who love him.'",
+    "correct": "good",
+    "wrong": ["benefit", "blessing", "glory"],
+    "hint": "God's purpose in all circumstances",
+    "explanation": "Paul assures believers that God orchestrates all things for their ultimate good.",
+    "full_verse": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose.",
+    "verse_ref": "Romans 8:28"
+  },
+  "q_comfort_009": {
+    "question": "Fill in the blank: 'God is our refuge and strength, an ever-present help in _____.'",
+    "correct": "trouble",
+    "wrong": ["need", "distress", "danger"],
+    "hint": "When difficulties arise, God is there",
+    "explanation": "The psalmist declares God as a constant source of protection and help during difficult times.",
+    "full_verse": "God is our refuge and strength, an ever-present help in trouble.",
+    "verse_ref": "Psalm 46:1"
+  },
+  "q_comfort_010": {
+    "question": "Fill in the blank: 'As a mother comforts her child, so will I _____ you.'",
+    "correct": "comfort",
+    "wrong": ["love", "protect", "guide"],
+    "hint": "God promises maternal-like consolation",
+    "explanation": "God compares His comfort to the tender care a mother gives her child.",
+    "full_verse": "As a mother comforts her child, so will I comfort you; and you will be comforted over Jerusalem.",
+    "verse_ref": "Isaiah 66:13"
+  },
+  "q_comfort_011": {
+    "question": "Fill in the blank: 'The LORD is my _____; I lack nothing.'",
+    "correct": "shepherd",
+    "wrong": ["God", "King", "Father"],
+    "hint": "This metaphor shows God's caring guidance",
+    "explanation": "David uses the shepherd metaphor to describe God's complete provision and care.",
+    "full_verse": "The LORD is my shepherd; I lack nothing.",
+    "verse_ref": "Psalm 23:1"
+  },
+  "q_comfort_012": {
+    "question": "Fill in the blank: 'The LORD is my light and my salvation—whom shall I _____?'",
+    "correct": "fear",
+    "wrong": ["trust", "follow", "serve"],
+    "hint": "God's presence eliminates this emotion",
+    "explanation": "David declares that with God as light and salvation, there is no reason for fear.",
+    "full_verse": "The LORD is my light and my salvation—whom shall I fear? The LORD is the stronghold of my life—of whom shall I be afraid?",
+    "verse_ref": "Psalm 27:1"
+  },
+  "q_comfort_013": {
+    "question": "Fill in the blank: 'Cast your cares on the LORD and he will _____ you.'",
+    "correct": "sustain",
+    "wrong": ["comfort", "help", "save"],
+    "hint": "God will keep you going",
+    "explanation": "The psalmist encourages giving our worries to God, who will support and maintain us.",
+    "full_verse": "Cast your cares on the LORD and he will sustain you; he will never let the righteous be shaken.",
+    "verse_ref": "Psalm 55:22"
+  },
+  "q_comfort_014": {
+    "question": "Fill in the blank: 'My flesh and my heart may fail, but God is the strength of my heart and my portion _____.'",
+    "correct": "forever",
+    "wrong": ["always", "eternal", "daily"],
+    "hint": "God's provision has no end",
+    "explanation": "Even when our bodies and spirits fail, God remains our eternal strength and inheritance.",
+    "full_verse": "My flesh and my heart may fail, but God is the strength of my heart and my portion forever.",
+    "verse_ref": "Psalm 73:26"
+  },
+  "q_comfort_015": {
+    "question": "Fill in the blank: 'When anxiety was great within me, your consolation brought me _____.'",
+    "correct": "joy",
+    "wrong": ["peace", "rest", "hope"],
+    "hint": "God's comfort produces this positive emotion",
+    "explanation": "The psalmist testifies that God's comfort transforms overwhelming anxiety into joy.",
+    "full_verse": "When anxiety was great within me, your consolation brought me joy.",
+    "verse_ref": "Psalm 94:19"
+  },
+  "q_comfort_016": {
+    "question": "Fill in the blank: 'My comfort in my suffering is this: Your _____ preserves my life.'",
+    "correct": "promise",
+    "wrong": ["word", "love", "grace"],
+    "hint": "God's commitment gives life",
+    "explanation": "The psalmist finds comfort in suffering through God's faithful promises.",
+    "full_verse": "My comfort in my suffering is this: Your promise preserves my life.",
+    "verse_ref": "Psalm 119:50"
+  },
+  "q_comfort_017": {
+    "question": "Fill in the blank: 'May your unfailing love be my comfort, according to your _____ to your servant.'",
+    "correct": "promise",
+    "wrong": ["word", "covenant", "mercy"],
+    "hint": "The psalmist appeals to what God said",
+    "explanation": "The psalmist asks for comfort based on God's unfailing love and His promises.",
+    "full_verse": "May your unfailing love be my comfort, according to your promise to your servant.",
+    "verse_ref": "Psalm 119:76"
+  },
+  "q_comfort_018": {
+    "question": "Fill in the blank: 'He heals the brokenhearted and binds up their _____.'",
+    "correct": "wounds",
+    "wrong": ["hearts", "sorrows", "pain"],
+    "hint": "God provides healing for emotional injuries",
+    "explanation": "God not only heals broken hearts but also cares for the specific wounds we carry.",
+    "full_verse": "He heals the brokenhearted and binds up their wounds.",
+    "verse_ref": "Psalm 147:3"
+  },
+  "q_comfort_019": {
+    "question": "Fill in the blank: 'Comfort, comfort my _____, says your God.'",
+    "correct": "people",
+    "wrong": ["children", "servants", "nation"],
+    "hint": "God addresses His community",
+    "explanation": "God commands that His people receive double comfort, emphasizing the importance of consolation.",
+    "full_verse": "Comfort, comfort my people, says your God.",
+    "verse_ref": "Isaiah 40:1"
+  },
+  "q_comfort_020": {
+    "question": "Fill in the blank: 'Shout for joy, you heavens; rejoice, you earth; burst into song, you mountains! For the LORD _____ his people.'",
+    "correct": "comforts",
+    "wrong": ["loves", "saves", "blesses"],
+    "hint": "All creation celebrates God's consolation",
+    "explanation": "Creation is called to celebrate because God provides comfort to His people.",
+    "full_verse": "Shout for joy, you heavens; rejoice, you earth; burst into song, you mountains! For the LORD comforts his people and will have compassion on his afflicted ones.",
+    "verse_ref": "Isaiah 49:13"
+  },
+  "q_comfort_021": {
+    "question": "Fill in the blank: 'I, even I, am he who _____ you.'",
+    "correct": "comforts",
+    "wrong": ["saves", "loves", "protects"],
+    "hint": "God personally provides consolation",
+    "explanation": "God emphatically declares that He Himself is the one who brings comfort.",
+    "full_verse": "I, even I, am he who comforts you. Who are you that you fear mere mortals, human beings who are but grass.",
+    "verse_ref": "Isaiah 51:12"
+  },
+  "q_comfort_022": {
+    "question": "Fill in the blank: 'Though the mountains be shaken and the hills be removed, yet my unfailing _____ for you will not be shaken.'",
+    "correct": "love",
+    "wrong": ["mercy", "grace", "promise"],
+    "hint": "God's emotion toward us is unshakeable",
+    "explanation": "God promises that His love is more stable than the mountains themselves.",
+    "full_verse": "Though the mountains be shaken and the hills be removed, yet my unfailing love for you will not be shaken nor my covenant of peace be removed, says the LORD, who has compassion on you.",
+    "verse_ref": "Isaiah 54:10"
+  },
+  "q_comfort_023": {
+    "question": "Fill in the blank: 'The Spirit of the Sovereign LORD is on me, because the LORD has anointed me to proclaim good news to the _____.'",
+    "correct": "poor",
+    "wrong": ["lost", "broken", "humble"],
+    "hint": "Good news comes to those in need",
+    "explanation": "Isaiah prophesies about the Messiah's mission to bring good news and comfort to the needy.",
+    "full_verse": "The Spirit of the Sovereign LORD is on me, because the LORD has anointed me to proclaim good news to the poor. He has sent me to bind up the brokenhearted, to proclaim freedom for the captives.",
+    "verse_ref": "Isaiah 61:1"
+  },
+  "q_comfort_024": {
+    "question": "Fill in the blank: 'I will turn their mourning into gladness; I will give them comfort and _____ instead of sorrow.'",
+    "correct": "joy",
+    "wrong": ["peace", "hope", "rest"],
+    "hint": "God transforms grief into celebration",
+    "explanation": "God promises to transform sorrow into joy and replace mourning with gladness.",
+    "full_verse": "I will turn their mourning into gladness; I will give them comfort and joy instead of sorrow.",
+    "verse_ref": "Jeremiah 31:13"
+  },
+  "q_comfort_025": {
+    "question": "Fill in the blank: 'Because of the LORD's great love we are not consumed, for his compassions never _____.'",
+    "correct": "fail",
+    "wrong": ["end", "cease", "stop"],
+    "hint": "God's mercies are unfailing",
+    "explanation": "Even in suffering, God's love and compassion remain constant and dependable.",
+    "full_verse": "Because of the LORD's great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness.",
+    "verse_ref": "Lamentations 3:22-23"
+  },
+  "q_comfort_026": {
+    "question": "Fill in the blank: 'The LORD is good, a refuge in times of _____.'",
+    "correct": "trouble",
+    "wrong": ["need", "distress", "danger"],
+    "hint": "God is a safe place when difficulties come",
+    "explanation": "Nahum declares God's goodness and His role as a shelter during difficult times.",
+    "full_verse": "The LORD is good, a refuge in times of trouble. He cares for those who trust in him.",
+    "verse_ref": "Nahum 1:7"
+  },
+  "q_comfort_027": {
+    "question": "Fill in the blank: 'The LORD your God is with you, the Mighty Warrior who _____.'",
+    "correct": "saves",
+    "wrong": ["fights", "protects", "conquers"],
+    "hint": "God as a warrior brings deliverance",
+    "explanation": "Zephaniah describes God as a mighty warrior who saves and rejoices over His people.",
+    "full_verse": "The LORD your God is with you, the Mighty Warrior who saves. He will take great delight in you; in his love he will no longer rebuke you, but will rejoice over you with singing.",
+    "verse_ref": "Zephaniah 3:17"
+  },
+  "q_comfort_028": {
+    "question": "Fill in the blank: 'Take my yoke upon you and learn from me, for I am gentle and humble in _____.'",
+    "correct": "heart",
+    "wrong": ["spirit", "mind", "soul"],
+    "hint": "Jesus describes His inner character",
+    "explanation": "Jesus invites us to learn from His gentle and humble nature, finding rest for our souls.",
+    "full_verse": "Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls.",
+    "verse_ref": "Matthew 11:29"
+  },
+  "q_comfort_029": {
+    "question": "Fill in the blank: 'Do not let your hearts be _____. You believe in God; believe also in me.'",
+    "correct": "troubled",
+    "wrong": ["afraid", "anxious", "worried"],
+    "hint": "Jesus addresses inner turmoil",
+    "explanation": "Jesus comforts His disciples by calling them to trust in Him as they trust in God.",
+    "full_verse": "Do not let your hearts be troubled. You believe in God; believe also in me.",
+    "verse_ref": "John 14:1"
+  },
+  "q_comfort_030": {
+    "question": "Fill in the blank: 'And I will ask the Father, and he will give you another advocate to help you and be with you _____.'",
+    "correct": "forever",
+    "wrong": ["always", "eternally", "daily"],
+    "hint": "The Helper's presence has no end",
+    "explanation": "Jesus promises the Holy Spirit as a permanent Comforter and Helper.",
+    "full_verse": "And I will ask the Father, and he will give you another advocate to help you and be with you forever.",
+    "verse_ref": "John 14:16"
+  },
+  "q_comfort_031": {
+    "question": "Fill in the blank: 'I will not leave you as _____; I will come to you.'",
+    "correct": "orphans",
+    "wrong": ["strangers", "alone", "abandoned"],
+    "hint": "Jesus promises not to leave us parentless",
+    "explanation": "Jesus assures His disciples that He will not abandon them like children without parents.",
+    "full_verse": "I will not leave you as orphans; I will come to you.",
+    "verse_ref": "John 14:18"
+  },
+  "q_comfort_032": {
+    "question": "Fill in the blank: 'I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the _____.'",
+    "correct": "world",
+    "wrong": ["enemy", "darkness", "evil"],
+    "hint": "Jesus has conquered this realm",
+    "explanation": "Jesus acknowledges tribulation but encourages believers with His victory over the world.",
+    "full_verse": "I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.",
+    "verse_ref": "John 16:33"
+  },
+  "q_comfort_033": {
+    "question": "Fill in the blank: 'I consider that our present sufferings are not worth comparing with the _____ that will be revealed in us.'",
+    "correct": "glory",
+    "wrong": ["joy", "reward", "blessing"],
+    "hint": "Future splendor outweighs current pain",
+    "explanation": "Paul puts suffering in perspective by comparing it to the incomparable future glory.",
+    "full_verse": "I consider that our present sufferings are not worth comparing with the glory that will be revealed in us.",
+    "verse_ref": "Romans 8:18"
+  },
+  "q_comfort_034": {
+    "question": "Fill in the blank: 'For everything that was written in the past was written to teach us, so that through the endurance taught in the Scriptures and the encouragement they provide we might have _____.'",
+    "correct": "hope",
+    "wrong": ["faith", "peace", "joy"],
+    "hint": "Scripture produces this expectation",
+    "explanation": "Paul explains that Scripture provides endurance and encouragement that produce hope.",
+    "full_verse": "For everything that was written in the past was written to teach us, so that through the endurance taught in the Scriptures and the encouragement they provide we might have hope.",
+    "verse_ref": "Romans 15:4"
+  },
+  "q_comfort_035": {
+    "question": "Fill in the blank: 'For just as we share abundantly in the sufferings of Christ, so also our _____ abounds through Christ.'",
+    "correct": "comfort",
+    "wrong": ["joy", "hope", "peace"],
+    "hint": "Suffering and consolation are connected",
+    "explanation": "Paul teaches that sharing in Christ's sufferings also means sharing abundantly in His comfort.",
+    "full_verse": "For just as we share abundantly in the sufferings of Christ, so also our comfort abounds through Christ.",
+    "verse_ref": "2 Corinthians 1:5"
+  },
+  "q_comfort_036": {
+    "question": "Fill in the blank: 'But God, who comforts the downcast, comforted us by the coming of _____.'",
+    "correct": "Titus",
+    "wrong": ["Timothy", "Paul", "Barnabas"],
+    "hint": "This person's arrival brought comfort",
+    "explanation": "Paul shares how God used Titus's arrival to bring comfort during a difficult time.",
+    "full_verse": "But God, who comforts the downcast, comforted us by the coming of Titus.",
+    "verse_ref": "2 Corinthians 7:6"
+  },
+  "q_comfort_037": {
+    "question": "Fill in the blank: 'May our Lord Jesus Christ himself and God our Father, who loved us and by his grace gave us eternal encouragement and good _____.'",
+    "correct": "hope",
+    "wrong": ["news", "faith", "promise"],
+    "hint": "God gives us positive expectation",
+    "explanation": "Paul prays that God's eternal encouragement and hope would strengthen believers.",
+    "full_verse": "May our Lord Jesus Christ himself and God our Father, who loved us and by his grace gave us eternal encouragement and good hope, encourage your hearts and strengthen you in every good deed and word.",
+    "verse_ref": "2 Thessalonians 2:16-17"
+  },
+  "q_comfort_038": {
+    "question": "Fill in the blank: 'Let us then approach God's throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of _____.'",
+    "correct": "need",
+    "wrong": ["trouble", "distress", "weakness"],
+    "hint": "Grace is available when we require it",
+    "explanation": "We are encouraged to boldly approach God's throne to receive help when we need it most.",
+    "full_verse": "Let us then approach God's throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need.",
+    "verse_ref": "Hebrews 4:16"
+  },
+  "q_comfort_039": {
+    "question": "Fill in the blank: 'Never will I leave you; never will I _____ you.'",
+    "correct": "forsake",
+    "wrong": ["abandon", "forget", "reject"],
+    "hint": "God promises never to desert us",
+    "explanation": "God makes an emphatic promise to never leave or abandon His people.",
+    "full_verse": "Keep your lives free from the love of money and be content with what you have, because God has said, 'Never will I leave you; never will I forsake you.'",
+    "verse_ref": "Hebrews 13:5"
+  },
+  "q_comfort_040": {
+    "question": "Fill in the blank: 'Cast all your anxiety on him because he _____ for you.'",
+    "correct": "cares",
+    "wrong": ["loves", "provides", "watches"],
+    "hint": "God's concern motivates giving Him our worries",
+    "explanation": "Peter encourages believers to give all their worries to God because He genuinely cares for them.",
+    "full_verse": "Cast all your anxiety on him because he cares for you.",
+    "verse_ref": "1 Peter 5:7"
+  },
+  "q_comfort_041": {
+    "question": "Fill in the blank: 'For the Lamb at the center of the throne will be their shepherd; he will lead them to springs of living _____.'",
+    "correct": "water",
+    "wrong": ["hope", "life", "grace"],
+    "hint": "The Lamb provides refreshment",
+    "explanation": "In Revelation, Jesus as the Lamb shepherds His people to eternal refreshment and comfort.",
+    "full_verse": "For the Lamb at the center of the throne will be their shepherd; he will lead them to springs of living water. And God will wipe away every tear from their eyes.",
+    "verse_ref": "Revelation 7:17"
+  },
+  "q_comfort_042": {
+    "question": "Fill in the blank: 'He will wipe every _____ from their eyes.'",
+    "correct": "tear",
+    "wrong": ["sorrow", "pain", "grief"],
+    "hint": "God removes the evidence of crying",
+    "explanation": "In the new heaven and earth, God will personally remove all grief and sorrow.",
+    "full_verse": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain, for the old order of things has passed away.",
+    "verse_ref": "Revelation 21:4"
+  },
+  "q_comfort_043": {
+    "question": "Fill in the blank: 'The LORD himself goes before you and will be with you; he will never leave you nor _____ you.'",
+    "correct": "forsake",
+    "wrong": ["abandon", "forget", "reject"],
+    "hint": "God will never desert His people",
+    "explanation": "Moses encourages Joshua with the promise that God goes ahead and never abandons His people.",
+    "full_verse": "The LORD himself goes before you and will be with you; he will never leave you nor forsake you. Do not be afraid; do not be discouraged.",
+    "verse_ref": "Deuteronomy 31:8"
+  },
+  "q_comfort_044": {
+    "question": "Fill in the blank: 'Have I not commanded you? Be strong and _____. Do not be afraid; do not be discouraged.'",
+    "correct": "courageous",
+    "wrong": ["faithful", "brave", "bold"],
+    "hint": "God commands strength and this quality",
+    "explanation": "God commands Joshua to be strong and courageous because He will be with him wherever he goes.",
+    "full_verse": "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go.",
+    "verse_ref": "Joshua 1:9"
+  },
+  "q_comfort_045": {
+    "question": "Fill in the blank: 'The LORD is a refuge for the oppressed, a stronghold in times of _____.'",
+    "correct": "trouble",
+    "wrong": ["need", "danger", "distress"],
+    "hint": "God protects during difficult seasons",
+    "explanation": "The psalmist declares God as a safe place for those who are persecuted and struggling.",
+    "full_verse": "The LORD is a refuge for the oppressed, a stronghold in times of trouble.",
+    "verse_ref": "Psalm 9:9"
+  },
+  "q_comfort_046": {
+    "question": "Fill in the blank: 'The LORD is my rock, my fortress and my deliverer; my God is my rock, in whom I take _____.'",
+    "correct": "refuge",
+    "wrong": ["shelter", "comfort", "rest"],
+    "hint": "David finds safety in God",
+    "explanation": "David uses multiple metaphors to describe God as his ultimate source of protection and safety.",
+    "full_verse": "The LORD is my rock, my fortress and my deliverer; my God is my rock, in whom I take refuge, my shield and the horn of my salvation, my stronghold.",
+    "verse_ref": "Psalm 18:2"
+  },
+  "q_comfort_047": {
+    "question": "Fill in the blank: 'Weeping may stay for the night, but rejoicing comes in the _____.'",
+    "correct": "morning",
+    "wrong": ["dawn", "day", "light"],
+    "hint": "Joy follows after the darkness passes",
+    "explanation": "The psalmist assures that sorrow is temporary and joy will come with the new day.",
+    "full_verse": "For his anger lasts only a moment, but his favor lasts a lifetime; weeping may stay for the night, but rejoicing comes in the morning.",
+    "verse_ref": "Psalm 30:5"
+  },
+  "q_comfort_048": {
+    "question": "Fill in the blank: 'Why, my soul, are you downcast? Why so disturbed within me? Put your hope in God, for I will yet _____ him.'",
+    "correct": "praise",
+    "wrong": ["thank", "worship", "trust"],
+    "hint": "The psalmist encourages future worship",
+    "explanation": "The psalmist counsels his own soul to hope in God despite current discouragement.",
+    "full_verse": "Why, my soul, are you downcast? Why so disturbed within me? Put your hope in God, for I will yet praise him, my Savior and my God.",
+    "verse_ref": "Psalm 42:5"
+  },
+  "q_comfort_049": {
+    "question": "Fill in the blank: 'Whoever dwells in the shelter of the Most High will rest in the shadow of the _____.'",
+    "correct": "Almighty",
+    "wrong": ["Lord", "Savior", "King"],
+    "hint": "This title emphasizes God's power",
+    "explanation": "Those who make God their dwelling place find rest under His protective presence.",
+    "full_verse": "Whoever dwells in the shelter of the Most High will rest in the shadow of the Almighty.",
+    "verse_ref": "Psalm 91:1"
+  },
+  "q_comfort_050": {
+    "question": "Fill in the blank: 'I lift up my eyes to the mountains—where does my help come from? My help comes from the _____.'",
+    "correct": "LORD",
+    "wrong": ["heavens", "Most High", "Almighty"],
+    "hint": "The psalmist identifies the source of help",
+    "explanation": "The psalmist looks beyond earthly sources to God as the maker of heaven and earth for help.",
+    "full_verse": "I lift up my eyes to the mountains—where does my help come from? My help comes from the LORD, the Maker of heaven and earth.",
+    "verse_ref": "Psalm 121:1-2"
+  }
+}

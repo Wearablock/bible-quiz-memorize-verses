@@ -1,1 +1,452 @@
-{}
+{
+  "q_proverbs_001": {
+    "question": "Selon Proverbes 3:5-6, « Confie-toi en l'Éternel de tout ton cœur, et ne t'appuie pas sur ta _____. »",
+    "correct": "sagesse",
+    "wrong": ["intelligence", "connaissance", "force"],
+    "hint": "Ce mot se rapporte à l'intellect humain et au raisonnement",
+    "explanation": "Nous sommes appelés à faire entièrement confiance à Dieu plutôt qu'à nous fier à notre propre compréhension limitée.",
+    "full_verse": "Confie-toi en l'Éternel de tout ton cœur, et ne t'appuie pas sur ta sagesse; reconnais-le dans toutes tes voies, et il aplanira tes sentiers.",
+    "verse_ref": "Proverbes 3:5-6"
+  },
+  "q_proverbs_002": {
+    "question": "Selon Proverbes 1:7, « La crainte de l'Éternel est le commencement de la _____. »",
+    "correct": "science",
+    "wrong": ["sagesse", "intelligence", "foi"],
+    "hint": "C'est ce que les insensés méprisent avec l'instruction",
+    "explanation": "La révérence envers Dieu est le fondement de toute vraie connaissance.",
+    "full_verse": "La crainte de l'Éternel est le commencement de la science; les insensés méprisent la sagesse et l'instruction.",
+    "verse_ref": "Proverbes 1:7"
+  },
+  "q_proverbs_003": {
+    "question": "Selon Proverbes 22:6, « Instruis l'_____ selon la voie qu'il doit suivre; et quand il sera vieux, il ne s'en détournera pas. »",
+    "correct": "enfant",
+    "wrong": ["jeune", "disciple", "croyant"],
+    "hint": "Cela se réfère aux jeunes qui sont élevés",
+    "explanation": "L'éducation spirituelle précoce a des effets durables tout au long de la vie d'une personne.",
+    "full_verse": "Instruis l'enfant selon la voie qu'il doit suivre; et quand il sera vieux, il ne s'en détournera pas.",
+    "verse_ref": "Proverbes 22:6"
+  },
+  "q_proverbs_004": {
+    "question": "Selon Proverbes 16:3, « Recommande à l'Éternel tes œuvres, et tes _____ réussiront. »",
+    "correct": "projets",
+    "wrong": ["voies", "pas", "œuvres"],
+    "hint": "Ce mot se réfère à vos intentions pour l'avenir",
+    "explanation": "Quand nous dédions notre travail à Dieu, il guide et établit nos intentions.",
+    "full_verse": "Recommande à l'Éternel tes œuvres, et tes projets réussiront.",
+    "verse_ref": "Proverbes 16:3"
+  },
+  "q_proverbs_005": {
+    "question": "Selon Proverbes 3:3, « Que la bonté et la _____ ne t'abandonnent pas; lie-les à ton cou, écris-les sur la table de ton cœur. »",
+    "correct": "fidélité",
+    "wrong": ["vérité", "grâce", "bonté"],
+    "hint": "Cette vertu se rapporte à être loyal et fiable",
+    "explanation": "L'amour et la fidélité doivent être des compagnons constants, façonnant notre caractère.",
+    "full_verse": "Que la bonté et la fidélité ne t'abandonnent pas; lie-les à ton cou, écris-les sur la table de ton cœur.",
+    "verse_ref": "Proverbes 3:3"
+  },
+  "q_proverbs_006": {
+    "question": "Selon Proverbes 4:23, « Garde ton _____ plus que toute autre chose, car de lui viennent les sources de la vie. »",
+    "correct": "cœur",
+    "wrong": ["esprit", "âme", "langue"],
+    "hint": "C'est le centre de votre être et de vos émotions",
+    "explanation": "Le cœur est la source de la vie, affectant toutes nos pensées, paroles et actions.",
+    "full_verse": "Garde ton cœur plus que toute autre chose, car de lui viennent les sources de la vie.",
+    "verse_ref": "Proverbes 4:23"
+  },
+  "q_proverbs_007": {
+    "question": "Selon Proverbes 18:10, « Le nom de l'Éternel est une _____ forte; le juste s'y réfugie, et se trouve en sûreté. »",
+    "correct": "tour",
+    "wrong": ["ville", "forteresse", "refuge"],
+    "hint": "C'est une structure haute utilisée pour la défense",
+    "explanation": "Le nom de Dieu représente son caractère et sa puissance, offrant protection à ceux qui lui font confiance.",
+    "full_verse": "Le nom de l'Éternel est une tour forte; le juste s'y réfugie, et se trouve en sûreté.",
+    "verse_ref": "Proverbes 18:10"
+  },
+  "q_proverbs_008": {
+    "question": "Selon Proverbes 27:17, « Comme le fer aiguise le fer, ainsi un homme excite la colère d'un _____. »",
+    "correct": "homme",
+    "wrong": ["ami", "autre", "frère"],
+    "hint": "Cela se réfère à un autre individu",
+    "explanation": "Les relations saines nous aident à grandir et à nous améliorer par l'encouragement mutuel.",
+    "full_verse": "Comme le fer aiguise le fer, ainsi un homme excite la colère d'un homme.",
+    "verse_ref": "Proverbes 27:17"
+  },
+  "q_proverbs_009": {
+    "question": "Selon Proverbes 31:30, « La grâce est trompeuse, et la beauté est vaine; la femme qui craint l'Éternel est celle qui sera _____. »",
+    "correct": "louée",
+    "wrong": ["honorée", "bénie", "aimée"],
+    "hint": "Cela signifie être félicitée ou célébrée",
+    "explanation": "La vraie valeur se trouve dans la révérence envers Dieu, pas dans l'apparence extérieure.",
+    "full_verse": "La grâce est trompeuse, et la beauté est vaine; la femme qui craint l'Éternel est celle qui sera louée.",
+    "verse_ref": "Proverbes 31:30"
+  },
+  "q_proverbs_010": {
+    "question": "Selon Proverbes 11:25, « L'âme bienfaisante sera _____; celui qui arrose sera lui-même arrosé. »",
+    "correct": "rassasiée",
+    "wrong": ["prospère", "bénie", "enrichie"],
+    "hint": "Cela signifie être comblé",
+    "explanation": "La générosité apporte des bénédictions en retour au donneur.",
+    "full_verse": "L'âme bienfaisante sera rassasiée, et celui qui arrose sera lui-même arrosé.",
+    "verse_ref": "Proverbes 11:25"
+  },
+  "q_proverbs_011": {
+    "question": "Selon Proverbes 3:9, « Honore l'Éternel avec tes biens, et avec les _____ de tout ton revenu. »",
+    "correct": "prémices",
+    "wrong": ["meilleurs", "dîmes", "récoltes"],
+    "hint": "Cela se réfère à la première portion de votre récolte",
+    "explanation": "Donner à Dieu les premiers et les meilleurs de nos revenus montre confiance et gratitude.",
+    "full_verse": "Honore l'Éternel avec tes biens, et avec les prémices de tout ton revenu.",
+    "verse_ref": "Proverbes 3:9"
+  },
+  "q_proverbs_012": {
+    "question": "Selon Proverbes 10:12, « La haine excite des querelles, mais l'amour couvre toutes les _____. »",
+    "correct": "fautes",
+    "wrong": ["péchés", "erreurs", "offenses"],
+    "hint": "Cela se réfère aux erreurs ou offenses",
+    "explanation": "L'amour choisit de pardonner plutôt que de garder rancune.",
+    "full_verse": "La haine excite des querelles, mais l'amour couvre toutes les fautes.",
+    "verse_ref": "Proverbes 10:12"
+  },
+  "q_proverbs_013": {
+    "question": "Selon Proverbes 11:2, « Quand vient l'orgueil, vient aussi l'_____; mais la sagesse est avec les humbles. »",
+    "correct": "ignominie",
+    "wrong": ["honte", "chute", "destruction"],
+    "hint": "C'est le contraire de l'honneur",
+    "explanation": "L'orgueil mène à la honte, tandis que l'humilité mène à la sagesse.",
+    "full_verse": "Quand vient l'orgueil, vient aussi l'ignominie; mais la sagesse est avec les humbles.",
+    "verse_ref": "Proverbes 11:2"
+  },
+  "q_proverbs_014": {
+    "question": "Selon Proverbes 12:25, « L'inquiétude dans le cœur de l'homme l'abat, mais une bonne parole le _____. »",
+    "correct": "réjouit",
+    "wrong": ["élève", "encourage", "console"],
+    "hint": "Cela indique un sentiment de bonheur",
+    "explanation": "Les paroles encourageantes ont le pouvoir de relever les esprits abattus par l'inquiétude.",
+    "full_verse": "L'inquiétude dans le cœur de l'homme l'abat, mais une bonne parole le réjouit.",
+    "verse_ref": "Proverbes 12:25"
+  },
+  "q_proverbs_015": {
+    "question": "Selon Proverbes 13:12, « Un espoir différé rend le cœur malade, mais un désir accompli est un arbre de _____. »",
+    "correct": "vie",
+    "wrong": ["joie", "espoir", "bénédiction"],
+    "hint": "C'est ce que l'arbre fournit",
+    "explanation": "Les espoirs retardés peuvent être décourageants, mais les désirs accomplis apportent vitalité et joie.",
+    "full_verse": "Un espoir différé rend le cœur malade, mais un désir accompli est un arbre de vie.",
+    "verse_ref": "Proverbes 13:12"
+  },
+  "q_proverbs_016": {
+    "question": "Selon Proverbes 14:12, « Telle voie paraît droite à un homme, mais son issue, c'est la voie de la _____. »",
+    "correct": "mort",
+    "wrong": ["ruine", "destruction", "ténèbres"],
+    "hint": "C'est la conséquence ultime",
+    "explanation": "Le jugement humain peut être trompé; ce qui semble juste peut mener à la destruction.",
+    "full_verse": "Telle voie paraît droite à un homme, mais son issue, c'est la voie de la mort.",
+    "verse_ref": "Proverbes 14:12"
+  },
+  "q_proverbs_017": {
+    "question": "Selon Proverbes 15:1, « Une réponse douce calme la fureur, mais une parole dure excite la _____. »",
+    "correct": "colère",
+    "wrong": ["querelle", "conflit", "rage"],
+    "hint": "Cette émotion est provoquée par des paroles dures",
+    "explanation": "Notre façon de répondre peut soit désamorcer soit intensifier un conflit.",
+    "full_verse": "Une réponse douce calme la fureur, mais une parole dure excite la colère.",
+    "verse_ref": "Proverbes 15:1"
+  },
+  "q_proverbs_018": {
+    "question": "Selon Proverbes 16:9, « Le cœur de l'homme médite sa voie, mais c'est l'Éternel qui dirige ses _____. »",
+    "correct": "pas",
+    "wrong": ["chemins", "voies", "projets"],
+    "hint": "Cela se réfère aux mouvements individuels vers l'avant",
+    "explanation": "Nous pouvons faire des plans, mais Dieu dirige finalement notre chemin.",
+    "full_verse": "Le cœur de l'homme médite sa voie, mais c'est l'Éternel qui dirige ses pas.",
+    "verse_ref": "Proverbes 16:9"
+  },
+  "q_proverbs_019": {
+    "question": "Selon Proverbes 17:17, « L'ami aime en tout temps, et dans le malheur il se montre un _____. »",
+    "correct": "frère",
+    "wrong": ["ami", "compagnon", "soutien"],
+    "hint": "C'est un membre de la famille",
+    "explanation": "Les vrais amis et la famille sont présents dans les moments difficiles.",
+    "full_verse": "L'ami aime en tout temps, et dans le malheur il se montre un frère.",
+    "verse_ref": "Proverbes 17:17"
+  },
+  "q_proverbs_020": {
+    "question": "Selon Proverbes 18:24, « Celui qui a beaucoup d'amis les a pour son malheur, mais il est tel ami plus attaché qu'un _____. »",
+    "correct": "frère",
+    "wrong": ["père", "mère", "sœur"],
+    "hint": "C'est un membre masculin de la famille",
+    "explanation": "La vraie amitié peut être encore plus proche que les liens familiaux.",
+    "full_verse": "Celui qui a beaucoup d'amis les a pour son malheur, mais il est tel ami plus attaché qu'un frère.",
+    "verse_ref": "Proverbes 18:24"
+  },
+  "q_proverbs_021": {
+    "question": "Selon Proverbes 19:21, « Il y a dans le cœur de l'homme beaucoup de projets, mais c'est le dessein de l'Éternel qui _____. »",
+    "correct": "s'accomplit",
+    "wrong": ["prévaut", "demeure", "triomphe"],
+    "hint": "Cela se réfère à la réalisation du plan de Dieu",
+    "explanation": "Les plans humains sont nombreux, mais le dessein souverain de Dieu s'accomplira finalement.",
+    "full_verse": "Il y a dans le cœur de l'homme beaucoup de projets, mais c'est le dessein de l'Éternel qui s'accomplit.",
+    "verse_ref": "Proverbes 19:21"
+  },
+  "q_proverbs_022": {
+    "question": "Selon Proverbes 20:7, « Le juste marche dans son intégrité; heureux ses _____ après lui! »",
+    "correct": "enfants",
+    "wrong": ["familles", "descendants", "héritiers"],
+    "hint": "Ce sont les fils et les filles",
+    "explanation": "Une vie juste laisse un héritage positif pour les générations futures.",
+    "full_verse": "Le juste marche dans son intégrité; heureux ses enfants après lui!",
+    "verse_ref": "Proverbes 20:7"
+  },
+  "q_proverbs_023": {
+    "question": "Selon Proverbes 21:21, « Celui qui poursuit la justice et la bonté trouve la vie, la _____ et la gloire. »",
+    "correct": "justice",
+    "wrong": ["paix", "joie", "bénédiction"],
+    "hint": "Ce mot signifie ce qui est droit et équitable",
+    "explanation": "Poursuivre la justice et l'amour mène à une vie pleine et bénie.",
+    "full_verse": "Celui qui poursuit la justice et la bonté trouve la vie, la justice et la gloire.",
+    "verse_ref": "Proverbes 21:21"
+  },
+  "q_proverbs_024": {
+    "question": "Selon Proverbes 22:1, « La réputation est préférable à de grandes _____; et la grâce vaut mieux que l'argent et que l'or. »",
+    "correct": "richesses",
+    "wrong": ["fortunes", "trésors", "possessions"],
+    "hint": "Ce mot se réfère à une grande abondance de biens",
+    "explanation": "Le caractère et la réputation sont plus précieux que la richesse matérielle.",
+    "full_verse": "La réputation est préférable à de grandes richesses, et la grâce vaut mieux que l'argent et que l'or.",
+    "verse_ref": "Proverbes 22:1"
+  },
+  "q_proverbs_025": {
+    "question": "Selon Proverbes 23:12, « Ouvre ton cœur à l'instruction, et tes oreilles aux paroles de la _____. »",
+    "correct": "science",
+    "wrong": ["sagesse", "vérité", "intelligence"],
+    "hint": "C'est ce que l'instruction vise à transmettre",
+    "explanation": "Nous devons recevoir avec empressement l'instruction et la connaissance.",
+    "full_verse": "Ouvre ton cœur à l'instruction, et tes oreilles aux paroles de la science.",
+    "verse_ref": "Proverbes 23:12"
+  },
+  "q_proverbs_026": {
+    "question": "Selon Proverbes 24:16, « Car sept fois le juste tombe, et il se _____; mais les méchants sont précipités dans le malheur. »",
+    "correct": "relève",
+    "wrong": ["lève", "redresse", "restaure"],
+    "hint": "Ce mot indique se remettre debout après une chute",
+    "explanation": "Les justes démontrent leur résilience en se relevant après les échecs.",
+    "full_verse": "Car sept fois le juste tombe, et il se relève; mais les méchants sont précipités dans le malheur.",
+    "verse_ref": "Proverbes 24:16"
+  },
+  "q_proverbs_027": {
+    "question": "Selon Proverbes 25:11, « Comme des pommes d'or sur des ciselures d'_____, ainsi est une parole dite à propos. »",
+    "correct": "argent",
+    "wrong": ["or", "joyaux", "bronze"],
+    "hint": "Ce métal précieux fournit le cadre",
+    "explanation": "Les paroles opportunes et appropriées sont belles et précieuses.",
+    "full_verse": "Comme des pommes d'or sur des ciselures d'argent, ainsi est une parole dite à propos.",
+    "verse_ref": "Proverbes 25:11"
+  },
+  "q_proverbs_028": {
+    "question": "Selon Proverbes 26:20, « Faute de bois, le feu s'éteint; et quand il n'y a point de _____, la querelle s'apaise. »",
+    "correct": "rapporteur",
+    "wrong": ["rumeur", "conte", "murmure"],
+    "hint": "Cela se réfère à quelqu'un qui répand des ragots",
+    "explanation": "Le conflit est alimenté par ceux qui répandent des paroles négatives sur les autres.",
+    "full_verse": "Faute de bois, le feu s'éteint; et quand il n'y a point de rapporteur, la querelle s'apaise.",
+    "verse_ref": "Proverbes 26:20"
+  },
+  "q_proverbs_029": {
+    "question": "Selon Proverbes 27:1, « Ne te vante pas du lendemain, car tu ne sais pas ce qu'un _____ peut enfanter. »",
+    "correct": "jour",
+    "wrong": ["moment", "avenir", "temps"],
+    "hint": "Cela se réfère à une période de 24 heures",
+    "explanation": "Nous ne devons pas présumer de l'avenir, car il est incertain.",
+    "full_verse": "Ne te vante pas du lendemain, car tu ne sais pas ce qu'un jour peut enfanter.",
+    "verse_ref": "Proverbes 27:1"
+  },
+  "q_proverbs_030": {
+    "question": "Selon Proverbes 28:13, « Celui qui cache ses transgressions ne prospère point, mais celui qui les avoue et les délaisse obtient _____. »",
+    "correct": "miséricorde",
+    "wrong": ["grâce", "pardon", "paix"],
+    "hint": "C'est un traitement compatissant",
+    "explanation": "La confession et la repentance mènent à la miséricorde de Dieu.",
+    "full_verse": "Celui qui cache ses transgressions ne prospère point, mais celui qui les avoue et les délaisse obtient miséricorde.",
+    "verse_ref": "Proverbes 28:13"
+  },
+  "q_proverbs_031": {
+    "question": "Selon Proverbes 29:25, « La crainte des hommes tend un _____; mais celui qui se confie en l'Éternel est protégé. »",
+    "correct": "piège",
+    "wrong": ["filet", "fardeau", "malédiction"],
+    "hint": "C'est quelque chose qui attrape et emprisonne",
+    "explanation": "Être contrôlé par l'opinion des autres peut nous piéger, mais faire confiance à Dieu apporte la sécurité.",
+    "full_verse": "La crainte des hommes tend un piège; mais celui qui se confie en l'Éternel est protégé.",
+    "verse_ref": "Proverbes 29:25"
+  },
+  "q_proverbs_032": {
+    "question": "Selon Proverbes 30:5, « Toute parole de Dieu est _____; il est un bouclier pour ceux qui cherchent en lui un refuge. »",
+    "correct": "éprouvée",
+    "wrong": ["pure", "vraie", "parfaite"],
+    "hint": "Cela signifie testée et vérifiée",
+    "explanation": "La Parole de Dieu est complètement fiable et digne de confiance.",
+    "full_verse": "Toute parole de Dieu est éprouvée; il est un bouclier pour ceux qui cherchent en lui un refuge.",
+    "verse_ref": "Proverbes 30:5"
+  },
+  "q_proverbs_033": {
+    "question": "Selon Proverbes 2:6, « Car l'Éternel donne la sagesse; de sa bouche sortent la connaissance et l'_____. »",
+    "correct": "intelligence",
+    "wrong": ["vérité", "discernement", "entendement"],
+    "hint": "C'est la capacité de comprendre",
+    "explanation": "La vraie sagesse, la connaissance et l'intelligence viennent toutes de Dieu.",
+    "full_verse": "Car l'Éternel donne la sagesse; de sa bouche sortent la connaissance et l'intelligence.",
+    "verse_ref": "Proverbes 2:6"
+  },
+  "q_proverbs_034": {
+    "question": "Selon Proverbes 3:11-12, « Mon fils, ne méprise pas la correction de l'Éternel, et ne t'effraie point de ses _____. »",
+    "correct": "réprimandes",
+    "wrong": ["corrections", "punitions", "conseils"],
+    "hint": "C'est une expression forte de désapprobation",
+    "explanation": "Dieu discipline ceux qu'il aime, et nous devons accepter sa correction.",
+    "full_verse": "Mon fils, ne méprise pas la correction de l'Éternel, et ne t'effraie point de ses réprimandes; car l'Éternel châtie celui qu'il aime, comme un père l'enfant qu'il chérit.",
+    "verse_ref": "Proverbes 3:11-12"
+  },
+  "q_proverbs_035": {
+    "question": "Selon Proverbes 4:7, « Voici le commencement de la sagesse: Acquiers la _____; et avec tout ce que tu possèdes acquiers l'intelligence. »",
+    "correct": "sagesse",
+    "wrong": ["connaissance", "discernement", "intelligence"],
+    "hint": "C'est ce que le verset dit d'obtenir",
+    "explanation": "La sagesse est si précieuse qu'elle vaut la peine d'être poursuivie à tout prix.",
+    "full_verse": "Voici le commencement de la sagesse: Acquiers la sagesse; et avec tout ce que tu possèdes acquiers l'intelligence.",
+    "verse_ref": "Proverbes 4:7"
+  },
+  "q_proverbs_036": {
+    "question": "Selon Proverbes 6:16-19, « Il y a six choses que hait l'Éternel, et même sept qu'il a en horreur: les yeux hautains, la langue menteuse, les mains qui répandent le sang innocent, le cœur qui médite des projets iniques, les pieds qui se hâtent de courir au _____. »",
+    "correct": "mal",
+    "wrong": ["péché", "trouble", "méfait"],
+    "hint": "C'est le contraire du bien",
+    "explanation": "Dieu hait diverses formes de méchanceté, y compris ceux qui sont empressés à faire le mal.",
+    "full_verse": "Il y a six choses que hait l'Éternel, et même sept qu'il a en horreur: les yeux hautains, la langue menteuse, les mains qui répandent le sang innocent, le cœur qui médite des projets iniques, les pieds qui se hâtent de courir au mal, le faux témoin qui dit des mensonges, et celui qui excite des querelles entre frères.",
+    "verse_ref": "Proverbes 6:16-19"
+  },
+  "q_proverbs_037": {
+    "question": "Selon Proverbes 9:10, « Le commencement de la sagesse, c'est la crainte de l'Éternel; et la science des saints, c'est l'_____. »",
+    "correct": "intelligence",
+    "wrong": ["sagesse", "discernement", "entendement"],
+    "hint": "C'est la capacité de comprendre profondément",
+    "explanation": "La vraie sagesse commence par la révérence envers Dieu, et le connaître apporte l'intelligence.",
+    "full_verse": "Le commencement de la sagesse, c'est la crainte de l'Éternel; et la science des saints, c'est l'intelligence.",
+    "verse_ref": "Proverbes 9:10"
+  },
+  "q_proverbs_038": {
+    "question": "Selon Proverbes 10:22, « C'est la bénédiction de l'Éternel qui _____; et il ne la fait suivre d'aucun chagrin. »",
+    "correct": "enrichit",
+    "wrong": ["prospère", "bénit", "comble"],
+    "hint": "Cela signifie apporter la richesse",
+    "explanation": "La bénédiction de Dieu apporte la prospérité sans le fardeau d'efforts anxieux.",
+    "full_verse": "C'est la bénédiction de l'Éternel qui enrichit; et il ne la fait suivre d'aucun chagrin.",
+    "verse_ref": "Proverbes 10:22"
+  },
+  "q_proverbs_039": {
+    "question": "Selon Proverbes 11:14, « Quand il n'y a pas de conseils, le peuple tombe; le salut est dans le grand nombre des _____. »",
+    "correct": "conseillers",
+    "wrong": ["sages", "dirigeants", "anciens"],
+    "hint": "Ce sont des personnes qui donnent des avis",
+    "explanation": "Les conseils sages de nombreuses sources mènent au succès.",
+    "full_verse": "Quand il n'y a pas de conseils, le peuple tombe; le salut est dans le grand nombre des conseillers.",
+    "verse_ref": "Proverbes 11:14"
+  },
+  "q_proverbs_040": {
+    "question": "Selon Proverbes 12:15, « La voie de l'insensé est droite à ses yeux, mais celui qui écoute les _____ est sage. »",
+    "correct": "conseils",
+    "wrong": ["avis", "sages", "autres"],
+    "hint": "Ce sont des recommandations ou des orientations",
+    "explanation": "Les insensés font confiance à leur propre jugement; les sages cherchent et écoutent les conseils.",
+    "full_verse": "La voie de l'insensé est droite à ses yeux, mais celui qui écoute les conseils est sage.",
+    "verse_ref": "Proverbes 12:15"
+  },
+  "q_proverbs_041": {
+    "question": "Selon Proverbes 14:29, « Celui qui est lent à la colère a une grande intelligence, mais celui qui est prompt à s'emporter proclame sa _____. »",
+    "correct": "folie",
+    "wrong": ["colère", "sottise", "orgueil"],
+    "hint": "C'est le contraire de la sagesse",
+    "explanation": "La patience reflète la sagesse, tandis qu'un tempérament vif montre la folie.",
+    "full_verse": "Celui qui est lent à la colère a une grande intelligence, mais celui qui est prompt à s'emporter proclame sa folie.",
+    "verse_ref": "Proverbes 14:29"
+  },
+  "q_proverbs_042": {
+    "question": "Selon Proverbes 15:22, « Les projets échouent, faute d'une assemblée qui délibère; mais ils réussissent quand il y a de nombreux _____. »",
+    "correct": "conseillers",
+    "wrong": ["avis", "guides", "sages"],
+    "hint": "Ce sont des personnes qui donnent des conseils",
+    "explanation": "Chercher des conseils sages aide à assurer le succès de nos projets.",
+    "full_verse": "Les projets échouent, faute d'une assemblée qui délibère; mais ils réussissent quand il y a de nombreux conseillers.",
+    "verse_ref": "Proverbes 15:22"
+  },
+  "q_proverbs_043": {
+    "question": "Selon Proverbes 16:18, « L'arrogance précède la ruine, et l'orgueil précède la _____. »",
+    "correct": "chute",
+    "wrong": ["destruction", "défaite", "perte"],
+    "hint": "C'est une descente ou un effondrement soudain",
+    "explanation": "L'orgueil mène à la destruction et à la chute.",
+    "full_verse": "L'arrogance précède la ruine, et l'orgueil précède la chute.",
+    "verse_ref": "Proverbes 16:18"
+  },
+  "q_proverbs_044": {
+    "question": "Selon Proverbes 17:22, « Un cœur joyeux est un bon _____; mais un esprit abattu dessèche les os. »",
+    "correct": "remède",
+    "wrong": ["guérison", "traitement", "médicament"],
+    "hint": "C'est quelque chose qui guérit",
+    "explanation": "La joie et la gaieté ont un effet guérisseur sur tout notre être.",
+    "full_verse": "Un cœur joyeux est un bon remède; mais un esprit abattu dessèche les os.",
+    "verse_ref": "Proverbes 17:22"
+  },
+  "q_proverbs_045": {
+    "question": "Selon Proverbes 19:17, « Celui qui a pitié du pauvre prête à l'_____; et il lui rendra ce qu'il a donné. »",
+    "correct": "Éternel",
+    "wrong": ["Dieu", "Très-Haut", "Tout-Puissant"],
+    "hint": "C'est le nom d'alliance de Dieu",
+    "explanation": "Aider les pauvres, c'est comme prêter à Dieu, qui promet de rembourser.",
+    "full_verse": "Celui qui a pitié du pauvre prête à l'Éternel, et il lui rendra ce qu'il a donné.",
+    "verse_ref": "Proverbes 19:17"
+  },
+  "q_proverbs_046": {
+    "question": "Selon Proverbes 20:22, « Ne dis pas: Je rendrai le mal. Espère en l'Éternel, et il te _____. »",
+    "correct": "délivrera",
+    "wrong": ["aidera", "sauvera", "vengera"],
+    "hint": "Cela signifie être libéré ou secouru",
+    "explanation": "Plutôt que de chercher la vengeance, nous devons faire confiance à Dieu pour rendre justice.",
+    "full_verse": "Ne dis pas: Je rendrai le mal. Espère en l'Éternel, et il te délivrera.",
+    "verse_ref": "Proverbes 20:22"
+  },
+  "q_proverbs_047": {
+    "question": "Selon Proverbes 21:3, « La pratique de la justice et de l'équité, voilà ce que l'Éternel préfère aux _____. »",
+    "correct": "sacrifices",
+    "wrong": ["offrandes", "adorations", "prières"],
+    "hint": "C'est une offrande religieuse",
+    "explanation": "Dieu valorise une vie juste plus que les rituels religieux.",
+    "full_verse": "La pratique de la justice et de l'équité, voilà ce que l'Éternel préfère aux sacrifices.",
+    "verse_ref": "Proverbes 21:3"
+  },
+  "q_proverbs_048": {
+    "question": "Selon Proverbes 22:4, « Le fruit de l'humilité, de la crainte de l'Éternel, c'est la richesse, la _____ et la vie. »",
+    "correct": "gloire",
+    "wrong": ["honneur", "bénédiction", "paix"],
+    "hint": "C'est un haut respect ou estime",
+    "explanation": "L'humilité et la révérence envers Dieu mènent à de riches récompenses y compris la gloire et la vie.",
+    "full_verse": "Le fruit de l'humilité, de la crainte de l'Éternel, c'est la richesse, la gloire et la vie.",
+    "verse_ref": "Proverbes 22:4"
+  },
+  "q_proverbs_049": {
+    "question": "Selon Proverbes 31:10, « Qui peut trouver une femme vertueuse? Elle a bien plus de valeur que les _____. »",
+    "correct": "perles",
+    "wrong": ["or", "argent", "joyaux"],
+    "hint": "Ce sont des gemmes précieuses de la mer",
+    "explanation": "Une épouse vertueuse a plus de valeur que des pierres précieuses.",
+    "full_verse": "Qui peut trouver une femme vertueuse? Elle a bien plus de valeur que les perles.",
+    "verse_ref": "Proverbes 31:10"
+  },
+  "q_proverbs_050": {
+    "question": "Selon Proverbes 3:7, « Ne sois point sage à tes propres yeux, crains l'Éternel, et détourne-toi du _____. »",
+    "correct": "mal",
+    "wrong": ["péché", "méchanceté", "tort"],
+    "hint": "C'est ce que nous devons éviter",
+    "explanation": "La vraie sagesse implique de craindre Dieu et de se détourner du mal.",
+    "full_verse": "Ne sois point sage à tes propres yeux, crains l'Éternel, et détourne-toi du mal.",
+    "verse_ref": "Proverbes 3:7"
+  }
+}

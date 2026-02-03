@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_proverbs_001",
+      "question": "Fülle die Lücke aus: 'Verlass dich auf den Herrn von ganzem Herzen, und verlass dich nicht auf deinen _____. Erkenne ihn in allen deinen Wegen, so wird er dich recht führen.'",
+      "correct": "Verstand",
+      "wrong": ["Weisheit", "Erkenntnis", "Kraft"],
+      "hint": "Dieses Wort bezieht sich auf menschlichen Intellekt und Vernunft",
+      "explanation": "Wir sind aufgerufen, Gott vollständig zu vertrauen, anstatt uns auf unser eigenes begrenztes menschliches Verstehen zu verlassen.",
+      "full_verse": "Verlass dich auf den Herrn von ganzem Herzen, und verlass dich nicht auf deinen Verstand. Erkenne ihn in allen deinen Wegen, so wird er dich recht führen.",
+      "verse_ref": "Sprüche 3:5-6"
+    },
+    {
+      "id": "q_proverbs_002",
+      "question": "Fülle die Lücke aus: 'Die Furcht des Herrn ist der Anfang der _____; die Toren verachten Weisheit und Zucht.'",
+      "correct": "Erkenntnis",
+      "wrong": ["Weisheit", "Einsicht", "Glaube"],
+      "hint": "Das ist es, was die Toren zusammen mit der Unterweisung verachten",
+      "explanation": "Ehrfurcht vor Gott ist die Grundlage aller wahren Erkenntnis.",
+      "full_verse": "Die Furcht des Herrn ist der Anfang der Erkenntnis; die Toren verachten Weisheit und Zucht.",
+      "verse_ref": "Sprüche 1:7"
+    },
+    {
+      "id": "q_proverbs_003",
+      "question": "Fülle die Lücke aus: 'Gewöhne einen _____ an seinen Weg, so lässt er auch nicht davon, wenn er alt wird.'",
+      "correct": "Knaben",
+      "wrong": ["Jugend", "Jünger", "Gläubigen"],
+      "hint": "Dies bezieht sich auf junge Menschen, die erzogen werden",
+      "explanation": "Frühe geistliche Erziehung hat bleibende Auswirkungen auf das ganze Leben eines Menschen.",
+      "full_verse": "Gewöhne einen Knaben an seinen Weg, so lässt er auch nicht davon, wenn er alt wird.",
+      "verse_ref": "Sprüche 22:6"
+    },
+    {
+      "id": "q_proverbs_004",
+      "question": "Fülle die Lücke aus: 'Befiehl dem Herrn deine Werke, so werden deine _____ fortgehen.'",
+      "correct": "Anschläge",
+      "wrong": ["Wege", "Schritte", "Werke"],
+      "hint": "Dieses Wort bezieht sich auf deine Absichten für die Zukunft",
+      "explanation": "Wenn wir unsere Arbeit Gott widmen, leitet und etabliert er unsere Absichten.",
+      "full_verse": "Befiehl dem Herrn deine Werke, so werden deine Anschläge fortgehen.",
+      "verse_ref": "Sprüche 16:3"
+    },
+    {
+      "id": "q_proverbs_005",
+      "question": "Fülle die Lücke aus: 'Gnade und _____ sollen dich nicht verlassen. Hänge sie um deinen Hals und schreibe sie auf die Tafel deines Herzens.'",
+      "correct": "Treue",
+      "wrong": ["Wahrheit", "Barmherzigkeit", "Güte"],
+      "hint": "Diese Tugend bezieht sich auf Loyalität und Zuverlässigkeit",
+      "explanation": "Gnade und Treue sollten ständige Begleiter sein, die unseren Charakter formen.",
+      "full_verse": "Gnade und Treue sollen dich nicht verlassen. Hänge sie um deinen Hals und schreibe sie auf die Tafel deines Herzens.",
+      "verse_ref": "Sprüche 3:3"
+    },
+    {
+      "id": "q_proverbs_006",
+      "question": "Fülle die Lücke aus: 'Behüte dein _____ mit allem Fleiß; denn daraus geht das Leben.'",
+      "correct": "Herz",
+      "wrong": ["Gemüt", "Seele", "Zunge"],
+      "hint": "Dies ist das Zentrum deines Wesens und deiner Gefühle",
+      "explanation": "Das Herz ist die Quelle des Lebens und beeinflusst alle unsere Gedanken, Worte und Taten.",
+      "full_verse": "Behüte dein Herz mit allem Fleiß; denn daraus geht das Leben.",
+      "verse_ref": "Sprüche 4:23"
+    },
+    {
+      "id": "q_proverbs_007",
+      "question": "Fülle die Lücke aus: 'Der Name des Herrn ist ein festes _____; der Gerechte läuft dahin und wird beschirmt.'",
+      "correct": "Schloss",
+      "wrong": ["Stadt", "Festung", "Zuflucht"],
+      "hint": "Dies ist ein befestigtes Bauwerk zur Verteidigung",
+      "explanation": "Gottes Name repräsentiert seinen Charakter und seine Macht und bietet Schutz für diejenigen, die ihm vertrauen.",
+      "full_verse": "Der Name des Herrn ist ein festes Schloss; der Gerechte läuft dahin und wird beschirmt.",
+      "verse_ref": "Sprüche 18:10"
+    },
+    {
+      "id": "q_proverbs_008",
+      "question": "Fülle die Lücke aus: 'Ein Messer wetzt das andre, und ein Mann den _____.'",
+      "correct": "andern",
+      "wrong": ["selbst", "anderen", "Freund"],
+      "hint": "Dies bezieht sich auf eine einzelne andere Person",
+      "explanation": "Gesunde Beziehungen helfen uns zu wachsen und uns durch gegenseitige Ermutigung und Herausforderung zu verbessern.",
+      "full_verse": "Ein Messer wetzt das andre, und ein Mann den andern.",
+      "verse_ref": "Sprüche 27:17"
+    },
+    {
+      "id": "q_proverbs_009",
+      "question": "Fülle die Lücke aus: 'Lieblich und schön sein ist nichts; ein Weib, das den Herrn fürchtet, soll man _____.'",
+      "correct": "loben",
+      "wrong": ["ehren", "segnen", "lieben"],
+      "hint": "Das bedeutet, gelobt oder gefeiert zu werden",
+      "explanation": "Wahrer Wert findet sich in der Ehrfurcht vor Gott, nicht im äußeren Erscheinungsbild.",
+      "full_verse": "Lieblich und schön sein ist nichts; ein Weib, das den Herrn fürchtet, soll man loben.",
+      "verse_ref": "Sprüche 31:30"
+    },
+    {
+      "id": "q_proverbs_010",
+      "question": "Fülle die Lücke aus: 'Die Seele, die da segnet, wird fett; und wer _____; wird auch gelabt.'",
+      "correct": "tränkt",
+      "wrong": ["gedeiht", "hilft", "gibt"],
+      "hint": "Das bedeutet, anderen zu erfrischen",
+      "explanation": "Großzügigkeit bringt Segen zurück zum Geber.",
+      "full_verse": "Die Seele, die da segnet, wird fett; und wer tränkt, wird auch gelabt.",
+      "verse_ref": "Sprüche 11:25"
+    },
+    {
+      "id": "q_proverbs_011",
+      "question": "Fülle die Lücke aus: 'Ehre den Herrn von deinem Gut und von den _____ all deines Einkommens.'",
+      "correct": "Erstlingen",
+      "wrong": ["Besten", "Zehnten", "Ernte"],
+      "hint": "Dies bezieht sich auf den ersten Teil deiner Ernte",
+      "explanation": "Gott den ersten und besten Teil unseres Einkommens zu geben, zeigt Vertrauen und Dankbarkeit.",
+      "full_verse": "Ehre den Herrn von deinem Gut und von den Erstlingen all deines Einkommens.",
+      "verse_ref": "Sprüche 3:9"
+    },
+    {
+      "id": "q_proverbs_012",
+      "question": "Fülle die Lücke aus: 'Hass erreget Hader; aber Liebe deckt zu alle _____.'",
+      "correct": "Übertretungen",
+      "wrong": ["Sünden", "Fehler", "Vergehen"],
+      "hint": "Dies bezieht sich auf Fehler oder Vergehen",
+      "explanation": "Liebe entscheidet sich zu vergeben, anstatt Groll zu hegen.",
+      "full_verse": "Hass erreget Hader; aber Liebe deckt zu alle Übertretungen.",
+      "verse_ref": "Sprüche 10:12"
+    },
+    {
+      "id": "q_proverbs_013",
+      "question": "Fülle die Lücke aus: 'Wo Hochmut ist, da ist auch _____; aber Weisheit ist bei den Demütigen.'",
+      "correct": "Schande",
+      "wrong": ["Schmach", "Untergang", "Zerstörung"],
+      "hint": "Das ist das Gegenteil von Ehre",
+      "explanation": "Hochmut führt zu Schande, während Demut zur Weisheit führt.",
+      "full_verse": "Wo Hochmut ist, da ist auch Schande; aber Weisheit ist bei den Demütigen.",
+      "verse_ref": "Sprüche 11:2"
+    },
+    {
+      "id": "q_proverbs_014",
+      "question": "Fülle die Lücke aus: 'Sorge im Herzen kränkt; aber ein freundliches Wort erfreut _____.'",
+      "correct": "es",
+      "wrong": ["sehr", "immer", "ihn"],
+      "hint": "Dieses kleine Wort bezieht sich auf das Herz",
+      "explanation": "Ermutigende Worte haben die Kraft, Gemüter zu heben, die von Sorgen niedergedrückt sind.",
+      "full_verse": "Sorge im Herzen kränkt; aber ein freundliches Wort erfreut es.",
+      "verse_ref": "Sprüche 12:25"
+    },
+    {
+      "id": "q_proverbs_015",
+      "question": "Fülle die Lücke aus: 'Langes Harren macht das Herz krank; aber wenn's kommt, was man begehrt, das ist ein Baum des _____.'",
+      "correct": "Lebens",
+      "wrong": ["Freude", "Hoffnung", "Segens"],
+      "hint": "Das ist es, was der Baum gibt",
+      "explanation": "Verzögerte Hoffnungen können entmutigend sein, aber erfüllte Wünsche bringen Vitalität und Freude.",
+      "full_verse": "Langes Harren macht das Herz krank; aber wenn's kommt, was man begehrt, das ist ein Baum des Lebens.",
+      "verse_ref": "Sprüche 13:12"
+    },
+    {
+      "id": "q_proverbs_016",
+      "question": "Fülle die Lücke aus: 'Manchem gefällt ein Weg wohl; aber sein Ende führt zum _____.'",
+      "correct": "Tode",
+      "wrong": ["Verderben", "Zerstörung", "Dunkel"],
+      "hint": "Das ist die endgültige Konsequenz",
+      "explanation": "Menschliches Urteil kann getäuscht werden; was richtig erscheint, kann zur Zerstörung führen.",
+      "full_verse": "Manchem gefällt ein Weg wohl; aber sein Ende führt zum Tode.",
+      "verse_ref": "Sprüche 14:12"
+    },
+    {
+      "id": "q_proverbs_017",
+      "question": "Fülle die Lücke aus: 'Eine linde Antwort stillt den Zorn; aber ein hartes Wort richtet _____ an.'",
+      "correct": "Grimm",
+      "wrong": ["Streit", "Konflikt", "Wut"],
+      "hint": "Diese Emotion wird durch harte Worte hervorgerufen",
+      "explanation": "Wie wir antworten, kann einen Konflikt entweder entschärfen oder eskalieren lassen.",
+      "full_verse": "Eine linde Antwort stillt den Zorn; aber ein hartes Wort richtet Grimm an.",
+      "verse_ref": "Sprüche 15:1"
+    },
+    {
+      "id": "q_proverbs_018",
+      "question": "Fülle die Lücke aus: 'Des Menschen Herz erdenkt sich seinen Weg; aber der Herr allein gibt, dass er _____.'",
+      "correct": "fortgehe",
+      "wrong": ["gelingt", "wandelt", "lebt"],
+      "hint": "Dies bezieht sich auf einzelne Bewegungen vorwärts",
+      "explanation": "Wir können Pläne machen, aber Gott lenkt letztendlich unseren Weg.",
+      "full_verse": "Des Menschen Herz erdenkt sich seinen Weg; aber der Herr allein gibt, dass er fortgehe.",
+      "verse_ref": "Sprüche 16:9"
+    },
+    {
+      "id": "q_proverbs_019",
+      "question": "Fülle die Lücke aus: 'Ein Freund liebt allezeit, und ein Bruder wird in der _____ erfunden.'",
+      "correct": "Not",
+      "wrong": ["Sorge", "Bedürfnis", "Schwierigkeit"],
+      "hint": "Dieses Wort bedeutet schwierige Umstände",
+      "explanation": "Wahre Freunde und Familie sind in schwierigen Zeiten da.",
+      "full_verse": "Ein Freund liebt allezeit, und ein Bruder wird in der Not erfunden.",
+      "verse_ref": "Sprüche 17:17"
+    },
+    {
+      "id": "q_proverbs_020",
+      "question": "Fülle die Lücke aus: 'Ein treuer Freund liebt mehr und steht fester bei denn ein _____.'",
+      "correct": "Bruder",
+      "wrong": ["Vater", "Mutter", "Schwester"],
+      "hint": "Das ist ein männliches Familienmitglied",
+      "explanation": "Wahre Freundschaft kann sogar enger sein als Familienbande.",
+      "full_verse": "Ein treuer Freund liebt mehr und steht fester bei denn ein Bruder.",
+      "verse_ref": "Sprüche 18:24"
+    },
+    {
+      "id": "q_proverbs_021",
+      "question": "Fülle die Lücke aus: 'Es sind viel Anschläge in eines Mannes Herzen; aber der _____ des Herrn bleibt bestehen.'",
+      "correct": "Rat",
+      "wrong": ["Wille", "Plan", "Weg"],
+      "hint": "Dies bezieht sich auf Gottes Absicht oder Plan",
+      "explanation": "Menschliche Pläne sind viele, aber Gottes souveräner Ratschluss wird letztendlich erfüllt.",
+      "full_verse": "Es sind viel Anschläge in eines Mannes Herzen; aber der Rat des Herrn bleibt bestehen.",
+      "verse_ref": "Sprüche 19:21"
+    },
+    {
+      "id": "q_proverbs_022",
+      "question": "Fülle die Lücke aus: 'Der Gerechte geht einher in seiner Frömmigkeit; und seinen Kindern wird's _____ gehen nach ihm.'",
+      "correct": "wohl",
+      "wrong": ["gut", "gesegnet", "glücklich"],
+      "hint": "Das bedeutet, dass es ihnen gut ergehen wird",
+      "explanation": "Ein gerechtes Leben hinterlässt ein positives Erbe für zukünftige Generationen.",
+      "full_verse": "Der Gerechte geht einher in seiner Frömmigkeit; und seinen Kindern wird's wohl gehen nach ihm.",
+      "verse_ref": "Sprüche 20:7"
+    },
+    {
+      "id": "q_proverbs_023",
+      "question": "Fülle die Lücke aus: 'Wer der Gerechtigkeit und Güte nachjagt, der findet Leben, Gerechtigkeit und _____.'",
+      "correct": "Ehre",
+      "wrong": ["Frieden", "Freude", "Segen"],
+      "hint": "Dieses Wort bedeutet Erfolg und Ansehen",
+      "explanation": "Das Streben nach Gerechtigkeit und Liebe führt zu einem erfüllten und gesegneten Leben.",
+      "full_verse": "Wer der Gerechtigkeit und Güte nachjagt, der findet Leben, Gerechtigkeit und Ehre.",
+      "verse_ref": "Sprüche 21:21"
+    },
+    {
+      "id": "q_proverbs_024",
+      "question": "Fülle die Lücke aus: 'Ein guter Name ist köstlicher als großer _____; und Gunst besser denn Silber und Gold.'",
+      "correct": "Reichtum",
+      "wrong": ["Schatz", "Vermögen", "Besitz"],
+      "hint": "Dieses Wort bezieht sich auf reichlichen Wohlstand",
+      "explanation": "Charakter und Ruf sind wertvoller als materieller Reichtum.",
+      "full_verse": "Ein guter Name ist köstlicher als großer Reichtum; und Gunst besser denn Silber und Gold.",
+      "verse_ref": "Sprüche 22:1"
+    },
+    {
+      "id": "q_proverbs_025",
+      "question": "Fülle die Lücke aus: 'Neige dein Herz zu meiner Lehre und deine Ohren zu den Worten meiner _____.'",
+      "correct": "Erkenntnis",
+      "wrong": ["Weisheit", "Wahrheit", "Einsicht"],
+      "hint": "Das ist es, was Unterweisung vermitteln soll",
+      "explanation": "Wir sollten sowohl Unterweisung als auch Erkenntnis eifrig aufnehmen.",
+      "full_verse": "Neige dein Herz zu meiner Lehre und deine Ohren zu den Worten meiner Erkenntnis.",
+      "verse_ref": "Sprüche 23:12"
+    },
+    {
+      "id": "q_proverbs_026",
+      "question": "Fülle die Lücke aus: 'Denn ein Gerechter fällt siebenmal und steht wieder auf; aber die Gottlosen _____ im Unglück.'",
+      "correct": "versinken",
+      "wrong": ["fallen", "stolpern", "stürzen"],
+      "hint": "Dieses Wort zeigt an, was nach dem Fallen geschieht",
+      "explanation": "Die Gerechten zeigen Widerstandsfähigkeit und stehen nach Misserfolgen wieder auf.",
+      "full_verse": "Denn ein Gerechter fällt siebenmal und steht wieder auf; aber die Gottlosen versinken im Unglück.",
+      "verse_ref": "Sprüche 24:16"
+    },
+    {
+      "id": "q_proverbs_027",
+      "question": "Fülle die Lücke aus: 'Ein Wort, geredet zu seiner Zeit, ist wie goldene Äpfel auf silbernen _____.'",
+      "correct": "Schalen",
+      "wrong": ["Tellern", "Gefäßen", "Platten"],
+      "hint": "Dieses Edelmetall bietet die Fassung",
+      "explanation": "Zur rechten Zeit gesprochene, passende Worte sind schön und wertvoll.",
+      "full_verse": "Ein Wort, geredet zu seiner Zeit, ist wie goldene Äpfel auf silbernen Schalen.",
+      "verse_ref": "Sprüche 25:11"
+    },
+    {
+      "id": "q_proverbs_028",
+      "question": "Fülle die Lücke aus: 'Wenn kein Holz mehr da ist, so verlischt das Feuer; und wenn der Verleumder weg ist, so hört der _____ auf.'",
+      "correct": "Hader",
+      "wrong": ["Gerücht", "Geschichte", "Streit"],
+      "hint": "Dies bezieht sich auf jemanden, der Gerüchte verbreitet",
+      "explanation": "Konflikte werden von denen aufrechterhalten, die negatives Gerede über andere verbreiten.",
+      "full_verse": "Wenn kein Holz mehr da ist, so verlischt das Feuer; und wenn der Verleumder weg ist, so hört der Hader auf.",
+      "verse_ref": "Sprüche 26:20"
+    },
+    {
+      "id": "q_proverbs_029",
+      "question": "Fülle die Lücke aus: 'Rühme dich nicht des morgenden Tages; denn du weißt nicht, was _____ gebiert.'",
+      "correct": "heute",
+      "wrong": ["morgen", "die Zukunft", "der Tag"],
+      "hint": "Dies bezieht sich auf den heutigen Tag",
+      "explanation": "Wir sollten nicht auf die Zukunft setzen, da sie ungewiss ist.",
+      "full_verse": "Rühme dich nicht des morgenden Tages; denn du weißt nicht, was heute gebiert.",
+      "verse_ref": "Sprüche 27:1"
+    },
+    {
+      "id": "q_proverbs_030",
+      "question": "Fülle die Lücke aus: 'Wer seine Missetat leugnet, dem wird's nicht gelingen; wer sie aber bekennet und lässet, der wird _____ erlangen.'",
+      "correct": "Barmherzigkeit",
+      "wrong": ["Gnade", "Vergebung", "Frieden"],
+      "hint": "Das ist barmherzige Behandlung",
+      "explanation": "Bekenntnis und Buße führen zu Gottes Barmherzigkeit.",
+      "full_verse": "Wer seine Missetat leugnet, dem wird's nicht gelingen; wer sie aber bekennet und lässet, der wird Barmherzigkeit erlangen.",
+      "verse_ref": "Sprüche 28:13"
+    },
+    {
+      "id": "q_proverbs_031",
+      "question": "Fülle die Lücke aus: 'Menschenfurcht bringet zu _____; wer sich aber auf den Herrn verlässt, wird beschützt.'",
+      "correct": "Fall",
+      "wrong": ["Falle", "Last", "Fluch"],
+      "hint": "Das ist etwas, das fängt und einschließt",
+      "explanation": "Von dem kontrolliert zu werden, was andere denken, kann uns gefangen halten, aber Gott zu vertrauen bringt Sicherheit.",
+      "full_verse": "Menschenfurcht bringet zu Fall; wer sich aber auf den Herrn verlässt, wird beschützt.",
+      "verse_ref": "Sprüche 29:25"
+    },
+    {
+      "id": "q_proverbs_032",
+      "question": "Fülle die Lücke aus: 'Alle Worte Gottes sind _____; er ist ein Schild denen, die auf ihn trauen.'",
+      "correct": "durchläutert",
+      "wrong": ["rein", "wahr", "vollkommen"],
+      "hint": "Das bedeutet ohne Fehler",
+      "explanation": "Gottes Wort ist vollkommen zuverlässig und vertrauenswürdig.",
+      "full_verse": "Alle Worte Gottes sind durchläutert; er ist ein Schild denen, die auf ihn trauen.",
+      "verse_ref": "Sprüche 30:5"
+    },
+    {
+      "id": "q_proverbs_033",
+      "question": "Fülle die Lücke aus: 'Denn der Herr gibt Weisheit, und aus seinem Munde kommt Erkenntnis und _____.'",
+      "correct": "Verstand",
+      "wrong": ["Wahrheit", "Einsicht", "Urteil"],
+      "hint": "Das ist die Fähigkeit zu verstehen",
+      "explanation": "Wahre Weisheit, Erkenntnis und Verstand kommen alle von Gott.",
+      "full_verse": "Denn der Herr gibt Weisheit, und aus seinem Munde kommt Erkenntnis und Verstand.",
+      "verse_ref": "Sprüche 2:6"
+    },
+    {
+      "id": "q_proverbs_034",
+      "question": "Fülle die Lücke aus: 'Mein Kind, verwirf die Zucht des Herrn nicht und sei nicht ungeduldig über seiner _____.'",
+      "correct": "Strafe",
+      "wrong": ["Zurechtweisung", "Züchtigung", "Führung"],
+      "hint": "Das ist ein scharfer Ausdruck des Missfallens",
+      "explanation": "Gott erzieht die, die er liebt, und wir sollten seine Korrektur annehmen.",
+      "full_verse": "Mein Kind, verwirf die Zucht des Herrn nicht und sei nicht ungeduldig über seiner Strafe; denn welchen der Herr liebet, den züchtiget er, wie ein Vater den Sohn, an dem ihm gelegen ist.",
+      "verse_ref": "Sprüche 3:11-12"
+    },
+    {
+      "id": "q_proverbs_035",
+      "question": "Fülle die Lücke aus: 'Der Weisheit Anfang ist: Werde _____! und mit allem deinem Gut erwirb Verstand.'",
+      "correct": "weise",
+      "wrong": ["klug", "einsichtig", "verständig"],
+      "hint": "Das ist, was der Vers sagt, dass man erlangen soll",
+      "explanation": "Weisheit ist so wertvoll, dass es sich lohnt, sie um jeden Preis zu verfolgen.",
+      "full_verse": "Der Weisheit Anfang ist: Werde weise! und mit allem deinem Gut erwirb Verstand.",
+      "verse_ref": "Sprüche 4:7"
+    },
+    {
+      "id": "q_proverbs_036",
+      "question": "Fülle die Lücke aus: 'Diese sechs Stücke hasset der Herr, und am siebenten hat er einen Greuel: stolze Augen, falsche Zunge, Hände, die unschuldig Blut vergießen, Herz, das arge Ränke schmiedet, Füße, die behende sind, Böses zu _____.'",
+      "correct": "laufen",
+      "wrong": ["tun", "planen", "verursachen"],
+      "hint": "Das ist das Gegenteil von Gutem",
+      "explanation": "Gott hasst verschiedene Formen der Bosheit, einschließlich derer, die begierig sind, Böses zu tun.",
+      "full_verse": "Diese sechs Stücke hasset der Herr, und am siebenten hat er einen Greuel: stolze Augen, falsche Zunge, Hände, die unschuldig Blut vergießen, Herz, das arge Ränke schmiedet, Füße, die behende sind, Böses zu laufen, falscher Zeuge, der frech Lügen redet, und wer Hader zwischen Brüdern anrichtet.",
+      "verse_ref": "Sprüche 6:16-19"
+    },
+    {
+      "id": "q_proverbs_037",
+      "question": "Fülle die Lücke aus: 'Der Weisheit Anfang ist die Furcht des Herrn, und den Heiligen erkennen, ist _____.'",
+      "correct": "Verstand",
+      "wrong": ["Weisheit", "Einsicht", "Erkenntnis"],
+      "hint": "Das ist die Fähigkeit, tiefgründig zu verstehen",
+      "explanation": "Wahre Weisheit beginnt mit Ehrfurcht vor Gott, und ihn zu kennen bringt Verstand.",
+      "full_verse": "Der Weisheit Anfang ist die Furcht des Herrn, und den Heiligen erkennen, ist Verstand.",
+      "verse_ref": "Sprüche 9:10"
+    },
+    {
+      "id": "q_proverbs_038",
+      "question": "Fülle die Lücke aus: 'Der Segen des Herrn macht reich ohne _____.'",
+      "correct": "Mühe",
+      "wrong": ["Arbeit", "Anstrengung", "Sorge"],
+      "hint": "Das ist harte, erschöpfende Arbeit",
+      "explanation": "Gottes Segen bringt Wohlstand ohne die Last des ängstlichen Strebens.",
+      "full_verse": "Der Segen des Herrn macht reich ohne Mühe.",
+      "verse_ref": "Sprüche 10:22"
+    },
+    {
+      "id": "q_proverbs_039",
+      "question": "Fülle die Lücke aus: 'Wo nicht Rat ist, da geht das Volk unter; wo aber viel _____ sind, da ist Hilfe.'",
+      "correct": "Ratgeber",
+      "wrong": ["Berater", "Führer", "Älteste"],
+      "hint": "Das sind Menschen, die Rat geben",
+      "explanation": "Weiser Rat aus vielen Quellen führt zum Erfolg.",
+      "full_verse": "Wo nicht Rat ist, da geht das Volk unter; wo aber viel Ratgeber sind, da ist Hilfe.",
+      "verse_ref": "Sprüche 11:14"
+    },
+    {
+      "id": "q_proverbs_040",
+      "question": "Fülle die Lücke aus: 'Den Narren dünkt sein Weg recht sein; aber wer auf _____ höret, der ist weise.'",
+      "correct": "Rat",
+      "wrong": ["Weisung", "Weisheit", "andere"],
+      "hint": "Das ist Führung oder Empfehlungen von anderen",
+      "explanation": "Narren vertrauen ihrem eigenen Urteil; die Weisen suchen und befolgen Rat.",
+      "full_verse": "Den Narren dünkt sein Weg recht sein; aber wer auf Rat höret, der ist weise.",
+      "verse_ref": "Sprüche 12:15"
+    },
+    {
+      "id": "q_proverbs_041",
+      "question": "Fülle die Lücke aus: 'Wer geduldig ist, der ist weise; wer aber ungeduldig ist, der offenbaret seine _____.'",
+      "correct": "Torheit",
+      "wrong": ["Zorn", "Dummheit", "Stolz"],
+      "hint": "Das ist das Gegenteil von Weisheit",
+      "explanation": "Geduld spiegelt Weisheit wider, während ein schnelles Temperament Torheit zeigt.",
+      "full_verse": "Wer geduldig ist, der ist weise; wer aber ungeduldig ist, der offenbaret seine Torheit.",
+      "verse_ref": "Sprüche 14:29"
+    },
+    {
+      "id": "q_proverbs_042",
+      "question": "Fülle die Lücke aus: 'Die Anschläge werden zunichte, wo nicht _____ ist; wo aber viel Ratgeber sind, bestehen sie.'",
+      "correct": "Rat",
+      "wrong": ["Weisheit", "Führung", "Hilfe"],
+      "hint": "Das ist Rat oder Führung",
+      "explanation": "Das Suchen weisen Rates hilft, den Erfolg unserer Pläne zu sichern.",
+      "full_verse": "Die Anschläge werden zunichte, wo nicht Rat ist; wo aber viel Ratgeber sind, bestehen sie.",
+      "verse_ref": "Sprüche 15:22"
+    },
+    {
+      "id": "q_proverbs_043",
+      "question": "Fülle die Lücke aus: 'Wer zu Grunde gehen soll, der wird zuvor stolz; und Hochmut kommt vor dem _____.'",
+      "correct": "Fall",
+      "wrong": ["Sturz", "Verderben", "Untergang"],
+      "hint": "Das ist ein plötzlicher Absturz oder Zusammenbruch",
+      "explanation": "Stolz führt zu Zerstörung und Fall.",
+      "full_verse": "Wer zu Grunde gehen soll, der wird zuvor stolz; und Hochmut kommt vor dem Fall.",
+      "verse_ref": "Sprüche 16:18"
+    },
+    {
+      "id": "q_proverbs_044",
+      "question": "Fülle die Lücke aus: 'Ein fröhlich Herz macht das Leben lustig; aber ein betrübter Mut vertrocknet das _____.'",
+      "correct": "Gebein",
+      "wrong": ["Herz", "Leben", "Fleisch"],
+      "hint": "Das ist etwas im Körper",
+      "explanation": "Freude und Fröhlichkeit haben eine heilende Wirkung auf unser ganzes Wesen.",
+      "full_verse": "Ein fröhlich Herz macht das Leben lustig; aber ein betrübter Mut vertrocknet das Gebein.",
+      "verse_ref": "Sprüche 17:22"
+    },
+    {
+      "id": "q_proverbs_045",
+      "question": "Fülle die Lücke aus: 'Wer sich des Armen erbarmt, der leihet dem Herrn; der wird ihm wieder _____, was er Gutes getan hat.'",
+      "correct": "vergelten",
+      "wrong": ["geben", "segnen", "belohnen"],
+      "hint": "Das ist der Bundesname Gottes",
+      "explanation": "Den Armen zu helfen ist wie dem Herrn zu leihen, der verspricht, es zurückzuzahlen.",
+      "full_verse": "Wer sich des Armen erbarmt, der leihet dem Herrn; der wird ihm wieder vergelten, was er Gutes getan hat.",
+      "verse_ref": "Sprüche 19:17"
+    },
+    {
+      "id": "q_proverbs_046",
+      "question": "Fülle die Lücke aus: 'Sprich nicht: Ich will Böses vergelten. Harre des Herrn; der wird dir _____.'",
+      "correct": "helfen",
+      "wrong": ["retten", "befreien", "rächen"],
+      "hint": "Das bedeutet, für jemanden Rache zu nehmen",
+      "explanation": "Anstatt Rache zu suchen, sollten wir darauf vertrauen, dass Gott Gerechtigkeit bringt.",
+      "full_verse": "Sprich nicht: Ich will Böses vergelten. Harre des Herrn; der wird dir helfen.",
+      "verse_ref": "Sprüche 20:22"
+    },
+    {
+      "id": "q_proverbs_047",
+      "question": "Fülle die Lücke aus: 'Recht und Gerechtigkeit tun ist dem Herrn lieber denn _____.'",
+      "correct": "Opfer",
+      "wrong": ["Gaben", "Gottesdienst", "Gebet"],
+      "hint": "Das ist ein religiöses Opfer",
+      "explanation": "Gott schätzt gerechtes Leben mehr als religiöse Rituale.",
+      "full_verse": "Recht und Gerechtigkeit tun ist dem Herrn lieber denn Opfer.",
+      "verse_ref": "Sprüche 21:3"
+    },
+    {
+      "id": "q_proverbs_048",
+      "question": "Fülle die Lücke aus: 'Der Demut Lohn und die Furcht des Herrn ist Reichtum und Ehre und _____.'",
+      "correct": "Leben",
+      "wrong": ["Herrlichkeit", "Segen", "Frieden"],
+      "hint": "Das ist hohe Achtung oder Wertschätzung",
+      "explanation": "Demut und Ehrfurcht vor Gott führen zu reichen Belohnungen einschließlich Ehre und Leben.",
+      "full_verse": "Der Demut Lohn und die Furcht des Herrn ist Reichtum und Ehre und Leben.",
+      "verse_ref": "Sprüche 22:4"
+    },
+    {
+      "id": "q_proverbs_049",
+      "question": "Fülle die Lücke aus: 'Wem ein tugendsam Weib beschert ist, die ist viel edler denn köstliche _____.'",
+      "correct": "Perlen",
+      "wrong": ["Gold", "Silber", "Edelsteine"],
+      "hint": "Das sind kostbare Edelsteine",
+      "explanation": "Eine tugendhafte Frau ist wertvoller als kostbare Edelsteine.",
+      "full_verse": "Wem ein tugendsam Weib beschert ist, die ist viel edler denn köstliche Perlen.",
+      "verse_ref": "Sprüche 31:10"
+    },
+    {
+      "id": "q_proverbs_050",
+      "question": "Fülle die Lücke aus: 'Dünke dich nicht, weise zu sein, sondern fürchte den Herrn und weiche vom _____.'",
+      "correct": "Bösen",
+      "wrong": ["Sünde", "Schlechten", "Übel"],
+      "hint": "Das ist, was wir meiden sollen",
+      "explanation": "Wahre Weisheit beinhaltet, Gott zu fürchten und sich vom Bösen abzuwenden.",
+      "full_verse": "Dünke dich nicht, weise zu sein, sondern fürchte den Herrn und weiche vom Bösen.",
+      "verse_ref": "Sprüche 3:7"
+    }
+  ]
+}

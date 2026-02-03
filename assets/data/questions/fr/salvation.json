@@ -1,1 +1,452 @@
-{}
+{
+  "q_salvation_001": {
+    "question": "Selon Jean 3:16, « Car Dieu a tant aimé le monde qu'il a donné son Fils unique, afin que quiconque croit en lui ne périsse point, mais qu'il ait la vie _____. »",
+    "correct": "éternelle",
+    "wrong": ["divine", "abondante", "nouvelle"],
+    "hint": "C'est ce qui dure pour toujours",
+    "explanation": "L'amour de Dieu a fourni le don de la vie éternelle par la foi en Jésus.",
+    "full_verse": "Car Dieu a tant aimé le monde qu'il a donné son Fils unique, afin que quiconque croit en lui ne périsse point, mais qu'il ait la vie éternelle.",
+    "verse_ref": "Jean 3:16"
+  },
+  "q_salvation_002": {
+    "question": "Selon Romains 10:9, « Si tu confesses de ta bouche le Seigneur Jésus, et si tu crois dans ton cœur que Dieu l'a ressuscité des morts, tu seras _____. »",
+    "correct": "sauvé",
+    "wrong": ["béni", "pardonné", "guéri"],
+    "hint": "Cela signifie être délivré du péché",
+    "explanation": "Le salut vient en confessant Jésus comme Seigneur et en croyant en sa résurrection.",
+    "full_verse": "Si tu confesses de ta bouche le Seigneur Jésus, et si tu crois dans ton cœur que Dieu l'a ressuscité des morts, tu seras sauvé.",
+    "verse_ref": "Romains 10:9"
+  },
+  "q_salvation_003": {
+    "question": "Selon Éphésiens 2:8-9, « Car c'est par la grâce que vous êtes sauvés, par le moyen de la foi. Et cela ne vient pas de vous, c'est le don de Dieu. Ce n'est point par les _____, afin que personne ne se glorifie. »",
+    "correct": "œuvres",
+    "wrong": ["efforts", "actes", "mérites"],
+    "hint": "Ce sont des actions ou des actes que nous faisons",
+    "explanation": "Le salut est un don gratuit de Dieu, non gagné par nos propres efforts.",
+    "full_verse": "Car c'est par la grâce que vous êtes sauvés, par le moyen de la foi. Et cela ne vient pas de vous, c'est le don de Dieu. Ce n'est point par les œuvres, afin que personne ne se glorifie.",
+    "verse_ref": "Éphésiens 2:8-9"
+  },
+  "q_salvation_004": {
+    "question": "Selon Actes 4:12, « Il n'y a de salut en aucun autre; car il n'y a sous le ciel aucun autre _____ qui ait été donné parmi les hommes, par lequel nous devions être sauvés. »",
+    "correct": "nom",
+    "wrong": ["chemin", "voie", "espoir"],
+    "hint": "Cela représente l'identité d'une personne",
+    "explanation": "Jésus-Christ est la seule source de salut pour l'humanité.",
+    "full_verse": "Il n'y a de salut en aucun autre; car il n'y a sous le ciel aucun autre nom qui ait été donné parmi les hommes, par lequel nous devions être sauvés.",
+    "verse_ref": "Actes 4:12"
+  },
+  "q_salvation_005": {
+    "question": "Selon Jean 14:6, « Jésus lui dit: Je suis le chemin, la vérité, et la vie. Nul ne vient au Père que par _____. »",
+    "correct": "moi",
+    "wrong": ["la foi", "lui", "la grâce"],
+    "hint": "Jésus se réfère à lui-même",
+    "explanation": "Jésus est le seul chemin vers Dieu le Père.",
+    "full_verse": "Jésus lui dit: Je suis le chemin, la vérité, et la vie. Nul ne vient au Père que par moi.",
+    "verse_ref": "Jean 14:6"
+  },
+  "q_salvation_006": {
+    "question": "Selon Romains 6:23, « Car le salaire du péché, c'est la mort; mais le don gratuit de Dieu, c'est la vie éternelle en Jésus-Christ notre _____. »",
+    "correct": "Seigneur",
+    "wrong": ["Sauveur", "Roi", "Maître"],
+    "hint": "Ce titre montre l'autorité de Jésus",
+    "explanation": "Le péché mène à la mort, mais Dieu offre la vie éternelle par Jésus.",
+    "full_verse": "Car le salaire du péché, c'est la mort; mais le don gratuit de Dieu, c'est la vie éternelle en Jésus-Christ notre Seigneur.",
+    "verse_ref": "Romains 6:23"
+  },
+  "q_salvation_007": {
+    "question": "Selon Actes 16:31, « Crois au Seigneur Jésus, et tu seras sauvé, toi et ta _____. »",
+    "correct": "famille",
+    "wrong": ["maison", "enfants", "peuple"],
+    "hint": "Cela se réfère à tous ceux qui vivent dans votre foyer",
+    "explanation": "La foi en Jésus apporte le salut qui peut impacter des familles entières.",
+    "full_verse": "Paul et Silas répondirent: Crois au Seigneur Jésus, et tu seras sauvé, toi et ta famille.",
+    "verse_ref": "Actes 16:31"
+  },
+  "q_salvation_008": {
+    "question": "Selon Tite 3:5, « Il nous a sauvés, non à cause des œuvres de justice que nous aurions faites, mais selon sa _____. »",
+    "correct": "miséricorde",
+    "wrong": ["grâce", "amour", "bonté"],
+    "hint": "C'est la compassion montrée à ceux qui ne la méritent pas",
+    "explanation": "Notre salut est basé sur la miséricorde de Dieu, non sur notre propre justice.",
+    "full_verse": "Il nous a sauvés, non à cause des œuvres de justice que nous aurions faites, mais selon sa miséricorde, par le baptême de la régénération et le renouvellement du Saint-Esprit.",
+    "verse_ref": "Tite 3:5"
+  },
+  "q_salvation_009": {
+    "question": "Selon Jean 1:12, « Mais à tous ceux qui l'ont reçue, à ceux qui croient en son nom, elle a donné le pouvoir de devenir _____ de Dieu. »",
+    "correct": "enfants",
+    "wrong": ["serviteurs", "disciples", "fidèles"],
+    "hint": "Cela décrit une relation familiale",
+    "explanation": "Croire en Jésus nous donne le droit de faire partie de la famille de Dieu.",
+    "full_verse": "Mais à tous ceux qui l'ont reçue, à ceux qui croient en son nom, elle a donné le pouvoir de devenir enfants de Dieu.",
+    "verse_ref": "Jean 1:12"
+  },
+  "q_salvation_010": {
+    "question": "Selon Romains 5:8, « Mais Dieu prouve son amour envers nous, en ce que, lorsque nous étions encore _____, Christ est mort pour nous. »",
+    "correct": "pécheurs",
+    "wrong": ["perdus", "ennemis", "faibles"],
+    "hint": "Cela décrit des personnes qui ont fait le mal",
+    "explanation": "L'amour de Dieu se montre en ce que Christ est mort pour nous malgré notre péché.",
+    "full_verse": "Mais Dieu prouve son amour envers nous, en ce que, lorsque nous étions encore pécheurs, Christ est mort pour nous.",
+    "verse_ref": "Romains 5:8"
+  },
+  "q_salvation_011": {
+    "question": "Selon Jean 3:17, « Dieu, en effet, n'a pas envoyé son Fils dans le monde pour qu'il juge le monde, mais pour que le monde soit _____ par lui. »",
+    "correct": "sauvé",
+    "wrong": ["jugé", "racheté", "guéri"],
+    "hint": "C'est le but de la venue de Jésus",
+    "explanation": "Jésus est venu non pour condamner mais pour sauver le monde.",
+    "full_verse": "Dieu, en effet, n'a pas envoyé son Fils dans le monde pour qu'il juge le monde, mais pour que le monde soit sauvé par lui.",
+    "verse_ref": "Jean 3:17"
+  },
+  "q_salvation_012": {
+    "question": "Selon Jean 5:24, « En vérité, en vérité, je vous le dis, celui qui écoute ma parole, et qui croit à celui qui m'a envoyé, a la vie éternelle et ne vient point en jugement, mais il est passé de la mort à la _____. »",
+    "correct": "vie",
+    "wrong": ["gloire", "paix", "liberté"],
+    "hint": "C'est le contraire de la mort",
+    "explanation": "Croire en Jésus signifie passer de la mort spirituelle à la vie éternelle.",
+    "full_verse": "En vérité, en vérité, je vous le dis, celui qui écoute ma parole, et qui croit à celui qui m'a envoyé, a la vie éternelle et ne vient point en jugement, mais il est passé de la mort à la vie.",
+    "verse_ref": "Jean 5:24"
+  },
+  "q_salvation_013": {
+    "question": "Selon Jean 6:47, « En vérité, en vérité, je vous le dis, celui qui _____ en moi a la vie éternelle. »",
+    "correct": "croit",
+    "wrong": ["obéit", "suit", "prie"],
+    "hint": "Cela signifie avoir la foi",
+    "explanation": "La vie éternelle vient en croyant en Jésus.",
+    "full_verse": "En vérité, en vérité, je vous le dis, celui qui croit en moi a la vie éternelle.",
+    "verse_ref": "Jean 6:47"
+  },
+  "q_salvation_014": {
+    "question": "Selon Jean 10:9, « Je suis la porte. Si quelqu'un entre par moi, il sera sauvé; il entrera et il sortira, et il trouvera des _____. »",
+    "correct": "pâturages",
+    "wrong": ["repos", "paix", "vie"],
+    "hint": "C'est là où les brebis paissent",
+    "explanation": "Jésus est l'entrée du salut et de la nourriture spirituelle.",
+    "full_verse": "Je suis la porte. Si quelqu'un entre par moi, il sera sauvé; il entrera et il sortira, et il trouvera des pâturages.",
+    "verse_ref": "Jean 10:9"
+  },
+  "q_salvation_015": {
+    "question": "Selon Jean 10:28, « Je leur donne la vie éternelle; et elles ne _____ jamais, et personne ne les ravira de ma main. »",
+    "correct": "périront",
+    "wrong": ["mourront", "tomberont", "failliront"],
+    "hint": "Cela signifie être détruit",
+    "explanation": "Jésus garantit la sécurité éternelle pour ses disciples.",
+    "full_verse": "Je leur donne la vie éternelle; et elles ne périront jamais, et personne ne les ravira de ma main.",
+    "verse_ref": "Jean 10:28"
+  },
+  "q_salvation_016": {
+    "question": "Selon Actes 2:21, « Alors quiconque invoquera le nom du Seigneur sera _____. »",
+    "correct": "sauvé",
+    "wrong": ["béni", "entendu", "pardonné"],
+    "hint": "Cela signifie être délivré du péché",
+    "explanation": "Le salut est disponible pour tous ceux qui invoquent le Seigneur.",
+    "full_verse": "Alors quiconque invoquera le nom du Seigneur sera sauvé.",
+    "verse_ref": "Actes 2:21"
+  },
+  "q_salvation_017": {
+    "question": "Selon Romains 1:16, « Car je n'ai point honte de l'Évangile: c'est une puissance de Dieu pour le salut de quiconque _____. »",
+    "correct": "croit",
+    "wrong": ["obéit", "se repent", "suit"],
+    "hint": "Cela signifie avoir la foi",
+    "explanation": "L'Évangile est le message puissant de Dieu pour le salut par la foi.",
+    "full_verse": "Car je n'ai point honte de l'Évangile: c'est une puissance de Dieu pour le salut de quiconque croit, du Juif premièrement, puis du Grec.",
+    "verse_ref": "Romains 1:16"
+  },
+  "q_salvation_018": {
+    "question": "Selon Romains 3:23-24, « Car tous ont péché et sont privés de la gloire de Dieu; et ils sont gratuitement justifiés par sa _____, par le moyen de la rédemption qui est en Jésus-Christ. »",
+    "correct": "grâce",
+    "wrong": ["miséricorde", "amour", "puissance"],
+    "hint": "C'est la faveur imméritée",
+    "explanation": "Tous ont péché, mais la justification est donnée gratuitement par la grâce de Dieu.",
+    "full_verse": "Car tous ont péché et sont privés de la gloire de Dieu; et ils sont gratuitement justifiés par sa grâce, par le moyen de la rédemption qui est en Jésus-Christ.",
+    "verse_ref": "Romains 3:23-24"
+  },
+  "q_salvation_019": {
+    "question": "Selon Romains 5:9, « A plus forte raison donc, maintenant que nous sommes justifiés par son sang, serons-nous sauvés par lui de la _____. »",
+    "correct": "colère",
+    "wrong": ["jugement", "punition", "condamnation"],
+    "hint": "C'est la juste indignation de Dieu contre le péché",
+    "explanation": "Le sang de Christ nous sauve de la colère que nous méritons.",
+    "full_verse": "A plus forte raison donc, maintenant que nous sommes justifiés par son sang, serons-nous sauvés par lui de la colère.",
+    "verse_ref": "Romains 5:9"
+  },
+  "q_salvation_020": {
+    "question": "Selon Romains 8:1, « Il n'y a donc maintenant aucune _____ pour ceux qui sont en Jésus-Christ. »",
+    "correct": "condamnation",
+    "wrong": ["jugement", "punition", "culpabilité"],
+    "hint": "Cela signifie une déclaration de culpabilité",
+    "explanation": "Ceux qui sont en Christ sont libérés de la sentence du péché.",
+    "full_verse": "Il n'y a donc maintenant aucune condamnation pour ceux qui sont en Jésus-Christ.",
+    "verse_ref": "Romains 8:1"
+  },
+  "q_salvation_021": {
+    "question": "Selon Romains 10:13, « Car quiconque invoquera le _____ du Seigneur sera sauvé. »",
+    "correct": "nom",
+    "wrong": ["puissance", "grâce", "miséricorde"],
+    "hint": "Cela représente l'identité de Dieu",
+    "explanation": "Invoquer le nom du Seigneur apporte le salut.",
+    "full_verse": "Car quiconque invoquera le nom du Seigneur sera sauvé.",
+    "verse_ref": "Romains 10:13"
+  },
+  "q_salvation_022": {
+    "question": "Selon 2 Corinthiens 5:17, « Si quelqu'un est en Christ, il est une _____ créature. Les choses anciennes sont passées; voici, toutes choses sont devenues nouvelles. »",
+    "correct": "nouvelle",
+    "wrong": ["autre", "meilleure", "différente"],
+    "hint": "C'est le contraire d'ancien",
+    "explanation": "En Christ, nous devenons des créations entièrement nouvelles.",
+    "full_verse": "Si quelqu'un est en Christ, il est une nouvelle créature. Les choses anciennes sont passées; voici, toutes choses sont devenues nouvelles.",
+    "verse_ref": "2 Corinthiens 5:17"
+  },
+  "q_salvation_023": {
+    "question": "Selon Galates 2:16, « Sachant que ce n'est pas par les œuvres de la loi que l'homme est justifié, mais par la foi en Jésus-Christ, nous aussi nous avons cru en Jésus-Christ, afin d'être justifiés par la _____ en Christ. »",
+    "correct": "foi",
+    "wrong": ["confiance", "espérance", "croyance"],
+    "hint": "C'est la croyance confiante",
+    "explanation": "La justification vient par la foi en Christ, non en suivant la loi.",
+    "full_verse": "Néanmoins, sachant que ce n'est pas par les œuvres de la loi que l'homme est justifié, mais par la foi en Jésus-Christ, nous aussi nous avons cru en Jésus-Christ, afin d'être justifiés par la foi en Christ et non par les œuvres de la loi.",
+    "verse_ref": "Galates 2:16"
+  },
+  "q_salvation_024": {
+    "question": "Selon Éphésiens 1:7, « En lui nous avons la rédemption par son sang, la rémission des péchés, selon la richesse de sa _____. »",
+    "correct": "grâce",
+    "wrong": ["miséricorde", "amour", "gloire"],
+    "hint": "C'est la faveur imméritée de Dieu",
+    "explanation": "La rédemption et le pardon viennent par le sang de Christ et la grâce abondante de Dieu.",
+    "full_verse": "En lui nous avons la rédemption par son sang, la rémission des péchés, selon la richesse de sa grâce.",
+    "verse_ref": "Éphésiens 1:7"
+  },
+  "q_salvation_025": {
+    "question": "Selon Colossiens 1:13-14, « Il nous a délivrés de la puissance des _____, et nous a transportés dans le royaume du Fils de son amour, en qui nous avons la rédemption, la rémission des péchés. »",
+    "correct": "ténèbres",
+    "wrong": ["péché", "mal", "mort"],
+    "hint": "C'est le contraire de la lumière",
+    "explanation": "Dieu nous délivre de la puissance des ténèbres et nous amène dans le royaume de Christ.",
+    "full_verse": "Il nous a délivrés de la puissance des ténèbres, et nous a transportés dans le royaume du Fils de son amour, en qui nous avons la rédemption, la rémission des péchés.",
+    "verse_ref": "Colossiens 1:13-14"
+  },
+  "q_salvation_026": {
+    "question": "Selon 1 Timothée 1:15, « C'est une parole certaine et entièrement digne d'être reçue, que Jésus-Christ est venu dans le monde pour sauver les _____. »",
+    "correct": "pécheurs",
+    "wrong": ["âmes", "gens", "hommes"],
+    "hint": "Ce sont des personnes qui ont fait le mal",
+    "explanation": "Jésus est venu spécifiquement pour sauver ceux qui ont péché.",
+    "full_verse": "C'est une parole certaine et entièrement digne d'être reçue, que Jésus-Christ est venu dans le monde pour sauver les pécheurs, dont je suis le premier.",
+    "verse_ref": "1 Timothée 1:15"
+  },
+  "q_salvation_027": {
+    "question": "Selon 1 Timothée 2:4, « Dieu veut que tous les hommes soient sauvés et parviennent à la connaissance de la _____. »",
+    "correct": "vérité",
+    "wrong": ["foi", "vie", "salut"],
+    "hint": "C'est ce qui est réel et correct",
+    "explanation": "Dieu désire que tous soient sauvés et connaissent la vérité.",
+    "full_verse": "Dieu veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité.",
+    "verse_ref": "1 Timothée 2:4"
+  },
+  "q_salvation_028": {
+    "question": "Selon 2 Timothée 1:9, « Il nous a sauvés, et nous a adressé une sainte vocation, non à cause de nos œuvres, mais selon son propre dessein, et selon la _____ qui nous a été donnée en Jésus-Christ. »",
+    "correct": "grâce",
+    "wrong": ["volonté", "amour", "miséricorde"],
+    "hint": "C'est la faveur imméritée",
+    "explanation": "Le salut est basé sur la grâce et le dessein de Dieu, non sur nos œuvres.",
+    "full_verse": "Dieu nous a sauvés, et nous a adressé une sainte vocation, non à cause de nos œuvres, mais selon son propre dessein, et selon la grâce qui nous a été donnée en Jésus-Christ avant les temps éternels.",
+    "verse_ref": "2 Timothée 1:9"
+  },
+  "q_salvation_029": {
+    "question": "Selon Hébreux 5:9, « Et qui, après avoir été élevé à la perfection, est devenu pour tous ceux qui lui _____ l'auteur d'un salut éternel. »",
+    "correct": "obéissent",
+    "wrong": ["suivent", "font confiance", "croient"],
+    "hint": "Cela signifie suivre les commandements",
+    "explanation": "Jésus est la source du salut pour ceux qui lui obéissent.",
+    "full_verse": "Et qui, après avoir été élevé à la perfection, est devenu pour tous ceux qui lui obéissent l'auteur d'un salut éternel.",
+    "verse_ref": "Hébreux 5:9"
+  },
+  "q_salvation_030": {
+    "question": "Selon Hébreux 7:25, « C'est aussi pour cela qu'il peut sauver parfaitement ceux qui s'approchent de Dieu par lui, étant toujours vivant pour _____ en leur faveur. »",
+    "correct": "intercéder",
+    "wrong": ["prier", "parler", "plaider"],
+    "hint": "Cela signifie prier au nom des autres",
+    "explanation": "Jésus intercède continuellement pour les croyants devant Dieu.",
+    "full_verse": "C'est aussi pour cela qu'il peut sauver parfaitement ceux qui s'approchent de Dieu par lui, étant toujours vivant pour intercéder en leur faveur.",
+    "verse_ref": "Hébreux 7:25"
+  },
+  "q_salvation_031": {
+    "question": "Selon Hébreux 9:28, « De même Christ, qui s'est offert une seule fois pour porter les péchés de plusieurs, apparaîtra sans péché une seconde fois à ceux qui l'attendent pour leur _____. »",
+    "correct": "salut",
+    "wrong": ["paix", "gloire", "vie"],
+    "hint": "C'est la délivrance du péché",
+    "explanation": "La seconde venue de Christ apportera le salut final à son peuple.",
+    "full_verse": "De même Christ, qui s'est offert une seule fois pour porter les péchés de plusieurs, apparaîtra sans péché une seconde fois à ceux qui l'attendent pour leur salut.",
+    "verse_ref": "Hébreux 9:28"
+  },
+  "q_salvation_032": {
+    "question": "Selon 1 Pierre 1:3-4, « Béni soit Dieu, le Père de notre Seigneur Jésus-Christ, qui, selon sa grande miséricorde, nous a régénérés, pour une espérance vivante... pour un héritage qui ne se peut ni corrompre, ni souiller, ni _____. »",
+    "correct": "flétrir",
+    "wrong": ["finir", "se détériorer", "diminuer"],
+    "hint": "Cela signifie perdre de l'éclat ou disparaître",
+    "explanation": "Notre héritage céleste est éternel et immuable.",
+    "full_verse": "Béni soit Dieu, le Père de notre Seigneur Jésus-Christ, qui, selon sa grande miséricorde, nous a régénérés, pour une espérance vivante, par la résurrection de Jésus-Christ d'entre les morts, pour un héritage qui ne se peut ni corrompre, ni souiller, ni flétrir.",
+    "verse_ref": "1 Pierre 1:3-4"
+  },
+  "q_salvation_033": {
+    "question": "Selon 1 Pierre 1:9, « Parce que vous obtiendrez le salut de vos _____, pour prix de votre foi. »",
+    "correct": "âmes",
+    "wrong": ["vies", "cœurs", "esprits"],
+    "hint": "C'est la partie spirituelle d'une personne",
+    "explanation": "Le but ultime de la foi est le salut de nos âmes.",
+    "full_verse": "Parce que vous obtiendrez le salut de vos âmes, pour prix de votre foi.",
+    "verse_ref": "1 Pierre 1:9"
+  },
+  "q_salvation_034": {
+    "question": "Selon 1 Pierre 2:24, « Lui qui a porté lui-même nos péchés en son corps sur le bois, afin que morts aux péchés nous vivions pour la justice; lui par les _____ duquel vous avez été guéris. »",
+    "correct": "meurtrissures",
+    "wrong": ["sang", "mort", "sacrifice"],
+    "hint": "Ce sont des blessures sur le corps",
+    "explanation": "La souffrance de Christ sur la croix apporte notre guérison spirituelle.",
+    "full_verse": "Lui qui a porté lui-même nos péchés en son corps sur le bois, afin que morts aux péchés nous vivions pour la justice; lui par les meurtrissures duquel vous avez été guéris.",
+    "verse_ref": "1 Pierre 2:24"
+  },
+  "q_salvation_035": {
+    "question": "Selon 1 Pierre 3:18, « Christ aussi a souffert une fois pour les péchés, lui juste pour des injustes, afin de nous amener à _____. »",
+    "correct": "Dieu",
+    "wrong": ["le ciel", "le salut", "la vie"],
+    "hint": "C'est vers qui Christ nous amène",
+    "explanation": "La souffrance de Christ était pour nous réconcilier avec Dieu.",
+    "full_verse": "Christ aussi a souffert une fois pour les péchés, lui juste pour des injustes, afin de nous amener à Dieu.",
+    "verse_ref": "1 Pierre 3:18"
+  },
+  "q_salvation_036": {
+    "question": "Selon 2 Pierre 3:9, « Le Seigneur ne tarde pas dans l'accomplissement de la promesse... mais il use de patience envers vous, ne voulant pas qu'aucun _____, mais voulant que tous arrivent à la repentance. »",
+    "correct": "périsse",
+    "wrong": ["meure", "souffre", "tombe"],
+    "hint": "Cela signifie être détruit",
+    "explanation": "Dieu attend patiemment que tous se repentent et soient sauvés.",
+    "full_verse": "Le Seigneur ne tarde pas dans l'accomplissement de la promesse, comme quelques-uns le croient; mais il use de patience envers vous, ne voulant pas qu'aucun périsse, mais voulant que tous arrivent à la repentance.",
+    "verse_ref": "2 Pierre 3:9"
+  },
+  "q_salvation_037": {
+    "question": "Selon 1 Jean 1:7, « Mais si nous marchons dans la lumière, comme il est lui-même dans la lumière, nous sommes mutuellement en communion, et le sang de Jésus son Fils nous purifie de tout _____. »",
+    "correct": "péché",
+    "wrong": ["culpabilité", "honte", "mal"],
+    "hint": "C'est la transgression contre Dieu",
+    "explanation": "Le sang de Jésus purifie les croyants de tout péché.",
+    "full_verse": "Mais si nous marchons dans la lumière, comme il est lui-même dans la lumière, nous sommes mutuellement en communion, et le sang de Jésus son Fils nous purifie de tout péché.",
+    "verse_ref": "1 Jean 1:7"
+  },
+  "q_salvation_038": {
+    "question": "Selon 1 Jean 4:14, « Et nous, nous avons vu et nous attestons que le Père a envoyé le Fils comme Sauveur du _____. »",
+    "correct": "monde",
+    "wrong": ["église", "peuple", "nations"],
+    "hint": "Cela inclut toute l'humanité",
+    "explanation": "Jésus a été envoyé pour sauver le monde entier.",
+    "full_verse": "Et nous, nous avons vu et nous attestons que le Père a envoyé le Fils comme Sauveur du monde.",
+    "verse_ref": "1 Jean 4:14"
+  },
+  "q_salvation_039": {
+    "question": "Selon 1 Jean 5:11-12, « Et voici ce témoignage, c'est que Dieu nous a donné la vie éternelle, et que cette vie est dans son _____. Celui qui a le Fils a la vie. »",
+    "correct": "Fils",
+    "wrong": ["parole", "grâce", "esprit"],
+    "hint": "Cela se réfère à Jésus",
+    "explanation": "La vie éternelle se trouve uniquement en Jésus-Christ.",
+    "full_verse": "Et voici ce témoignage, c'est que Dieu nous a donné la vie éternelle, et que cette vie est dans son Fils. Celui qui a le Fils a la vie; celui qui n'a pas le Fils de Dieu n'a pas la vie.",
+    "verse_ref": "1 Jean 5:11-12"
+  },
+  "q_salvation_040": {
+    "question": "Selon Apocalypse 3:20, « Voici, je me tiens à la porte, et je frappe. Si quelqu'un entend ma voix et ouvre la porte, j'entrerai chez lui, je souperai avec lui, et lui avec _____. »",
+    "correct": "moi",
+    "wrong": ["Dieu", "lui", "eux"],
+    "hint": "Jésus se réfère à lui-même",
+    "explanation": "Jésus nous invite à ouvrir nos cœurs et à avoir une communion avec lui.",
+    "full_verse": "Voici, je me tiens à la porte, et je frappe. Si quelqu'un entend ma voix et ouvre la porte, j'entrerai chez lui, je souperai avec lui, et lui avec moi.",
+    "verse_ref": "Apocalypse 3:20"
+  },
+  "q_salvation_041": {
+    "question": "Selon Ésaïe 53:5, « Mais il était blessé pour nos péchés, brisé pour nos iniquités; le châtiment qui nous donne la paix est tombé sur lui, et c'est par ses _____ que nous sommes guéris. »",
+    "correct": "meurtrissures",
+    "wrong": ["sang", "mort", "souffrances"],
+    "hint": "Ce sont des blessures sur le corps",
+    "explanation": "La souffrance et les blessures de Christ nous apportent guérison et paix avec Dieu.",
+    "full_verse": "Mais il était blessé pour nos péchés, brisé pour nos iniquités; le châtiment qui nous donne la paix est tombé sur lui, et c'est par ses meurtrissures que nous sommes guéris.",
+    "verse_ref": "Ésaïe 53:5"
+  },
+  "q_salvation_042": {
+    "question": "Selon Ésaïe 53:6, « Nous étions tous errants comme des brebis, chacun suivait sa propre voie; et l'Éternel a fait retomber sur lui l'_____ de nous tous. »",
+    "correct": "iniquité",
+    "wrong": ["péché", "culpabilité", "fardeau"],
+    "hint": "C'est un autre mot pour péché ou méchanceté",
+    "explanation": "Christ a porté les péchés de toute l'humanité sur lui-même.",
+    "full_verse": "Nous étions tous errants comme des brebis, chacun suivait sa propre voie; et l'Éternel a fait retomber sur lui l'iniquité de nous tous.",
+    "verse_ref": "Ésaïe 53:6"
+  },
+  "q_salvation_043": {
+    "question": "Selon Ésaïe 59:1, « Non, la main de l'Éternel n'est pas trop courte pour sauver, ni son _____ trop dure pour entendre. »",
+    "correct": "oreille",
+    "wrong": ["œil", "cœur", "main"],
+    "hint": "Cette partie du corps est utilisée pour écouter",
+    "explanation": "Dieu est pleinement capable de sauver et d'entendre nos prières.",
+    "full_verse": "Non, la main de l'Éternel n'est pas trop courte pour sauver, ni son oreille trop dure pour entendre.",
+    "verse_ref": "Ésaïe 59:1"
+  },
+  "q_salvation_044": {
+    "question": "Selon Psaume 27:1, « L'Éternel est ma lumière et mon salut: de qui aurais-je crainte? L'Éternel est le _____ de ma vie: de qui aurais-je peur? »",
+    "correct": "soutien",
+    "wrong": ["force", "refuge", "bouclier"],
+    "hint": "C'est un endroit fortifié de protection",
+    "explanation": "Dieu est notre lumière, notre salut et notre forteresse sûre.",
+    "full_verse": "L'Éternel est ma lumière et mon salut: de qui aurais-je crainte? L'Éternel est le soutien de ma vie: de qui aurais-je peur?",
+    "verse_ref": "Psaume 27:1"
+  },
+  "q_salvation_045": {
+    "question": "Selon Psaume 62:2, « Oui, c'est en Dieu que mon âme se _____; de lui vient mon salut. »",
+    "correct": "confie",
+    "wrong": ["repose", "espère", "réjouit"],
+    "hint": "C'est un état de repos ou de tranquillité",
+    "explanation": "Nos âmes trouvent un vrai repos uniquement en Dieu, notre source de salut.",
+    "full_verse": "Oui, c'est en Dieu que mon âme se confie; de lui vient mon salut.",
+    "verse_ref": "Psaume 62:2"
+  },
+  "q_salvation_046": {
+    "question": "Selon Psaume 68:21, « Oui, Dieu est pour nous le Dieu des délivrances, et l'Éternel, le Seigneur, peut nous garantir de la _____. »",
+    "correct": "mort",
+    "wrong": ["péché", "jugement", "destruction"],
+    "hint": "C'est la fin de la vie",
+    "explanation": "Dieu a le pouvoir sur la mort et nous en délivre.",
+    "full_verse": "Oui, Dieu est pour nous le Dieu des délivrances, et l'Éternel, le Seigneur, peut nous garantir de la mort.",
+    "verse_ref": "Psaume 68:21"
+  },
+  "q_salvation_047": {
+    "question": "Selon Psaume 118:14, « L'Éternel est ma force et le sujet de mes louanges; c'est lui qui m'a _____. »",
+    "correct": "sauvé",
+    "wrong": ["protégé", "aidé", "béni"],
+    "hint": "C'est la délivrance du danger ou du péché",
+    "explanation": "Dieu lui-même est notre salut et notre défense.",
+    "full_verse": "L'Éternel est ma force et le sujet de mes louanges; c'est lui qui m'a sauvé.",
+    "verse_ref": "Psaume 118:14"
+  },
+  "q_salvation_048": {
+    "question": "Selon Luc 19:10, « Car le Fils de l'homme est venu chercher et sauver ce qui était _____. »",
+    "correct": "perdu",
+    "wrong": ["monde", "pécheurs", "faible"],
+    "hint": "Cela décrit des personnes spirituellement égarées",
+    "explanation": "La mission de Jésus était de trouver et de sauver ceux qui sont spirituellement perdus.",
+    "full_verse": "Car le Fils de l'homme est venu chercher et sauver ce qui était perdu.",
+    "verse_ref": "Luc 19:10"
+  },
+  "q_salvation_049": {
+    "question": "Selon Matthieu 1:21, « Elle enfantera un fils, et tu lui donneras le nom de Jésus; c'est lui qui sauvera son _____ de ses péchés. »",
+    "correct": "peuple",
+    "wrong": ["enfants", "disciples", "église"],
+    "hint": "Cela se réfère à ceux qui lui appartiennent",
+    "explanation": "Le nom Jésus signifie 'le Seigneur sauve' parce qu'il sauve son peuple du péché.",
+    "full_verse": "Elle enfantera un fils, et tu lui donneras le nom de Jésus; c'est lui qui sauvera son peuple de ses péchés.",
+    "verse_ref": "Matthieu 1:21"
+  },
+  "q_salvation_050": {
+    "question": "Selon Marc 16:16, « Celui qui croira et qui sera baptisé sera sauvé, mais celui qui ne croira pas sera _____. »",
+    "correct": "condamné",
+    "wrong": ["perdu", "jugé", "puni"],
+    "hint": "Cela signifie être déclaré coupable",
+    "explanation": "La foi mène au salut, tandis que l'incrédulité mène à la condamnation.",
+    "full_verse": "Celui qui croira et qui sera baptisé sera sauvé, mais celui qui ne croira pas sera condamné.",
+    "verse_ref": "Marc 16:16"
+  }
+}

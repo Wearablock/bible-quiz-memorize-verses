@@ -1,1 +1,452 @@
-{}
+{
+  "q_faith_001": {
+    "question": "Lengkapi ayat: 'Iman adalah dasar dari segala sesuatu yang kita harapkan dan bukti dari segala sesuatu yang tidak kita _____.'",
+    "correct": "lihat",
+    "wrong": ["ketahui", "miliki", "pahami"],
+    "hint": "Iman berkaitan dengan yang tidak terlihat",
+    "explanation": "Penulis Ibrani mendefinisikan iman sebagai keyakinan akan hal-hal yang tidak dapat kita lihat secara fisik.",
+    "full_verse": "Iman adalah dasar dari segala sesuatu yang kita harapkan dan bukti dari segala sesuatu yang tidak kita lihat.",
+    "verse_ref": "Ibrani 11:1"
+  },
+  "q_faith_002": {
+    "question": "Lengkapi ayat: 'Jadi, iman timbul dari pendengaran, dan pendengaran oleh firman _____.'",
+    "correct": "Kristus",
+    "wrong": ["Allah", "keselamatan", "kebenaran"],
+    "hint": "Iman datang melalui mendengar tentang pribadi ini",
+    "explanation": "Paulus mengajarkan bahwa iman dihasilkan oleh mendengar berita tentang Kristus.",
+    "full_verse": "Jadi, iman timbul dari pendengaran, dan pendengaran oleh firman Kristus.",
+    "verse_ref": "Roma 10:17"
+  },
+  "q_faith_003": {
+    "question": "Lengkapi ayat: 'Sebab karena kasih karunia kamu diselamatkan oleh iman; itu bukan hasil usahamu, tetapi _____ Allah.'",
+    "correct": "pemberian",
+    "wrong": ["pekerjaan", "rencana", "kehendak"],
+    "hint": "Keselamatan diberikan dengan cuma-cuma",
+    "explanation": "Paulus menekankan bahwa keselamatan melalui iman adalah pemberian dari Allah, bukan sesuatu yang kita peroleh.",
+    "full_verse": "Sebab karena kasih karunia kamu diselamatkan oleh iman; itu bukan hasil usahamu, tetapi pemberian Allah.",
+    "verse_ref": "Efesus 2:8"
+  },
+  "q_faith_004": {
+    "question": "Lengkapi ayat: 'Demikian juga halnya dengan iman: Jika iman itu tidak disertai perbuatan, maka iman itu pada hakekatnya adalah _____.'",
+    "correct": "mati",
+    "wrong": ["lemah", "kosong", "sia-sia"],
+    "hint": "Iman tanpa perbuatan tidak memiliki kehidupan",
+    "explanation": "Yakobus mengajarkan bahwa iman yang sejati secara alami akan menghasilkan perbuatan baik sebagai bukti.",
+    "full_verse": "Demikian juga halnya dengan iman: Jika iman itu tidak disertai perbuatan, maka iman itu pada hakekatnya adalah mati.",
+    "verse_ref": "Yakobus 2:17"
+  },
+  "q_faith_005": {
+    "question": "Lengkapi ayat: 'Jawab Yesus kepada mereka: \"Percayalah kepada _____.\"'",
+    "correct": "Allah",
+    "wrong": ["Aku", "dirimu", "doa"],
+    "hint": "Yesus mengarahkan iman kepada Bapa",
+    "explanation": "Yesus memerintahkan murid-murid-Nya untuk menaruh kepercayaan mereka sepenuhnya kepada Allah.",
+    "full_verse": "Jawab Yesus kepada mereka: 'Percayalah kepada Allah!'",
+    "verse_ref": "Markus 11:22"
+  },
+  "q_faith_006": {
+    "question": "Lengkapi ayat: 'Aku berkata kepadamu: Sesungguhnya sekiranya kamu mempunyai iman sebesar biji _____, kamu dapat berkata kepada gunung ini: Pindah dari sini ke sana, maka gunung ini akan pindah.'",
+    "correct": "sesawi",
+    "wrong": ["gandum", "tanaman", "pohon"],
+    "hint": "Ini adalah biji yang sangat kecil",
+    "explanation": "Yesus mengajarkan bahwa bahkan iman yang sangat kecil pun dapat mencapai hal-hal besar.",
+    "full_verse": "Aku berkata kepadamu: Sesungguhnya sekiranya kamu mempunyai iman sebesar biji sesawi, kamu dapat berkata kepada gunung ini: Pindah dari sini ke sana, maka gunung ini akan pindah, dan takkan ada yang mustahil bagimu.",
+    "verse_ref": "Matius 17:20"
+  },
+  "q_faith_007": {
+    "question": "Lengkapi ayat: 'Sebab hidup kami ini adalah hidup karena percaya, bukan karena _____.'",
+    "correct": "melihat",
+    "wrong": ["perbuatan", "hukum", "perasaan"],
+    "hint": "Kebalikan dari melihat",
+    "explanation": "Paulus mengontraskan iman dengan penglihatan fisik, menekankan bahwa orang percaya mempercayai yang tidak terlihat.",
+    "full_verse": "Sebab hidup kami ini adalah hidup karena percaya, bukan karena melihat.",
+    "verse_ref": "2 Korintus 5:7"
+  },
+  "q_faith_008": {
+    "question": "Lengkapi ayat: 'Aku telah disalibkan dengan Kristus; namun aku hidup, tetapi bukan lagi aku sendiri yang hidup, melainkan Kristus yang hidup di dalam _____.'",
+    "correct": "aku",
+    "wrong": ["kita", "mereka", "semua"],
+    "hint": "Paulus berbicara tentang pengalaman pribadinya",
+    "explanation": "Paulus menggambarkan transformasi hidup oleh iman dalam Kristus yang sekarang hidup di dalam dirinya.",
+    "full_verse": "Aku telah disalibkan dengan Kristus; namun aku hidup, tetapi bukan lagi aku sendiri yang hidup, melainkan Kristus yang hidup di dalam aku. Dan hidupku yang kuhidupi sekarang di dalam daging, adalah hidup oleh iman dalam Anak Allah yang telah mengasihi aku dan menyerahkan diri-Nya untuk aku.",
+    "verse_ref": "Galatia 2:20"
+  },
+  "q_faith_009": {
+    "question": "Lengkapi ayat: 'Tetapi tanpa iman tidak mungkin orang _____ Allah.'",
+    "correct": "berkenan kepada",
+    "wrong": ["mengenal", "mengasihi", "melayani"],
+    "hint": "Iman diperlukan untuk memuaskan Allah",
+    "explanation": "Penulis Ibrani menyatakan bahwa iman mutlak diperlukan untuk berkenan kepada Allah.",
+    "full_verse": "Tetapi tanpa iman tidak mungkin orang berkenan kepada Allah. Sebab barangsiapa berpaling kepada Allah, ia harus percaya bahwa Allah ada, dan bahwa Allah memberi upah kepada orang yang sungguh-sungguh mencari Dia.",
+    "verse_ref": "Ibrani 11:6"
+  },
+  "q_faith_010": {
+    "question": "Lengkapi ayat: 'Sebab di dalamnya nyata kebenaran Allah, yang bertolak dari iman dan memimpin kepada iman, seperti ada tertulis: \"Orang benar akan hidup oleh _____.\"'",
+    "correct": "iman",
+    "wrong": ["kasih karunia", "kasih", "hukum"],
+    "hint": "Orang benar hidup oleh ini",
+    "explanation": "Paulus mengutip Habakuk untuk menunjukkan bahwa kebenaran selalu melalui iman.",
+    "full_verse": "Sebab di dalamnya nyata kebenaran Allah, yang bertolak dari iman dan memimpin kepada iman, seperti ada tertulis: 'Orang benar akan hidup oleh iman.'",
+    "verse_ref": "Roma 1:17"
+  },
+  "q_faith_011": {
+    "question": "Lengkapi ayat: 'Hendaklah ia memintanya dalam iman, dan sama sekali jangan _____; sebab orang yang bimbang sama dengan gelombang laut.'",
+    "correct": "bimbang",
+    "wrong": ["takut", "khawatir", "ragu"],
+    "hint": "Kebalikan dari percaya",
+    "explanation": "Yakobus mengajarkan bahwa doa harus dipanjatkan dengan iman tanpa goyah.",
+    "full_verse": "Hendaklah ia memintanya dalam iman, dan sama sekali jangan bimbang, sebab orang yang bimbang sama dengan gelombang laut, yang diombang-ambingkan kian ke mari oleh angin.",
+    "verse_ref": "Yakobus 1:6"
+  },
+  "q_faith_012": {
+    "question": "Lengkapi ayat: 'Melalui penderitaan itu kemurnian imanmu diuji—Loss yang jauh lebih tinggi nilainya dari pada _____ yang fana.'",
+    "correct": "emas",
+    "wrong": ["perak", "permata", "harta"],
+    "hint": "Logam mulia",
+    "explanation": "Petrus membandingkan iman yang diuji dengan emas yang dimurnikan, menunjukkan nilai iman yang lebih tinggi.",
+    "full_verse": "Maksud semuanya itu ialah untuk membuktikan kemurnian imanmu—Loss yang jauh lebih tinggi nilainya dari pada emas yang fana, yang diuji kemurniannya dengan api—sehingga kamu memperoleh puji-pujian dan kemuliaan dan kehormatan pada hari Yesus Kristus menyatakan diri-Nya.",
+    "verse_ref": "1 Petrus 1:7"
+  },
+  "q_faith_013": {
+    "question": "Lengkapi ayat: 'Dan \"Orang-Ku yang benar akan hidup oleh iman, dan apabila ia mengundurkan diri, maka Aku tidak _____ kepadanya.\"'",
+    "correct": "berkenan",
+    "wrong": ["dekat", "setia", "sabar"],
+    "hint": "Mundur atau menarik diri",
+    "explanation": "Penulis mengutip Habakuk, memperingatkan untuk tidak berpaling dari iman.",
+    "full_verse": "Dan 'Orang-Ku yang benar akan hidup oleh iman, dan apabila ia mengundurkan diri, maka Aku tidak berkenan kepadanya.'",
+    "verse_ref": "Ibrani 10:38"
+  },
+  "q_faith_014": {
+    "question": "Lengkapi ayat: 'Ia tidak bimbang-bimbang karena ketidakpercayaan akan janji Allah, malah ia bertambah teguh dalam _____.'",
+    "correct": "imannya",
+    "wrong": ["kasihnya", "harapannya", "kekuatannya"],
+    "hint": "Abraham's faith menghormati Allah",
+    "explanation": "Paulus menggambarkan iman Abraham yang tak tergoyahkan dalam janji Allah meskipun keadaan mustahil.",
+    "full_verse": "Ia tidak bimbang-bimbang karena ketidakpercayaan akan janji Allah, malah ia bertambah teguh dalam imannya dan memberi kemuliaan kepada Allah.",
+    "verse_ref": "Roma 4:20"
+  },
+  "q_faith_015": {
+    "question": "Lengkapi ayat: 'Kata Yesus kepadanya: \"Katamu: jika Engkau dapat? Tidak ada yang mustahil bagi orang yang _____.\"'",
+    "correct": "percaya",
+    "wrong": ["berdoa", "berharap", "memohon"],
+    "hint": "Tidak ada yang di luar jangkauan iman",
+    "explanation": "Yesus menantang keraguan seorang ayah dengan menyatakan bahwa segala sesuatu mungkin melalui iman.",
+    "full_verse": "Kata Yesus kepadanya: 'Katamu: jika Engkau dapat? Tidak ada yang mustahil bagi orang yang percaya!'",
+    "verse_ref": "Markus 9:23"
+  },
+  "q_faith_016": {
+    "question": "Lengkapi ayat: 'Yesus menjawab mereka: \"Aku berkata kepadamu: Sesungguhnya jika kamu mempunyai iman dan tidak bimbang, kamu bukan saja dapat berbuat apa yang Kuperbuat dengan pohon ara itu, tetapi juga jika kamu berkata kepada gunung ini: Berangkatlah dan tercampak ke dalam _____, maka hal itu akan terjadi.\"'",
+    "correct": "laut",
+    "wrong": ["lembah", "api", "jurang"],
+    "hint": "Kumpulan air yang besar",
+    "explanation": "Yesus menggunakan hiperbola untuk mengilustrasikan kuasa luar biasa dari iman yang tak goyah.",
+    "full_verse": "Yesus menjawab mereka: 'Aku berkata kepadamu: Sesungguhnya jika kamu mempunyai iman dan tidak bimbang, kamu bukan saja dapat berbuat apa yang Kuperbuat dengan pohon ara itu, tetapi juga jika kamu berkata kepada gunung ini: Berangkatlah dan tercampak ke dalam laut, maka hal itu akan terjadi.'",
+    "verse_ref": "Matius 21:21"
+  },
+  "q_faith_017": {
+    "question": "Lengkapi ayat: 'Sebab semua yang lahir dari Allah, mengalahkan dunia. Dan inilah kemenangan yang mengalahkan dunia: _____ kita.'",
+    "correct": "iman",
+    "wrong": ["kasih", "harapan", "Allah"],
+    "hint": "Ini menaklukkan dunia",
+    "explanation": "Yohanes menyatakan bahwa iman dalam Kristus adalah yang memampukan orang percaya untuk mengalahkan dunia.",
+    "full_verse": "Sebab semua yang lahir dari Allah, mengalahkan dunia. Dan inilah kemenangan yang mengalahkan dunia: iman kita.",
+    "verse_ref": "1 Yohanes 5:4"
+  },
+  "q_faith_018": {
+    "question": "Lengkapi ayat: 'Jelas bahwa tidak ada orang yang dibenarkan di hadapan Allah karena melakukan hukum Taurat, sebab \"orang yang benar akan hidup oleh _____.\"'",
+    "correct": "iman",
+    "wrong": ["kasih karunia", "perbuatan", "kasih"],
+    "hint": "Kebenaran datang melalui ini",
+    "explanation": "Paulus berpendapat bahwa pembenaran datang melalui iman, bukan melalui menaati hukum.",
+    "full_verse": "Jelas bahwa tidak ada orang yang dibenarkan di hadapan Allah karena melakukan hukum Taurat, sebab 'orang yang benar akan hidup oleh iman.'",
+    "verse_ref": "Galatia 3:11"
+  },
+  "q_faith_019": {
+    "question": "Lengkapi ayat: 'Karena iman kita mengerti, bahwa alam semesta telah dijadikan oleh firman Allah, sehingga apa yang kita lihat telah terjadi dari apa yang tidak dapat _____.'",
+    "correct": "kita lihat",
+    "wrong": ["kita ketahui", "ada", "diciptakan"],
+    "hint": "Kebalikan dari yang tidak terlihat",
+    "explanation": "Iman membantu kita memahami bahwa Allah menciptakan segala sesuatu dari ketiadaan.",
+    "full_verse": "Karena iman kita mengerti, bahwa alam semesta telah dijadikan oleh firman Allah, sehingga apa yang kita lihat telah terjadi dari apa yang tidak dapat kita lihat.",
+    "verse_ref": "Ibrani 11:3"
+  },
+  "q_faith_020": {
+    "question": "Lengkapi ayat: 'Sebab itu, kita yang dibenarkan karena iman, kita hidup dalam _____ dengan Allah oleh karena Tuhan kita, Yesus Kristus.'",
+    "correct": "damai sejahtera",
+    "wrong": ["kehidupan", "harapan", "sukacita"],
+    "hint": "Iman membawa rekonsiliasi dengan Allah",
+    "explanation": "Paulus menyatakan bahwa pembenaran oleh iman menghasilkan damai sejahtera dengan Allah.",
+    "full_verse": "Sebab itu, kita yang dibenarkan karena iman, kita hidup dalam damai sejahtera dengan Allah oleh karena Tuhan kita, Yesus Kristus.",
+    "verse_ref": "Roma 5:1"
+  },
+  "q_faith_021": {
+    "question": "Lengkapi ayat: 'Seperti tubuh tanpa roh adalah mati, demikian jugalah iman tanpa perbuatan adalah _____.'",
+    "correct": "mati",
+    "wrong": ["lemah", "kosong", "palsu"],
+    "hint": "Iman tanpa perbuatan tidak memiliki kehidupan",
+    "explanation": "Yakobus membandingkan iman tanpa perbuatan dengan tubuh tanpa roh—tidak bernyawa.",
+    "full_verse": "Sebab seperti tubuh tanpa roh adalah mati, demikian jugalah iman tanpa perbuatan adalah mati.",
+    "verse_ref": "Yakobus 2:26"
+  },
+  "q_faith_022": {
+    "question": "Lengkapi ayat: 'Marilah kita melakukannya dengan mata yang tertuju kepada Yesus, yang memimpin kita dalam iman dan yang membawa iman kita itu kepada _____.'",
+    "correct": "kesempurnaan",
+    "wrong": ["keselamatan", "kemenangan", "kemuliaan"],
+    "hint": "Yesus menyempurnakan ini dalam kita",
+    "explanation": "Yesus adalah penggerak dan yang membawa iman kepada kesempurnaan.",
+    "full_verse": "Marilah kita melakukannya dengan mata yang tertuju kepada Yesus, yang memimpin kita dalam iman, dan yang membawa iman kita itu kepada kesempurnaan, yang dengan mengabaikan kehinaan tekun menanggung salib ganti sukacita yang disediakan bagi Dia, yang sekarang duduk di sebelah kanan takhta Allah.",
+    "verse_ref": "Ibrani 12:2"
+  },
+  "q_faith_023": {
+    "question": "Lengkapi ayat: 'Bertandinglah dalam pertandingan iman yang baik dan rebutlah hidup yang kekal. Untuk itulah engkau telah _____.'",
+    "correct": "dipanggil",
+    "wrong": ["dipilih", "diselamatkan", "diberkati"],
+    "hint": "Ini berlangsung selamanya",
+    "explanation": "Paulus mendorong Timotius untuk bertanding untuk iman dan meraih hidup yang kekal.",
+    "full_verse": "Bertandinglah dalam pertandingan iman yang baik dan rebutlah hidup yang kekal. Untuk itulah engkau telah dipanggil dan telah mengucapkan pengakuan yang baik di depan banyak saksi.",
+    "verse_ref": "1 Timotius 6:12"
+  },
+  "q_faith_024": {
+    "question": "Lengkapi ayat: 'Kamu telah menerima Kristus Yesus, Tuhan kita. Karena itu hendaklah hidupmu tetap di dalam Dia. Hendaklah kamu berakar di dalam Dia dan dibangun di atas Dia, hendaklah kamu bertambah teguh dalam iman yang telah diajarkan kepadamu, dan hendaklah hatimu melimpah dengan _____.'",
+    "correct": "syukur",
+    "wrong": ["sukacita", "kasih", "harapan"],
+    "hint": "Rasa terima kasih harus melimpah",
+    "explanation": "Paulus mendesak orang percaya untuk tetap berakar dalam Kristus, bertumbuh dalam iman dengan hati yang bersyukur.",
+    "full_verse": "Kamu telah menerima Kristus Yesus, Tuhan kita. Karena itu hendaklah hidupmu tetap di dalam Dia. Hendaklah kamu berakar di dalam Dia dan dibangun di atas Dia, hendaklah kamu bertambah teguh dalam iman yang telah diajarkan kepadamu, dan hendaklah hatimu melimpah dengan syukur.",
+    "verse_ref": "Kolose 2:6-7"
+  },
+  "q_faith_025": {
+    "question": "Lengkapi ayat: 'Berjaga-jagalah! Berdirilah dengan teguh dalam iman! Bersikaplah seperti laki-laki! Jadilah _____!'",
+    "correct": "kuat",
+    "wrong": ["berani", "gagah", "setia"],
+    "hint": "Kebalikan dari lemah",
+    "explanation": "Paulus memberikan empat perintah untuk kewaspadaan dan kekuatan rohani.",
+    "full_verse": "Berjaga-jagalah! Berdirilah dengan teguh dalam iman! Bersikaplah seperti laki-laki! Jadilah kuat!",
+    "verse_ref": "1 Korintus 16:13"
+  },
+  "q_faith_026": {
+    "question": "Lengkapi ayat: 'Dan berada dalam Dia bukan dengan kebenaranku sendiri karena mentaati hukum Taurat, melainkan dengan kebenaran karena kepercayaan kepada _____.'",
+    "correct": "Kristus",
+    "wrong": ["Allah", "Yesus", "Tuhan"],
+    "hint": "Iman Paulus adalah pada pribadi ini",
+    "explanation": "Paulus menginginkan kebenaran yang datang melalui iman dalam Kristus, bukan melalui hukum.",
+    "full_verse": "Dan berada dalam Dia bukan dengan kebenaranku sendiri karena mentaati hukum Taurat, melainkan dengan kebenaran karena kepercayaan kepada Kristus, yaitu kebenaran yang Allah anugerahkan berdasarkan kepercayaan.",
+    "verse_ref": "Filipi 3:9"
+  },
+  "q_faith_027": {
+    "question": "Lengkapi ayat: 'Karena kami yakin, bahwa manusia dibenarkan karena iman, dan bukan karena melakukan hukum _____.'",
+    "correct": "Taurat",
+    "wrong": ["manusia", "dunia", "diri"],
+    "hint": "Iman membenarkan tanpa ini",
+    "explanation": "Paulus berpendapat bahwa pembenaran datang melalui iman, bukan melalui menaati hukum.",
+    "full_verse": "Karena kami yakin, bahwa manusia dibenarkan karena iman, dan bukan karena melakukan hukum Taurat.",
+    "verse_ref": "Roma 3:28"
+  },
+  "q_faith_028": {
+    "question": "Lengkapi ayat: 'Sebab dalam Kristus Yesus hal bersunat atau tidak bersunat tidak ada artinya, tetapi hanya iman yang bekerja oleh _____.'",
+    "correct": "kasih",
+    "wrong": ["perbuatan", "kelakuan", "tindakan"],
+    "hint": "Iman bekerja melalui emosi ini",
+    "explanation": "Paulus mengajarkan bahwa iman yang sejati mengekspresikan dirinya melalui kasih, bukan ritual eksternal.",
+    "full_verse": "Sebab dalam Kristus Yesus hal bersunat atau tidak bersunat tidak ada artinya, tetapi hanya iman yang bekerja oleh kasih.",
+    "verse_ref": "Galatia 5:6"
+  },
+  "q_faith_029": {
+    "question": "Lengkapi ayat: 'Tetapi barangsiapa makan dengan perasaan bimbang, ia telah dihukum, karena tidak makan berdasarkan iman. Dan segala sesuatu yang tidak berdasarkan iman adalah _____.'",
+    "correct": "dosa",
+    "wrong": ["salah", "jahat", "buruk"],
+    "hint": "Tindakan tanpa iman adalah ini",
+    "explanation": "Paulus mengajarkan bahwa apa pun yang dilakukan tanpa keyakinan iman adalah dosa.",
+    "full_verse": "Tetapi barangsiapa makan dengan perasaan bimbang, ia telah dihukum, karena tidak makan berdasarkan iman. Dan segala sesuatu yang tidak berdasarkan iman adalah dosa.",
+    "verse_ref": "Roma 14:23"
+  },
+  "q_faith_030": {
+    "question": "Lengkapi ayat: 'Karena iman, Nuh, diperingatkan tentang hal-hal yang belum kelihatan, dengan taat mempersiapkan sebuah bahtera untuk menyelamatkan _____.'",
+    "correct": "keluarganya",
+    "wrong": ["dirinya", "dunia", "umat"],
+    "hint": "Nuh membangun kapal ini",
+    "explanation": "Iman Nuh memimpin dia untuk membangun bahtera meskipun belum pernah melihat banjir.",
+    "full_verse": "Karena iman maka Nuh, diperingatkan tentang hal-hal yang belum kelihatan, dengan taat mempersiapkan sebuah bahtera untuk menyelamatkan keluarganya; dan oleh iman itu ia menghukum dunia dan menjadi ahli waris kebenaran, sesuai dengan iman.",
+    "verse_ref": "Ibrani 11:7"
+  },
+  "q_faith_031": {
+    "question": "Lengkapi ayat: 'Karena iman Abraham taat, ketika ia dipanggil untuk pergi ke negeri yang akan diterimanya menjadi milik pusakanya, lalu ia berangkat dengan tidak mengetahui tempat yang akan _____.'",
+    "correct": "ditujunya",
+    "wrong": ["ditemuinya", "dicarinya", "didatanginya"],
+    "hint": "Respons Abraham terhadap panggilan Allah",
+    "explanation": "Iman Abraham ditunjukkan melalui ketaatan, pergi tanpa mengetahui tujuannya.",
+    "full_verse": "Karena iman Abraham taat, ketika ia dipanggil untuk pergi ke negeri yang akan diterimanya menjadi milik pusakanya, lalu ia berangkat dengan tidak mengetahui tempat yang akan ditujunya.",
+    "verse_ref": "Ibrani 11:8"
+  },
+  "q_faith_032": {
+    "question": "Lengkapi ayat: 'Karena iman juga Sara, walaupun ia sudah uzur, mendapat kekuatan untuk mengandung, karena ia menganggap Dia, yang memberikan janji itu, _____.'",
+    "correct": "setia",
+    "wrong": ["benar", "berkuasa", "mahakuasa"],
+    "hint": "Sara percaya pada karakter Allah",
+    "explanation": "Iman Sara didasarkan pada kepercayaan bahwa Allah akan menepati janji-Nya.",
+    "full_verse": "Karena iman juga Sara, walaupun sudah uzur, mendapat kekuatan untuk mengandung, karena ia menganggap Dia, yang memberikan janji itu, setia.",
+    "verse_ref": "Ibrani 11:11"
+  },
+  "q_faith_033": {
+    "question": "Lengkapi ayat: 'Karena iman Abraham, waktu Allah mencobainya, mempersembahkan Ishak. Dengan rela ia mempersembahkan anak tunggalnya, kendati ia telah menerima _____.'",
+    "correct": "janji-janji",
+    "wrong": ["berkat", "anugerah", "kasih"],
+    "hint": "Abraham bersedia mengorbankan pribadi ini",
+    "explanation": "Iman Abraham diuji ketika Allah meminta dia untuk mengorbankan Ishak.",
+    "full_verse": "Karena iman Abraham, waktu Allah mencobainya, mempersembahkan Ishak. Dengan rela ia mempersembahkan anak tunggalnya, kendati ia telah menerima janji-janji.",
+    "verse_ref": "Ibrani 11:17"
+  },
+  "q_faith_034": {
+    "question": "Lengkapi ayat: 'Karena iman Musa, setelah dewasa, menolak disebut anak _____.'",
+    "correct": "putri Firaun",
+    "wrong": ["raja Mesir", "penguasa", "Rameses"],
+    "hint": "Penguasa Mesir",
+    "explanation": "Musa memilih untuk diidentifikasi dengan umat Allah daripada kerajaan Mesir.",
+    "full_verse": "Karena iman Musa, setelah dewasa, menolak disebut anak putri Firaun. Ia lebih suka menderita sengsara bersama-sama dengan umat Allah dari pada untuk sementara menikmati kesenangan dari dosa.",
+    "verse_ref": "Ibrani 11:24-25"
+  },
+  "q_faith_035": {
+    "question": "Lengkapi ayat: 'Karena iman bangsa Israel menyeberangi Laut Merah seperti menyeberangi tanah kering, sedangkan orang-orang Mesir mati _____.'",
+    "correct": "lemas",
+    "wrong": ["tenggelam", "binasa", "hilang"],
+    "hint": "Orang Mesir binasa di dalam air",
+    "explanation": "Iman Israel memungkinkan mereka menyeberangi Laut Merah sementara orang Mesir yang mengejar tenggelam.",
+    "full_verse": "Karena iman mereka menyeberangi Laut Merah seperti menyeberangi tanah kering, sedangkan orang-orang Mesir mati lemas ketika mereka mencoba menyeberanginya.",
+    "verse_ref": "Ibrani 11:29"
+  },
+  "q_faith_036": {
+    "question": "Lengkapi ayat: 'Karena iman tembok-tembok Yerikho runtuh, sesudah dikitari _____ hari lamanya.'",
+    "correct": "tujuh",
+    "wrong": ["enam", "tiga", "empat puluh"],
+    "hint": "Angka yang signifikan dalam Kitab Suci",
+    "explanation": "Iman dan ketaatan Israel dalam mengitari Yerikho menyebabkan temboknya runtuh.",
+    "full_verse": "Karena iman tembok-tembok Yerikho runtuh, sesudah dikitari tujuh hari lamanya.",
+    "verse_ref": "Ibrani 11:30"
+  },
+  "q_faith_037": {
+    "question": "Lengkapi ayat: 'Karena iman Rahab, perempuan sundal itu, tidak turut binasa beserta orang-orang yang tidak taat, sebab ia telah menyambut pengintai-pengintai dengan _____.'",
+    "correct": "damai",
+    "wrong": ["sukacita", "kebaikan", "kasih"],
+    "hint": "Mereka yang tidak taat",
+    "explanation": "Iman Rahab menyelamatkannya ketika Yerikho dihancurkan.",
+    "full_verse": "Karena iman Rahab, perempuan sundal itu, tidak turut binasa beserta orang-orang yang tidak taat, sebab ia telah menyambut pengintai-pengintai itu dengan damai.",
+    "verse_ref": "Ibrani 11:31"
+  },
+  "q_faith_038": {
+    "question": "Lengkapi ayat: 'Rasul-rasul itu berkata kepada Tuhan: \"Tambahkanlah iman _____!\"'",
+    "correct": "kami",
+    "wrong": ["kami semua", "kita", "mereka"],
+    "hint": "Para murid meminta lebih banyak dari ini",
+    "explanation": "Para rasul menyadari kebutuhan mereka akan iman yang lebih besar dan meminta Yesus untuk menambahkannya.",
+    "full_verse": "Rasul-rasul itu berkata kepada Tuhan: 'Tambahkanlah iman kami!' Jawab Tuhan: 'Kalau sekiranya kamu mempunyai iman sebesar biji sesawi saja, kamu dapat berkata kepada pohon ara ini: Tercabutlah engkau dan tertanamlah di laut, dan pohon itu akan taat kepadamu.'",
+    "verse_ref": "Lukas 17:5-6"
+  },
+  "q_faith_039": {
+    "question": "Lengkapi ayat: 'Mendengar itu Yesus heran dan berkata kepada mereka yang mengikut Dia: \"Aku berkata kepadamu, sesungguhnya iman sebesar ini tidak pernah Aku jumpai pada seorang pun di antara orang _____!\"'",
+    "correct": "Israel",
+    "wrong": ["Yahudi", "percaya", "benar"],
+    "hint": "Yesus terkesan oleh kualitas ini",
+    "explanation": "Yesus takjub pada iman luar biasa perwira dalam otoritas-Nya.",
+    "full_verse": "Mendengar itu Yesus heran dan berkata kepada mereka yang mengikut Dia: 'Aku berkata kepadamu, sesungguhnya iman sebesar ini tidak pernah Aku jumpai pada seorang pun di antara orang Israel!'",
+    "verse_ref": "Matius 8:10"
+  },
+  "q_faith_040": {
+    "question": "Lengkapi ayat: 'Yesus berpaling dan melihat perempuan itu, lalu berkata: \"Teguhkanlah hatimu, hai anak-Ku, imanmu telah _____ engkau.\"'",
+    "correct": "menyelamatkan",
+    "wrong": ["menyembuhkan", "menolong", "memberkati"],
+    "hint": "Perempuan itu disembuhkan",
+    "explanation": "Yesus mengaitkan kesembuhan perempuan itu dengan imannya.",
+    "full_verse": "Yesus berpaling dan melihat perempuan itu, lalu berkata: 'Teguhkanlah hatimu, hai anak-Ku, imanmu telah menyelamatkan engkau.' Maka sembuhlah perempuan itu sejak saat itu.",
+    "verse_ref": "Matius 9:22"
+  },
+  "q_faith_041": {
+    "question": "Lengkapi ayat: 'Maka Yesus menjawab dan berkata kepadanya: \"Hai ibu, besar imanmu, maka jadilah _____ kepadamu seperti yang kaukehendaki.\"'",
+    "correct": "kepadamu",
+    "wrong": ["terkabul", "terjawab", "terpenuhi"],
+    "hint": "Yesus memberikan apa yang dia minta",
+    "explanation": "Yesus memuji iman besar perempuan Kanaan dan mengabulkan permintaannya.",
+    "full_verse": "Maka Yesus menjawab dan berkata kepadanya: 'Hai ibu, besar imanmu, maka jadilah kepadamu seperti yang kaukehendaki.' Dan seketika itu juga anak perempuannya sembuh.",
+    "verse_ref": "Matius 15:28"
+  },
+  "q_faith_042": {
+    "question": "Lengkapi ayat: 'Kata Yesus kepada perempuan itu: \"Imanmu telah menyelamatkan engkau, pergilah dengan _____!\"'",
+    "correct": "selamat",
+    "wrong": ["sukacita", "harapan", "kasih"],
+    "hint": "Yesus mengirimnya pergi dengan berkat ini",
+    "explanation": "Yesus meyakinkan perempuan berdosa bahwa imannya telah membawa keselamatan dan damai.",
+    "full_verse": "Kata Yesus kepada perempuan itu: 'Imanmu telah menyelamatkan engkau, pergilah dengan selamat!'",
+    "verse_ref": "Lukas 7:50"
+  },
+  "q_faith_043": {
+    "question": "Lengkapi ayat: 'Kata Yesus kepadanya: \"Hai anak-Ku, imanmu telah menyelamatkan engkau. Pergilah dengan _____!\"'",
+    "correct": "selamat",
+    "wrong": ["sukacita", "harapan", "kasih"],
+    "hint": "Yesus memberkati kepergiannya",
+    "explanation": "Yesus menyatakan bahwa iman perempuan itu telah menyembuhkannya dan memberkatinya dengan damai.",
+    "full_verse": "Kata Yesus kepadanya: 'Hai anak-Ku, imanmu telah menyelamatkan engkau. Pergilah dengan selamat!'",
+    "verse_ref": "Lukas 8:48"
+  },
+  "q_faith_044": {
+    "question": "Lengkapi ayat: 'Dan karena percaya dalam nama-Nya, maka nama Yesus itu telah menguatkan orang yang kamu lihat dan kenal ini; dan iman yang datang oleh Yesus itu telah memberikan kesembuhan _____ kepadanya di hadapan kamu sekalian.'",
+    "correct": "sepenuhnya",
+    "wrong": ["lengkap", "total", "sempurna"],
+    "hint": "Orang lumpuh disembuhkan",
+    "explanation": "Petrus menjelaskan bahwa iman dalam nama Yesus menyembuhkan orang lumpuh di pintu gerbang bait Allah.",
+    "full_verse": "Dan karena percaya dalam nama-Nya, maka nama Yesus itu telah menguatkan orang yang kamu lihat dan kenal ini; dan iman yang datang oleh Yesus itu telah memberikan kesembuhan sepenuhnya kepadanya di hadapan kamu sekalian.",
+    "verse_ref": "Kisah Para Rasul 3:16"
+  },
+  "q_faith_045": {
+    "question": "Lengkapi ayat: 'Sebab apakah dikatakan oleh nas Kitab Suci? \"Lalu percayalah Abraham kepada Tuhan, dan Tuhan memperhitungkan hal itu kepadanya sebagai _____.\"'",
+    "correct": "kebenaran",
+    "wrong": ["iman", "kekudusan", "keadilan"],
+    "hint": "Kepercayaan Abraham diperhitungkan sebagai ini",
+    "explanation": "Paulus mengutip Kejadian untuk menunjukkan bahwa Abraham dibenarkan melalui iman, bukan perbuatan.",
+    "full_verse": "Sebab apakah dikatakan oleh nas Kitab Suci? 'Lalu percayalah Abraham kepada Tuhan, dan Tuhan memperhitungkan hal itu kepadanya sebagai kebenaran.'",
+    "verse_ref": "Roma 4:3"
+  },
+  "q_faith_046": {
+    "question": "Lengkapi ayat: 'Sebab jika kamu mengaku dengan mulutmu, bahwa Yesus adalah Tuhan, dan percaya dalam hatimu, bahwa Allah telah membangkitkan Dia dari antara orang mati, maka kamu akan _____.'",
+    "correct": "diselamatkan",
+    "wrong": ["diberkati", "diampuni", "disembuhkan"],
+    "hint": "Pengakuan dan kepercayaan menghasilkan ini",
+    "explanation": "Paulus memberikan syarat sederhana untuk keselamatan: mengaku Yesus sebagai Tuhan dan percaya pada kebangkitan-Nya.",
+    "full_verse": "Sebab jika kamu mengaku dengan mulutmu, bahwa Yesus adalah Tuhan, dan percaya dalam hatimu, bahwa Allah telah membangkitkan Dia dari antara orang mati, maka kamu akan diselamatkan.",
+    "verse_ref": "Roma 10:9"
+  },
+  "q_faith_047": {
+    "question": "Lengkapi ayat: 'Dalam segala keadaan pergunakanlah perisai iman, yang dapat memadamkan semua panah api dari si _____.'",
+    "correct": "jahat",
+    "wrong": ["musuh", "setan", "iblis"],
+    "hint": "Senjata Setan seperti proyektil ini",
+    "explanation": "Paulus menggambarkan iman sebagai perisai yang melindungi dari serangan Setan.",
+    "full_verse": "Dalam segala keadaan pergunakanlah perisai iman, sebagai perisai, yang dapat memadamkan semua panah api dari si jahat.",
+    "verse_ref": "Efesus 6:16"
+  },
+  "q_faith_048": {
+    "question": "Lengkapi ayat: 'Tetapi kita, yang adalah orang-orang siang, haruslah sadar dan berbaju zirah iman dan kasih serta berketopong pengharapan _____.'",
+    "correct": "keselamatan",
+    "wrong": ["hidup", "abadi", "kekal"],
+    "hint": "Baju zirah yang melindungi kepala",
+    "explanation": "Paulus menggunakan citra baju zirah untuk menggambarkan perlindungan rohani iman, kasih, dan harapan.",
+    "full_verse": "Tetapi kita, yang adalah orang-orang siang, haruslah sadar dan berbaju zirah iman dan kasih serta berketopong pengharapan keselamatan.",
+    "verse_ref": "1 Tesalonika 5:8"
+  },
+  "q_faith_049": {
+    "question": "Lengkapi ayat: 'Aku telah mengakhiri pertandingan yang baik, aku telah mencapai garis akhir dan aku telah memelihara _____.'",
+    "correct": "iman",
+    "wrong": ["harapan", "jalan", "firman"],
+    "hint": "Paulus menjaga ini sepanjang hidupnya",
+    "explanation": "Paulus merenungkan hidupnya, menyatakan bahwa ia telah tetap setia sampai akhir.",
+    "full_verse": "Aku telah mengakhiri pertandingan yang baik, aku telah mencapai garis akhir dan aku telah memelihara iman.",
+    "verse_ref": "2 Timotius 4:7"
+  },
+  "q_faith_050": {
+    "question": "Lengkapi ayat: 'Karena kamu meraih tujuan imanmu, yaitu _____ jiwamu.'",
+    "correct": "keselamatan",
+    "wrong": ["kehidupan", "kesembuhan", "pembebasan"],
+    "hint": "Iman menghasilkan penyelamatan bagian ini dari kita",
+    "explanation": "Petrus mendorong orang percaya bahwa tujuan akhir iman adalah keselamatan jiwa mereka.",
+    "full_verse": "Karena kamu meraih tujuan imanmu, yaitu keselamatan jiwamu.",
+    "verse_ref": "1 Petrus 1:9"
+  }
+}

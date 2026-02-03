@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_salvation_001",
+      "question": "Complete o espaço em branco: 'Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a _____ eterna.'",
+      "correct": "vida",
+      "wrong": ["paz", "alegria", "salvação"],
+      "hint": "Isto é o que dura para sempre",
+      "explanation": "O amor de Deus providenciou o dom da vida eterna através da fé em Jesus.",
+      "full_verse": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.",
+      "verse_ref": "João 3:16"
+    },
+    {
+      "id": "q_salvation_002",
+      "question": "Complete o espaço em branco: 'Se, com a tua boca, confessares ao Senhor Jesus e, em teu coração, creres que Deus o ressuscitou dos mortos, serás _____.'",
+      "correct": "salvo",
+      "wrong": ["abençoado", "perdoado", "curado"],
+      "hint": "Isto significa resgatado do pecado",
+      "explanation": "A salvação vem através da confissão de Jesus como Senhor e crença em Sua ressurreição.",
+      "full_verse": "Se, com a tua boca, confessares ao Senhor Jesus e, em teu coração, creres que Deus o ressuscitou dos mortos, serás salvo.",
+      "verse_ref": "Romanos 10:9"
+    },
+    {
+      "id": "q_salvation_003",
+      "question": "Complete o espaço em branco: 'Porque pela graça sois salvos, por meio da fé; e isso não vem de vós; é dom de Deus. Não vem das _____, para que ninguém se glorie.'",
+      "correct": "obras",
+      "wrong": ["ações", "atitudes", "méritos"],
+      "hint": "Estas são ações ou feitos que fazemos",
+      "explanation": "A salvação é um dom gratuito de Deus, não conquistado por nossos próprios esforços.",
+      "full_verse": "Porque pela graça sois salvos, por meio da fé; e isso não vem de vós; é dom de Deus. Não vem das obras, para que ninguém se glorie.",
+      "verse_ref": "Efésios 2:8-9"
+    },
+    {
+      "id": "q_salvation_004",
+      "question": "Complete o espaço em branco: 'E em nenhum outro há salvação, porque também debaixo do céu nenhum outro _____ há, dado entre os homens, pelo qual devamos ser salvos.'",
+      "correct": "nome",
+      "wrong": ["caminho", "via", "esperança"],
+      "hint": "Isto representa a identidade de uma pessoa",
+      "explanation": "Jesus Cristo é a única fonte de salvação para a humanidade.",
+      "full_verse": "E em nenhum outro há salvação, porque também debaixo do céu nenhum outro nome há, dado entre os homens, pelo qual devamos ser salvos.",
+      "verse_ref": "Atos 4:12"
+    },
+    {
+      "id": "q_salvation_005",
+      "question": "Complete o espaço em branco: 'Disse-lhe Jesus: Eu sou o caminho, e a verdade, e a vida. Ninguém vem ao Pai senão por _____.'",
+      "correct": "mim",
+      "wrong": ["fé", "Ele", "graça"],
+      "hint": "Jesus está se referindo a Si mesmo",
+      "explanation": "Jesus é o caminho exclusivo para Deus Pai.",
+      "full_verse": "Disse-lhe Jesus: Eu sou o caminho, e a verdade, e a vida. Ninguém vem ao Pai senão por mim.",
+      "verse_ref": "João 14:6"
+    },
+    {
+      "id": "q_salvation_006",
+      "question": "Complete o espaço em branco: 'Porque o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna, por Cristo Jesus, nosso _____.'",
+      "correct": "Senhor",
+      "wrong": ["Salvador", "Rei", "Mestre"],
+      "hint": "Este título mostra a autoridade de Jesus",
+      "explanation": "O pecado leva à morte, mas Deus oferece vida eterna através de Jesus.",
+      "full_verse": "Porque o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna, por Cristo Jesus, nosso Senhor.",
+      "verse_ref": "Romanos 6:23"
+    },
+    {
+      "id": "q_salvation_007",
+      "question": "Complete o espaço em branco: 'E eles disseram: Crê no Senhor Jesus Cristo e serás salvo, tu e a tua _____.'",
+      "correct": "casa",
+      "wrong": ["família", "filhos", "povo"],
+      "hint": "Isto se refere a todos que vivem em seu lar",
+      "explanation": "A fé em Jesus traz salvação que pode impactar famílias inteiras.",
+      "full_verse": "E eles disseram: Crê no Senhor Jesus Cristo e serás salvo, tu e a tua casa.",
+      "verse_ref": "Atos 16:31"
+    },
+    {
+      "id": "q_salvation_008",
+      "question": "Complete o espaço em branco: 'Não pelas obras de justiça que houvéssemos feito, mas, segundo a sua _____, nos salvou pela lavagem da regeneração e da renovação do Espírito Santo.'",
+      "correct": "misericórdia",
+      "wrong": ["graça", "amor", "bondade"],
+      "hint": "Esta é a compaixão mostrada a quem não merece",
+      "explanation": "Nossa salvação é baseada na misericórdia de Deus, não em nossa própria justiça.",
+      "full_verse": "Não pelas obras de justiça que houvéssemos feito, mas, segundo a sua misericórdia, nos salvou pela lavagem da regeneração e da renovação do Espírito Santo.",
+      "verse_ref": "Tito 3:5"
+    },
+    {
+      "id": "q_salvation_009",
+      "question": "Complete o espaço em branco: 'Mas a todos quantos o receberam deu-lhes o poder de serem feitos _____ de Deus: aos que creem no seu nome.'",
+      "correct": "filhos",
+      "wrong": ["servos", "seguidores", "discípulos"],
+      "hint": "Isto descreve um relacionamento familiar",
+      "explanation": "Crer em Jesus nos dá o direito de nos tornarmos parte da família de Deus.",
+      "full_verse": "Mas a todos quantos o receberam deu-lhes o poder de serem feitos filhos de Deus: aos que creem no seu nome.",
+      "verse_ref": "João 1:12"
+    },
+    {
+      "id": "q_salvation_010",
+      "question": "Complete o espaço em branco: 'Mas Deus prova o seu amor para conosco em que Cristo morreu por nós, sendo nós ainda _____.'",
+      "correct": "pecadores",
+      "wrong": ["perdidos", "inimigos", "fracos"],
+      "hint": "Isto descreve pessoas que fizeram errado",
+      "explanation": "O amor de Deus é mostrado em que Cristo morreu por nós apesar de nossa pecaminosidade.",
+      "full_verse": "Mas Deus prova o seu amor para conosco em que Cristo morreu por nós, sendo nós ainda pecadores.",
+      "verse_ref": "Romanos 5:8"
+    },
+    {
+      "id": "q_salvation_011",
+      "question": "Complete o espaço em branco: 'Porque Deus enviou o seu Filho ao mundo não para que condenasse o mundo, mas para que o mundo fosse _____ por ele.'",
+      "correct": "salvo",
+      "wrong": ["julgado", "redimido", "curado"],
+      "hint": "Este é o propósito da vinda de Jesus",
+      "explanation": "Jesus veio não para condenar, mas para resgatar o mundo.",
+      "full_verse": "Porque Deus enviou o seu Filho ao mundo não para que condenasse o mundo, mas para que o mundo fosse salvo por ele.",
+      "verse_ref": "João 3:17"
+    },
+    {
+      "id": "q_salvation_012",
+      "question": "Complete o espaço em branco: 'Na verdade, na verdade vos digo que quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna e não entrará em condenação, mas passou da morte para a _____.'",
+      "correct": "vida",
+      "wrong": ["glória", "paz", "liberdade"],
+      "hint": "Este é o oposto da morte",
+      "explanation": "Crer em Jesus significa passar da morte espiritual para a vida eterna.",
+      "full_verse": "Na verdade, na verdade vos digo que quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna e não entrará em condenação, mas passou da morte para a vida.",
+      "verse_ref": "João 5:24"
+    },
+    {
+      "id": "q_salvation_013",
+      "question": "Complete o espaço em branco: 'Na verdade, na verdade vos digo que aquele que _____ em mim tem a vida eterna.'",
+      "correct": "crê",
+      "wrong": ["obedece", "segue", "ora"],
+      "hint": "Isto significa ter fé",
+      "explanation": "A vida eterna vem através da crença em Jesus.",
+      "full_verse": "Na verdade, na verdade vos digo que aquele que crê em mim tem a vida eterna.",
+      "verse_ref": "João 6:47"
+    },
+    {
+      "id": "q_salvation_014",
+      "question": "Complete o espaço em branco: 'Eu sou a porta; se alguém entrar por mim, salvar-se-á, e entrará, e sairá, e achará _____.'",
+      "correct": "pastagens",
+      "wrong": ["descanso", "paz", "vida"],
+      "hint": "Este é o lugar onde as ovelhas pastam",
+      "explanation": "Jesus é a entrada para a salvação e o alimento espiritual.",
+      "full_verse": "Eu sou a porta; se alguém entrar por mim, salvar-se-á, e entrará, e sairá, e achará pastagens.",
+      "verse_ref": "João 10:9"
+    },
+    {
+      "id": "q_salvation_015",
+      "question": "Complete o espaço em branco: 'E dou-lhes a vida eterna, e nunca hão de _____; e ninguém as arrebatará das minhas mãos.'",
+      "correct": "perecer",
+      "wrong": ["morrer", "cair", "falhar"],
+      "hint": "Isto significa ser destruído",
+      "explanation": "Jesus garante segurança eterna para Seus seguidores.",
+      "full_verse": "E dou-lhes a vida eterna, e nunca hão de perecer; e ninguém as arrebatará das minhas mãos.",
+      "verse_ref": "João 10:28"
+    },
+    {
+      "id": "q_salvation_016",
+      "question": "Complete o espaço em branco: 'E acontecerá que todo aquele que invocar o nome do Senhor será _____.'",
+      "correct": "salvo",
+      "wrong": ["abençoado", "ouvido", "perdoado"],
+      "hint": "Isto significa resgatado do pecado",
+      "explanation": "A salvação está disponível a todos que invocam o Senhor.",
+      "full_verse": "E acontecerá que todo aquele que invocar o nome do Senhor será salvo.",
+      "verse_ref": "Atos 2:21"
+    },
+    {
+      "id": "q_salvation_017",
+      "question": "Complete o espaço em branco: 'Porque não me envergonho do evangelho de Cristo, pois é o poder de Deus para salvação de todo aquele que _____; primeiro do judeu e também do grego.'",
+      "correct": "crê",
+      "wrong": ["obedece", "arrepende", "segue"],
+      "hint": "Isto significa ter fé",
+      "explanation": "O evangelho é a mensagem poderosa de Deus de salvação através da fé.",
+      "full_verse": "Porque não me envergonho do evangelho de Cristo, pois é o poder de Deus para salvação de todo aquele que crê; primeiro do judeu e também do grego.",
+      "verse_ref": "Romanos 1:16"
+    },
+    {
+      "id": "q_salvation_018",
+      "question": "Complete o espaço em branco: 'Porque todos pecaram e destituídos estão da glória de Deus, sendo justificados gratuitamente pela sua _____, pela redenção que há em Cristo Jesus.'",
+      "correct": "graça",
+      "wrong": ["misericórdia", "amor", "poder"],
+      "hint": "Este é o favor imerecido",
+      "explanation": "Todos pecaram, mas a justificação é dada gratuitamente pela graça de Deus.",
+      "full_verse": "Porque todos pecaram e destituídos estão da glória de Deus, sendo justificados gratuitamente pela sua graça, pela redenção que há em Cristo Jesus.",
+      "verse_ref": "Romanos 3:23-24"
+    },
+    {
+      "id": "q_salvation_019",
+      "question": "Complete o espaço em branco: 'Logo, muito mais agora, sendo justificados pelo seu sangue, seremos por ele salvos da _____.'",
+      "correct": "ira",
+      "wrong": ["condenação", "punição", "juízo"],
+      "hint": "Esta é a justa indignação de Deus contra o pecado",
+      "explanation": "O sangue de Cristo nos salva da ira que merecemos.",
+      "full_verse": "Logo, muito mais agora, sendo justificados pelo seu sangue, seremos por ele salvos da ira.",
+      "verse_ref": "Romanos 5:9"
+    },
+    {
+      "id": "q_salvation_020",
+      "question": "Complete o espaço em branco: 'Portanto, agora, nenhuma _____ há para os que estão em Cristo Jesus.'",
+      "correct": "condenação",
+      "wrong": ["juízo", "punição", "culpa"],
+      "hint": "Isto significa uma declaração de culpa",
+      "explanation": "Aqueles em Cristo estão livres da sentença do pecado.",
+      "full_verse": "Portanto, agora, nenhuma condenação há para os que estão em Cristo Jesus.",
+      "verse_ref": "Romanos 8:1"
+    },
+    {
+      "id": "q_salvation_021",
+      "question": "Complete o espaço em branco: 'Porque todo aquele que invocar o _____ do Senhor será salvo.'",
+      "correct": "nome",
+      "wrong": ["poder", "graça", "misericórdia"],
+      "hint": "Isto representa a identidade de Deus",
+      "explanation": "Invocar o nome do Senhor traz salvação.",
+      "full_verse": "Porque todo aquele que invocar o nome do Senhor será salvo.",
+      "verse_ref": "Romanos 10:13"
+    },
+    {
+      "id": "q_salvation_022",
+      "question": "Complete o espaço em branco: 'Assim que, se alguém está em Cristo, nova criatura é: as coisas velhas já passaram; eis que tudo se fez _____.'",
+      "correct": "novo",
+      "wrong": ["vida", "esperança", "mudança"],
+      "hint": "Este é o oposto de velho",
+      "explanation": "Em Cristo, nos tornamos criaturas completamente novas.",
+      "full_verse": "Assim que, se alguém está em Cristo, nova criatura é: as coisas velhas já passaram; eis que tudo se fez novo.",
+      "verse_ref": "2 Coríntios 5:17"
+    },
+    {
+      "id": "q_salvation_023",
+      "question": "Complete o espaço em branco: 'Sabendo que o homem não é justificado pelas obras da lei, mas pela fé em Jesus Cristo, temos também crido em Jesus Cristo, para sermos justificados pela _____ em Cristo e não pelas obras da lei.'",
+      "correct": "fé",
+      "wrong": ["confiança", "esperança", "crença"],
+      "hint": "Esta é a crença confiante",
+      "explanation": "A justificação vem pela fé em Cristo, não pelo cumprimento da lei.",
+      "full_verse": "Sabendo que o homem não é justificado pelas obras da lei, mas pela fé em Jesus Cristo, temos também crido em Jesus Cristo, para sermos justificados pela fé em Cristo e não pelas obras da lei.",
+      "verse_ref": "Gálatas 2:16"
+    },
+    {
+      "id": "q_salvation_024",
+      "question": "Complete o espaço em branco: 'Em quem temos a redenção pelo seu sangue, a remissão das ofensas, segundo as riquezas da sua _____.'",
+      "correct": "graça",
+      "wrong": ["misericórdia", "amor", "glória"],
+      "hint": "Este é o favor imerecido de Deus",
+      "explanation": "A redenção e o perdão vêm através do sangue de Cristo e da abundante graça de Deus.",
+      "full_verse": "Em quem temos a redenção pelo seu sangue, a remissão das ofensas, segundo as riquezas da sua graça.",
+      "verse_ref": "Efésios 1:7"
+    },
+    {
+      "id": "q_salvation_025",
+      "question": "Complete o espaço em branco: 'O qual nos tirou da potestade das _____ e nos transportou para o Reino do Filho do seu amor, em quem temos a redenção pelo seu sangue, a saber, a remissão dos pecados.'",
+      "correct": "trevas",
+      "wrong": ["pecado", "mal", "morte"],
+      "hint": "Este é o oposto da luz",
+      "explanation": "Deus nos resgata do poder das trevas e nos traz para o reino de Cristo.",
+      "full_verse": "O qual nos tirou da potestade das trevas e nos transportou para o Reino do Filho do seu amor, em quem temos a redenção pelo seu sangue, a saber, a remissão dos pecados.",
+      "verse_ref": "Colossenses 1:13-14"
+    },
+    {
+      "id": "q_salvation_026",
+      "question": "Complete o espaço em branco: 'Esta é uma palavra fiel e digna de toda aceitação: que Cristo Jesus veio ao mundo para salvar os _____, dos quais eu sou o principal.'",
+      "correct": "pecadores",
+      "wrong": ["almas", "povos", "homens"],
+      "hint": "Estas são pessoas que fizeram errado",
+      "explanation": "Jesus veio especificamente para salvar aqueles que pecaram.",
+      "full_verse": "Esta é uma palavra fiel e digna de toda aceitação: que Cristo Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o principal.",
+      "verse_ref": "1 Timóteo 1:15"
+    },
+    {
+      "id": "q_salvation_027",
+      "question": "Complete o espaço em branco: 'Que quer que todos os homens se salvem e venham ao conhecimento da _____.'",
+      "correct": "verdade",
+      "wrong": ["evangelho", "Senhor", "salvação"],
+      "hint": "Isto é o que é real e correto",
+      "explanation": "Deus deseja que todos sejam salvos e conheçam a verdade.",
+      "full_verse": "Que quer que todos os homens se salvem e venham ao conhecimento da verdade.",
+      "verse_ref": "1 Timóteo 2:4"
+    },
+    {
+      "id": "q_salvation_028",
+      "question": "Complete o espaço em branco: 'Que nos salvou e chamou com uma santa vocação; não segundo as nossas obras, mas segundo o seu próprio propósito e _____.'",
+      "correct": "graça",
+      "wrong": ["vontade", "amor", "misericórdia"],
+      "hint": "Este é o favor imerecido",
+      "explanation": "A salvação é baseada na graça e propósito de Deus, não em nossas obras.",
+      "full_verse": "Que nos salvou e chamou com uma santa vocação; não segundo as nossas obras, mas segundo o seu próprio propósito e graça.",
+      "verse_ref": "2 Timóteo 1:9"
+    },
+    {
+      "id": "q_salvation_029",
+      "question": "Complete o espaço em branco: 'E, sendo ele consumado, veio a ser a causa de eterna salvação para todos os que lhe _____.'",
+      "correct": "obedecem",
+      "wrong": ["seguem", "confiam", "creem"],
+      "hint": "Isto significa seguir comandos",
+      "explanation": "Jesus é a fonte de salvação para aqueles que Lhe obedecem.",
+      "full_verse": "E, sendo ele consumado, veio a ser a causa de eterna salvação para todos os que lhe obedecem.",
+      "verse_ref": "Hebreus 5:9"
+    },
+    {
+      "id": "q_salvation_030",
+      "question": "Complete o espaço em branco: 'Portanto, pode também salvar perfeitamente os que por ele se chegam a Deus, vivendo sempre para _____ por eles.'",
+      "correct": "interceder",
+      "wrong": ["orar", "falar", "rogar"],
+      "hint": "Isto significa orar em favor de outros",
+      "explanation": "Jesus continuamente intercede pelos crentes perante Deus.",
+      "full_verse": "Portanto, pode também salvar perfeitamente os que por ele se chegam a Deus, vivendo sempre para interceder por eles.",
+      "verse_ref": "Hebreus 7:25"
+    },
+    {
+      "id": "q_salvation_031",
+      "question": "Complete o espaço em branco: 'Assim também Cristo, oferecendo-se uma vez, para tirar os pecados de muitos, aparecerá segunda vez, sem pecado, aos que o esperam, para a _____.'",
+      "correct": "salvação",
+      "wrong": ["paz", "glória", "vida"],
+      "hint": "Esta é a libertação do pecado",
+      "explanation": "A segunda vinda de Cristo trará salvação final ao Seu povo.",
+      "full_verse": "Assim também Cristo, oferecendo-se uma vez, para tirar os pecados de muitos, aparecerá segunda vez, sem pecado, aos que o esperam, para a salvação.",
+      "verse_ref": "Hebreus 9:28"
+    },
+    {
+      "id": "q_salvation_032",
+      "question": "Complete o espaço em branco: 'Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, que, segundo a sua grande misericórdia, nos gerou de novo para uma viva esperança, pela ressurreição de Jesus Cristo dentre os mortos, para uma herança incorruptível, incontaminável, e que se não pode _____.'",
+      "correct": "murchar",
+      "wrong": ["acabar", "corromper", "diminuir"],
+      "hint": "Isto significa perder a cor ou desaparecer",
+      "explanation": "Nossa herança celestial é eterna e imutável.",
+      "full_verse": "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, que, segundo a sua grande misericórdia, nos gerou de novo para uma viva esperança, pela ressurreição de Jesus Cristo dentre os mortos, para uma herança incorruptível, incontaminável, e que se não pode murchar.",
+      "verse_ref": "1 Pedro 1:3-4"
+    },
+    {
+      "id": "q_salvation_033",
+      "question": "Complete o espaço em branco: 'Alcançando o fim da vossa fé, a salvação da vossa _____.'",
+      "correct": "alma",
+      "wrong": ["vida", "coração", "espírito"],
+      "hint": "Esta é a parte espiritual de uma pessoa",
+      "explanation": "O objetivo final da fé é a salvação de nossas almas.",
+      "full_verse": "Alcançando o fim da vossa fé, a salvação da vossa alma.",
+      "verse_ref": "1 Pedro 1:9"
+    },
+    {
+      "id": "q_salvation_034",
+      "question": "Complete o espaço em branco: 'Levando ele mesmo em seu corpo os nossos pecados sobre o madeiro, para que, mortos para os pecados, pudéssemos viver para a justiça; e pelas suas _____ fostes sarados.'",
+      "correct": "feridas",
+      "wrong": ["sangue", "morte", "sacrifício"],
+      "hint": "Estas são lesões no corpo",
+      "explanation": "O sofrimento de Cristo na cruz traz nossa cura espiritual.",
+      "full_verse": "Levando ele mesmo em seu corpo os nossos pecados sobre o madeiro, para que, mortos para os pecados, pudéssemos viver para a justiça; e pelas suas feridas fostes sarados.",
+      "verse_ref": "1 Pedro 2:24"
+    },
+    {
+      "id": "q_salvation_035",
+      "question": "Complete o espaço em branco: 'Porque também Cristo padeceu uma vez pelos pecados, o justo pelos injustos, para levar-nos a _____.'",
+      "correct": "Deus",
+      "wrong": ["céu", "salvação", "vida"],
+      "hint": "Este é a quem Cristo nos leva",
+      "explanation": "O sofrimento de Cristo foi para nos reconciliar com Deus.",
+      "full_verse": "Porque também Cristo padeceu uma vez pelos pecados, o justo pelos injustos, para levar-nos a Deus.",
+      "verse_ref": "1 Pedro 3:18"
+    },
+    {
+      "id": "q_salvation_036",
+      "question": "Complete o espaço em branco: 'O Senhor não retarda a sua promessa, ainda que alguns a têm por tardia; mas é longânimo para convosco, não querendo que alguns se percam, senão que todos venham a _____.'",
+      "correct": "arrepender-se",
+      "wrong": ["salvar-se", "crer", "converter-se"],
+      "hint": "Isto significa mudar de ideia sobre o pecado",
+      "explanation": "Deus pacientemente espera que todos se arrependam e sejam salvos.",
+      "full_verse": "O Senhor não retarda a sua promessa, ainda que alguns a têm por tardia; mas é longânimo para convosco, não querendo que alguns se percam, senão que todos venham a arrepender-se.",
+      "verse_ref": "2 Pedro 3:9"
+    },
+    {
+      "id": "q_salvation_037",
+      "question": "Complete o espaço em branco: 'Mas, se andarmos na luz, como ele na luz está, temos comunhão uns com os outros, e o sangue de Jesus Cristo, seu Filho, nos purifica de todo o _____.'",
+      "correct": "pecado",
+      "wrong": ["culpa", "vergonha", "mal"],
+      "hint": "Isto é transgressão contra Deus",
+      "explanation": "O sangue de Jesus purifica os crentes de todo pecado.",
+      "full_verse": "Mas, se andarmos na luz, como ele na luz está, temos comunhão uns com os outros, e o sangue de Jesus Cristo, seu Filho, nos purifica de todo o pecado.",
+      "verse_ref": "1 João 1:7"
+    },
+    {
+      "id": "q_salvation_038",
+      "question": "Complete o espaço em branco: 'E vimos, e testificamos que o Pai enviou seu Filho para Salvador do _____.'",
+      "correct": "mundo",
+      "wrong": ["igreja", "povo", "nações"],
+      "hint": "Isto inclui toda a humanidade",
+      "explanation": "Jesus foi enviado para salvar o mundo inteiro.",
+      "full_verse": "E vimos, e testificamos que o Pai enviou seu Filho para Salvador do mundo.",
+      "verse_ref": "1 João 4:14"
+    },
+    {
+      "id": "q_salvation_039",
+      "question": "Complete o espaço em branco: 'E o testemunho é este: que Deus nos deu a vida eterna; e esta vida está em seu _____. Quem tem o Filho tem a vida; quem não tem o Filho de Deus não tem a vida.'",
+      "correct": "Filho",
+      "wrong": ["palavra", "graça", "espírito"],
+      "hint": "Isto se refere a Jesus",
+      "explanation": "A vida eterna é encontrada somente em Jesus Cristo.",
+      "full_verse": "E o testemunho é este: que Deus nos deu a vida eterna; e esta vida está em seu Filho. Quem tem o Filho tem a vida; quem não tem o Filho de Deus não tem a vida.",
+      "verse_ref": "1 João 5:11-12"
+    },
+    {
+      "id": "q_salvation_040",
+      "question": "Complete o espaço em branco: 'Eis que estou à porta e bato; se alguém ouvir a minha voz e abrir a porta, entrarei em sua casa e com ele cearei, e ele _____.'",
+      "correct": "comigo",
+      "wrong": ["com Deus", "com ele", "com eles"],
+      "hint": "Jesus está se referindo a Si mesmo",
+      "explanation": "Jesus nos convida a abrir nossos corações e ter comunhão com Ele.",
+      "full_verse": "Eis que estou à porta e bato; se alguém ouvir a minha voz e abrir a porta, entrarei em sua casa e com ele cearei, e ele comigo.",
+      "verse_ref": "Apocalipse 3:20"
+    },
+    {
+      "id": "q_salvation_041",
+      "question": "Complete o espaço em branco: 'Mas ele foi ferido pelas nossas transgressões e moído pelas nossas iniquidades; o castigo que nos traz a paz estava sobre ele, e, pelas suas _____, fomos sarados.'",
+      "correct": "pisaduras",
+      "wrong": ["sangue", "morte", "sofrimento"],
+      "hint": "Estas são lesões no corpo",
+      "explanation": "O sofrimento e as feridas de Cristo nos trazem cura e paz com Deus.",
+      "full_verse": "Mas ele foi ferido pelas nossas transgressões e moído pelas nossas iniquidades; o castigo que nos traz a paz estava sobre ele, e, pelas suas pisaduras, fomos sarados.",
+      "verse_ref": "Isaías 53:5"
+    },
+    {
+      "id": "q_salvation_042",
+      "question": "Complete o espaço em branco: 'Todos nós andamos desgarrados como ovelhas; cada um se desviava pelo seu caminho, mas o SENHOR fez cair sobre ele a _____ de todos nós.'",
+      "correct": "iniquidade",
+      "wrong": ["pecado", "culpa", "carga"],
+      "hint": "Esta é outra palavra para pecado ou maldade",
+      "explanation": "Cristo carregou os pecados de toda a humanidade sobre Si mesmo.",
+      "full_verse": "Todos nós andamos desgarrados como ovelhas; cada um se desviava pelo seu caminho, mas o SENHOR fez cair sobre ele a iniquidade de todos nós.",
+      "verse_ref": "Isaías 53:6"
+    },
+    {
+      "id": "q_salvation_043",
+      "question": "Complete o espaço em branco: 'Eis que a mão do SENHOR não está encolhida, para que não possa salvar; nem o seu _____ agravado, para não poder ouvir.'",
+      "correct": "ouvido",
+      "wrong": ["olho", "coração", "mão"],
+      "hint": "Esta parte do corpo é usada para escutar",
+      "explanation": "Deus é plenamente capaz de salvar e ouvir nossas orações.",
+      "full_verse": "Eis que a mão do SENHOR não está encolhida, para que não possa salvar; nem o seu ouvido agravado, para não poder ouvir.",
+      "verse_ref": "Isaías 59:1"
+    },
+    {
+      "id": "q_salvation_044",
+      "question": "Complete o espaço em branco: 'O SENHOR é a minha luz e a minha salvação; a quem temerei? O SENHOR é a _____ da minha vida; de quem me recearei?'",
+      "correct": "força",
+      "wrong": ["fortaleza", "refúgio", "escudo"],
+      "hint": "Este é um lugar fortificado de proteção",
+      "explanation": "Deus é nossa luz, salvação e fortaleza segura.",
+      "full_verse": "O SENHOR é a minha luz e a minha salvação; a quem temerei? O SENHOR é a força da minha vida; de quem me recearei?",
+      "verse_ref": "Salmo 27:1"
+    },
+    {
+      "id": "q_salvation_045",
+      "question": "Complete o espaço em branco: 'Só em Deus, ó minha alma, espera silenciosa; dele vem a minha _____.'",
+      "correct": "salvação",
+      "wrong": ["paz", "esperança", "alegria"],
+      "hint": "Esta é a libertação do perigo ou pecado",
+      "explanation": "Nossas almas encontram verdadeiro descanso somente em Deus, nossa fonte de salvação.",
+      "full_verse": "Só em Deus, ó minha alma, espera silenciosa; dele vem a minha salvação.",
+      "verse_ref": "Salmo 62:1"
+    },
+    {
+      "id": "q_salvation_046",
+      "question": "Complete o espaço em branco: 'Deus é para nós o Deus de salvação; e ao SENHOR Deus pertencem os livramentos da _____.'",
+      "correct": "morte",
+      "wrong": ["pecado", "juízo", "destruição"],
+      "hint": "Este é o fim da vida",
+      "explanation": "Deus tem poder sobre a morte e provê libertação dela.",
+      "full_verse": "Deus é para nós o Deus de salvação; e ao SENHOR Deus pertencem os livramentos da morte.",
+      "verse_ref": "Salmo 68:20"
+    },
+    {
+      "id": "q_salvation_047",
+      "question": "Complete o espaço em branco: 'O SENHOR é a minha força e o meu cântico; ele me foi por _____.'",
+      "correct": "salvação",
+      "wrong": ["escudo", "refúgio", "esperança"],
+      "hint": "Esta é a libertação do perigo ou pecado",
+      "explanation": "O próprio Deus é nossa salvação e defesa.",
+      "full_verse": "O SENHOR é a minha força e o meu cântico; ele me foi por salvação.",
+      "verse_ref": "Salmo 118:14"
+    },
+    {
+      "id": "q_salvation_048",
+      "question": "Complete o espaço em branco: 'Porque o Filho do Homem veio buscar e salvar o que se havia _____.'",
+      "correct": "perdido",
+      "wrong": ["desviado", "pecado", "afastado"],
+      "hint": "Isto descreve pessoas que estão espiritualmente desgarradas",
+      "explanation": "A missão de Jesus foi encontrar e resgatar aqueles que estão espiritualmente perdidos.",
+      "full_verse": "Porque o Filho do Homem veio buscar e salvar o que se havia perdido.",
+      "verse_ref": "Lucas 19:10"
+    },
+    {
+      "id": "q_salvation_049",
+      "question": "Complete o espaço em branco: 'E ela dará à luz um filho, e lhe porás o nome de Jesus, porque ele salvará o seu _____ dos seus pecados.'",
+      "correct": "povo",
+      "wrong": ["filhos", "seguidores", "igreja"],
+      "hint": "Isto se refere àqueles que pertencem a Ele",
+      "explanation": "O nome Jesus significa 'o Senhor salva' porque Ele salva Seu povo do pecado.",
+      "full_verse": "E ela dará à luz um filho, e lhe porás o nome de Jesus, porque ele salvará o seu povo dos seus pecados.",
+      "verse_ref": "Mateus 1:21"
+    },
+    {
+      "id": "q_salvation_050",
+      "question": "Complete o espaço em branco: 'Quem crer e for batizado será salvo; mas quem não crer será _____.'",
+      "correct": "condenado",
+      "wrong": ["perdido", "julgado", "punido"],
+      "hint": "Isto significa declarado culpado",
+      "explanation": "A fé leva à salvação, enquanto a incredulidade leva à condenação.",
+      "full_verse": "Quem crer e for batizado será salvo; mas quem não crer será condenado.",
+      "verse_ref": "Marcos 16:16"
+    }
+  ]
+}

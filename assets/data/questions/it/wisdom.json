@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_wisdom_001",
+      "question": "Completa il versetto: 'Se qualcuno di voi manca di saggezza, la chieda a Dio che dona a tutti generosamente senza _____; e gli sarà data.'",
+      "correct": "rinfacciare",
+      "wrong": ["biasimare", "criticare", "giudicare"],
+      "hint": "Questo significa rimproverare o condannare",
+      "explanation": "Dio dona generosamente la saggezza a chiunque la chieda senza rimprovero.",
+      "full_verse": "Se qualcuno di voi manca di saggezza, la chieda a Dio che dona a tutti generosamente senza rinfacciare; e gli sarà data.",
+      "verse_ref": "Giacomo 1:5"
+    },
+    {
+      "id": "q_wisdom_002",
+      "question": "Completa il versetto: 'Il timore del SIGNORE è il principio della _____; gli stolti disprezzano la saggezza e l'istruzione.'",
+      "correct": "scienza",
+      "wrong": ["saggezza", "comprensione", "verità"],
+      "hint": "Questo è ciò che gli stolti disprezzano insieme all'istruzione",
+      "explanation": "Il rispetto per Dio è il fondamento di ogni vera conoscenza.",
+      "full_verse": "Il timore del SIGNORE è il principio della scienza; gli stolti disprezzano la saggezza e l'istruzione.",
+      "verse_ref": "Proverbi 1:7"
+    },
+    {
+      "id": "q_wisdom_003",
+      "question": "Completa il versetto: 'Confida nel SIGNORE con tutto il cuore e non ti appoggiare sul tuo _____; riconoscilo in tutte le tue vie ed egli appianerà i tuoi sentieri.'",
+      "correct": "discernimento",
+      "wrong": ["saggezza", "conoscenza", "forza"],
+      "hint": "Questo si riferisce all'intelletto e al ragionamento umano",
+      "explanation": "Dovremmo fidarci completamente di Dio piuttosto che affidarci alla nostra limitata comprensione.",
+      "full_verse": "Confida nel SIGNORE con tutto il cuore e non ti appoggiare sul tuo discernimento; riconoscilo in tutte le tue vie ed egli appianerà i tuoi sentieri.",
+      "verse_ref": "Proverbi 3:5-6"
+    },
+    {
+      "id": "q_wisdom_004",
+      "question": "Completa il versetto: 'Il principio della saggezza è il timore del SIGNORE, e la conoscenza del Santo è _____.'",
+      "correct": "intelligenza",
+      "wrong": ["saggezza", "discernimento", "comprensione"],
+      "hint": "Questa è la capacità di comprendere profondamente",
+      "explanation": "La vera saggezza inizia con il rispetto per Dio, e conoscerLo porta intelligenza.",
+      "full_verse": "Il principio della saggezza è il timore del SIGNORE, e la conoscenza del Santo è intelligenza.",
+      "verse_ref": "Proverbi 9:10"
+    },
+    {
+      "id": "q_wisdom_005",
+      "question": "Completa il versetto: 'La parola di Cristo abiti in voi abbondantemente; istruitevi e ammonitevi gli uni gli altri con ogni saggezza, mediante salmi, inni e cantici spirituali, cantando a Dio con _____ nei vostri cuori.'",
+      "correct": "gratitudine",
+      "wrong": ["gioia", "lode", "amore"],
+      "hint": "Questa è la riconoscenza",
+      "explanation": "La parola di Cristo dovrebbe riempirci di saggezza e adorazione riconoscente.",
+      "full_verse": "La parola di Cristo abiti in voi abbondantemente; istruitevi e ammonitevi gli uni gli altri con ogni saggezza, mediante salmi, inni e cantici spirituali, cantando a Dio con gratitudine nei vostri cuori.",
+      "verse_ref": "Colossesi 3:16"
+    },
+    {
+      "id": "q_wisdom_006",
+      "question": "Completa il versetto: 'Il SIGNORE infatti dà la saggezza; dalla sua bocca provengono la scienza e l'_____.'",
+      "correct": "intelligenza",
+      "wrong": ["verità", "discernimento", "comprensione"],
+      "hint": "Questa è la capacità di comprendere",
+      "explanation": "La vera saggezza, conoscenza e intelligenza vengono tutte da Dio.",
+      "full_verse": "Il SIGNORE infatti dà la saggezza; dalla sua bocca provengono la scienza e l'intelligenza.",
+      "verse_ref": "Proverbi 2:6"
+    },
+    {
+      "id": "q_wisdom_007",
+      "question": "Completa il versetto: 'Il principio della saggezza è: acquista la _____. Sì, a costo di quanto possiedi, acquista l'intelligenza.'",
+      "correct": "saggezza",
+      "wrong": ["conoscenza", "discernimento", "comprensione"],
+      "hint": "Questo è ciò che il versetto dice di ottenere",
+      "explanation": "La saggezza è così preziosa che vale la pena perseguirla a qualsiasi costo.",
+      "full_verse": "Il principio della saggezza è: acquista la saggezza. Sì, a costo di quanto possiedi, acquista l'intelligenza.",
+      "verse_ref": "Proverbi 4:7"
+    },
+    {
+      "id": "q_wisdom_008",
+      "question": "Completa il versetto: 'Perché la saggezza offre riparo, come lo offre il denaro; ma l'eccellenza della scienza sta in questo, che la saggezza fa vivere quelli che la _____.'",
+      "correct": "possiedono",
+      "wrong": ["cercano", "amano", "seguono"],
+      "hint": "Questo verbo indica l'avere qualcosa",
+      "explanation": "La saggezza protegge e preserva coloro che la possiedono.",
+      "full_verse": "Perché la saggezza offre riparo, come lo offre il denaro; ma l'eccellenza della scienza sta in questo, che la saggezza fa vivere quelli che la possiedono.",
+      "verse_ref": "Ecclesiaste 7:12"
+    },
+    {
+      "id": "q_wisdom_009",
+      "question": "Completa il versetto: 'Il timore del SIGNORE è il principio della saggezza; hanno un buon discernimento tutti quelli che mettono in pratica i suoi _____. La sua lode dura in eterno.'",
+      "correct": "comandamenti",
+      "wrong": ["insegnamenti", "precetti", "statuti"],
+      "hint": "Queste sono le regole di Dio",
+      "explanation": "Obbedire ai comandamenti di Dio porta a una vera comprensione.",
+      "full_verse": "Il timore del SIGNORE è il principio della saggezza; hanno un buon discernimento tutti quelli che mettono in pratica i suoi comandamenti. La sua lode dura in eterno.",
+      "verse_ref": "Salmo 111:10"
+    },
+    {
+      "id": "q_wisdom_010",
+      "question": "Completa il versetto: 'Ma la saggezza che viene dall'alto è prima di tutto pura; poi pacifica, mite, conciliante, piena di misericordia e di buoni frutti, imparziale e _____.'",
+      "correct": "sincera",
+      "wrong": ["onesta", "veritiera", "genuina"],
+      "hint": "Questo significa senza ipocrisia",
+      "explanation": "La saggezza celeste ha molte caratteristiche, tra cui la purezza e la sincerità.",
+      "full_verse": "Ma la saggezza che viene dall'alto è prima di tutto pura; poi pacifica, mite, conciliante, piena di misericordia e di buoni frutti, imparziale e sincera.",
+      "verse_ref": "Giacomo 3:17"
+    },
+    {
+      "id": "q_wisdom_011",
+      "question": "Completa il versetto: 'Beato l'uomo che ha trovato la saggezza, e l'uomo che ottiene l'_____!'",
+      "correct": "intelligenza",
+      "wrong": ["conoscenza", "discernimento", "comprensione"],
+      "hint": "Questa è la capacità di comprendere",
+      "explanation": "Trovare la saggezza e l'intelligenza porta benedizione.",
+      "full_verse": "Beato l'uomo che ha trovato la saggezza, e l'uomo che ottiene l'intelligenza!",
+      "verse_ref": "Proverbi 3:13"
+    },
+    {
+      "id": "q_wisdom_012",
+      "question": "Completa il versetto: 'Figlio mio, non si allontanino mai dai tuoi occhi! Custodisci la saggezza e la riflessione! Esse saranno vita per l'anima tua, e grazia al tuo _____.'",
+      "correct": "collo",
+      "wrong": ["cuore", "spirito", "corpo"],
+      "hint": "Questa è una parte del corpo",
+      "explanation": "Dovremmo tenere strette la saggezza e la riflessione.",
+      "full_verse": "Figlio mio, non si allontanino mai dai tuoi occhi! Custodisci la saggezza e la riflessione! Esse saranno vita per l'anima tua, e grazia al tuo collo.",
+      "verse_ref": "Proverbi 3:21-22"
+    },
+    {
+      "id": "q_wisdom_013",
+      "question": "Completa il versetto: 'Acquista saggezza, acquista intelligenza; non dimenticare le parole della mia bocca e non te ne _____.'",
+      "correct": "allontanare",
+      "wrong": ["scostare", "separare", "distaccare"],
+      "hint": "Questo significa non abbandonare",
+      "explanation": "Dovremmo perseguire la saggezza e non abbandonare i suoi insegnamenti.",
+      "full_verse": "Acquista saggezza, acquista intelligenza; non dimenticare le parole della mia bocca e non te ne allontanare.",
+      "verse_ref": "Proverbi 4:5"
+    },
+    {
+      "id": "q_wisdom_014",
+      "question": "Completa il versetto: 'Poiché la saggezza vale più delle perle, e tutti gli oggetti preziosi non la _____.'",
+      "correct": "eguagliano",
+      "wrong": ["valgono", "raggiungono", "superano"],
+      "hint": "Questo significa essere pari a qualcosa",
+      "explanation": "La saggezza è più preziosa di qualsiasi tesoro terreno.",
+      "full_verse": "Poiché la saggezza vale più delle perle, e tutti gli oggetti preziosi non la eguagliano.",
+      "verse_ref": "Proverbi 8:11"
+    },
+    {
+      "id": "q_wisdom_015",
+      "question": "Completa il versetto: 'Per lo stolto è un divertimento fare il male, ma per l'uomo intelligente lo è coltivare la _____.'",
+      "correct": "saggezza",
+      "wrong": ["conoscenza", "verità", "giustizia"],
+      "hint": "Questo è ciò in cui l'uomo saggio trova gioia",
+      "explanation": "Chi ha intelligenza trova gioia nella saggezza, non nella malvagità.",
+      "full_verse": "Per lo stolto è un divertimento fare il male, ma per l'uomo intelligente lo è coltivare la saggezza.",
+      "verse_ref": "Proverbi 10:23"
+    },
+    {
+      "id": "q_wisdom_016",
+      "question": "Completa il versetto: 'Venuta la superbia, viene anche l'ignominia; ma la saggezza è con gli _____.'",
+      "correct": "umili",
+      "wrong": ["onesti", "giusti", "saggi"],
+      "hint": "Queste sono persone modeste",
+      "explanation": "L'orgoglio porta alla vergogna, mentre l'umiltà porta alla saggezza.",
+      "full_verse": "Venuta la superbia, viene anche l'ignominia; ma la saggezza è con gli umili.",
+      "verse_ref": "Proverbi 11:2"
+    },
+    {
+      "id": "q_wisdom_017",
+      "question": "Completa il versetto: 'La via dello stolto è diritta ai suoi occhi, ma chi ascolta i consigli è _____.'",
+      "correct": "saggio",
+      "wrong": ["prudente", "intelligente", "avveduto"],
+      "hint": "Questo è chi ha saggezza",
+      "explanation": "Gli stolti si fidano del proprio giudizio; i saggi cercano consiglio.",
+      "full_verse": "La via dello stolto è diritta ai suoi occhi, ma chi ascolta i consigli è saggio.",
+      "verse_ref": "Proverbi 12:15"
+    },
+    {
+      "id": "q_wisdom_018",
+      "question": "Completa il versetto: 'Dall'orgoglio non viene che contesa, ma la saggezza è con chi prende _____.'",
+      "correct": "consiglio",
+      "wrong": ["decisioni", "precauzioni", "tempo"],
+      "hint": "Questa è la guida o le raccomandazioni",
+      "explanation": "L'orgoglio causa conflitti, ma i saggi accettano il consiglio.",
+      "full_verse": "Dall'orgoglio non viene che contesa, ma la saggezza è con chi prende consiglio.",
+      "verse_ref": "Proverbi 13:10"
+    },
+    {
+      "id": "q_wisdom_019",
+      "question": "Completa il versetto: 'La donna saggia costruisce la sua casa, ma la stolta la demolisce con le proprie _____.'",
+      "correct": "mani",
+      "wrong": ["parole", "azioni", "scelte"],
+      "hint": "Queste sono parti del corpo usate per lavorare",
+      "explanation": "La saggezza costruisce mentre la stoltezza distrugge.",
+      "full_verse": "La donna saggia costruisce la sua casa, ma la stolta la demolisce con le proprie mani.",
+      "verse_ref": "Proverbi 14:1"
+    },
+    {
+      "id": "q_wisdom_020",
+      "question": "Completa il versetto: 'Il timore del SIGNORE è scuola di saggezza, e l'umiltà precede la _____.'",
+      "correct": "gloria",
+      "wrong": ["benedizione", "onore", "saggezza"],
+      "hint": "Questo è rispetto o alta considerazione",
+      "explanation": "Temere Dio ed essere umili porta alla gloria.",
+      "full_verse": "Il timore del SIGNORE è scuola di saggezza, e l'umiltà precede la gloria.",
+      "verse_ref": "Proverbi 15:33"
+    },
+    {
+      "id": "q_wisdom_021",
+      "question": "Completa il versetto: 'Acquistare saggezza è meglio che acquistare oro, e acquistare intelligenza è preferibile all'_____.'",
+      "correct": "argento",
+      "wrong": ["oro", "ricchezze", "tesoro"],
+      "hint": "Questo è un metallo prezioso",
+      "explanation": "La saggezza e l'intelligenza sono più preziose dei metalli preziosi.",
+      "full_verse": "Acquistare saggezza è meglio che acquistare oro, e acquistare intelligenza è preferibile all'argento.",
+      "verse_ref": "Proverbi 16:16"
+    },
+    {
+      "id": "q_wisdom_022",
+      "question": "Completa il versetto: 'Anche lo stolto, quando tace, passa per saggio; chi tiene chiuse le labbra è uomo _____.'",
+      "correct": "intelligente",
+      "wrong": ["prudente", "saggio", "avveduto"],
+      "hint": "Questo descrive chi ha buon senso",
+      "explanation": "Il silenzio può essere un segno di saggezza.",
+      "full_verse": "Anche lo stolto, quando tace, passa per saggio; chi tiene chiuse le labbra è uomo intelligente.",
+      "verse_ref": "Proverbi 17:28"
+    },
+    {
+      "id": "q_wisdom_023",
+      "question": "Completa il versetto: 'Il cuore dell'uomo intelligente acquista scienza, e l'orecchio dei saggi la _____.'",
+      "correct": "cerca",
+      "wrong": ["desidera", "vuole", "brama"],
+      "hint": "Questo verbo indica la ricerca attiva",
+      "explanation": "Le persone sagge cercano attivamente la conoscenza.",
+      "full_verse": "Il cuore dell'uomo intelligente acquista scienza, e l'orecchio dei saggi la cerca.",
+      "verse_ref": "Proverbi 18:15"
+    },
+    {
+      "id": "q_wisdom_024",
+      "question": "Completa il versetto: 'Chi acquista senno ama se stesso, e chi custodisce la prudenza troverà il _____.'",
+      "correct": "bene",
+      "wrong": ["successo", "favore", "benessere"],
+      "hint": "Questo è qualcosa di positivo",
+      "explanation": "Amare la saggezza porta a una vita prospera.",
+      "full_verse": "Chi acquista senno ama se stesso, e chi custodisce la prudenza troverà il bene.",
+      "verse_ref": "Proverbi 19:8"
+    },
+    {
+      "id": "q_wisdom_025",
+      "question": "Completa il versetto: 'Con la saggezza si costruisce la casa e con la prudenza la si rende _____.'",
+      "correct": "stabile",
+      "wrong": ["solida", "sicura", "forte"],
+      "hint": "Questo significa essere resa ferma",
+      "explanation": "La saggezza costruisce e la prudenza stabilisce.",
+      "full_verse": "Con la saggezza si costruisce la casa e con la prudenza la si rende stabile.",
+      "verse_ref": "Proverbi 24:3"
+    },
+    {
+      "id": "q_wisdom_026",
+      "question": "Completa il versetto: 'Io ho visto che la saggezza ha un vantaggio sulla stoltezza, come la luce ha un vantaggio sulle _____.'",
+      "correct": "tenebre",
+      "wrong": ["ombre", "notte", "oscurità"],
+      "hint": "Questo è l'opposto della luce",
+      "explanation": "La saggezza illumina come la luce rispetto alle tenebre della stoltezza.",
+      "full_verse": "Io ho visto che la saggezza ha un vantaggio sulla stoltezza, come la luce ha un vantaggio sulle tenebre.",
+      "verse_ref": "Ecclesiaste 2:13"
+    },
+    {
+      "id": "q_wisdom_027",
+      "question": "Completa il versetto: 'La saggezza rende il saggio più forte di dieci _____ che siano in una città.'",
+      "correct": "potenti",
+      "wrong": ["governanti", "re", "anziani"],
+      "hint": "Queste sono persone con autorità",
+      "explanation": "La saggezza dà più potere di molte autorità messe insieme.",
+      "full_verse": "La saggezza rende il saggio più forte di dieci potenti che siano in una città.",
+      "verse_ref": "Ecclesiaste 7:19"
+    },
+    {
+      "id": "q_wisdom_028",
+      "question": "Completa il versetto: 'Chi è come il saggio? Chi conosce la spiegazione delle cose? La saggezza di un uomo gli rischiara il volto, e la durezza del suo viso ne è _____.'",
+      "correct": "trasformata",
+      "wrong": ["cambiata", "mutata", "modificata"],
+      "hint": "Questo significa essere cambiata",
+      "explanation": "La saggezza porta un aspetto piacevole e addolcito.",
+      "full_verse": "Chi è come il saggio? Chi conosce la spiegazione delle cose? La saggezza di un uomo gli rischiara il volto, e la durezza del suo viso ne è trasformata.",
+      "verse_ref": "Ecclesiaste 8:1"
+    },
+    {
+      "id": "q_wisdom_029",
+      "question": "Completa il versetto: 'Allora io ho detto: \"La saggezza vale più della forza\"; tuttavia la saggezza del povero è disprezzata, e le sue parole non sono _____.'",
+      "correct": "ascoltate",
+      "wrong": ["ricordate", "seguite", "apprezzate"],
+      "hint": "Questo significa prestare attenzione",
+      "explanation": "Sebbene la saggezza superi la forza, il mondo spesso ignora il saggio povero.",
+      "full_verse": "Allora io ho detto: \"La saggezza vale più della forza\"; tuttavia la saggezza del povero è disprezzata, e le sue parole non sono ascoltate.",
+      "verse_ref": "Ecclesiaste 9:16"
+    },
+    {
+      "id": "q_wisdom_030",
+      "question": "Completa il versetto: 'Se il ferro perde il taglio e uno non l'affila, bisogna che raddoppi la forza; ma la saggezza ha il vantaggio di far _____.'",
+      "correct": "riuscire",
+      "wrong": ["vincere", "trionfare", "prevalere"],
+      "hint": "Questo significa avere successo",
+      "explanation": "La saggezza e l'abilità sono più efficaci della forza bruta.",
+      "full_verse": "Se il ferro perde il taglio e uno non l'affila, bisogna che raddoppi la forza; ma la saggezza ha il vantaggio di far riuscire.",
+      "verse_ref": "Ecclesiaste 10:10"
+    },
+    {
+      "id": "q_wisdom_031",
+      "question": "Completa il versetto: 'Non è forse la saggezza appannaggio degli anziani, e il discernimento proprio di una lunga _____?'",
+      "correct": "vita",
+      "wrong": ["esperienza", "età", "esistenza"],
+      "hint": "Questo è il tempo vissuto",
+      "explanation": "L'età e l'esperienza spesso portano saggezza e comprensione.",
+      "full_verse": "Non è forse la saggezza appannaggio degli anziani, e il discernimento proprio di una lunga vita?",
+      "verse_ref": "Giobbe 12:12"
+    },
+    {
+      "id": "q_wisdom_032",
+      "question": "Completa il versetto: 'E disse all'uomo: \"Ecco, temere il Signore, questa è saggezza, e fuggire il _____ è intelligenza.\"'",
+      "correct": "male",
+      "wrong": ["peccato", "malvagità", "errore"],
+      "hint": "Questo è l'opposto del bene",
+      "explanation": "La vera saggezza teme Dio ed evita il male.",
+      "full_verse": "E disse all'uomo: \"Ecco, temere il Signore, questa è saggezza, e fuggire il male è intelligenza.\"",
+      "verse_ref": "Giobbe 28:28"
+    },
+    {
+      "id": "q_wisdom_033",
+      "question": "Completa il versetto: 'La legge del SIGNORE è perfetta, essa ristora l'anima; la testimonianza del SIGNORE è veritiera, rende saggio il _____.'",
+      "correct": "semplice",
+      "wrong": ["umile", "mansueto", "giovane"],
+      "hint": "Questo descrive qualcuno di inesperto o ingenuo",
+      "explanation": "La Parola di Dio porta saggezza anche agli inesperti.",
+      "full_verse": "La legge del SIGNORE è perfetta, essa ristora l'anima; la testimonianza del SIGNORE è veritiera, rende saggio il semplice.",
+      "verse_ref": "Salmo 19:7"
+    },
+    {
+      "id": "q_wisdom_034",
+      "question": "Completa il versetto: 'La bocca del giusto esprime saggezza e la sua lingua parla con _____.'",
+      "correct": "rettitudine",
+      "wrong": ["verità", "giustizia", "bontà"],
+      "hint": "Questo significa equità e giustizia",
+      "explanation": "Le persone giuste parlano con saggezza e rettitudine.",
+      "full_verse": "La bocca del giusto esprime saggezza e la sua lingua parla con rettitudine.",
+      "verse_ref": "Salmo 37:30"
+    },
+    {
+      "id": "q_wisdom_035",
+      "question": "Completa il versetto: 'Insegnaci dunque a contare i nostri giorni, per acquistare un cuore _____.'",
+      "correct": "saggio",
+      "wrong": ["prudente", "intelligente", "puro"],
+      "hint": "Questo è ciò che otteniamo comprendendo la brevità della vita",
+      "explanation": "Riconoscere la brevità della vita ci aiuta a vivere saggiamente.",
+      "full_verse": "Insegnaci dunque a contare i nostri giorni, per acquistare un cuore saggio.",
+      "verse_ref": "Salmo 90:12"
+    },
+    {
+      "id": "q_wisdom_036",
+      "question": "Completa il versetto: 'I tuoi comandamenti mi rendono più saggio dei miei nemici, perché sono sempre con _____.'",
+      "correct": "me",
+      "wrong": ["loro", "noi", "te"],
+      "hint": "Questo pronome si riferisce a chi parla",
+      "explanation": "La Parola di Dio dà una saggezza che supera quella dei nostri avversari.",
+      "full_verse": "I tuoi comandamenti mi rendono più saggio dei miei nemici, perché sono sempre con me.",
+      "verse_ref": "Salmo 119:98"
+    },
+    {
+      "id": "q_wisdom_037",
+      "question": "Completa il versetto: 'Lo Spirito del SIGNORE riposerà su di lui: Spirito di saggezza e d'intelligenza, Spirito di consiglio e di forza, Spirito di conoscenza e di timore del _____.'",
+      "correct": "SIGNORE",
+      "wrong": ["Dio", "Altissimo", "Onnipotente"],
+      "hint": "Questo è il nome del patto di Dio",
+      "explanation": "Il Messia sarebbe stato riempito con lo Spirito di saggezza.",
+      "full_verse": "Lo Spirito del SIGNORE riposerà su di lui: Spirito di saggezza e d'intelligenza, Spirito di consiglio e di forza, Spirito di conoscenza e di timore del SIGNORE.",
+      "verse_ref": "Isaia 11:2"
+    },
+    {
+      "id": "q_wisdom_038",
+      "question": "Completa il versetto: 'Egli muta i tempi e le stagioni; depone i re e li innalza, dà la saggezza ai saggi e la scienza a quelli che hanno _____.'",
+      "correct": "intelligenza",
+      "wrong": ["umiltà", "fede", "giustizia"],
+      "hint": "Queste sono persone con buon giudizio",
+      "explanation": "Dio è la fonte di ogni saggezza e conoscenza.",
+      "full_verse": "Egli muta i tempi e le stagioni; depone i re e li innalza, dà la saggezza ai saggi e la scienza a quelli che hanno intelligenza.",
+      "verse_ref": "Daniele 2:21"
+    },
+    {
+      "id": "q_wisdom_039",
+      "question": "Completa il versetto: 'Perciò chiunque ascolta queste mie parole e le mette in pratica sarà paragonato a un uomo avveduto che ha costruito la sua casa sopra la _____.'",
+      "correct": "roccia",
+      "wrong": ["pietra", "fondamenta", "terra"],
+      "hint": "Questa è una fondazione solida",
+      "explanation": "Le persone sagge costruiscono le loro vite sugli insegnamenti di Gesù.",
+      "full_verse": "Perciò chiunque ascolta queste mie parole e le mette in pratica sarà paragonato a un uomo avveduto che ha costruito la sua casa sopra la roccia.",
+      "verse_ref": "Matteo 7:24"
+    },
+    {
+      "id": "q_wisdom_040",
+      "question": "Completa il versetto: 'Oh, profondità della ricchezza, della saggezza e della scienza di Dio! Quanto sono imperscrutabili i suoi giudizi e inesplorabili le sue _____!'",
+      "correct": "vie",
+      "wrong": ["opere", "pensieri", "strade"],
+      "hint": "Queste sono i modi di agire di Dio",
+      "explanation": "La saggezza di Dio è infinitamente profonda e al di là della comprensione umana.",
+      "full_verse": "Oh, profondità della ricchezza, della saggezza e della scienza di Dio! Quanto sono imperscrutabili i suoi giudizi e inesplorabili le sue vie!",
+      "verse_ref": "Romani 11:33"
+    },
+    {
+      "id": "q_wisdom_041",
+      "question": "Completa il versetto: 'Poiché la pazzia di Dio è più saggia degli uomini e la debolezza di Dio è più forte degli _____.'",
+      "correct": "uomini",
+      "wrong": ["potenti", "forti", "giganti"],
+      "hint": "Questo si riferisce all'umanità",
+      "explanation": "Anche la 'debolezza' di Dio supera tutta la forza umana.",
+      "full_verse": "Poiché la pazzia di Dio è più saggia degli uomini e la debolezza di Dio è più forte degli uomini.",
+      "verse_ref": "1 Corinzi 1:25"
+    },
+    {
+      "id": "q_wisdom_042",
+      "question": "Completa il versetto: 'Ed è grazie a lui che voi siete in Cristo Gesù, che da Dio è stato fatto per noi saggezza, giustizia, santificazione e _____.'",
+      "correct": "redenzione",
+      "wrong": ["salvezza", "liberazione", "libertà"],
+      "hint": "Questo è essere riscattati o salvati",
+      "explanation": "Cristo incarna la saggezza e fornisce la nostra giustizia e redenzione.",
+      "full_verse": "Ed è grazie a lui che voi siete in Cristo Gesù, che da Dio è stato fatto per noi saggezza, giustizia, santificazione e redenzione.",
+      "verse_ref": "1 Corinzi 1:30"
+    },
+    {
+      "id": "q_wisdom_043",
+      "question": "Completa il versetto: 'Tuttavia, a quelli che sono maturi esponiamo una saggezza, però non una saggezza di questo mondo né dei _____ di questo mondo che stanno per essere annientati.'",
+      "correct": "dominatori",
+      "wrong": ["potenti", "capi", "saggi"],
+      "hint": "Queste sono persone con autorità",
+      "explanation": "La saggezza di Dio differisce dalla saggezza delle autorità mondane.",
+      "full_verse": "Tuttavia, a quelli che sono maturi esponiamo una saggezza, però non una saggezza di questo mondo né dei dominatori di questo mondo che stanno per essere annientati.",
+      "verse_ref": "1 Corinzi 2:6"
+    },
+    {
+      "id": "q_wisdom_044",
+      "question": "Completa il versetto: 'Infatti la saggezza di questo mondo è pazzia davanti a Dio. Sta scritto infatti: \"Egli prende i saggi nella loro _____\".'",
+      "correct": "astuzia",
+      "wrong": ["malizia", "inganno", "furbizia"],
+      "hint": "Questa è scaltrezza o inganno astuto",
+      "explanation": "La saggezza mondana è stoltezza paragonata alla saggezza di Dio.",
+      "full_verse": "Infatti la saggezza di questo mondo è pazzia davanti a Dio. Sta scritto infatti: \"Egli prende i saggi nella loro astuzia\".",
+      "verse_ref": "1 Corinzi 3:19"
+    },
+    {
+      "id": "q_wisdom_045",
+      "question": "Completa il versetto: 'Non smetto mai di rendere grazie per voi, ricordandovi nelle mie preghiere, affinché il Dio del nostro Signore Gesù Cristo, il Padre della gloria, vi dia uno spirito di saggezza e di _____ per conoscerlo pienamente.'",
+      "correct": "rivelazione",
+      "wrong": ["comprensione", "conoscenza", "discernimento"],
+      "hint": "Questa è la rivelazione divina della verità",
+      "explanation": "Abbiamo bisogno dello Spirito di Dio per darci saggezza e rivelare la verità.",
+      "full_verse": "Non smetto mai di rendere grazie per voi, ricordandovi nelle mie preghiere, affinché il Dio del nostro Signore Gesù Cristo, il Padre della gloria, vi dia uno spirito di saggezza e di rivelazione per conoscerlo pienamente.",
+      "verse_ref": "Efesini 1:17"
+    },
+    {
+      "id": "q_wisdom_046",
+      "question": "Completa il versetto: 'Guardate dunque con cura a come vi comportate; non da stolti, ma da _____.'",
+      "correct": "saggi",
+      "wrong": ["prudenti", "accorti", "intelligenti"],
+      "hint": "Questo è l'opposto di stolti",
+      "explanation": "Dovremmo vivere con attenzione e saggezza.",
+      "full_verse": "Guardate dunque con cura a come vi comportate; non da stolti, ma da saggi.",
+      "verse_ref": "Efesini 5:15"
+    },
+    {
+      "id": "q_wisdom_047",
+      "question": "Completa il versetto: 'Per questo motivo, dal giorno in cui abbiamo saputo questo, non cessiamo di pregare per voi e di chiedere che siate ricolmi della conoscenza della sua volontà, in ogni saggezza e intelligenza _____.'",
+      "correct": "spirituale",
+      "wrong": ["divina", "celeste", "santa"],
+      "hint": "Questo si riferisce allo Spirito",
+      "explanation": "Lo Spirito Santo dà saggezza e comprensione della volontà di Dio.",
+      "full_verse": "Per questo motivo, dal giorno in cui abbiamo saputo questo, non cessiamo di pregare per voi e di chiedere che siate ricolmi della conoscenza della sua volontà, in ogni saggezza e intelligenza spirituale.",
+      "verse_ref": "Colossesi 1:9"
+    },
+    {
+      "id": "q_wisdom_048",
+      "question": "Completa il versetto: 'In lui tutti i tesori della saggezza e della _____ sono nascosti.'",
+      "correct": "scienza",
+      "wrong": ["intelligenza", "verità", "conoscenza"],
+      "hint": "Questa è l'informazione e la comprensione",
+      "explanation": "Tutta la saggezza e la scienza si trovano in Cristo.",
+      "full_verse": "In lui tutti i tesori della saggezza e della scienza sono nascosti.",
+      "verse_ref": "Colossesi 2:3"
+    },
+    {
+      "id": "q_wisdom_049",
+      "question": "Completa il versetto: 'Chi fra voi è saggio e intelligente? Mostri con la buona condotta le sue opere, compiute con la mitezza della _____.'",
+      "correct": "saggezza",
+      "wrong": ["fede", "grazia", "umiltà"],
+      "hint": "Questo è ciò che produce mitezza",
+      "explanation": "La vera saggezza si dimostra attraverso opere buone e umili.",
+      "full_verse": "Chi fra voi è saggio e intelligente? Mostri con la buona condotta le sue opere, compiute con la mitezza della saggezza.",
+      "verse_ref": "Giacomo 3:13"
+    },
+    {
+      "id": "q_wisdom_050",
+      "question": "Completa il versetto: 'E considerate che la pazienza del nostro Signore è per la vostra salvezza, come anche il nostro caro fratello Paolo vi ha scritto, secondo la _____ che gli è stata data.'",
+      "correct": "saggezza",
+      "wrong": ["conoscenza", "intelligenza", "grazia"],
+      "hint": "Questo è ciò che Dio ha dato a Paolo per scrivere",
+      "explanation": "Paolo scrisse la Scrittura con la saggezza data da Dio.",
+      "full_verse": "E considerate che la pazienza del nostro Signore è per la vostra salvezza, come anche il nostro caro fratello Paolo vi ha scritto, secondo la saggezza che gli è stata data.",
+      "verse_ref": "2 Pietro 3:15"
+    }
+  ]
+}

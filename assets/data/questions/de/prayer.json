@@ -1,1 +1,452 @@
-{}
+{
+  "q_prayer_001": {
+    "question": "Fülle die Lücke aus: 'Sorget nichts! sondern in allen Dingen lasset eure Bitten im Gebet und Flehen mit Danksagung vor _____ kund werden.'",
+    "correct": "Gott",
+    "wrong": ["Himmel", "dem Herrn", "Jesus"],
+    "hint": "Wir bringen unsere Bitten zu ihm",
+    "explanation": "Paulus weist die Gläubigen an, Sorgen durch Gebet und Danksagung an Gott zu ersetzen.",
+    "full_verse": "Sorget nichts! sondern in allen Dingen lasset eure Bitten im Gebet und Flehen mit Danksagung vor Gott kund werden.",
+    "verse_ref": "Philipper 4:6"
+  },
+  "q_prayer_002": {
+    "question": "Fülle die Lücke aus: 'Betet ohne _____.'",
+    "correct": "Unterlass",
+    "wrong": ["Aufhören", "Ende", "Pause"],
+    "hint": "Kontinuierliches Gebet",
+    "explanation": "Paulus gibt den kürzesten und tiefgründigsten Befehl über das Gebet – niemals aufhören zu beten.",
+    "full_verse": "Betet ohne Unterlass.",
+    "verse_ref": "1. Thessalonicher 5:17"
+  },
+  "q_prayer_003": {
+    "question": "Fülle die Lücke aus: 'Darum sollt ihr also beten: Unser Vater in dem Himmel! Dein _____ werde geheiliget.'",
+    "correct": "Name",
+    "wrong": ["Thron", "Reich", "Herrlichkeit"],
+    "hint": "Was als heilig geehrt werden soll",
+    "explanation": "Jesus beginnt das Vaterunser, indem er uns lehrt, Gottes Namen als heilig zu ehren.",
+    "full_verse": "Darum sollt ihr also beten: Unser Vater in dem Himmel! Dein Name werde geheiliget.",
+    "verse_ref": "Matthäus 6:9"
+  },
+  "q_prayer_004": {
+    "question": "Fülle die Lücke aus: 'Bekenne einer dem andern seine Sünden und betet füreinander, dass ihr gesund werdet. Des Gerechten Gebet vermag viel, wenn es _____ ist.'",
+    "correct": "ernstlich",
+    "wrong": ["mächtig", "stark", "erhört"],
+    "hint": "Es bringt Ergebnisse",
+    "explanation": "Jakobus lehrt, dass das Gebet eines Gerechten sowohl mächtig als auch wirksam ist.",
+    "full_verse": "Bekenne einer dem andern seine Sünden und betet füreinander, dass ihr gesund werdet. Des Gerechten Gebet vermag viel, wenn es ernstlich ist.",
+    "verse_ref": "Jakobus 5:16"
+  },
+  "q_prayer_005": {
+    "question": "Fülle die Lücke aus: 'Bittet, so wird euch gegeben; suchet, so werdet ihr finden; klopfet an, so wird euch _____ werden.'",
+    "correct": "aufgetan",
+    "wrong": ["gezeigt", "offenbart", "aufgeschlossen"],
+    "hint": "Was mit einer Tür geschieht",
+    "explanation": "Jesus ermutigt zu beharrlichem Gebet mit der Verheißung, dass Gott antworten wird.",
+    "full_verse": "Bittet, so wird euch gegeben; suchet, so werdet ihr finden; klopfet an, so wird euch aufgetan.",
+    "verse_ref": "Matthäus 7:7"
+  },
+  "q_prayer_006": {
+    "question": "Fülle die Lücke aus: 'Und was ihr bitten werdet in meinem Namen, das will ich tun, auf dass der Vater geehret werde in dem _____.'",
+    "correct": "Sohne",
+    "wrong": ["Gebet", "Antwort", "Gläubigen"],
+    "hint": "Jesus bezieht sich auf sich selbst",
+    "explanation": "Jesus verspricht, Gebete zu erhören, die in seinem Namen für die Ehre des Vaters gesprochen werden.",
+    "full_verse": "Und was ihr bitten werdet in meinem Namen, das will ich tun, auf dass der Vater geehret werde in dem Sohne.",
+    "verse_ref": "Johannes 14:13"
+  },
+  "q_prayer_007": {
+    "question": "Fülle die Lücke aus: 'Und das ist die Freudigkeit, die wir haben zu ihm, dass, so wir etwas bitten nach seinem Willen, so _____ er uns.'",
+    "correct": "höret",
+    "wrong": ["antwortet", "hilft", "segnet"],
+    "hint": "Gott schenkt unseren Gebeten Aufmerksamkeit",
+    "explanation": "Johannes versichert den Gläubigen, dass Gott Gebete hört, die mit seinem Willen übereinstimmen.",
+    "full_verse": "Und das ist die Freudigkeit, die wir haben zu ihm, dass, so wir etwas bitten nach seinem Willen, so höret er uns.",
+    "verse_ref": "1. Johannes 5:14"
+  },
+  "q_prayer_008": {
+    "question": "Fülle die Lücke aus: 'Und ihr werdet mich anrufen und hingehen und mich bitten, und ich will euch _____.'",
+    "correct": "erhören",
+    "wrong": ["sprechen", "antworten", "begegnen"],
+    "hint": "Gott schenkt Aufmerksamkeit",
+    "explanation": "Gott verspricht zu hören, wenn sein Volk ihn im Gebet anruft.",
+    "full_verse": "Und ihr werdet mich anrufen und hingehen und mich bitten, und ich will euch erhören.",
+    "verse_ref": "Jeremia 29:12"
+  },
+  "q_prayer_009": {
+    "question": "Fülle die Lücke aus: 'Der Herr ist nahe allen, die ihn anrufen, allen, die ihn mit _____ anrufen.'",
+    "correct": "Ernst",
+    "wrong": ["Glauben", "Liebe", "Hoffnung"],
+    "hint": "Aufrichtiges, echtes Gebet",
+    "explanation": "Gott ist denen nahe, die ihn aufrichtig und wahrhaftig anrufen.",
+    "full_verse": "Der Herr ist nahe allen, die ihn anrufen, allen, die ihn mit Ernst anrufen.",
+    "verse_ref": "Psalm 145:18"
+  },
+  "q_prayer_010": {
+    "question": "Fülle die Lücke aus: 'Desgleichen auch der Geist hilft unsrer Schwachheit auf. Denn wir wissen nicht, was wir beten sollen, wie sich's gebührt; sondern der Geist selbst vertritt uns aufs beste mit unaussprechlichem _____.'",
+    "correct": "Seufzen",
+    "wrong": ["Gebeten", "Worten", "Rufen"],
+    "hint": "Tiefe Ausdrücke jenseits der Worte",
+    "explanation": "Paulus lehrt, dass der Heilige Geist uns beim Beten hilft, wenn wir nicht wissen wie.",
+    "full_verse": "Desgleichen auch der Geist hilft unsrer Schwachheit auf. Denn wir wissen nicht, was wir beten sollen, wie sich's gebührt; sondern der Geist selbst vertritt uns aufs beste mit unaussprechlichem Seufzen.",
+    "verse_ref": "Römer 8:26"
+  },
+  "q_prayer_011": {
+    "question": "Fülle die Lücke aus: 'Wenn du aber betest, so gehe in dein Kämmerlein und schließ die Tür zu und bete zu deinem Vater im Verborgenen; und dein Vater, der in das _____ siehet, wird dir's vergelten öffentlich.'",
+    "correct": "Verborgene",
+    "wrong": ["Private", "Stille", "Dunkel"],
+    "hint": "Verborgen vor der Öffentlichkeit",
+    "explanation": "Jesus lehrt über privates Gebet, das Gott sieht und belohnt.",
+    "full_verse": "Wenn du aber betest, so gehe in dein Kämmerlein und schließ die Tür zu und bete zu deinem Vater im Verborgenen; und dein Vater, der in das Verborgene siehet, wird dir's vergelten öffentlich.",
+    "verse_ref": "Matthäus 6:6"
+  },
+  "q_prayer_012": {
+    "question": "Fülle die Lücke aus: 'Weiter sage ich euch: Wo zwei unter euch eins werden auf Erden, warum es ist, dass sie bitten wollen, das soll ihnen widerfahren von meinem Vater im _____.'",
+    "correct": "Himmel",
+    "wrong": ["Herrlichkeit", "Macht", "Liebe"],
+    "hint": "Wo Gott wohnt",
+    "explanation": "Jesus verspricht, dass vereintes Gebet in Übereinstimmung vom Vater erhört wird.",
+    "full_verse": "Weiter sage ich euch: Wo zwei unter euch eins werden auf Erden, warum es ist, dass sie bitten wollen, das soll ihnen widerfahren von meinem Vater im Himmel.",
+    "verse_ref": "Matthäus 18:19"
+  },
+  "q_prayer_013": {
+    "question": "Fülle die Lücke aus: 'Und alles, was ihr bittet im _____, so ihr glaubet, werdet ihr's empfangen.'",
+    "correct": "Gebet",
+    "wrong": ["Glauben", "Hoffnung", "Liebe"],
+    "hint": "Kommunikation mit Gott",
+    "explanation": "Jesus verbindet glaubenden Glauben mit dem Empfangen von Gebetserhörungen.",
+    "full_verse": "Und alles, was ihr bittet im Gebet, so ihr glaubet, werdet ihr's empfangen.",
+    "verse_ref": "Matthäus 21:22"
+  },
+  "q_prayer_014": {
+    "question": "Fülle die Lücke aus: 'Darum sage ich euch: Alles, was ihr bittet in eurem Gebet, glaubet nur, dass ihr's _____ werdet, so wird's euch werden.'",
+    "correct": "empfangen",
+    "wrong": ["bekommen", "erhalten", "erlangen"],
+    "hint": "Bereits besitzen, worum man gebeten hat",
+    "explanation": "Jesus lehrt, dass Glaube im Gebet bedeutet zu glauben, dass wir bereits empfangen haben.",
+    "full_verse": "Darum sage ich euch: Alles, was ihr bittet in eurem Gebet, glaubet nur, dass ihr's empfangen werdet, so wird's euch werden.",
+    "verse_ref": "Markus 11:24"
+  },
+  "q_prayer_015": {
+    "question": "Fülle die Lücke aus: 'Und ich sage euch auch: Bittet, so wird euch gegeben; suchet, so werdet ihr finden; klopfet an, so wird euch _____ werden.'",
+    "correct": "aufgetan",
+    "wrong": ["gezeigt", "offenbart", "aufgeschlossen"],
+    "hint": "Zugang wird gewährt",
+    "explanation": "Jesus ermutigt zu beharrlichem Bitten, Suchen und Anklopfen im Gebet.",
+    "full_verse": "Und ich sage euch auch: Bittet, so wird euch gegeben; suchet, so werdet ihr finden; klopfet an, so wird euch aufgetan.",
+    "verse_ref": "Lukas 11:9"
+  },
+  "q_prayer_016": {
+    "question": "Fülle die Lücke aus: 'Er sagte ihnen aber ein Gleichnis davon, dass man allezeit beten und nicht _____ solle.'",
+    "correct": "nachlassen",
+    "wrong": ["aufgeben", "müde werden", "zweifeln"],
+    "hint": "Nicht aufhören",
+    "explanation": "Jesus lehrt durch ein Gleichnis, dass wir im Gebet beharren sollen.",
+    "full_verse": "Er sagte ihnen aber ein Gleichnis davon, dass man allezeit beten und nicht nachlassen solle.",
+    "verse_ref": "Lukas 18:1"
+  },
+  "q_prayer_017": {
+    "question": "Fülle die Lücke aus: 'So ihr in mir bleibet und meine Worte in euch bleiben, werdet ihr bitten, was ihr wollt, und es wird euch _____.'",
+    "correct": "widerfahren",
+    "wrong": ["gegeben", "gewährt", "zuteil"],
+    "hint": "Es wird geschehen",
+    "explanation": "Jesus verspricht erhörte Gebete denen, die in ihm und seinem Wort bleiben.",
+    "full_verse": "So ihr in mir bleibet und meine Worte in euch bleiben, werdet ihr bitten, was ihr wollt, und es wird euch widerfahren.",
+    "verse_ref": "Johannes 15:7"
+  },
+  "q_prayer_018": {
+    "question": "Fülle die Lücke aus: 'Bisher habt ihr nichts gebeten in meinem Namen. Bittet, so werdet ihr nehmen, dass eure Freude _____ sei.'",
+    "correct": "vollkommen",
+    "wrong": ["voll", "groß", "völlig"],
+    "hint": "Freude erreicht ihre Fülle",
+    "explanation": "Jesus ermutigt seine Jünger, in seinem Namen zu beten für vollkommene Freude.",
+    "full_verse": "Bisher habt ihr nichts gebeten in meinem Namen. Bittet, so werdet ihr nehmen, dass eure Freude vollkommen sei.",
+    "verse_ref": "Johannes 16:24"
+  },
+  "q_prayer_019": {
+    "question": "Fülle die Lücke aus: 'Haltet an am Gebet und wachet in demselben mit _____.'",
+    "correct": "Danksagung",
+    "wrong": ["Glauben", "Hoffnung", "Eifer"],
+    "hint": "Dankbarkeit ausdrücken",
+    "explanation": "Paulus ruft die Gläubigen zu hingegebenem, wachsamem und dankbarem Gebet auf.",
+    "full_verse": "Haltet an am Gebet und wachet in demselben mit Danksagung.",
+    "verse_ref": "Kolosser 4:2"
+  },
+  "q_prayer_020": {
+    "question": "Fülle die Lücke aus: 'Und betet stets in allem Anliegen mit Bitten und Flehen im Geist und wachet dazu mit allem Anhalten und Flehen für alle _____.'",
+    "correct": "Heiligen",
+    "wrong": ["Gläubigen", "Christen", "Brüder"],
+    "hint": "Mitgläubige",
+    "explanation": "Paulus weist die Gläubigen an, im Geist für alle Heiligen Gottes zu beten.",
+    "full_verse": "Und betet stets in allem Anliegen mit Bitten und Flehen im Geist und wachet dazu mit allem Anhalten und Flehen für alle Heiligen.",
+    "verse_ref": "Epheser 6:18"
+  },
+  "q_prayer_021": {
+    "question": "Fülle die Lücke aus: 'So will ich nun, dass die Männer beten an allen Orten und aufheben heilige Hände ohne Zorn und _____.'",
+    "correct": "Zweifel",
+    "wrong": ["Streit", "Kampf", "Furcht"],
+    "hint": "Streiten oder Meinungsverschiedenheit",
+    "explanation": "Paulus weist Männer an, mit heiligen Händen und friedlichen Herzen zu beten.",
+    "full_verse": "So will ich nun, dass die Männer beten an allen Orten und aufheben heilige Hände ohne Zorn und Zweifel.",
+    "verse_ref": "1. Timotheus 2:8"
+  },
+  "q_prayer_022": {
+    "question": "Fülle die Lücke aus: 'Darum lasset uns hinzutreten mit Freudigkeit zu dem Gnadenstuhl, auf dass wir Barmherzigkeit empfangen und Gnade finden auf die Zeit, wenn uns _____ sein wird.'",
+    "correct": "Hilfe not",
+    "wrong": ["Sorge", "Not", "Schwäche"],
+    "hint": "Wenn wir Hilfe brauchen",
+    "explanation": "Wir werden ermutigt, mutig zu Gottes Thron zu kommen, um Hilfe zu finden, wenn wir sie brauchen.",
+    "full_verse": "Darum lasset uns hinzutreten mit Freudigkeit zu dem Gnadenstuhl, auf dass wir Barmherzigkeit empfangen und Gnade finden auf die Zeit, wenn uns Hilfe not sein wird.",
+    "verse_ref": "Hebräer 4:16"
+  },
+  "q_prayer_023": {
+    "question": "Fülle die Lücke aus: 'So aber jemand unter euch Weisheit mangelt, der bitte von Gott, der da gibt einfältig jedermann und rücket's niemand auf, so wird sie ihm _____ werden.'",
+    "correct": "gegeben",
+    "wrong": ["gewährt", "zuteil", "geschenkt"],
+    "hint": "Gott kritisiert uns nicht für das Bitten",
+    "explanation": "Jakobus ermutigt die Gläubigen, Gott um Weisheit zu bitten, der großzügig gibt.",
+    "full_verse": "So aber jemand unter euch Weisheit mangelt, der bitte von Gott, der da gibt einfältig jedermann und rücket's niemand auf, so wird sie ihm gegeben werden.",
+    "verse_ref": "Jakobus 1:5"
+  },
+  "q_prayer_024": {
+    "question": "Fülle die Lücke aus: 'Ihr seid begierig und erlanget's damit nicht; ihr hasset und neidet und gewinnet damit nichts; ihr streitet und krieget. Ihr habt nicht, darum dass ihr nicht _____.'",
+    "correct": "bittet",
+    "wrong": ["betet", "glaubet", "suchet"],
+    "hint": "Einfach bei Gott anfragen",
+    "explanation": "Jakobus weist darauf hin, dass uns oft etwas fehlt, weil wir nicht darum bitten.",
+    "full_verse": "Ihr seid begierig und erlanget's damit nicht; ihr hasset und neidet und gewinnet damit nichts; ihr streitet und krieget. Ihr habt nicht, darum dass ihr nicht bittet.",
+    "verse_ref": "Jakobus 4:2"
+  },
+  "q_prayer_025": {
+    "question": "Fülle die Lücke aus: 'Denn die Augen des Herrn sehen auf die Gerechten, und seine Ohren merken auf ihr Gebet; das Angesicht aber des Herrn stehet wider die, so _____ tun.'",
+    "correct": "Böses",
+    "wrong": ["Unrecht", "Sünde", "Schlechtes"],
+    "hint": "Das Gegenteil von Gutem",
+    "explanation": "Petrus zitiert Psalm 34 und zeigt, dass Gott die Gebete der Gerechten hört.",
+    "full_verse": "Denn die Augen des Herrn sehen auf die Gerechten, und seine Ohren merken auf ihr Gebet; das Angesicht aber des Herrn stehet wider die, so Böses tun.",
+    "verse_ref": "1. Petrus 3:12"
+  },
+  "q_prayer_026": {
+    "question": "Fülle die Lücke aus: 'Erhöre mich, wenn ich rufe, Gott meiner Gerechtigkeit, der du mich tröstest in Angst; sei mir gnädig und erhöre mein _____.'",
+    "correct": "Gebet",
+    "wrong": ["Stimme", "Ruf", "Flehen"],
+    "hint": "David bittet um Gottes Güte",
+    "explanation": "David ruft zu Gott um Gnade und Erleichterung in seiner Not.",
+    "full_verse": "Erhöre mich, wenn ich rufe, Gott meiner Gerechtigkeit, der du mich tröstest in Angst; sei mir gnädig und erhöre mein Gebet.",
+    "verse_ref": "Psalm 4:1"
+  },
+  "q_prayer_027": {
+    "question": "Fülle die Lücke aus: 'Herr, frühe wollest du meine Stimme hören; frühe will ich mich zu dir schicken und _____.'",
+    "correct": "aufmerken",
+    "wrong": ["warten", "hoffen", "ruhen"],
+    "hint": "Mit Erwartung",
+    "explanation": "David bringt seine Gebete am Morgen dar und wartet mit Erwartung.",
+    "full_verse": "Herr, frühe wollest du meine Stimme hören; frühe will ich mich zu dir schicken und aufmerken.",
+    "verse_ref": "Psalm 5:3"
+  },
+  "q_prayer_028": {
+    "question": "Fülle die Lücke aus: 'Ich rufe zu dir, denn du, Gott, wirst mich erhören; neige deine Ohren zu mir, höre meine _____!'",
+    "correct": "Rede",
+    "wrong": ["Stimme", "Ruf", "Worte"],
+    "hint": "Kommunikation mit Gott",
+    "explanation": "David drückt sein Vertrauen aus, dass Gott sein Gebet hören und beantworten wird.",
+    "full_verse": "Ich rufe zu dir, denn du, Gott, wirst mich erhören; neige deine Ohren zu mir, höre meine Rede!",
+    "verse_ref": "Psalm 17:6"
+  },
+  "q_prayer_029": {
+    "question": "Fülle die Lücke aus: 'Des Abends, Morgens und Mittags will ich klagen und heulen; so wird er meine _____ hören.'",
+    "correct": "Stimme",
+    "wrong": ["Gebet", "Klage", "Bitte"],
+    "hint": "Gott schenkt Aufmerksamkeit",
+    "explanation": "David bezeugt, dass Gott seine Gebete den ganzen Tag über hört.",
+    "full_verse": "Des Abends, Morgens und Mittags will ich klagen und heulen; so wird er meine Stimme hören.",
+    "verse_ref": "Psalm 55:17"
+  },
+  "q_prayer_030": {
+    "question": "Fülle die Lücke aus: 'Aber Gott hat mich erhöret und gemerket auf mein _____.'",
+    "correct": "Flehen",
+    "wrong": ["Stimme", "Ruf", "Bitte"],
+    "hint": "Was David zu Gott sprach",
+    "explanation": "Der Psalmist bezeugt, dass Gott sein Gebet wirklich erhört hat.",
+    "full_verse": "Aber Gott hat mich erhöret und gemerket auf mein Flehen.",
+    "verse_ref": "Psalm 66:19"
+  },
+  "q_prayer_031": {
+    "question": "Fülle die Lücke aus: 'Herr, erhöre mein Gebet und merke auf mein _____!'",
+    "correct": "Flehen",
+    "wrong": ["Hilfe", "Gnade", "Ruf"],
+    "hint": "Um Gottes Erbarmen bitten",
+    "explanation": "David fleht zu Gott, sein Gebet und seinen Ruf um Erbarmen zu hören.",
+    "full_verse": "Herr, erhöre mein Gebet und merke auf mein Flehen!",
+    "verse_ref": "Psalm 86:6"
+  },
+  "q_prayer_032": {
+    "question": "Fülle die Lücke aus: 'Er wendet sich zum Gebet der Verlassenen und verschmähet ihr _____ nicht.'",
+    "correct": "Gebet",
+    "wrong": ["Ruf", "Flehen", "Bitte"],
+    "hint": "Eine eindringliche Bitte",
+    "explanation": "Der Psalmist versichert, dass Gott auf die Gebete der Bedürftigen antwortet.",
+    "full_verse": "Er wendet sich zum Gebet der Verlassenen und verschmähet ihr Gebet nicht.",
+    "verse_ref": "Psalm 102:17"
+  },
+  "q_prayer_033": {
+    "question": "Fülle die Lücke aus: 'Mein Gebet müsse vor dir taugen wie ein Räuchopfer, mein Händeaufheben wie ein Abend_____.'",
+    "correct": "opfer",
+    "wrong": ["gabe", "gottesdienst", "lob"],
+    "hint": "Ein alttestamentliches Ritual",
+    "explanation": "David vergleicht sein Gebet mit Räucherwerk und seine erhobenen Hände mit einem Opfer.",
+    "full_verse": "Mein Gebet müsse vor dir taugen wie ein Räuchopfer, mein Händeaufheben wie ein Abendopfer.",
+    "verse_ref": "Psalm 141:2"
+  },
+  "q_prayer_034": {
+    "question": "Fülle die Lücke aus: 'Suchet den Herrn, weil er zu finden ist; rufet ihn an, weil er _____ ist.'",
+    "correct": "nahe",
+    "wrong": ["hier", "da", "gegenwärtig"],
+    "hint": "In Reichweite",
+    "explanation": "Jesaja drängt darauf, Gott zu suchen und ihn anzurufen, solange er erreichbar ist.",
+    "full_verse": "Suchet den Herrn, weil er zu finden ist; rufet ihn an, weil er nahe ist.",
+    "verse_ref": "Jesaja 55:6"
+  },
+  "q_prayer_035": {
+    "question": "Fülle die Lücke aus: 'Und soll geschehen: ehe sie rufen, will ich antworten; wenn sie noch reden, will ich _____.'",
+    "correct": "hören",
+    "wrong": ["antworten", "reagieren", "erhören"],
+    "hint": "Gott schenkt Aufmerksamkeit, noch bevor wir fertig sind",
+    "explanation": "Gott verspricht zu hören und zu antworten, noch bevor sein Volk zu Ende gebetet hat.",
+    "full_verse": "Und soll geschehen: ehe sie rufen, will ich antworten; wenn sie noch reden, will ich hören.",
+    "verse_ref": "Jesaja 65:24"
+  },
+  "q_prayer_036": {
+    "question": "Fülle die Lücke aus: 'Rufe mich an, so will ich dir antworten und will dir anzeigen große und gewaltige Dinge, die du nicht _____.'",
+    "correct": "weißt",
+    "wrong": ["siehst", "verstehst", "hast"],
+    "hint": "Verborgene Information",
+    "explanation": "Gott lädt uns ein, ihn anzurufen, und verspricht, verborgene Wahrheiten zu offenbaren.",
+    "full_verse": "Rufe mich an, so will ich dir antworten und will dir anzeigen große und gewaltige Dinge, die du nicht weißt.",
+    "verse_ref": "Jeremia 33:3"
+  },
+  "q_prayer_037": {
+    "question": "Fülle die Lücke aus: 'Ach Herr, höre, ach Herr, sei gnädig! ach Herr, merke auf und tue es und verziehe nicht um deiner selbst willen, mein Gott! denn deine Stadt und dein Volk ist nach deinem Namen genannt. Wir liegen vor dir mit unserm Gebet, nicht auf unsere Gerechtigkeit, sondern auf deine große _____.'",
+    "correct": "Barmherzigkeit",
+    "wrong": ["Liebe", "Gnade", "Güte"],
+    "hint": "Gottes Güte",
+    "explanation": "Daniel betet auf der Grundlage von Gottes Barmherzigkeit, nicht menschlicher Gerechtigkeit.",
+    "full_verse": "Ach Herr, höre, ach Herr, sei gnädig! ach Herr, merke auf und tue es und verziehe nicht um deiner selbst willen, mein Gott! denn deine Stadt und dein Volk ist nach deinem Namen genannt. Wir liegen vor dir mit unserm Gebet, nicht auf unsere Gerechtigkeit, sondern auf deine große Barmherzigkeit.",
+    "verse_ref": "Daniel 9:18"
+  },
+  "q_prayer_038": {
+    "question": "Fülle die Lücke aus: 'Und wenn ihr betet, sollt ihr nicht viel plappern wie die Heiden; denn sie meinen, sie werden erhört, wenn sie viele _____ machen.'",
+    "correct": "Worte",
+    "wrong": ["Gebete", "Bitten", "Opfer"],
+    "hint": "Menge der Rede",
+    "explanation": "Jesus warnt vor sinnloser Wiederholung im Gebet.",
+    "full_verse": "Und wenn ihr betet, sollt ihr nicht viel plappern wie die Heiden; denn sie meinen, sie werden erhört, wenn sie viele Worte machen.",
+    "verse_ref": "Matthäus 6:7"
+  },
+  "q_prayer_039": {
+    "question": "Fülle die Lücke aus: 'Wachet und betet, dass ihr nicht in Anfechtung fallet! Der Geist ist willig; aber das Fleisch ist _____.'",
+    "correct": "schwach",
+    "wrong": ["müde", "gebrechlich", "sündig"],
+    "hint": "Mangel an Stärke",
+    "explanation": "Jesus warnt seine Jünger, zu beten, um nicht in Versuchung zu fallen.",
+    "full_verse": "Wachet und betet, dass ihr nicht in Anfechtung fallet! Der Geist ist willig; aber das Fleisch ist schwach.",
+    "verse_ref": "Matthäus 26:41"
+  },
+  "q_prayer_040": {
+    "question": "Fülle die Lücke aus: 'Es begab sich aber zu der Zeit, dass er ging auf einen Berg, zu beten, und er blieb über Nacht in dem Gebet zu _____.'",
+    "correct": "Gott",
+    "wrong": ["Himmel", "dem Vater", "dem Herrn"],
+    "hint": "Zu wem Jesus betete",
+    "explanation": "Lukas berichtet, dass Jesus eine ganze Nacht im Gebet zu Gott verbrachte.",
+    "full_verse": "Es begab sich aber zu der Zeit, dass er ging auf einen Berg, zu beten, und er blieb über Nacht in dem Gebet zu Gott.",
+    "verse_ref": "Lukas 6:12"
+  },
+  "q_prayer_041": {
+    "question": "Fülle die Lücke aus: 'Diese alle waren stets beieinander einmütig mit Beten und Flehen samt den Weibern und Maria, der Mutter Jesu, und seinen _____.'",
+    "correct": "Brüdern",
+    "wrong": ["Jüngern", "Nachfolgern", "Freunden"],
+    "hint": "Jesu Familienmitglieder",
+    "explanation": "Die ersten Gläubigen, einschließlich Jesu Familie, widmeten sich dem vereinten Gebet.",
+    "full_verse": "Diese alle waren stets beieinander einmütig mit Beten und Flehen samt den Weibern und Maria, der Mutter Jesu, und seinen Brüdern.",
+    "verse_ref": "Apostelgeschichte 1:14"
+  },
+  "q_prayer_042": {
+    "question": "Fülle die Lücke aus: 'Sie blieben aber beständig in der Apostel Lehre und in der Gemeinschaft und im Brotbrechen und im _____.'",
+    "correct": "Gebet",
+    "wrong": ["Gottesdienst", "Lobpreis", "Fasten"],
+    "hint": "Kommunikation mit Gott",
+    "explanation": "Die frühe Gemeinde widmete sich der Lehre, Gemeinschaft, dem Abendmahl und dem Gebet.",
+    "full_verse": "Sie blieben aber beständig in der Apostel Lehre und in der Gemeinschaft und im Brotbrechen und im Gebet.",
+    "verse_ref": "Apostelgeschichte 2:42"
+  },
+  "q_prayer_043": {
+    "question": "Fülle die Lücke aus: 'Seid fröhlich in Hoffnung, geduldig in Trübsal, haltet an am _____.'",
+    "correct": "Gebet",
+    "wrong": ["Liebe", "Glauben", "Dienst"],
+    "hint": "Kommunikation mit Gott",
+    "explanation": "Paulus gibt drei Anweisungen für das christliche Leben, einschließlich treuen Gebets.",
+    "full_verse": "Seid fröhlich in Hoffnung, geduldig in Trübsal, haltet an am Gebet.",
+    "verse_ref": "Römer 12:12"
+  },
+  "q_prayer_044": {
+    "question": "Fülle die Lücke aus: 'Dem aber, der überschwenglich tun kann über alles, das wir bitten oder verstehen, nach der Kraft, die da in _____ wirket.'",
+    "correct": "uns",
+    "wrong": ["euch", "ihnen", "allen"],
+    "hint": "Gott wirkt in den Gläubigen",
+    "explanation": "Paulus preist Gott, der weit mehr tun kann, als wir jemals bitten oder uns vorstellen könnten.",
+    "full_verse": "Dem aber, der überschwenglich tun kann über alles, das wir bitten oder verstehen, nach der Kraft, die da in uns wirket.",
+    "verse_ref": "Epheser 3:20"
+  },
+  "q_prayer_045": {
+    "question": "Fülle die Lücke aus: 'Und der Friede Gottes, welcher höher ist denn alle Vernunft, bewahre eure Herzen und Sinne in Christo _____!'",
+    "correct": "Jesu",
+    "wrong": ["dem Herrn", "dem Heiland", "Gott"],
+    "hint": "Der vollständige Name unseres Herrn",
+    "explanation": "Paulus verspricht, dass Gottes Friede die Gläubigen bewahrt, die mit Danksagung beten.",
+    "full_verse": "Und der Friede Gottes, welcher höher ist denn alle Vernunft, bewahre eure Herzen und Sinne in Christo Jesu!",
+    "verse_ref": "Philipper 4:7"
+  },
+  "q_prayer_046": {
+    "question": "Fülle die Lücke aus: 'So ermahne ich nun, dass man vor allen Dingen zuerst tue Bitte, Gebet, Fürbitte und Danksagung für alle _____.'",
+    "correct": "Menschen",
+    "wrong": ["Völker", "Gläubigen", "Heiligen"],
+    "hint": "Jedermann",
+    "explanation": "Paulus weist an, dass Gebete für alle Menschen gesprochen werden sollen.",
+    "full_verse": "So ermahne ich nun, dass man vor allen Dingen zuerst tue Bitte, Gebet, Fürbitte und Danksagung für alle Menschen.",
+    "verse_ref": "1. Timotheus 2:1"
+  },
+  "q_prayer_047": {
+    "question": "Fülle die Lücke aus: 'Und er hat in den Tagen seines Fleisches Gebet und Flehen mit starkem Geschrei und Tränen geopfert zu dem, der ihm vom Tode konnte aushelfen; und ist auch erhört, darum dass er Gott in _____ hatte.'",
+    "correct": "Ehren",
+    "wrong": ["Glauben", "Gebet", "Gehorsam"],
+    "hint": "Demütige Hingabe an Gott",
+    "explanation": "Der Schreiber beschreibt Jesu intensive Gebete während seines irdischen Dienstes.",
+    "full_verse": "Und er hat in den Tagen seines Fleisches Gebet und Flehen mit starkem Geschrei und Tränen geopfert zu dem, der ihm vom Tode konnte aushelfen; und ist auch erhört, darum dass er Gott in Ehren hatte.",
+    "verse_ref": "Hebräer 5:7"
+  },
+  "q_prayer_048": {
+    "question": "Fülle die Lücke aus: 'Und das Gebet des Glaubens wird dem Kranken helfen, und der Herr wird ihn aufrichten; und so er hat Sünden getan, werden sie ihm _____ sein.'",
+    "correct": "vergeben",
+    "wrong": ["geheilt", "wiederhergestellt", "gerettet"],
+    "hint": "Sünden werden erlassen",
+    "explanation": "Jakobus verbindet gläubiges Gebet mit Heilung und Vergebung.",
+    "full_verse": "Und das Gebet des Glaubens wird dem Kranken helfen, und der Herr wird ihn aufrichten; und so er hat Sünden getan, werden sie ihm vergeben sein.",
+    "verse_ref": "Jakobus 5:15"
+  },
+  "q_prayer_049": {
+    "question": "Fülle die Lücke aus: 'Und was wir bitten, werden wir von ihm nehmen; denn wir halten seine Gebote und tun, was vor ihm _____ ist.'",
+    "correct": "gefällig",
+    "wrong": ["ehrend", "verherrlichend", "dienend"],
+    "hint": "Was Gott glücklich macht",
+    "explanation": "Johannes verbindet erhörtes Gebet mit Gehorsam gegenüber Gottes Geboten.",
+    "full_verse": "Und was wir bitten, werden wir von ihm nehmen; denn wir halten seine Gebote und tun, was vor ihm gefällig ist.",
+    "verse_ref": "1. Johannes 3:22"
+  },
+  "q_prayer_050": {
+    "question": "Fülle die Lücke aus: 'Und der Rauch des Räuchwerks ging auf von dem Gebet der Heiligen von der _____ des Engels vor Gott.'",
+    "correct": "Hand",
+    "wrong": ["Altar", "Thron", "Gegenwart"],
+    "hint": "Teil des Körpers des Engels",
+    "explanation": "Johannes' Vision zeigt die Gebete der Gläubigen, die wie Weihrauch vor Gott aufsteigen.",
+    "full_verse": "Und der Rauch des Räuchwerks ging auf von dem Gebet der Heiligen von der Hand des Engels vor Gott.",
+    "verse_ref": "Offenbarung 8:4"
+  }
+}

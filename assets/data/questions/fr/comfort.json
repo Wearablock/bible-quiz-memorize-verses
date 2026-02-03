@@ -1,1 +1,452 @@
-{}
+{
+  "q_comfort_001": {
+    "question": "Complétez le verset : « Quand je marche dans la vallée de l'ombre de la mort, je ne crains aucun mal, car tu es avec _____. »",
+    "correct": "moi",
+    "wrong": ["nous", "eux", "tous"],
+    "hint": "La présence de Dieu est personnelle",
+    "explanation": "David exprime sa confiance que la présence de Dieu apporte réconfort et protection même dans les moments les plus sombres.",
+    "full_verse": "Quand je marche dans la vallée de l'ombre de la mort, je ne crains aucun mal, car tu es avec moi : Ta houlette et ton bâton me rassurent.",
+    "verse_ref": "Psaume 23:4"
+  },
+  "q_comfort_002": {
+    "question": "Complétez le verset : « Béni soit Dieu, le Père de notre Seigneur Jésus-Christ, le Père des miséricordes et le Dieu de toute _____. »",
+    "correct": "consolation",
+    "wrong": ["miséricorde", "grâce", "amour"],
+    "hint": "Cela décrit la nature consolatrice de Dieu",
+    "explanation": "Paul identifie Dieu comme la source ultime de toute consolation, qui nous console afin que nous puissions consoler les autres.",
+    "full_verse": "Béni soit Dieu, le Père de notre Seigneur Jésus-Christ, le Père des miséricordes et le Dieu de toute consolation, qui nous console dans toutes nos afflictions.",
+    "verse_ref": "2 Corinthiens 1:3-4"
+  },
+  "q_comfort_003": {
+    "question": "Complétez le verset : « Heureux les affligés, car ils seront _____! »",
+    "correct": "consolés",
+    "wrong": ["guéris", "bénis", "sauvés"],
+    "hint": "Jésus promet la consolation à ceux qui pleurent",
+    "explanation": "Dans les Béatitudes, Jésus promet la consolation divine à ceux qui sont dans le deuil et l'affliction.",
+    "full_verse": "Heureux les affligés, car ils seront consolés!",
+    "verse_ref": "Matthieu 5:4"
+  },
+  "q_comfort_004": {
+    "question": "Complétez le verset : « Ne crains rien, car je suis avec toi; ne promène pas des regards inquiets, car je suis ton _____. »",
+    "correct": "Dieu",
+    "wrong": ["Seigneur", "Sauveur", "Roi"],
+    "hint": "Dieu déclare son identité comme raison de ne pas craindre",
+    "explanation": "Dieu rassure son peuple que sa présence et son identité éliminent le besoin de craindre.",
+    "full_verse": "Ne crains rien, car je suis avec toi; ne promène pas des regards inquiets, car je suis ton Dieu; je te fortifie, je viens à ton secours, je te soutiens de ma droite triomphante.",
+    "verse_ref": "Ésaïe 41:10"
+  },
+  "q_comfort_005": {
+    "question": "Complétez le verset : « Je vous laisse la paix, je vous donne ma _____. »",
+    "correct": "paix",
+    "wrong": ["amour", "joie", "Esprit"],
+    "hint": "Jésus donne ce qu'il laisse",
+    "explanation": "Jésus promet à ses disciples une paix surnaturelle que le monde ne peut donner.",
+    "full_verse": "Je vous laisse la paix, je vous donne ma paix. Je ne vous donne pas comme le monde donne. Que votre cœur ne se trouble point, et ne s'alarme point.",
+    "verse_ref": "Jean 14:27"
+  },
+  "q_comfort_006": {
+    "question": "Complétez le verset : « L'Éternel est près de ceux qui ont le cœur _____. »",
+    "correct": "brisé",
+    "wrong": ["pur", "fidèle", "humble"],
+    "hint": "Dieu s'approche de ceux qui ont le cœur blessé",
+    "explanation": "Dieu promet sa proximité spéciale à ceux qui sont émotionnellement blessés et abattus.",
+    "full_verse": "L'Éternel est près de ceux qui ont le cœur brisé, et il sauve ceux qui ont l'esprit dans l'abattement.",
+    "verse_ref": "Psaume 34:19"
+  },
+  "q_comfort_007": {
+    "question": "Complétez le verset : « Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai du _____. »",
+    "correct": "repos",
+    "wrong": ["paix", "espoir", "force"],
+    "hint": "Jésus offre un soulagement de l'épuisement",
+    "explanation": "Jésus invite tous ceux qui sont fatigués et accablés à trouver le repos en lui.",
+    "full_verse": "Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai du repos.",
+    "verse_ref": "Matthieu 11:28"
+  },
+  "q_comfort_008": {
+    "question": "Complétez le verset : « Nous savons que toutes choses concourent au _____ de ceux qui aiment Dieu. »",
+    "correct": "bien",
+    "wrong": ["bonheur", "bénédiction", "gloire"],
+    "hint": "Le but de Dieu dans toutes les circonstances",
+    "explanation": "Paul assure les croyants que Dieu orchestre toutes choses pour leur bien ultime.",
+    "full_verse": "Nous savons, du reste, que toutes choses concourent au bien de ceux qui aiment Dieu, de ceux qui sont appelés selon son dessein.",
+    "verse_ref": "Romains 8:28"
+  },
+  "q_comfort_009": {
+    "question": "Complétez le verset : « Dieu est pour nous un refuge et un appui, un secours qui ne manque jamais dans la _____. »",
+    "correct": "détresse",
+    "wrong": ["besoin", "difficulté", "danger"],
+    "hint": "Quand les difficultés surviennent, Dieu est là",
+    "explanation": "Le psalmiste déclare Dieu comme une source constante de protection et d'aide dans les moments difficiles.",
+    "full_verse": "Dieu est pour nous un refuge et un appui, un secours qui ne manque jamais dans la détresse.",
+    "verse_ref": "Psaume 46:2"
+  },
+  "q_comfort_010": {
+    "question": "Complétez le verset : « Comme un homme que sa mère console, ainsi je vous _____. »",
+    "correct": "consolerai",
+    "wrong": ["aimerai", "protégerai", "guiderai"],
+    "hint": "Dieu promet une consolation maternelle",
+    "explanation": "Dieu compare sa consolation aux soins tendres qu'une mère donne à son enfant.",
+    "full_verse": "Comme un homme que sa mère console, ainsi je vous consolerai; vous serez consolés dans Jérusalem.",
+    "verse_ref": "Ésaïe 66:13"
+  },
+  "q_comfort_011": {
+    "question": "Complétez le verset : « L'Éternel est mon _____; je ne manquerai de rien. »",
+    "correct": "berger",
+    "wrong": ["Dieu", "Roi", "Père"],
+    "hint": "Cette métaphore montre la guidance bienveillante de Dieu",
+    "explanation": "David utilise la métaphore du berger pour décrire la provision complète et les soins de Dieu.",
+    "full_verse": "L'Éternel est mon berger; je ne manquerai de rien.",
+    "verse_ref": "Psaume 23:1"
+  },
+  "q_comfort_012": {
+    "question": "Complétez le verset : « L'Éternel est ma lumière et mon salut : de qui aurais-je _____? »",
+    "correct": "crainte",
+    "wrong": ["confiance", "besoin", "peur"],
+    "hint": "La présence de Dieu élimine cette émotion",
+    "explanation": "David déclare qu'avec Dieu comme lumière et salut, il n'y a aucune raison de craindre.",
+    "full_verse": "L'Éternel est ma lumière et mon salut : de qui aurais-je crainte? L'Éternel est le soutien de ma vie : de qui aurais-je peur?",
+    "verse_ref": "Psaume 27:1"
+  },
+  "q_comfort_013": {
+    "question": "Complétez le verset : « Remets ton sort à l'Éternel, et il te _____. »",
+    "correct": "soutiendra",
+    "wrong": ["consolera", "aidera", "sauvera"],
+    "hint": "Dieu te gardera en route",
+    "explanation": "Le psalmiste encourage à donner nos soucis à Dieu, qui nous soutiendra et nous maintiendra.",
+    "full_verse": "Remets ton sort à l'Éternel, et il te soutiendra; il ne laissera jamais chanceler le juste.",
+    "verse_ref": "Psaume 55:23"
+  },
+  "q_comfort_014": {
+    "question": "Complétez le verset : « Ma chair et mon cœur peuvent se consumer : Dieu sera toujours le rocher de mon cœur et mon partage pour _____. »",
+    "correct": "toujours",
+    "wrong": ["jamais", "l'éternité", "toute ma vie"],
+    "hint": "La provision de Dieu n'a pas de fin",
+    "explanation": "Même quand notre corps et notre esprit faiblissent, Dieu reste notre force éternelle et notre héritage.",
+    "full_verse": "Ma chair et mon cœur peuvent se consumer : Dieu sera toujours le rocher de mon cœur et mon partage.",
+    "verse_ref": "Psaume 73:26"
+  },
+  "q_comfort_015": {
+    "question": "Complétez le verset : « Quand les pensées s'agitent en grand nombre au-dedans de moi, tes consolations réjouissent mon _____. »",
+    "correct": "âme",
+    "wrong": ["cœur", "esprit", "vie"],
+    "hint": "La consolation de Dieu atteint cette partie de nous",
+    "explanation": "Le psalmiste témoigne que la consolation de Dieu transforme l'anxiété accablante en joie.",
+    "full_verse": "Quand les pensées s'agitent en grand nombre au-dedans de moi, tes consolations réjouissent mon âme.",
+    "verse_ref": "Psaume 94:19"
+  },
+  "q_comfort_016": {
+    "question": "Complétez le verset : « C'est ma consolation dans ma misère, car ta _____ me rend la vie. »",
+    "correct": "promesse",
+    "wrong": ["parole", "amour", "grâce"],
+    "hint": "L'engagement de Dieu donne la vie",
+    "explanation": "Le psalmiste trouve la consolation dans la souffrance grâce aux promesses fidèles de Dieu.",
+    "full_verse": "C'est ma consolation dans ma misère, car ta promesse me rend la vie.",
+    "verse_ref": "Psaume 119:50"
+  },
+  "q_comfort_017": {
+    "question": "Complétez le verset : « Que ta bonté soit ma consolation, comme tu l'as promis à ton _____! »",
+    "correct": "serviteur",
+    "wrong": ["peuple", "enfant", "fidèle"],
+    "hint": "Le psalmiste fait appel à ce que Dieu a dit",
+    "explanation": "Le psalmiste demande la consolation basée sur l'amour infaillible de Dieu et ses promesses.",
+    "full_verse": "Que ta bonté soit ma consolation, comme tu l'as promis à ton serviteur!",
+    "verse_ref": "Psaume 119:76"
+  },
+  "q_comfort_018": {
+    "question": "Complétez le verset : « Il guérit ceux qui ont le cœur brisé, et il panse leurs _____. »",
+    "correct": "blessures",
+    "wrong": ["cœurs", "chagrins", "douleurs"],
+    "hint": "Dieu apporte la guérison aux blessures émotionnelles",
+    "explanation": "Dieu non seulement guérit les cœurs brisés mais prend aussi soin des blessures spécifiques que nous portons.",
+    "full_verse": "Il guérit ceux qui ont le cœur brisé, et il panse leurs blessures.",
+    "verse_ref": "Psaume 147:3"
+  },
+  "q_comfort_019": {
+    "question": "Complétez le verset : « Consolez, consolez mon _____, dit votre Dieu. »",
+    "correct": "peuple",
+    "wrong": ["enfants", "serviteurs", "nation"],
+    "hint": "Dieu s'adresse à sa communauté",
+    "explanation": "Dieu ordonne que son peuple reçoive une double consolation, soulignant l'importance de la consolation.",
+    "full_verse": "Consolez, consolez mon peuple, dit votre Dieu.",
+    "verse_ref": "Ésaïe 40:1"
+  },
+  "q_comfort_020": {
+    "question": "Complétez le verset : « Cieux, réjouissez-vous! Terre, sois dans l'allégresse! Montagnes, éclatez en cris de joie! Car l'Éternel _____ son peuple. »",
+    "correct": "console",
+    "wrong": ["aime", "sauve", "bénit"],
+    "hint": "Toute la création célèbre la consolation de Dieu",
+    "explanation": "La création est appelée à célébrer parce que Dieu apporte la consolation à son peuple.",
+    "full_verse": "Cieux, réjouissez-vous! Terre, sois dans l'allégresse! Montagnes, éclatez en cris de joie! Car l'Éternel console son peuple, il a pitié de ses malheureux.",
+    "verse_ref": "Ésaïe 49:13"
+  },
+  "q_comfort_021": {
+    "question": "Complétez le verset : « C'est moi, c'est moi qui vous _____. »",
+    "correct": "console",
+    "wrong": ["sauve", "aime", "protège"],
+    "hint": "Dieu fournit personnellement la consolation",
+    "explanation": "Dieu déclare avec emphase que c'est lui-même qui apporte la consolation.",
+    "full_verse": "C'est moi, c'est moi qui vous console. Qui es-tu, pour avoir peur de l'homme mortel, et du fils de l'homme, pareil à l'herbe?",
+    "verse_ref": "Ésaïe 51:12"
+  },
+  "q_comfort_022": {
+    "question": "Complétez le verset : « Quand les montagnes s'éloigneraient, quand les collines chancelleraient, mon _____ ne s'éloignera point de toi. »",
+    "correct": "amour",
+    "wrong": ["miséricorde", "grâce", "promesse"],
+    "hint": "L'émotion de Dieu envers nous est inébranlable",
+    "explanation": "Dieu promet que son amour est plus stable que les montagnes elles-mêmes.",
+    "full_verse": "Quand les montagnes s'éloigneraient, quand les collines chancelleraient, mon amour ne s'éloignera point de toi, et mon alliance de paix ne chancellera point, dit l'Éternel, qui a compassion de toi.",
+    "verse_ref": "Ésaïe 54:10"
+  },
+  "q_comfort_023": {
+    "question": "Complétez le verset : « L'Esprit du Seigneur, l'Éternel, est sur moi, car l'Éternel m'a oint pour porter de bonnes nouvelles aux _____. »",
+    "correct": "malheureux",
+    "wrong": ["perdus", "brisés", "humbles"],
+    "hint": "La bonne nouvelle vient à ceux qui sont dans le besoin",
+    "explanation": "Ésaïe prophétise sur la mission du Messie d'apporter de bonnes nouvelles et du réconfort aux nécessiteux.",
+    "full_verse": "L'Esprit du Seigneur, l'Éternel, est sur moi, car l'Éternel m'a oint pour porter de bonnes nouvelles aux malheureux; il m'a envoyé pour guérir ceux qui ont le cœur brisé.",
+    "verse_ref": "Ésaïe 61:1"
+  },
+  "q_comfort_024": {
+    "question": "Complétez le verset : « Je changerai leur deuil en allégresse, et je les consolerai; je leur donnerai de la joie après leurs _____. »",
+    "correct": "chagrins",
+    "wrong": ["peines", "souffrances", "larmes"],
+    "hint": "Dieu transforme le chagrin en célébration",
+    "explanation": "Dieu promet de transformer la tristesse en joie et de remplacer le deuil par l'allégresse.",
+    "full_verse": "Je changerai leur deuil en allégresse, et je les consolerai; je leur donnerai de la joie après leurs chagrins.",
+    "verse_ref": "Jérémie 31:13"
+  },
+  "q_comfort_025": {
+    "question": "Complétez le verset : « Les bontés de l'Éternel ne sont pas épuisées, ses compassions ne sont pas à leur _____. »",
+    "correct": "terme",
+    "wrong": ["fin", "limite", "bout"],
+    "hint": "Les miséricordes de Dieu sont sans fin",
+    "explanation": "Même dans la souffrance, l'amour et la compassion de Dieu restent constants et fiables.",
+    "full_verse": "Les bontés de l'Éternel ne sont pas épuisées, ses compassions ne sont pas à leur terme; elles se renouvellent chaque matin. Oh! que ta fidélité est grande!",
+    "verse_ref": "Lamentations 3:22-23"
+  },
+  "q_comfort_026": {
+    "question": "Complétez le verset : « L'Éternel est bon, il est un refuge au jour de la _____. »",
+    "correct": "détresse",
+    "wrong": ["besoin", "difficulté", "danger"],
+    "hint": "Dieu est un lieu sûr quand les difficultés arrivent",
+    "explanation": "Nahum déclare la bonté de Dieu et son rôle d'abri dans les moments difficiles.",
+    "full_verse": "L'Éternel est bon, il est un refuge au jour de la détresse; il connaît ceux qui se confient en lui.",
+    "verse_ref": "Nahum 1:7"
+  },
+  "q_comfort_027": {
+    "question": "Complétez le verset : « L'Éternel, ton Dieu, est au milieu de toi, comme un héros qui _____. »",
+    "correct": "sauve",
+    "wrong": ["combat", "protège", "conquiert"],
+    "hint": "Dieu en tant que guerrier apporte la délivrance",
+    "explanation": "Sophonie décrit Dieu comme un héros puissant qui sauve et se réjouit de son peuple.",
+    "full_verse": "L'Éternel, ton Dieu, est au milieu de toi, comme un héros qui sauve; il fera de toi sa plus grande joie; il gardera le silence dans son amour; il aura pour toi des transports d'allégresse.",
+    "verse_ref": "Sophonie 3:17"
+  },
+  "q_comfort_028": {
+    "question": "Complétez le verset : « Prenez mon joug sur vous et recevez mes instructions, car je suis doux et humble de _____. »",
+    "correct": "cœur",
+    "wrong": ["esprit", "âme", "caractère"],
+    "hint": "Jésus décrit son caractère intérieur",
+    "explanation": "Jésus nous invite à apprendre de sa nature douce et humble, trouvant le repos pour nos âmes.",
+    "full_verse": "Prenez mon joug sur vous et recevez mes instructions, car je suis doux et humble de cœur; et vous trouverez du repos pour vos âmes.",
+    "verse_ref": "Matthieu 11:29"
+  },
+  "q_comfort_029": {
+    "question": "Complétez le verset : « Que votre cœur ne se trouble point. Croyez en Dieu, et croyez en _____. »",
+    "correct": "moi",
+    "wrong": ["lui", "nous", "l'Esprit"],
+    "hint": "Jésus s'adresse au trouble intérieur",
+    "explanation": "Jésus réconforte ses disciples en les appelant à lui faire confiance comme ils font confiance à Dieu.",
+    "full_verse": "Que votre cœur ne se trouble point. Croyez en Dieu, et croyez en moi.",
+    "verse_ref": "Jean 14:1"
+  },
+  "q_comfort_030": {
+    "question": "Complétez le verset : « Et moi, je prierai le Père, et il vous donnera un autre consolateur, afin qu'il demeure _____ avec vous. »",
+    "correct": "éternellement",
+    "wrong": ["toujours", "pour toujours", "à jamais"],
+    "hint": "La présence du Consolateur n'a pas de fin",
+    "explanation": "Jésus promet le Saint-Esprit comme Consolateur et Aide permanent.",
+    "full_verse": "Et moi, je prierai le Père, et il vous donnera un autre consolateur, afin qu'il demeure éternellement avec vous.",
+    "verse_ref": "Jean 14:16"
+  },
+  "q_comfort_031": {
+    "question": "Complétez le verset : « Je ne vous laisserai pas _____; je viendrai à vous. »",
+    "correct": "orphelins",
+    "wrong": ["seuls", "abandonnés", "délaissés"],
+    "hint": "Jésus promet de ne pas nous laisser sans parents",
+    "explanation": "Jésus assure ses disciples qu'il ne les abandonnera pas comme des enfants sans parents.",
+    "full_verse": "Je ne vous laisserai pas orphelins; je viendrai à vous.",
+    "verse_ref": "Jean 14:18"
+  },
+  "q_comfort_032": {
+    "question": "Complétez le verset : « Je vous ai dit ces choses, afin que vous ayez la paix en moi. Vous aurez des tribulations dans le monde; mais prenez courage, j'ai vaincu le _____. »",
+    "correct": "monde",
+    "wrong": ["ennemi", "ténèbres", "mal"],
+    "hint": "Jésus a conquis ce domaine",
+    "explanation": "Jésus reconnaît la tribulation mais encourage les croyants avec sa victoire sur le monde.",
+    "full_verse": "Je vous ai dit ces choses, afin que vous ayez la paix en moi. Vous aurez des tribulations dans le monde; mais prenez courage, j'ai vaincu le monde.",
+    "verse_ref": "Jean 16:33"
+  },
+  "q_comfort_033": {
+    "question": "Complétez le verset : « J'estime que les souffrances du temps présent ne sauraient être comparées à la _____ à venir qui sera révélée pour nous. »",
+    "correct": "gloire",
+    "wrong": ["joie", "récompense", "bénédiction"],
+    "hint": "La splendeur future surpasse la douleur actuelle",
+    "explanation": "Paul met la souffrance en perspective en la comparant à la gloire future incomparable.",
+    "full_verse": "J'estime que les souffrances du temps présent ne sauraient être comparées à la gloire à venir qui sera révélée pour nous.",
+    "verse_ref": "Romains 8:18"
+  },
+  "q_comfort_034": {
+    "question": "Complétez le verset : « Or, tout ce qui a été écrit d'avance l'a été pour notre instruction, afin que, par la patience, et par la consolation que donnent les Écritures, nous possédions l'_____. »",
+    "correct": "espérance",
+    "wrong": ["foi", "paix", "joie"],
+    "hint": "Les Écritures produisent cette attente",
+    "explanation": "Paul explique que les Écritures fournissent patience et encouragement qui produisent l'espérance.",
+    "full_verse": "Or, tout ce qui a été écrit d'avance l'a été pour notre instruction, afin que, par la patience, et par la consolation que donnent les Écritures, nous possédions l'espérance.",
+    "verse_ref": "Romains 15:4"
+  },
+  "q_comfort_035": {
+    "question": "Complétez le verset : « Car, de même que les souffrances de Christ abondent en nous, de même notre _____ abonde par Christ. »",
+    "correct": "consolation",
+    "wrong": ["joie", "espérance", "paix"],
+    "hint": "La souffrance et la consolation sont liées",
+    "explanation": "Paul enseigne que partager les souffrances de Christ signifie aussi partager abondamment sa consolation.",
+    "full_verse": "Car, de même que les souffrances de Christ abondent en nous, de même notre consolation abonde par Christ.",
+    "verse_ref": "2 Corinthiens 1:5"
+  },
+  "q_comfort_036": {
+    "question": "Complétez le verset : « Mais Dieu, qui console ceux qui sont abattus, nous a consolés par l'arrivée de _____. »",
+    "correct": "Tite",
+    "wrong": ["Timothée", "Paul", "Barnabas"],
+    "hint": "L'arrivée de cette personne a apporté du réconfort",
+    "explanation": "Paul partage comment Dieu a utilisé l'arrivée de Tite pour apporter du réconfort dans un moment difficile.",
+    "full_verse": "Mais Dieu, qui console ceux qui sont abattus, nous a consolés par l'arrivée de Tite.",
+    "verse_ref": "2 Corinthiens 7:6"
+  },
+  "q_comfort_037": {
+    "question": "Complétez le verset : « Que notre Seigneur Jésus-Christ lui-même, et Dieu notre Père, qui nous a aimés, et qui nous a donné par sa grâce une consolation éternelle et une bonne _____. »",
+    "correct": "espérance",
+    "wrong": ["nouvelle", "foi", "promesse"],
+    "hint": "Dieu nous donne une attente positive",
+    "explanation": "Paul prie pour que la consolation éternelle et l'espérance de Dieu fortifient les croyants.",
+    "full_verse": "Que notre Seigneur Jésus-Christ lui-même, et Dieu notre Père, qui nous a aimés, et qui nous a donné par sa grâce une consolation éternelle et une bonne espérance, consolent vos cœurs, et vous affermissent en toute bonne œuvre et en toute bonne parole.",
+    "verse_ref": "2 Thessaloniciens 2:16-17"
+  },
+  "q_comfort_038": {
+    "question": "Complétez le verset : « Approchons-nous donc avec assurance du trône de la grâce afin d'obtenir miséricorde et de trouver grâce, pour être secourus dans nos _____. »",
+    "correct": "besoins",
+    "wrong": ["difficultés", "détresses", "faiblesses"],
+    "hint": "La grâce est disponible quand nous en avons besoin",
+    "explanation": "Nous sommes encouragés à nous approcher hardiment du trône de Dieu pour recevoir de l'aide quand nous en avons le plus besoin.",
+    "full_verse": "Approchons-nous donc avec assurance du trône de la grâce afin d'obtenir miséricorde et de trouver grâce, pour être secourus dans nos besoins.",
+    "verse_ref": "Hébreux 4:16"
+  },
+  "q_comfort_039": {
+    "question": "Complétez le verset : « Je ne te délaisserai point, et je ne t'_____ point. »",
+    "correct": "abandonnerai",
+    "wrong": ["oublierai", "rejetterai", "quitterai"],
+    "hint": "Dieu promet de ne jamais nous déserter",
+    "explanation": "Dieu fait une promesse emphatique de ne jamais quitter ou abandonner son peuple.",
+    "full_verse": "Car Dieu lui-même a dit: Je ne te délaisserai point, et je ne t'abandonnerai point.",
+    "verse_ref": "Hébreux 13:5"
+  },
+  "q_comfort_040": {
+    "question": "Complétez le verset : « Déchargez-vous sur lui de tous vos soucis, car lui-même prend _____ de vous. »",
+    "correct": "soin",
+    "wrong": ["amour", "charge", "garde"],
+    "hint": "Le souci de Dieu motive le don de nos inquiétudes",
+    "explanation": "Pierre encourage les croyants à donner toutes leurs inquiétudes à Dieu parce qu'il prend véritablement soin d'eux.",
+    "full_verse": "Déchargez-vous sur lui de tous vos soucis, car lui-même prend soin de vous.",
+    "verse_ref": "1 Pierre 5:7"
+  },
+  "q_comfort_041": {
+    "question": "Complétez le verset : « Car l'agneau qui est au milieu du trône les paîtra et les conduira aux sources des eaux de la _____. »",
+    "correct": "vie",
+    "wrong": ["grâce", "paix", "joie"],
+    "hint": "L'Agneau fournit le rafraîchissement",
+    "explanation": "Dans l'Apocalypse, Jésus en tant qu'Agneau conduit son peuple vers le rafraîchissement éternel et le réconfort.",
+    "full_verse": "Car l'agneau qui est au milieu du trône les paîtra et les conduira aux sources des eaux de la vie, et Dieu essuiera toute larme de leurs yeux.",
+    "verse_ref": "Apocalypse 7:17"
+  },
+  "q_comfort_042": {
+    "question": "Complétez le verset : « Il essuiera toute _____ de leurs yeux. »",
+    "correct": "larme",
+    "wrong": ["tristesse", "douleur", "peine"],
+    "hint": "Dieu enlève la preuve des pleurs",
+    "explanation": "Dans le nouveau ciel et la nouvelle terre, Dieu enlèvera personnellement tout chagrin et toute tristesse.",
+    "full_verse": "Il essuiera toute larme de leurs yeux, et la mort ne sera plus, et il n'y aura plus ni deuil, ni cri, ni douleur, car les premières choses ont disparu.",
+    "verse_ref": "Apocalypse 21:4"
+  },
+  "q_comfort_043": {
+    "question": "Complétez le verset : « L'Éternel marchera lui-même devant toi, il sera lui-même avec toi, il ne te délaissera point, il ne t'_____ point. »",
+    "correct": "abandonnera",
+    "wrong": ["oubliera", "rejettera", "quittera"],
+    "hint": "Dieu ne désertera jamais son peuple",
+    "explanation": "Moïse encourage Josué avec la promesse que Dieu marche devant et n'abandonne jamais son peuple.",
+    "full_verse": "L'Éternel marchera lui-même devant toi, il sera lui-même avec toi, il ne te délaissera point, il ne t'abandonnera point; ne crains point, et ne t'effraie point.",
+    "verse_ref": "Deutéronome 31:8"
+  },
+  "q_comfort_044": {
+    "question": "Complétez le verset : « Ne t'ai-je pas donné cet ordre : Fortifie-toi et prends _____? Ne t'effraie point et ne t'épouvante point. »",
+    "correct": "courage",
+    "wrong": ["confiance", "foi", "force"],
+    "hint": "Dieu commande la force et cette qualité",
+    "explanation": "Dieu commande à Josué d'être fort et courageux parce qu'il sera avec lui partout où il ira.",
+    "full_verse": "Ne t'ai-je pas donné cet ordre : Fortifie-toi et prends courage? Ne t'effraie point et ne t'épouvante point, car l'Éternel, ton Dieu, est avec toi dans tout ce que tu entreprendras.",
+    "verse_ref": "Josué 1:9"
+  },
+  "q_comfort_045": {
+    "question": "Complétez le verset : « L'Éternel est un refuge pour l'opprimé, un refuge au temps de la _____. »",
+    "correct": "détresse",
+    "wrong": ["besoin", "danger", "difficulté"],
+    "hint": "Dieu protège pendant les saisons difficiles",
+    "explanation": "Le psalmiste déclare Dieu comme un lieu sûr pour ceux qui sont persécutés et en difficulté.",
+    "full_verse": "L'Éternel est un refuge pour l'opprimé, un refuge au temps de la détresse.",
+    "verse_ref": "Psaume 9:10"
+  },
+  "q_comfort_046": {
+    "question": "Complétez le verset : « L'Éternel est mon rocher, ma forteresse, mon libérateur! Mon Dieu est mon rocher, où je trouve un _____. »",
+    "correct": "abri",
+    "wrong": ["refuge", "repos", "réconfort"],
+    "hint": "David trouve la sécurité en Dieu",
+    "explanation": "David utilise plusieurs métaphores pour décrire Dieu comme sa source ultime de protection et de sécurité.",
+    "full_verse": "L'Éternel est mon rocher, ma forteresse, mon libérateur! Mon Dieu est mon rocher, où je trouve un abri! Mon bouclier, la force qui me sauve, ma haute retraite!",
+    "verse_ref": "Psaume 18:3"
+  },
+  "q_comfort_047": {
+    "question": "Complétez le verset : « Car sa colère dure un instant, mais sa grâce toute la vie; le soir arrivent les pleurs, et le _____ l'allégresse. »",
+    "correct": "matin",
+    "wrong": ["jour", "lendemain", "réveil"],
+    "hint": "La joie vient après que les ténèbres passent",
+    "explanation": "Le psalmiste assure que la tristesse est temporaire et que la joie viendra avec le nouveau jour.",
+    "full_verse": "Car sa colère dure un instant, mais sa grâce toute la vie; le soir arrivent les pleurs, et le matin l'allégresse.",
+    "verse_ref": "Psaume 30:6"
+  },
+  "q_comfort_048": {
+    "question": "Complétez le verset : « Pourquoi t'abats-tu, mon âme, et gémis-tu au-dedans de moi? Espère en Dieu, car je le louerai _____. »",
+    "correct": "encore",
+    "wrong": ["toujours", "bientôt", "jamais"],
+    "hint": "Le psalmiste encourage la louange future",
+    "explanation": "Le psalmiste conseille sa propre âme d'espérer en Dieu malgré le découragement actuel.",
+    "full_verse": "Pourquoi t'abats-tu, mon âme, et gémis-tu au-dedans de moi? Espère en Dieu, car je le louerai encore; il est mon salut et mon Dieu.",
+    "verse_ref": "Psaume 42:6"
+  },
+  "q_comfort_049": {
+    "question": "Complétez le verset : « Celui qui demeure sous l'abri du Très-Haut repose à l'ombre du _____. »",
+    "correct": "Tout-Puissant",
+    "wrong": ["Seigneur", "Sauveur", "Roi"],
+    "hint": "Ce titre souligne la puissance de Dieu",
+    "explanation": "Ceux qui font de Dieu leur demeure trouvent le repos sous sa présence protectrice.",
+    "full_verse": "Celui qui demeure sous l'abri du Très-Haut repose à l'ombre du Tout-Puissant.",
+    "verse_ref": "Psaume 91:1"
+  },
+  "q_comfort_050": {
+    "question": "Complétez le verset : « Je lève mes yeux vers les montagnes... D'où me viendra le secours? Le secours me vient de l'_____. »",
+    "correct": "Éternel",
+    "wrong": ["ciel", "Très-Haut", "Tout-Puissant"],
+    "hint": "Le psalmiste identifie la source de l'aide",
+    "explanation": "Le psalmiste regarde au-delà des sources terrestres vers Dieu, le créateur du ciel et de la terre, pour l'aide.",
+    "full_verse": "Je lève mes yeux vers les montagnes... D'où me viendra le secours? Le secours me vient de l'Éternel, qui a fait les cieux et la terre.",
+    "verse_ref": "Psaume 121:1-2"
+  }
+}

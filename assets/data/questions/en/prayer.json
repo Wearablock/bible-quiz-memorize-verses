@@ -1,1 +1,452 @@
-{}
+{
+  "q_prayer_001": {
+    "question": "Fill in the blank: 'Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to _____.'",
+    "correct": "God",
+    "wrong": ["heaven", "the Lord", "Jesus"],
+    "hint": "We bring our requests to Him",
+    "explanation": "Paul instructs believers to replace anxiety with prayer and thanksgiving to God.",
+    "full_verse": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
+    "verse_ref": "Philippians 4:6"
+  },
+  "q_prayer_002": {
+    "question": "Fill in the blank: 'Pray without _____.'",
+    "correct": "ceasing",
+    "wrong": ["stopping", "ending", "pausing"],
+    "hint": "Continuous prayer",
+    "explanation": "Paul gives the shortest and most profound command about prayer—never stop praying.",
+    "full_verse": "Pray without ceasing.",
+    "verse_ref": "1 Thessalonians 5:17"
+  },
+  "q_prayer_003": {
+    "question": "Fill in the blank: 'This, then, is how you should pray: \"Our Father in heaven, hallowed be your _____.\"'",
+    "correct": "name",
+    "wrong": ["throne", "kingdom", "glory"],
+    "hint": "What should be honored as holy",
+    "explanation": "Jesus begins the Lord's Prayer by teaching us to honor God's name as holy.",
+    "full_verse": "This, then, is how you should pray: 'Our Father in heaven, hallowed be your name.'",
+    "verse_ref": "Matthew 6:9"
+  },
+  "q_prayer_004": {
+    "question": "Fill in the blank: 'Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous person is powerful and _____.'",
+    "correct": "effective",
+    "wrong": ["mighty", "strong", "answered"],
+    "hint": "It produces results",
+    "explanation": "James teaches that a righteous person's prayer is both powerful and effective.",
+    "full_verse": "Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous person is powerful and effective.",
+    "verse_ref": "James 5:16"
+  },
+  "q_prayer_005": {
+    "question": "Fill in the blank: 'Ask and it will be given to you; seek and you will find; knock and the door will be _____ to you.'",
+    "correct": "opened",
+    "wrong": ["shown", "revealed", "unlocked"],
+    "hint": "What happens to a door",
+    "explanation": "Jesus encourages persistent prayer with the promise that God will respond.",
+    "full_verse": "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.",
+    "verse_ref": "Matthew 7:7"
+  },
+  "q_prayer_006": {
+    "question": "Fill in the blank: 'And I will do whatever you ask in my name, so that the Father may be glorified in the _____.'",
+    "correct": "Son",
+    "wrong": ["prayer", "answer", "believer"],
+    "hint": "Jesus refers to Himself",
+    "explanation": "Jesus promises to answer prayers made in His name for the Father's glory.",
+    "full_verse": "And I will do whatever you ask in my name, so that the Father may be glorified in the Son.",
+    "verse_ref": "John 14:13"
+  },
+  "q_prayer_007": {
+    "question": "Fill in the blank: 'This is the confidence we have in approaching God: that if we ask anything according to his will, he _____ us.'",
+    "correct": "hears",
+    "wrong": ["answers", "helps", "blesses"],
+    "hint": "God pays attention to our prayers",
+    "explanation": "John assures believers that God hears prayers aligned with His will.",
+    "full_verse": "This is the confidence we have in approaching God: that if we ask anything according to his will, he hears us.",
+    "verse_ref": "1 John 5:14"
+  },
+  "q_prayer_008": {
+    "question": "Fill in the blank: 'Then you will call on me and come and pray to me, and I will _____ to you.'",
+    "correct": "listen",
+    "wrong": ["speak", "answer", "respond"],
+    "hint": "God pays attention",
+    "explanation": "God promises to listen when His people call upon Him in prayer.",
+    "full_verse": "Then you will call on me and come and pray to me, and I will listen to you.",
+    "verse_ref": "Jeremiah 29:12"
+  },
+  "q_prayer_009": {
+    "question": "Fill in the blank: 'The LORD is near to all who call on him, to all who call on him in _____.'",
+    "correct": "truth",
+    "wrong": ["faith", "love", "hope"],
+    "hint": "Sincere, genuine prayer",
+    "explanation": "God draws near to those who call on Him sincerely and truthfully.",
+    "full_verse": "The LORD is near to all who call on him, to all who call on him in truth.",
+    "verse_ref": "Psalm 145:18"
+  },
+  "q_prayer_010": {
+    "question": "Fill in the blank: 'In the same way, the Spirit helps us in our weakness. We do not know what we ought to pray for, but the Spirit himself intercedes for us through wordless _____.'",
+    "correct": "groans",
+    "wrong": ["prayers", "sighs", "cries"],
+    "hint": "Deep expressions beyond words",
+    "explanation": "Paul teaches that the Holy Spirit helps us pray when we don't know how.",
+    "full_verse": "In the same way, the Spirit helps us in our weakness. We do not know what we ought to pray for, but the Spirit himself intercedes for us through wordless groans.",
+    "verse_ref": "Romans 8:26"
+  },
+  "q_prayer_011": {
+    "question": "Fill in the blank: 'But when you pray, go into your room, close the door and pray to your Father, who is unseen. Then your Father, who sees what is done in _____, will reward you.'",
+    "correct": "secret",
+    "wrong": ["private", "silence", "darkness"],
+    "hint": "Hidden from public view",
+    "explanation": "Jesus teaches about private prayer that God sees and rewards.",
+    "full_verse": "But when you pray, go into your room, close the door and pray to your Father, who is unseen. Then your Father, who sees what is done in secret, will reward you.",
+    "verse_ref": "Matthew 6:6"
+  },
+  "q_prayer_012": {
+    "question": "Fill in the blank: 'Again, truly I tell you that if two of you on earth agree about anything they ask for, it will be done for them by my Father in _____.'",
+    "correct": "heaven",
+    "wrong": ["glory", "power", "love"],
+    "hint": "Where God dwells",
+    "explanation": "Jesus promises that united prayer of agreement will be answered by the Father.",
+    "full_verse": "Again, truly I tell you that if two of you on earth agree about anything they ask for, it will be done for them by my Father in heaven.",
+    "verse_ref": "Matthew 18:19"
+  },
+  "q_prayer_013": {
+    "question": "Fill in the blank: 'If you believe, you will receive whatever you ask for in _____.'",
+    "correct": "prayer",
+    "wrong": ["faith", "hope", "love"],
+    "hint": "Communication with God",
+    "explanation": "Jesus connects believing faith with receiving answers to prayer.",
+    "full_verse": "If you believe, you will receive whatever you ask for in prayer.",
+    "verse_ref": "Matthew 21:22"
+  },
+  "q_prayer_014": {
+    "question": "Fill in the blank: 'Therefore I tell you, whatever you ask for in prayer, believe that you have _____ it, and it will be yours.'",
+    "correct": "received",
+    "wrong": ["gotten", "obtained", "gained"],
+    "hint": "Already possessing what you asked for",
+    "explanation": "Jesus teaches that faith in prayer means believing we have already received.",
+    "full_verse": "Therefore I tell you, whatever you ask for in prayer, believe that you have received it, and it will be yours.",
+    "verse_ref": "Mark 11:24"
+  },
+  "q_prayer_015": {
+    "question": "Fill in the blank: 'So I say to you: Ask and it will be given to you; seek and you will find; knock and the door will be _____ to you.'",
+    "correct": "opened",
+    "wrong": ["shown", "revealed", "unlocked"],
+    "hint": "Access is granted",
+    "explanation": "Jesus encourages persistent asking, seeking, and knocking in prayer.",
+    "full_verse": "So I say to you: Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.",
+    "verse_ref": "Luke 11:9"
+  },
+  "q_prayer_016": {
+    "question": "Fill in the blank: 'Then Jesus told his disciples a parable to show them that they should always pray and not give _____.'",
+    "correct": "up",
+    "wrong": ["in", "out", "way"],
+    "hint": "Not to quit",
+    "explanation": "Jesus teaches through a parable that we should persist in prayer.",
+    "full_verse": "Then Jesus told his disciples a parable to show them that they should always pray and not give up.",
+    "verse_ref": "Luke 18:1"
+  },
+  "q_prayer_017": {
+    "question": "Fill in the blank: 'If you remain in me and my words remain in you, ask whatever you wish, and it will be _____ for you.'",
+    "correct": "done",
+    "wrong": ["given", "granted", "provided"],
+    "hint": "It will happen",
+    "explanation": "Jesus promises answered prayer to those who abide in Him and His word.",
+    "full_verse": "If you remain in me and my words remain in you, ask whatever you wish, and it will be done for you.",
+    "verse_ref": "John 15:7"
+  },
+  "q_prayer_018": {
+    "question": "Fill in the blank: 'Until now you have not asked for anything in my name. Ask and you will receive, and your joy will be _____.'",
+    "correct": "complete",
+    "wrong": ["full", "perfect", "great"],
+    "hint": "Joy reaching its fullness",
+    "explanation": "Jesus encourages His disciples to pray in His name for complete joy.",
+    "full_verse": "Until now you have not asked for anything in my name. Ask and you will receive, and your joy will be complete.",
+    "verse_ref": "John 16:24"
+  },
+  "q_prayer_019": {
+    "question": "Fill in the blank: 'Devote yourselves to prayer, being watchful and _____.'",
+    "correct": "thankful",
+    "wrong": ["faithful", "hopeful", "prayerful"],
+    "hint": "Expressing gratitude",
+    "explanation": "Paul calls believers to devoted, watchful, and thankful prayer.",
+    "full_verse": "Devote yourselves to prayer, being watchful and thankful.",
+    "verse_ref": "Colossians 4:2"
+  },
+  "q_prayer_020": {
+    "question": "Fill in the blank: 'And pray in the Spirit on all occasions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the _____.'",
+    "correct": "Lord's people",
+    "wrong": ["believers", "saints", "Christians"],
+    "hint": "Fellow believers",
+    "explanation": "Paul instructs believers to pray in the Spirit for all God's people.",
+    "full_verse": "And pray in the Spirit on all occasions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the Lord's people.",
+    "verse_ref": "Ephesians 6:18"
+  },
+  "q_prayer_021": {
+    "question": "Fill in the blank: 'Therefore I want the men everywhere to pray, lifting up holy hands without anger or _____.'",
+    "correct": "disputing",
+    "wrong": ["arguing", "fighting", "doubting"],
+    "hint": "Quarreling or disagreement",
+    "explanation": "Paul instructs men to pray with holy hands and peaceful hearts.",
+    "full_verse": "Therefore I want the men everywhere to pray, lifting up holy hands without anger or disputing.",
+    "verse_ref": "1 Timothy 2:8"
+  },
+  "q_prayer_022": {
+    "question": "Fill in the blank: 'Let us then approach God's throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of _____.'",
+    "correct": "need",
+    "wrong": ["trouble", "distress", "weakness"],
+    "hint": "When we require help",
+    "explanation": "We are encouraged to boldly approach God's throne for help when we need it.",
+    "full_verse": "Let us then approach God's throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need.",
+    "verse_ref": "Hebrews 4:16"
+  },
+  "q_prayer_023": {
+    "question": "Fill in the blank: 'If any of you lacks wisdom, you should ask God, who gives generously to all without finding _____, and it will be given to you.'",
+    "correct": "fault",
+    "wrong": ["blame", "error", "wrong"],
+    "hint": "God doesn't criticize us for asking",
+    "explanation": "James encourages believers to ask God for wisdom, who gives generously.",
+    "full_verse": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.",
+    "verse_ref": "James 1:5"
+  },
+  "q_prayer_024": {
+    "question": "Fill in the blank: 'You desire but do not have, so you kill. You covet but you cannot get what you want, so you quarrel and fight. You do not have because you do not _____.'",
+    "correct": "ask",
+    "wrong": ["pray", "believe", "seek"],
+    "hint": "Simply requesting from God",
+    "explanation": "James points out that we often lack because we fail to ask God.",
+    "full_verse": "You desire but do not have, so you kill. You covet but you cannot get what you want, so you quarrel and fight. You do not have because you do not ask.",
+    "verse_ref": "James 4:2"
+  },
+  "q_prayer_025": {
+    "question": "Fill in the blank: 'For the eyes of the Lord are on the righteous and his ears are attentive to their prayer, but the face of the Lord is against those who do _____.'",
+    "correct": "evil",
+    "wrong": ["wrong", "sin", "wickedly"],
+    "hint": "The opposite of good",
+    "explanation": "Peter quotes Psalm 34, showing that God hears the prayers of the righteous.",
+    "full_verse": "For the eyes of the Lord are on the righteous and his ears are attentive to their prayer, but the face of the Lord is against those who do evil.",
+    "verse_ref": "1 Peter 3:12"
+  },
+  "q_prayer_026": {
+    "question": "Fill in the blank: 'Answer me when I call to you, my righteous God. Give me relief from my distress; have _____ on me and hear my prayer.'",
+    "correct": "mercy",
+    "wrong": ["pity", "compassion", "grace"],
+    "hint": "David asks for God's kindness",
+    "explanation": "David calls out to God for mercy and relief in his distress.",
+    "full_verse": "Answer me when I call to you, my righteous God. Give me relief from my distress; have mercy on me and hear my prayer.",
+    "verse_ref": "Psalm 4:1"
+  },
+  "q_prayer_027": {
+    "question": "Fill in the blank: 'In the morning, LORD, you hear my voice; in the morning I lay my requests before you and wait _____.'",
+    "correct": "expectantly",
+    "wrong": ["patiently", "hopefully", "quietly"],
+    "hint": "With anticipation",
+    "explanation": "David presents his prayers in the morning and waits with expectation.",
+    "full_verse": "In the morning, LORD, you hear my voice; in the morning I lay my requests before you and wait expectantly.",
+    "verse_ref": "Psalm 5:3"
+  },
+  "q_prayer_028": {
+    "question": "Fill in the blank: 'I call on you, my God, for you will answer me; turn your ear to me and hear my _____.'",
+    "correct": "prayer",
+    "wrong": ["voice", "cry", "words"],
+    "hint": "Communication with God",
+    "explanation": "David expresses confidence that God will hear and answer his prayer.",
+    "full_verse": "I call on you, my God, for you will answer me; turn your ear to me and hear my prayer.",
+    "verse_ref": "Psalm 17:6"
+  },
+  "q_prayer_029": {
+    "question": "Fill in the blank: 'Evening, morning and noon I cry out in distress, and he _____ my voice.'",
+    "correct": "hears",
+    "wrong": ["answers", "knows", "receives"],
+    "hint": "God pays attention",
+    "explanation": "David testifies that God hears his prayers throughout the entire day.",
+    "full_verse": "Evening, morning and noon I cry out in distress, and he hears my voice.",
+    "verse_ref": "Psalm 55:17"
+  },
+  "q_prayer_030": {
+    "question": "Fill in the blank: 'But God has surely listened and has heard my _____.'",
+    "correct": "prayer",
+    "wrong": ["voice", "cry", "plea"],
+    "hint": "What David spoke to God",
+    "explanation": "The psalmist testifies that God has truly listened to his prayer.",
+    "full_verse": "But God has surely listened and has heard my prayer.",
+    "verse_ref": "Psalm 66:19"
+  },
+  "q_prayer_031": {
+    "question": "Fill in the blank: 'Hear my prayer, LORD; listen to my cry for _____.'",
+    "correct": "mercy",
+    "wrong": ["help", "grace", "aid"],
+    "hint": "Asking for God's compassion",
+    "explanation": "David pleads with God to hear his prayer and cry for mercy.",
+    "full_verse": "Hear my prayer, LORD; listen to my cry for mercy.",
+    "verse_ref": "Psalm 86:6"
+  },
+  "q_prayer_032": {
+    "question": "Fill in the blank: 'He will respond to the prayer of the destitute; he will not despise their _____.'",
+    "correct": "plea",
+    "wrong": ["cry", "prayer", "request"],
+    "hint": "An earnest request",
+    "explanation": "The psalmist assures that God responds to the prayers of the needy.",
+    "full_verse": "He will respond to the prayer of the destitute; he will not despise their plea.",
+    "verse_ref": "Psalm 102:17"
+  },
+  "q_prayer_033": {
+    "question": "Fill in the blank: 'May my prayer be set before you like incense; may the lifting up of my hands be like the evening _____.'",
+    "correct": "sacrifice",
+    "wrong": ["offering", "worship", "praise"],
+    "hint": "An Old Testament ritual",
+    "explanation": "David compares his prayer to incense and his raised hands to an offering.",
+    "full_verse": "May my prayer be set before you like incense; may the lifting up of my hands be like the evening sacrifice.",
+    "verse_ref": "Psalm 141:2"
+  },
+  "q_prayer_034": {
+    "question": "Fill in the blank: 'Seek the LORD while he may be found; call on him while he is _____.'",
+    "correct": "near",
+    "wrong": ["here", "close", "present"],
+    "hint": "Within reach",
+    "explanation": "Isaiah urges seeking God and calling on Him while He is accessible.",
+    "full_verse": "Seek the LORD while he may be found; call on him while he is near.",
+    "verse_ref": "Isaiah 55:6"
+  },
+  "q_prayer_035": {
+    "question": "Fill in the blank: 'Before they call I will answer; while they are still speaking I will _____.'",
+    "correct": "hear",
+    "wrong": ["answer", "respond", "listen"],
+    "hint": "God pays attention even before we finish",
+    "explanation": "God promises to hear and answer even before His people finish praying.",
+    "full_verse": "Before they call I will answer; while they are still speaking I will hear.",
+    "verse_ref": "Isaiah 65:24"
+  },
+  "q_prayer_036": {
+    "question": "Fill in the blank: 'Call to me and I will answer you and tell you great and unsearchable things you do not _____.'",
+    "correct": "know",
+    "wrong": ["see", "understand", "have"],
+    "hint": "Hidden information",
+    "explanation": "God invites us to call on Him and promises to reveal hidden truths.",
+    "full_verse": "Call to me and I will answer you and tell you great and unsearchable things you do not know.",
+    "verse_ref": "Jeremiah 33:3"
+  },
+  "q_prayer_037": {
+    "question": "Fill in the blank: 'Give ear, our God, and hear; open your eyes and see the desolation of the city that bears your Name. We do not make requests of you because we are righteous, but because of your great _____.'",
+    "correct": "mercy",
+    "wrong": ["love", "grace", "compassion"],
+    "hint": "God's kindness",
+    "explanation": "Daniel prays based on God's mercy, not human righteousness.",
+    "full_verse": "Give ear, our God, and hear; open your eyes and see the desolation of the city that bears your Name. We do not make requests of you because we are righteous, but because of your great mercy.",
+    "verse_ref": "Daniel 9:18"
+  },
+  "q_prayer_038": {
+    "question": "Fill in the blank: 'And when you pray, do not keep on babbling like pagans, for they think they will be heard because of their many _____.'",
+    "correct": "words",
+    "wrong": ["prayers", "requests", "offerings"],
+    "hint": "Quantity of speech",
+    "explanation": "Jesus warns against meaningless repetition in prayer.",
+    "full_verse": "And when you pray, do not keep on babbling like pagans, for they think they will be heard because of their many words.",
+    "verse_ref": "Matthew 6:7"
+  },
+  "q_prayer_039": {
+    "question": "Fill in the blank: 'Watch and pray so that you will not fall into temptation. The spirit is willing, but the flesh is _____.'",
+    "correct": "weak",
+    "wrong": ["tired", "frail", "sinful"],
+    "hint": "Lacking strength",
+    "explanation": "Jesus warns His disciples to pray to avoid falling into temptation.",
+    "full_verse": "Watch and pray so that you will not fall into temptation. The spirit is willing, but the flesh is weak.",
+    "verse_ref": "Matthew 26:41"
+  },
+  "q_prayer_040": {
+    "question": "Fill in the blank: 'One of those days Jesus went out to a mountainside to pray, and spent the night praying to _____.'",
+    "correct": "God",
+    "wrong": ["heaven", "the Father", "the Lord"],
+    "hint": "Who Jesus prayed to",
+    "explanation": "Luke records Jesus spending an entire night in prayer to God.",
+    "full_verse": "One of those days Jesus went out to a mountainside to pray, and spent the night praying to God.",
+    "verse_ref": "Luke 6:12"
+  },
+  "q_prayer_041": {
+    "question": "Fill in the blank: 'They all joined together constantly in prayer, along with the women and Mary the mother of Jesus, and with his _____.'",
+    "correct": "brothers",
+    "wrong": ["disciples", "followers", "friends"],
+    "hint": "Jesus' family members",
+    "explanation": "The early believers, including Jesus' family, devoted themselves to united prayer.",
+    "full_verse": "They all joined together constantly in prayer, along with the women and Mary the mother of Jesus, and with his brothers.",
+    "verse_ref": "Acts 1:14"
+  },
+  "q_prayer_042": {
+    "question": "Fill in the blank: 'They devoted themselves to the apostles' teaching and to fellowship, to the breaking of bread and to _____.'",
+    "correct": "prayer",
+    "wrong": ["worship", "praise", "fasting"],
+    "hint": "Communication with God",
+    "explanation": "The early church devoted themselves to teaching, fellowship, communion, and prayer.",
+    "full_verse": "They devoted themselves to the apostles' teaching and to fellowship, to the breaking of bread and to prayer.",
+    "verse_ref": "Acts 2:42"
+  },
+  "q_prayer_043": {
+    "question": "Fill in the blank: 'Be joyful in hope, patient in affliction, faithful in _____.'",
+    "correct": "prayer",
+    "wrong": ["love", "faith", "service"],
+    "hint": "Communication with God",
+    "explanation": "Paul gives three instructions for Christian living, including faithful prayer.",
+    "full_verse": "Be joyful in hope, patient in affliction, faithful in prayer.",
+    "verse_ref": "Romans 12:12"
+  },
+  "q_prayer_044": {
+    "question": "Fill in the blank: 'Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within _____.'",
+    "correct": "us",
+    "wrong": ["you", "them", "all"],
+    "hint": "God works in believers",
+    "explanation": "Paul praises God who can do far more than we could ever ask or imagine.",
+    "full_verse": "Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us.",
+    "verse_ref": "Ephesians 3:20"
+  },
+  "q_prayer_045": {
+    "question": "Fill in the blank: 'And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ _____.'",
+    "correct": "Jesus",
+    "wrong": ["Lord", "Savior", "God"],
+    "hint": "The full name of our Lord",
+    "explanation": "Paul promises that God's peace will guard believers who pray with thanksgiving.",
+    "full_verse": "And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
+    "verse_ref": "Philippians 4:7"
+  },
+  "q_prayer_046": {
+    "question": "Fill in the blank: 'I urge, then, first of all, that petitions, prayers, intercession and thanksgiving be made for all _____.'",
+    "correct": "people",
+    "wrong": ["nations", "believers", "saints"],
+    "hint": "Everyone",
+    "explanation": "Paul instructs that prayers should be made for all people.",
+    "full_verse": "I urge, then, first of all, that petitions, prayers, intercession and thanksgiving be made for all people.",
+    "verse_ref": "1 Timothy 2:1"
+  },
+  "q_prayer_047": {
+    "question": "Fill in the blank: 'During the days of Jesus' life on earth, he offered up prayers and petitions with fervent cries and tears to the one who could save him from death, and he was heard because of his reverent _____.'",
+    "correct": "submission",
+    "wrong": ["faith", "prayer", "obedience"],
+    "hint": "Humble yielding to God",
+    "explanation": "The writer describes Jesus' intense prayers during His earthly ministry.",
+    "full_verse": "During the days of Jesus' life on earth, he offered up prayers and petitions with fervent cries and tears to the one who could save him from death, and he was heard because of his reverent submission.",
+    "verse_ref": "Hebrews 5:7"
+  },
+  "q_prayer_048": {
+    "question": "Fill in the blank: 'And the prayer offered in faith will make the sick person well; the Lord will raise them up. If they have sinned, they will be _____.'",
+    "correct": "forgiven",
+    "wrong": ["healed", "restored", "saved"],
+    "hint": "Sins are pardoned",
+    "explanation": "James connects faithful prayer with healing and forgiveness.",
+    "full_verse": "And the prayer offered in faith will make the sick person well; the Lord will raise them up. If they have sinned, they will be forgiven.",
+    "verse_ref": "James 5:15"
+  },
+  "q_prayer_049": {
+    "question": "Fill in the blank: 'And receive from him anything we ask, because we keep his commands and do what _____ him.'",
+    "correct": "pleases",
+    "wrong": ["honors", "glorifies", "serves"],
+    "hint": "What makes God happy",
+    "explanation": "John connects answered prayer with obedience to God's commands.",
+    "full_verse": "And receive from him anything we ask, because we keep his commands and do what pleases him.",
+    "verse_ref": "1 John 3:22"
+  },
+  "q_prayer_050": {
+    "question": "Fill in the blank: 'The smoke of the incense, together with the prayers of God's people, went up before God from the angel's _____.'",
+    "correct": "hand",
+    "wrong": ["altar", "throne", "presence"],
+    "hint": "Part of the angel's body",
+    "explanation": "John's vision shows the prayers of believers rising before God like incense.",
+    "full_verse": "The smoke of the incense, together with the prayers of God's people, went up before God from the angel's hand.",
+    "verse_ref": "Revelation 8:4"
+  }
+}

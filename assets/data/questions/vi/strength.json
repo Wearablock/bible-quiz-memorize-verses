@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_strength_001",
+      "question": "Điền vào chỗ trống: 'Tôi làm được mọi sự nhờ Đấng ban _____ cho tôi.'",
+      "correct": "sức lực",
+      "wrong": ["quyền năng", "can đảm", "hy vọng"],
+      "hint": "Đây là khả năng vượt qua thử thách",
+      "explanation": "Đấng Christ ban cho chúng ta sức lực để đối mặt với mọi hoàn cảnh.",
+      "full_verse": "Tôi làm được mọi sự nhờ Đấng ban sức lực cho tôi.",
+      "verse_ref": "Phi-líp 4:13"
+    },
+    {
+      "id": "q_strength_002",
+      "question": "Điền vào chỗ trống: 'Nhưng ai trông đợi Đức Giê-hô-va thì chắc được sức mới, cất cánh bay cao như _____; chạy mà không mệt nhọc, đi mà không mòn mỏi.'",
+      "correct": "chim ưng",
+      "wrong": ["thiên sứ", "chim", "bồ câu"],
+      "hint": "Đây là loài chim mạnh mẽ bay cao",
+      "explanation": "Những ai tin cậy Đức Chúa Trời sẽ nhận được sức mới để vượt qua khó khăn.",
+      "full_verse": "Nhưng ai trông đợi Đức Giê-hô-va thì chắc được sức mới, cất cánh bay cao như chim ưng; chạy mà không mệt nhọc, đi mà không mòn mỏi.",
+      "verse_ref": "Ê-sai 40:31"
+    },
+    {
+      "id": "q_strength_003",
+      "question": "Điền vào chỗ trống: 'Đức Chúa Trời là nơi nương náu và sức lực của chúng tôi, Ngài sẵn giúp đỡ trong cơn _____.'",
+      "correct": "hoạn nạn",
+      "wrong": ["cần thiết", "nguy hiểm", "khốn khổ"],
+      "hint": "Từ này có nghĩa là khó khăn hoặc gian khổ",
+      "explanation": "Đức Chúa Trời luôn sẵn sàng là nguồn sức lực và giúp đỡ cho chúng ta.",
+      "full_verse": "Đức Chúa Trời là nơi nương náu và sức lực của chúng tôi, Ngài sẵn giúp đỡ trong cơn hoạn nạn.",
+      "verse_ref": "Thi Thiên 46:1"
+    },
+    {
+      "id": "q_strength_004",
+      "question": "Điền vào chỗ trống: 'Nhưng Chúa phán rằng: Ân điển ta đủ cho ngươi rồi, vì sức mạnh của ta nên trọn vẹn trong sự _____. Vậy, tôi sẽ rất vui lòng khoe mình về sự yếu đuối tôi, hầu cho sức mạnh của Đấng Christ ở trong tôi.'",
+      "correct": "yếu đuối",
+      "wrong": ["khiêm nhường", "đức tin", "thử thách"],
+      "hint": "Đây là điều trái ngược với sức mạnh",
+      "explanation": "Quyền năng của Đức Chúa Trời được thể hiện rõ nhất khi chúng ta nhận biết giới hạn của mình.",
+      "full_verse": "Nhưng Chúa phán rằng: Ân điển ta đủ cho ngươi rồi, vì sức mạnh của ta nên trọn vẹn trong sự yếu đuối. Vậy, tôi sẽ rất vui lòng khoe mình về sự yếu đuối tôi, hầu cho sức mạnh của Đấng Christ ở trong tôi.",
+      "verse_ref": "2 Cô-rinh-tô 12:9"
+    },
+    {
+      "id": "q_strength_005",
+      "question": "Điền vào chỗ trống: 'Chớ buồn thảm, vì sự vui vẻ của Đức Giê-hô-va là _____ của các ngươi.'",
+      "correct": "sức lực",
+      "wrong": ["hy vọng", "bình an", "nơi nương náu"],
+      "hint": "Đây là điều mà sự vui vẻ của Đức Giê-hô-va cung cấp",
+      "explanation": "Tìm thấy niềm vui trong Chúa ban cho chúng ta sức lực để kiên trì.",
+      "full_verse": "Chớ buồn thảm, vì sự vui vẻ của Đức Giê-hô-va là sức lực của các ngươi.",
+      "verse_ref": "Nê-hê-mi 8:10"
+    },
+    {
+      "id": "q_strength_006",
+      "question": "Điền vào chỗ trống: 'Đức Giê-hô-va là sức lực và cái khiên của tôi; Lòng tôi đã nhờ cậy nơi Ngài, và tôi được cứu giúp; Bởi cớ ấy lòng tôi rất mừng rỡ, Tôi sẽ lấy _____ mà ngợi khen Ngài.'",
+      "correct": "bài ca",
+      "wrong": ["tiếng", "linh hồn", "lời"],
+      "hint": "Đây là cách diễn đạt ngợi khen bằng âm nhạc",
+      "explanation": "Khi Đức Chúa Trời ban sức lực cho chúng ta, phản ứng của chúng ta là ngợi khen vui mừng.",
+      "full_verse": "Đức Giê-hô-va là sức lực và cái khiên của tôi; Lòng tôi đã nhờ cậy nơi Ngài, và tôi được cứu giúp; Bởi cớ ấy lòng tôi rất mừng rỡ, Tôi sẽ lấy bài ca mà ngợi khen Ngài.",
+      "verse_ref": "Thi Thiên 28:7"
+    },
+    {
+      "id": "q_strength_007",
+      "question": "Điền vào chỗ trống: 'Đừng sợ, vì ta ở với ngươi; chớ kinh khiếp, vì ta là Đức Chúa Trời ngươi! Ta sẽ bổ sức cho ngươi; phải, ta sẽ giúp đỡ ngươi; ta sẽ lấy tay hữu công bình ta mà nâng đỡ _____.'",
+      "correct": "ngươi",
+      "wrong": ["cánh tay", "quyền năng", "sức mạnh"],
+      "hint": "Đức Chúa Trời đang nói với người Ngài sẽ nâng đỡ",
+      "explanation": "Đức Chúa Trời hứa sự hiện diện, sức lực và hỗ trợ cho những ai tin cậy Ngài.",
+      "full_verse": "Đừng sợ, vì ta ở với ngươi; chớ kinh khiếp, vì ta là Đức Chúa Trời ngươi! Ta sẽ bổ sức cho ngươi; phải, ta sẽ giúp đỡ ngươi; ta sẽ lấy tay hữu công bình ta mà nâng đỡ ngươi.",
+      "verse_ref": "Ê-sai 41:10"
+    },
+    {
+      "id": "q_strength_008",
+      "question": "Điền vào chỗ trống: 'Vả lại, anh em phải làm mạnh dạn trong Chúa, nhờ sức toàn _____ của Ngài.'",
+      "correct": "năng",
+      "wrong": ["sức lực", "ân điển", "tình yêu"],
+      "hint": "Đây là khả năng hành động của Đức Chúa Trời",
+      "explanation": "Sức mạnh của chúng ta đến từ quyền năng vô hạn của Chúa.",
+      "full_verse": "Vả lại, anh em phải làm mạnh dạn trong Chúa, nhờ sức toàn năng của Ngài.",
+      "verse_ref": "Ê-phê-sô 6:10"
+    },
+    {
+      "id": "q_strength_009",
+      "question": "Điền vào chỗ trống: 'Ấy là Đức Chúa Trời lấy sức lực mà thắt lưng tôi, Ngài ban bằng con đường _____.'",
+      "correct": "tôi",
+      "wrong": ["an toàn", "thẳng", "sạch"],
+      "hint": "Đức Chúa Trời ban bằng con đường của ai",
+      "explanation": "Đức Chúa Trời cung cấp sức lực và giữ chúng ta trên con đường an toàn.",
+      "full_verse": "Ấy là Đức Chúa Trời lấy sức lực mà thắt lưng tôi, Ngài ban bằng con đường tôi.",
+      "verse_ref": "Thi Thiên 18:32"
+    },
+    {
+      "id": "q_strength_010",
+      "question": "Điền vào chỗ trống: 'Thịt và lòng tôi bị tiêu hao; Nhưng Đức Chúa Trời là sức lực của lòng tôi, Và là _____ tôi đến đời đời.'",
+      "correct": "phần",
+      "wrong": ["hy vọng", "nơi nương náu", "cơ nghiệp"],
+      "hint": "Điều này có nghĩa là phần được chia của một người",
+      "explanation": "Ngay cả khi thân xác chúng ta suy yếu, Đức Chúa Trời vẫn là nguồn sức lực đời đời của chúng ta.",
+      "full_verse": "Thịt và lòng tôi bị tiêu hao; Nhưng Đức Chúa Trời là sức lực của lòng tôi, Và là phần tôi đến đời đời.",
+      "verse_ref": "Thi Thiên 73:26"
+    },
+    {
+      "id": "q_strength_011",
+      "question": "Điền vào chỗ trống: 'Hãy mạnh mẽ và can đảm; chớ sợ chi, và đừng kinh khiếp trước mặt các dân tộc đó, vì Giê-hô-va Đức Chúa Trời ngươi đi cùng ngươi; Ngài chẳng lìa khỏi ngươi, chẳng _____ ngươi đâu.'",
+      "correct": "bỏ",
+      "wrong": ["từ bỏ", "quên", "thất bại"],
+      "hint": "Điều này có nghĩa là rời bỏ hoặc từ bỏ",
+      "explanation": "Sự hiện diện liên tục của Đức Chúa Trời ban cho chúng ta sức mạnh và can đảm.",
+      "full_verse": "Hãy mạnh mẽ và can đảm; chớ sợ chi, và đừng kinh khiếp trước mặt các dân tộc đó, vì Giê-hô-va Đức Chúa Trời ngươi đi cùng ngươi; Ngài chẳng lìa khỏi ngươi, chẳng bỏ ngươi đâu.",
+      "verse_ref": "Phục Truyền 31:6"
+    },
+    {
+      "id": "q_strength_012",
+      "question": "Điền vào chỗ trống: 'Ta há chẳng có phán dặn ngươi sao? Hãy mạnh dạn và _____; chớ run sợ, chớ kinh khiếp; vì Giê-hô-va Đức Chúa Trời ngươi vẫn ở cùng ngươi trong mọi nơi ngươi đi.'",
+      "correct": "can đảm",
+      "wrong": ["dũng cảm", "trung tín", "mạnh bạo"],
+      "hint": "Điều này có nghĩa là có lòng dũng cảm",
+      "explanation": "Đức Chúa Trời truyền lệnh cho chúng ta mạnh mẽ vì Ngài luôn ở cùng chúng ta.",
+      "full_verse": "Ta há chẳng có phán dặn ngươi sao? Hãy mạnh dạn và can đảm; chớ run sợ, chớ kinh khiếp; vì Giê-hô-va Đức Chúa Trời ngươi vẫn ở cùng ngươi trong mọi nơi ngươi đi.",
+      "verse_ref": "Giô-suê 1:9"
+    },
+    {
+      "id": "q_strength_013",
+      "question": "Điền vào chỗ trống: 'Hãy tìm cầu Đức Giê-hô-va và sức mạnh Ngài; Hãy tìm kiếm _____ Ngài luôn luôn.'",
+      "correct": "mặt",
+      "wrong": ["sự hiện diện", "vinh hiển", "sự giúp đỡ"],
+      "hint": "Điều này đại diện cho sự hiện diện của Đức Chúa Trời",
+      "explanation": "Chúng ta nên liên tục tìm kiếm sức lực và sự hiện diện của Đức Chúa Trời.",
+      "full_verse": "Hãy tìm cầu Đức Giê-hô-va và sức mạnh Ngài; Hãy tìm kiếm mặt Ngài luôn luôn.",
+      "verse_ref": "1 Sử Ký 16:11"
+    },
+    {
+      "id": "q_strength_014",
+      "question": "Điền vào chỗ trống: 'Hỡi Đức Giê-hô-va là sức lực tôi, tôi yêu mến Ngài! Đức Giê-hô-va là hòn đá tôi, đồn lũy tôi, Đấng giải cứu tôi; Đức Chúa Trời là hòn đá tôi, tôi nương náu mình nơi _____.'",
+      "correct": "Ngài",
+      "wrong": ["nơi ẩn náu", "sự an ủi", "sự yên nghỉ"],
+      "hint": "Người mà tác giả nương náu",
+      "explanation": "Đức Chúa Trời là nguồn sức lực và sự bảo vệ tối thượng của chúng ta.",
+      "full_verse": "Hỡi Đức Giê-hô-va là sức lực tôi, tôi yêu mến Ngài! Đức Giê-hô-va là hòn đá tôi, đồn lũy tôi, Đấng giải cứu tôi; Đức Chúa Trời là hòn đá tôi, tôi nương náu mình nơi Ngài.",
+      "verse_ref": "Thi Thiên 18:1-2"
+    },
+    {
+      "id": "q_strength_015",
+      "question": "Điền vào chỗ trống: 'Đức Giê-hô-va là ánh sáng và là sự cứu rỗi tôi: Tôi sẽ sợ ai? Đức Giê-hô-va là đồn lũy của mạng sống tôi: Tôi sẽ hãi _____?'",
+      "correct": "hùng ai",
+      "wrong": ["sợ ai", "kinh ai", "hoảng ai"],
+      "hint": "Đây là cảm xúc của sự sợ hãi",
+      "explanation": "Với Đức Chúa Trời là sức lực của chúng ta, chúng ta không có lý do gì để sợ hãi.",
+      "full_verse": "Đức Giê-hô-va là ánh sáng và là sự cứu rỗi tôi: Tôi sẽ sợ ai? Đức Giê-hô-va là đồn lũy của mạng sống tôi: Tôi sẽ hãi hùng ai?",
+      "verse_ref": "Thi Thiên 27:1"
+    },
+    {
+      "id": "q_strength_016",
+      "question": "Điền vào chỗ trống: 'Đức Giê-hô-va ban sức lực cho dân sự Ngài; Đức Giê-hô-va ban phước _____ cho dân sự Ngài.'",
+      "correct": "bình an",
+      "wrong": ["vui mừng", "hy vọng", "tình yêu"],
+      "hint": "Đây là trạng thái yên tĩnh và thanh bình",
+      "explanation": "Đức Chúa Trời ban cho dân sự Ngài cả sức lực và bình an.",
+      "full_verse": "Đức Giê-hô-va ban sức lực cho dân sự Ngài; Đức Giê-hô-va ban phước bình an cho dân sự Ngài.",
+      "verse_ref": "Thi Thiên 29:11"
+    },
+    {
+      "id": "q_strength_017",
+      "question": "Điền vào chỗ trống: 'Hỡi các ngươi hết thảy, là kẻ _____ nơi Đức Giê-hô-va, Hãy mạnh mẽ, lòng các ngươi hãy vững bền!'",
+      "correct": "trông cậy",
+      "wrong": ["tin cậy", "tin", "nghỉ ngơi"],
+      "hint": "Đây là sự mong đợi tin chắc",
+      "explanation": "Những ai trông cậy nơi Đức Chúa Trời sẽ tìm thấy sức mạnh và can đảm.",
+      "full_verse": "Hỡi các ngươi hết thảy, là kẻ trông cậy nơi Đức Giê-hô-va, Hãy mạnh mẽ, lòng các ngươi hãy vững bền!",
+      "verse_ref": "Thi Thiên 31:24"
+    },
+    {
+      "id": "q_strength_018",
+      "question": "Điền vào chỗ trống: 'Sự cứu rỗi người công bình đến từ Đức Giê-hô-va; Ngài là đồn lũy họ trong thời gian _____.'",
+      "correct": "hoạn nạn",
+      "wrong": ["cần thiết", "nguy hiểm", "thử thách"],
+      "hint": "Điều này đề cập đến những lúc khó khăn",
+      "explanation": "Đức Chúa Trời là thành trì của chúng ta khi khó khăn xảy ra.",
+      "full_verse": "Sự cứu rỗi người công bình đến từ Đức Giê-hô-va; Ngài là đồn lũy họ trong thời gian hoạn nạn.",
+      "verse_ref": "Thi Thiên 37:39"
+    },
+    {
+      "id": "q_strength_019",
+      "question": "Điền vào chỗ trống: 'Nhưng tôi sẽ hát xướng về sức lực Chúa, Buổi sáng tôi ca ngợi sự nhân từ Chúa cách vui vẻ; Vì Chúa là đồn lũy tôi, Và là nơi nương náu tôi trong ngày gian _____ tôi.'",
+      "correct": "truân",
+      "wrong": ["khó", "nguy", "nan"],
+      "hint": "Điều này mô tả thời gian khó khăn",
+      "explanation": "Chúng ta ngợi khen sức lực của Đức Chúa Trời vì Ngài là nơi nương náu của chúng ta.",
+      "full_verse": "Nhưng tôi sẽ hát xướng về sức lực Chúa, Buổi sáng tôi ca ngợi sự nhân từ Chúa cách vui vẻ; Vì Chúa là đồn lũy tôi, Và là nơi nương náu tôi trong ngày gian truân tôi.",
+      "verse_ref": "Thi Thiên 59:16"
+    },
+    {
+      "id": "q_strength_020",
+      "question": "Điền vào chỗ trống: 'Hỡi Đức Chúa Trời, Ngài thật đáng sợ trong nơi thánh Ngài: Đức Chúa Trời của Y-sơ-ra-ên ban năng lực và _____ cho dân sự Ngài. Đáng ngợi khen Đức Chúa Trời!'",
+      "correct": "sức mạnh",
+      "wrong": ["uy quyền", "can đảm", "chiến thắng"],
+      "hint": "Đây là khả năng vượt qua thử thách",
+      "explanation": "Đức Chúa Trời ban cho dân sự Ngài năng lực và sức mạnh.",
+      "full_verse": "Hỡi Đức Chúa Trời, Ngài thật đáng sợ trong nơi thánh Ngài: Đức Chúa Trời của Y-sơ-ra-ên ban năng lực và sức mạnh cho dân sự Ngài. Đáng ngợi khen Đức Chúa Trời!",
+      "verse_ref": "Thi Thiên 68:35"
+    },
+    {
+      "id": "q_strength_021",
+      "question": "Điền vào chỗ trống: 'Phước cho người nào được sức lực trong Chúa! Trong lòng họ có những con đường _____.'",
+      "correct": "hành hương",
+      "wrong": ["thiên đàng", "thờ phượng", "Đức Chúa Trời"],
+      "hint": "Đây là cuộc hành trình thuộc linh",
+      "explanation": "Những ai tìm thấy sức lực trong Đức Chúa Trời và theo đuổi Ngài được ban phước.",
+      "full_verse": "Phước cho người nào được sức lực trong Chúa! Trong lòng họ có những con đường hành hương.",
+      "verse_ref": "Thi Thiên 84:5"
+    },
+    {
+      "id": "q_strength_022",
+      "question": "Điền vào chỗ trống: 'Đức Giê-hô-va là sức mạnh tôi và bài ca tôi; Ngài trở nên sự _____ tôi.'",
+      "correct": "cứu rỗi",
+      "wrong": ["thuẫn", "nơi nương náu", "hy vọng"],
+      "hint": "Đây là sự giải cứu khỏi nguy hiểm",
+      "explanation": "Đức Chúa Trời là sức lực, sự bảo vệ và nguồn cứu rỗi của chúng ta.",
+      "full_verse": "Đức Giê-hô-va là sức mạnh tôi và bài ca tôi; Ngài trở nên sự cứu rỗi tôi.",
+      "verse_ref": "Thi Thiên 118:14"
+    },
+    {
+      "id": "q_strength_023",
+      "question": "Điền vào chỗ trống: 'Trong ngày tôi kêu cầu, Chúa đáp lời tôi, Khiến cho linh hồn tôi được sức _____.'",
+      "correct": "mạnh",
+      "wrong": ["lực", "can đảm", "giúp đỡ"],
+      "hint": "Điều này có nghĩa là ban cho can đảm",
+      "explanation": "Đức Chúa Trời đáp lời cầu nguyện của chúng ta và ban cho chúng ta sức mạnh can đảm.",
+      "full_verse": "Trong ngày tôi kêu cầu, Chúa đáp lời tôi, Khiến cho linh hồn tôi được sức mạnh.",
+      "verse_ref": "Thi Thiên 138:3"
+    },
+    {
+      "id": "q_strength_024",
+      "question": "Điền vào chỗ trống: 'Nầy, Đức Chúa Trời là sự cứu rỗi tôi; tôi sẽ tin cậy và không sợ hãi. Vì Đức Giê-hô-va, chính Đức Giê-hô-va, là sức mạnh tôi và bài hát _____; Ngài đã nên sự cứu rỗi tôi.'",
+      "correct": "tôi",
+      "wrong": ["thuẫn", "nơi nương náu", "bài ca"],
+      "hint": "Đức Giê-hô-va là bài hát của ai",
+      "explanation": "Đức Chúa Trời là cả sức lực và sự bảo vệ của chúng ta.",
+      "full_verse": "Nầy, Đức Chúa Trời là sự cứu rỗi tôi; tôi sẽ tin cậy và không sợ hãi. Vì Đức Giê-hô-va, chính Đức Giê-hô-va, là sức mạnh tôi và bài hát tôi; Ngài đã nên sự cứu rỗi tôi.",
+      "verse_ref": "Ê-sai 12:2"
+    },
+    {
+      "id": "q_strength_025",
+      "question": "Điền vào chỗ trống: 'Ngài ban sức mạnh cho kẻ nhọc nhằn, thêm lực _____ cho kẻ chẳng có sức.'",
+      "correct": "lượng",
+      "wrong": ["mạnh", "can đảm", "hy vọng"],
+      "hint": "Đây là khả năng hành động",
+      "explanation": "Đức Chúa Trời ban sức cho những ai mệt mỏi và yếu đuối.",
+      "full_verse": "Ngài ban sức mạnh cho kẻ nhọc nhằn, thêm lực lượng cho kẻ chẳng có sức.",
+      "verse_ref": "Ê-sai 40:29"
+    },
+    {
+      "id": "q_strength_026",
+      "question": "Điền vào chỗ trống: 'Vì ta, là Giê-hô-va Đức Chúa Trời ngươi, sẽ nắm tay hữu ngươi, và phán cùng ngươi rằng: Đừng sợ, ta sẽ _____ ngươi.'",
+      "correct": "giúp đỡ",
+      "wrong": ["cứu", "bảo vệ", "hướng dẫn"],
+      "hint": "Điều này có nghĩa là hỗ trợ hoặc giúp sức",
+      "explanation": "Đức Chúa Trời đích thân nắm tay chúng ta và hứa giúp đỡ chúng ta.",
+      "full_verse": "Vì ta, là Giê-hô-va Đức Chúa Trời ngươi, sẽ nắm tay hữu ngươi, và phán cùng ngươi rằng: Đừng sợ, ta sẽ giúp đỡ ngươi.",
+      "verse_ref": "Ê-sai 41:13"
+    },
+    {
+      "id": "q_strength_027",
+      "question": "Điền vào chỗ trống: 'Hỡi Đức Giê-hô-va, sức mạnh tôi, đồn lũy tôi, nơi nương náu tôi trong ngày hoạn nạn! Các nước từ đầu cùng _____ sẽ đến cùng Ngài.'",
+      "correct": "đất",
+      "wrong": ["thế gian", "địa cầu", "biển"],
+      "hint": "Đây là hành tinh của chúng ta",
+      "explanation": "Đức Chúa Trời là sức lực và nơi nương náu của chúng ta, và tất cả các nước sẽ đến cùng Ngài.",
+      "full_verse": "Hỡi Đức Giê-hô-va, sức mạnh tôi, đồn lũy tôi, nơi nương náu tôi trong ngày hoạn nạn! Các nước từ đầu cùng đất sẽ đến cùng Ngài.",
+      "verse_ref": "Giê-rê-mi 16:19"
+    },
+    {
+      "id": "q_strength_028",
+      "question": "Điền vào chỗ trống: 'Chúa Giê-hô-va là sức mạnh của tôi; Ngài làm cho chân tôi giống như chân hươu, Và khiến tôi bước đi trên những nơi cao _____.'",
+      "correct": "mình",
+      "wrong": ["núi", "đồi", "đá"],
+      "hint": "Điều này đề cập đến những nơi cao của tác giả",
+      "explanation": "Đức Chúa Trời ban cho chúng ta sức lực để vượt qua chướng ngại và đạt đến những nơi cao mới.",
+      "full_verse": "Chúa Giê-hô-va là sức mạnh của tôi; Ngài làm cho chân tôi giống như chân hươu, Và khiến tôi bước đi trên những nơi cao mình.",
+      "verse_ref": "Ha-ba-cúc 3:19"
+    },
+    {
+      "id": "q_strength_029",
+      "question": "Điền vào chỗ trống: 'Ấy chẳng phải bởi quyền thế, cũng chẳng phải bởi năng lực, bèn là bởi _____ ta, Đức Giê-hô-va vạn quân phán vậy.'",
+      "correct": "Thần",
+      "wrong": ["lời", "tay", "ân điển"],
+      "hint": "Đây là ngôi thứ ba của Ba Ngôi",
+      "explanation": "Sức lực thật không đến từ nỗ lực con người mà từ Thần của Đức Chúa Trời.",
+      "full_verse": "Ấy chẳng phải bởi quyền thế, cũng chẳng phải bởi năng lực, bèn là bởi Thần ta, Đức Giê-hô-va vạn quân phán vậy.",
+      "verse_ref": "Xa-cha-ri 4:6"
+    },
+    {
+      "id": "q_strength_030",
+      "question": "Điền vào chỗ trống: 'Trái lại, trong mọi sự đó, chúng ta nhờ Đấng yêu thương mình mà thắng hơn bội _____.'",
+      "correct": "phần",
+      "wrong": ["chiến thắng", "thắng lợi", "quán quân"],
+      "hint": "Điều này mô tả những người vượt qua và chiến thắng",
+      "explanation": "Nhờ tình yêu của Đấng Christ, chúng ta có chiến thắng áp đảo.",
+      "full_verse": "Trái lại, trong mọi sự đó, chúng ta nhờ Đấng yêu thương mình mà thắng hơn bội phần.",
+      "verse_ref": "Rô-ma 8:37"
+    },
+    {
+      "id": "q_strength_031",
+      "question": "Điền vào chỗ trống: 'Bởi vì sự dại của Đức Chúa Trời còn khôn hơn người ta, và sự _____ của Đức Chúa Trời còn mạnh hơn người ta.'",
+      "correct": "yếu",
+      "wrong": ["quyền năng", "uy lực", "ân điển"],
+      "hint": "Đây là điều trái ngược với sức mạnh",
+      "explanation": "Ngay cả 'sự yếu' của Đức Chúa Trời cũng vượt qua tất cả sức mạnh của con người.",
+      "full_verse": "Bởi vì sự dại của Đức Chúa Trời còn khôn hơn người ta, và sự yếu của Đức Chúa Trời còn mạnh hơn người ta.",
+      "verse_ref": "1 Cô-rinh-tô 1:25"
+    },
+    {
+      "id": "q_strength_032",
+      "question": "Điền vào chỗ trống: 'Những sự cám dỗ đến cho anh em, chẳng có sự nào quá sức loài người. Đức Chúa Trời là thành tín, Ngài chẳng hề cho anh em bị cám dỗ quá sức mình đâu; nhưng trong sự cám dỗ, Ngài cũng mở đàng cho ra khỏi, để anh em có thể _____ được.'",
+      "correct": "chịu",
+      "wrong": ["thắng", "chống", "thoát"],
+      "hint": "Điều này có nghĩa là kiên trì vượt qua khó khăn",
+      "explanation": "Đức Chúa Trời ban cho chúng ta sức lực để chịu đựng mọi cám dỗ.",
+      "full_verse": "Những sự cám dỗ đến cho anh em, chẳng có sự nào quá sức loài người. Đức Chúa Trời là thành tín, Ngài chẳng hề cho anh em bị cám dỗ quá sức mình đâu; nhưng trong sự cám dỗ, Ngài cũng mở đàng cho ra khỏi, để anh em có thể chịu được.",
+      "verse_ref": "1 Cô-rinh-tô 10:13"
+    },
+    {
+      "id": "q_strength_033",
+      "question": "Điền vào chỗ trống: 'Hãy tỉnh thức, đứng vững trong đức tin, hãy can đảm, hãy _____.'",
+      "correct": "mạnh mẽ",
+      "wrong": ["dũng cảm", "mạnh bạo", "không sợ"],
+      "hint": "Đây là khả năng vượt qua thử thách",
+      "explanation": "Chúng ta được kêu gọi phải tỉnh thức, trung tín, can đảm và mạnh mẽ.",
+      "full_verse": "Hãy tỉnh thức, đứng vững trong đức tin, hãy can đảm, hãy mạnh mẽ.",
+      "verse_ref": "1 Cô-rinh-tô 16:13"
+    },
+    {
+      "id": "q_strength_034",
+      "question": "Điền vào chỗ trống: 'Cho nên tôi vì Đấng Christ mà vui lòng chịu sự yếu đuối, nhuốc nha, thiếu thốn, bắt bớ, khốn khổ; vì khi tôi yếu đuối, ấy là lúc tôi _____.'",
+      "correct": "mạnh mẽ",
+      "wrong": ["dũng cảm", "mạnh bạo", "quyền năng"],
+      "hint": "Đây là điều trái ngược với yếu đuối",
+      "explanation": "Quyền năng của Đức Chúa Trời được làm trọn vẹn trong sự yếu đuối của chúng ta.",
+      "full_verse": "Cho nên tôi vì Đấng Christ mà vui lòng chịu sự yếu đuối, nhuốc nha, thiếu thốn, bắt bớ, khốn khổ; vì khi tôi yếu đuối, ấy là lúc tôi mạnh mẽ.",
+      "verse_ref": "2 Cô-rinh-tô 12:10"
+    },
+    {
+      "id": "q_strength_035",
+      "question": "Điền vào chỗ trống: 'Tôi cầu xin Ngài tùy sự giàu có vinh hiển Ngài khiến anh em được nên mạnh mẽ bởi Thánh Linh Ngài trong _____ bề trong.'",
+      "correct": "người",
+      "wrong": ["bản thân", "linh hồn", "tấm lòng"],
+      "hint": "Đây là cốt lõi của con người bạn",
+      "explanation": "Đức Chúa Trời củng cố chúng ta về mặt thuộc linh từ bên trong.",
+      "full_verse": "Tôi cầu xin Ngài tùy sự giàu có vinh hiển Ngài khiến anh em được nên mạnh mẽ bởi Thánh Linh Ngài trong người bề trong.",
+      "verse_ref": "Ê-phê-sô 3:16"
+    },
+    {
+      "id": "q_strength_036",
+      "question": "Điền vào chỗ trống: 'Nhờ quyền năng vinh hiển Ngài, được có sức mạnh mọi bề, để nhịn nhục vui vẻ mà _____ mọi sự.'",
+      "correct": "chịu",
+      "wrong": ["đức tin", "hy vọng", "bình an"],
+      "hint": "Đây là khả năng chờ đợi bình tĩnh",
+      "explanation": "Quyền năng của Đức Chúa Trời giúp chúng ta chịu đựng với sự nhẫn nại.",
+      "full_verse": "Nhờ quyền năng vinh hiển Ngài, được có sức mạnh mọi bề, để nhịn nhục vui vẻ mà chịu mọi sự.",
+      "verse_ref": "Cô-lô-se 1:11"
+    },
+    {
+      "id": "q_strength_037",
+      "question": "Điền vào chỗ trống: 'Vì Đức Chúa Trời chẳng ban cho chúng ta tâm thần nhút nhát, bèn là tâm thần mạnh mẽ, có tình thương yêu và dè _____.'",
+      "correct": "giữ",
+      "wrong": ["khôn ngoan", "can đảm", "đức tin"],
+      "hint": "Đây là sự tự kiềm chế",
+      "explanation": "Thánh Linh của Đức Chúa Trời ban cho chúng ta sức mạnh, tình yêu và sự tự kiềm chế.",
+      "full_verse": "Vì Đức Chúa Trời chẳng ban cho chúng ta tâm thần nhút nhát, bèn là tâm thần mạnh mẽ, có tình thương yêu và dè giữ.",
+      "verse_ref": "2 Ti-mô-thê 1:7"
+    },
+    {
+      "id": "q_strength_038",
+      "question": "Điền vào chỗ trống: 'Vậy, hỡi con, hãy làm cho mình mạnh dạn trong _____ nơi Đức Chúa Giê-xu Christ.'",
+      "correct": "ân điển",
+      "wrong": ["đức tin", "tình yêu", "quyền năng"],
+      "hint": "Đây là ân huệ không đáng được từ Đức Chúa Trời",
+      "explanation": "Sức lực của chúng ta đến từ ân điển được tìm thấy trong Đấng Christ.",
+      "full_verse": "Vậy, hỡi con, hãy làm cho mình mạnh dạn trong ân điển nơi Đức Chúa Giê-xu Christ.",
+      "verse_ref": "2 Ti-mô-thê 2:1"
+    },
+    {
+      "id": "q_strength_039",
+      "question": "Điền vào chỗ trống: 'Nhưng Chúa đã giúp đỡ tôi, và thêm sức cho tôi, hầu cho đạo được rao truyền trọn vẹn bởi tôi, và mọi dân ngoại đều được _____.'",
+      "correct": "nghe",
+      "wrong": ["các nước", "mọi người", "thế gian"],
+      "hint": "Điều này đề cập đến những người không phải Do Thái",
+      "explanation": "Đức Chúa Trời ban sức cho chúng ta để hoàn thành mục đích của Ngài.",
+      "full_verse": "Nhưng Chúa đã giúp đỡ tôi, và thêm sức cho tôi, hầu cho đạo được rao truyền trọn vẹn bởi tôi, và mọi dân ngoại đều được nghe.",
+      "verse_ref": "2 Ti-mô-thê 4:17"
+    },
+    {
+      "id": "q_strength_040",
+      "question": "Điền vào chỗ trống: 'Tắt ngọn lửa hừng, lánh khỏi lưỡi gươm, sự yếu đổi ra sức mạnh, tỏ mạnh dạn trong chiến tranh, đuổi _____ nước thù nghịch chạy.'",
+      "correct": "đạo quân",
+      "wrong": ["kẻ thù", "các nước", "lực lượng"],
+      "hint": "Đây là lực lượng quân sự",
+      "explanation": "Đức tin có thể biến sự yếu đuối thành sức mạnh để chiến thắng.",
+      "full_verse": "Tắt ngọn lửa hừng, lánh khỏi lưỡi gươm, sự yếu đổi ra sức mạnh, tỏ mạnh dạn trong chiến tranh, đuổi đạo quân nước thù nghịch chạy.",
+      "verse_ref": "Hê-bơ-rơ 11:34"
+    },
+    {
+      "id": "q_strength_041",
+      "question": "Điền vào chỗ trống: 'Đức Chúa Trời ban mọi ơn đã gọi anh em đến sự vinh hiển đời đời của Ngài trong Đấng Christ, thì sau khi anh em tạm chịu khổ, chính Ngài sẽ làm cho anh em trọn vẹn, vững _____, và cường lực.'",
+      "correct": "vàng",
+      "wrong": ["ổn", "chắc", "trung tín"],
+      "hint": "Điều này có nghĩa là được thiết lập vững chắc",
+      "explanation": "Đức Chúa Trời sẽ củng cố và thiết lập chúng ta sau khi chúng ta chịu đựng thử thách.",
+      "full_verse": "Đức Chúa Trời ban mọi ơn đã gọi anh em đến sự vinh hiển đời đời của Ngài trong Đấng Christ, thì sau khi anh em tạm chịu khổ, chính Ngài sẽ làm cho anh em trọn vẹn, vững vàng, và cường lực.",
+      "verse_ref": "1 Phi-e-rơ 5:10"
+    },
+    {
+      "id": "q_strength_042",
+      "question": "Điền vào chỗ trống: 'Hỡi các con cái bé mọn, phần các con, là thuộc về Đức Chúa Trời, đã thắng được họ rồi, vì Đấng ở trong các con là lớn hơn kẻ ở trong thế _____.'",
+      "correct": "gian",
+      "wrong": ["tối tăm", "kẻ thù", "xác thịt"],
+      "hint": "Đây là nơi điều ác hoạt động",
+      "explanation": "Đức Chúa Trời ở trong chúng ta lớn hơn bất kỳ thế lực nào trên thế gian.",
+      "full_verse": "Hỡi các con cái bé mọn, phần các con, là thuộc về Đức Chúa Trời, đã thắng được họ rồi, vì Đấng ở trong các con là lớn hơn kẻ ở trong thế gian.",
+      "verse_ref": "1 Giăng 4:4"
+    },
+    {
+      "id": "q_strength_043",
+      "question": "Điền vào chỗ trống: 'Đức Giê-hô-va là sức mạnh tôi và bài _____ tôi, Ngài đã nên sự cứu rỗi tôi. Ngài là Đức Chúa Trời tôi, tôi sẽ ngợi khen Ngài; Ngài là Đức Chúa Trời của tổ tiên tôi, tôi sẽ tôn cao Ngài.'",
+      "correct": "ca",
+      "wrong": ["thuẫn", "bài hát", "nơi nương náu"],
+      "hint": "Đây là sự bảo vệ chống lại sự tấn công",
+      "explanation": "Đức Chúa Trời là sức lực, sự bảo vệ và sự cứu rỗi của chúng ta.",
+      "full_verse": "Đức Giê-hô-va là sức mạnh tôi và bài ca tôi, Ngài đã nên sự cứu rỗi tôi. Ngài là Đức Chúa Trời tôi, tôi sẽ ngợi khen Ngài; Ngài là Đức Chúa Trời của tổ tiên tôi, tôi sẽ tôn cao Ngài.",
+      "verse_ref": "Xuất Ê-díp-tô Ký 15:2"
+    },
+    {
+      "id": "q_strength_044",
+      "question": "Điền vào chỗ trống: 'Ấy là Đức Chúa Trời thắt lưng tôi bằng sức mạnh, Và ban cho đường lối tôi được trọn _____.'",
+      "correct": "vẹn",
+      "wrong": ["an toàn", "thẳng", "sạch"],
+      "hint": "Điều này có nghĩa là được bảo vệ hoặc ổn định",
+      "explanation": "Đức Chúa Trời cung cấp sức lực và dẫn dắt chúng ta một cách an toàn.",
+      "full_verse": "Ấy là Đức Chúa Trời thắt lưng tôi bằng sức mạnh, Và ban cho đường lối tôi được trọn vẹn.",
+      "verse_ref": "2 Sa-mu-ên 22:33"
+    },
+    {
+      "id": "q_strength_045",
+      "question": "Điền vào chỗ trống: 'Nhân miệng trẻ thơ và kẻ bú mớm, Chúa đã lập nên sức mạnh, Để làm câm kẻ thù nghịch và kẻ báo _____.'",
+      "correct": "thù",
+      "wrong": ["kẻ thù", "nghịch", "ác"],
+      "hint": "Đây là người tìm cách trả thù",
+      "explanation": "Sức lực của Đức Chúa Trời được thể hiện ngay cả qua sự ngợi khen của trẻ nhỏ.",
+      "full_verse": "Nhân miệng trẻ thơ và kẻ bú mớm, Chúa đã lập nên sức mạnh, Để làm câm kẻ thù nghịch và kẻ báo thù.",
+      "verse_ref": "Thi Thiên 8:2"
+    },
+    {
+      "id": "q_strength_046",
+      "question": "Điền vào chỗ trống: 'Nguyện những lời nói của miệng tôi, Và sự suy gẫm của lòng tôi Được đẹp ý Ngài, Hỡi Đức Giê-hô-va, là hòn đá tôi, và Đấng cứu chuộc _____!'",
+      "correct": "tôi",
+      "wrong": ["Đấng Cứu Thế", "Sức Lực", "Nơi Nương Náu"],
+      "hint": "Đây là người cứu chuộc bằng cách trả giá",
+      "explanation": "Đức Chúa Trời là sức lực (Hòn Đá) và Đấng Cứu Chuộc của chúng ta.",
+      "full_verse": "Nguyện những lời nói của miệng tôi, Và sự suy gẫm của lòng tôi Được đẹp ý Ngài, Hỡi Đức Giê-hô-va, là hòn đá tôi, và Đấng cứu chuộc tôi!",
+      "verse_ref": "Thi Thiên 19:14"
+    },
+    {
+      "id": "q_strength_047",
+      "question": "Điền vào chỗ trống: 'Tay ta sẽ nâng đỡ người, _____ ta cũng sẽ làm cho người mạnh thêm.'",
+      "correct": "Cánh tay",
+      "wrong": ["Bàn tay", "Quyền năng", "Uy lực"],
+      "hint": "Bộ phận cơ thể này tượng trưng cho sức mạnh",
+      "explanation": "Cánh tay của Đức Chúa Trời đại diện cho quyền năng Ngài để củng cố và nâng đỡ.",
+      "full_verse": "Tay ta sẽ nâng đỡ người, Cánh tay ta cũng sẽ làm cho người mạnh thêm.",
+      "verse_ref": "Thi Thiên 89:21"
+    },
+    {
+      "id": "q_strength_048",
+      "question": "Điền vào chỗ trống: 'Hãy tìm cầu Đức Giê-hô-va và sức mạnh Ngài; Hãy tìm kiếm mặt Ngài luôn _____.'",
+      "correct": "luôn",
+      "wrong": ["liên tục", "hàng ngày", "mãi mãi"],
+      "hint": "Điều này có nghĩa là mọi lúc",
+      "explanation": "Chúng ta nên liên tục tìm kiếm sức lực và sự hiện diện của Đức Chúa Trời.",
+      "full_verse": "Hãy tìm cầu Đức Giê-hô-va và sức mạnh Ngài; Hãy tìm kiếm mặt Ngài luôn luôn.",
+      "verse_ref": "Thi Thiên 105:4"
+    },
+    {
+      "id": "q_strength_049",
+      "question": "Điền vào chỗ trống: 'Đáng ngợi khen Đức Giê-hô-va, là hòn đá tôi! Ngài dạy tay tôi đánh giặc, Và ngón tay tôi tranh _____.'",
+      "correct": "chiến",
+      "wrong": ["giặc", "đánh", "đấu"],
+      "hint": "Đây là xung đột quân sự",
+      "explanation": "Đức Chúa Trời trang bị và củng cố chúng ta cho các trận chiến thuộc linh.",
+      "full_verse": "Đáng ngợi khen Đức Giê-hô-va, là hòn đá tôi! Ngài dạy tay tôi đánh giặc, Và ngón tay tôi tranh chiến.",
+      "verse_ref": "Thi Thiên 144:1"
+    },
+    {
+      "id": "q_strength_050",
+      "question": "Điền vào chỗ trống: 'Người khôn ngoan có sức mạnh; Và người có tri thức thêm _____ lực.'",
+      "correct": "năng",
+      "wrong": ["uy", "quyền", "can đảm"],
+      "hint": "Đây là khả năng vượt qua thử thách",
+      "explanation": "Sự khôn ngoan và tri thức làm tăng thêm sức lực của chúng ta.",
+      "full_verse": "Người khôn ngoan có sức mạnh; Và người có tri thức thêm năng lực.",
+      "verse_ref": "Châm Ngôn 24:5"
+    }
+  ]
+}

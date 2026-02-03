@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_strength_001",
+      "question": "Fill in the blank: 'I can do all this through him who gives me _____.'",
+      "correct": "strength",
+      "wrong": ["power", "courage", "hope"],
+      "hint": "This is the ability to overcome challenges",
+      "explanation": "Christ empowers us to face any situation with His strength.",
+      "full_verse": "I can do all this through him who gives me strength.",
+      "verse_ref": "Philippians 4:13"
+    },
+    {
+      "id": "q_strength_002",
+      "question": "Fill in the blank: 'But those who hope in the LORD will renew their strength. They will soar on wings like _____; they will run and not grow weary, they will walk and not be faint.'",
+      "correct": "eagles",
+      "wrong": ["angels", "birds", "doves"],
+      "hint": "This is a powerful bird that soars high",
+      "explanation": "Those who trust in God receive renewed strength to rise above difficulties.",
+      "full_verse": "But those who hope in the LORD will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.",
+      "verse_ref": "Isaiah 40:31"
+    },
+    {
+      "id": "q_strength_003",
+      "question": "Fill in the blank: 'God is our refuge and strength, an ever-present help in _____.'",
+      "correct": "trouble",
+      "wrong": ["need", "danger", "distress"],
+      "hint": "This word means difficulty or hardship",
+      "explanation": "God is always available as our source of strength and help.",
+      "full_verse": "God is our refuge and strength, an ever-present help in trouble.",
+      "verse_ref": "Psalm 46:1"
+    },
+    {
+      "id": "q_strength_004",
+      "question": "Fill in the blank: 'But he said to me, \"My grace is sufficient for you, for my power is made perfect in _____.\" Therefore I will boast all the more gladly about my weaknesses, so that Christ's power may rest on me.'",
+      "correct": "weakness",
+      "wrong": ["humility", "faith", "trials"],
+      "hint": "This is the opposite of strength",
+      "explanation": "God's power is most evident when we acknowledge our own limitations.",
+      "full_verse": "But he said to me, \"My grace is sufficient for you, for my power is made perfect in weakness.\" Therefore I will boast all the more gladly about my weaknesses, so that Christ's power may rest on me.",
+      "verse_ref": "2 Corinthians 12:9"
+    },
+    {
+      "id": "q_strength_005",
+      "question": "Fill in the blank: 'Do not grieve, for the joy of the LORD is your _____.'",
+      "correct": "strength",
+      "wrong": ["hope", "peace", "refuge"],
+      "hint": "This is what the joy of the LORD provides",
+      "explanation": "Finding joy in the Lord gives us the strength to persevere.",
+      "full_verse": "Do not grieve, for the joy of the LORD is your strength.",
+      "verse_ref": "Nehemiah 8:10"
+    },
+    {
+      "id": "q_strength_006",
+      "question": "Fill in the blank: 'The LORD is my strength and my shield; my heart trusts in him, and he helps me. My heart leaps for joy, and with my _____ I praise him.'",
+      "correct": "song",
+      "wrong": ["voice", "soul", "words"],
+      "hint": "This is a musical expression of praise",
+      "explanation": "When God strengthens us, our response is joyful praise.",
+      "full_verse": "The LORD is my strength and my shield; my heart trusts in him, and he helps me. My heart leaps for joy, and with my song I praise him.",
+      "verse_ref": "Psalm 28:7"
+    },
+    {
+      "id": "q_strength_007",
+      "question": "Fill in the blank: 'So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right _____.'",
+      "correct": "hand",
+      "wrong": ["arm", "power", "might"],
+      "hint": "This is a body part symbolizing power and support",
+      "explanation": "God promises His presence, strength, and support to those who trust Him.",
+      "full_verse": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.",
+      "verse_ref": "Isaiah 41:10"
+    },
+    {
+      "id": "q_strength_008",
+      "question": "Fill in the blank: 'Finally, be strong in the Lord and in his mighty _____.'",
+      "correct": "power",
+      "wrong": ["strength", "grace", "love"],
+      "hint": "This is God's ability to act",
+      "explanation": "Our strength comes from the Lord's unlimited power.",
+      "full_verse": "Finally, be strong in the Lord and in his mighty power.",
+      "verse_ref": "Ephesians 6:10"
+    },
+    {
+      "id": "q_strength_009",
+      "question": "Fill in the blank: 'It is God who arms me with strength and keeps my way _____.'",
+      "correct": "secure",
+      "wrong": ["safe", "straight", "clear"],
+      "hint": "This means protected or stable",
+      "explanation": "God provides strength and keeps us on a secure path.",
+      "full_verse": "It is God who arms me with strength and keeps my way secure.",
+      "verse_ref": "Psalm 18:32"
+    },
+    {
+      "id": "q_strength_010",
+      "question": "Fill in the blank: 'My flesh and my heart may fail, but God is the strength of my heart and my _____ forever.'",
+      "correct": "portion",
+      "wrong": ["hope", "refuge", "inheritance"],
+      "hint": "This means one's share or allotment",
+      "explanation": "Even when our bodies fail, God remains our eternal source of strength.",
+      "full_verse": "My flesh and my heart may fail, but God is the strength of my heart and my portion forever.",
+      "verse_ref": "Psalm 73:26"
+    },
+    {
+      "id": "q_strength_011",
+      "question": "Fill in the blank: 'Be strong and courageous. Do not be afraid or terrified because of them, for the LORD your God goes with you; he will never leave you nor _____ you.'",
+      "correct": "forsake",
+      "wrong": ["abandon", "forget", "fail"],
+      "hint": "This means to leave behind or desert",
+      "explanation": "God's constant presence gives us strength and courage.",
+      "full_verse": "Be strong and courageous. Do not be afraid or terrified because of them, for the LORD your God goes with you; he will never leave you nor forsake you.",
+      "verse_ref": "Deuteronomy 31:6"
+    },
+    {
+      "id": "q_strength_012",
+      "question": "Fill in the blank: 'Have I not commanded you? Be strong and _____. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go.'",
+      "correct": "courageous",
+      "wrong": ["brave", "faithful", "bold"],
+      "hint": "This means having bravery",
+      "explanation": "God commands us to be strong because He is always with us.",
+      "full_verse": "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go.",
+      "verse_ref": "Joshua 1:9"
+    },
+    {
+      "id": "q_strength_013",
+      "question": "Fill in the blank: 'Look to the LORD and his strength; seek his _____ always.'",
+      "correct": "face",
+      "wrong": ["presence", "glory", "help"],
+      "hint": "This represents God's presence",
+      "explanation": "We should continually seek God's strength and presence.",
+      "full_verse": "Look to the LORD and his strength; seek his face always.",
+      "verse_ref": "1 Chronicles 16:11"
+    },
+    {
+      "id": "q_strength_014",
+      "question": "Fill in the blank: 'I love you, LORD, my strength. The LORD is my rock, my fortress and my deliverer; my God is my rock, in whom I take _____.'",
+      "correct": "refuge",
+      "wrong": ["shelter", "comfort", "rest"],
+      "hint": "This is a place of safety",
+      "explanation": "God is our ultimate source of strength and protection.",
+      "full_verse": "I love you, LORD, my strength. The LORD is my rock, my fortress and my deliverer; my God is my rock, in whom I take refuge.",
+      "verse_ref": "Psalm 18:1-2"
+    },
+    {
+      "id": "q_strength_015",
+      "question": "Fill in the blank: 'The LORD is my light and my salvation—whom shall I fear? The LORD is the stronghold of my life—of whom shall I be _____?'",
+      "correct": "afraid",
+      "wrong": ["scared", "fearful", "terrified"],
+      "hint": "This is an emotion of fear",
+      "explanation": "With God as our strength, we have no reason to fear.",
+      "full_verse": "The LORD is my light and my salvation—whom shall I fear? The LORD is the stronghold of my life—of whom shall I be afraid?",
+      "verse_ref": "Psalm 27:1"
+    },
+    {
+      "id": "q_strength_016",
+      "question": "Fill in the blank: 'The LORD gives strength to his people; the LORD blesses his people with _____.'",
+      "correct": "peace",
+      "wrong": ["joy", "hope", "love"],
+      "hint": "This is a state of calm and tranquility",
+      "explanation": "God gives His people both strength and peace.",
+      "full_verse": "The LORD gives strength to his people; the LORD blesses his people with peace.",
+      "verse_ref": "Psalm 29:11"
+    },
+    {
+      "id": "q_strength_017",
+      "question": "Fill in the blank: 'Be strong and take heart, all you who _____ in the LORD.'",
+      "correct": "hope",
+      "wrong": ["trust", "believe", "rest"],
+      "hint": "This is confident expectation",
+      "explanation": "Those who hope in God will find strength and courage.",
+      "full_verse": "Be strong and take heart, all you who hope in the LORD.",
+      "verse_ref": "Psalm 31:24"
+    },
+    {
+      "id": "q_strength_018",
+      "question": "Fill in the blank: 'The salvation of the righteous comes from the LORD; he is their stronghold in time of _____.'",
+      "correct": "trouble",
+      "wrong": ["need", "danger", "trial"],
+      "hint": "This refers to difficult times",
+      "explanation": "God is our fortress when difficulties arise.",
+      "full_verse": "The salvation of the righteous comes from the LORD; he is their stronghold in time of trouble.",
+      "verse_ref": "Psalm 37:39"
+    },
+    {
+      "id": "q_strength_019",
+      "question": "Fill in the blank: 'But I will sing of your strength, in the morning I will sing of your love; for you are my fortress, my _____ in times of trouble.'",
+      "correct": "refuge",
+      "wrong": ["shelter", "haven", "safety"],
+      "hint": "This is a place of protection",
+      "explanation": "We praise God's strength because He is our refuge.",
+      "full_verse": "But I will sing of your strength, in the morning I will sing of your love; for you are my fortress, my refuge in times of trouble.",
+      "verse_ref": "Psalm 59:16"
+    },
+    {
+      "id": "q_strength_020",
+      "question": "Fill in the blank: 'You, God, are awesome in your sanctuary; the God of Israel gives power and _____ to his people. Praise be to God!'",
+      "correct": "strength",
+      "wrong": ["might", "courage", "victory"],
+      "hint": "This is the ability to overcome challenges",
+      "explanation": "God provides His people with power and strength.",
+      "full_verse": "You, God, are awesome in your sanctuary; the God of Israel gives power and strength to his people. Praise be to God!",
+      "verse_ref": "Psalm 68:35"
+    },
+    {
+      "id": "q_strength_021",
+      "question": "Fill in the blank: 'Blessed are those whose strength is in you, whose hearts are set on _____.'",
+      "correct": "pilgrimage",
+      "wrong": ["heaven", "worship", "God"],
+      "hint": "This is a spiritual journey",
+      "explanation": "Those who find their strength in God and pursue Him are blessed.",
+      "full_verse": "Blessed are those whose strength is in you, whose hearts are set on pilgrimage.",
+      "verse_ref": "Psalm 84:5"
+    },
+    {
+      "id": "q_strength_022",
+      "question": "Fill in the blank: 'The LORD is my strength and my defense; he has become my _____.'",
+      "correct": "salvation",
+      "wrong": ["shield", "refuge", "hope"],
+      "hint": "This is deliverance from danger",
+      "explanation": "God is our strength, defense, and source of salvation.",
+      "full_verse": "The LORD is my strength and my defense; he has become my salvation.",
+      "verse_ref": "Psalm 118:14"
+    },
+    {
+      "id": "q_strength_023",
+      "question": "Fill in the blank: 'When I called, you answered me; you greatly emboldened me.'",
+      "correct": "emboldened",
+      "wrong": ["strengthened", "encouraged", "helped"],
+      "hint": "This means to give courage",
+      "explanation": "God answers our prayers and gives us bold strength.",
+      "full_verse": "When I called, you answered me; you greatly emboldened me.",
+      "verse_ref": "Psalm 138:3"
+    },
+    {
+      "id": "q_strength_024",
+      "question": "Fill in the blank: 'Surely God is my salvation; I will trust and not be afraid. The LORD, the LORD himself, is my strength and my _____; he has become my salvation.'",
+      "correct": "defense",
+      "wrong": ["shield", "refuge", "song"],
+      "hint": "This is protection against attack",
+      "explanation": "God is both our strength and our protection.",
+      "full_verse": "Surely God is my salvation; I will trust and not be afraid. The LORD, the LORD himself, is my strength and my defense; he has become my salvation.",
+      "verse_ref": "Isaiah 12:2"
+    },
+    {
+      "id": "q_strength_025",
+      "question": "Fill in the blank: 'He gives strength to the weary and increases the _____ of the weak.'",
+      "correct": "power",
+      "wrong": ["strength", "courage", "hope"],
+      "hint": "This is the ability to act",
+      "explanation": "God strengthens those who are tired and weak.",
+      "full_verse": "He gives strength to the weary and increases the power of the weak.",
+      "verse_ref": "Isaiah 40:29"
+    },
+    {
+      "id": "q_strength_026",
+      "question": "Fill in the blank: 'For I am the LORD your God who takes hold of your right hand and says to you, Do not fear; I will _____ you.'",
+      "correct": "help",
+      "wrong": ["save", "protect", "guide"],
+      "hint": "This means to assist or support",
+      "explanation": "God personally holds our hand and promises to help us.",
+      "full_verse": "For I am the LORD your God who takes hold of your right hand and says to you, Do not fear; I will help you.",
+      "verse_ref": "Isaiah 41:13"
+    },
+    {
+      "id": "q_strength_027",
+      "question": "Fill in the blank: 'LORD, my strength and my fortress, my refuge in time of distress, to you the nations will come from the ends of the _____.'",
+      "correct": "earth",
+      "wrong": ["world", "land", "sea"],
+      "hint": "This is our planet",
+      "explanation": "God is our strength and refuge, and all nations will come to Him.",
+      "full_verse": "LORD, my strength and my fortress, my refuge in time of distress, to you the nations will come from the ends of the earth.",
+      "verse_ref": "Jeremiah 16:19"
+    },
+    {
+      "id": "q_strength_028",
+      "question": "Fill in the blank: 'The Sovereign LORD is my strength; he makes my feet like the feet of a deer, he enables me to tread on the _____.'",
+      "correct": "heights",
+      "wrong": ["mountains", "hills", "rocks"],
+      "hint": "This refers to high places",
+      "explanation": "God gives us strength to overcome obstacles and reach new heights.",
+      "full_verse": "The Sovereign LORD is my strength; he makes my feet like the feet of a deer, he enables me to tread on the heights.",
+      "verse_ref": "Habakkuk 3:19"
+    },
+    {
+      "id": "q_strength_029",
+      "question": "Fill in the blank: '\"Not by might nor by power, but by my _____, \" says the LORD Almighty.'",
+      "correct": "Spirit",
+      "wrong": ["word", "hand", "grace"],
+      "hint": "This is the third person of the Trinity",
+      "explanation": "True strength comes not from human effort but from God's Spirit.",
+      "full_verse": "\"Not by might nor by power, but by my Spirit,\" says the LORD Almighty.",
+      "verse_ref": "Zechariah 4:6"
+    },
+    {
+      "id": "q_strength_030",
+      "question": "Fill in the blank: 'No, in all these things we are more than _____ through him who loved us.'",
+      "correct": "conquerors",
+      "wrong": ["victors", "winners", "champions"],
+      "hint": "These are people who overcome and triumph",
+      "explanation": "Through Christ's love, we have overwhelming victory.",
+      "full_verse": "No, in all these things we are more than conquerors through him who loved us.",
+      "verse_ref": "Romans 8:37"
+    },
+    {
+      "id": "q_strength_031",
+      "question": "Fill in the blank: 'For the foolishness of God is wiser than human wisdom, and the _____ of God is stronger than human strength.'",
+      "correct": "weakness",
+      "wrong": ["power", "might", "grace"],
+      "hint": "This is the opposite of strength",
+      "explanation": "Even God's 'weakness' surpasses all human strength.",
+      "full_verse": "For the foolishness of God is wiser than human wisdom, and the weakness of God is stronger than human strength.",
+      "verse_ref": "1 Corinthians 1:25"
+    },
+    {
+      "id": "q_strength_032",
+      "question": "Fill in the blank: 'No temptation has overtaken you except what is common to mankind. And God is faithful; he will not let you be tempted beyond what you can bear. But when you are tempted, he will also provide a way out so that you can _____ it.'",
+      "correct": "endure",
+      "wrong": ["overcome", "resist", "escape"],
+      "hint": "This means to persist through difficulty",
+      "explanation": "God gives us the strength to endure any temptation.",
+      "full_verse": "No temptation has overtaken you except what is common to mankind. And God is faithful; he will not let you be tempted beyond what you can bear. But when you are tempted, he will also provide a way out so that you can endure it.",
+      "verse_ref": "1 Corinthians 10:13"
+    },
+    {
+      "id": "q_strength_033",
+      "question": "Fill in the blank: 'Be on your guard; stand firm in the faith; be courageous; be _____.'",
+      "correct": "strong",
+      "wrong": ["brave", "bold", "fearless"],
+      "hint": "This is the ability to overcome challenges",
+      "explanation": "We are called to be alert, faithful, courageous, and strong.",
+      "full_verse": "Be on your guard; stand firm in the faith; be courageous; be strong.",
+      "verse_ref": "1 Corinthians 16:13"
+    },
+    {
+      "id": "q_strength_034",
+      "question": "Fill in the blank: 'That is why, for Christ's sake, I delight in weaknesses, in insults, in hardships, in persecutions, in difficulties. For when I am weak, then I am _____.'",
+      "correct": "strong",
+      "wrong": ["brave", "bold", "powerful"],
+      "hint": "This is the opposite of weak",
+      "explanation": "God's power is made perfect in our weakness.",
+      "full_verse": "That is why, for Christ's sake, I delight in weaknesses, in insults, in hardships, in persecutions, in difficulties. For when I am weak, then I am strong.",
+      "verse_ref": "2 Corinthians 12:10"
+    },
+    {
+      "id": "q_strength_035",
+      "question": "Fill in the blank: 'I pray that out of his glorious riches he may strengthen you with power through his Spirit in your inner _____.'",
+      "correct": "being",
+      "wrong": ["self", "soul", "heart"],
+      "hint": "This is the core of who you are",
+      "explanation": "God strengthens us spiritually from within.",
+      "full_verse": "I pray that out of his glorious riches he may strengthen you with power through his Spirit in your inner being.",
+      "verse_ref": "Ephesians 3:16"
+    },
+    {
+      "id": "q_strength_036",
+      "question": "Fill in the blank: 'Being strengthened with all power according to his glorious might so that you may have great endurance and _____.'",
+      "correct": "patience",
+      "wrong": ["faith", "hope", "peace"],
+      "hint": "This is the ability to wait calmly",
+      "explanation": "God's power enables us to endure with patience.",
+      "full_verse": "Being strengthened with all power according to his glorious might so that you may have great endurance and patience.",
+      "verse_ref": "Colossians 1:11"
+    },
+    {
+      "id": "q_strength_037",
+      "question": "Fill in the blank: 'For the Spirit God gave us does not make us timid, but gives us power, love and _____.'",
+      "correct": "self-discipline",
+      "wrong": ["wisdom", "courage", "faith"],
+      "hint": "This is self-control",
+      "explanation": "God's Spirit empowers us with power, love, and self-discipline.",
+      "full_verse": "For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.",
+      "verse_ref": "2 Timothy 1:7"
+    },
+    {
+      "id": "q_strength_038",
+      "question": "Fill in the blank: 'You then, my son, be strong in the _____ that is in Christ Jesus.'",
+      "correct": "grace",
+      "wrong": ["faith", "love", "power"],
+      "hint": "This is unmerited favor from God",
+      "explanation": "Our strength comes from the grace found in Christ.",
+      "full_verse": "You then, my son, be strong in the grace that is in Christ Jesus.",
+      "verse_ref": "2 Timothy 2:1"
+    },
+    {
+      "id": "q_strength_039",
+      "question": "Fill in the blank: 'But the Lord stood at my side and gave me strength, so that through me the message might be fully proclaimed and all the _____ might hear it.'",
+      "correct": "Gentiles",
+      "wrong": ["nations", "people", "world"],
+      "hint": "This refers to non-Jewish people",
+      "explanation": "God strengthens us to fulfill His purposes.",
+      "full_verse": "But the Lord stood at my side and gave me strength, so that through me the message might be fully proclaimed and all the Gentiles might hear it.",
+      "verse_ref": "2 Timothy 4:17"
+    },
+    {
+      "id": "q_strength_040",
+      "question": "Fill in the blank: 'Quenched the fury of the flames, and escaped the edge of the sword; whose weakness was turned to strength; and who became powerful in battle and routed foreign _____.'",
+      "correct": "armies",
+      "wrong": ["enemies", "nations", "forces"],
+      "hint": "These are military forces",
+      "explanation": "Faith can turn weakness into strength for victory.",
+      "full_verse": "Quenched the fury of the flames, and escaped the edge of the sword; whose weakness was turned to strength; and who became powerful in battle and routed foreign armies.",
+      "verse_ref": "Hebrews 11:34"
+    },
+    {
+      "id": "q_strength_041",
+      "question": "Fill in the blank: 'And the God of all grace, who called you to his eternal glory in Christ, after you have suffered a little while, will himself restore you and make you strong, firm and _____.'",
+      "correct": "steadfast",
+      "wrong": ["stable", "secure", "faithful"],
+      "hint": "This means firmly established",
+      "explanation": "God will strengthen and establish us after we endure trials.",
+      "full_verse": "And the God of all grace, who called you to his eternal glory in Christ, after you have suffered a little while, will himself restore you and make you strong, firm and steadfast.",
+      "verse_ref": "1 Peter 5:10"
+    },
+    {
+      "id": "q_strength_042",
+      "question": "Fill in the blank: 'You, dear children, are from God and have overcome them, because the one who is in you is greater than the one who is in the _____.'",
+      "correct": "world",
+      "wrong": ["darkness", "enemy", "flesh"],
+      "hint": "This is the place where evil operates",
+      "explanation": "God within us is greater than any force in the world.",
+      "full_verse": "You, dear children, are from God and have overcome them, because the one who is in you is greater than the one who is in the world.",
+      "verse_ref": "1 John 4:4"
+    },
+    {
+      "id": "q_strength_043",
+      "question": "Fill in the blank: 'The LORD is my strength and my _____; he has become my salvation. He is my God, and I will praise him, my father's God, and I will exalt him.'",
+      "correct": "defense",
+      "wrong": ["shield", "song", "refuge"],
+      "hint": "This is protection against attack",
+      "explanation": "God is our strength, protection, and salvation.",
+      "full_verse": "The LORD is my strength and my defense; he has become my salvation. He is my God, and I will praise him, my father's God, and I will exalt him.",
+      "verse_ref": "Exodus 15:2"
+    },
+    {
+      "id": "q_strength_044",
+      "question": "Fill in the blank: 'It is God who arms me with strength and keeps my path _____.'",
+      "correct": "secure",
+      "wrong": ["safe", "straight", "clear"],
+      "hint": "This means protected or stable",
+      "explanation": "God provides strength and guides us securely.",
+      "full_verse": "It is God who arms me with strength and keeps my path secure.",
+      "verse_ref": "2 Samuel 22:33"
+    },
+    {
+      "id": "q_strength_045",
+      "question": "Fill in the blank: 'Through the praise of children and infants you have established a stronghold against your enemies, to silence the foe and the _____.'",
+      "correct": "avenger",
+      "wrong": ["enemy", "adversary", "wicked"],
+      "hint": "This is one who seeks revenge",
+      "explanation": "God's strength is displayed even through the praise of children.",
+      "full_verse": "Through the praise of children and infants you have established a stronghold against your enemies, to silence the foe and the avenger.",
+      "verse_ref": "Psalm 8:2"
+    },
+    {
+      "id": "q_strength_046",
+      "question": "Fill in the blank: 'May these words of my mouth and this meditation of my heart be pleasing in your sight, LORD, my Rock and my _____.'",
+      "correct": "Redeemer",
+      "wrong": ["Savior", "Strength", "Refuge"],
+      "hint": "This is one who rescues by paying a price",
+      "explanation": "God is our strength (Rock) and our Redeemer.",
+      "full_verse": "May these words of my mouth and this meditation of my heart be pleasing in your sight, LORD, my Rock and my Redeemer.",
+      "verse_ref": "Psalm 19:14"
+    },
+    {
+      "id": "q_strength_047",
+      "question": "Fill in the blank: 'My hand will sustain him; surely my _____ will strengthen him.'",
+      "correct": "arm",
+      "wrong": ["hand", "power", "might"],
+      "hint": "This body part symbolizes strength",
+      "explanation": "God's arm represents His power to strengthen and sustain.",
+      "full_verse": "My hand will sustain him; surely my arm will strengthen him.",
+      "verse_ref": "Psalm 89:21"
+    },
+    {
+      "id": "q_strength_048",
+      "question": "Fill in the blank: 'Look to the LORD and his strength; seek his face _____.'",
+      "correct": "always",
+      "wrong": ["continually", "daily", "forever"],
+      "hint": "This means at all times",
+      "explanation": "We should constantly seek God's strength and presence.",
+      "full_verse": "Look to the LORD and his strength; seek his face always.",
+      "verse_ref": "Psalm 105:4"
+    },
+    {
+      "id": "q_strength_049",
+      "question": "Fill in the blank: 'Praise be to the LORD my Rock, who trains my hands for war, my fingers for _____.'",
+      "correct": "battle",
+      "wrong": ["war", "fighting", "combat"],
+      "hint": "This is a military conflict",
+      "explanation": "God equips and strengthens us for spiritual battles.",
+      "full_verse": "Praise be to the LORD my Rock, who trains my hands for war, my fingers for battle.",
+      "verse_ref": "Psalm 144:1"
+    },
+    {
+      "id": "q_strength_050",
+      "question": "Fill in the blank: 'The wise prevail through great power, and those who have knowledge muster their _____.'",
+      "correct": "strength",
+      "wrong": ["might", "power", "courage"],
+      "hint": "This is the ability to overcome challenges",
+      "explanation": "Wisdom and knowledge enhance our strength.",
+      "full_verse": "The wise prevail through great power, and those who have knowledge muster their strength.",
+      "verse_ref": "Proverbs 24:5"
+    }
+  ]
+}

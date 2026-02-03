@@ -1,1 +1,452 @@
-{}
+{
+  "q_faith_001": {
+    "question": "Completa il versetto: 'Or la fede è certezza di cose che si sperano, dimostrazione di realtà che non si _____.'",
+    "correct": "vedono",
+    "wrong": ["conoscono", "hanno", "capiscono"],
+    "hint": "La fede riguarda l'invisibile",
+    "explanation": "L'autore di Ebrei definisce la fede come essere certi di cose che non possiamo vedere fisicamente.",
+    "full_verse": "Or la fede è certezza di cose che si sperano, dimostrazione di realtà che non si vedono.",
+    "verse_ref": "Ebrei 11:1"
+  },
+  "q_faith_002": {
+    "question": "Completa il versetto: 'Così la fede viene da ciò che si ascolta, e ciò che si ascolta viene dalla parola di _____.'",
+    "correct": "Cristo",
+    "wrong": ["Dio", "salvezza", "verità"],
+    "hint": "La fede viene dall'ascoltare questa persona",
+    "explanation": "Paolo insegna che la fede è prodotta dall'ascolto del messaggio su Cristo.",
+    "full_verse": "Così la fede viene da ciò che si ascolta, e ciò che si ascolta viene dalla parola di Cristo.",
+    "verse_ref": "Romani 10:17"
+  },
+  "q_faith_003": {
+    "question": "Completa il versetto: 'Infatti è per grazia che siete stati salvati, mediante la fede; e ciò non viene da voi, è il _____ di Dio.'",
+    "correct": "dono",
+    "wrong": ["opera", "piano", "volontà"],
+    "hint": "La salvezza è data gratuitamente",
+    "explanation": "Paolo sottolinea che la salvezza attraverso la fede è un dono di Dio, non qualcosa che guadagniamo.",
+    "full_verse": "Infatti è per grazia che siete stati salvati, mediante la fede; e ciò non viene da voi, è il dono di Dio.",
+    "verse_ref": "Efesini 2:8"
+  },
+  "q_faith_004": {
+    "question": "Completa il versetto: 'Così è della fede: se non ha opere, è per se stessa _____.'",
+    "correct": "morta",
+    "wrong": ["debole", "vuota", "inutile"],
+    "hint": "La fede senza opere non ha vita",
+    "explanation": "Giacomo insegna che la fede genuina produrrà naturalmente buone opere come evidenza.",
+    "full_verse": "Così è della fede: se non ha opere, è per se stessa morta.",
+    "verse_ref": "Giacomo 2:17"
+  },
+  "q_faith_005": {
+    "question": "Completa il versetto: 'Abbiate fede in _____', rispose Gesù.",
+    "correct": "Dio",
+    "wrong": ["me", "voi stessi", "preghiera"],
+    "hint": "Gesù dirige la fede verso il Padre",
+    "explanation": "Gesù istruisce i suoi discepoli a riporre la loro fiducia completamente in Dio.",
+    "full_verse": "Abbiate fede in Dio, rispose Gesù.",
+    "verse_ref": "Marco 11:22"
+  },
+  "q_faith_006": {
+    "question": "Completa il versetto: 'In verità io vi dico: se avete fede quanto un granello di _____, potrete dire a questo monte: \"Spostati da qui a là\", e si sposterà.'",
+    "correct": "senape",
+    "wrong": ["grano", "pianta", "albero"],
+    "hint": "Questo è il più piccolo dei semi",
+    "explanation": "Gesù insegna che anche una piccola quantità di fede genuina può compiere grandi cose.",
+    "full_verse": "In verità io vi dico: se avete fede quanto un granello di senape, potrete dire a questo monte: \"Spostati da qui a là\", e si sposterà; e nulla vi sarà impossibile.",
+    "verse_ref": "Matteo 17:20"
+  },
+  "q_faith_007": {
+    "question": "Completa il versetto: 'Poiché camminiamo per fede e non per _____.'",
+    "correct": "visione",
+    "wrong": ["opere", "legge", "sentimenti"],
+    "hint": "L'opposto del vedere",
+    "explanation": "Paolo contrappone la fede alla vista fisica, sottolineando che i credenti confidano nell'invisibile.",
+    "full_verse": "Poiché camminiamo per fede e non per visione.",
+    "verse_ref": "2 Corinzi 5:7"
+  },
+  "q_faith_008": {
+    "question": "Completa il versetto: 'Sono stato crocifisso con Cristo: non sono più io che vivo, ma Cristo vive in _____.'",
+    "correct": "me",
+    "wrong": ["noi", "loro", "tutti"],
+    "hint": "Paolo parla della sua esperienza personale",
+    "explanation": "Paolo descrive la trasformazione di vivere per fede in Cristo che ora vive in lui.",
+    "full_verse": "Sono stato crocifisso con Cristo: non sono più io che vivo, ma Cristo vive in me. La vita che vivo ora nella carne, la vivo nella fede nel Figlio di Dio, che mi ha amato e ha dato se stesso per me.",
+    "verse_ref": "Galati 2:20"
+  },
+  "q_faith_009": {
+    "question": "Completa il versetto: 'Senza fede è impossibile _____ Dio.'",
+    "correct": "piacergli",
+    "wrong": ["conoscere", "amare", "servire"],
+    "hint": "La fede è necessaria per soddisfare Dio",
+    "explanation": "L'autore di Ebrei dichiara che la fede è assolutamente essenziale per piacere a Dio.",
+    "full_verse": "Senza fede è impossibile piacergli, perché chi si accosta a Dio deve credere che egli esiste, e che ricompensa tutti quelli che lo cercano.",
+    "verse_ref": "Ebrei 11:6"
+  },
+  "q_faith_010": {
+    "question": "Completa il versetto: 'Perché in esso la giustizia di Dio è rivelata da fede a fede, com'è scritto: \"Il giusto vivrà per _____.\"'",
+    "correct": "fede",
+    "wrong": ["grazia", "amore", "legge"],
+    "hint": "Il giusto vive per questo",
+    "explanation": "Paolo cita Abacuc per mostrare che la giustizia è sempre stata attraverso la fede.",
+    "full_verse": "Perché in esso la giustizia di Dio è rivelata da fede a fede, com'è scritto: \"Il giusto vivrà per fede.\"",
+    "verse_ref": "Romani 1:17"
+  },
+  "q_faith_011": {
+    "question": "Completa il versetto: 'Ma la chieda con fede, senza _____; perché chi dubita è simile a un'onda del mare.'",
+    "correct": "dubitare",
+    "wrong": ["temere", "preoccuparsi", "esitare"],
+    "hint": "L'opposto del credere",
+    "explanation": "Giacomo insegna che la preghiera deve essere offerta con fede senza vacillare.",
+    "full_verse": "Ma la chieda con fede, senza dubitare; perché chi dubita è simile a un'onda del mare, agitata dal vento e spinta qua e là.",
+    "verse_ref": "Giacomo 1:6"
+  },
+  "q_faith_012": {
+    "question": "Completa il versetto: 'Affinché la vostra fede, che è più preziosa dell'_____ che perisce, e tuttavia è provata con il fuoco, sia motivo di lode.'",
+    "correct": "oro",
+    "wrong": ["argento", "gioielli", "tesoro"],
+    "hint": "Un metallo prezioso",
+    "explanation": "Pietro paragona la fede provata all'oro raffinato, mostrando il valore superiore della fede.",
+    "full_verse": "Affinché la vostra fede, che è più preziosa dell'oro che perisce, e tuttavia è provata con il fuoco, sia motivo di lode, di gloria e di onore al momento della manifestazione di Gesù Cristo.",
+    "verse_ref": "1 Pietro 1:7"
+  },
+  "q_faith_013": {
+    "question": "Completa il versetto: 'E: \"Ma il mio giusto vivrà per fede; e se si tira _____, l'anima mia non lo gradisce.\"'",
+    "correct": "indietro",
+    "wrong": ["via", "giù", "da parte"],
+    "hint": "Ritirarsi o indietreggiare",
+    "explanation": "L'autore cita Abacuc, avvertendo contro l'allontanarsi dalla fede.",
+    "full_verse": "E: \"Ma il mio giusto vivrà per fede; e se si tira indietro, l'anima mia non lo gradisce.\"",
+    "verse_ref": "Ebrei 10:38"
+  },
+  "q_faith_014": {
+    "question": "Completa il versetto: 'Davanti alla promessa di Dio non vacillò per incredulità, ma fu fortificato nella fede e diede _____ a Dio.'",
+    "correct": "gloria",
+    "wrong": ["grazie", "lode", "onore"],
+    "hint": "La fede di Abramo onorò Dio",
+    "explanation": "Paolo descrive la fede incrollabile di Abramo nella promessa di Dio nonostante circostanze impossibili.",
+    "full_verse": "Davanti alla promessa di Dio non vacillò per incredulità, ma fu fortificato nella fede e diede gloria a Dio.",
+    "verse_ref": "Romani 4:20"
+  },
+  "q_faith_015": {
+    "question": "Completa il versetto: '\"Se puoi?\" disse Gesù. \"Ogni cosa è _____ per chi crede.\"'",
+    "correct": "possibile",
+    "wrong": ["data", "fatta", "raggiunta"],
+    "hint": "Nulla è irraggiungibile per la fede",
+    "explanation": "Gesù sfida il dubbio di un padre dichiarando che tutto è possibile attraverso la fede.",
+    "full_verse": "\"Se puoi?\" disse Gesù. \"Ogni cosa è possibile per chi crede.\"",
+    "verse_ref": "Marco 9:23"
+  },
+  "q_faith_016": {
+    "question": "Completa il versetto: 'Gesù rispose loro: \"In verità vi dico che se avete fede e non dubitate, non solo farete quello che è stato fatto al fico, ma se anche direte a questo monte: 'Togliti di là e gettati nel _____', ciò avverrà.\"'",
+    "correct": "mare",
+    "wrong": ["valle", "fuoco", "abisso"],
+    "hint": "Una grande distesa d'acqua",
+    "explanation": "Gesù usa un'iperbole per illustrare l'incredibile potere della fede incrollabile.",
+    "full_verse": "Gesù rispose loro: \"In verità vi dico che se avete fede e non dubitate, non solo farete quello che è stato fatto al fico, ma se anche direte a questo monte: 'Togliti di là e gettati nel mare', ciò avverrà.\"",
+    "verse_ref": "Matteo 21:21"
+  },
+  "q_faith_017": {
+    "question": "Completa il versetto: 'Perché tutto quello che è nato da Dio vince il mondo; e questa è la vittoria che ha vinto il mondo: la nostra _____.'",
+    "correct": "fede",
+    "wrong": ["amore", "speranza", "Dio"],
+    "hint": "Questo conquista il mondo",
+    "explanation": "Giovanni dichiara che la fede in Cristo è ciò che permette ai credenti di vincere il mondo.",
+    "full_verse": "Perché tutto quello che è nato da Dio vince il mondo; e questa è la vittoria che ha vinto il mondo: la nostra fede.",
+    "verse_ref": "1 Giovanni 5:4"
+  },
+  "q_faith_018": {
+    "question": "Completa il versetto: 'È evidente che nessuno è giustificato davanti a Dio dalla legge, perché \"il giusto vivrà per _____.\"'",
+    "correct": "fede",
+    "wrong": ["grazia", "opere", "amore"],
+    "hint": "La giustizia viene attraverso questo",
+    "explanation": "Paolo argomenta che la giustificazione viene attraverso la fede, non attraverso l'osservanza della legge.",
+    "full_verse": "È evidente che nessuno è giustificato davanti a Dio dalla legge, perché \"il giusto vivrà per fede.\"",
+    "verse_ref": "Galati 3:11"
+  },
+  "q_faith_019": {
+    "question": "Completa il versetto: 'Per fede comprendiamo che i mondi sono stati formati dalla parola di Dio; così le cose che si vedono non sono state tratte da cose _____.'",
+    "correct": "visibili",
+    "wrong": ["esistenti", "conosciute", "create"],
+    "hint": "L'opposto di invisibile",
+    "explanation": "La fede ci aiuta a comprendere che Dio ha creato tutto dal nulla.",
+    "full_verse": "Per fede comprendiamo che i mondi sono stati formati dalla parola di Dio; così le cose che si vedono non sono state tratte da cose visibili.",
+    "verse_ref": "Ebrei 11:3"
+  },
+  "q_faith_020": {
+    "question": "Completa il versetto: 'Giustificati dunque per fede, abbiamo _____ con Dio per mezzo del nostro Signore Gesù Cristo.'",
+    "correct": "pace",
+    "wrong": ["vita", "speranza", "gioia"],
+    "hint": "La fede porta riconciliazione con Dio",
+    "explanation": "Paolo dichiara che la giustificazione per fede risulta nella pace con Dio.",
+    "full_verse": "Giustificati dunque per fede, abbiamo pace con Dio per mezzo del nostro Signore Gesù Cristo.",
+    "verse_ref": "Romani 5:1"
+  },
+  "q_faith_021": {
+    "question": "Completa il versetto: 'Come il corpo senza lo spirito è morto, così anche la fede senza le opere è _____.'",
+    "correct": "morta",
+    "wrong": ["debole", "vuota", "falsa"],
+    "hint": "La fede senza opere non ha vita",
+    "explanation": "Giacomo paragona la fede senza opere a un corpo senza spirito: senza vita.",
+    "full_verse": "Come il corpo senza lo spirito è morto, così anche la fede senza le opere è morta.",
+    "verse_ref": "Giacomo 2:26"
+  },
+  "q_faith_022": {
+    "question": "Completa il versetto: 'Fissando lo sguardo su Gesù, colui che crea la fede e la rende _____.'",
+    "correct": "perfetta",
+    "wrong": ["completa", "forte", "vera"],
+    "hint": "Gesù completa questo in noi",
+    "explanation": "Gesù è sia l'originatore che colui che porta la fede al compimento.",
+    "full_verse": "Fissando lo sguardo su Gesù, colui che crea la fede e la rende perfetta. Per la gioia che gli era posta davanti egli sopportò la croce, disprezzando l'infamia, e si è seduto alla destra del trono di Dio.",
+    "verse_ref": "Ebrei 12:2"
+  },
+  "q_faith_023": {
+    "question": "Completa il versetto: 'Combatti il buon combattimento della fede, afferra la vita _____ alla quale sei stato chiamato.'",
+    "correct": "eterna",
+    "wrong": ["vera", "promessa", "nuova"],
+    "hint": "Questa dura per sempre",
+    "explanation": "Paolo incoraggia Timoteo a combattere per la fede e afferrare la vita eterna.",
+    "full_verse": "Combatti il buon combattimento della fede, afferra la vita eterna alla quale sei stato chiamato e per la quale hai fatto quella bella confessione in presenza di molti testimoni.",
+    "verse_ref": "1 Timoteo 6:12"
+  },
+  "q_faith_024": {
+    "question": "Completa il versetto: 'Come dunque avete ricevuto Cristo Gesù, il Signore, così camminate in lui, radicati, edificati in lui e confermati nella fede, come vi è stato insegnato, e abbondando nel rendimento di _____.'",
+    "correct": "grazie",
+    "wrong": ["gioia", "amore", "speranza"],
+    "hint": "La gratitudine dovrebbe abbondare",
+    "explanation": "Paolo esorta i credenti a rimanere radicati in Cristo, crescendo nella fede con cuori grati.",
+    "full_verse": "Come dunque avete ricevuto Cristo Gesù, il Signore, così camminate in lui, radicati, edificati in lui e confermati nella fede, come vi è stato insegnato, e abbondando nel rendimento di grazie.",
+    "verse_ref": "Colossesi 2:6-7"
+  },
+  "q_faith_025": {
+    "question": "Completa il versetto: 'Vegliate, state fermi nella fede, comportatevi da uomini, siate _____.'",
+    "correct": "forti",
+    "wrong": ["audaci", "coraggiosi", "fedeli"],
+    "hint": "L'opposto di deboli",
+    "explanation": "Paolo dà quattro comandi per la vigilanza e la forza spirituale.",
+    "full_verse": "Vegliate, state fermi nella fede, comportatevi da uomini, siate forti.",
+    "verse_ref": "1 Corinzi 16:13"
+  },
+  "q_faith_026": {
+    "question": "Completa il versetto: 'E di essere trovato in lui non con una giustizia mia, derivante dalla legge, ma con quella che si ha mediante la fede in _____.'",
+    "correct": "Cristo",
+    "wrong": ["Dio", "Gesù", "il Signore"],
+    "hint": "La fede di Paolo è in questa persona",
+    "explanation": "Paolo desidera la giustizia che viene attraverso la fede in Cristo, non attraverso la legge.",
+    "full_verse": "E di essere trovato in lui non con una giustizia mia, derivante dalla legge, ma con quella che si ha mediante la fede in Cristo: la giustizia che viene da Dio, basata sulla fede.",
+    "verse_ref": "Filippesi 3:9"
+  },
+  "q_faith_027": {
+    "question": "Completa il versetto: 'Poiché riteniamo che l'uomo è giustificato mediante la fede senza le opere della _____.'",
+    "correct": "legge",
+    "wrong": ["carne", "mondo", "natura"],
+    "hint": "La fede giustifica senza questo",
+    "explanation": "Paolo argomenta che la giustificazione viene attraverso la fede, non attraverso l'osservanza della legge.",
+    "full_verse": "Poiché riteniamo che l'uomo è giustificato mediante la fede senza le opere della legge.",
+    "verse_ref": "Romani 3:28"
+  },
+  "q_faith_028": {
+    "question": "Completa il versetto: 'Infatti, in Cristo Gesù, né la circoncisione, né l'incirconcisione hanno valore; quello che vale è la fede che opera per mezzo dell'_____.'",
+    "correct": "amore",
+    "wrong": ["opere", "azioni", "obbedienza"],
+    "hint": "La fede opera attraverso questa emozione",
+    "explanation": "Paolo insegna che la vera fede si esprime attraverso l'amore, non rituali esterni.",
+    "full_verse": "Infatti, in Cristo Gesù, né la circoncisione, né l'incirconcisione hanno valore; quello che vale è la fede che opera per mezzo dell'amore.",
+    "verse_ref": "Galati 5:6"
+  },
+  "q_faith_029": {
+    "question": "Completa il versetto: 'Ma chi ha dei dubbi è condannato se mangia, perché non mangia con fede; e tutto quello che non viene da fede è _____.'",
+    "correct": "peccato",
+    "wrong": ["sbagliato", "male", "cattivo"],
+    "hint": "Le azioni senza fede sono questo",
+    "explanation": "Paolo insegna che qualsiasi cosa fatta senza la convinzione della fede è peccaminosa.",
+    "full_verse": "Ma chi ha dei dubbi è condannato se mangia, perché non mangia con fede; e tutto quello che non viene da fede è peccato.",
+    "verse_ref": "Romani 14:23"
+  },
+  "q_faith_030": {
+    "question": "Completa il versetto: 'Per fede Noè, divinamente avvertito di cose che non si vedevano ancora, con pio timore costruì un'_____ per la salvezza della sua famiglia.'",
+    "correct": "arca",
+    "wrong": ["altare", "casa", "barca"],
+    "hint": "Noè costruì questo vascello",
+    "explanation": "La fede di Noè lo portò a costruire l'arca nonostante non avesse mai visto un diluvio.",
+    "full_verse": "Per fede Noè, divinamente avvertito di cose che non si vedevano ancora, con pio timore costruì un'arca per la salvezza della sua famiglia; con la sua fede condannò il mondo e fu fatto erede della giustizia che si ha per mezzo della fede.",
+    "verse_ref": "Ebrei 11:7"
+  },
+  "q_faith_031": {
+    "question": "Completa il versetto: 'Per fede Abraamo, quando fu chiamato, _____ e se ne andò verso un luogo che doveva ricevere in eredità; e partì senza sapere dove andava.'",
+    "correct": "ubbidì",
+    "wrong": ["credette", "confidò", "seguì"],
+    "hint": "La risposta di Abraamo alla chiamata di Dio",
+    "explanation": "La fede di Abraamo fu dimostrata attraverso l'obbedienza, partendo senza conoscere la destinazione.",
+    "full_verse": "Per fede Abraamo, quando fu chiamato, ubbidì e se ne andò verso un luogo che doveva ricevere in eredità; e partì senza sapere dove andava.",
+    "verse_ref": "Ebrei 11:8"
+  },
+  "q_faith_032": {
+    "question": "Completa il versetto: 'Per fede anche Sara, benché sterile e fuori di età, ricevette forza di concepire, perché ritenne _____ colui che aveva fatto la promessa.'",
+    "correct": "fedele",
+    "wrong": ["vero", "potente", "onnipotente"],
+    "hint": "Sara confidò nel carattere di Dio",
+    "explanation": "La fede di Sara si basava sulla fiducia che Dio avrebbe mantenuto la sua promessa.",
+    "full_verse": "Per fede anche Sara, benché sterile e fuori di età, ricevette forza di concepire, perché ritenne fedele colui che aveva fatto la promessa.",
+    "verse_ref": "Ebrei 11:11"
+  },
+  "q_faith_033": {
+    "question": "Completa il versetto: 'Per fede Abraamo, quando fu messo alla prova, offrì Isacco; egli, che aveva ricevuto le promesse, offrì il suo unigenito _____.'",
+    "correct": "figlio",
+    "wrong": ["bambino", "erede", "amato"],
+    "hint": "Abraamo era disposto a sacrificare questa persona",
+    "explanation": "La fede di Abraamo fu messa alla prova quando Dio gli chiese di sacrificare Isacco.",
+    "full_verse": "Per fede Abraamo, quando fu messo alla prova, offrì Isacco; egli, che aveva ricevuto le promesse, offrì il suo unigenito figlio.",
+    "verse_ref": "Ebrei 11:17"
+  },
+  "q_faith_034": {
+    "question": "Completa il versetto: 'Per fede Mosè, divenuto adulto, rifiutò di essere chiamato figlio della figlia del _____.'",
+    "correct": "faraone",
+    "wrong": ["Egitto", "re", "Ramesse"],
+    "hint": "Il sovrano d'Egitto",
+    "explanation": "Mosè scelse di identificarsi con il popolo di Dio piuttosto che con la regalità egiziana.",
+    "full_verse": "Per fede Mosè, divenuto adulto, rifiutò di essere chiamato figlio della figlia del faraone, preferendo essere maltrattato con il popolo di Dio, piuttosto che godere per breve tempo i piaceri del peccato.",
+    "verse_ref": "Ebrei 11:24-25"
+  },
+  "q_faith_035": {
+    "question": "Completa il versetto: 'Per fede passarono il Mar Rosso come fosse terra asciutta; mentre gli Egiziani, tentando di fare lo stesso, furono _____.'",
+    "correct": "inghiottiti",
+    "wrong": ["distrutti", "uccisi", "persi"],
+    "hint": "Gli Egiziani perirono nell'acqua",
+    "explanation": "La fede di Israele permise loro di attraversare il Mar Rosso mentre gli Egiziani inseguitori annegarono.",
+    "full_verse": "Per fede passarono il Mar Rosso come fosse terra asciutta; mentre gli Egiziani, tentando di fare lo stesso, furono inghiottiti.",
+    "verse_ref": "Ebrei 11:29"
+  },
+  "q_faith_036": {
+    "question": "Completa il versetto: 'Per fede caddero le mura di Gerico, dopo che gli Israeliti vi avevano girato attorno per _____ giorni.'",
+    "correct": "sette",
+    "wrong": ["sei", "tre", "quaranta"],
+    "hint": "Un numero significativo nella Scrittura",
+    "explanation": "La fede e l'obbedienza di Israele nel marciare intorno a Gerico portarono alla caduta delle mura.",
+    "full_verse": "Per fede caddero le mura di Gerico, dopo che gli Israeliti vi avevano girato attorno per sette giorni.",
+    "verse_ref": "Ebrei 11:30"
+  },
+  "q_faith_037": {
+    "question": "Completa il versetto: 'Per fede Raab, la prostituta, non perì con gli increduli, perché aveva accolto con benevolenza le _____.'",
+    "correct": "spie",
+    "wrong": ["messaggeri", "stranieri", "visitatori"],
+    "hint": "Coloro che esploravano il territorio",
+    "explanation": "La fede di Raab la salvò quando Gerico fu distrutta.",
+    "full_verse": "Per fede Raab, la prostituta, non perì con gli increduli, perché aveva accolto con benevolenza le spie.",
+    "verse_ref": "Ebrei 11:31"
+  },
+  "q_faith_038": {
+    "question": "Completa il versetto: 'Gli apostoli dissero al Signore: \"Aumentaci la _____.\"'",
+    "correct": "fede",
+    "wrong": ["amore", "speranza", "forza"],
+    "hint": "I discepoli chiesero di più di questo",
+    "explanation": "Gli apostoli riconobbero il loro bisogno di maggiore fede e chiesero a Gesù di aumentarla.",
+    "full_verse": "Gli apostoli dissero al Signore: \"Aumentaci la fede.\" Il Signore disse: \"Se aveste fede quanto un granello di senape, potreste dire a questo sicomoro: 'Sradicati e trapiantati nel mare', e vi ubbidirebbe.\"",
+    "verse_ref": "Luca 17:5-6"
+  },
+  "q_faith_039": {
+    "question": "Completa il versetto: 'Udito questo, Gesù ne restò meravigliato, e disse a quelli che lo seguivano: \"Io vi dico in verità che in nessuno, in Israele, ho trovato una fede così _____.\"'",
+    "correct": "grande",
+    "wrong": ["forte", "vera", "profonda"],
+    "hint": "Gesù fu impressionato da questa qualità",
+    "explanation": "Gesù si meravigliò della straordinaria fede del centurione nella sua autorità.",
+    "full_verse": "Udito questo, Gesù ne restò meravigliato, e disse a quelli che lo seguivano: \"Io vi dico in verità che in nessuno, in Israele, ho trovato una fede così grande.\"",
+    "verse_ref": "Matteo 8:10"
+  },
+  "q_faith_040": {
+    "question": "Completa il versetto: 'Ma Gesù, voltatosi e vedutala, disse: \"Coraggio, figliola; la tua fede ti ha _____.\"'",
+    "correct": "guarita",
+    "wrong": ["salvata", "aiutata", "benedetta"],
+    "hint": "La donna fu resa sana",
+    "explanation": "Gesù attribuì la guarigione della donna alla sua fede.",
+    "full_verse": "Ma Gesù, voltatosi e vedutala, disse: \"Coraggio, figliola; la tua fede ti ha guarita.\" E da quell'ora la donna fu guarita.",
+    "verse_ref": "Matteo 9:22"
+  },
+  "q_faith_041": {
+    "question": "Completa il versetto: 'Allora Gesù le disse: \"Donna, grande è la tua fede; ti sia fatto come _____.'",
+    "correct": "desideri",
+    "wrong": ["chiedi", "vuoi", "speri"],
+    "hint": "Gesù le diede ciò che chiedeva",
+    "explanation": "Gesù lodò la grande fede della donna cananea e le concesse la sua richiesta.",
+    "full_verse": "Allora Gesù le disse: \"Donna, grande è la tua fede; ti sia fatto come desideri.\" E da quel momento sua figlia fu guarita.",
+    "verse_ref": "Matteo 15:28"
+  },
+  "q_faith_042": {
+    "question": "Completa il versetto: 'Ma Gesù disse alla donna: \"La tua fede ti ha salvata; va' in _____.\"'",
+    "correct": "pace",
+    "wrong": ["gioia", "speranza", "amore"],
+    "hint": "Gesù la manda via con questa benedizione",
+    "explanation": "Gesù assicurò alla donna peccatrice che la sua fede aveva portato salvezza e pace.",
+    "full_verse": "Ma Gesù disse alla donna: \"La tua fede ti ha salvata; va' in pace.\"",
+    "verse_ref": "Luca 7:50"
+  },
+  "q_faith_043": {
+    "question": "Completa il versetto: 'Ed egli le disse: \"Figliola, la tua fede ti ha salvata; va' in _____.\"'",
+    "correct": "pace",
+    "wrong": ["gioia", "speranza", "amore"],
+    "hint": "Gesù benedice la sua partenza",
+    "explanation": "Gesù dichiarò che la fede della donna l'aveva guarita e la benedisse con la pace.",
+    "full_verse": "Ed egli le disse: \"Figliola, la tua fede ti ha salvata; va' in pace.\"",
+    "verse_ref": "Luca 8:48"
+  },
+  "q_faith_044": {
+    "question": "Completa il versetto: 'E per la fede nel suo nome, il suo nome ha fortificato quest'uomo che vedete e conoscete; ed è la fede che si ha per mezzo di lui, che gli ha dato questa completa _____.'",
+    "correct": "guarigione",
+    "wrong": ["salvezza", "restaurazione", "forza"],
+    "hint": "Lo zoppo fu reso sano",
+    "explanation": "Pietro spiega che la fede nel nome di Gesù guarì lo zoppo alla porta del tempio.",
+    "full_verse": "E per la fede nel suo nome, il suo nome ha fortificato quest'uomo che vedete e conoscete; ed è la fede che si ha per mezzo di lui, che gli ha dato questa completa guarigione in presenza di voi tutti.",
+    "verse_ref": "Atti 3:16"
+  },
+  "q_faith_045": {
+    "question": "Completa il versetto: 'Infatti che dice la Scrittura? \"Abraamo credette a Dio e ciò gli fu messo in conto di _____.\"'",
+    "correct": "giustizia",
+    "wrong": ["fede", "santità", "rettitudine"],
+    "hint": "La fede di Abraamo fu contata come questo",
+    "explanation": "Paolo cita Genesi per mostrare che Abraamo fu reso giusto attraverso la fede, non le opere.",
+    "full_verse": "Infatti che dice la Scrittura? \"Abraamo credette a Dio e ciò gli fu messo in conto di giustizia.\"",
+    "verse_ref": "Romani 4:3"
+  },
+  "q_faith_046": {
+    "question": "Completa il versetto: 'Perché, se con la bocca avrai confessato Gesù come Signore e avrai creduto con il cuore che Dio lo ha risuscitato dai morti, sarai _____.'",
+    "correct": "salvato",
+    "wrong": ["benedetto", "perdonato", "guarito"],
+    "hint": "La confessione e la fede portano a questo",
+    "explanation": "Paolo dà il semplice requisito per la salvezza: confessare Gesù come Signore e credere nella sua risurrezione.",
+    "full_verse": "Perché, se con la bocca avrai confessato Gesù come Signore e avrai creduto con il cuore che Dio lo ha risuscitato dai morti, sarai salvato.",
+    "verse_ref": "Romani 10:9"
+  },
+  "q_faith_047": {
+    "question": "Completa il versetto: 'Prendete oltre a tutto ciò lo scudo della fede, con il quale potrete spegnere tutti i dardi infuocati del _____.'",
+    "correct": "maligno",
+    "wrong": ["nemico", "diavolo", "male"],
+    "hint": "Le armi di Satana sono come questi proiettili",
+    "explanation": "Paolo descrive la fede come uno scudo che protegge dagli attacchi di Satana.",
+    "full_verse": "Prendete oltre a tutto ciò lo scudo della fede, con il quale potrete spegnere tutti i dardi infuocati del maligno.",
+    "verse_ref": "Efesini 6:16"
+  },
+  "q_faith_048": {
+    "question": "Completa il versetto: 'Ma noi, che siamo del giorno, siamo sobri, avendo rivestito la corazza della fede e dell'amore, e preso per elmo la speranza della _____.'",
+    "correct": "salvezza",
+    "wrong": ["vita", "gloria", "vittoria"],
+    "hint": "L'armatura che protegge la testa",
+    "explanation": "Paolo usa l'immagine dell'armatura per descrivere la protezione spirituale della fede, dell'amore e della speranza.",
+    "full_verse": "Ma noi, che siamo del giorno, siamo sobri, avendo rivestito la corazza della fede e dell'amore, e preso per elmo la speranza della salvezza.",
+    "verse_ref": "1 Tessalonicesi 5:8"
+  },
+  "q_faith_049": {
+    "question": "Completa il versetto: 'Ho combattuto il buon combattimento, ho finito la corsa, ho conservato la _____.'",
+    "correct": "fede",
+    "wrong": ["speranza", "corsa", "parola"],
+    "hint": "Paolo ha preservato questo per tutta la sua vita",
+    "explanation": "Paolo riflette sulla sua vita, dichiarando di essere rimasto fedele fino alla fine.",
+    "full_verse": "Ho combattuto il buon combattimento, ho finito la corsa, ho conservato la fede.",
+    "verse_ref": "2 Timoteo 4:7"
+  },
+  "q_faith_050": {
+    "question": "Completa il versetto: 'Voi ottenete il fine della fede: la salvezza delle anime _____.'",
+    "correct": "vostre",
+    "wrong": ["nostre", "loro", "tutte"],
+    "hint": "La fede risulta nella salvezza di questa parte di noi",
+    "explanation": "Pietro incoraggia i credenti che l'obiettivo finale della fede è la salvezza delle loro anime.",
+    "full_verse": "Voi ottenete il fine della fede: la salvezza delle anime vostre.",
+    "verse_ref": "1 Pietro 1:9"
+  }
+}

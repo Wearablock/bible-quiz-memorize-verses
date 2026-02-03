@@ -1,1 +1,452 @@
-{}
+{
+  "q_salvation_001": {
+    "question": "Isi bagian yang kosong: 'Karena begitu besar kasih Allah akan dunia ini, sehingga Ia telah mengaruniakan Anak-Nya yang tunggal, supaya setiap orang yang percaya kepada-Nya tidak binasa, melainkan beroleh hidup yang _____.'",
+    "correct": "kekal",
+    "wrong": ["damai", "sukacita", "selamat"],
+    "hint": "Ini adalah sesuatu yang berlangsung selamanya",
+    "explanation": "Kasih Allah menyediakan karunia hidup kekal melalui iman kepada Yesus.",
+    "full_verse": "Karena begitu besar kasih Allah akan dunia ini, sehingga Ia telah mengaruniakan Anak-Nya yang tunggal, supaya setiap orang yang percaya kepada-Nya tidak binasa, melainkan beroleh hidup yang kekal.",
+    "verse_ref": "Yohanes 3:16"
+  },
+  "q_salvation_002": {
+    "question": "Isi bagian yang kosong: 'Sebab jika kamu mengaku dengan mulutmu, bahwa Yesus adalah Tuhan, dan percaya dalam hatimu, bahwa Allah telah membangkitkan Dia dari antara orang mati, maka kamu akan _____.'",
+    "correct": "diselamatkan",
+    "wrong": ["diberkati", "diampuni", "disembuhkan"],
+    "hint": "Ini berarti dibebaskan dari dosa",
+    "explanation": "Keselamatan datang melalui pengakuan Yesus sebagai Tuhan dan percaya kepada kebangkitan-Nya.",
+    "full_verse": "Sebab jika kamu mengaku dengan mulutmu, bahwa Yesus adalah Tuhan, dan percaya dalam hatimu, bahwa Allah telah membangkitkan Dia dari antara orang mati, maka kamu akan diselamatkan.",
+    "verse_ref": "Roma 10:9"
+  },
+  "q_salvation_003": {
+    "question": "Isi bagian yang kosong: 'Sebab karena kasih karunia kamu diselamatkan oleh iman; itu bukan hasil usahamu, tetapi pemberian Allah, itu bukan hasil _____, jangan ada orang yang memegahkan diri.'",
+    "correct": "pekerjaanmu",
+    "wrong": ["usahamu", "perbuatanmu", "jasamu"],
+    "hint": "Ini adalah tindakan atau perbuatan yang kita lakukan",
+    "explanation": "Keselamatan adalah karunia cuma-cuma dari Allah, bukan diperoleh melalui usaha kita sendiri.",
+    "full_verse": "Sebab karena kasih karunia kamu diselamatkan oleh iman; itu bukan hasil usahamu, tetapi pemberian Allah, itu bukan hasil pekerjaanmu, jangan ada orang yang memegahkan diri.",
+    "verse_ref": "Efesus 2:8-9"
+  },
+  "q_salvation_004": {
+    "question": "Isi bagian yang kosong: 'Dan keselamatan tidak ada di dalam siapa pun juga selain di dalam Dia, sebab di bawah kolong langit ini tidak ada _____ lain yang diberikan kepada manusia yang olehnya kita dapat diselamatkan.'",
+    "correct": "nama",
+    "wrong": ["jalan", "cara", "harapan"],
+    "hint": "Ini mewakili identitas seseorang",
+    "explanation": "Yesus Kristus adalah satu-satunya sumber keselamatan bagi umat manusia.",
+    "full_verse": "Dan keselamatan tidak ada di dalam siapa pun juga selain di dalam Dia, sebab di bawah kolong langit ini tidak ada nama lain yang diberikan kepada manusia yang olehnya kita dapat diselamatkan.",
+    "verse_ref": "Kisah Para Rasul 4:12"
+  },
+  "q_salvation_005": {
+    "question": "Isi bagian yang kosong: 'Kata Yesus kepadanya: \"Akulah jalan dan kebenaran dan hidup. Tidak ada seorang pun yang datang kepada Bapa, kalau tidak melalui _____.\"'",
+    "correct": "Aku",
+    "wrong": ["iman", "Dia", "kasih karunia"],
+    "hint": "Yesus mengacu kepada diri-Nya sendiri",
+    "explanation": "Yesus adalah satu-satunya jalan kepada Allah Bapa.",
+    "full_verse": "Kata Yesus kepadanya: \"Akulah jalan dan kebenaran dan hidup. Tidak ada seorang pun yang datang kepada Bapa, kalau tidak melalui Aku.\"",
+    "verse_ref": "Yohanes 14:6"
+  },
+  "q_salvation_006": {
+    "question": "Isi bagian yang kosong: 'Sebab upah dosa ialah maut; tetapi karunia Allah ialah hidup yang kekal dalam Kristus Yesus, _____ kita.'",
+    "correct": "Tuhan",
+    "wrong": ["Juruselamat", "Raja", "Guru"],
+    "hint": "Gelar ini menunjukkan otoritas Yesus",
+    "explanation": "Dosa mengarah kepada maut, tetapi Allah menawarkan hidup kekal melalui Yesus.",
+    "full_verse": "Sebab upah dosa ialah maut; tetapi karunia Allah ialah hidup yang kekal dalam Kristus Yesus, Tuhan kita.",
+    "verse_ref": "Roma 6:23"
+  },
+  "q_salvation_007": {
+    "question": "Isi bagian yang kosong: 'Jawab mereka: \"Percayalah kepada Tuhan Yesus Kristus dan engkau akan selamat, engkau dan seisi _____.\"'",
+    "correct": "rumahmu",
+    "wrong": ["keluargamu", "anakmu", "umatmu"],
+    "hint": "Ini mengacu pada semua orang yang tinggal di rumahmu",
+    "explanation": "Iman kepada Yesus membawa keselamatan yang dapat berdampak pada seluruh keluarga.",
+    "full_verse": "Jawab mereka: \"Percayalah kepada Tuhan Yesus Kristus dan engkau akan selamat, engkau dan seisi rumahmu.\"",
+    "verse_ref": "Kisah Para Rasul 16:31"
+  },
+  "q_salvation_008": {
+    "question": "Isi bagian yang kosong: 'Pada waktu itu Ia menyelamatkan kita, bukan karena perbuatan baik yang telah kita lakukan, tetapi karena rahmat-Nya oleh permandian kelahiran kembali dan oleh pembaharuan yang dikerjakan oleh _____ Kudus.'",
+    "correct": "Roh",
+    "wrong": ["Allah", "Tuhan", "Yesus"],
+    "hint": "Pribadi ketiga dalam Tritunggal",
+    "explanation": "Keselamatan kita didasarkan pada rahmat Allah, bukan kebenaran kita sendiri.",
+    "full_verse": "Pada waktu itu Ia menyelamatkan kita, bukan karena perbuatan baik yang telah kita lakukan, tetapi karena rahmat-Nya oleh permandian kelahiran kembali dan oleh pembaharuan yang dikerjakan oleh Roh Kudus.",
+    "verse_ref": "Titus 3:5"
+  },
+  "q_salvation_009": {
+    "question": "Isi bagian yang kosong: 'Tetapi semua orang yang menerima-Nya diberi-Nya kuasa supaya menjadi anak-anak Allah, yaitu mereka yang percaya dalam _____.'",
+    "correct": "nama-Nya",
+    "wrong": ["kuasa-Nya", "kasih-Nya", "firman-Nya"],
+    "hint": "Ini mewakili identitas dan otoritas-Nya",
+    "explanation": "Percaya kepada Yesus memberi kita hak untuk menjadi bagian dari keluarga Allah.",
+    "full_verse": "Tetapi semua orang yang menerima-Nya diberi-Nya kuasa supaya menjadi anak-anak Allah, yaitu mereka yang percaya dalam nama-Nya.",
+    "verse_ref": "Yohanes 1:12"
+  },
+  "q_salvation_010": {
+    "question": "Isi bagian yang kosong: 'Akan tetapi Allah menunjukkan kasih-Nya kepada kita, oleh karena Kristus telah mati untuk kita, ketika kita masih berdosa.'",
+    "correct": "berdosa",
+    "wrong": ["tersesat", "musuh", "lemah"],
+    "hint": "Ini menggambarkan orang yang telah melakukan kesalahan",
+    "explanation": "Kasih Allah ditunjukkan dalam kematian Kristus untuk kita meskipun kita berdosa.",
+    "full_verse": "Akan tetapi Allah menunjukkan kasih-Nya kepada kita, oleh karena Kristus telah mati untuk kita, ketika kita masih berdosa.",
+    "verse_ref": "Roma 5:8"
+  },
+  "q_salvation_011": {
+    "question": "Isi bagian yang kosong: 'Sebab Allah mengutus Anak-Nya ke dalam dunia bukan untuk menghakimi dunia, melainkan untuk _____ dunia oleh Dia.'",
+    "correct": "menyelamatkan",
+    "wrong": ["menghukum", "menebus", "menyembuhkan"],
+    "hint": "Ini adalah tujuan kedatangan Yesus",
+    "explanation": "Yesus datang bukan untuk menghukum tetapi untuk menyelamatkan dunia.",
+    "full_verse": "Sebab Allah mengutus Anak-Nya ke dalam dunia bukan untuk menghakimi dunia, melainkan untuk menyelamatkan dunia oleh Dia.",
+    "verse_ref": "Yohanes 3:17"
+  },
+  "q_salvation_012": {
+    "question": "Isi bagian yang kosong: 'Aku berkata kepadamu: Sesungguhnya barangsiapa mendengar perkataan-Ku dan percaya kepada Dia yang mengutus Aku, ia mempunyai hidup yang kekal dan tidak turut dihukum, sebab ia sudah pindah dari dalam maut ke dalam _____.'",
+    "correct": "hidup",
+    "wrong": ["kemuliaan", "damai", "kebebasan"],
+    "hint": "Ini adalah kebalikan dari maut",
+    "explanation": "Percaya kepada Yesus berarti berpindah dari kematian rohani ke hidup kekal.",
+    "full_verse": "Aku berkata kepadamu: Sesungguhnya barangsiapa mendengar perkataan-Ku dan percaya kepada Dia yang mengutus Aku, ia mempunyai hidup yang kekal dan tidak turut dihukum, sebab ia sudah pindah dari dalam maut ke dalam hidup.",
+    "verse_ref": "Yohanes 5:24"
+  },
+  "q_salvation_013": {
+    "question": "Isi bagian yang kosong: 'Aku berkata kepadamu: Sesungguhnya barangsiapa _____ mempunyai hidup yang kekal.'",
+    "correct": "percaya",
+    "wrong": ["taat", "mengikut", "berdoa"],
+    "hint": "Ini berarti memiliki iman",
+    "explanation": "Hidup kekal datang melalui percaya kepada Yesus.",
+    "full_verse": "Aku berkata kepadamu: Sesungguhnya barangsiapa percaya, ia mempunyai hidup yang kekal.",
+    "verse_ref": "Yohanes 6:47"
+  },
+  "q_salvation_014": {
+    "question": "Isi bagian yang kosong: 'Akulah pintu; barangsiapa masuk melalui Aku, ia akan selamat dan ia akan masuk dan keluar dan menemukan _____.'",
+    "correct": "padang rumput",
+    "wrong": ["istirahat", "damai", "hidup"],
+    "hint": "Ini adalah tempat domba merumput",
+    "explanation": "Yesus adalah pintu masuk ke keselamatan dan makanan rohani.",
+    "full_verse": "Akulah pintu; barangsiapa masuk melalui Aku, ia akan selamat dan ia akan masuk dan keluar dan menemukan padang rumput.",
+    "verse_ref": "Yohanes 10:9"
+  },
+  "q_salvation_015": {
+    "question": "Isi bagian yang kosong: 'Dan Aku memberikan hidup yang kekal kepada mereka dan mereka pasti tidak akan _____ sampai selama-lamanya dan seorang pun tidak akan merebut mereka dari tangan-Ku.'",
+    "correct": "binasa",
+    "wrong": ["mati", "jatuh", "gagal"],
+    "hint": "Ini berarti dihancurkan",
+    "explanation": "Yesus menjamin keamanan kekal bagi para pengikut-Nya.",
+    "full_verse": "Dan Aku memberikan hidup yang kekal kepada mereka dan mereka pasti tidak akan binasa sampai selama-lamanya dan seorang pun tidak akan merebut mereka dari tangan-Ku.",
+    "verse_ref": "Yohanes 10:28"
+  },
+  "q_salvation_016": {
+    "question": "Isi bagian yang kosong: 'Dan barangsiapa yang berseru kepada nama Tuhan akan _____.'",
+    "correct": "diselamatkan",
+    "wrong": ["diberkati", "didengar", "diampuni"],
+    "hint": "Ini berarti dibebaskan dari dosa",
+    "explanation": "Keselamatan tersedia bagi semua yang berseru kepada Tuhan.",
+    "full_verse": "Dan barangsiapa yang berseru kepada nama Tuhan akan diselamatkan.",
+    "verse_ref": "Kisah Para Rasul 2:21"
+  },
+  "q_salvation_017": {
+    "question": "Isi bagian yang kosong: 'Sebab aku tidak malu akan Injil Kristus: Injil adalah kekuatan Allah yang menyelamatkan setiap orang yang _____: pertama-tama orang Yahudi, tetapi juga orang Yunani.'",
+    "correct": "percaya",
+    "wrong": ["taat", "bertobat", "mengikut"],
+    "hint": "Ini berarti memiliki iman",
+    "explanation": "Injil adalah pesan kuasa Allah tentang keselamatan melalui iman.",
+    "full_verse": "Sebab aku tidak malu akan Injil Kristus: Injil adalah kekuatan Allah yang menyelamatkan setiap orang yang percaya: pertama-tama orang Yahudi, tetapi juga orang Yunani.",
+    "verse_ref": "Roma 1:16"
+  },
+  "q_salvation_018": {
+    "question": "Isi bagian yang kosong: 'Karena semua orang telah berbuat dosa dan telah kehilangan kemuliaan Allah, dan oleh kasih karunia telah dibenarkan dengan cuma-cuma karena _____ yang telah terjadi dalam Kristus Yesus.'",
+    "correct": "penebusan",
+    "wrong": ["pengampunan", "kasih", "kuasa"],
+    "hint": "Ini adalah pembebasan dengan membayar harga",
+    "explanation": "Setiap orang telah berdosa, tetapi pembenaran diberikan dengan cuma-cuma melalui kasih karunia Allah.",
+    "full_verse": "Karena semua orang telah berbuat dosa dan telah kehilangan kemuliaan Allah, dan oleh kasih karunia telah dibenarkan dengan cuma-cuma karena penebusan yang telah terjadi dalam Kristus Yesus.",
+    "verse_ref": "Roma 3:23-24"
+  },
+  "q_salvation_019": {
+    "question": "Isi bagian yang kosong: 'Lebih-lebih, karena kita sekarang telah dibenarkan oleh darah-Nya, kita pasti akan diselamatkan dari _____ Allah.'",
+    "correct": "murka",
+    "wrong": ["penghakiman", "kemarahan", "hukuman"],
+    "hint": "Ini adalah kemarahan Allah yang benar terhadap dosa",
+    "explanation": "Darah Kristus menyelamatkan kita dari murka yang layak kita terima.",
+    "full_verse": "Lebih-lebih, karena kita sekarang telah dibenarkan oleh darah-Nya, kita pasti akan diselamatkan dari murka Allah.",
+    "verse_ref": "Roma 5:9"
+  },
+  "q_salvation_020": {
+    "question": "Isi bagian yang kosong: 'Demikianlah sekarang tidak ada _____ bagi mereka yang ada di dalam Kristus Yesus.'",
+    "correct": "penghukuman",
+    "wrong": ["penghakiman", "hukuman", "kesalahan"],
+    "hint": "Ini berarti pernyataan bersalah",
+    "explanation": "Mereka yang ada di dalam Kristus bebas dari hukuman dosa.",
+    "full_verse": "Demikianlah sekarang tidak ada penghukuman bagi mereka yang ada di dalam Kristus Yesus.",
+    "verse_ref": "Roma 8:1"
+  },
+  "q_salvation_021": {
+    "question": "Isi bagian yang kosong: 'Sebab, \"Barangsiapa yang berseru kepada _____ Tuhan, akan diselamatkan.\"'",
+    "correct": "nama",
+    "wrong": ["kuasa", "kasih karunia", "kemurahan"],
+    "hint": "Ini mewakili identitas Allah",
+    "explanation": "Berseru kepada nama Tuhan membawa keselamatan.",
+    "full_verse": "Sebab, \"Barangsiapa yang berseru kepada nama Tuhan, akan diselamatkan.\"",
+    "verse_ref": "Roma 10:13"
+  },
+  "q_salvation_022": {
+    "question": "Isi bagian yang kosong: 'Jadi siapa yang ada di dalam Kristus, ia adalah ciptaan baru: yang lama sudah berlalu, sesungguhnya yang _____ sudah datang.'",
+    "correct": "baru",
+    "wrong": ["hidup", "harapan", "perubahan"],
+    "hint": "Ini adalah kebalikan dari lama",
+    "explanation": "Di dalam Kristus, kita menjadi ciptaan yang sepenuhnya baru.",
+    "full_verse": "Jadi siapa yang ada di dalam Kristus, ia adalah ciptaan baru: yang lama sudah berlalu, sesungguhnya yang baru sudah datang.",
+    "verse_ref": "2 Korintus 5:17"
+  },
+  "q_salvation_023": {
+    "question": "Isi bagian yang kosong: 'Kamu tahu, bahwa tidak seorang pun dibenarkan oleh karena melakukan hukum Taurat, tetapi hanya oleh karena _____ dalam Kristus Yesus.'",
+    "correct": "iman",
+    "wrong": ["percaya", "harapan", "keyakinan"],
+    "hint": "Ini adalah kepercayaan yang yakin",
+    "explanation": "Pembenaran datang melalui iman dalam Kristus, bukan dengan mengikuti hukum.",
+    "full_verse": "Kamu tahu, bahwa tidak seorang pun dibenarkan oleh karena melakukan hukum Taurat, tetapi hanya oleh karena iman dalam Kristus Yesus.",
+    "verse_ref": "Galatia 2:16"
+  },
+  "q_salvation_024": {
+    "question": "Isi bagian yang kosong: 'Sebab di dalam Dialah kita memiliki penebusan, yaitu pengampunan dosa, oleh darah-Nya, menurut kekayaan kasih karunia-Nya.'",
+    "correct": "kasih karunia-Nya",
+    "wrong": ["kemurahan-Nya", "kasih-Nya", "kemuliaan-Nya"],
+    "hint": "Ini adalah anugerah yang tidak layak dari Allah",
+    "explanation": "Penebusan dan pengampunan datang melalui darah Kristus dan kasih karunia Allah yang berlimpah.",
+    "full_verse": "Sebab di dalam Dialah kita memiliki penebusan, yaitu pengampunan dosa, menurut kekayaan kasih karunia-Nya.",
+    "verse_ref": "Efesus 1:7"
+  },
+  "q_salvation_025": {
+    "question": "Isi bagian yang kosong: 'Ia telah melepaskan kita dari kuasa _____ dan memindahkan kita ke dalam Kerajaan Anak-Nya yang kekasih.'",
+    "correct": "kegelapan",
+    "wrong": ["dosa", "kejahatan", "maut"],
+    "hint": "Ini adalah kebalikan dari terang",
+    "explanation": "Allah menyelamatkan kita dari kuasa kegelapan dan membawa kita ke dalam Kerajaan Kristus.",
+    "full_verse": "Ia telah melepaskan kita dari kuasa kegelapan dan memindahkan kita ke dalam Kerajaan Anak-Nya yang kekasih.",
+    "verse_ref": "Kolose 1:13"
+  },
+  "q_salvation_026": {
+    "question": "Isi bagian yang kosong: 'Perkataan ini benar dan patut diterima sepenuhnya: \"Kristus Yesus datang ke dunia untuk menyelamatkan orang _____,\" dan di antara mereka akulah yang paling berdosa.'",
+    "correct": "berdosa",
+    "wrong": ["tersesat", "manusia", "lemah"],
+    "hint": "Ini adalah orang yang telah melakukan kesalahan",
+    "explanation": "Yesus datang khusus untuk menyelamatkan mereka yang telah berdosa.",
+    "full_verse": "Perkataan ini benar dan patut diterima sepenuhnya: \"Kristus Yesus datang ke dunia untuk menyelamatkan orang berdosa,\" dan di antara mereka akulah yang paling berdosa.",
+    "verse_ref": "1 Timotius 1:15"
+  },
+  "q_salvation_027": {
+    "question": "Isi bagian yang kosong: 'Yang menghendaki supaya semua orang diselamatkan dan memperoleh pengetahuan akan _____.'",
+    "correct": "kebenaran",
+    "wrong": ["Injil", "Tuhan", "keselamatan"],
+    "hint": "Ini adalah apa yang nyata dan benar",
+    "explanation": "Allah menginginkan setiap orang diselamatkan dan mengetahui kebenaran.",
+    "full_verse": "Yang menghendaki supaya semua orang diselamatkan dan memperoleh pengetahuan akan kebenaran.",
+    "verse_ref": "1 Timotius 2:4"
+  },
+  "q_salvation_028": {
+    "question": "Isi bagian yang kosong: 'Dialah yang telah menyelamatkan kita dan memanggil kita dengan panggilan kudus, bukan berdasarkan perbuatan kita, melainkan berdasarkan maksud dan _____ yang telah dikaruniakan-Nya kepada kita.'",
+    "correct": "kasih karunia-Nya",
+    "wrong": ["kehendak-Nya", "kasih-Nya", "kemurahan-Nya"],
+    "hint": "Ini adalah anugerah yang tidak layak",
+    "explanation": "Keselamatan didasarkan pada kasih karunia dan maksud Allah, bukan perbuatan kita.",
+    "full_verse": "Dialah yang telah menyelamatkan kita dan memanggil kita dengan panggilan kudus, bukan berdasarkan perbuatan kita, melainkan berdasarkan maksud dan kasih karunia-Nya.",
+    "verse_ref": "2 Timotius 1:9"
+  },
+  "q_salvation_029": {
+    "question": "Isi bagian yang kosong: 'Dan sesudah Ia mencapai kesempurnaan-Nya, Ia menjadi pokok keselamatan yang abadi bagi semua orang yang _____ kepada-Nya.'",
+    "correct": "taat",
+    "wrong": ["mengikut", "percaya", "beriman"],
+    "hint": "Ini berarti mengikuti perintah",
+    "explanation": "Yesus adalah sumber keselamatan bagi mereka yang taat kepada-Nya.",
+    "full_verse": "Dan sesudah Ia mencapai kesempurnaan-Nya, Ia menjadi pokok keselamatan yang abadi bagi semua orang yang taat kepada-Nya.",
+    "verse_ref": "Ibrani 5:9"
+  },
+  "q_salvation_030": {
+    "question": "Isi bagian yang kosong: 'Karena itu Ia sanggup juga menyelamatkan dengan sempurna semua orang yang oleh Dia datang kepada Allah. Sebab Ia hidup senantiasa untuk menjadi _____ bagi mereka.'",
+    "correct": "Pengantara",
+    "wrong": ["Pembela", "Penolong", "Pelindung"],
+    "hint": "Ini berarti berdoa untuk kepentingan orang lain",
+    "explanation": "Yesus terus menerus menjadi pengantara bagi orang percaya di hadapan Allah.",
+    "full_verse": "Karena itu Ia sanggup juga menyelamatkan dengan sempurna semua orang yang oleh Dia datang kepada Allah. Sebab Ia hidup senantiasa untuk menjadi Pengantara bagi mereka.",
+    "verse_ref": "Ibrani 7:25"
+  },
+  "q_salvation_031": {
+    "question": "Isi bagian yang kosong: 'Demikian pula Kristus hanya satu kali saja mengorbankan diri-Nya untuk menanggung dosa banyak orang. Sesudah itu Ia akan menyatakan diri-Nya sekali lagi tanpa menanggung dosa untuk menganugerahkan _____ kepada mereka yang menantikan Dia.'",
+    "correct": "keselamatan",
+    "wrong": ["damai", "kemuliaan", "hidup"],
+    "hint": "Ini adalah pembebasan dari dosa",
+    "explanation": "Kedatangan Kristus yang kedua akan membawa keselamatan final bagi umat-Nya.",
+    "full_verse": "Demikian pula Kristus hanya satu kali saja mengorbankan diri-Nya untuk menanggung dosa banyak orang. Sesudah itu Ia akan menyatakan diri-Nya sekali lagi tanpa menanggung dosa untuk menganugerahkan keselamatan kepada mereka yang menantikan Dia.",
+    "verse_ref": "Ibrani 9:28"
+  },
+  "q_salvation_032": {
+    "question": "Isi bagian yang kosong: 'Terpujilah Allah dan Bapa Tuhan kita Yesus Kristus, yang karena rahmat-Nya yang besar telah melahirkan kita kembali oleh kebangkitan Yesus Kristus dari antara orang mati, kepada suatu hidup yang penuh pengharapan, untuk menerima suatu bagian yang tidak dapat binasa, yang tidak dapat cemar dan yang tidak dapat _____.'",
+    "correct": "layu",
+    "wrong": ["habis", "rusak", "berkurang"],
+    "hint": "Ini berarti kehilangan warna atau menghilang",
+    "explanation": "Warisan surgawi kita adalah kekal dan tidak berubah.",
+    "full_verse": "Terpujilah Allah dan Bapa Tuhan kita Yesus Kristus, yang karena rahmat-Nya yang besar telah melahirkan kita kembali oleh kebangkitan Yesus Kristus dari antara orang mati, kepada suatu hidup yang penuh pengharapan, untuk menerima suatu bagian yang tidak dapat binasa, yang tidak dapat cemar dan yang tidak dapat layu.",
+    "verse_ref": "1 Petrus 1:3-4"
+  },
+  "q_salvation_033": {
+    "question": "Isi bagian yang kosong: 'Karena kamu telah mencapai tujuan imanmu, yaitu keselamatan _____.'",
+    "correct": "jiwamu",
+    "wrong": ["hidupmu", "hatimu", "rohmu"],
+    "hint": "Ini adalah bagian rohani seseorang",
+    "explanation": "Tujuan akhir iman adalah keselamatan jiwa kita.",
+    "full_verse": "Karena kamu telah mencapai tujuan imanmu, yaitu keselamatan jiwamu.",
+    "verse_ref": "1 Petrus 1:9"
+  },
+  "q_salvation_034": {
+    "question": "Isi bagian yang kosong: 'Ia sendiri telah memikul dosa kita di dalam tubuh-Nya di kayu salib, supaya kita, yang telah mati terhadap dosa, hidup untuk kebenaran. Oleh bilur-bilur-Nya kamu telah _____.'",
+    "correct": "sembuh",
+    "wrong": ["diampuni", "diselamatkan", "dibebaskan"],
+    "hint": "Ini berarti dipulihkan dari penyakit",
+    "explanation": "Penderitaan Kristus di kayu salib membawa kesembuhan rohani kita.",
+    "full_verse": "Ia sendiri telah memikul dosa kita di dalam tubuh-Nya di kayu salib, supaya kita, yang telah mati terhadap dosa, hidup untuk kebenaran. Oleh bilur-bilur-Nya kamu telah sembuh.",
+    "verse_ref": "1 Petrus 2:24"
+  },
+  "q_salvation_035": {
+    "question": "Isi bagian yang kosong: 'Sebab juga Kristus telah mati sekali untuk segala dosa kita, Ia yang benar untuk orang-orang yang tidak benar, supaya Ia membawa kita kepada _____.'",
+    "correct": "Allah",
+    "wrong": ["surga", "keselamatan", "hidup"],
+    "hint": "Ini adalah kepada siapa Kristus membawa kita",
+    "explanation": "Penderitaan Kristus adalah untuk mendamaikan kita dengan Allah.",
+    "full_verse": "Sebab juga Kristus telah mati sekali untuk segala dosa kita, Ia yang benar untuk orang-orang yang tidak benar, supaya Ia membawa kita kepada Allah.",
+    "verse_ref": "1 Petrus 3:18"
+  },
+  "q_salvation_036": {
+    "question": "Isi bagian yang kosong: 'Tuhan tidak lalai menepati janji-Nya, sekalipun ada orang yang menganggap-Nya lalai, tetapi Ia sabar terhadap kamu, karena Ia menghendaki supaya jangan ada yang binasa, melainkan supaya semua orang berbalik dan _____.'",
+    "correct": "bertobat",
+    "wrong": ["beriman", "percaya", "diselamatkan"],
+    "hint": "Ini berarti berpaling dari dosa",
+    "explanation": "Allah dengan sabar menunggu semua orang untuk bertobat dan diselamatkan.",
+    "full_verse": "Tuhan tidak lalai menepati janji-Nya, sekalipun ada orang yang menganggap-Nya lalai, tetapi Ia sabar terhadap kamu, karena Ia menghendaki supaya jangan ada yang binasa, melainkan supaya semua orang berbalik dan bertobat.",
+    "verse_ref": "2 Petrus 3:9"
+  },
+  "q_salvation_037": {
+    "question": "Isi bagian yang kosong: 'Tetapi jika kita hidup di dalam terang sama seperti Dia ada di dalam terang, maka kita beroleh persekutuan seorang dengan yang lain, dan darah Yesus, Anak-Nya itu, menyucikan kita dari segala _____.'",
+    "correct": "dosa",
+    "wrong": ["kesalahan", "malu", "kejahatan"],
+    "hint": "Ini adalah pelanggaran terhadap Allah",
+    "explanation": "Darah Yesus membersihkan orang percaya dari segala dosa.",
+    "full_verse": "Tetapi jika kita hidup di dalam terang sama seperti Dia ada di dalam terang, maka kita beroleh persekutuan seorang dengan yang lain, dan darah Yesus, Anak-Nya itu, menyucikan kita dari segala dosa.",
+    "verse_ref": "1 Yohanes 1:7"
+  },
+  "q_salvation_038": {
+    "question": "Isi bagian yang kosong: 'Dan kami telah melihat dan bersaksi, bahwa Bapa telah mengutus Anak-Nya menjadi Juruselamat _____.'",
+    "correct": "dunia",
+    "wrong": ["jemaat", "manusia", "bangsa-bangsa"],
+    "hint": "Ini mencakup seluruh umat manusia",
+    "explanation": "Yesus diutus untuk menyelamatkan seluruh dunia.",
+    "full_verse": "Dan kami telah melihat dan bersaksi, bahwa Bapa telah mengutus Anak-Nya menjadi Juruselamat dunia.",
+    "verse_ref": "1 Yohanes 4:14"
+  },
+  "q_salvation_039": {
+    "question": "Isi bagian yang kosong: 'Dan inilah kesaksian itu: Allah telah mengaruniakan hidup yang kekal kepada kita dan hidup itu ada di dalam _____. Barangsiapa memiliki Anak, ia memiliki hidup; barangsiapa tidak memiliki Anak, ia tidak memiliki hidup.'",
+    "correct": "Anak-Nya",
+    "wrong": ["firman-Nya", "kasih karunia-Nya", "Roh-Nya"],
+    "hint": "Ini mengacu kepada Yesus",
+    "explanation": "Hidup kekal hanya ditemukan di dalam Yesus Kristus.",
+    "full_verse": "Dan inilah kesaksian itu: Allah telah mengaruniakan hidup yang kekal kepada kita dan hidup itu ada di dalam Anak-Nya. Barangsiapa memiliki Anak, ia memiliki hidup; barangsiapa tidak memiliki Anak, ia tidak memiliki hidup.",
+    "verse_ref": "1 Yohanes 5:11-12"
+  },
+  "q_salvation_040": {
+    "question": "Isi bagian yang kosong: 'Lihat, Aku berdiri di muka pintu dan mengetok; jikalau ada orang yang mendengar suara-Ku dan membukakan pintu, Aku akan masuk mendapatkannya dan Aku makan bersama-sama dengan dia, dan ia bersama-sama dengan _____.'",
+    "correct": "Aku",
+    "wrong": ["Allah", "Dia", "mereka"],
+    "hint": "Yesus mengacu kepada diri-Nya sendiri",
+    "explanation": "Yesus mengundang kita untuk membuka hati kita dan bersekutu dengan-Nya.",
+    "full_verse": "Lihat, Aku berdiri di muka pintu dan mengetok; jikalau ada orang yang mendengar suara-Ku dan membukakan pintu, Aku akan masuk mendapatkannya dan Aku makan bersama-sama dengan dia, dan ia bersama-sama dengan Aku.",
+    "verse_ref": "Wahyu 3:20"
+  },
+  "q_salvation_041": {
+    "question": "Isi bagian yang kosong: 'Tetapi dia tertikam oleh karena pemberontakan kita, dia diremukkan oleh karena kejahatan kita; ganjaran yang mendatangkan keselamatan bagi kita ditimpakan kepadanya, dan oleh bilur-bilurnya kita menjadi _____.'",
+    "correct": "sembuh",
+    "wrong": ["selamat", "bebas", "diampuni"],
+    "hint": "Ini berarti dipulihkan dari penyakit",
+    "explanation": "Penderitaan dan luka Kristus membawa kita kesembuhan dan damai dengan Allah.",
+    "full_verse": "Tetapi dia tertikam oleh karena pemberontakan kita, dia diremukkan oleh karena kejahatan kita; ganjaran yang mendatangkan keselamatan bagi kita ditimpakan kepadanya, dan oleh bilur-bilurnya kita menjadi sembuh.",
+    "verse_ref": "Yesaya 53:5"
+  },
+  "q_salvation_042": {
+    "question": "Isi bagian yang kosong: 'Kita sekalian sesat seperti domba, masing-masing kita mengambil jalannya sendiri, tetapi TUHAN telah menimpakan kepadanya _____ kita sekalian.'",
+    "correct": "kejahatan",
+    "wrong": ["dosa", "kesalahan", "beban"],
+    "hint": "Ini adalah kata lain untuk dosa atau kefasikan",
+    "explanation": "Kristus menanggung dosa seluruh umat manusia atas diri-Nya sendiri.",
+    "full_verse": "Kita sekalian sesat seperti domba, masing-masing kita mengambil jalannya sendiri, tetapi TUHAN telah menimpakan kepadanya kejahatan kita sekalian.",
+    "verse_ref": "Yesaya 53:6"
+  },
+  "q_salvation_043": {
+    "question": "Isi bagian yang kosong: 'Sesungguhnya, tangan TUHAN tidak kurang panjang untuk menyelamatkan, dan pendengaran-Nya tidak kurang tajam untuk _____.'",
+    "correct": "mendengar",
+    "wrong": ["melihat", "merasakan", "mengetahui"],
+    "hint": "Bagian tubuh ini digunakan untuk mendengarkan",
+    "explanation": "Allah sepenuhnya mampu menyelamatkan dan mendengar doa-doa kita.",
+    "full_verse": "Sesungguhnya, tangan TUHAN tidak kurang panjang untuk menyelamatkan, dan pendengaran-Nya tidak kurang tajam untuk mendengar.",
+    "verse_ref": "Yesaya 59:1"
+  },
+  "q_salvation_044": {
+    "question": "Isi bagian yang kosong: 'TUHAN adalah terangku dan keselamatanku, kepada siapakah aku harus takut? TUHAN adalah _____ hidupku, terhadap siapakah aku harus gemetar?'",
+    "correct": "benteng",
+    "wrong": ["kekuatan", "perlindungan", "perisai"],
+    "hint": "Ini adalah tempat yang diperkuat untuk perlindungan",
+    "explanation": "Allah adalah terang, keselamatan, dan benteng yang kokoh bagi kita.",
+    "full_verse": "TUHAN adalah terangku dan keselamatanku, kepada siapakah aku harus takut? TUHAN adalah benteng hidupku, terhadap siapakah aku harus gemetar?",
+    "verse_ref": "Mazmur 27:1"
+  },
+  "q_salvation_045": {
+    "question": "Isi bagian yang kosong: 'Hanya pada Allah saja aku _____, dari pada-Nyalah keselamatanku.'",
+    "correct": "tenang",
+    "wrong": ["damai", "berharap", "bersukacita"],
+    "hint": "Ini adalah keadaan istirahat atau ketenangan",
+    "explanation": "Jiwa kita menemukan ketenangan sejati hanya di dalam Allah, sumber keselamatan kita.",
+    "full_verse": "Hanya pada Allah saja aku tenang, dari pada-Nyalah keselamatanku.",
+    "verse_ref": "Mazmur 62:2"
+  },
+  "q_salvation_046": {
+    "question": "Isi bagian yang kosong: 'Allah yang menyelamatkan kita adalah Allah kita; TUHAN adalah Tuhan yang meluputkan dari _____.'",
+    "correct": "maut",
+    "wrong": ["dosa", "penghakiman", "kebinasaan"],
+    "hint": "Ini adalah akhir dari kehidupan",
+    "explanation": "Allah memiliki kuasa atas maut dan menyediakan pembebasan darinya.",
+    "full_verse": "Allah yang menyelamatkan kita adalah Allah kita; TUHAN adalah Tuhan yang meluputkan dari maut.",
+    "verse_ref": "Mazmur 68:21"
+  },
+  "q_salvation_047": {
+    "question": "Isi bagian yang kosong: 'TUHAN itu kekuatanku dan mazmurku; Ia telah menjadi _____.'",
+    "correct": "keselamatanku",
+    "wrong": ["perisaiku", "perlindunganku", "harapanku"],
+    "hint": "Ini adalah pembebasan dari bahaya atau dosa",
+    "explanation": "Allah sendiri adalah keselamatan dan pertahanan kita.",
+    "full_verse": "TUHAN itu kekuatanku dan mazmurku; Ia telah menjadi keselamatanku.",
+    "verse_ref": "Mazmur 118:14"
+  },
+  "q_salvation_048": {
+    "question": "Isi bagian yang kosong: 'Sebab Anak Manusia datang untuk mencari dan menyelamatkan yang _____.'",
+    "correct": "hilang",
+    "wrong": ["dunia", "berdosa", "lemah"],
+    "hint": "Ini menggambarkan orang yang tersesat secara rohani",
+    "explanation": "Misi Yesus adalah menemukan dan menyelamatkan mereka yang tersesat secara rohani.",
+    "full_verse": "Sebab Anak Manusia datang untuk mencari dan menyelamatkan yang hilang.",
+    "verse_ref": "Lukas 19:10"
+  },
+  "q_salvation_049": {
+    "question": "Isi bagian yang kosong: 'Ia akan melahirkan anak laki-laki dan engkau akan menamakan Dia Yesus, karena Dialah yang akan menyelamatkan umat-Nya dari _____.'",
+    "correct": "dosa mereka",
+    "wrong": ["musuh mereka", "penderitaan", "hukuman"],
+    "hint": "Ini mengacu pada apa yang Yesus selamatkan kita darinya",
+    "explanation": "Nama Yesus berarti 'Tuhan menyelamatkan' karena Dia menyelamatkan umat-Nya dari dosa.",
+    "full_verse": "Ia akan melahirkan anak laki-laki dan engkau akan menamakan Dia Yesus, karena Dialah yang akan menyelamatkan umat-Nya dari dosa mereka.",
+    "verse_ref": "Matius 1:21"
+  },
+  "q_salvation_050": {
+    "question": "Isi bagian yang kosong: 'Siapa yang percaya dan dibaptis akan diselamatkan, tetapi siapa yang tidak percaya akan _____.'",
+    "correct": "dihukum",
+    "wrong": ["tersesat", "dihakimi", "binasa"],
+    "hint": "Ini berarti dinyatakan bersalah",
+    "explanation": "Iman mengarah kepada keselamatan, sedangkan ketidakpercayaan mengarah kepada penghukuman.",
+    "full_verse": "Siapa yang percaya dan dibaptis akan diselamatkan, tetapi siapa yang tidak percaya akan dihukum.",
+    "verse_ref": "Markus 16:16"
+  }
+}

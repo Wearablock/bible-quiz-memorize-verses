@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_psalms_001",
+      "question": "Completa el espacio en blanco: 'Jehová es mi _____; nada me faltará.'",
+      "correct": "pastor",
+      "wrong": ["guía", "padre", "protector"],
+      "hint": "Esta persona cuida ovejas",
+      "explanation": "Dios es representado como un pastor amoroso que provee para todas nuestras necesidades.",
+      "full_verse": "Jehová es mi pastor; nada me faltará.",
+      "verse_ref": "Salmos 23:1"
+    },
+    {
+      "id": "q_psalms_002",
+      "question": "Completa el espacio en blanco: 'Aunque ande en valle de sombra de muerte, no temeré _____ alguno, porque tú estarás conmigo; tu vara y tu cayado me infundirán aliento.'",
+      "correct": "mal",
+      "wrong": ["daño", "peligro", "muerte"],
+      "hint": "Esto es lo opuesto al bien",
+      "explanation": "La presencia de Dios nos da valor incluso en las circunstancias más difíciles.",
+      "full_verse": "Aunque ande en valle de sombra de muerte, no temeré mal alguno, porque tú estarás conmigo; tu vara y tu cayado me infundirán aliento.",
+      "verse_ref": "Salmos 23:4"
+    },
+    {
+      "id": "q_psalms_003",
+      "question": "Completa el espacio en blanco: 'Dios es nuestro amparo y fortaleza, nuestro pronto auxilio en las _____.'",
+      "correct": "tribulaciones",
+      "wrong": ["dificultades", "necesidades", "angustias"],
+      "hint": "Esta palabra significa dificultad o adversidad",
+      "explanation": "Dios siempre está disponible para ayudarnos en tiempos de dificultad.",
+      "full_verse": "Dios es nuestro amparo y fortaleza, nuestro pronto auxilio en las tribulaciones.",
+      "verse_ref": "Salmos 46:1"
+    },
+    {
+      "id": "q_psalms_004",
+      "question": "Completa el espacio en blanco: 'Jehová es mi luz y mi salvación; ¿de quién _____? Jehová es la fortaleza de mi vida; ¿de quién he de atemorizarme?'",
+      "correct": "temeré",
+      "wrong": ["confiaré", "seguiré", "adoraré"],
+      "hint": "Esto es lo que no necesitamos sentir cuando Dios está con nosotros",
+      "explanation": "Con Dios como nuestra luz y salvación, no tenemos razón para temer a nadie.",
+      "full_verse": "Jehová es mi luz y mi salvación; ¿de quién temeré? Jehová es la fortaleza de mi vida; ¿de quién he de atemorizarme?",
+      "verse_ref": "Salmos 27:1"
+    },
+    {
+      "id": "q_psalms_005",
+      "question": "Completa el espacio en blanco: 'Lámpara es a mis pies tu palabra, y _____ a mi camino.'",
+      "correct": "lumbrera",
+      "wrong": ["guía", "faro", "antorcha"],
+      "hint": "Esto ilumina el camino adelante",
+      "explanation": "La Palabra de Dios proporciona guía y dirección para nuestras vidas.",
+      "full_verse": "Lámpara es a mis pies tu palabra, y lumbrera a mi camino.",
+      "verse_ref": "Salmos 119:105"
+    },
+    {
+      "id": "q_psalms_006",
+      "question": "Completa el espacio en blanco: 'Bienaventurado el varón que no anduvo en consejo de malos, ni estuvo en camino de pecadores, ni en silla de _____ se ha sentado.'",
+      "correct": "escarnecedores",
+      "wrong": ["pecadores", "necios", "burladores"],
+      "hint": "Estas personas ridiculizan a otros",
+      "explanation": "La verdadera bendición viene de evitar la influencia de aquellos que se burlan de los caminos de Dios.",
+      "full_verse": "Bienaventurado el varón que no anduvo en consejo de malos, ni estuvo en camino de pecadores, ni en silla de escarnecedores se ha sentado.",
+      "verse_ref": "Salmos 1:1"
+    },
+    {
+      "id": "q_psalms_007",
+      "question": "Completa el espacio en blanco: 'Cantad alegres a Dios, habitantes de toda la _____.'",
+      "correct": "tierra",
+      "wrong": ["nación", "mundo", "creación"],
+      "hint": "Este es el planeta donde vivimos",
+      "explanation": "Somos llamados a expresar nuestro gozo a Dios con entusiasmo.",
+      "full_verse": "Cantad alegres a Dios, habitantes de toda la tierra.",
+      "verse_ref": "Salmos 100:1"
+    },
+    {
+      "id": "q_psalms_008",
+      "question": "Completa el espacio en blanco: 'Este es el día que hizo Jehová; nos gozaremos y _____ en él.'",
+      "correct": "alegraremos",
+      "wrong": ["regocijaremos", "contentaremos", "agradeceremos"],
+      "hint": "Esto significa estar feliz",
+      "explanation": "Cada día es un regalo de Dios, digno de celebración.",
+      "full_verse": "Este es el día que hizo Jehová; nos gozaremos y alegraremos en él.",
+      "verse_ref": "Salmos 118:24"
+    },
+    {
+      "id": "q_psalms_009",
+      "question": "Completa el espacio en blanco: 'Todo lo que respira alabe a _____. Aleluya.'",
+      "correct": "JAH",
+      "wrong": ["Dios", "Jehová", "el Señor"],
+      "hint": "Esta es una forma abreviada del nombre de Dios",
+      "explanation": "Todos los seres vivos son llamados a alabar a Dios.",
+      "full_verse": "Todo lo que respira alabe a JAH. Aleluya.",
+      "verse_ref": "Salmos 150:6"
+    },
+    {
+      "id": "q_psalms_010",
+      "question": "Completa el espacio en blanco: 'Gustad, y ved que es _____ Jehová; dichoso el hombre que confía en él.'",
+      "correct": "bueno",
+      "wrong": ["grande", "fiel", "amoroso"],
+      "hint": "Esto es lo opuesto a malo",
+      "explanation": "Podemos experimentar la bondad de Dios personalmente cuando confiamos en Él.",
+      "full_verse": "Gustad, y ved que es bueno Jehová; dichoso el hombre que confía en él.",
+      "verse_ref": "Salmos 34:8"
+    },
+    {
+      "id": "q_psalms_011",
+      "question": "Completa el espacio en blanco: 'Deléitate asimismo en Jehová, y él te concederá las peticiones de tu _____.'",
+      "correct": "corazón",
+      "wrong": ["alma", "mente", "espíritu"],
+      "hint": "Este es el centro de tus emociones y deseos",
+      "explanation": "Cuando encontramos gozo en Dios, Él moldea y cumple nuestros deseos más profundos.",
+      "full_verse": "Deléitate asimismo en Jehová, y él te concederá las peticiones de tu corazón.",
+      "verse_ref": "Salmos 37:4"
+    },
+    {
+      "id": "q_psalms_012",
+      "question": "Completa el espacio en blanco: 'Crea en mí, oh Dios, un corazón limpio, y renueva un espíritu _____ dentro de mí.'",
+      "correct": "recto",
+      "wrong": ["nuevo", "santo", "firme"],
+      "hint": "Esto significa correcto o justo",
+      "explanation": "David pide a Dios una transformación interior y un compromiso renovado.",
+      "full_verse": "Crea en mí, oh Dios, un corazón limpio, y renueva un espíritu recto dentro de mí.",
+      "verse_ref": "Salmos 51:10"
+    },
+    {
+      "id": "q_psalms_013",
+      "question": "Completa el espacio en blanco: 'El que habita al abrigo del Altísimo morará bajo la _____ del Omnipotente.'",
+      "correct": "sombra",
+      "wrong": ["presencia", "brazos", "cuidado"],
+      "hint": "Esto se proyecta cuando la luz es bloqueada",
+      "explanation": "Dios proporciona protección y descanso para aquellos que moran cerca de Él.",
+      "full_verse": "El que habita al abrigo del Altísimo morará bajo la sombra del Omnipotente.",
+      "verse_ref": "Salmos 91:1"
+    },
+    {
+      "id": "q_psalms_014",
+      "question": "Completa el espacio en blanco: 'Bendice, alma mía, a Jehová, y bendiga todo mi ser su santo _____.'",
+      "correct": "nombre",
+      "wrong": ["palabra", "gloria", "majestad"],
+      "hint": "Esto representa la identidad y carácter de Dios",
+      "explanation": "Alabamos el nombre de Dios porque representa quién es Él.",
+      "full_verse": "Bendice, alma mía, a Jehová, y bendiga todo mi ser su santo nombre.",
+      "verse_ref": "Salmos 103:1"
+    },
+    {
+      "id": "q_psalms_015",
+      "question": "Completa el espacio en blanco: 'Te alabaré; porque formidables, maravillosas son tus obras; estoy _____, y mi alma lo sabe muy bien.'",
+      "correct": "maravillado",
+      "wrong": ["asombrado", "impresionado", "admirado"],
+      "hint": "Esto significa estar asombrado",
+      "explanation": "Somos creados con gran cuidado e intención por Dios.",
+      "full_verse": "Te alabaré; porque formidables, maravillosas son tus obras; estoy maravillado, y mi alma lo sabe muy bien.",
+      "verse_ref": "Salmos 139:14"
+    },
+    {
+      "id": "q_psalms_016",
+      "question": "Completa el espacio en blanco: 'Los cielos cuentan la gloria de Dios, y el firmamento anuncia la obra de sus _____.'",
+      "correct": "manos",
+      "wrong": ["poder", "creación", "majestad"],
+      "hint": "Estas son partes del cuerpo usadas para hacer cosas",
+      "explanation": "La creación misma testifica del poder creativo de Dios.",
+      "full_verse": "Los cielos cuentan la gloria de Dios, y el firmamento anuncia la obra de sus manos.",
+      "verse_ref": "Salmos 19:1"
+    },
+    {
+      "id": "q_psalms_017",
+      "question": "Completa el espacio en blanco: 'Estad quietos, y conoced que yo soy _____; seré exaltado entre las naciones; enaltecido seré en la tierra.'",
+      "correct": "Dios",
+      "wrong": ["Señor", "santo", "soberano"],
+      "hint": "Este es el ser divino",
+      "explanation": "Somos llamados a aquietarnos y reconocer la soberanía de Dios.",
+      "full_verse": "Estad quietos, y conoced que yo soy Dios; seré exaltado entre las naciones; enaltecido seré en la tierra.",
+      "verse_ref": "Salmos 46:10"
+    },
+    {
+      "id": "q_psalms_018",
+      "question": "Completa el espacio en blanco: 'Ciertamente el bien y la misericordia me seguirán todos los días de mi vida, y en la casa de Jehová moraré por largos _____.'",
+      "correct": "días",
+      "wrong": ["años", "tiempos", "eternidades"],
+      "hint": "Esto se refiere a períodos de tiempo",
+      "explanation": "La bondad de Dios nos acompaña a lo largo de la vida y hacia la eternidad.",
+      "full_verse": "Ciertamente el bien y la misericordia me seguirán todos los días de mi vida, y en la casa de Jehová moraré por largos días.",
+      "verse_ref": "Salmos 23:6"
+    },
+    {
+      "id": "q_psalms_019",
+      "question": "Completa el espacio en blanco: 'Alzaré mis ojos a los montes; ¿de dónde vendrá mi socorro? Mi socorro viene de Jehová, que hizo los cielos y la _____.'",
+      "correct": "tierra",
+      "wrong": ["mundo", "creación", "naturaleza"],
+      "hint": "Este es el suelo donde estamos parados",
+      "explanation": "Nuestra ayuda viene del Creador de todo.",
+      "full_verse": "Alzaré mis ojos a los montes; ¿de dónde vendrá mi socorro? Mi socorro viene de Jehová, que hizo los cielos y la tierra.",
+      "verse_ref": "Salmos 121:1-2"
+    },
+    {
+      "id": "q_psalms_020",
+      "question": "Completa el espacio en blanco: 'Cercano está Jehová a los quebrantados de corazón; y salva a los contritos de _____.'",
+      "correct": "espíritu",
+      "wrong": ["alma", "corazón", "mente"],
+      "hint": "Esta es la parte interior de una persona",
+      "explanation": "Dios está especialmente cerca de aquellos que experimentan dolor emocional.",
+      "full_verse": "Cercano está Jehová a los quebrantados de corazón; y salva a los contritos de espíritu.",
+      "verse_ref": "Salmos 34:18"
+    },
+    {
+      "id": "q_psalms_021",
+      "question": "Completa el espacio en blanco: 'Como el ciervo brama por las corrientes de las aguas, así clama por ti, oh Dios, el _____ mía.'",
+      "correct": "alma",
+      "wrong": ["corazón", "espíritu", "ser"],
+      "hint": "Esta es la parte espiritual de una persona",
+      "explanation": "Nuestras almas deben anhelar a Dios como un animal sediento busca agua.",
+      "full_verse": "Como el ciervo brama por las corrientes de las aguas, así clama por ti, oh Dios, el alma mía.",
+      "verse_ref": "Salmos 42:1"
+    },
+    {
+      "id": "q_psalms_022",
+      "question": "Completa el espacio en blanco: 'Echa sobre Jehová tu carga, y él te _____; no dejará para siempre caído al justo.'",
+      "correct": "sustentará",
+      "wrong": ["sostendrá", "mantendrá", "cargará"],
+      "hint": "Esto significa mantener o sostener",
+      "explanation": "Dios nos invita a darle nuestras preocupaciones y promete sustentarnos.",
+      "full_verse": "Echa sobre Jehová tu carga, y él te sustentará; no dejará para siempre caído al justo.",
+      "verse_ref": "Salmos 55:22"
+    },
+    {
+      "id": "q_psalms_023",
+      "question": "Completa el espacio en blanco: 'Porque sol y escudo es Jehová Dios; gracia y gloria dará Jehová. No quitará el bien a los que andan en _____.'",
+      "correct": "integridad",
+      "wrong": ["justicia", "fidelidad", "santidad"],
+      "hint": "Esto significa sin falta",
+      "explanation": "Dios da generosamente a aquellos que viven con integridad.",
+      "full_verse": "Porque sol y escudo es Jehová Dios; gracia y gloria dará Jehová. No quitará el bien a los que andan en integridad.",
+      "verse_ref": "Salmos 84:11"
+    },
+    {
+      "id": "q_psalms_024",
+      "question": "Completa el espacio en blanco: 'Pues a sus ángeles mandará acerca de ti, que te guarden en todos tus _____.'",
+      "correct": "caminos",
+      "wrong": ["sendas", "pasos", "días"],
+      "hint": "Esto se refiere a tus direcciones o actividades",
+      "explanation": "Dios envía ángeles para proteger a Su pueblo.",
+      "full_verse": "Pues a sus ángeles mandará acerca de ti, que te guarden en todos tus caminos.",
+      "verse_ref": "Salmos 91:11"
+    },
+    {
+      "id": "q_psalms_025",
+      "question": "Completa el espacio en blanco: 'Cercano está Jehová a todos los que le invocan, a todos los que le invocan de _____.'",
+      "correct": "veras",
+      "wrong": ["fe", "espíritu", "sinceridad"],
+      "hint": "Esto significa genuinidad u honestidad",
+      "explanation": "Dios se acerca a aquellos que sinceramente lo buscan.",
+      "full_verse": "Cercano está Jehová a todos los que le invocan, a todos los que le invocan de veras.",
+      "verse_ref": "Salmos 145:18"
+    },
+    {
+      "id": "q_psalms_026",
+      "question": "Completa el espacio en blanco: 'Cuando veo tus cielos, obra de tus dedos, la luna y las estrellas que tú formaste, digo: ¿Qué es el hombre, para que tengas de él _____?'",
+      "correct": "memoria",
+      "wrong": ["conciencia", "pensamiento", "cuidado"],
+      "hint": "Esto significa estar consciente o pensar en",
+      "explanation": "A pesar de la vastedad de la creación, Dios se preocupa profundamente por la humanidad.",
+      "full_verse": "Cuando veo tus cielos, obra de tus dedos, la luna y las estrellas que tú formaste, digo: ¿Qué es el hombre, para que tengas de él memoria, y el hijo del hombre, para que lo visites?",
+      "verse_ref": "Salmos 8:3-4"
+    },
+    {
+      "id": "q_psalms_027",
+      "question": "Completa el espacio en blanco: 'Me mostrarás la senda de la vida; en tu presencia hay plenitud de gozo; delicias a tu _____ para siempre.'",
+      "correct": "diestra",
+      "wrong": ["lado", "trono", "lugar"],
+      "hint": "Esta es una parte del cuerpo que simboliza una posición de honor",
+      "explanation": "La presencia de Dios trae gozo completo y bendiciones eternas.",
+      "full_verse": "Me mostrarás la senda de la vida; en tu presencia hay plenitud de gozo; delicias a tu diestra para siempre.",
+      "verse_ref": "Salmos 16:11"
+    },
+    {
+      "id": "q_psalms_028",
+      "question": "Completa el espacio en blanco: 'Sean gratos los dichos de mi boca y la meditación de mi corazón delante de ti, oh Jehová, roca mía, y _____ mío.'",
+      "correct": "redentor",
+      "wrong": ["salvador", "libertador", "refugio"],
+      "hint": "Este es quien rescata pagando un precio",
+      "explanation": "Deseamos que tanto nuestras palabras como pensamientos honren a Dios.",
+      "full_verse": "Sean gratos los dichos de mi boca y la meditación de mi corazón delante de ti, oh Jehová, roca mía, y redentor mío.",
+      "verse_ref": "Salmos 19:14"
+    },
+    {
+      "id": "q_psalms_029",
+      "question": "Completa el espacio en blanco: 'De Jehová es la tierra y su plenitud; el mundo, y los que en él _____.'",
+      "correct": "habitan",
+      "wrong": ["viven", "moran", "existen"],
+      "hint": "Esto significa residir o existir",
+      "explanation": "Dios es dueño de todo en la creación, incluyendo a todas las personas.",
+      "full_verse": "De Jehová es la tierra y su plenitud; el mundo, y los que en él habitan.",
+      "verse_ref": "Salmos 24:1"
+    },
+    {
+      "id": "q_psalms_030",
+      "question": "Completa el espacio en blanco: 'Te haré entender, y te enseñaré el camino en que debes andar; sobre ti fijaré mis _____.'",
+      "correct": "ojos",
+      "wrong": ["manos", "pensamientos", "bendiciones"],
+      "hint": "Estas partes del cuerpo se usan para ver",
+      "explanation": "Dios promete guiarnos y aconsejarnos personalmente.",
+      "full_verse": "Te haré entender, y te enseñaré el camino en que debes andar; sobre ti fijaré mis ojos.",
+      "verse_ref": "Salmos 32:8"
+    },
+    {
+      "id": "q_psalms_031",
+      "question": "Completa el espacio en blanco: 'Por Jehová son ordenados los pasos del hombre, y él aprueba su camino. Cuando el hombre cayere, no quedará postrado, porque Jehová sostiene su _____.'",
+      "correct": "mano",
+      "wrong": ["brazo", "poder", "fuerza"],
+      "hint": "Esta parte del cuerpo se usa para sostener a alguien",
+      "explanation": "Dios sostiene a aquellos que se deleitan en Él, incluso cuando tropiezan.",
+      "full_verse": "Por Jehová son ordenados los pasos del hombre, y él aprueba su camino. Cuando el hombre cayere, no quedará postrado, porque Jehová sostiene su mano.",
+      "verse_ref": "Salmos 37:23-24"
+    },
+    {
+      "id": "q_psalms_032",
+      "question": "Completa el espacio en blanco: 'Pacientemente esperé a Jehová, y se inclinó a mí, y oyó mi clamor. Y me hizo sacar del pozo de la desesperación, del lodo _____; puso mis pies sobre peña, y enderezó mis pasos.'",
+      "correct": "cenagoso",
+      "wrong": ["profundo", "sucio", "oscuro"],
+      "hint": "Esto es barro profundo y húmedo",
+      "explanation": "Dios nos rescata de situaciones desesperadas y nos da estabilidad.",
+      "full_verse": "Pacientemente esperé a Jehová, y se inclinó a mí, y oyó mi clamor. Y me hizo sacar del pozo de la desesperación, del lodo cenagoso; puso mis pies sobre peña, y enderezó mis pasos.",
+      "verse_ref": "Salmos 40:1-2"
+    },
+    {
+      "id": "q_psalms_033",
+      "question": "Completa el espacio en blanco: 'Los sacrificios de Dios son el espíritu quebrantado; al corazón contrito y _____, no despreciarás tú, oh Dios.'",
+      "correct": "humillado",
+      "wrong": ["arrepentido", "afligido", "triste"],
+      "hint": "Esto significa sentirse arrepentido por el mal hecho",
+      "explanation": "Dios valora el arrepentimiento genuino sobre los rituales religiosos externos.",
+      "full_verse": "Los sacrificios de Dios son el espíritu quebrantado; al corazón contrito y humillado no despreciarás tú, oh Dios.",
+      "verse_ref": "Salmos 51:17"
+    },
+    {
+      "id": "q_psalms_034",
+      "question": "Completa el espacio en blanco: 'En el día que temo, yo en ti _____.'",
+      "correct": "confío",
+      "wrong": ["espero", "creo", "descanso"],
+      "hint": "Esto es tener fe en alguien",
+      "explanation": "El temor debería llevarnos a confiar más en Dios.",
+      "full_verse": "En el día que temo, yo en ti confío.",
+      "verse_ref": "Salmos 56:3"
+    },
+    {
+      "id": "q_psalms_035",
+      "question": "Completa el espacio en blanco: 'En Dios solamente está acallada mi alma; de él viene mi _____.'",
+      "correct": "salvación",
+      "wrong": ["refugio", "escudo", "fuerza"],
+      "hint": "Esta es la liberación del peligro",
+      "explanation": "Solo Dios proporciona verdadero descanso y seguridad para nuestras almas.",
+      "full_verse": "En Dios solamente está acallada mi alma; de él viene mi salvación.",
+      "verse_ref": "Salmos 62:1"
+    },
+    {
+      "id": "q_psalms_036",
+      "question": "Completa el espacio en blanco: 'Mi carne y mi corazón desfallecen; mas la roca de mi corazón y mi porción es Dios para _____.'",
+      "correct": "siempre",
+      "wrong": ["eternidad", "jamás", "todo"],
+      "hint": "Esto significa por todo el tiempo",
+      "explanation": "Incluso cuando nuestros cuerpos fallan, Dios permanece como nuestra herencia eterna.",
+      "full_verse": "Mi carne y mi corazón desfallecen; mas la roca de mi corazón y mi porción es Dios para siempre.",
+      "verse_ref": "Salmos 73:26"
+    },
+    {
+      "id": "q_psalms_037",
+      "question": "Completa el espacio en blanco: 'Porque tú, Señor, eres bueno y perdonador, y grande en misericordia para con todos los que te _____.'",
+      "correct": "invocan",
+      "wrong": ["buscan", "oran", "llaman"],
+      "hint": "Esto significa clamar o apelar",
+      "explanation": "El amor y el perdón de Dios están disponibles para todos los que lo buscan.",
+      "full_verse": "Porque tú, Señor, eres bueno y perdonador, y grande en misericordia para con todos los que te invocan.",
+      "verse_ref": "Salmos 86:5"
+    },
+    {
+      "id": "q_psalms_038",
+      "question": "Completa el espacio en blanco: 'Enséñanos de tal modo a contar nuestros días, que traigamos al corazón _____.'",
+      "correct": "sabiduría",
+      "wrong": ["entendimiento", "conocimiento", "prudencia"],
+      "hint": "Esta es la cualidad de ser sabio",
+      "explanation": "Reconocer la brevedad de la vida nos ayuda a vivir sabiamente.",
+      "full_verse": "Enséñanos de tal modo a contar nuestros días, que traigamos al corazón sabiduría.",
+      "verse_ref": "Salmos 90:12"
+    },
+    {
+      "id": "q_psalms_039",
+      "question": "Completa el espacio en blanco: 'Cantad a Jehová cántico nuevo; cantad a Jehová, toda la _____.'",
+      "correct": "tierra",
+      "wrong": ["creación", "humanidad", "nación"],
+      "hint": "Este es el planeta donde vivimos",
+      "explanation": "Somos llamados a ofrecer continuamente alabanza fresca a Dios.",
+      "full_verse": "Cantad a Jehová cántico nuevo; cantad a Jehová, toda la tierra.",
+      "verse_ref": "Salmos 96:1"
+    },
+    {
+      "id": "q_psalms_040",
+      "question": "Completa el espacio en blanco: 'Cuanto está lejos el oriente del occidente, hizo alejar de nosotros nuestras _____.'",
+      "correct": "rebeliones",
+      "wrong": ["pecados", "iniquidades", "ofensas"],
+      "hint": "Esta es otra palabra para pecados o transgresiones",
+      "explanation": "Dios remueve completamente nuestros pecados de nosotros.",
+      "full_verse": "Cuanto está lejos el oriente del occidente, hizo alejar de nosotros nuestras rebeliones.",
+      "verse_ref": "Salmos 103:12"
+    },
+    {
+      "id": "q_psalms_041",
+      "question": "Completa el espacio en blanco: 'Alabad a Jehová, porque él es bueno; porque para siempre es su _____.'",
+      "correct": "misericordia",
+      "wrong": ["amor", "gracia", "bondad"],
+      "hint": "Esta es la compasión de Dios",
+      "explanation": "El amor de Dios es eterno e inmutable.",
+      "full_verse": "Alabad a Jehová, porque él es bueno; porque para siempre es su misericordia.",
+      "verse_ref": "Salmos 107:1"
+    },
+    {
+      "id": "q_psalms_042",
+      "question": "Completa el espacio en blanco: 'En mi corazón he guardado tus dichos, para no _____ contra ti.'",
+      "correct": "pecar",
+      "wrong": ["rebelarme", "apartarme", "errar"],
+      "hint": "Esto es hacer mal contra Dios",
+      "explanation": "Memorizar la Escritura nos ayuda a resistir la tentación.",
+      "full_verse": "En mi corazón he guardado tus dichos, para no pecar contra ti.",
+      "verse_ref": "Salmos 119:11"
+    },
+    {
+      "id": "q_psalms_043",
+      "question": "Completa el espacio en blanco: 'He aquí, herencia de Jehová son los hijos; cosa de estima el fruto del _____.'",
+      "correct": "vientre",
+      "wrong": ["amor", "matrimonio", "hogar"],
+      "hint": "Esta es la parte del cuerpo donde los bebés crecen",
+      "explanation": "Los hijos son un precioso regalo y bendición de Dios.",
+      "full_verse": "He aquí, herencia de Jehová son los hijos; cosa de estima el fruto del vientre.",
+      "verse_ref": "Salmos 127:3"
+    },
+    {
+      "id": "q_psalms_044",
+      "question": "Completa el espacio en blanco: '¡Mirad cuán bueno y cuán delicioso es habitar los hermanos juntos en _____!'",
+      "correct": "armonía",
+      "wrong": ["paz", "unidad", "amor"],
+      "hint": "Esto significa unidad o concordia",
+      "explanation": "La unidad entre los creyentes es agradable a Dios.",
+      "full_verse": "¡Mirad cuán bueno y cuán delicioso es habitar los hermanos juntos en armonía!",
+      "verse_ref": "Salmos 133:1"
+    },
+    {
+      "id": "q_psalms_045",
+      "question": "Completa el espacio en blanco: 'Examíname, oh Dios, y conoce mi corazón; pruébame y conoce mis pensamientos; y ve si hay en mí camino de perversidad, y guíame en el camino _____.'",
+      "correct": "eterno",
+      "wrong": ["recto", "santo", "justo"],
+      "hint": "Esto significa que dura para siempre",
+      "explanation": "Invitamos a Dios a examinarnos y guiarnos hacia la vida eterna.",
+      "full_verse": "Examíname, oh Dios, y conoce mi corazón; pruébame y conoce mis pensamientos; y ve si hay en mí camino de perversidad, y guíame en el camino eterno.",
+      "verse_ref": "Salmos 139:23-24"
+    },
+    {
+      "id": "q_psalms_046",
+      "question": "Completa el espacio en blanco: 'Hazme oír por la mañana tu misericordia, porque en ti he _____. Hazme saber el camino por donde ande, porque a ti he elevado mi alma.'",
+      "correct": "confiado",
+      "wrong": ["esperado", "creído", "amado"],
+      "hint": "Esto es tener fe en alguien",
+      "explanation": "Buscamos la guía y el amor de Dios cada mañana.",
+      "full_verse": "Hazme oír por la mañana tu misericordia, porque en ti he confiado. Hazme saber el camino por donde ande, porque a ti he elevado mi alma.",
+      "verse_ref": "Salmos 143:8"
+    },
+    {
+      "id": "q_psalms_047",
+      "question": "Completa el espacio en blanco: 'El sana a los quebrantados de corazón, y venda sus _____.'",
+      "correct": "heridas",
+      "wrong": ["corazones", "dolores", "tristezas"],
+      "hint": "Estas son lesiones que necesitan sanidad",
+      "explanation": "Dios trae sanidad a aquellos que están emocionalmente heridos.",
+      "full_verse": "El sana a los quebrantados de corazón, y venda sus heridas.",
+      "verse_ref": "Salmos 147:3"
+    },
+    {
+      "id": "q_psalms_048",
+      "question": "Completa el espacio en blanco: 'En lugares de delicados pastos me hará descansar; junto a aguas de reposo me pastoreará. Confortará mi _____.'",
+      "correct": "alma",
+      "wrong": ["espíritu", "corazón", "mente"],
+      "hint": "Esta es la parte espiritual de una persona",
+      "explanation": "Dios proporciona descanso y renovación para nuestro ser más íntimo.",
+      "full_verse": "En lugares de delicados pastos me hará descansar; junto a aguas de reposo me pastoreará. Confortará mi alma.",
+      "verse_ref": "Salmos 23:2-3"
+    },
+    {
+      "id": "q_psalms_049",
+      "question": "Completa el espacio en blanco: 'Porque un momento será su ira, pero su favor dura toda la vida. Por la noche durará el lloro, y a la _____ vendrá la alegría.'",
+      "correct": "mañana",
+      "wrong": ["aurora", "luz", "alborada"],
+      "hint": "Esto es cuando comienza un nuevo día",
+      "explanation": "El favor de Dios supera con creces Su disciplina, y el gozo sigue a la tristeza.",
+      "full_verse": "Porque un momento será su ira, pero su favor dura toda la vida. Por la noche durará el lloro, y a la mañana vendrá la alegría.",
+      "verse_ref": "Salmos 30:5"
+    },
+    {
+      "id": "q_psalms_050",
+      "question": "Completa el espacio en blanco: 'Porque Jehová es bueno; para siempre es su misericordia, y su verdad por todas las _____.'",
+      "correct": "generaciones",
+      "wrong": ["edades", "épocas", "eternidades"],
+      "hint": "Esto se refiere a grupos sucesivos de personas a través del tiempo",
+      "explanation": "La fidelidad de Dios se extiende a cada generación.",
+      "full_verse": "Porque Jehová es bueno; para siempre es su misericordia, y su verdad por todas las generaciones.",
+      "verse_ref": "Salmos 100:5"
+    }
+  ]
+}

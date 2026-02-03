@@ -1,1 +1,452 @@
-{}
+{
+  "q_hope_001": {
+    "question": "Completa il versetto: 'Or il Dio della speranza vi riempia di ogni gioia e di ogni pace nella fede, affinché abbondiate nella speranza, per la potenza dello Spirito _____.'",
+    "correct": "Santo",
+    "wrong": ["Divino", "Eterno", "di Dio"],
+    "hint": "La terza persona della Trinità",
+    "explanation": "Paolo prega che i credenti siano riempiti di gioia, pace e speranza abbondante attraverso lo Spirito Santo.",
+    "full_verse": "Or il Dio della speranza vi riempia di ogni gioia e di ogni pace nella fede, affinché abbondiate nella speranza, per la potenza dello Spirito Santo.",
+    "verse_ref": "Romani 15:13"
+  },
+  "q_hope_002": {
+    "question": "Completa il versetto: 'Infatti io so i pensieri che medito per voi, dice il SIGNORE: pensieri di pace e non di male, per darvi un avvenire e una _____.'",
+    "correct": "speranza",
+    "wrong": ["promessa", "benedizione", "scopo"],
+    "hint": "Aspettativa positiva per il futuro",
+    "explanation": "Dio assicura il suo popolo che i suoi piani includono speranza e un futuro luminoso.",
+    "full_verse": "Infatti io so i pensieri che medito per voi, dice il SIGNORE: pensieri di pace e non di male, per darvi un avvenire e una speranza.",
+    "verse_ref": "Geremia 29:11"
+  },
+  "q_hope_003": {
+    "question": "Completa il versetto: 'Poiché siamo stati salvati in speranza. Or la speranza di ciò che si vede, non è speranza; difatti, quello che uno vede, perché lo _____?'",
+    "correct": "spererebbe",
+    "wrong": ["vedrebbe", "conoscerebbe", "avrebbe"],
+    "hint": "Possedere qualcosa",
+    "explanation": "Paolo spiega che la speranza implica aspettare ciò che non possediamo ancora.",
+    "full_verse": "Poiché siamo stati salvati in speranza. Or la speranza di ciò che si vede, non è speranza; difatti, quello che uno vede, perché lo spererebbe?",
+    "verse_ref": "Romani 8:24"
+  },
+  "q_hope_004": {
+    "question": "Completa il versetto: 'Questa speranza la teniamo come un'àncora dell'anima, sicura e _____.'",
+    "correct": "ferma",
+    "wrong": ["forte", "stabile", "salda"],
+    "hint": "Sicura e protetta",
+    "explanation": "L'autore di Ebrei descrive la speranza come un'àncora che mantiene le nostre anime stabili.",
+    "full_verse": "Questa speranza la teniamo come un'àncora dell'anima, sicura e ferma, che penetra oltre la cortina.",
+    "verse_ref": "Ebrei 6:19"
+  },
+  "q_hope_005": {
+    "question": "Completa il versetto: 'Benedetto sia il Dio e Padre del nostro Signore Gesù Cristo, che nella sua grande misericordia ci ha fatti rinascere a una speranza _____ mediante la risurrezione di Gesù Cristo dai morti.'",
+    "correct": "viva",
+    "wrong": ["eterna", "nuova", "vera"],
+    "hint": "Questa speranza è vivente",
+    "explanation": "Pietro loda Dio per aver dato ai credenti una speranza viva attraverso la risurrezione di Cristo.",
+    "full_verse": "Benedetto sia il Dio e Padre del nostro Signore Gesù Cristo, che nella sua grande misericordia ci ha fatti rinascere a una speranza viva mediante la risurrezione di Gesù Cristo dai morti.",
+    "verse_ref": "1 Pietro 1:3"
+  },
+  "q_hope_006": {
+    "question": "Completa il versetto: 'Perché ti abbatti, anima mia? Perché ti agiti in me? Spera in Dio, perché lo celebrerò ancora; egli è il mio _____.'",
+    "correct": "salvatore",
+    "wrong": ["Signore", "rifugio", "Dio"],
+    "hint": "Colui che salva",
+    "explanation": "Il salmista incoraggia la sua anima a sperare in Dio nonostante lo scoraggiamento attuale.",
+    "full_verse": "Perché ti abbatti, anima mia? Perché ti agiti in me? Spera in Dio, perché lo celebrerò ancora; egli è il mio salvatore e il mio Dio.",
+    "verse_ref": "Salmo 42:11"
+  },
+  "q_hope_007": {
+    "question": "Completa il versetto: 'Ma quelli che sperano nel SIGNORE acquistano nuove forze, si alzano a volo come _____.'",
+    "correct": "aquile",
+    "wrong": ["angeli", "uccelli", "colombe"],
+    "hint": "Un uccello maestoso",
+    "explanation": "Isaia promette che coloro che sperano in Dio saranno soprannaturalmente rafforzati.",
+    "full_verse": "Ma quelli che sperano nel SIGNORE acquistano nuove forze, si alzano a volo come aquile, corrono e non si stancano, camminano e non si affaticano.",
+    "verse_ref": "Isaia 40:31"
+  },
+  "q_hope_008": {
+    "question": "Completa il versetto: 'Io dico a me stesso: «Il SIGNORE è la mia parte, perciò _____ in lui».'",
+    "correct": "spererò",
+    "wrong": ["confiderò", "crederò", "attenderò"],
+    "hint": "Aspettare con pazienza",
+    "explanation": "Geremia dichiara che poiché Dio è la sua eredità, spererà pazientemente in lui.",
+    "full_verse": "Io dico a me stesso: «Il SIGNORE è la mia parte, perciò spererò in lui».",
+    "verse_ref": "Lamentazioni 3:24"
+  },
+  "q_hope_009": {
+    "question": "Completa il versetto: 'Siate forti, il vostro cuore si rinfranchi, voi tutti che sperate nel _____.'",
+    "correct": "SIGNORE",
+    "wrong": ["Dio", "Salvatore", "Re"],
+    "hint": "Il nome pattizio di Dio",
+    "explanation": "Davide incoraggia coloro che sperano in Dio a essere forti e coraggiosi.",
+    "full_verse": "Siate forti, il vostro cuore si rinfranchi, voi tutti che sperate nel SIGNORE.",
+    "verse_ref": "Salmo 31:24"
+  },
+  "q_hope_010": {
+    "question": "Completa il versetto: 'Or la speranza non delude, perché l'amore di Dio è stato sparso nei nostri _____ per mezzo dello Spirito Santo.'",
+    "correct": "cuori",
+    "wrong": ["anime", "vite", "menti"],
+    "hint": "Il centro del nostro essere",
+    "explanation": "Paolo assicura che la speranza in Dio non deluderà mai a causa del suo amore in noi.",
+    "full_verse": "Or la speranza non delude, perché l'amore di Dio è stato sparso nei nostri cuori per mezzo dello Spirito Santo che ci è stato dato.",
+    "verse_ref": "Romani 5:5"
+  },
+  "q_hope_011": {
+    "question": "Completa il versetto: 'Dio ha voluto far loro conoscere quale sia la gloriosa ricchezza di questo mistero fra gli stranieri, cioè Cristo in voi, speranza della _____.'",
+    "correct": "gloria",
+    "wrong": ["salvezza", "cielo", "vita"],
+    "hint": "Splendore futuro con Dio",
+    "explanation": "Paolo rivela che Cristo che dimora nei credenti è la speranza della gloria futura.",
+    "full_verse": "Dio ha voluto far loro conoscere quale sia la gloriosa ricchezza di questo mistero fra gli stranieri, cioè Cristo in voi, speranza della gloria.",
+    "verse_ref": "Colossesi 1:27"
+  },
+  "q_hope_012": {
+    "question": "Completa il versetto: 'Aspettando la beata speranza e l'apparizione della gloria del nostro grande Dio e Salvatore, Cristo _____.'",
+    "correct": "Gesù",
+    "wrong": ["Signore", "Re", "Messia"],
+    "hint": "Il titolo di Gesù",
+    "explanation": "Paolo descrive il ritorno di Cristo come la beata speranza che i credenti attendono con impazienza.",
+    "full_verse": "Aspettando la beata speranza e l'apparizione della gloria del nostro grande Dio e Salvatore, Cristo Gesù.",
+    "verse_ref": "Tito 2:13"
+  },
+  "q_hope_013": {
+    "question": "Completa il versetto: 'Fratelli, non vogliamo che siate in ignoranza riguardo a quelli che dormono, affinché non siate tristi come gli altri che non hanno _____.'",
+    "correct": "speranza",
+    "wrong": ["fede", "pace", "conforto"],
+    "hint": "I credenti hanno questo per il futuro",
+    "explanation": "Paolo conforta i credenti che hanno speranza riguardo a coloro che sono morti in Cristo.",
+    "full_verse": "Fratelli, non vogliamo che siate in ignoranza riguardo a quelli che dormono, affinché non siate tristi come gli altri che non hanno speranza.",
+    "verse_ref": "1 Tessalonicesi 4:13"
+  },
+  "q_hope_014": {
+    "question": "Completa il versetto: 'Ora, o Signore, che aspetto? La mia speranza è in _____.'",
+    "correct": "te",
+    "wrong": ["Dio", "cielo", "lui"],
+    "hint": "Davide si rivolge direttamente a Dio",
+    "explanation": "Davide dichiara che la sua speranza è riposta interamente in Dio.",
+    "full_verse": "Ora, o Signore, che aspetto? La mia speranza è in te.",
+    "verse_ref": "Salmo 39:7"
+  },
+  "q_hope_015": {
+    "question": "Completa il versetto: 'Anima mia, trova riposo in Dio solo, poiché da lui viene la mia _____.'",
+    "correct": "speranza",
+    "wrong": ["pace", "forza", "salvezza"],
+    "hint": "Aspettativa per il futuro",
+    "explanation": "Davide incoraggia la sua anima a riposare in Dio come fonte di ogni speranza.",
+    "full_verse": "Anima mia, trova riposo in Dio solo, poiché da lui viene la mia speranza.",
+    "verse_ref": "Salmo 62:5"
+  },
+  "q_hope_016": {
+    "question": "Completa il versetto: 'Tu sei la mia speranza, o Signore, DIO; in te ho confidato fin dalla mia _____.'",
+    "correct": "giovinezza",
+    "wrong": ["nascita", "infanzia", "origine"],
+    "hint": "I primi anni di vita",
+    "explanation": "Il salmista testimonia che Dio è stato la sua speranza fin dalla prima età.",
+    "full_verse": "Tu sei la mia speranza, o Signore, DIO; in te ho confidato fin dalla mia giovinezza.",
+    "verse_ref": "Salmo 71:5"
+  },
+  "q_hope_017": {
+    "question": "Completa il versetto: 'Tu sei il mio rifugio e il mio scudo; io spero nella tua _____.'",
+    "correct": "parola",
+    "wrong": ["nome", "promessa", "amore"],
+    "hint": "La verità pronunciata da Dio",
+    "explanation": "Il salmista ripone la speranza nella parola di Dio come fonte di protezione.",
+    "full_verse": "Tu sei il mio rifugio e il mio scudo; io spero nella tua parola.",
+    "verse_ref": "Salmo 119:114"
+  },
+  "q_hope_018": {
+    "question": "Completa il versetto: 'Io aspetto il SIGNORE, l'anima mia lo aspetta, e spero nella sua _____.'",
+    "correct": "parola",
+    "wrong": ["promessa", "fedeltà", "grazia"],
+    "hint": "Ciò che Dio ha detto",
+    "explanation": "Il salmista esprime completa dipendenza dalla parola di Dio per la speranza.",
+    "full_verse": "Io aspetto il SIGNORE, l'anima mia lo aspetta, e spero nella sua parola.",
+    "verse_ref": "Salmo 130:5"
+  },
+  "q_hope_019": {
+    "question": "Completa il versetto: 'Beato colui che ha per aiuto il Dio di Giacobbe e la cui speranza è nel SIGNORE, suo _____.'",
+    "correct": "Dio",
+    "wrong": ["Signore", "Re", "Salvatore"],
+    "hint": "La loro divinità",
+    "explanation": "Il salmista dichiara beato chi spera nel Signore loro Dio.",
+    "full_verse": "Beato colui che ha per aiuto il Dio di Giacobbe e la cui speranza è nel SIGNORE, suo Dio.",
+    "verse_ref": "Salmo 146:5"
+  },
+  "q_hope_020": {
+    "question": "Completa il versetto: 'La speranza differita fa languire il cuore, ma il desiderio realizzato è un albero di _____.'",
+    "correct": "vita",
+    "wrong": ["gioia", "speranza", "pace"],
+    "hint": "Qualcosa che dà vitalità",
+    "explanation": "Salomone contrappone la speranza ritardata al desiderio realizzato, che porta vita.",
+    "full_verse": "La speranza differita fa languire il cuore, ma il desiderio realizzato è un albero di vita.",
+    "verse_ref": "Proverbi 13:12"
+  },
+  "q_hope_021": {
+    "question": "Completa il versetto: 'In quel giorno si dirà: «Ecco, questo è il nostro Dio; in lui abbiamo sperato, ed egli ci ha _____.'",
+    "correct": "salvati",
+    "wrong": ["aiutati", "benedetti", "amati"],
+    "hint": "Dio ha liberato il suo popolo",
+    "explanation": "Isaia profetizza un giorno in cui il popolo di Dio celebrerà la sua salvezza.",
+    "full_verse": "In quel giorno si dirà: «Ecco, questo è il nostro Dio; in lui abbiamo sperato, ed egli ci ha salvati. Questo è il SIGNORE in cui abbiamo sperato; esultiamo, rallegriamoci per la sua salvezza!»",
+    "verse_ref": "Isaia 25:9"
+  },
+  "q_hope_022": {
+    "question": "Completa il versetto: 'Ma io volgerò lo sguardo verso il SIGNORE, spererò nel Dio della mia salvezza; il mio Dio mi _____.'",
+    "correct": "ascolterà",
+    "wrong": ["aiuterà", "salverà", "risponderà"],
+    "hint": "Dio risponde alla preghiera",
+    "explanation": "Michea esprime fiduciosa speranza che Dio lo ascolterà.",
+    "full_verse": "Ma io volgerò lo sguardo verso il SIGNORE, spererò nel Dio della mia salvezza; il mio Dio mi ascolterà.",
+    "verse_ref": "Michea 7:7"
+  },
+  "q_hope_023": {
+    "question": "Completa il versetto: 'Tornate alla fortezza, o prigionieri della speranza! Proprio oggi lo dichiaro: Vi renderò il _____.'",
+    "correct": "doppio",
+    "wrong": ["tutto", "molto", "pieno"],
+    "hint": "Due volte tanto",
+    "explanation": "Dio promette una doppia restaurazione a coloro che mantengono la speranza.",
+    "full_verse": "Tornate alla fortezza, o prigionieri della speranza! Proprio oggi lo dichiaro: Vi renderò il doppio.",
+    "verse_ref": "Zaccaria 9:12"
+  },
+  "q_hope_024": {
+    "question": "Completa il versetto: 'La pazienza produce la costanza provata, e la costanza provata produce la _____.'",
+    "correct": "speranza",
+    "wrong": ["fede", "amore", "gioia"],
+    "hint": "Il risultato del carattere sviluppato",
+    "explanation": "Paolo mostra la progressione dalla sofferenza alla pazienza al carattere alla speranza.",
+    "full_verse": "La pazienza produce la costanza provata, e la costanza provata produce la speranza.",
+    "verse_ref": "Romani 5:4"
+  },
+  "q_hope_025": {
+    "question": "Completa il versetto: 'Ma se speriamo ciò che non vediamo, lo aspettiamo con _____.'",
+    "correct": "pazienza",
+    "wrong": ["impazienza", "speranza", "silenzio"],
+    "hint": "Con perseveranza",
+    "explanation": "Paolo insegna che la speranza implica un'attesa paziente per ciò che non si vede ancora.",
+    "full_verse": "Ma se speriamo ciò che non vediamo, lo aspettiamo con pazienza.",
+    "verse_ref": "Romani 8:25"
+  },
+  "q_hope_026": {
+    "question": "Completa il versetto: 'Siate allegri nella speranza, pazienti nella tribolazione, perseveranti nella _____.'",
+    "correct": "preghiera",
+    "wrong": ["amore", "fede", "servizio"],
+    "hint": "Comunicazione con Dio",
+    "explanation": "Paolo dà tre istruzioni per la vita cristiana, inclusa la speranza gioiosa.",
+    "full_verse": "Siate allegri nella speranza, pazienti nella tribolazione, perseveranti nella preghiera.",
+    "verse_ref": "Romani 12:12"
+  },
+  "q_hope_027": {
+    "question": "Completa il versetto: 'Ora dunque queste tre cose rimangono: fede, speranza e amore; ma la più grande di esse è l'_____.'",
+    "correct": "amore",
+    "wrong": ["fede", "speranza", "grazia"],
+    "hint": "La virtù suprema",
+    "explanation": "Paolo dichiara che mentre fede, speranza e amore perdurano, l'amore è il più grande.",
+    "full_verse": "Ora dunque queste tre cose rimangono: fede, speranza e amore; ma la più grande di esse è l'amore.",
+    "verse_ref": "1 Corinzi 13:13"
+  },
+  "q_hope_028": {
+    "question": "Completa il versetto: 'Quanto a noi, per lo Spirito, aspettiamo per fede la giustizia che _____.'",
+    "correct": "speriamo",
+    "wrong": ["attendiamo", "preghiamo", "desideriamo"],
+    "hint": "La nostra aspettativa",
+    "explanation": "Paolo descrive i credenti che attendono con speranza la giustizia che la fede promette.",
+    "full_verse": "Quanto a noi, per lo Spirito, aspettiamo per fede la giustizia che speriamo.",
+    "verse_ref": "Galati 5:5"
+  },
+  "q_hope_029": {
+    "question": "Completa il versetto: 'Prego che egli illumini gli occhi del vostro cuore, affinché sappiate qual è la speranza della sua _____.'",
+    "correct": "vocazione",
+    "wrong": ["salvezza", "promessa", "grazia"],
+    "hint": "L'invito di Dio",
+    "explanation": "Paolo prega che i credenti comprendano la speranza della loro chiamata in Cristo.",
+    "full_verse": "Prego che egli illumini gli occhi del vostro cuore, affinché sappiate qual è la speranza della sua vocazione e quali sono le ricchezze della gloria della sua eredità nei santi.",
+    "verse_ref": "Efesini 1:18"
+  },
+  "q_hope_030": {
+    "question": "Completa il versetto: 'Vi è un corpo solo e un solo Spirito, come pure siete stati chiamati a una sola speranza, quella della vostra _____.'",
+    "correct": "vocazione",
+    "wrong": ["salvezza", "fede", "vita"],
+    "hint": "L'invito di Dio ai credenti",
+    "explanation": "Paolo enfatizza l'unità dei credenti in un'unica speranza attraverso la loro chiamata.",
+    "full_verse": "Vi è un corpo solo e un solo Spirito, come pure siete stati chiamati a una sola speranza, quella della vostra vocazione.",
+    "verse_ref": "Efesini 4:4"
+  },
+  "q_hope_031": {
+    "question": "Completa il versetto: 'A motivo della speranza che vi è riservata nei cieli, di cui avete sentito parlare nella parola di verità del _____.'",
+    "correct": "vangelo",
+    "wrong": ["Signore", "Dio", "Cristo"],
+    "hint": "La buona notizia",
+    "explanation": "Paolo descrive la speranza come un tesoro riservato in cielo che produce fede e amore.",
+    "full_verse": "A motivo della speranza che vi è riservata nei cieli, di cui avete sentito parlare nella parola di verità del vangelo.",
+    "verse_ref": "Colossesi 1:5"
+  },
+  "q_hope_032": {
+    "question": "Completa il versetto: 'Ricordandoci continuamente, davanti al nostro Dio e Padre, della vostra opera di fede, della fatica del vostro amore e della costanza della vostra speranza nel nostro Signore Gesù _____.'",
+    "correct": "Cristo",
+    "wrong": ["Signore", "Salvatore", "Re"],
+    "hint": "Il titolo del nostro Signore",
+    "explanation": "Paolo loda i Tessalonicesi per la loro fede, amore e speranza in Cristo.",
+    "full_verse": "Ricordandoci continuamente, davanti al nostro Dio e Padre, della vostra opera di fede, della fatica del vostro amore e della costanza della vostra speranza nel nostro Signore Gesù Cristo.",
+    "verse_ref": "1 Tessalonicesi 1:3"
+  },
+  "q_hope_033": {
+    "question": "Completa il versetto: 'Ma noi, che siamo del giorno, siamo sobri, avendo rivestito la corazza della fede e dell'amore, e preso per elmo la speranza della _____.'",
+    "correct": "salvezza",
+    "wrong": ["gloria", "vita", "vittoria"],
+    "hint": "Armatura per la testa",
+    "explanation": "Paolo usa l'immagine dell'armatura, descrivendo la speranza della salvezza come un elmo.",
+    "full_verse": "Ma noi, che siamo del giorno, siamo sobri, avendo rivestito la corazza della fede e dell'amore, e preso per elmo la speranza della salvezza.",
+    "verse_ref": "1 Tessalonicesi 5:8"
+  },
+  "q_hope_034": {
+    "question": "Completa il versetto: 'Ora lo stesso Signore nostro Gesù Cristo e Dio nostro Padre, che ci ha amati e ci ha dato per grazia una consolazione eterna e una buona _____.'",
+    "correct": "speranza",
+    "wrong": ["notizia", "fede", "promessa"],
+    "hint": "Aspettativa positiva per il futuro",
+    "explanation": "Paolo prega che i credenti ricevano consolazione eterna e buona speranza.",
+    "full_verse": "Ora lo stesso Signore nostro Gesù Cristo e Dio nostro Padre, che ci ha amati e ci ha dato per grazia una consolazione eterna e una buona speranza.",
+    "verse_ref": "2 Tessalonicesi 2:16"
+  },
+  "q_hope_035": {
+    "question": "Completa il versetto: 'Paolo, apostolo di Cristo Gesù per ordine di Dio, nostro Salvatore, e di Cristo Gesù, nostra _____.'",
+    "correct": "speranza",
+    "wrong": ["Signore", "Re", "Salvatore"],
+    "hint": "Cristo è la nostra aspettativa",
+    "explanation": "Paolo identifica Cristo Gesù come la nostra speranza nel suo saluto a Timoteo.",
+    "full_verse": "Paolo, apostolo di Cristo Gesù per ordine di Dio, nostro Salvatore, e di Cristo Gesù, nostra speranza.",
+    "verse_ref": "1 Timoteo 1:1"
+  },
+  "q_hope_036": {
+    "question": "Completa il versetto: 'Infatti a questo fine noi fatichiamo e combattiamo: perché abbiamo riposto la nostra speranza nel Dio vivente, che è il Salvatore di tutti gli uomini, specialmente dei _____.'",
+    "correct": "credenti",
+    "wrong": ["santi", "fedeli", "giusti"],
+    "hint": "Coloro che hanno fede",
+    "explanation": "Paolo spiega che la speranza nel Dio vivente motiva il servizio cristiano.",
+    "full_verse": "Infatti a questo fine noi fatichiamo e combattiamo: perché abbiamo riposto la nostra speranza nel Dio vivente, che è il Salvatore di tutti gli uomini, specialmente dei credenti.",
+    "verse_ref": "1 Timoteo 4:10"
+  },
+  "q_hope_037": {
+    "question": "Completa il versetto: 'Ai ricchi in questo mondo ordina di non essere d'animo orgoglioso e di non riporre la loro speranza nell'incertezza delle ricchezze, ma in Dio, che ci fornisce abbondantemente ogni cosa perché ne _____.'",
+    "correct": "godiamo",
+    "wrong": ["beneficiamo", "usiamo", "disponiamo"],
+    "hint": "Trarre piacere da qualcosa",
+    "explanation": "Paolo avverte contro il riporre speranza nelle ricchezze incerte invece che in Dio.",
+    "full_verse": "Ai ricchi in questo mondo ordina di non essere d'animo orgoglioso e di non riporre la loro speranza nell'incertezza delle ricchezze, ma in Dio, che ci fornisce abbondantemente ogni cosa perché ne godiamo.",
+    "verse_ref": "1 Timoteo 6:17"
+  },
+  "q_hope_038": {
+    "question": "Completa il versetto: 'Nella speranza della vita eterna, promessa prima di tutti i secoli da Dio, che non _____.'",
+    "correct": "mente",
+    "wrong": ["cambia", "dimentica", "fallisce"],
+    "hint": "Dio dice sempre la verità",
+    "explanation": "Paolo fonda la speranza della vita eterna sulla veritiera promessa di Dio.",
+    "full_verse": "Nella speranza della vita eterna, promessa prima di tutti i secoli da Dio, che non mente.",
+    "verse_ref": "Tito 1:2"
+  },
+  "q_hope_039": {
+    "question": "Completa il versetto: 'Affinché, giustificati dalla sua grazia, diventassimo, in speranza, eredi della vita _____.'",
+    "correct": "eterna",
+    "wrong": ["gloriosa", "piena", "vera"],
+    "hint": "Vivere per sempre",
+    "explanation": "Paolo spiega che la giustificazione per grazia ci rende eredi con la speranza della vita eterna.",
+    "full_verse": "Affinché, giustificati dalla sua grazia, diventassimo, in speranza, eredi della vita eterna.",
+    "verse_ref": "Tito 3:7"
+  },
+  "q_hope_040": {
+    "question": "Completa il versetto: 'Ma Cristo lo è come Figlio, sopra la sua casa; e la sua casa siamo noi se manteniamo ferma sino alla fine la nostra franchezza e la speranza di cui ci _____.'",
+    "correct": "vantiamo",
+    "wrong": ["fidiamo", "rallegriamo", "nutriamo"],
+    "hint": "Ci gloriamo in questa speranza",
+    "explanation": "L'autore incoraggia i credenti a mantenere ferma la loro speranza in Cristo.",
+    "full_verse": "Ma Cristo lo è come Figlio, sopra la sua casa; e la sua casa siamo noi se manteniamo ferma sino alla fine la nostra franchezza e la speranza di cui ci vantiamo.",
+    "verse_ref": "Ebrei 3:6"
+  },
+  "q_hope_041": {
+    "question": "Completa il versetto: 'Noi, che siamo fuggiti, abbiamo trovato il nostro incoraggiamento nell'afferrarci alla speranza che ci era posta davanti. Questa speranza la teniamo come un'_____ dell'anima.'",
+    "correct": "àncora",
+    "wrong": ["scudo", "rifugio", "fortezza"],
+    "hint": "Qualcosa che tiene ferma una nave",
+    "explanation": "L'autore descrive la speranza come un'àncora che stabilizza l'anima.",
+    "full_verse": "Noi, che siamo fuggiti, abbiamo trovato il nostro incoraggiamento nell'afferrarci alla speranza che ci era posta davanti. Questa speranza la teniamo come un'àncora dell'anima, sicura e ferma.",
+    "verse_ref": "Ebrei 6:18"
+  },
+  "q_hope_042": {
+    "question": "Completa il versetto: 'Poiché la legge non ha portato nulla alla perfezione; ma è stata introdotta una migliore speranza, per mezzo della quale ci avviciniamo a _____.'",
+    "correct": "Dio",
+    "wrong": ["cielo", "Cristo", "salvezza"],
+    "hint": "La speranza ci avvicina a lui",
+    "explanation": "L'autore contrasta la legge con la speranza migliore che ci avvicina a Dio.",
+    "full_verse": "Poiché la legge non ha portato nulla alla perfezione; ma è stata introdotta una migliore speranza, per mezzo della quale ci avviciniamo a Dio.",
+    "verse_ref": "Ebrei 7:19"
+  },
+  "q_hope_043": {
+    "question": "Completa il versetto: 'Manteniamo ferma la confessione della nostra speranza senza vacillare, perché fedele è colui che ha fatto le _____.'",
+    "correct": "promesse",
+    "wrong": ["opere", "cose", "alleanze"],
+    "hint": "Dio mantiene ciò che ha detto",
+    "explanation": "L'autore incoraggia i credenti a mantenere ferma la speranza perché Dio è fedele.",
+    "full_verse": "Manteniamo ferma la confessione della nostra speranza senza vacillare, perché fedele è colui che ha fatto le promesse.",
+    "verse_ref": "Ebrei 10:23"
+  },
+  "q_hope_044": {
+    "question": "Completa il versetto: 'Or la fede è certezza di cose che si sperano, dimostrazione di realtà che non si _____.'",
+    "correct": "vedono",
+    "wrong": ["conoscono", "hanno", "capiscono"],
+    "hint": "La fede riguarda l'invisibile",
+    "explanation": "L'autore definisce la fede in relazione alla speranza e alle realtà invisibili.",
+    "full_verse": "Or la fede è certezza di cose che si sperano, dimostrazione di realtà che non si vedono.",
+    "verse_ref": "Ebrei 11:1"
+  },
+  "q_hope_045": {
+    "question": "Completa il versetto: 'Perciò, con la mente pronta all'azione e lo spirito vigilante, ponete tutta la vostra speranza nella grazia che vi sarà portata al momento della rivelazione di Gesù _____.'",
+    "correct": "Cristo",
+    "wrong": ["Signore", "Salvatore", "Re"],
+    "hint": "Quando Cristo apparirà",
+    "explanation": "Pietro chiama i credenti a riporre tutta la loro speranza nella grazia che viene al ritorno di Cristo.",
+    "full_verse": "Perciò, con la mente pronta all'azione e lo spirito vigilante, ponete tutta la vostra speranza nella grazia che vi sarà portata al momento della rivelazione di Gesù Cristo.",
+    "verse_ref": "1 Pietro 1:13"
+  },
+  "q_hope_046": {
+    "question": "Completa il versetto: 'Per mezzo di lui credete in Dio, che lo ha risuscitato dai morti e gli ha dato gloria, affinché la vostra fede e la vostra speranza siano in _____.'",
+    "correct": "Dio",
+    "wrong": ["Cristo", "cielo", "lui"],
+    "hint": "L'oggetto ultimo della fede e della speranza",
+    "explanation": "Pietro spiega che attraverso Cristo, la nostra fede e speranza sono dirette a Dio.",
+    "full_verse": "Per mezzo di lui credete in Dio, che lo ha risuscitato dai morti e gli ha dato gloria, affinché la vostra fede e la vostra speranza siano in Dio.",
+    "verse_ref": "1 Pietro 1:21"
+  },
+  "q_hope_047": {
+    "question": "Completa il versetto: 'Ma santificate il Cristo come Signore nei vostri cuori. Siate sempre pronti a dare una risposta a chiunque vi domandi ragione della speranza che è in _____.'",
+    "correct": "voi",
+    "wrong": ["noi", "Cristo", "Dio"],
+    "hint": "Possedere la speranza",
+    "explanation": "Pietro istruisce i credenti a essere pronti a spiegare la speranza che possiedono.",
+    "full_verse": "Ma santificate il Cristo come Signore nei vostri cuori. Siate sempre pronti a dare una risposta a chiunque vi domandi ragione della speranza che è in voi. Tuttavia fate questo con mansuetudine e timore.",
+    "verse_ref": "1 Pietro 3:15"
+  },
+  "q_hope_048": {
+    "question": "Completa il versetto: 'E chiunque ha questa speranza in lui, si purifica com'egli è _____.'",
+    "correct": "puro",
+    "wrong": ["santo", "giusto", "pulito"],
+    "hint": "Libero da impurità",
+    "explanation": "Giovanni insegna che la speranza in Cristo porta alla purificazione personale.",
+    "full_verse": "E chiunque ha questa speranza in lui, si purifica com'egli è puro.",
+    "verse_ref": "1 Giovanni 3:3"
+  },
+  "q_hope_049": {
+    "question": "Completa il versetto: 'Questo io richiamo alla mente, e perciò ho speranza: È una grazia del SIGNORE che non siamo stati _____.'",
+    "correct": "consumati",
+    "wrong": ["distrutti", "abbandonati", "dimenticati"],
+    "hint": "Non completamente distrutti",
+    "explanation": "Geremia trova speranza ricordando l'amore fedele di Dio che ci preserva.",
+    "full_verse": "Questo io richiamo alla mente, e perciò ho speranza: È una grazia del SIGNORE che non siamo stati consumati, perché le sue compassioni non sono esaurite.",
+    "verse_ref": "Lamentazioni 3:21-22"
+  },
+  "q_hope_050": {
+    "question": "Completa il versetto: 'Sarai fiducioso, perché c'è speranza; ti guarderai attorno e dormirai _____.'",
+    "correct": "sicuro",
+    "wrong": ["tranquillo", "sereno", "in pace"],
+    "hint": "Protetto dal pericolo",
+    "explanation": "Zofar descrive la sicurezza e il riposo che derivano dalla speranza.",
+    "full_verse": "Sarai fiducioso, perché c'è speranza; ti guarderai attorno e dormirai sicuro.",
+    "verse_ref": "Giobbe 11:18"
+  }
+}

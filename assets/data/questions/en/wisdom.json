@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_wisdom_001",
+      "question": "Fill in the blank: 'If any of you lacks wisdom, you should ask God, who gives generously to all without finding _____, and it will be given to you.'",
+      "correct": "fault",
+      "wrong": ["blame", "error", "guilt"],
+      "hint": "This means criticizing or condemning",
+      "explanation": "God generously gives wisdom to anyone who asks without reproach.",
+      "full_verse": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.",
+      "verse_ref": "James 1:5"
+    },
+    {
+      "id": "q_wisdom_002",
+      "question": "Fill in the blank: 'The fear of the LORD is the beginning of _____; fools despise wisdom and instruction.'",
+      "correct": "knowledge",
+      "wrong": ["wisdom", "understanding", "truth"],
+      "hint": "This is what fools despise along with instruction",
+      "explanation": "Reverence for God is the foundation of all true knowledge.",
+      "full_verse": "The fear of the LORD is the beginning of knowledge, but fools despise wisdom and instruction.",
+      "verse_ref": "Proverbs 1:7"
+    },
+    {
+      "id": "q_wisdom_003",
+      "question": "Fill in the blank: 'Trust in the LORD with all your heart and lean not on your own _____; in all your ways submit to him, and he will make your paths straight.'",
+      "correct": "understanding",
+      "wrong": ["wisdom", "knowledge", "strength"],
+      "hint": "This refers to human intellect and reasoning",
+      "explanation": "We should trust God completely rather than relying on our limited understanding.",
+      "full_verse": "Trust in the LORD with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.",
+      "verse_ref": "Proverbs 3:5-6"
+    },
+    {
+      "id": "q_wisdom_004",
+      "question": "Fill in the blank: 'The fear of the LORD is the beginning of wisdom, and knowledge of the Holy One is _____.'",
+      "correct": "understanding",
+      "wrong": ["wisdom", "insight", "discernment"],
+      "hint": "This is the ability to comprehend deeply",
+      "explanation": "True wisdom begins with reverence for God, and knowing Him brings understanding.",
+      "full_verse": "The fear of the LORD is the beginning of wisdom, and knowledge of the Holy One is understanding.",
+      "verse_ref": "Proverbs 9:10"
+    },
+    {
+      "id": "q_wisdom_005",
+      "question": "Fill in the blank: 'Let the message of Christ dwell among you richly as you teach and admonish one another with all wisdom through psalms, hymns, and songs from the Spirit, singing to God with _____ in your hearts.'",
+      "correct": "gratitude",
+      "wrong": ["joy", "praise", "love"],
+      "hint": "This is thankfulness",
+      "explanation": "Christ's word should fill us with wisdom and thankful worship.",
+      "full_verse": "Let the message of Christ dwell among you richly as you teach and admonish one another with all wisdom through psalms, hymns, and songs from the Spirit, singing to God with gratitude in your hearts.",
+      "verse_ref": "Colossians 3:16"
+    },
+    {
+      "id": "q_wisdom_006",
+      "question": "Fill in the blank: 'For the LORD gives wisdom; from his mouth come knowledge and _____.'",
+      "correct": "understanding",
+      "wrong": ["truth", "insight", "discernment"],
+      "hint": "This is the ability to comprehend",
+      "explanation": "True wisdom, knowledge, and understanding all come from God.",
+      "full_verse": "For the LORD gives wisdom; from his mouth come knowledge and understanding.",
+      "verse_ref": "Proverbs 2:6"
+    },
+    {
+      "id": "q_wisdom_007",
+      "question": "Fill in the blank: 'The beginning of wisdom is this: Get _____. Though it cost all you have, get understanding.'",
+      "correct": "wisdom",
+      "wrong": ["knowledge", "insight", "understanding"],
+      "hint": "This is what the verse says to obtain",
+      "explanation": "Wisdom is so valuable that it's worth pursuing at any cost.",
+      "full_verse": "The beginning of wisdom is this: Get wisdom. Though it cost all you have, get understanding.",
+      "verse_ref": "Proverbs 4:7"
+    },
+    {
+      "id": "q_wisdom_008",
+      "question": "Fill in the blank: 'Wisdom is a shelter as money is a shelter, but the advantage of knowledge is this: Wisdom preserves those who have _____.'",
+      "correct": "it",
+      "wrong": ["wisdom", "faith", "life"],
+      "hint": "This pronoun refers back to wisdom",
+      "explanation": "Wisdom protects and preserves those who possess it.",
+      "full_verse": "Wisdom is a shelter as money is a shelter, but the advantage of knowledge is this: Wisdom preserves those who have it.",
+      "verse_ref": "Ecclesiastes 7:12"
+    },
+    {
+      "id": "q_wisdom_009",
+      "question": "Fill in the blank: 'The fear of the LORD is the beginning of wisdom; all who follow his precepts have good _____. To him belongs eternal praise.'",
+      "correct": "understanding",
+      "wrong": ["wisdom", "insight", "knowledge"],
+      "hint": "This is the ability to comprehend",
+      "explanation": "Obeying God's commands leads to true understanding.",
+      "full_verse": "The fear of the LORD is the beginning of wisdom; all who follow his precepts have good understanding. To him belongs eternal praise.",
+      "verse_ref": "Psalm 111:10"
+    },
+    {
+      "id": "q_wisdom_010",
+      "question": "Fill in the blank: 'But the wisdom that comes from heaven is first of all pure; then peace-loving, considerate, submissive, full of mercy and good fruit, impartial and _____.'",
+      "correct": "sincere",
+      "wrong": ["honest", "truthful", "genuine"],
+      "hint": "This means without hypocrisy",
+      "explanation": "Heavenly wisdom has many characteristics including purity and sincerity.",
+      "full_verse": "But the wisdom that comes from heaven is first of all pure; then peace-loving, considerate, submissive, full of mercy and good fruit, impartial and sincere.",
+      "verse_ref": "James 3:17"
+    },
+    {
+      "id": "q_wisdom_011",
+      "question": "Fill in the blank: 'Blessed are those who find wisdom, those who gain _____.'",
+      "correct": "understanding",
+      "wrong": ["knowledge", "insight", "discernment"],
+      "hint": "This is the ability to comprehend",
+      "explanation": "Finding wisdom and understanding brings blessing.",
+      "full_verse": "Blessed are those who find wisdom, those who gain understanding.",
+      "verse_ref": "Proverbs 3:13"
+    },
+    {
+      "id": "q_wisdom_012",
+      "question": "Fill in the blank: 'My son, do not let wisdom and understanding out of your sight, preserve sound judgment and _____.'",
+      "correct": "discretion",
+      "wrong": ["wisdom", "caution", "prudence"],
+      "hint": "This is careful judgment in speech and action",
+      "explanation": "We should hold onto wisdom and good judgment.",
+      "full_verse": "My son, do not let wisdom and understanding out of your sight, preserve sound judgment and discretion.",
+      "verse_ref": "Proverbs 3:21"
+    },
+    {
+      "id": "q_wisdom_013",
+      "question": "Fill in the blank: 'Get wisdom, get understanding; do not forget my words or turn away from _____.'",
+      "correct": "them",
+      "wrong": ["me", "it", "wisdom"],
+      "hint": "This pronoun refers to the speaker's words",
+      "explanation": "We should pursue wisdom and not abandon its teachings.",
+      "full_verse": "Get wisdom, get understanding; do not forget my words or turn away from them.",
+      "verse_ref": "Proverbs 4:5"
+    },
+    {
+      "id": "q_wisdom_014",
+      "question": "Fill in the blank: 'For wisdom is more precious than rubies, and nothing you desire can compare with _____.'",
+      "correct": "her",
+      "wrong": ["it", "wisdom", "them"],
+      "hint": "Wisdom is personified as a female",
+      "explanation": "Wisdom is more valuable than any earthly treasure.",
+      "full_verse": "For wisdom is more precious than rubies, and nothing you desire can compare with her.",
+      "verse_ref": "Proverbs 8:11"
+    },
+    {
+      "id": "q_wisdom_015",
+      "question": "Fill in the blank: 'A fool finds pleasure in wicked schemes, but a person of understanding delights in _____.'",
+      "correct": "wisdom",
+      "wrong": ["knowledge", "truth", "righteousness"],
+      "hint": "This is what the wise person delights in",
+      "explanation": "Those with understanding find joy in wisdom, not wickedness.",
+      "full_verse": "A fool finds pleasure in wicked schemes, but a person of understanding delights in wisdom.",
+      "verse_ref": "Proverbs 10:23"
+    },
+    {
+      "id": "q_wisdom_016",
+      "question": "Fill in the blank: 'When pride comes, then comes disgrace, but with humility comes _____.'",
+      "correct": "wisdom",
+      "wrong": ["honor", "blessing", "understanding"],
+      "hint": "This is what comes with humility",
+      "explanation": "Pride leads to shame, while humility leads to wisdom.",
+      "full_verse": "When pride comes, then comes disgrace, but with humility comes wisdom.",
+      "verse_ref": "Proverbs 11:2"
+    },
+    {
+      "id": "q_wisdom_017",
+      "question": "Fill in the blank: 'The way of fools seems right to them, but the wise listen to _____.'",
+      "correct": "advice",
+      "wrong": ["counsel", "wisdom", "others"],
+      "hint": "This is guidance from others",
+      "explanation": "Fools trust their own judgment; the wise seek counsel.",
+      "full_verse": "The way of fools seems right to them, but the wise listen to advice.",
+      "verse_ref": "Proverbs 12:15"
+    },
+    {
+      "id": "q_wisdom_018",
+      "question": "Fill in the blank: 'Where there is strife, there is pride, but wisdom is found in those who take _____.'",
+      "correct": "advice",
+      "wrong": ["counsel", "heed", "caution"],
+      "hint": "This is guidance or recommendations",
+      "explanation": "Pride causes conflict, but the wise accept counsel.",
+      "full_verse": "Where there is strife, there is pride, but wisdom is found in those who take advice.",
+      "verse_ref": "Proverbs 13:10"
+    },
+    {
+      "id": "q_wisdom_019",
+      "question": "Fill in the blank: 'The wise woman builds her house, but with her own hands the foolish one tears hers _____.'",
+      "correct": "down",
+      "wrong": ["apart", "away", "up"],
+      "hint": "This is the direction of destruction",
+      "explanation": "Wisdom builds up while foolishness destroys.",
+      "full_verse": "The wise woman builds her house, but with her own hands the foolish one tears hers down.",
+      "verse_ref": "Proverbs 14:1"
+    },
+    {
+      "id": "q_wisdom_020",
+      "question": "Fill in the blank: 'Wisdom's instruction is to fear the LORD, and humility comes before _____.'",
+      "correct": "honor",
+      "wrong": ["glory", "blessing", "wisdom"],
+      "hint": "This is respect or high regard",
+      "explanation": "Fearing God and being humble leads to honor.",
+      "full_verse": "Wisdom's instruction is to fear the LORD, and humility comes before honor.",
+      "verse_ref": "Proverbs 15:33"
+    },
+    {
+      "id": "q_wisdom_021",
+      "question": "Fill in the blank: 'How much better to get wisdom than gold, to get insight rather than _____!'",
+      "correct": "silver",
+      "wrong": ["gold", "riches", "treasure"],
+      "hint": "This is a precious metal",
+      "explanation": "Wisdom and insight are more valuable than precious metals.",
+      "full_verse": "How much better to get wisdom than gold, to get insight rather than silver!",
+      "verse_ref": "Proverbs 16:16"
+    },
+    {
+      "id": "q_wisdom_022",
+      "question": "Fill in the blank: 'Even fools are thought wise if they keep silent, and discerning if they hold their _____.'",
+      "correct": "tongues",
+      "wrong": ["peace", "words", "speech"],
+      "hint": "This is part of the mouth used for speaking",
+      "explanation": "Silence can be a mark of wisdom.",
+      "full_verse": "Even fools are thought wise if they keep silent, and discerning if they hold their tongues.",
+      "verse_ref": "Proverbs 17:28"
+    },
+    {
+      "id": "q_wisdom_023",
+      "question": "Fill in the blank: 'The heart of the discerning acquires knowledge, for the ears of the wise seek it _____.'",
+      "correct": "out",
+      "wrong": ["eagerly", "always", "daily"],
+      "hint": "This small word completes 'seek it ___'",
+      "explanation": "Wise people actively pursue knowledge.",
+      "full_verse": "The heart of the discerning acquires knowledge, for the ears of the wise seek it out.",
+      "verse_ref": "Proverbs 18:15"
+    },
+    {
+      "id": "q_wisdom_024",
+      "question": "Fill in the blank: 'The one who gets wisdom loves life; the one who cherishes understanding will soon _____.'",
+      "correct": "prosper",
+      "wrong": ["thrive", "succeed", "flourish"],
+      "hint": "This means to do well",
+      "explanation": "Loving wisdom leads to a prosperous life.",
+      "full_verse": "The one who gets wisdom loves life; the one who cherishes understanding will soon prosper.",
+      "verse_ref": "Proverbs 19:8"
+    },
+    {
+      "id": "q_wisdom_025",
+      "question": "Fill in the blank: 'By wisdom a house is built, and through understanding it is _____.'",
+      "correct": "established",
+      "wrong": ["founded", "secured", "completed"],
+      "hint": "This means to be made firm or stable",
+      "explanation": "Wisdom builds and understanding establishes.",
+      "full_verse": "By wisdom a house is built, and through understanding it is established.",
+      "verse_ref": "Proverbs 24:3"
+    },
+    {
+      "id": "q_wisdom_026",
+      "question": "Fill in the blank: 'I saw that wisdom is better than folly, just as light is better than _____.'",
+      "correct": "darkness",
+      "wrong": ["night", "shadow", "blindness"],
+      "hint": "This is the opposite of light",
+      "explanation": "Wisdom illuminates like light compared to the darkness of folly.",
+      "full_verse": "I saw that wisdom is better than folly, just as light is better than darkness.",
+      "verse_ref": "Ecclesiastes 2:13"
+    },
+    {
+      "id": "q_wisdom_027",
+      "question": "Fill in the blank: 'Wisdom makes one wise person more powerful than ten _____ in a city.'",
+      "correct": "rulers",
+      "wrong": ["leaders", "kings", "elders"],
+      "hint": "These are people in authority",
+      "explanation": "Wisdom gives greater power than many authorities combined.",
+      "full_verse": "Wisdom makes one wise person more powerful than ten rulers in a city.",
+      "verse_ref": "Ecclesiastes 7:19"
+    },
+    {
+      "id": "q_wisdom_028",
+      "question": "Fill in the blank: 'Who is like the wise? Who knows the explanation of things? A person's wisdom brightens their face and changes its hard _____.'",
+      "correct": "appearance",
+      "wrong": ["look", "expression", "features"],
+      "hint": "This is how one looks",
+      "explanation": "Wisdom brings a pleasant, softened countenance.",
+      "full_verse": "Who is like the wise? Who knows the explanation of things? A person's wisdom brightens their face and changes its hard appearance.",
+      "verse_ref": "Ecclesiastes 8:1"
+    },
+    {
+      "id": "q_wisdom_029",
+      "question": "Fill in the blank: 'So I said, \"Wisdom is better than strength.\" But the poor man's wisdom is despised, and his words are no longer _____.'",
+      "correct": "heeded",
+      "wrong": ["heard", "followed", "remembered"],
+      "hint": "This means to pay attention to",
+      "explanation": "Though wisdom surpasses strength, the world often ignores the wise poor.",
+      "full_verse": "So I said, \"Wisdom is better than strength.\" But the poor man's wisdom is despised, and his words are no longer heeded.",
+      "verse_ref": "Ecclesiastes 9:16"
+    },
+    {
+      "id": "q_wisdom_030",
+      "question": "Fill in the blank: 'If the ax is dull and its edge unsharpened, more strength is needed, but skill will bring _____.'",
+      "correct": "success",
+      "wrong": ["victory", "results", "profit"],
+      "hint": "This is achieving what you set out to do",
+      "explanation": "Wisdom and skill are more effective than brute force.",
+      "full_verse": "If the ax is dull and its edge unsharpened, more strength is needed, but skill will bring success.",
+      "verse_ref": "Ecclesiastes 10:10"
+    },
+    {
+      "id": "q_wisdom_031",
+      "question": "Fill in the blank: 'Is not wisdom found among the aged? Does not long life bring _____?'",
+      "correct": "understanding",
+      "wrong": ["wisdom", "knowledge", "insight"],
+      "hint": "This is the ability to comprehend",
+      "explanation": "Age and experience often bring wisdom and understanding.",
+      "full_verse": "Is not wisdom found among the aged? Does not long life bring understanding?",
+      "verse_ref": "Job 12:12"
+    },
+    {
+      "id": "q_wisdom_032",
+      "question": "Fill in the blank: 'And he said to the human race, \"The fear of the Lord—that is wisdom, and to shun _____ is understanding.\"'",
+      "correct": "evil",
+      "wrong": ["sin", "wickedness", "wrong"],
+      "hint": "This is the opposite of good",
+      "explanation": "True wisdom fears God and avoids evil.",
+      "full_verse": "And he said to the human race, \"The fear of the Lord—that is wisdom, and to shun evil is understanding.\"",
+      "verse_ref": "Job 28:28"
+    },
+    {
+      "id": "q_wisdom_033",
+      "question": "Fill in the blank: 'The law of the LORD is perfect, refreshing the soul. The statutes of the LORD are trustworthy, making wise the _____.'",
+      "correct": "simple",
+      "wrong": ["humble", "meek", "young"],
+      "hint": "This describes someone inexperienced or naive",
+      "explanation": "God's Word brings wisdom even to the inexperienced.",
+      "full_verse": "The law of the LORD is perfect, refreshing the soul. The statutes of the LORD are trustworthy, making wise the simple.",
+      "verse_ref": "Psalm 19:7"
+    },
+    {
+      "id": "q_wisdom_034",
+      "question": "Fill in the blank: 'The mouths of the righteous utter wisdom, and their tongues speak what is _____.'",
+      "correct": "just",
+      "wrong": ["true", "right", "good"],
+      "hint": "This means fair and righteous",
+      "explanation": "Righteous people speak wisdom and justice.",
+      "full_verse": "The mouths of the righteous utter wisdom, and their tongues speak what is just.",
+      "verse_ref": "Psalm 37:30"
+    },
+    {
+      "id": "q_wisdom_035",
+      "question": "Fill in the blank: 'Teach us to number our days, that we may gain a heart of _____.'",
+      "correct": "wisdom",
+      "wrong": ["understanding", "knowledge", "insight"],
+      "hint": "This is what we gain by understanding life's brevity",
+      "explanation": "Recognizing life's brevity helps us live wisely.",
+      "full_verse": "Teach us to number our days, that we may gain a heart of wisdom.",
+      "verse_ref": "Psalm 90:12"
+    },
+    {
+      "id": "q_wisdom_036",
+      "question": "Fill in the blank: 'Your commands are always with me and make me wiser than my _____.'",
+      "correct": "enemies",
+      "wrong": ["teachers", "elders", "peers"],
+      "hint": "These are those who oppose you",
+      "explanation": "God's Word gives wisdom that surpasses our opponents.",
+      "full_verse": "Your commands are always with me and make me wiser than my enemies.",
+      "verse_ref": "Psalm 119:98"
+    },
+    {
+      "id": "q_wisdom_037",
+      "question": "Fill in the blank: 'The Spirit of the LORD will rest on him—the Spirit of wisdom and of understanding, the Spirit of counsel and of might, the Spirit of the knowledge and fear of the _____.'",
+      "correct": "LORD",
+      "wrong": ["God", "Most High", "Almighty"],
+      "hint": "This is the covenant name of God",
+      "explanation": "The Messiah would be filled with the Spirit of wisdom.",
+      "full_verse": "The Spirit of the LORD will rest on him—the Spirit of wisdom and of understanding, the Spirit of counsel and of might, the Spirit of the knowledge and fear of the LORD.",
+      "verse_ref": "Isaiah 11:2"
+    },
+    {
+      "id": "q_wisdom_038",
+      "question": "Fill in the blank: 'He changes times and seasons; he deposes kings and raises up others. He gives wisdom to the wise and knowledge to the _____.'",
+      "correct": "discerning",
+      "wrong": ["humble", "faithful", "righteous"],
+      "hint": "These are people with good judgment",
+      "explanation": "God is the source of all wisdom and knowledge.",
+      "full_verse": "He changes times and seasons; he deposes kings and raises up others. He gives wisdom to the wise and knowledge to the discerning.",
+      "verse_ref": "Daniel 2:21"
+    },
+    {
+      "id": "q_wisdom_039",
+      "question": "Fill in the blank: 'Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the _____.'",
+      "correct": "rock",
+      "wrong": ["stone", "foundation", "ground"],
+      "hint": "This is a solid foundation",
+      "explanation": "Wise people build their lives on Jesus' teachings.",
+      "full_verse": "Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock.",
+      "verse_ref": "Matthew 7:24"
+    },
+    {
+      "id": "q_wisdom_040",
+      "question": "Fill in the blank: 'Oh, the depth of the riches of the wisdom and knowledge of God! How unsearchable his judgments, and his paths beyond _____!'",
+      "correct": "tracing out",
+      "wrong": ["understanding", "knowing", "finding"],
+      "hint": "This means following or tracking",
+      "explanation": "God's wisdom is infinitely deep and beyond human comprehension.",
+      "full_verse": "Oh, the depth of the riches of the wisdom and knowledge of God! How unsearchable his judgments, and his paths beyond tracing out!",
+      "verse_ref": "Romans 11:33"
+    },
+    {
+      "id": "q_wisdom_041",
+      "question": "Fill in the blank: 'For the foolishness of God is wiser than human wisdom, and the weakness of God is stronger than human _____.'",
+      "correct": "strength",
+      "wrong": ["power", "might", "force"],
+      "hint": "This is the ability to overcome",
+      "explanation": "Even God's 'weakness' surpasses all human strength.",
+      "full_verse": "For the foolishness of God is wiser than human wisdom, and the weakness of God is stronger than human strength.",
+      "verse_ref": "1 Corinthians 1:25"
+    },
+    {
+      "id": "q_wisdom_042",
+      "question": "Fill in the blank: 'It is because of him that you are in Christ Jesus, who has become for us wisdom from God—that is, our righteousness, holiness and _____.'",
+      "correct": "redemption",
+      "wrong": ["salvation", "deliverance", "freedom"],
+      "hint": "This is being bought back or rescued",
+      "explanation": "Christ embodies wisdom and provides our righteousness and redemption.",
+      "full_verse": "It is because of him that you are in Christ Jesus, who has become for us wisdom from God—that is, our righteousness, holiness and redemption.",
+      "verse_ref": "1 Corinthians 1:30"
+    },
+    {
+      "id": "q_wisdom_043",
+      "question": "Fill in the blank: 'We do, however, speak a message of wisdom among the mature, but not the wisdom of this age or of the _____ of this age, who are coming to nothing.'",
+      "correct": "rulers",
+      "wrong": ["leaders", "powers", "wise"],
+      "hint": "These are people in authority",
+      "explanation": "God's wisdom differs from the wisdom of worldly authorities.",
+      "full_verse": "We do, however, speak a message of wisdom among the mature, but not the wisdom of this age or of the rulers of this age, who are coming to nothing.",
+      "verse_ref": "1 Corinthians 2:6"
+    },
+    {
+      "id": "q_wisdom_044",
+      "question": "Fill in the blank: 'For the wisdom of this world is foolishness in God's sight. As it is written: \"He catches the wise in their _____.\"'",
+      "correct": "craftiness",
+      "wrong": ["schemes", "plans", "tricks"],
+      "hint": "This is cunning or deceptive cleverness",
+      "explanation": "Worldly wisdom is foolishness compared to God's wisdom.",
+      "full_verse": "For the wisdom of this world is foolishness in God's sight. As it is written: \"He catches the wise in their craftiness.\"",
+      "verse_ref": "1 Corinthians 3:19"
+    },
+    {
+      "id": "q_wisdom_045",
+      "question": "Fill in the blank: 'I keep asking that the God of our Lord Jesus Christ, the glorious Father, may give you the Spirit of wisdom and _____, so that you may know him better.'",
+      "correct": "revelation",
+      "wrong": ["understanding", "knowledge", "insight"],
+      "hint": "This is divine disclosure of truth",
+      "explanation": "We need God's Spirit to give us wisdom and reveal truth.",
+      "full_verse": "I keep asking that the God of our Lord Jesus Christ, the glorious Father, may give you the Spirit of wisdom and revelation, so that you may know him better.",
+      "verse_ref": "Ephesians 1:17"
+    },
+    {
+      "id": "q_wisdom_046",
+      "question": "Fill in the blank: 'Be very careful, then, how you live—not as unwise but as _____.'",
+      "correct": "wise",
+      "wrong": ["smart", "careful", "prudent"],
+      "hint": "This is the opposite of unwise",
+      "explanation": "We should live carefully and wisely.",
+      "full_verse": "Be very careful, then, how you live—not as unwise but as wise.",
+      "verse_ref": "Ephesians 5:15"
+    },
+    {
+      "id": "q_wisdom_047",
+      "question": "Fill in the blank: 'For this reason, since the day we heard about you, we have not stopped praying for you. We continually ask God to fill you with the knowledge of his will through all the wisdom and understanding that the _____ gives.'",
+      "correct": "Spirit",
+      "wrong": ["Lord", "Word", "Father"],
+      "hint": "This is the third person of the Trinity",
+      "explanation": "The Holy Spirit gives wisdom and understanding of God's will.",
+      "full_verse": "For this reason, since the day we heard about you, we have not stopped praying for you. We continually ask God to fill you with the knowledge of his will through all the wisdom and understanding that the Spirit gives.",
+      "verse_ref": "Colossians 1:9"
+    },
+    {
+      "id": "q_wisdom_048",
+      "question": "Fill in the blank: 'In whom are hidden all the treasures of wisdom and _____.'",
+      "correct": "knowledge",
+      "wrong": ["understanding", "truth", "insight"],
+      "hint": "This is information and understanding",
+      "explanation": "All wisdom and knowledge are found in Christ.",
+      "full_verse": "In whom are hidden all the treasures of wisdom and knowledge.",
+      "verse_ref": "Colossians 2:3"
+    },
+    {
+      "id": "q_wisdom_049",
+      "question": "Fill in the blank: 'Who is wise and understanding among you? Let them show it by their good life, by deeds done in the humility that comes from _____.'",
+      "correct": "wisdom",
+      "wrong": ["God", "faith", "grace"],
+      "hint": "This is what produces humility",
+      "explanation": "True wisdom is demonstrated through humble, good deeds.",
+      "full_verse": "Who is wise and understanding among you? Let them show it by their good life, by deeds done in the humility that comes from wisdom.",
+      "verse_ref": "James 3:13"
+    },
+    {
+      "id": "q_wisdom_050",
+      "question": "Fill in the blank: 'Bear in mind that our Lord's patience means salvation, just as our dear brother Paul also wrote you with the _____ that God gave him.'",
+      "correct": "wisdom",
+      "wrong": ["knowledge", "understanding", "insight"],
+      "hint": "This is what God gave Paul for writing",
+      "explanation": "Paul wrote Scripture with God-given wisdom.",
+      "full_verse": "Bear in mind that our Lord's patience means salvation, just as our dear brother Paul also wrote you with the wisdom that God gave him.",
+      "verse_ref": "2 Peter 3:15"
+    }
+  ]
+}

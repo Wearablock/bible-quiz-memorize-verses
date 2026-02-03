@@ -1,1 +1,452 @@
-{}
+{
+  "q_comfort_001": {
+    "question": "Lengkapi ayat: 'Sekalipun aku berjalan dalam lembah kekelaman, aku tidak takut bahaya, sebab Engkau besertaku; gada-Mu dan tongkat-Mu, itulah yang _____.'",
+    "correct": "menghibur aku",
+    "wrong": ["melindungi aku", "menuntun aku", "menjaga aku"],
+    "hint": "Tongkat gembala memberikan kenyamanan",
+    "explanation": "Daud mengungkapkan keyakinan bahwa kehadiran Allah memberikan penghiburan dan perlindungan bahkan di saat-saat tergelap dalam hidup.",
+    "full_verse": "Sekalipun aku berjalan dalam lembah kekelaman, aku tidak takut bahaya, sebab Engkau besertaku; gada-Mu dan tongkat-Mu, itulah yang menghibur aku.",
+    "verse_ref": "Mazmur 23:4"
+  },
+  "q_comfort_002": {
+    "question": "Lengkapi ayat: 'Terpujilah Allah, Bapa Tuhan kita Yesus Kristus, Bapa yang penuh belas kasihan dan Allah sumber segala _____.'",
+    "correct": "penghiburan",
+    "wrong": ["rahmat", "kasih karunia", "kasih"],
+    "hint": "Ini menggambarkan sifat Allah untuk menghibur",
+    "explanation": "Paulus mengidentifikasi Allah sebagai sumber utama dari segala penghiburan, yang menghibur kita sehingga kita dapat menghibur orang lain.",
+    "full_verse": "Terpujilah Allah, Bapa Tuhan kita Yesus Kristus, Bapa yang penuh belas kasihan dan Allah sumber segala penghiburan, yang menghibur kami dalam segala penderitaan kami.",
+    "verse_ref": "2 Korintus 1:3-4"
+  },
+  "q_comfort_003": {
+    "question": "Lengkapi ayat: 'Berbahagialah orang yang berdukacita, karena mereka akan _____.'",
+    "correct": "dihibur",
+    "wrong": ["disembuhkan", "diberkati", "diselamatkan"],
+    "hint": "Yesus menjanjikan penghiburan kepada yang berduka",
+    "explanation": "Dalam Ucapan Bahagia, Yesus menjanjikan penghiburan ilahi kepada mereka yang berduka dan berkabung.",
+    "full_verse": "Berbahagialah orang yang berdukacita, karena mereka akan dihibur.",
+    "verse_ref": "Matius 5:4"
+  },
+  "q_comfort_004": {
+    "question": "Lengkapi ayat: 'Janganlah takut, sebab Aku menyertai engkau, janganlah bimbang, sebab Aku ini _____.'",
+    "correct": "Allahmu",
+    "wrong": ["Tuhanmu", "Juruselamatmu", "Rajamu"],
+    "hint": "Allah menyatakan identitas-Nya sebagai alasan untuk tidak takut",
+    "explanation": "Allah meyakinkan umat-Nya bahwa kehadiran dan identitas-Nya menghilangkan kebutuhan untuk takut.",
+    "full_verse": "Janganlah takut, sebab Aku menyertai engkau, janganlah bimbang, sebab Aku ini Allahmu; Aku akan meneguhkan, bahkan akan menolong engkau; Aku akan memegang engkau dengan tangan kanan-Ku yang membawa kemenangan.",
+    "verse_ref": "Yesaya 41:10"
+  },
+  "q_comfort_005": {
+    "question": "Lengkapi ayat: 'Damai sejahtera Kutinggalkan bagimu. _____ Kuberikan kepadamu.'",
+    "correct": "Damai sejahtera-Ku",
+    "wrong": ["Kasih-Ku", "Sukacita-Ku", "Roh-Ku"],
+    "hint": "Yesus memberikan apa yang Dia tinggalkan",
+    "explanation": "Yesus menjanjikan kepada murid-murid-Nya kedamaian supernatural yang tidak dapat diberikan dunia.",
+    "full_verse": "Damai sejahtera Kutinggalkan bagimu. Damai sejahtera-Ku Kuberikan kepadamu, dan apa yang Kuberikan tidak seperti yang diberikan oleh dunia kepadamu. Janganlah gelisah dan gentar hatimu.",
+    "verse_ref": "Yohanes 14:27"
+  },
+  "q_comfort_006": {
+    "question": "Lengkapi ayat: 'TUHAN itu dekat kepada orang-orang yang _____.'",
+    "correct": "patah hati",
+    "wrong": ["benar", "setia", "rendah hati"],
+    "hint": "Allah mendekat kepada mereka yang hatinya terluka",
+    "explanation": "Allah menjanjikan kedekatan khusus-Nya kepada mereka yang terluka secara emosional dan hancur jiwanya.",
+    "full_verse": "TUHAN itu dekat kepada orang-orang yang patah hati, dan Ia menyelamatkan orang-orang yang remuk jiwanya.",
+    "verse_ref": "Mazmur 34:19"
+  },
+  "q_comfort_007": {
+    "question": "Lengkapi ayat: 'Marilah kepada-Ku, semua yang letih lesu dan berbeban berat, Aku akan memberi kelegaan _____.'",
+    "correct": "kepadamu",
+    "wrong": ["bagimu", "untukmu", "padamu"],
+    "hint": "Yesus menawarkan istirahat dari kelelahan",
+    "explanation": "Yesus mengundang semua yang lelah dan terbebani untuk menemukan istirahat di dalam Dia.",
+    "full_verse": "Marilah kepada-Ku, semua yang letih lesu dan berbeban berat, Aku akan memberi kelegaan kepadamu.",
+    "verse_ref": "Matius 11:28"
+  },
+  "q_comfort_008": {
+    "question": "Lengkapi ayat: 'Kita tahu sekarang, bahwa Allah turut bekerja dalam segala sesuatu untuk mendatangkan _____ bagi mereka yang mengasihi Dia.'",
+    "correct": "kebaikan",
+    "wrong": ["berkat", "keuntungan", "kemuliaan"],
+    "hint": "Tujuan Allah dalam segala keadaan",
+    "explanation": "Paulus meyakinkan orang percaya bahwa Allah mengatur segala sesuatu untuk kebaikan tertinggi mereka.",
+    "full_verse": "Kita tahu sekarang, bahwa Allah turut bekerja dalam segala sesuatu untuk mendatangkan kebaikan bagi mereka yang mengasihi Dia, yaitu bagi mereka yang terpanggil sesuai dengan rencana Allah.",
+    "verse_ref": "Roma 8:28"
+  },
+  "q_comfort_009": {
+    "question": "Lengkapi ayat: 'Allah itu bagi kita tempat perlindungan dan kekuatan, sebagai penolong dalam _____ sangat terbukti.'",
+    "correct": "kesesakan",
+    "wrong": ["kebutuhan", "kesusahan", "bahaya"],
+    "hint": "Ketika kesulitan datang, Allah ada di sana",
+    "explanation": "Pemazmur menyatakan Allah sebagai sumber perlindungan dan pertolongan yang konstan selama masa-masa sulit.",
+    "full_verse": "Allah itu bagi kita tempat perlindungan dan kekuatan, sebagai penolong dalam kesesakan sangat terbukti.",
+    "verse_ref": "Mazmur 46:2"
+  },
+  "q_comfort_010": {
+    "question": "Lengkapi ayat: 'Seperti seorang ibu menghibur anaknya, demikianlah Aku ini akan _____ kamu.'",
+    "correct": "menghibur",
+    "wrong": ["mengasihi", "melindungi", "menuntun"],
+    "hint": "Allah menjanjikan penghiburan seperti ibu",
+    "explanation": "Allah membandingkan penghiburan-Nya dengan kelembutan yang diberikan seorang ibu kepada anaknya.",
+    "full_verse": "Seperti seorang yang dihibur ibunya, demikianlah Aku ini akan menghibur kamu; kamu akan dihibur di Yerusalem.",
+    "verse_ref": "Yesaya 66:13"
+  },
+  "q_comfort_011": {
+    "question": "Lengkapi ayat: 'TUHAN adalah _____; takkan kekurangan aku.'",
+    "correct": "gembalaku",
+    "wrong": ["Allahku", "Rajaku", "Bapaku"],
+    "hint": "Metafora ini menunjukkan bimbingan Allah yang penuh kasih",
+    "explanation": "Daud menggunakan metafora gembala untuk menggambarkan pemeliharaan dan perhatian Allah yang lengkap.",
+    "full_verse": "TUHAN adalah gembalaku, takkan kekurangan aku.",
+    "verse_ref": "Mazmur 23:1"
+  },
+  "q_comfort_012": {
+    "question": "Lengkapi ayat: 'TUHAN adalah terangku dan keselamatanku, kepada siapakah aku harus _____?'",
+    "correct": "takut",
+    "wrong": ["percaya", "ikut", "sembah"],
+    "hint": "Kehadiran Allah menghilangkan emosi ini",
+    "explanation": "Daud menyatakan bahwa dengan Allah sebagai terang dan keselamatan, tidak ada alasan untuk takut.",
+    "full_verse": "TUHAN adalah terangku dan keselamatanku, kepada siapakah aku harus takut? TUHAN adalah benteng hidupku, terhadap siapakah aku harus gemetar?",
+    "verse_ref": "Mazmur 27:1"
+  },
+  "q_comfort_013": {
+    "question": "Lengkapi ayat: 'Serahkanlah kuatirmu kepada TUHAN, maka Ia akan _____.'",
+    "correct": "memelihara engkau",
+    "wrong": ["menghibur engkau", "menolong engkau", "menyelamatkan engkau"],
+    "hint": "Allah akan menjaga engkau tetap bertahan",
+    "explanation": "Pemazmur mendorong untuk menyerahkan kekhawatiran kepada Allah, yang akan mendukung dan memelihara kita.",
+    "full_verse": "Serahkanlah kuatirmu kepada TUHAN, maka Ia akan memelihara engkau! Tidak untuk selama-lamanya dibiarkan-Nya orang benar itu goyah.",
+    "verse_ref": "Mazmur 55:23"
+  },
+  "q_comfort_014": {
+    "question": "Lengkapi ayat: 'Sekalipun dagingku dan hatiku habis lenyap, gunung batuku dan bagianku tetaplah Allah _____.'",
+    "correct": "untuk selama-lamanya",
+    "wrong": ["senantiasa", "kekal", "setiap hari"],
+    "hint": "Pemeliharaan Allah tidak ada akhirnya",
+    "explanation": "Bahkan ketika tubuh dan jiwa kita gagal, Allah tetap menjadi kekuatan dan warisan kekal kita.",
+    "full_verse": "Sekalipun dagingku dan hatiku habis lenyap, gunung batuku dan bagianku tetaplah Allah untuk selama-lamanya.",
+    "verse_ref": "Mazmur 73:26"
+  },
+  "q_comfort_015": {
+    "question": "Lengkapi ayat: 'Apabila bertambah-tambah pikiran dalam batinku, penghiburan-Mu menyenangkan _____.'",
+    "correct": "jiwaku",
+    "wrong": ["hatiku", "hidupku", "pikiranku"],
+    "hint": "Penghiburan Allah menghasilkan emosi positif ini",
+    "explanation": "Pemazmur bersaksi bahwa penghiburan Allah mengubah kecemasan yang luar biasa menjadi sukacita.",
+    "full_verse": "Apabila bertambah-tambah pikiran dalam batinku, penghiburan-Mu menyenangkan jiwaku.",
+    "verse_ref": "Mazmur 94:19"
+  },
+  "q_comfort_016": {
+    "question": "Lengkapi ayat: 'Inilah penghiburanku dalam sengsaraku, bahwa janji-Mu _____.'",
+    "correct": "menghidupkan aku",
+    "wrong": ["menguatkan aku", "menghibur aku", "menolong aku"],
+    "hint": "Komitmen Allah memberi kehidupan",
+    "explanation": "Pemazmur menemukan penghiburan dalam penderitaan melalui janji-janji Allah yang setia.",
+    "full_verse": "Inilah penghiburanku dalam sengsaraku, bahwa janji-Mu menghidupkan aku.",
+    "verse_ref": "Mazmur 119:50"
+  },
+  "q_comfort_017": {
+    "question": "Lengkapi ayat: 'Biarlah kasih setia-Mu menjadi penghiburanku, sesuai dengan janji-Mu kepada _____.'",
+    "correct": "hamba-Mu",
+    "wrong": ["umat-Mu", "anak-Mu", "pengikut-Mu"],
+    "hint": "Pemazmur memohon berdasarkan apa yang Allah katakan",
+    "explanation": "Pemazmur memohon penghiburan berdasarkan kasih setia Allah dan janji-janji-Nya.",
+    "full_verse": "Biarlah kasih setia-Mu menjadi penghiburanku, sesuai dengan janji-Mu kepada hamba-Mu.",
+    "verse_ref": "Mazmur 119:76"
+  },
+  "q_comfort_018": {
+    "question": "Lengkapi ayat: 'Ia menyembuhkan orang-orang yang patah hati dan membalut _____.'",
+    "correct": "luka-luka mereka",
+    "wrong": ["hati mereka", "kesedihan mereka", "rasa sakit mereka"],
+    "hint": "Allah menyediakan penyembuhan untuk luka emosional",
+    "explanation": "Allah tidak hanya menyembuhkan hati yang patah tetapi juga merawat luka-luka spesifik yang kita bawa.",
+    "full_verse": "Ia menyembuhkan orang-orang yang patah hati dan membalut luka-luka mereka.",
+    "verse_ref": "Mazmur 147:3"
+  },
+  "q_comfort_019": {
+    "question": "Lengkapi ayat: 'Hiburkanlah, hiburkanlah umat-Ku, demikian firman _____.'",
+    "correct": "Allahmu",
+    "wrong": ["TUHAN", "Yang Mahakuasa", "Bapa"],
+    "hint": "Allah menyapa komunitas-Nya",
+    "explanation": "Allah memerintahkan agar umat-Nya menerima penghiburan ganda, menekankan pentingnya penghiburan.",
+    "full_verse": "Hiburkanlah, hiburkanlah umat-Ku, demikian firman Allahmu.",
+    "verse_ref": "Yesaya 40:1"
+  },
+  "q_comfort_020": {
+    "question": "Lengkapi ayat: 'Bersorak-sorailah, hai langit, bersorak-riaklah, hai bumi, bergembiralah dengan sorak-sorai, hai gunung-gunung! Sebab TUHAN telah _____ umat-Nya.'",
+    "correct": "menghibur",
+    "wrong": ["mengasihi", "menyelamatkan", "memberkati"],
+    "hint": "Seluruh ciptaan merayakan penghiburan Allah",
+    "explanation": "Ciptaan dipanggil untuk merayakan karena Allah memberikan penghiburan kepada umat-Nya.",
+    "full_verse": "Bersorak-sorailah, hai langit, bersorak-riaklah, hai bumi, bergembiralah dengan sorak-sorai, hai gunung-gunung! Sebab TUHAN telah menghibur umat-Nya dan Ia telah menyayangi orang-orang-Nya yang tertindas.",
+    "verse_ref": "Yesaya 49:13"
+  },
+  "q_comfort_021": {
+    "question": "Lengkapi ayat: 'Aku, Akulah Dia yang _____ kamu.'",
+    "correct": "menghibur",
+    "wrong": ["menyelamatkan", "mengasihi", "melindungi"],
+    "hint": "Allah secara pribadi memberikan penghiburan",
+    "explanation": "Allah dengan tegas menyatakan bahwa Dia sendiri adalah yang membawa penghiburan.",
+    "full_verse": "Aku, Akulah Dia yang menghibur kamu. Siapakah kamu, sehingga kamu takut kepada manusia yang fana, kepada anak manusia yang lenyap seperti rumput?",
+    "verse_ref": "Yesaya 51:12"
+  },
+  "q_comfort_022": {
+    "question": "Lengkapi ayat: 'Sebab biarpun gunung-gunung beranjak dan bukit-bukit bergoyang, tetapi kasih setia-Ku tidak akan beranjak dari _____.'",
+    "correct": "padamu",
+    "wrong": ["sisimu", "hatimu", "hidupmu"],
+    "hint": "Kasih Allah kepadamu tidak tergoyahkan",
+    "explanation": "Allah berjanji bahwa kasih-Nya lebih stabil daripada gunung-gunung itu sendiri.",
+    "full_verse": "Sebab biarpun gunung-gunung beranjak dan bukit-bukit bergoyang, tetapi kasih setia-Ku tidak akan beranjak dari padamu dan perjanjian damai-Ku tidak akan bergoyang, firman TUHAN, yang mengasihani engkau.",
+    "verse_ref": "Yesaya 54:10"
+  },
+  "q_comfort_023": {
+    "question": "Lengkapi ayat: 'Roh Tuhan ALLAH ada padaku, oleh karena TUHAN telah mengurapi aku untuk menyampaikan kabar baik kepada orang-orang _____.'",
+    "correct": "sengsara",
+    "wrong": ["hilang", "patah hati", "rendah hati"],
+    "hint": "Kabar baik datang kepada mereka yang membutuhkan",
+    "explanation": "Yesaya menubuatkan tentang misi Mesias untuk membawa kabar baik dan penghiburan kepada yang membutuhkan.",
+    "full_verse": "Roh Tuhan ALLAH ada padaku, oleh karena TUHAN telah mengurapi aku untuk menyampaikan kabar baik kepada orang-orang sengsara; Ia telah mengutus aku untuk merawat orang-orang yang remuk hati, untuk memberitakan pembebasan kepada orang-orang tawanan.",
+    "verse_ref": "Yesaya 61:1"
+  },
+  "q_comfort_024": {
+    "question": "Lengkapi ayat: 'Aku akan mengubah perkabungan mereka menjadi kegirangan, dan akan menghibur serta menyukakan mereka sesudah _____.'",
+    "correct": "kedukaan",
+    "wrong": ["penderitaan", "kesedihan", "kepahitan"],
+    "hint": "Allah mengubah kesedihan menjadi perayaan",
+    "explanation": "Allah berjanji untuk mengubah kesedihan menjadi sukacita dan menggantikan perkabungan dengan kegembiraan.",
+    "full_verse": "Aku akan mengubah perkabungan mereka menjadi kegirangan, dan akan menghibur serta menyukakan mereka sesudah kedukaan.",
+    "verse_ref": "Yeremia 31:13"
+  },
+  "q_comfort_025": {
+    "question": "Lengkapi ayat: 'Tak berkesudahan kasih setia TUHAN, tak habis-habisnya _____.'",
+    "correct": "rahmat-Nya",
+    "wrong": ["kasih-Nya", "kebaikan-Nya", "anugerah-Nya"],
+    "hint": "Belas kasihan Allah tidak pernah habis",
+    "explanation": "Bahkan dalam penderitaan, kasih dan belas kasihan Allah tetap konstan dan dapat diandalkan.",
+    "full_verse": "Tak berkesudahan kasih setia TUHAN, tak habis-habisnya rahmat-Nya, selalu baru tiap pagi; besar kesetiaan-Mu!",
+    "verse_ref": "Ratapan 3:22-23"
+  },
+  "q_comfort_026": {
+    "question": "Lengkapi ayat: 'TUHAN itu baik, tempat pengungsian pada waktu _____.'",
+    "correct": "kesusahan",
+    "wrong": ["kebutuhan", "kesukaran", "bahaya"],
+    "hint": "Allah adalah tempat yang aman ketika kesulitan datang",
+    "explanation": "Nahum menyatakan kebaikan Allah dan peran-Nya sebagai tempat perlindungan selama masa-masa sulit.",
+    "full_verse": "TUHAN itu baik, tempat pengungsian pada waktu kesusahan; Ia mengenal orang-orang yang berlindung kepada-Nya.",
+    "verse_ref": "Nahum 1:7"
+  },
+  "q_comfort_027": {
+    "question": "Lengkapi ayat: 'TUHAN, Allahmu, ada di antaramu sebagai pahlawan yang memberi _____.'",
+    "correct": "kemenangan",
+    "wrong": ["pertolongan", "perlindungan", "kekuatan"],
+    "hint": "Allah sebagai pahlawan membawa kelepasan",
+    "explanation": "Zefanya menggambarkan Allah sebagai pahlawan perkasa yang menyelamatkan dan bersukacita atas umat-Nya.",
+    "full_verse": "TUHAN, Allahmu, ada di antaramu sebagai pahlawan yang memberi kemenangan. Ia bergirang karena engkau dengan sukacita, Ia membaharui engkau dalam kasih-Nya, Ia bersorak-sorak karena engkau dengan sorak-sorai.",
+    "verse_ref": "Zefanya 3:17"
+  },
+  "q_comfort_028": {
+    "question": "Lengkapi ayat: 'Pikullah kuk yang Kupasang dan belajarlah kepada-Ku, karena Aku lemah lembut dan rendah _____.'",
+    "correct": "hati",
+    "wrong": ["budi", "diri", "jiwa"],
+    "hint": "Yesus menggambarkan karakter batin-Nya",
+    "explanation": "Yesus mengundang kita untuk belajar dari sifat-Nya yang lemah lembut dan rendah hati, menemukan istirahat bagi jiwa kita.",
+    "full_verse": "Pikullah kuk yang Kupasang dan belajarlah kepada-Ku, karena Aku lemah lembut dan rendah hati dan jiwamu akan mendapat ketenangan.",
+    "verse_ref": "Matius 11:29"
+  },
+  "q_comfort_029": {
+    "question": "Lengkapi ayat: 'Janganlah gelisah hatimu; percayalah kepada Allah, _____ juga kepada-Ku.'",
+    "correct": "percayalah",
+    "wrong": ["bergantunglah", "berharaplah", "bersandarlah"],
+    "hint": "Yesus mengatasi kekacauan batin",
+    "explanation": "Yesus menghibur murid-murid-Nya dengan memanggil mereka untuk percaya kepada-Nya seperti mereka percaya kepada Allah.",
+    "full_verse": "Janganlah gelisah hatimu; percayalah kepada Allah, percayalah juga kepada-Ku.",
+    "verse_ref": "Yohanes 14:1"
+  },
+  "q_comfort_030": {
+    "question": "Lengkapi ayat: 'Aku akan minta kepada Bapa, dan Ia akan memberikan kepadamu seorang Penolong yang lain, supaya Ia menyertai kamu _____.'",
+    "correct": "selama-lamanya",
+    "wrong": ["senantiasa", "selamanya", "selalu"],
+    "hint": "Kehadiran Penolong tidak ada akhirnya",
+    "explanation": "Yesus menjanjikan Roh Kudus sebagai Penghibur dan Penolong yang permanen.",
+    "full_verse": "Aku akan minta kepada Bapa, dan Ia akan memberikan kepadamu seorang Penolong yang lain, supaya Ia menyertai kamu selama-lamanya.",
+    "verse_ref": "Yohanes 14:16"
+  },
+  "q_comfort_031": {
+    "question": "Lengkapi ayat: 'Aku tidak akan meninggalkan kamu sebagai _____; Aku datang kembali kepadamu.'",
+    "correct": "yatim",
+    "wrong": ["sendirian", "terlantar", "asing"],
+    "hint": "Yesus berjanji tidak meninggalkan kita tanpa orang tua",
+    "explanation": "Yesus meyakinkan murid-murid-Nya bahwa Dia tidak akan meninggalkan mereka seperti anak-anak tanpa orang tua.",
+    "full_verse": "Aku tidak akan meninggalkan kamu sebagai yatim; Aku datang kembali kepadamu.",
+    "verse_ref": "Yohanes 14:18"
+  },
+  "q_comfort_032": {
+    "question": "Lengkapi ayat: 'Semuanya itu Kukatakan kepadamu, supaya kamu beroleh damai sejahtera dalam Aku. Dalam dunia kamu menderita penganiayaan, tetapi kuatkanlah hatimu! Aku telah mengalahkan _____.'",
+    "correct": "dunia",
+    "wrong": ["musuh", "kegelapan", "kejahatan"],
+    "hint": "Yesus telah menaklukkan alam ini",
+    "explanation": "Yesus mengakui kesukaran tetapi mendorong orang percaya dengan kemenangan-Nya atas dunia.",
+    "full_verse": "Semuanya itu Kukatakan kepadamu, supaya kamu beroleh damai sejahtera dalam Aku. Dalam dunia kamu menderita penganiayaan, tetapi kuatkanlah hatimu! Aku telah mengalahkan dunia.",
+    "verse_ref": "Yohanes 16:33"
+  },
+  "q_comfort_033": {
+    "question": "Lengkapi ayat: 'Sebab aku yakin, bahwa penderitaan zaman sekarang ini tidak dapat dibandingkan dengan _____ yang akan dinyatakan kepada kita.'",
+    "correct": "kemuliaan",
+    "wrong": ["sukacita", "upah", "berkat"],
+    "hint": "Kemegahan masa depan melampaui rasa sakit saat ini",
+    "explanation": "Paulus menempatkan penderitaan dalam perspektif dengan membandingkannya dengan kemuliaan masa depan yang tak terbandingkan.",
+    "full_verse": "Sebab aku yakin, bahwa penderitaan zaman sekarang ini tidak dapat dibandingkan dengan kemuliaan yang akan dinyatakan kepada kita.",
+    "verse_ref": "Roma 8:18"
+  },
+  "q_comfort_034": {
+    "question": "Lengkapi ayat: 'Sebab segala sesuatu yang ditulis dahulu, telah ditulis untuk menjadi pelajaran bagi kita, supaya oleh ketekunan dan penghiburan dari Kitab Suci kita memperoleh _____.'",
+    "correct": "harapan",
+    "wrong": ["iman", "damai", "sukacita"],
+    "hint": "Kitab Suci menghasilkan pengharapan ini",
+    "explanation": "Paulus menjelaskan bahwa Kitab Suci memberikan ketekunan dan penghiburan yang menghasilkan harapan.",
+    "full_verse": "Sebab segala sesuatu yang ditulis dahulu, telah ditulis untuk menjadi pelajaran bagi kita, supaya oleh ketekunan dan penghiburan dari Kitab Suci kita memperoleh harapan.",
+    "verse_ref": "Roma 15:4"
+  },
+  "q_comfort_035": {
+    "question": "Lengkapi ayat: 'Sebab sama seperti kami mendapat bagian yang berlimpah-limpah dalam penderitaan Kristus, demikian juga berlimpah-limpah _____ yang kami peroleh dari Kristus.'",
+    "correct": "penghiburan",
+    "wrong": ["sukacita", "harapan", "damai"],
+    "hint": "Penderitaan dan penghiburan terhubung",
+    "explanation": "Paulus mengajarkan bahwa berbagi dalam penderitaan Kristus juga berarti berbagi berlimpah dalam penghiburan-Nya.",
+    "full_verse": "Sebab sama seperti kami mendapat bagian yang berlimpah-limpah dalam penderitaan Kristus, demikian juga berlimpah-limpah penghiburan yang kami peroleh dari Kristus.",
+    "verse_ref": "2 Korintus 1:5"
+  },
+  "q_comfort_036": {
+    "question": "Lengkapi ayat: 'Tetapi Allah, yang menghibur orang-orang yang tawar hati, menghibur kami dengan kedatangan _____.'",
+    "correct": "Titus",
+    "wrong": ["Timotius", "Paulus", "Barnabas"],
+    "hint": "Kedatangan orang ini membawa penghiburan",
+    "explanation": "Paulus berbagi bagaimana Allah menggunakan kedatangan Titus untuk membawa penghiburan selama masa sulit.",
+    "full_verse": "Tetapi Allah, yang menghibur orang-orang yang tawar hati, menghibur kami dengan kedatangan Titus.",
+    "verse_ref": "2 Korintus 7:6"
+  },
+  "q_comfort_037": {
+    "question": "Lengkapi ayat: 'Dan Ia, Tuhan kita Yesus Kristus, dan Allah, Bapa kita, yang dalam kasih karunia-Nya telah mengasihi kita dan yang telah menganugerahkan penghiburan abadi dan pengharapan yang _____.'",
+    "correct": "baik",
+    "wrong": ["mulia", "teguh", "kekal"],
+    "hint": "Allah memberi kita pengharapan yang positif",
+    "explanation": "Paulus berdoa agar penghiburan abadi dan harapan Allah menguatkan orang percaya.",
+    "full_verse": "Dan Ia, Tuhan kita Yesus Kristus, dan Allah, Bapa kita, yang dalam kasih karunia-Nya telah mengasihi kita dan yang telah menganugerahkan penghiburan abadi dan pengharapan yang baik kepada kita.",
+    "verse_ref": "2 Tesalonika 2:16-17"
+  },
+  "q_comfort_038": {
+    "question": "Lengkapi ayat: 'Sebab itu marilah kita dengan penuh keberanian menghampiri takhta kasih karunia, supaya kita menerima rahmat dan menemukan kasih karunia untuk mendapat pertolongan kita pada waktunya.'",
+    "correct": "waktunya",
+    "wrong": ["kesusahan", "kebutuhan", "kelemahan"],
+    "hint": "Kasih karunia tersedia ketika kita membutuhkannya",
+    "explanation": "Kita didorong untuk dengan berani menghampiri takhta Allah untuk menerima pertolongan ketika kita paling membutuhkannya.",
+    "full_verse": "Sebab itu marilah kita dengan penuh keberanian menghampiri takhta kasih karunia, supaya kita menerima rahmat dan menemukan kasih karunia untuk mendapat pertolongan kita pada waktunya.",
+    "verse_ref": "Ibrani 4:16"
+  },
+  "q_comfort_039": {
+    "question": "Lengkapi ayat: 'Aku sekali-kali tidak akan membiarkan engkau dan Aku sekali-kali tidak akan _____.'",
+    "correct": "meninggalkan engkau",
+    "wrong": ["melupakan engkau", "menolak engkau", "mengabaikan engkau"],
+    "hint": "Allah berjanji tidak pernah meninggalkan kita",
+    "explanation": "Allah membuat janji tegas untuk tidak pernah meninggalkan atau mengabaikan umat-Nya.",
+    "full_verse": "Janganlah kamu menjadi hamba uang dan cukupkanlah dirimu dengan apa yang ada padamu. Karena Allah telah berfirman: Aku sekali-kali tidak akan membiarkan engkau dan Aku sekali-kali tidak akan meninggalkan engkau.",
+    "verse_ref": "Ibrani 13:5"
+  },
+  "q_comfort_040": {
+    "question": "Lengkapi ayat: 'Serahkanlah segala kekuatiranmu kepada-Nya, sebab Ia yang _____.'",
+    "correct": "memelihara kamu",
+    "wrong": ["mengasihi kamu", "menyediakan bagimu", "menjaga kamu"],
+    "hint": "Kepedulian Allah memotivasi untuk menyerahkan kekhawatiran kepada-Nya",
+    "explanation": "Petrus mendorong orang percaya untuk menyerahkan semua kekhawatiran mereka kepada Allah karena Ia benar-benar memelihara mereka.",
+    "full_verse": "Serahkanlah segala kekuatiranmu kepada-Nya, sebab Ia yang memelihara kamu.",
+    "verse_ref": "1 Petrus 5:7"
+  },
+  "q_comfort_041": {
+    "question": "Lengkapi ayat: 'Anak Domba yang di tengah-tengah takhta itu akan menggembalakan mereka dan akan menuntun mereka ke mata air _____.'",
+    "correct": "kehidupan",
+    "wrong": ["harapan", "kekal", "kasih karunia"],
+    "hint": "Anak Domba menyediakan kesegaran",
+    "explanation": "Dalam Wahyu, Yesus sebagai Anak Domba menggembalakan umat-Nya ke kesegaran dan penghiburan kekal.",
+    "full_verse": "Sebab Anak Domba yang di tengah-tengah takhta itu akan menggembalakan mereka dan akan menuntun mereka ke mata air kehidupan. Dan Allah akan menghapus segala air mata dari mata mereka.",
+    "verse_ref": "Wahyu 7:17"
+  },
+  "q_comfort_042": {
+    "question": "Lengkapi ayat: 'Ia akan menghapus segala _____ dari mata mereka.'",
+    "correct": "air mata",
+    "wrong": ["kesedihan", "rasa sakit", "dukacita"],
+    "hint": "Allah menghilangkan bukti tangisan",
+    "explanation": "Di langit dan bumi yang baru, Allah secara pribadi akan menghilangkan semua dukacita dan kesedihan.",
+    "full_verse": "Dan Ia akan menghapus segala air mata dari mata mereka, dan maut tidak akan ada lagi; tidak akan ada lagi perkabungan, atau ratap tangis, atau dukacita, sebab segala sesuatu yang lama itu telah berlalu.",
+    "verse_ref": "Wahyu 21:4"
+  },
+  "q_comfort_043": {
+    "question": "Lengkapi ayat: 'TUHAN sendiri akan berjalan di depanmu, Ia sendiri akan menyertai engkau, Ia tidak akan membiarkan engkau dan tidak akan _____.'",
+    "correct": "meninggalkan engkau",
+    "wrong": ["melupakan engkau", "menolak engkau", "mengabaikan engkau"],
+    "hint": "Allah tidak akan pernah meninggalkan umat-Nya",
+    "explanation": "Musa mendorong Yosua dengan janji bahwa Allah berjalan di depan dan tidak pernah meninggalkan umat-Nya.",
+    "full_verse": "TUHAN sendiri akan berjalan di depanmu, Ia sendiri akan menyertai engkau, Ia tidak akan membiarkan engkau dan tidak akan meninggalkan engkau; janganlah takut dan janganlah kecil hati.",
+    "verse_ref": "Ulangan 31:8"
+  },
+  "q_comfort_044": {
+    "question": "Lengkapi ayat: 'Bukankah telah Kuperintahkan kepadamu: kuatkan dan teguhkanlah hatimu? Janganlah kecut dan tawar hati, sebab TUHAN, Allahmu, _____ ke mana pun engkau pergi.'",
+    "correct": "menyertai engkau",
+    "wrong": ["melindungi engkau", "menuntun engkau", "memberkati engkau"],
+    "hint": "Allah memerintahkan kekuatan dan keberanian",
+    "explanation": "Allah memerintahkan Yosua untuk kuat dan berani karena Dia akan menyertainya ke mana pun ia pergi.",
+    "full_verse": "Bukankah telah Kuperintahkan kepadamu: kuatkan dan teguhkanlah hatimu? Janganlah kecut dan tawar hati, sebab TUHAN, Allahmu, menyertai engkau ke mana pun engkau pergi.",
+    "verse_ref": "Yosua 1:9"
+  },
+  "q_comfort_045": {
+    "question": "Lengkapi ayat: 'TUHAN adalah tempat perlindungan bagi orang yang terinjak, tempat perlindungan pada waktu _____.'",
+    "correct": "kesesakan",
+    "wrong": ["kebutuhan", "bahaya", "kesusahan"],
+    "hint": "Allah melindungi selama musim-musim sulit",
+    "explanation": "Pemazmur menyatakan Allah sebagai tempat yang aman bagi mereka yang dianiaya dan berjuang.",
+    "full_verse": "TUHAN adalah tempat perlindungan bagi orang yang terinjak, tempat perlindungan pada waktu kesesakan.",
+    "verse_ref": "Mazmur 9:10"
+  },
+  "q_comfort_046": {
+    "question": "Lengkapi ayat: 'TUHAN adalah bukit batuku, bentengku dan penyelamatku, Allahku, gunung batuku, tempat aku _____.'",
+    "correct": "berlindung",
+    "wrong": ["berteduh", "bersandar", "beristirahat"],
+    "hint": "Daud menemukan keamanan di dalam Allah",
+    "explanation": "Daud menggunakan berbagai metafora untuk menggambarkan Allah sebagai sumber utama perlindungan dan keamanannya.",
+    "full_verse": "TUHAN adalah bukit batuku, bentengku dan penyelamatku, Allahku, gunung batuku, tempat aku berlindung, perisaiku, tanduk keselamatanku, kota bentengku!",
+    "verse_ref": "Mazmur 18:3"
+  },
+  "q_comfort_047": {
+    "question": "Lengkapi ayat: 'Pada waktu petang tangislah bermalam, tetapi pada waktu pagi _____.'",
+    "correct": "sorak-sorai datang",
+    "wrong": ["sukacita tiba", "berkat hadir", "terang menyingsing"],
+    "hint": "Sukacita datang setelah kegelapan berlalu",
+    "explanation": "Pemazmur meyakinkan bahwa kesedihan itu sementara dan sukacita akan datang dengan hari yang baru.",
+    "full_verse": "Sebab sesaat saja Ia murka, tetapi seumur hidup Ia murah hati; pada waktu petang tangislah bermalam, tetapi pada waktu pagi sorak-sorai datang.",
+    "verse_ref": "Mazmur 30:6"
+  },
+  "q_comfort_048": {
+    "question": "Lengkapi ayat: 'Mengapa engkau tertekan, hai jiwaku, dan mengapa engkau gelisah di dalam diriku? Berharaplah kepada Allah! Sebab aku bersyukur lagi kepada-Nya, _____.'",
+    "correct": "penolongku dan Allahku",
+    "wrong": ["keselamatanku dan Tuhanku", "gembalaku dan Rajaku", "pelindungku dan Bapaku"],
+    "hint": "Pemazmur mendorong pujian masa depan",
+    "explanation": "Pemazmur menasihati jiwanya sendiri untuk berharap kepada Allah meskipun saat ini patah semangat.",
+    "full_verse": "Mengapa engkau tertekan, hai jiwaku, dan mengapa engkau gelisah di dalam diriku? Berharaplah kepada Allah! Sebab aku bersyukur lagi kepada-Nya, penolongku dan Allahku!",
+    "verse_ref": "Mazmur 42:6"
+  },
+  "q_comfort_049": {
+    "question": "Lengkapi ayat: 'Orang yang berlindung dalam lindungan Yang Mahatinggi, dan yang menetap dalam _____ Yang Mahakuasa.'",
+    "correct": "naungan",
+    "wrong": ["perlindungan", "kehadiran", "pelukan"],
+    "hint": "Gelar ini menekankan kuasa Allah",
+    "explanation": "Mereka yang menjadikan Allah tempat tinggal mereka menemukan istirahat di bawah kehadiran perlindungan-Nya.",
+    "full_verse": "Orang yang duduk dalam lindungan Yang Mahatinggi dan bermalam dalam naungan Yang Mahakuasa.",
+    "verse_ref": "Mazmur 91:1"
+  },
+  "q_comfort_050": {
+    "question": "Lengkapi ayat: 'Aku melayangkan mataku ke gunung-gunung; dari manakah akan datang pertolonganku? Pertolonganku ialah dari _____.'",
+    "correct": "TUHAN",
+    "wrong": ["surga", "Yang Mahatinggi", "Yang Mahakuasa"],
+    "hint": "Pemazmur mengidentifikasi sumber pertolongan",
+    "explanation": "Pemazmur melihat melampaui sumber-sumber duniawi kepada Allah sebagai Pencipta langit dan bumi untuk pertolongan.",
+    "full_verse": "Aku melayangkan mataku ke gunung-gunung; dari manakah akan datang pertolonganku? Pertolonganku ialah dari TUHAN, yang menjadikan langit dan bumi.",
+    "verse_ref": "Mazmur 121:1-2"
+  }
+}

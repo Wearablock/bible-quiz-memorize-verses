@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_psalms_001",
+      "question": "Điền vào chỗ trống: 'Đức Giê-hô-va là _____ tôi; tôi sẽ chẳng thiếu thốn gì.'",
+      "correct": "Đấng chăn giữ",
+      "wrong": ["người dẫn dắt", "Cha", "Đấng bảo vệ"],
+      "hint": "Người này chăm sóc bầy chiên",
+      "explanation": "Đức Chúa Trời được mô tả như một người chăn chiên yêu thương cung cấp mọi nhu cầu của chúng ta.",
+      "full_verse": "Đức Giê-hô-va là Đấng chăn giữ tôi; tôi sẽ chẳng thiếu thốn gì.",
+      "verse_ref": "Thi Thiên 23:1"
+    },
+    {
+      "id": "q_psalms_002",
+      "question": "Điền vào chỗ trống: 'Dầu khi tôi đi trong trũng bóng chết, tôi sẽ chẳng sợ _____ gì; vì Chúa ở cùng tôi; cây trượng và cây gậy của Chúa an ủi tôi.'",
+      "correct": "tai họa",
+      "wrong": ["hại", "nguy hiểm", "chết"],
+      "hint": "Đây là điều ngược lại với điều tốt",
+      "explanation": "Sự hiện diện của Đức Chúa Trời cho chúng ta can đảm ngay cả trong những hoàn cảnh khó khăn nhất.",
+      "full_verse": "Dầu khi tôi đi trong trũng bóng chết, tôi sẽ chẳng sợ tai họa gì; vì Chúa ở cùng tôi; cây trượng và cây gậy của Chúa an ủi tôi.",
+      "verse_ref": "Thi Thiên 23:4"
+    },
+    {
+      "id": "q_psalms_003",
+      "question": "Điền vào chỗ trống: 'Đức Chúa Trời là nơi nương náu và sức lực của chúng tôi, Ngài sẵn giúp đỡ trong cơn _____.'",
+      "correct": "hoạn nạn",
+      "wrong": ["nguy hiểm", "thiếu thốn", "khổ sở"],
+      "hint": "Từ này có nghĩa là khó khăn hoặc gian khổ",
+      "explanation": "Đức Chúa Trời luôn sẵn sàng giúp đỡ chúng ta trong những lúc khó khăn.",
+      "full_verse": "Đức Chúa Trời là nơi nương náu và sức lực của chúng tôi, Ngài sẵn giúp đỡ trong cơn hoạn nạn.",
+      "verse_ref": "Thi Thiên 46:1"
+    },
+    {
+      "id": "q_psalms_004",
+      "question": "Điền vào chỗ trống: 'Đức Giê-hô-va là ánh sáng và sự cứu rỗi tôi; tôi sẽ _____ ai? Đức Giê-hô-va là đồn lũy của mạng sống tôi; tôi sẽ hãi hùng ai?'",
+      "correct": "sợ",
+      "wrong": ["tin cậy", "theo", "thờ phượng"],
+      "hint": "Đây là điều chúng ta không cần cảm thấy khi Đức Chúa Trời ở cùng",
+      "explanation": "Với Đức Chúa Trời là ánh sáng và sự cứu rỗi của chúng ta, chúng ta không có lý do gì để sợ bất cứ ai.",
+      "full_verse": "Đức Giê-hô-va là ánh sáng và sự cứu rỗi tôi; tôi sẽ sợ ai? Đức Giê-hô-va là đồn lũy của mạng sống tôi; tôi sẽ hãi hùng ai?",
+      "verse_ref": "Thi Thiên 27:1"
+    },
+    {
+      "id": "q_psalms_005",
+      "question": "Điền vào chỗ trống: 'Lời Chúa là ngọn đèn cho chân tôi, ánh _____ cho đường lối tôi.'",
+      "correct": "sáng",
+      "wrong": ["dẫn", "đuốc", "soi"],
+      "hint": "Điều này chiếu sáng con đường phía trước",
+      "explanation": "Lời Đức Chúa Trời cung cấp sự hướng dẫn và chỉ dẫn cho cuộc sống chúng ta.",
+      "full_verse": "Lời Chúa là ngọn đèn cho chân tôi, ánh sáng cho đường lối tôi.",
+      "verse_ref": "Thi Thiên 119:105"
+    },
+    {
+      "id": "q_psalms_006",
+      "question": "Điền vào chỗ trống: 'Phước cho người nào chẳng theo mưu kế của kẻ dữ, chẳng đứng trong đường tội nhân, không ngồi chỗ của kẻ _____.'",
+      "correct": "nhạo báng",
+      "wrong": ["tội nhân", "ngu muội", "chế giễu"],
+      "hint": "Những người này nhạo báng người khác",
+      "explanation": "Phước thật đến từ việc tránh ảnh hưởng của những kẻ nhạo báng đường lối Đức Chúa Trời.",
+      "full_verse": "Phước cho người nào chẳng theo mưu kế của kẻ dữ, chẳng đứng trong đường tội nhân, không ngồi chỗ của kẻ nhạo báng.",
+      "verse_ref": "Thi Thiên 1:1"
+    },
+    {
+      "id": "q_psalms_007",
+      "question": "Điền vào chỗ trống: 'Hỡi cả trái đất, hãy cất tiếng reo _____ cho Đức Giê-hô-va!'",
+      "correct": "mừng",
+      "wrong": ["ngợi khen", "vinh hiển", "cảm tạ"],
+      "hint": "Đây là biểu hiện của niềm hạnh phúc lớn",
+      "explanation": "Chúng ta được kêu gọi bày tỏ niềm vui cho Đức Chúa Trời một cách nhiệt thành.",
+      "full_verse": "Hỡi cả trái đất, hãy cất tiếng reo mừng cho Đức Giê-hô-va!",
+      "verse_ref": "Thi Thiên 100:1"
+    },
+    {
+      "id": "q_psalms_008",
+      "question": "Điền vào chỗ trống: 'Nầy là ngày Đức Giê-hô-va đã định; chúng tôi sẽ mừng rỡ và _____ về ngày ấy.'",
+      "correct": "vui vẻ",
+      "wrong": ["hớn hở", "hạnh phúc", "cảm tạ"],
+      "hint": "Điều này có nghĩa là vui mừng",
+      "explanation": "Mỗi ngày là một món quà từ Đức Chúa Trời, đáng để ăn mừng.",
+      "full_verse": "Nầy là ngày Đức Giê-hô-va đã định; chúng tôi sẽ mừng rỡ và vui vẻ về ngày ấy.",
+      "verse_ref": "Thi Thiên 118:24"
+    },
+    {
+      "id": "q_psalms_009",
+      "question": "Điền vào chỗ trống: 'Phàm vật chi thở hãy ngợi khen Đức Giê-hô-va! Ha-lê-lu-_____!'",
+      "correct": "gia",
+      "wrong": ["sự sống", "linh", "tiếng"],
+      "hint": "Đây là điều mọi sinh vật đều có",
+      "explanation": "Mọi sinh vật được kêu gọi ngợi khen Đức Chúa Trời.",
+      "full_verse": "Phàm vật chi thở hãy ngợi khen Đức Giê-hô-va! Ha-lê-lu-gia!",
+      "verse_ref": "Thi Thiên 150:6"
+    },
+    {
+      "id": "q_psalms_010",
+      "question": "Điền vào chỗ trống: 'Khá nếm thử xem Đức Giê-hô-va _____ dường bao! Phước cho người nào nương náu mình nơi Ngài!'",
+      "correct": "tốt lành",
+      "wrong": ["vĩ đại", "thành tín", "yêu thương"],
+      "hint": "Đây là điều ngược lại với xấu",
+      "explanation": "Chúng ta có thể trải nghiệm sự tốt lành của Đức Chúa Trời khi tin cậy Ngài.",
+      "full_verse": "Khá nếm thử xem Đức Giê-hô-va tốt lành dường bao! Phước cho người nào nương náu mình nơi Ngài!",
+      "verse_ref": "Thi Thiên 34:8"
+    },
+    {
+      "id": "q_psalms_011",
+      "question": "Điền vào chỗ trống: 'Cũng hãy khoái lạc nơi Đức Giê-hô-va, thì Ngài sẽ ban cho ngươi điều lòng ngươi _____.'",
+      "correct": "ao ước",
+      "wrong": ["linh hồn", "trí", "tinh thần"],
+      "hint": "Đây là trung tâm của cảm xúc và ao ước của bạn",
+      "explanation": "Khi chúng ta tìm thấy niềm vui nơi Đức Chúa Trời, Ngài định hình và thỏa mãn những ao ước sâu xa nhất của chúng ta.",
+      "full_verse": "Cũng hãy khoái lạc nơi Đức Giê-hô-va, thì Ngài sẽ ban cho ngươi điều lòng ngươi ao ước.",
+      "verse_ref": "Thi Thiên 37:4"
+    },
+    {
+      "id": "q_psalms_012",
+      "question": "Điền vào chỗ trống: 'Đức Chúa Trời ôi! xin hãy dựng nên trong tôi một lòng trong sạch, và làm mới lại trong tôi một _____ ngay thẳng.'",
+      "correct": "thần linh",
+      "wrong": ["linh hồn", "lòng", "trí"],
+      "hint": "Đây là phần bên trong của một người",
+      "explanation": "Đa-vít cầu xin Đức Chúa Trời biến đổi bên trong và làm mới sự cam kết.",
+      "full_verse": "Đức Chúa Trời ôi! xin hãy dựng nên trong tôi một lòng trong sạch, và làm mới lại trong tôi một thần linh ngay thẳng.",
+      "verse_ref": "Thi Thiên 51:10"
+    },
+    {
+      "id": "q_psalms_013",
+      "question": "Điền vào chỗ trống: 'Người nào ở nơi kín đáo của Đấng Chí cao, sẽ ở dưới _____ của Đấng Toàn năng.'",
+      "correct": "bóng",
+      "wrong": ["sự hiện diện", "vòng tay", "sự chăm sóc"],
+      "hint": "Đây là điều được tạo ra khi ánh sáng bị chắn",
+      "explanation": "Đức Chúa Trời cung cấp sự bảo vệ và yên nghỉ cho những ai ở gần Ngài.",
+      "full_verse": "Người nào ở nơi kín đáo của Đấng Chí cao, sẽ ở dưới bóng của Đấng Toàn năng.",
+      "verse_ref": "Thi Thiên 91:1"
+    },
+    {
+      "id": "q_psalms_014",
+      "question": "Điền vào chỗ trống: 'Hỡi linh hồn ta, hãy ngợi khen Đức Giê-hô-va! mọi điều gì ở trong ta hãy ca tụng danh _____ Ngài!'",
+      "correct": "thánh",
+      "wrong": ["Lời", "vinh hiển", "uy nghiêm"],
+      "hint": "Điều này đại diện cho danh tính và tính cách của Đức Chúa Trời",
+      "explanation": "Chúng ta ca ngợi danh Đức Chúa Trời vì nó đại diện cho Ngài là ai.",
+      "full_verse": "Hỡi linh hồn ta, hãy ngợi khen Đức Giê-hô-va! mọi điều gì ở trong ta hãy ca tụng danh thánh Ngài!",
+      "verse_ref": "Thi Thiên 103:1"
+    },
+    {
+      "id": "q_psalms_015",
+      "question": "Điền vào chỗ trống: 'Tôi cảm tạ Chúa, vì tôi được dựng nên cách đáng sợ _____ thay. Công việc Chúa thật lạ lùng, lòng tôi biết rõ lắm.'",
+      "correct": "lạ lùng",
+      "wrong": ["đẹp đẽ", "hoàn hảo", "độc đáo"],
+      "hint": "Điều này có nghĩa là theo cách tuyệt vời",
+      "explanation": "Chúng ta được tạo dựng với sự chăm sóc và ý định lớn lao bởi Đức Chúa Trời.",
+      "full_verse": "Tôi cảm tạ Chúa, vì tôi được dựng nên cách đáng sợ lạ lùng thay. Công việc Chúa thật lạ lùng, lòng tôi biết rõ lắm.",
+      "verse_ref": "Thi Thiên 139:14"
+    },
+    {
+      "id": "q_psalms_016",
+      "question": "Điền vào chỗ trống: 'Các từng trời rao truyền sự vinh hiển của Đức Chúa Trời, bầu trời giãi tỏ công việc _____ Ngài.'",
+      "correct": "tay",
+      "wrong": ["quyền năng", "sáng tạo", "uy nghiêm"],
+      "hint": "Đây là bộ phận cơ thể dùng để làm mọi thứ",
+      "explanation": "Tạo vật chính nó làm chứng cho quyền năng sáng tạo của Đức Chúa Trời.",
+      "full_verse": "Các từng trời rao truyền sự vinh hiển của Đức Chúa Trời, bầu trời giãi tỏ công việc tay Ngài.",
+      "verse_ref": "Thi Thiên 19:1"
+    },
+    {
+      "id": "q_psalms_017",
+      "question": "Điền vào chỗ trống: 'Hãy yên lặng và biết rằng ta là Đức _____; ta sẽ được tôn cao trong các nước, cũng sẽ được tôn cao trên đất.'",
+      "correct": "Chúa Trời",
+      "wrong": ["Chúa", "thánh", "tể trị"],
+      "hint": "Đây là Đấng thiêng liêng",
+      "explanation": "Chúng ta được kêu gọi tĩnh lặng và nhận biết quyền tể trị của Đức Chúa Trời.",
+      "full_verse": "Hãy yên lặng và biết rằng ta là Đức Chúa Trời; ta sẽ được tôn cao trong các nước, cũng sẽ được tôn cao trên đất.",
+      "verse_ref": "Thi Thiên 46:10"
+    },
+    {
+      "id": "q_psalms_018",
+      "question": "Điền vào chỗ trống: 'Quả thật, trọn đời tôi phước hạnh và sự thương xót sẽ theo tôi; tôi sẽ ở trong nhà Đức Giê-hô-va cho đến _____.'",
+      "correct": "lâu dài",
+      "wrong": ["luôn luôn", "vĩnh cửu", "mãi mãi"],
+      "hint": "Điều này có nghĩa là cho đến muôn đời",
+      "explanation": "Sự tốt lành của Đức Chúa Trời đồng hành với chúng ta suốt cuộc đời và đến cõi đời đời.",
+      "full_verse": "Quả thật, trọn đời tôi phước hạnh và sự thương xót sẽ theo tôi; tôi sẽ ở trong nhà Đức Giê-hô-va cho đến lâu dài.",
+      "verse_ref": "Thi Thiên 23:6"
+    },
+    {
+      "id": "q_psalms_019",
+      "question": "Điền vào chỗ trống: 'Tôi ngước mắt lên trông trên núi: sự tiếp trợ tôi đến từ đâu? Sự tiếp trợ tôi đến từ Đức Giê-hô-va, là Đấng đã dựng nên trời và _____.'",
+      "correct": "đất",
+      "wrong": ["đất liền", "thế giới", "tất cả"],
+      "hint": "Đây là mặt đất chúng ta đứng",
+      "explanation": "Sự giúp đỡ của chúng ta đến từ Đấng Tạo Hóa của mọi vật.",
+      "full_verse": "Tôi ngước mắt lên trông trên núi: sự tiếp trợ tôi đến từ đâu? Sự tiếp trợ tôi đến từ Đức Giê-hô-va, là Đấng đã dựng nên trời và đất.",
+      "verse_ref": "Thi Thiên 121:1-2"
+    },
+    {
+      "id": "q_psalms_020",
+      "question": "Điền vào chỗ trống: 'Đức Giê-hô-va ở gần những người có lòng đau thương, và cứu kẻ nào có _____ nát.'",
+      "correct": "tâm hồn",
+      "wrong": ["linh hồn", "lòng", "trí"],
+      "hint": "Đây là phần bên trong của một người",
+      "explanation": "Đức Chúa Trời đặc biệt gần gũi với những ai đang trải qua đau khổ về cảm xúc.",
+      "full_verse": "Đức Giê-hô-va ở gần những người có lòng đau thương, và cứu kẻ nào có tâm hồn nát.",
+      "verse_ref": "Thi Thiên 34:18"
+    },
+    {
+      "id": "q_psalms_021",
+      "question": "Điền vào chỗ trống: 'Đức Chúa Trời ôi! linh hồn tôi mơ ước Chúa, như con nai cái thèm khát _____ nước chảy.'",
+      "correct": "khe",
+      "wrong": ["khát", "khao khát", "mong mỏi"],
+      "hint": "Đây là điều con nai khát làm",
+      "explanation": "Linh hồn chúng ta nên khao khát Đức Chúa Trời như con vật khát tìm kiếm nước.",
+      "full_verse": "Đức Chúa Trời ôi! linh hồn tôi mơ ước Chúa, như con nai cái thèm khát khe nước chảy.",
+      "verse_ref": "Thi Thiên 42:1"
+    },
+    {
+      "id": "q_psalms_022",
+      "question": "Điền vào chỗ trống: 'Hãy trao gánh nặng ngươi cho Đức Giê-hô-va, Ngài sẽ _____ ngươi; Ngài sẽ chẳng hề cho người công bình bị rúng động.'",
+      "correct": "nâng đỡ",
+      "wrong": ["hỗ trợ", "gìn giữ", "mang"],
+      "hint": "Điều này có nghĩa là giữ cho tiếp tục hoặc duy trì",
+      "explanation": "Đức Chúa Trời mời chúng ta trao cho Ngài những lo lắng và hứa sẽ nâng đỡ chúng ta.",
+      "full_verse": "Hãy trao gánh nặng ngươi cho Đức Giê-hô-va, Ngài sẽ nâng đỡ ngươi; Ngài sẽ chẳng hề cho người công bình bị rúng động.",
+      "verse_ref": "Thi Thiên 55:22"
+    },
+    {
+      "id": "q_psalms_023",
+      "question": "Điền vào chỗ trống: 'Vì Giê-hô-va Đức Chúa Trời là mặt trời và là cái khiên; Đức Giê-hô-va sẽ ban ân điển và sự vinh hiển; Ngài sẽ chẳng từ chối điều tốt gì cho ai ăn ở cách _____.'",
+      "correct": "thanh liêm",
+      "wrong": ["công bình", "trung tín", "thánh"],
+      "hint": "Điều này có nghĩa là không có lỗi",
+      "explanation": "Đức Chúa Trời rộng rãi ban cho những ai sống với sự liêm chính.",
+      "full_verse": "Vì Giê-hô-va Đức Chúa Trời là mặt trời và là cái khiên; Đức Giê-hô-va sẽ ban ân điển và sự vinh hiển; Ngài sẽ chẳng từ chối điều tốt gì cho ai ăn ở cách thanh liêm.",
+      "verse_ref": "Thi Thiên 84:11"
+    },
+    {
+      "id": "q_psalms_024",
+      "question": "Điền vào chỗ trống: 'Vì Ngài sẽ ban lệnh cho các thiên sứ Ngài gìn giữ ngươi trong các _____ ngươi.'",
+      "correct": "đường",
+      "wrong": ["nẻo", "bước", "ngày"],
+      "hint": "Điều này chỉ những hướng đi hoặc hoạt động của bạn",
+      "explanation": "Đức Chúa Trời sai các thiên sứ bảo vệ dân Ngài.",
+      "full_verse": "Vì Ngài sẽ ban lệnh cho các thiên sứ Ngài gìn giữ ngươi trong các đường ngươi.",
+      "verse_ref": "Thi Thiên 91:11"
+    },
+    {
+      "id": "q_psalms_025",
+      "question": "Điền vào chỗ trống: 'Đức Giê-hô-va ở gần mọi người cầu khẩn Ngài, tức ở gần mọi người có lòng thành _____ mà cầu khẩn Ngài.'",
+      "correct": "thật",
+      "wrong": ["đức tin", "tinh thần", "thành tâm"],
+      "hint": "Điều này có nghĩa là chân thật hoặc thành thật",
+      "explanation": "Đức Chúa Trời đến gần những ai chân thành tìm kiếm Ngài.",
+      "full_verse": "Đức Giê-hô-va ở gần mọi người cầu khẩn Ngài, tức ở gần mọi người có lòng thành thật mà cầu khẩn Ngài.",
+      "verse_ref": "Thi Thiên 145:18"
+    },
+    {
+      "id": "q_psalms_026",
+      "question": "Điền vào chỗ trống: 'Khi tôi nhìn xem các từng trời là công việc của ngón tay Chúa, mặt trăng và các ngôi sao mà Chúa đã đặt, loài người là gì mà Chúa _____ đến? Con loài người là chi mà Chúa thăm viếng nó?'",
+      "correct": "nhớ",
+      "wrong": ["biết", "nghĩ", "ý thức"],
+      "hint": "Điều này có nghĩa là nhận biết hoặc nghĩ đến",
+      "explanation": "Dù vũ trụ rộng lớn, Đức Chúa Trời vẫn quan tâm sâu sắc đến loài người.",
+      "full_verse": "Khi tôi nhìn xem các từng trời là công việc của ngón tay Chúa, mặt trăng và các ngôi sao mà Chúa đã đặt, loài người là gì mà Chúa nhớ đến? Con loài người là chi mà Chúa thăm viếng nó?",
+      "verse_ref": "Thi Thiên 8:3-4"
+    },
+    {
+      "id": "q_psalms_027",
+      "question": "Điền vào chỗ trống: 'Chúa sẽ chỉ cho tôi biết con đường sự sống; trước mặt Chúa có trọn sự khoái lạc, tại bên _____ Chúa có điều vui sướng vô cùng.'",
+      "correct": "hữu",
+      "wrong": ["bên", "ngai", "nơi"],
+      "hint": "Đây là bộ phận cơ thể tượng trưng cho vị trí vinh dự",
+      "explanation": "Sự hiện diện của Đức Chúa Trời mang lại niềm vui trọn vẹn và phước lành đời đời.",
+      "full_verse": "Chúa sẽ chỉ cho tôi biết con đường sự sống; trước mặt Chúa có trọn sự khoái lạc, tại bên hữu Chúa có điều vui sướng vô cùng.",
+      "verse_ref": "Thi Thiên 16:11"
+    },
+    {
+      "id": "q_psalms_028",
+      "question": "Điền vào chỗ trống: 'Nguyện lời nói của miệng tôi, sự suy gẫm của lòng tôi được đẹp ý Chúa, là hòn đá tôi, và là Đấng _____ tôi.'",
+      "correct": "cứu chuộc",
+      "wrong": ["cứu rỗi", "giải cứu", "nơi nương náu"],
+      "hint": "Đây là Đấng cứu chuộc bằng cách trả giá",
+      "explanation": "Chúng ta mong muốn cả lời nói và suy nghĩ của chúng ta đều tôn vinh Đức Chúa Trời.",
+      "full_verse": "Nguyện lời nói của miệng tôi, sự suy gẫm của lòng tôi được đẹp ý Chúa, là hòn đá tôi, và là Đấng cứu chuộc tôi.",
+      "verse_ref": "Thi Thiên 19:14"
+    },
+    {
+      "id": "q_psalms_029",
+      "question": "Điền vào chỗ trống: 'Đất và muôn vật trên đất, thế gian và những kẻ ở trong đó, đều thuộc về Đức _____.'",
+      "correct": "Giê-hô-va",
+      "wrong": ["Chúa Trời", "Đấng Chí Cao", "Chúa"],
+      "hint": "Điều này có nghĩa là cư trú hoặc tồn tại",
+      "explanation": "Đức Chúa Trời sở hữu mọi vật trong tạo vật, bao gồm tất cả mọi người.",
+      "full_verse": "Đất và muôn vật trên đất, thế gian và những kẻ ở trong đó, đều thuộc về Đức Giê-hô-va.",
+      "verse_ref": "Thi Thiên 24:1"
+    },
+    {
+      "id": "q_psalms_030",
+      "question": "Điền vào chỗ trống: 'Ta sẽ dạy dỗ ngươi, chỉ cho ngươi con đường phải đi; mắt ta sẽ _____ ngươi và khuyên bảo ngươi.'",
+      "correct": "chăm chú",
+      "wrong": ["hướng dẫn", "xem", "dẫn dắt"],
+      "hint": "Điều này có nghĩa là đưa ra lời khuyên",
+      "explanation": "Đức Chúa Trời hứa sẽ đích thân hướng dẫn và khuyên bảo chúng ta.",
+      "full_verse": "Ta sẽ dạy dỗ ngươi, chỉ cho ngươi con đường phải đi; mắt ta sẽ chăm chú ngươi và khuyên bảo ngươi.",
+      "verse_ref": "Thi Thiên 32:8"
+    },
+    {
+      "id": "q_psalms_031",
+      "question": "Điền vào chỗ trống: 'Đức Giê-hô-va định liệu các bước của người, và Ngài thích đường lối người; dầu người té ngã, cũng không nằm sải dài, vì Đức Giê-hô-va lấy _____ Ngài nâng đỡ người.'",
+      "correct": "tay",
+      "wrong": ["cánh tay", "quyền năng", "sức mạnh"],
+      "hint": "Bộ phận cơ thể này dùng để giữ ai đó",
+      "explanation": "Đức Chúa Trời vững chãi những ai vui thích nơi Ngài, ngay cả khi họ vấp ngã.",
+      "full_verse": "Đức Giê-hô-va định liệu các bước của người, và Ngài thích đường lối người; dầu người té ngã, cũng không nằm sải dài, vì Đức Giê-hô-va lấy tay Ngài nâng đỡ người.",
+      "verse_ref": "Thi Thiên 37:23"
+    },
+    {
+      "id": "q_psalms_032",
+      "question": "Điền vào chỗ trống: 'Tôi đã nhịn nhục trông đợi Đức Giê-hô-va, Ngài nghiêng qua nghe tiếng kêu cầu của tôi. Ngài cũng đem tôi lên khỏi hầm gớm ghê, khỏi vũng _____; Ngài đặt chân tôi trên hòn đá, và làm cho bước tôi vững bền.'",
+      "correct": "bùn",
+      "wrong": ["đất sét", "đất", "bụi"],
+      "hint": "Đây là bùn sâu, ướt",
+      "explanation": "Đức Chúa Trời giải cứu chúng ta khỏi những tình huống tuyệt vọng và ban cho chúng ta sự ổn định.",
+      "full_verse": "Tôi đã nhịn nhục trông đợi Đức Giê-hô-va, Ngài nghiêng qua nghe tiếng kêu cầu của tôi. Ngài cũng đem tôi lên khỏi hầm gớm ghê, khỏi vũng bùn; Ngài đặt chân tôi trên hòn đá, và làm cho bước tôi vững bền.",
+      "verse_ref": "Thi Thiên 40:1-2"
+    },
+    {
+      "id": "q_psalms_033",
+      "question": "Điền vào chỗ trống: 'Của lễ đẹp lòng Đức Chúa Trời, ấy là tâm thần đau thương: Đức Chúa Trời ôi! lòng đau thương thống _____, Chúa không khinh dể đâu.'",
+      "correct": "hối",
+      "wrong": ["khiêm nhường", "ăn năn", "buồn bã"],
+      "hint": "Điều này có nghĩa là cảm thấy hối hận về việc làm sai",
+      "explanation": "Đức Chúa Trời quý trọng sự ăn năn chân thành hơn các nghi lễ tôn giáo bề ngoài.",
+      "full_verse": "Của lễ đẹp lòng Đức Chúa Trời, ấy là tâm thần đau thương: Đức Chúa Trời ôi! lòng đau thương thống hối, Chúa không khinh dể đâu.",
+      "verse_ref": "Thi Thiên 51:17"
+    },
+    {
+      "id": "q_psalms_034",
+      "question": "Điền vào chỗ trống: 'Khi tôi _____, tôi để lòng tin cậy nơi Chúa.'",
+      "correct": "sợ hãi",
+      "wrong": ["yếu đuối", "lo lắng", "bối rối"],
+      "hint": "Đây là cảm xúc cảm thấy khi đối mặt với nguy hiểm",
+      "explanation": "Sự sợ hãi nên thúc đẩy chúng ta tin cậy Đức Chúa Trời hơn.",
+      "full_verse": "Khi tôi sợ hãi, tôi để lòng tin cậy nơi Chúa.",
+      "verse_ref": "Thi Thiên 56:3"
+    },
+    {
+      "id": "q_psalms_035",
+      "question": "Điền vào chỗ trống: 'Linh hồn tôi nghỉ an nơi một mình Đức Chúa Trời; sự cứu rỗi tôi từ nơi Ngài mà đến. Chỉ một mình Ngài là hòn đá tôi, sự _____ tôi, và là đồn lũy tôi; tôi sẽ chẳng bị rúng động.'",
+      "correct": "cứu rỗi",
+      "wrong": ["nơi nương náu", "thuẫn đỡ", "sức mạnh"],
+      "hint": "Đây là sự giải cứu khỏi nguy hiểm",
+      "explanation": "Chỉ Đức Chúa Trời cung cấp sự yên nghỉ thật và an ninh cho linh hồn chúng ta.",
+      "full_verse": "Linh hồn tôi nghỉ an nơi một mình Đức Chúa Trời; sự cứu rỗi tôi từ nơi Ngài mà đến. Chỉ một mình Ngài là hòn đá tôi, sự cứu rỗi tôi, và là đồn lũy tôi; tôi sẽ chẳng bị rúng động.",
+      "verse_ref": "Thi Thiên 62:1-2"
+    },
+    {
+      "id": "q_psalms_036",
+      "question": "Điền vào chỗ trống: 'Thịt và lòng tôi bị tiêu hao; nhưng Đức Chúa Trời là sức lực của lòng tôi, và là _____ của tôi đến đời đời.'",
+      "correct": "phần",
+      "wrong": ["hy vọng", "nơi nương náu", "cơ nghiệp"],
+      "hint": "Điều này có nghĩa là phần hoặc di sản của ai đó",
+      "explanation": "Ngay cả khi thân thể chúng ta suy yếu, Đức Chúa Trời vẫn là cơ nghiệp đời đời của chúng ta.",
+      "full_verse": "Thịt và lòng tôi bị tiêu hao; nhưng Đức Chúa Trời là sức lực của lòng tôi, và là phần của tôi đến đời đời.",
+      "verse_ref": "Thi Thiên 73:26"
+    },
+    {
+      "id": "q_psalms_037",
+      "question": "Điền vào chỗ trống: 'Chúa ơn, lành hay tha thứ, ban sự nhân từ dư dật cho mọi kẻ _____ cùng Chúa.'",
+      "correct": "cầu khẩn",
+      "wrong": ["đến", "cầu nguyện", "quay về"],
+      "hint": "Điều này có nghĩa là kêu cầu hoặc nài xin",
+      "explanation": "Tình yêu và sự tha thứ của Đức Chúa Trời dành cho tất cả những ai tìm kiếm Ngài.",
+      "full_verse": "Chúa ơn, lành hay tha thứ, ban sự nhân từ dư dật cho mọi kẻ cầu khẩn cùng Chúa.",
+      "verse_ref": "Thi Thiên 86:5"
+    },
+    {
+      "id": "q_psalms_038",
+      "question": "Điền vào chỗ trống: 'Cầu xin Chúa dạy chúng tôi biết đếm các ngày chúng tôi, hầu cho chúng tôi được lòng _____.'",
+      "correct": "khôn ngoan",
+      "wrong": ["thông sáng", "tri thức", "sáng suốt"],
+      "hint": "Đây là phẩm chất của sự khôn ngoan",
+      "explanation": "Nhận biết cuộc sống ngắn ngủi giúp chúng ta sống khôn ngoan.",
+      "full_verse": "Cầu xin Chúa dạy chúng tôi biết đếm các ngày chúng tôi, hầu cho chúng tôi được lòng khôn ngoan.",
+      "verse_ref": "Thi Thiên 90:12"
+    },
+    {
+      "id": "q_psalms_039",
+      "question": "Điền vào chỗ trống: 'Hãy hát cho Đức Giê-hô-va một bài ca _____! Hỡi cả trái đất, hãy hát xướng cho Đức Giê-hô-va.'",
+      "correct": "mới",
+      "wrong": ["ngợi khen", "thánh ca", "quốc ca"],
+      "hint": "Đây là sáng tác âm nhạc có lời",
+      "explanation": "Chúng ta được kêu gọi liên tục dâng lời ngợi khen mới cho Đức Chúa Trời.",
+      "full_verse": "Hãy hát cho Đức Giê-hô-va một bài ca mới! Hỡi cả trái đất, hãy hát xướng cho Đức Giê-hô-va.",
+      "verse_ref": "Thi Thiên 96:1"
+    },
+    {
+      "id": "q_psalms_040",
+      "question": "Điền vào chỗ trống: 'Phương đông xa cách phương tây bao nhiêu, thì Ngài đã đem sự vi phạm chúng tôi _____ khỏi chúng tôi bấy nhiêu.'",
+      "correct": "cách xa",
+      "wrong": ["tội", "gian ác", "xúc phạm"],
+      "hint": "Đây là từ khác chỉ tội lỗi hoặc vi phạm",
+      "explanation": "Đức Chúa Trời hoàn toàn cất bỏ tội lỗi của chúng ta.",
+      "full_verse": "Phương đông xa cách phương tây bao nhiêu, thì Ngài đã đem sự vi phạm chúng tôi cách xa khỏi chúng tôi bấy nhiêu.",
+      "verse_ref": "Thi Thiên 103:12"
+    },
+    {
+      "id": "q_psalms_041",
+      "question": "Điền vào chỗ trống: 'Hãy cảm tạ Đức Giê-hô-va, vì Ngài là thiện; sự nhân từ Ngài còn đến _____.'",
+      "correct": "đời đời",
+      "wrong": ["luôn luôn", "vĩnh cửu", "mãi mãi"],
+      "hint": "Điều này có nghĩa là cho đến muôn đời không kết thúc",
+      "explanation": "Tình yêu của Đức Chúa Trời là đời đời và không thay đổi.",
+      "full_verse": "Hãy cảm tạ Đức Giê-hô-va, vì Ngài là thiện; sự nhân từ Ngài còn đến đời đời.",
+      "verse_ref": "Thi Thiên 107:1"
+    },
+    {
+      "id": "q_psalms_042",
+      "question": "Điền vào chỗ trống: 'Tôi đã giấu lời Chúa trong lòng tôi, để tôi không _____ cùng Chúa.'",
+      "correct": "phạm tội",
+      "wrong": ["phản nghịch", "quay đi", "lạc lối"],
+      "hint": "Đây là việc làm sai với Đức Chúa Trời",
+      "explanation": "Ghi nhớ Kinh Thánh giúp chúng ta chống lại sự cám dỗ.",
+      "full_verse": "Tôi đã giấu lời Chúa trong lòng tôi, để tôi không phạm tội cùng Chúa.",
+      "verse_ref": "Thi Thiên 119:11"
+    },
+    {
+      "id": "q_psalms_043",
+      "question": "Điền vào chỗ trống: 'Kìa, con cái là cơ nghiệp bởi Đức Giê-hô-va mà ra; bông trái của tử cung là _____ Ngài ban cho.'",
+      "correct": "phần thưởng",
+      "wrong": ["quà tặng", "phước", "châu báu"],
+      "hint": "Đây là điều nhận được cho thành tựu",
+      "explanation": "Con cái là món quà và phước lành quý giá từ Đức Chúa Trời.",
+      "full_verse": "Kìa, con cái là cơ nghiệp bởi Đức Giê-hô-va mà ra; bông trái của tử cung là phần thưởng Ngài ban cho.",
+      "verse_ref": "Thi Thiên 127:3"
+    },
+    {
+      "id": "q_psalms_044",
+      "question": "Điền vào chỗ trống: 'Kìa, anh em ở _____ với nhau thật tốt đẹp thay!'",
+      "correct": "chung",
+      "wrong": ["bình an", "hòa thuận", "yêu thương"],
+      "hint": "Điều này có nghĩa là sự đoàn kết hoặc hợp nhất",
+      "explanation": "Sự hiệp một giữa các tín đồ làm đẹp lòng Đức Chúa Trời.",
+      "full_verse": "Kìa, anh em ở chung với nhau thật tốt đẹp thay!",
+      "verse_ref": "Thi Thiên 133:1"
+    },
+    {
+      "id": "q_psalms_045",
+      "question": "Điền vào chỗ trống: 'Đức Chúa Trời ơi, xin hãy tra xét tôi, và biết lòng tôi; hãy thử thách tôi, và biết tư tưởng tôi. Xin xem thử tôi có lối ác nào chăng, xin dắt tôi vào con đường _____.'",
+      "correct": "đời đời",
+      "wrong": ["vĩnh cửu", "công bình", "thánh"],
+      "hint": "Điều này có nghĩa là tồn tại mãi mãi",
+      "explanation": "Chúng ta mời Đức Chúa Trời xem xét chúng ta và dẫn dắt chúng ta đến sự sống đời đời.",
+      "full_verse": "Đức Chúa Trời ơi, xin hãy tra xét tôi, và biết lòng tôi; hãy thử thách tôi, và biết tư tưởng tôi. Xin xem thử tôi có lối ác nào chăng, xin dắt tôi vào con đường đời đời.",
+      "verse_ref": "Thi Thiên 139:23-24"
+    },
+    {
+      "id": "q_psalms_046",
+      "question": "Điền vào chỗ trống: 'Buổi sáng xin cho tôi nghe sự nhân từ Chúa, vì tôi để lòng _____ nơi Chúa; xin cho tôi biết con đường phải đi, vì linh hồn tôi hướng về Chúa.'",
+      "correct": "tin cậy",
+      "wrong": ["hy vọng", "đức tin", "lòng"],
+      "hint": "Đây là sự tin tưởng vào ai đó",
+      "explanation": "Chúng ta tìm kiếm sự hướng dẫn và tình yêu của Đức Chúa Trời mỗi buổi sáng.",
+      "full_verse": "Buổi sáng xin cho tôi nghe sự nhân từ Chúa, vì tôi để lòng tin cậy nơi Chúa; xin cho tôi biết con đường phải đi, vì linh hồn tôi hướng về Chúa.",
+      "verse_ref": "Thi Thiên 143:8"
+    },
+    {
+      "id": "q_psalms_047",
+      "question": "Điền vào chỗ trống: 'Ngài chữa lành người có lòng đau thương, và buộc _____ họ lại.'",
+      "correct": "vết thương",
+      "wrong": ["lòng", "đau khổ", "nỗi buồn"],
+      "hint": "Đây là những chỗ bị thương cần được chữa lành",
+      "explanation": "Đức Chúa Trời mang lại sự chữa lành cho những ai bị tổn thương về cảm xúc.",
+      "full_verse": "Ngài chữa lành người có lòng đau thương, và buộc vết thương họ lại.",
+      "verse_ref": "Thi Thiên 147:3"
+    },
+    {
+      "id": "q_psalms_048",
+      "question": "Điền vào chỗ trống: 'Ngài khiến tôi an nghỉ nơi đồng cỏ xanh tươi, dẫn tôi đến mé nước bình tịnh; Ngài bổ lại _____ tôi.'",
+      "correct": "linh hồn",
+      "wrong": ["tinh thần", "lòng", "trí"],
+      "hint": "Đây là phần thuộc linh của một người",
+      "explanation": "Đức Chúa Trời cung cấp sự yên nghỉ và phục hồi cho phần sâu thẳm nhất của chúng ta.",
+      "full_verse": "Ngài khiến tôi an nghỉ nơi đồng cỏ xanh tươi, dẫn tôi đến mé nước bình tịnh; Ngài bổ lại linh hồn tôi.",
+      "verse_ref": "Thi Thiên 23:2-3"
+    },
+    {
+      "id": "q_psalms_049",
+      "question": "Điền vào chỗ trống: 'Vì sự giận Ngài chỉ trong một lúc, còn ơn Ngài có trọn đời; sự khóc lóc đến trọ ban đêm, nhưng buổi _____ bèn có sự vui mừng.'",
+      "correct": "sáng",
+      "wrong": ["bình minh", "ngày", "mặt trời mọc"],
+      "hint": "Đây là khi một ngày mới bắt đầu",
+      "explanation": "Ơn huệ của Đức Chúa Trời vượt xa kỷ luật của Ngài, và niềm vui theo sau nỗi buồn.",
+      "full_verse": "Vì sự giận Ngài chỉ trong một lúc, còn ơn Ngài có trọn đời; sự khóc lóc đến trọ ban đêm, nhưng buổi sáng bèn có sự vui mừng.",
+      "verse_ref": "Thi Thiên 30:5"
+    },
+    {
+      "id": "q_psalms_050",
+      "question": "Điền vào chỗ trống: 'Vì Đức Giê-hô-va là thiện; sự nhân từ Ngài hằng có mãi mãi, sự thành tín Ngài còn đời đời _____.'",
+      "correct": "vô cùng",
+      "wrong": ["thời đại", "thời gian", "vĩnh cửu"],
+      "hint": "Điều này chỉ những nhóm người kế tiếp qua thời gian",
+      "explanation": "Sự thành tín của Đức Chúa Trời kéo dài đến mọi thế hệ.",
+      "full_verse": "Vì Đức Giê-hô-va là thiện; sự nhân từ Ngài hằng có mãi mãi, sự thành tín Ngài còn đời đời vô cùng.",
+      "verse_ref": "Thi Thiên 100:5"
+    }
+  ]
+}

@@ -1,1 +1,452 @@
-{}
+{
+  "q_hope_001": {
+    "question": "Ergänze die Lücke: 'Der Gott der Hoffnung aber erfülle euch mit aller Freude und Frieden im Glauben, dass ihr immer reicher werdet an Hoffnung durch die Kraft des Heiligen _____.'",
+    "correct": "Geistes",
+    "wrong": ["Gottes", "Lebens", "Lichts"],
+    "hint": "Die dritte Person der Dreieinigkeit",
+    "explanation": "Paulus betet, dass Gläubige mit Freude, Frieden und überfließender Hoffnung durch den Heiligen Geist erfüllt werden.",
+    "full_verse": "Der Gott der Hoffnung aber erfülle euch mit aller Freude und Frieden im Glauben, dass ihr immer reicher werdet an Hoffnung durch die Kraft des Heiligen Geistes.",
+    "verse_ref": "Römer 15:13"
+  },
+  "q_hope_002": {
+    "question": "Ergänze die Lücke: 'Denn ich weiß wohl, was ich für Gedanken über euch habe, spricht der HERR: Gedanken des Friedens und nicht des Leides, dass ich euch gebe Zukunft und _____.'",
+    "correct": "Hoffnung",
+    "wrong": ["Segen", "Frieden", "Leben"],
+    "hint": "Positive Erwartung für die Zukunft",
+    "explanation": "Gott versichert seinem Volk, dass seine Pläne Hoffnung und eine strahlende Zukunft beinhalten.",
+    "full_verse": "Denn ich weiß wohl, was ich für Gedanken über euch habe, spricht der HERR: Gedanken des Friedens und nicht des Leides, dass ich euch gebe Zukunft und Hoffnung.",
+    "verse_ref": "Jeremia 29:11"
+  },
+  "q_hope_003": {
+    "question": "Ergänze die Lücke: 'Denn wir sind gerettet auf Hoffnung hin. Die Hoffnung aber, die man sieht, ist nicht Hoffnung; denn wie kann man auf das hoffen, was man _____?'",
+    "correct": "sieht",
+    "wrong": ["hat", "kennt", "weiß"],
+    "hint": "Etwas wahrnehmen",
+    "explanation": "Paulus erklärt, dass Hoffnung das Warten auf das beinhaltet, was wir noch nicht besitzen.",
+    "full_verse": "Denn wir sind gerettet auf Hoffnung hin. Die Hoffnung aber, die man sieht, ist nicht Hoffnung; denn wie kann man auf das hoffen, was man sieht?",
+    "verse_ref": "Römer 8:24"
+  },
+  "q_hope_004": {
+    "question": "Ergänze die Lücke: 'Diese Hoffnung haben wir als einen sicheren und festen Anker der _____.'",
+    "correct": "Seele",
+    "wrong": ["Hoffnung", "Glaubens", "Lebens"],
+    "hint": "Der innere Teil des Menschen",
+    "explanation": "Der Verfasser des Hebräerbriefs beschreibt Hoffnung als Anker, der unsere Seelen fest hält.",
+    "full_verse": "Diese Hoffnung haben wir als einen sicheren und festen Anker der Seele, der hineinreicht in das Innere hinter dem Vorhang.",
+    "verse_ref": "Hebräer 6:19"
+  },
+  "q_hope_005": {
+    "question": "Ergänze die Lücke: 'Gelobt sei Gott, der Vater unseres Herrn Jesus Christus, der uns nach seiner großen Barmherzigkeit wiedergeboren hat zu einer lebendigen _____ durch die Auferstehung Jesu Christi von den Toten.'",
+    "correct": "Hoffnung",
+    "wrong": ["Glaube", "Leben", "Verheißung"],
+    "hint": "Diese Hoffnung ist lebendig",
+    "explanation": "Petrus preist Gott dafür, dass er Gläubigen eine lebendige Hoffnung durch Christi Auferstehung gegeben hat.",
+    "full_verse": "Gelobt sei Gott, der Vater unseres Herrn Jesus Christus, der uns nach seiner großen Barmherzigkeit wiedergeboren hat zu einer lebendigen Hoffnung durch die Auferstehung Jesu Christi von den Toten.",
+    "verse_ref": "1. Petrus 1:3"
+  },
+  "q_hope_006": {
+    "question": "Ergänze die Lücke: 'Was betrübst du dich, meine Seele, und bist so unruhig in mir? Harre auf Gott; denn ich werde ihm noch danken, dass er meines Angesichts Hilfe und mein _____ ist.'",
+    "correct": "Gott",
+    "wrong": ["Herr", "Retter", "König"],
+    "hint": "Zukünftige Anbetung Gottes",
+    "explanation": "Der Psalmist ermutigt seine Seele, trotz gegenwärtiger Entmutigung auf Gott zu hoffen.",
+    "full_verse": "Was betrübst du dich, meine Seele, und bist so unruhig in mir? Harre auf Gott; denn ich werde ihm noch danken, dass er meines Angesichts Hilfe und mein Gott ist.",
+    "verse_ref": "Psalm 42:12"
+  },
+  "q_hope_007": {
+    "question": "Ergänze die Lücke: 'Aber die auf den HERRN harren, kriegen neue Kraft, dass sie auffahren mit Flügeln wie _____.'",
+    "correct": "Adler",
+    "wrong": ["Engel", "Vögel", "Tauben"],
+    "hint": "Ein majestätischer Vogel",
+    "explanation": "Jesaja verheißt, dass die, die auf Gott hoffen, übernatürlich gestärkt werden.",
+    "full_verse": "Aber die auf den HERRN harren, kriegen neue Kraft, dass sie auffahren mit Flügeln wie Adler, dass sie laufen und nicht matt werden, dass sie wandeln und nicht müde werden.",
+    "verse_ref": "Jesaja 40:31"
+  },
+  "q_hope_008": {
+    "question": "Ergänze die Lücke: 'Der HERR ist mein Teil, spricht meine Seele; darum will ich auf ihn _____.'",
+    "correct": "hoffen",
+    "wrong": ["warten", "vertrauen", "bauen"],
+    "hint": "Mit Geduld erwarten",
+    "explanation": "Jeremia erklärt, dass er hoffnungsvoll auf Gott warten wird, weil Gott sein Erbe ist.",
+    "full_verse": "Der HERR ist mein Teil, spricht meine Seele; darum will ich auf ihn hoffen.",
+    "verse_ref": "Klagelieder 3:24"
+  },
+  "q_hope_009": {
+    "question": "Ergänze die Lücke: 'Seid getrost und unverzagt alle, die ihr des HERRN _____!'",
+    "correct": "harret",
+    "wrong": ["vertraut", "glaubt", "liebt"],
+    "hint": "Auf Gott warten",
+    "explanation": "David ermutigt die, die auf Gott hoffen, stark und mutig zu sein.",
+    "full_verse": "Seid getrost und unverzagt alle, die ihr des HERRN harret!",
+    "verse_ref": "Psalm 31:25"
+  },
+  "q_hope_010": {
+    "question": "Ergänze die Lücke: 'Hoffnung aber lässt nicht zuschanden werden; denn die Liebe Gottes ist ausgegossen in unsre _____ durch den Heiligen Geist, der uns gegeben ist.'",
+    "correct": "Herzen",
+    "wrong": ["Seelen", "Leben", "Gedanken"],
+    "hint": "Das Zentrum unseres Wesens",
+    "explanation": "Paulus versichert, dass Hoffnung auf Gott niemals enttäuschen wird wegen seiner Liebe in uns.",
+    "full_verse": "Hoffnung aber lässt nicht zuschanden werden; denn die Liebe Gottes ist ausgegossen in unsre Herzen durch den Heiligen Geist, der uns gegeben ist.",
+    "verse_ref": "Römer 5:5"
+  },
+  "q_hope_011": {
+    "question": "Ergänze die Lücke: 'Ihnen wollte Gott kundtun, was der herrliche Reichtum dieses Geheimnisses unter den Heiden ist, nämlich Christus in euch, die Hoffnung der _____.'",
+    "correct": "Herrlichkeit",
+    "wrong": ["Rettung", "Himmels", "Lebens"],
+    "hint": "Zukünftiger Glanz mit Gott",
+    "explanation": "Paulus offenbart, dass Christus, der in Gläubigen wohnt, die Hoffnung auf zukünftige Herrlichkeit ist.",
+    "full_verse": "Ihnen wollte Gott kundtun, was der herrliche Reichtum dieses Geheimnisses unter den Heiden ist, nämlich Christus in euch, die Hoffnung der Herrlichkeit.",
+    "verse_ref": "Kolosser 1:27"
+  },
+  "q_hope_012": {
+    "question": "Ergänze die Lücke: 'Und warten auf die selige Hoffnung und Erscheinung der Herrlichkeit des großen Gottes und unseres Heilands Jesus _____.'",
+    "correct": "Christus",
+    "wrong": ["Herr", "König", "Messias"],
+    "hint": "Jesu Titel",
+    "explanation": "Paulus beschreibt Christi Wiederkunft als die selige Hoffnung, die Gläubige sehnlich erwarten.",
+    "full_verse": "Und warten auf die selige Hoffnung und Erscheinung der Herrlichkeit des großen Gottes und unseres Heilands Jesus Christus.",
+    "verse_ref": "Titus 2:13"
+  },
+  "q_hope_013": {
+    "question": "Ergänze die Lücke: 'Wir wollen euch aber, Brüder und Schwestern, nicht im Ungewissen lassen über die, die da schlafen, damit ihr nicht traurig seid wie die andern, die keine _____ haben.'",
+    "correct": "Hoffnung",
+    "wrong": ["Glaube", "Frieden", "Trost"],
+    "hint": "Gläubige haben dies für die Zukunft",
+    "explanation": "Paulus tröstet Gläubige, dass sie Hoffnung haben bezüglich derer, die in Christus gestorben sind.",
+    "full_verse": "Wir wollen euch aber, Brüder und Schwestern, nicht im Ungewissen lassen über die, die da schlafen, damit ihr nicht traurig seid wie die andern, die keine Hoffnung haben.",
+    "verse_ref": "1. Thessalonicher 4:13"
+  },
+  "q_hope_014": {
+    "question": "Ergänze die Lücke: 'Und nun, Herr, wes soll ich mich trösten? Ich hoffe auf _____!'",
+    "correct": "dich",
+    "wrong": ["Gott", "den Herrn", "Himmel"],
+    "hint": "David wendet sich direkt an Gott",
+    "explanation": "David erklärt, dass seine Hoffnung vollständig auf Gott gesetzt ist.",
+    "full_verse": "Und nun, Herr, wes soll ich mich trösten? Ich hoffe auf dich!",
+    "verse_ref": "Psalm 39:8"
+  },
+  "q_hope_015": {
+    "question": "Ergänze die Lücke: 'Aber sei nur stille zu Gott, meine Seele; denn er ist meine _____.'",
+    "correct": "Hoffnung",
+    "wrong": ["Rettung", "Zuflucht", "Stärke"],
+    "hint": "Erwartung für die Zukunft",
+    "explanation": "David ermutigt seine Seele, in Gott als Quelle aller Hoffnung zu ruhen.",
+    "full_verse": "Aber sei nur stille zu Gott, meine Seele; denn er ist meine Hoffnung.",
+    "verse_ref": "Psalm 62:6"
+  },
+  "q_hope_016": {
+    "question": "Ergänze die Lücke: 'Denn du bist meine Zuversicht, Herr, HERR, meine Hoffnung von meiner _____ an.'",
+    "correct": "Jugend",
+    "wrong": ["Geburt", "Kindheit", "Anfang"],
+    "hint": "Frühe Lebensjahre",
+    "explanation": "Der Psalmist bezeugt, dass Gott seine Hoffnung seit früher Jugend war.",
+    "full_verse": "Denn du bist meine Zuversicht, Herr, HERR, meine Hoffnung von meiner Jugend an.",
+    "verse_ref": "Psalm 71:5"
+  },
+  "q_hope_017": {
+    "question": "Ergänze die Lücke: 'Du bist mein Schutz und mein Schild; ich hoffe auf dein _____.'",
+    "correct": "Wort",
+    "wrong": ["Namen", "Verheißung", "Liebe"],
+    "hint": "Gottes gesprochene Wahrheit",
+    "explanation": "Der Psalmist setzt seine Hoffnung auf Gottes Wort als Quelle des Schutzes.",
+    "full_verse": "Du bist mein Schutz und mein Schild; ich hoffe auf dein Wort.",
+    "verse_ref": "Psalm 119:114"
+  },
+  "q_hope_018": {
+    "question": "Ergänze die Lücke: 'Ich harre des HERRN, meine Seele harret, und ich hoffe auf sein _____.'",
+    "correct": "Wort",
+    "wrong": ["Hilfe", "Gnade", "Heil"],
+    "hint": "Gottes Verheißung",
+    "explanation": "Der Psalmist drückt vollständige Abhängigkeit von Gottes Wort für Hoffnung aus.",
+    "full_verse": "Ich harre des HERRN, meine Seele harret, und ich hoffe auf sein Wort.",
+    "verse_ref": "Psalm 130:5"
+  },
+  "q_hope_019": {
+    "question": "Ergänze die Lücke: 'Wohl dem, dessen Hilfe der Gott Jakobs ist, dessen Hoffnung auf dem HERRN, seinem _____, steht.'",
+    "correct": "Gott",
+    "wrong": ["Herrn", "König", "Retter"],
+    "hint": "Ihre Gottheit",
+    "explanation": "Der Psalmist erklärt Segen für die, die auf den HERRN, ihren Gott, hoffen.",
+    "full_verse": "Wohl dem, dessen Hilfe der Gott Jakobs ist, dessen Hoffnung auf dem HERRN, seinem Gott, steht.",
+    "verse_ref": "Psalm 146:5"
+  },
+  "q_hope_020": {
+    "question": "Ergänze die Lücke: 'Hoffnung, die sich verzögert, ängstet das Herz; wenn aber kommt, was man begehrt, das ist ein Baum des _____.'",
+    "correct": "Lebens",
+    "wrong": ["Freude", "Hoffnung", "Friedens"],
+    "hint": "Etwas, das Vitalität gibt",
+    "explanation": "Salomo stellt verzögerte Hoffnung erfülltem Verlangen gegenüber, das Leben bringt.",
+    "full_verse": "Hoffnung, die sich verzögert, ängstet das Herz; wenn aber kommt, was man begehrt, das ist ein Baum des Lebens.",
+    "verse_ref": "Sprüche 13:12"
+  },
+  "q_hope_021": {
+    "question": "Ergänze die Lücke: 'Zu der Zeit wird man sagen: Siehe, das ist unser Gott, auf den wir hofften, dass er uns helfe. Das ist der HERR, auf den wir hofften; lasst uns jubeln und fröhlich sein über sein _____.'",
+    "correct": "Heil",
+    "wrong": ["Liebe", "Güte", "Segen"],
+    "hint": "Gottes Rettung",
+    "explanation": "Jesaja prophezeit einen Tag, an dem Gottes Volk seine Rettung feiern wird.",
+    "full_verse": "Zu der Zeit wird man sagen: Siehe, das ist unser Gott, auf den wir hofften, dass er uns helfe. Das ist der HERR, auf den wir hofften; lasst uns jubeln und fröhlich sein über sein Heil.",
+    "verse_ref": "Jesaja 25:9"
+  },
+  "q_hope_022": {
+    "question": "Ergänze die Lücke: 'Ich aber will auf den HERRN schauen und harren auf den Gott meines Heils; mein Gott wird mich _____.'",
+    "correct": "erhören",
+    "wrong": ["helfen", "retten", "bewahren"],
+    "hint": "Gott antwortet auf Gebet",
+    "explanation": "Micha drückt zuversichtliche Hoffnung aus, dass Gott ihn hören wird.",
+    "full_verse": "Ich aber will auf den HERRN schauen und harren auf den Gott meines Heils; mein Gott wird mich erhören.",
+    "verse_ref": "Micha 7:7"
+  },
+  "q_hope_023": {
+    "question": "Ergänze die Lücke: 'Kehrt zurück zur Festung, ihr Gefangenen, die ihr Hoffnung habt! Denn auch heute verkündige ich: Ich will dir _____ vergelten.'",
+    "correct": "zweifach",
+    "wrong": ["reichlich", "vielfach", "alles"],
+    "hint": "Doppelt",
+    "explanation": "Gott verheißt doppelte Wiederherstellung für die, die Hoffnung bewahren.",
+    "full_verse": "Kehrt zurück zur Festung, ihr Gefangenen, die ihr Hoffnung habt! Denn auch heute verkündige ich: Ich will dir zweifach vergelten.",
+    "verse_ref": "Sacharja 9:12"
+  },
+  "q_hope_024": {
+    "question": "Ergänze die Lücke: 'Geduld aber bringt Bewährung, Bewährung aber bringt _____.'",
+    "correct": "Hoffnung",
+    "wrong": ["Glaube", "Liebe", "Freude"],
+    "hint": "Das Ergebnis entwickelten Charakters",
+    "explanation": "Paulus zeigt den Fortschritt von Leiden zu Geduld zu Bewährung zu Hoffnung.",
+    "full_verse": "Geduld aber bringt Bewährung, Bewährung aber bringt Hoffnung.",
+    "verse_ref": "Römer 5:4"
+  },
+  "q_hope_025": {
+    "question": "Ergänze die Lücke: 'Wenn wir aber auf das hoffen, was wir nicht sehen, so warten wir darauf in _____.'",
+    "correct": "Geduld",
+    "wrong": ["Sehnsucht", "Hoffnung", "Stille"],
+    "hint": "Mit Ausdauer",
+    "explanation": "Paulus lehrt, dass Hoffnung geduldiges Warten auf das beinhaltet, was noch nicht gesehen wird.",
+    "full_verse": "Wenn wir aber auf das hoffen, was wir nicht sehen, so warten wir darauf in Geduld.",
+    "verse_ref": "Römer 8:25"
+  },
+  "q_hope_026": {
+    "question": "Ergänze die Lücke: 'Seid fröhlich in Hoffnung, geduldig in Trübsal, beharrlich im _____.'",
+    "correct": "Gebet",
+    "wrong": ["Glauben", "Liebe", "Dienst"],
+    "hint": "Kommunikation mit Gott",
+    "explanation": "Paulus gibt drei Anweisungen für christliches Leben, einschließlich fröhlicher Hoffnung.",
+    "full_verse": "Seid fröhlich in Hoffnung, geduldig in Trübsal, beharrlich im Gebet.",
+    "verse_ref": "Römer 12:12"
+  },
+  "q_hope_027": {
+    "question": "Ergänze die Lücke: 'Nun aber bleiben Glaube, Hoffnung, Liebe, diese drei; aber die _____ ist die größte unter ihnen.'",
+    "correct": "Liebe",
+    "wrong": ["Glaube", "Hoffnung", "Gnade"],
+    "hint": "Die höchste Tugend",
+    "explanation": "Paulus erklärt, dass obwohl Glaube, Hoffnung und Liebe bleiben, die Liebe die größte ist.",
+    "full_verse": "Nun aber bleiben Glaube, Hoffnung, Liebe, diese drei; aber die Liebe ist die größte unter ihnen.",
+    "verse_ref": "1. Korinther 13:13"
+  },
+  "q_hope_028": {
+    "question": "Ergänze die Lücke: 'Denn wir warten im Geist durch den Glauben auf die Gerechtigkeit, auf die man _____ muss.'",
+    "correct": "hoffen",
+    "wrong": ["warten", "beten", "vertrauen"],
+    "hint": "Unsere Erwartung",
+    "explanation": "Paulus beschreibt Gläubige, die sehnlich auf die Gerechtigkeit hoffen, die der Glaube verheißt.",
+    "full_verse": "Denn wir warten im Geist durch den Glauben auf die Gerechtigkeit, auf die man hoffen muss.",
+    "verse_ref": "Galater 5:5"
+  },
+  "q_hope_029": {
+    "question": "Ergänze die Lücke: 'Und er gebe euch erleuchtete Augen des Herzens, damit ihr erkennt, zu welcher Hoffnung ihr von ihm _____ seid.'",
+    "correct": "berufen",
+    "wrong": ["erwählt", "gerettet", "gesegnet"],
+    "hint": "Gottes Einladung",
+    "explanation": "Paulus betet, dass Gläubige die Hoffnung ihrer Berufung in Christus verstehen mögen.",
+    "full_verse": "Und er gebe euch erleuchtete Augen des Herzens, damit ihr erkennt, zu welcher Hoffnung ihr von ihm berufen seid, wie reich die Herrlichkeit seines Erbes für die Heiligen ist.",
+    "verse_ref": "Epheser 1:18"
+  },
+  "q_hope_030": {
+    "question": "Ergänze die Lücke: 'Ein Leib und ein Geist, wie ihr auch berufen seid zu einer Hoffnung eurer _____.'",
+    "correct": "Berufung",
+    "wrong": ["Rettung", "Erwählung", "Wiedergeburt"],
+    "hint": "Gottes Einladung an Gläubige",
+    "explanation": "Paulus betont die Einheit der Gläubigen in einer Hoffnung durch ihre Berufung.",
+    "full_verse": "Ein Leib und ein Geist, wie ihr auch berufen seid zu einer Hoffnung eurer Berufung.",
+    "verse_ref": "Epheser 4:4"
+  },
+  "q_hope_031": {
+    "question": "Ergänze die Lücke: 'Um der Hoffnung willen, die für euch bereitliegt im _____.'",
+    "correct": "Himmel",
+    "wrong": ["Herrlichkeit", "Gott", "Christus"],
+    "hint": "Wo Gott wohnt",
+    "explanation": "Paulus beschreibt Hoffnung als Schatz, der im Himmel aufbewahrt wird und Glaube und Liebe hervorbringt.",
+    "full_verse": "Um der Hoffnung willen, die für euch bereitliegt im Himmel. Von ihr habt ihr schon zuvor gehört durch das Wort der Wahrheit, das Evangelium.",
+    "verse_ref": "Kolosser 1:5"
+  },
+  "q_hope_032": {
+    "question": "Ergänze die Lücke: 'Und denken vor Gott, unserm Vater, an euer Werk im Glauben und an eure Arbeit in der Liebe und an eure Geduld in der Hoffnung auf unsern Herrn Jesus _____.'",
+    "correct": "Christus",
+    "wrong": ["Herr", "Retter", "König"],
+    "hint": "Der Titel unseres Herrn",
+    "explanation": "Paulus lobt die Thessalonicher für ihren Glauben, ihre Liebe und ihre Hoffnung in Christus.",
+    "full_verse": "Und denken vor Gott, unserm Vater, an euer Werk im Glauben und an eure Arbeit in der Liebe und an eure Geduld in der Hoffnung auf unsern Herrn Jesus Christus.",
+    "verse_ref": "1. Thessalonicher 1:3"
+  },
+  "q_hope_033": {
+    "question": "Ergänze die Lücke: 'Wir aber, die wir Kinder des Tages sind, wollen nüchtern sein, angetan mit dem Panzer des Glaubens und der Liebe und mit dem _____ der Hoffnung auf das Heil.'",
+    "correct": "Helm",
+    "wrong": ["Schild", "Schwert", "Krone"],
+    "hint": "Rüstung für den Kopf",
+    "explanation": "Paulus verwendet das Bild einer Rüstung und beschreibt die Hoffnung auf Rettung als Helm.",
+    "full_verse": "Wir aber, die wir Kinder des Tages sind, wollen nüchtern sein, angetan mit dem Panzer des Glaubens und der Liebe und mit dem Helm der Hoffnung auf das Heil.",
+    "verse_ref": "1. Thessalonicher 5:8"
+  },
+  "q_hope_034": {
+    "question": "Ergänze die Lücke: 'Er aber, unser Herr Jesus Christus, und Gott, unser Vater, der uns geliebt und uns einen ewigen Trost und eine gute _____ gegeben hat durch Gnade.'",
+    "correct": "Hoffnung",
+    "wrong": ["Botschaft", "Glaube", "Verheißung"],
+    "hint": "Positive Erwartung für die Zukunft",
+    "explanation": "Paulus betet, dass Gläubige ewigen Trost und gute Hoffnung empfangen mögen.",
+    "full_verse": "Er aber, unser Herr Jesus Christus, und Gott, unser Vater, der uns geliebt und uns einen ewigen Trost und eine gute Hoffnung gegeben hat durch Gnade.",
+    "verse_ref": "2. Thessalonicher 2:16"
+  },
+  "q_hope_035": {
+    "question": "Ergänze die Lücke: 'Paulus, ein Apostel Christi Jesu nach dem Befehl Gottes, unseres Heilands, und Christi Jesu, der unsre _____ ist.'",
+    "correct": "Hoffnung",
+    "wrong": ["Herr", "König", "Retter"],
+    "hint": "Christus ist unsere Erwartung",
+    "explanation": "Paulus bezeichnet Christus Jesus als unsere Hoffnung in seinem Gruß an Timotheus.",
+    "full_verse": "Paulus, ein Apostel Christi Jesu nach dem Befehl Gottes, unseres Heilands, und Christi Jesu, der unsre Hoffnung ist.",
+    "verse_ref": "1. Timotheus 1:1"
+  },
+  "q_hope_036": {
+    "question": "Ergänze die Lücke: 'Dafür arbeiten und kämpfen wir, denn wir haben unsre Hoffnung auf den lebendigen Gott gesetzt, welcher ist der Heiland aller Menschen, besonders der _____.'",
+    "correct": "Gläubigen",
+    "wrong": ["Erwählten", "Heiligen", "Gerechten"],
+    "hint": "Die, die Glauben haben",
+    "explanation": "Paulus erklärt, dass Hoffnung auf den lebendigen Gott christlichen Dienst motiviert.",
+    "full_verse": "Dafür arbeiten und kämpfen wir, denn wir haben unsre Hoffnung auf den lebendigen Gott gesetzt, welcher ist der Heiland aller Menschen, besonders der Gläubigen.",
+    "verse_ref": "1. Timotheus 4:10"
+  },
+  "q_hope_037": {
+    "question": "Ergänze die Lücke: 'Den Reichen in dieser Welt gebiete, dass sie nicht stolz seien, auch nicht hoffen auf den unsicheren Reichtum, sondern auf _____.'",
+    "correct": "Gott",
+    "wrong": ["Himmel", "Christus", "den Herrn"],
+    "hint": "Das richtige Objekt der Hoffnung",
+    "explanation": "Paulus warnt davor, auf unsicheren Reichtum statt auf Gott zu hoffen.",
+    "full_verse": "Den Reichen in dieser Welt gebiete, dass sie nicht stolz seien, auch nicht hoffen auf den unsicheren Reichtum, sondern auf Gott, der uns alles reichlich darbietet, es zu genießen.",
+    "verse_ref": "1. Timotheus 6:17"
+  },
+  "q_hope_038": {
+    "question": "Ergänze die Lücke: 'In der Hoffnung auf das ewige Leben, das Gott, der nicht _____, verheißen hat vor ewigen Zeiten.'",
+    "correct": "lügt",
+    "wrong": ["versagt", "wechselt", "vergisst"],
+    "hint": "Gott sagt immer die Wahrheit",
+    "explanation": "Paulus gründet Hoffnung auf ewiges Leben auf Gottes wahrhaftige Verheißung.",
+    "full_verse": "In der Hoffnung auf das ewige Leben, das Gott, der nicht lügt, verheißen hat vor ewigen Zeiten.",
+    "verse_ref": "Titus 1:2"
+  },
+  "q_hope_039": {
+    "question": "Ergänze die Lücke: 'Damit wir, durch dessen Gnade gerecht geworden, Erben des ewigen _____ würden nach unsrer Hoffnung.'",
+    "correct": "Lebens",
+    "wrong": ["Reiches", "Heils", "Friedens"],
+    "hint": "Für immer leben",
+    "explanation": "Paulus erklärt, dass Rechtfertigung durch Gnade uns zu Erben mit Hoffnung auf ewiges Leben macht.",
+    "full_verse": "Damit wir, durch dessen Gnade gerecht geworden, Erben des ewigen Lebens würden nach unsrer Hoffnung.",
+    "verse_ref": "Titus 3:7"
+  },
+  "q_hope_040": {
+    "question": "Ergänze die Lücke: 'Christus aber war treu als Sohn über Gottes Haus. Sein Haus sind wir, wenn wir das Vertrauen und den Ruhm der Hoffnung _____.'",
+    "correct": "festhalten",
+    "wrong": ["bewahren", "behalten", "tragen"],
+    "hint": "Nicht loslassen",
+    "explanation": "Der Verfasser ermutigt Gläubige, fest an ihrer Hoffnung in Christus festzuhalten.",
+    "full_verse": "Christus aber war treu als Sohn über Gottes Haus. Sein Haus sind wir, wenn wir das Vertrauen und den Ruhm der Hoffnung festhalten.",
+    "verse_ref": "Hebräer 3:6"
+  },
+  "q_hope_041": {
+    "question": "Ergänze die Lücke: 'So haben wir die vorliegende Hoffnung ergriffen als einen sicheren und beständigen _____ unsrer Seele.'",
+    "correct": "Anker",
+    "wrong": ["Schild", "Zuflucht", "Festung"],
+    "hint": "Etwas, das ein Schiff stabil hält",
+    "explanation": "Der Verfasser beschreibt Hoffnung als Anker, der die Seele stabilisiert.",
+    "full_verse": "So haben wir die vorliegende Hoffnung ergriffen als einen sicheren und beständigen Anker unsrer Seele.",
+    "verse_ref": "Hebräer 6:18"
+  },
+  "q_hope_042": {
+    "question": "Ergänze die Lücke: 'Denn das Gesetz hat nichts zur Vollendung gebracht – und eingeführt wird eine bessere Hoffnung, durch die wir _____ nahen.'",
+    "correct": "Gott",
+    "wrong": ["Himmel", "Christus", "Heil"],
+    "hint": "Hoffnung bringt uns näher zu ihm",
+    "explanation": "Der Verfasser stellt das Gesetz der besseren Hoffnung gegenüber, die uns zu Gott bringt.",
+    "full_verse": "Denn das Gesetz hat nichts zur Vollendung gebracht – und eingeführt wird eine bessere Hoffnung, durch die wir Gott nahen.",
+    "verse_ref": "Hebräer 7:19"
+  },
+  "q_hope_043": {
+    "question": "Ergänze die Lücke: 'Lasst uns festhalten an dem Bekenntnis der Hoffnung und nicht wanken; denn er ist _____, der sie verheißen hat.'",
+    "correct": "treu",
+    "wrong": ["wahrhaftig", "gut", "gerecht"],
+    "hint": "Gott hält seine Versprechen",
+    "explanation": "Der Verfasser ermutigt Gläubige, fest an der Hoffnung festzuhalten, weil Gott treu ist.",
+    "full_verse": "Lasst uns festhalten an dem Bekenntnis der Hoffnung und nicht wanken; denn er ist treu, der sie verheißen hat.",
+    "verse_ref": "Hebräer 10:23"
+  },
+  "q_hope_044": {
+    "question": "Ergänze die Lücke: 'Es ist aber der Glaube eine feste Zuversicht dessen, was man hofft, und ein Nichtzweifeln an dem, was man nicht _____.'",
+    "correct": "sieht",
+    "wrong": ["weiß", "hat", "versteht"],
+    "hint": "Glaube bezieht sich auf das Unsichtbare",
+    "explanation": "Der Verfasser definiert Glauben in Bezug auf Hoffnung und unsichtbare Realitäten.",
+    "full_verse": "Es ist aber der Glaube eine feste Zuversicht dessen, was man hofft, und ein Nichtzweifeln an dem, was man nicht sieht.",
+    "verse_ref": "Hebräer 11:1"
+  },
+  "q_hope_045": {
+    "question": "Ergänze die Lücke: 'Darum umgürtet eure Lenden, seid nüchtern und setzt eure Hoffnung ganz auf die Gnade, die euch dargeboten wird in der Offenbarung Jesu _____.'",
+    "correct": "Christi",
+    "wrong": ["Herrn", "Königs", "Retters"],
+    "hint": "Wenn Christus erscheint",
+    "explanation": "Petrus ruft Gläubige auf, ihre Hoffnung vollständig auf die Gnade zu setzen, die bei Christi Wiederkunft kommt.",
+    "full_verse": "Darum umgürtet eure Lenden, seid nüchtern und setzt eure Hoffnung ganz auf die Gnade, die euch dargeboten wird in der Offenbarung Jesu Christi.",
+    "verse_ref": "1. Petrus 1:13"
+  },
+  "q_hope_046": {
+    "question": "Ergänze die Lücke: 'Die ihr durch ihn glaubt an Gott, der ihn auferweckt hat von den Toten und ihm die Herrlichkeit gegeben, sodass ihr Glauben und Hoffnung zu _____ habt.'",
+    "correct": "Gott",
+    "wrong": ["Christus", "Himmel", "ihm"],
+    "hint": "Das letzte Objekt von Glauben und Hoffnung",
+    "explanation": "Petrus erklärt, dass durch Christus unser Glaube und unsere Hoffnung auf Gott gerichtet sind.",
+    "full_verse": "Die ihr durch ihn glaubt an Gott, der ihn auferweckt hat von den Toten und ihm die Herrlichkeit gegeben, sodass ihr Glauben und Hoffnung zu Gott habt.",
+    "verse_ref": "1. Petrus 1:21"
+  },
+  "q_hope_047": {
+    "question": "Ergänze die Lücke: 'Sondern heiligt den Herrn Christus in euren Herzen. Seid allezeit bereit zur Verantwortung vor jedermann, der von euch Rechenschaft fordert über die Hoffnung, die in euch _____.'",
+    "correct": "ist",
+    "wrong": ["lebt", "bleibt", "wohnt"],
+    "hint": "Hoffnung besitzen",
+    "explanation": "Petrus weist Gläubige an, bereit zu sein, die Hoffnung zu erklären, die sie besitzen.",
+    "full_verse": "Sondern heiligt den Herrn Christus in euren Herzen. Seid allezeit bereit zur Verantwortung vor jedermann, der von euch Rechenschaft fordert über die Hoffnung, die in euch ist, und das mit Sanftmut und Gottesfurcht.",
+    "verse_ref": "1. Petrus 3:15"
+  },
+  "q_hope_048": {
+    "question": "Ergänze die Lücke: 'Und jeder, der solche Hoffnung auf ihn hat, der reinigt sich, wie auch jener _____ ist.'",
+    "correct": "rein",
+    "wrong": ["heilig", "gerecht", "gut"],
+    "hint": "Frei von Unreinheit",
+    "explanation": "Johannes lehrt, dass Hoffnung auf Christus zu persönlicher Reinigung führt.",
+    "full_verse": "Und jeder, der solche Hoffnung auf ihn hat, der reinigt sich, wie auch jener rein ist.",
+    "verse_ref": "1. Johannes 3:3"
+  },
+  "q_hope_049": {
+    "question": "Ergänze die Lücke: 'Dies nehme ich zu Herzen, darum habe ich Hoffnung: Die Güte des HERRN ist's, dass wir nicht gar aus sind, seine Barmherzigkeit hat noch kein _____.'",
+    "correct": "Ende",
+    "wrong": ["Ziel", "Maß", "Grenze"],
+    "hint": "Nicht vollständig zerstört",
+    "explanation": "Jeremia findet Hoffnung, indem er sich an Gottes treue Liebe erinnert, die uns bewahrt.",
+    "full_verse": "Dies nehme ich zu Herzen, darum habe ich Hoffnung: Die Güte des HERRN ist's, dass wir nicht gar aus sind, seine Barmherzigkeit hat noch kein Ende.",
+    "verse_ref": "Klagelieder 3:21-22"
+  },
+  "q_hope_050": {
+    "question": "Ergänze die Lücke: 'Du wirst sicher sein, weil noch _____ da ist; du wirst dich umsehen und in Ruhe schlafen können.'",
+    "correct": "Hoffnung",
+    "wrong": ["Friede", "Trost", "Schutz"],
+    "hint": "Erwartung für die Zukunft",
+    "explanation": "Zofar beschreibt die Sicherheit und Ruhe, die aus Hoffnung kommt.",
+    "full_verse": "Du wirst sicher sein, weil noch Hoffnung da ist; du wirst dich umsehen und in Ruhe schlafen können.",
+    "verse_ref": "Hiob 11:18"
+  }
+}

@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_wisdom_001",
+      "question": "Điền vào chỗ trống: 'Ví bằng trong anh em có kẻ kém khôn ngoan, hãy cầu xin Đức Chúa Trời, là Đấng ban cho mọi người cách rộng rãi, không trách _____ ai, thì kẻ ấy sẽ được ban cho.'",
+      "correct": "móc",
+      "wrong": ["lỗi", "sai", "tội"],
+      "hint": "Điều này có nghĩa là chỉ trích hoặc lên án",
+      "explanation": "Đức Chúa Trời ban sự khôn ngoan cách rộng rãi cho ai cầu xin mà không trách móc.",
+      "full_verse": "Ví bằng trong anh em có kẻ kém khôn ngoan, hãy cầu xin Đức Chúa Trời, là Đấng ban cho mọi người cách rộng rãi, không trách móc ai, thì kẻ ấy sẽ được ban cho.",
+      "verse_ref": "Gia-cơ 1:5"
+    },
+    {
+      "id": "q_wisdom_002",
+      "question": "Điền vào chỗ trống: 'Sự kính sợ Đức Giê-hô-va là khởi đầu sự _____; Còn kẻ ngu muội khinh bỉ sự khôn ngoan và lời khuyên dạy.'",
+      "correct": "tri thức",
+      "wrong": ["khôn ngoan", "thông hiểu", "lẽ thật"],
+      "hint": "Đây là điều mà kẻ ngu muội khinh bỉ cùng với lời khuyên dạy",
+      "explanation": "Sự kính sợ Đức Chúa Trời là nền tảng của mọi tri thức thật.",
+      "full_verse": "Sự kính sợ Đức Giê-hô-va là khởi đầu sự tri thức; Còn kẻ ngu muội khinh bỉ sự khôn ngoan và lời khuyên dạy.",
+      "verse_ref": "Châm Ngôn 1:7"
+    },
+    {
+      "id": "q_wisdom_003",
+      "question": "Điền vào chỗ trống: 'Hãy hết lòng tin cậy Đức Giê-hô-va, Chớ nương cậy nơi sự _____ của con; Phàm trong các việc làm của con, khá nhận biết Ngài, Thì Ngài sẽ chỉ dẫn các nẻo của con.'",
+      "correct": "thông sáng",
+      "wrong": ["khôn ngoan", "tri thức", "sức mạnh"],
+      "hint": "Điều này đề cập đến trí tuệ và lý luận của con người",
+      "explanation": "Chúng ta nên hoàn toàn tin cậy Đức Chúa Trời thay vì dựa vào sự hiểu biết hạn chế của mình.",
+      "full_verse": "Hãy hết lòng tin cậy Đức Giê-hô-va, Chớ nương cậy nơi sự thông sáng của con; Phàm trong các việc làm của con, khá nhận biết Ngài, Thì Ngài sẽ chỉ dẫn các nẻo của con.",
+      "verse_ref": "Châm Ngôn 3:5-6"
+    },
+    {
+      "id": "q_wisdom_004",
+      "question": "Điền vào chỗ trống: 'Sự kính sợ Đức Giê-hô-va, ấy là khởi đầu sự khôn ngoan; Sự nhìn biết Đấng Thánh, đó là sự _____.'",
+      "correct": "thông sáng",
+      "wrong": ["khôn ngoan", "hiểu biết", "sáng suốt"],
+      "hint": "Đây là khả năng thấu hiểu sâu sắc",
+      "explanation": "Sự khôn ngoan thật bắt đầu bằng sự kính sợ Đức Chúa Trời, và biết Ngài mang lại sự thông sáng.",
+      "full_verse": "Sự kính sợ Đức Giê-hô-va, ấy là khởi đầu sự khôn ngoan; Sự nhìn biết Đấng Thánh, đó là sự thông sáng.",
+      "verse_ref": "Châm Ngôn 9:10"
+    },
+    {
+      "id": "q_wisdom_005",
+      "question": "Điền vào chỗ trống: 'Hãy để cho lời của Đấng Christ ở đầy trong lòng anh em, và anh em dùng mọi sự khôn ngoan mà dạy dỗ, khuyên bảo nhau, hát những bài ca thi thiên, thơ ca tụng, bài hát thiêng liêng, đem lòng _____ mà hát ngợi khen Chúa.'",
+      "correct": "biết ơn",
+      "wrong": ["vui mừng", "ngợi khen", "yêu thương"],
+      "hint": "Đây là lòng cảm tạ",
+      "explanation": "Lời của Đấng Christ nên đổ đầy chúng ta với sự khôn ngoan và lòng biết ơn thờ phượng.",
+      "full_verse": "Hãy để cho lời của Đấng Christ ở đầy trong lòng anh em, và anh em dùng mọi sự khôn ngoan mà dạy dỗ, khuyên bảo nhau, hát những bài ca thi thiên, thơ ca tụng, bài hát thiêng liêng, đem lòng biết ơn mà hát ngợi khen Chúa.",
+      "verse_ref": "Cô-lô-se 3:16"
+    },
+    {
+      "id": "q_wisdom_006",
+      "question": "Điền vào chỗ trống: 'Vì Đức Giê-hô-va ban cho sự khôn ngoan; Từ miệng Ngài ra điều tri thức và _____.'",
+      "correct": "thông sáng",
+      "wrong": ["lẽ thật", "hiểu biết", "sáng suốt"],
+      "hint": "Đây là khả năng thấu hiểu",
+      "explanation": "Sự khôn ngoan, tri thức và thông sáng thật đều đến từ Đức Chúa Trời.",
+      "full_verse": "Vì Đức Giê-hô-va ban cho sự khôn ngoan; Từ miệng Ngài ra điều tri thức và thông sáng.",
+      "verse_ref": "Châm Ngôn 2:6"
+    },
+    {
+      "id": "q_wisdom_007",
+      "question": "Điền vào chỗ trống: 'Sự khôn ngoan là điều cần nhất; vậy khá cầu lấy sự _____; Hãy dùng hết của con có mà mua sự thông sáng.'",
+      "correct": "khôn ngoan",
+      "wrong": ["tri thức", "hiểu biết", "thông sáng"],
+      "hint": "Đây là điều câu nói bảo phải đạt được",
+      "explanation": "Sự khôn ngoan quý giá đến nỗi đáng theo đuổi bằng bất cứ giá nào.",
+      "full_verse": "Sự khôn ngoan là điều cần nhất; vậy khá cầu lấy sự khôn ngoan; Hãy dùng hết của con có mà mua sự thông sáng.",
+      "verse_ref": "Châm Ngôn 4:7"
+    },
+    {
+      "id": "q_wisdom_008",
+      "question": "Điền vào chỗ trống: 'Vì sự khôn ngoan che thân cũng như tiền bạc che thân vậy; nhưng sự tri thức có ích hơn, vì sự khôn ngoan bảo tồn mạng sống của ai có _____.'",
+      "correct": "nó",
+      "wrong": ["khôn ngoan", "đức tin", "sự sống"],
+      "hint": "Đại từ này chỉ lại sự khôn ngoan",
+      "explanation": "Sự khôn ngoan bảo vệ và gìn giữ những ai sở hữu nó.",
+      "full_verse": "Vì sự khôn ngoan che thân cũng như tiền bạc che thân vậy; nhưng sự tri thức có ích hơn, vì sự khôn ngoan bảo tồn mạng sống của ai có nó.",
+      "verse_ref": "Truyền Đạo 7:12"
+    },
+    {
+      "id": "q_wisdom_009",
+      "question": "Điền vào chỗ trống: 'Sự kính sợ Đức Giê-hô-va là khởi đầu sự khôn ngoan; Phàm kẻ nào làm theo điều răn Ngài có sự _____ tốt. Sự ngợi khen Ngài còn đến đời đời.'",
+      "correct": "thông hiểu",
+      "wrong": ["khôn ngoan", "hiểu biết", "tri thức"],
+      "hint": "Đây là khả năng thấu hiểu",
+      "explanation": "Vâng theo mệnh lệnh của Đức Chúa Trời dẫn đến sự thông hiểu thật.",
+      "full_verse": "Sự kính sợ Đức Giê-hô-va là khởi đầu sự khôn ngoan; Phàm kẻ nào làm theo điều răn Ngài có sự thông hiểu tốt. Sự ngợi khen Ngài còn đến đời đời.",
+      "verse_ref": "Thi Thiên 111:10"
+    },
+    {
+      "id": "q_wisdom_010",
+      "question": "Điền vào chỗ trống: 'Nhưng sự khôn ngoan từ trên mà xuống thì trước hết là thanh sạch, sau lại hòa thuận, tiết độ, nhu mì, đầy dẫy lòng thương xót và bông trái lành, không có sự hai lòng và _____ dối.'",
+      "correct": "giả",
+      "wrong": ["thành thật", "trung thực", "chân thành"],
+      "hint": "Điều này có nghĩa là không giả hình",
+      "explanation": "Sự khôn ngoan từ trời có nhiều đặc điểm bao gồm sự thanh sạch và không giả dối.",
+      "full_verse": "Nhưng sự khôn ngoan từ trên mà xuống thì trước hết là thanh sạch, sau lại hòa thuận, tiết độ, nhu mì, đầy dẫy lòng thương xót và bông trái lành, không có sự hai lòng và giả dối.",
+      "verse_ref": "Gia-cơ 3:17"
+    },
+    {
+      "id": "q_wisdom_011",
+      "question": "Điền vào chỗ trống: 'Phước cho người nào tìm được sự khôn ngoan, Và có được sự _____!'",
+      "correct": "thông sáng",
+      "wrong": ["tri thức", "hiểu biết", "sáng suốt"],
+      "hint": "Đây là khả năng thấu hiểu",
+      "explanation": "Tìm được sự khôn ngoan và thông sáng mang lại phước hạnh.",
+      "full_verse": "Phước cho người nào tìm được sự khôn ngoan, Và có được sự thông sáng!",
+      "verse_ref": "Châm Ngôn 3:13"
+    },
+    {
+      "id": "q_wisdom_012",
+      "question": "Điền vào chỗ trống: 'Con ơi, đừng để nó lìa khỏi mắt con; Hãy gìn giữ sự khôn ngoan thật và sự _____ kỹ.'",
+      "correct": "cẩn thận",
+      "wrong": ["khôn ngoan", "thận trọng", "khéo léo"],
+      "hint": "Đây là sự phán đoán cẩn thận trong lời nói và hành động",
+      "explanation": "Chúng ta nên giữ lấy sự khôn ngoan và sự phán đoán tốt.",
+      "full_verse": "Con ơi, đừng để nó lìa khỏi mắt con; Hãy gìn giữ sự khôn ngoan thật và sự cẩn thận kỹ.",
+      "verse_ref": "Châm Ngôn 3:21"
+    },
+    {
+      "id": "q_wisdom_013",
+      "question": "Điền vào chỗ trống: 'Hãy cầu lấy sự khôn ngoan, hãy cầu sự thông sáng; Chớ quên, chớ xây bỏ các lời miệng ta _____.'",
+      "correct": "phán",
+      "wrong": ["tôi", "nói", "khôn ngoan"],
+      "hint": "Đại từ này chỉ lời của người nói",
+      "explanation": "Chúng ta nên theo đuổi sự khôn ngoan và không bỏ lời dạy dỗ của nó.",
+      "full_verse": "Hãy cầu lấy sự khôn ngoan, hãy cầu sự thông sáng; Chớ quên, chớ xây bỏ các lời miệng ta phán.",
+      "verse_ref": "Châm Ngôn 4:5"
+    },
+    {
+      "id": "q_wisdom_014",
+      "question": "Điền vào chỗ trống: 'Vì sự khôn ngoan quý báu hơn châu ngọc; Chẳng một vật gì đáng ao ước sánh được với _____.'",
+      "correct": "nó",
+      "wrong": ["điều đó", "khôn ngoan", "chúng"],
+      "hint": "Sự khôn ngoan được nhân cách hóa",
+      "explanation": "Sự khôn ngoan quý hơn bất kỳ kho báu trần gian nào.",
+      "full_verse": "Vì sự khôn ngoan quý báu hơn châu ngọc; Chẳng một vật gì đáng ao ước sánh được với nó.",
+      "verse_ref": "Châm Ngôn 8:11"
+    },
+    {
+      "id": "q_wisdom_015",
+      "question": "Điền vào chỗ trống: 'Kẻ ngu muội lấy làm vui mà làm điều ác; Còn sự khôn ngoan là điều vui thích của người thông _____.'",
+      "correct": "sáng",
+      "wrong": ["tri thức", "lẽ thật", "công bình"],
+      "hint": "Đây là điều người khôn ngoan vui thích",
+      "explanation": "Những người có sự thông sáng tìm thấy niềm vui trong sự khôn ngoan, không phải sự gian ác.",
+      "full_verse": "Kẻ ngu muội lấy làm vui mà làm điều ác; Còn sự khôn ngoan là điều vui thích của người thông sáng.",
+      "verse_ref": "Châm Ngôn 10:23"
+    },
+    {
+      "id": "q_wisdom_016",
+      "question": "Điền vào chỗ trống: 'Khi kiêu ngạo đến, sỉ nhục cũng đến nữa; Song sự khôn ngoan ở với người _____ hạ.'",
+      "correct": "khiêm",
+      "wrong": ["vinh dự", "phước", "thông hiểu"],
+      "hint": "Đây là điều đến cùng với sự khiêm nhường",
+      "explanation": "Kiêu ngạo dẫn đến xấu hổ, còn khiêm nhường dẫn đến khôn ngoan.",
+      "full_verse": "Khi kiêu ngạo đến, sỉ nhục cũng đến nữa; Song sự khôn ngoan ở với người khiêm hạ.",
+      "verse_ref": "Châm Ngôn 11:2"
+    },
+    {
+      "id": "q_wisdom_017",
+      "question": "Điền vào chỗ trống: 'Đường lối của kẻ ngu muội vốn ngay thẳng theo mắt nó; Còn người khôn ngoan nghe lời _____ bảo.'",
+      "correct": "khuyên",
+      "wrong": ["dạy", "khôn ngoan", "người khác"],
+      "hint": "Đây là sự hướng dẫn từ người khác",
+      "explanation": "Kẻ ngu muội tin vào phán đoán của chính mình; người khôn ngoan tìm kiếm lời khuyên.",
+      "full_verse": "Đường lối của kẻ ngu muội vốn ngay thẳng theo mắt nó; Còn người khôn ngoan nghe lời khuyên bảo.",
+      "verse_ref": "Châm Ngôn 12:15"
+    },
+    {
+      "id": "q_wisdom_018",
+      "question": "Điền vào chỗ trống: 'Nơi nào có kiêu ngạo, nơi đó có sỉ nhục; Nhưng sự khôn ngoan ở với kẻ khiêm _____ mình.'",
+      "correct": "nhường",
+      "wrong": ["dạy", "chú ý", "cẩn thận"],
+      "hint": "Đây là sự hướng dẫn hoặc khuyến nghị",
+      "explanation": "Kiêu ngạo gây ra xung đột, nhưng người khôn ngoan chấp nhận lời khuyên.",
+      "full_verse": "Nơi nào có kiêu ngạo, nơi đó có sỉ nhục; Nhưng sự khôn ngoan ở với kẻ khiêm nhường mình.",
+      "verse_ref": "Châm Ngôn 13:10"
+    },
+    {
+      "id": "q_wisdom_019",
+      "question": "Điền vào chỗ trống: 'Người nữ khôn ngoan xây cất nhà mình; Song kẻ ngu dại lấy tay mình mà phá _____ nó đi.'",
+      "correct": "hủy",
+      "wrong": ["tan", "đi", "ra"],
+      "hint": "Đây là hướng của sự hủy diệt",
+      "explanation": "Sự khôn ngoan xây dựng trong khi sự ngu dại hủy diệt.",
+      "full_verse": "Người nữ khôn ngoan xây cất nhà mình; Song kẻ ngu dại lấy tay mình mà phá hủy nó đi.",
+      "verse_ref": "Châm Ngôn 14:1"
+    },
+    {
+      "id": "q_wisdom_020",
+      "question": "Điền vào chỗ trống: 'Sự kính sợ Đức Giê-hô-va dạy dỗ điều khôn ngoan; Và sự khiêm nhường đi trước sự tôn _____.'",
+      "correct": "trọng",
+      "wrong": ["vinh hiển", "phước", "khôn ngoan"],
+      "hint": "Đây là sự kính trọng hoặc tôn kính cao",
+      "explanation": "Kính sợ Đức Chúa Trời và khiêm nhường dẫn đến sự tôn trọng.",
+      "full_verse": "Sự kính sợ Đức Giê-hô-va dạy dỗ điều khôn ngoan; Và sự khiêm nhường đi trước sự tôn trọng.",
+      "verse_ref": "Châm Ngôn 15:33"
+    },
+    {
+      "id": "q_wisdom_021",
+      "question": "Điền vào chỗ trống: 'Được sự khôn ngoan quý biết bao hơn được vàng! Được sự thông sáng đáng chuộng biết bao hơn được _____!'",
+      "correct": "bạc",
+      "wrong": ["vàng", "giàu có", "kho báu"],
+      "hint": "Đây là một kim loại quý",
+      "explanation": "Sự khôn ngoan và thông sáng quý hơn các kim loại quý.",
+      "full_verse": "Được sự khôn ngoan quý biết bao hơn được vàng! Được sự thông sáng đáng chuộng biết bao hơn được bạc!",
+      "verse_ref": "Châm Ngôn 16:16"
+    },
+    {
+      "id": "q_wisdom_022",
+      "question": "Điền vào chỗ trống: 'Dẫu kẻ ngu muội nín lặng, cũng được cầm là khôn ngoan; Người nào ngậm _____ mình lại được kể là thông sáng.'",
+      "correct": "môi",
+      "wrong": ["hòa bình", "lời", "tiếng nói"],
+      "hint": "Đây là bộ phận của miệng dùng để nói",
+      "explanation": "Im lặng có thể là dấu hiệu của sự khôn ngoan.",
+      "full_verse": "Dẫu kẻ ngu muội nín lặng, cũng được cầm là khôn ngoan; Người nào ngậm môi mình lại được kể là thông sáng.",
+      "verse_ref": "Châm Ngôn 17:28"
+    },
+    {
+      "id": "q_wisdom_023",
+      "question": "Điền vào chỗ trống: 'Lòng người thông sáng được sự tri thức; Và tai của người khôn ngoan tìm kiếm sự tri _____.'",
+      "correct": "thức",
+      "wrong": ["háo hức", "luôn luôn", "hàng ngày"],
+      "hint": "Từ nhỏ này hoàn thành 'tri ___'",
+      "explanation": "Người khôn ngoan tích cực theo đuổi tri thức.",
+      "full_verse": "Lòng người thông sáng được sự tri thức; Và tai của người khôn ngoan tìm kiếm sự tri thức.",
+      "verse_ref": "Châm Ngôn 18:15"
+    },
+    {
+      "id": "q_wisdom_024",
+      "question": "Điền vào chỗ trống: 'Ai được sự khôn ngoan thương mến linh hồn mình; Ai gìn giữ sự thông sáng sẽ được _____.'",
+      "correct": "phước",
+      "wrong": ["thịnh vượng", "thành công", "hưng thịnh"],
+      "hint": "Điều này có nghĩa là được tốt đẹp",
+      "explanation": "Yêu mến sự khôn ngoan dẫn đến cuộc sống thịnh vượng.",
+      "full_verse": "Ai được sự khôn ngoan thương mến linh hồn mình; Ai gìn giữ sự thông sáng sẽ được phước.",
+      "verse_ref": "Châm Ngôn 19:8"
+    },
+    {
+      "id": "q_wisdom_025",
+      "question": "Điền vào chỗ trống: 'Nhờ sự khôn ngoan, cửa nhà được cất lên; Và nhờ sự thông sáng, nó được vững _____.'",
+      "correct": "bền",
+      "wrong": ["xây", "an toàn", "hoàn thành"],
+      "hint": "Điều này có nghĩa là được làm cho vững chắc hoặc ổn định",
+      "explanation": "Sự khôn ngoan xây dựng và sự thông sáng thiết lập.",
+      "full_verse": "Nhờ sự khôn ngoan, cửa nhà được cất lên; Và nhờ sự thông sáng, nó được vững bền.",
+      "verse_ref": "Châm Ngôn 24:3"
+    },
+    {
+      "id": "q_wisdom_026",
+      "question": "Điền vào chỗ trống: 'Đoạn, tôi thấy sự khôn ngoan hơn sự ngu dại, như ánh sáng hơn sự _____ tăm.'",
+      "correct": "tối",
+      "wrong": ["đêm", "bóng", "mù"],
+      "hint": "Đây là điều trái ngược với ánh sáng",
+      "explanation": "Sự khôn ngoan soi sáng như ánh sáng so với bóng tối của sự ngu dại.",
+      "full_verse": "Đoạn, tôi thấy sự khôn ngoan hơn sự ngu dại, như ánh sáng hơn sự tối tăm.",
+      "verse_ref": "Truyền Đạo 2:13"
+    },
+    {
+      "id": "q_wisdom_027",
+      "question": "Điền vào chỗ trống: 'Sự khôn ngoan làm cho người khôn ngoan mạnh hơn mười quan _____ ở trong thành.'",
+      "correct": "tước",
+      "wrong": ["lãnh đạo", "vua", "trưởng lão"],
+      "hint": "Đây là những người có quyền lực",
+      "explanation": "Sự khôn ngoan ban cho sức mạnh lớn hơn nhiều người có quyền lực cộng lại.",
+      "full_verse": "Sự khôn ngoan làm cho người khôn ngoan mạnh hơn mười quan tước ở trong thành.",
+      "verse_ref": "Truyền Đạo 7:19"
+    },
+    {
+      "id": "q_wisdom_028",
+      "question": "Điền vào chỗ trống: 'Ai được giống như người khôn ngoan? ai biết giải nghĩa sự vật? Sự khôn ngoan của người làm cho mặt người sáng sủa, và sự hung dữ của mặt người đổi _____.'",
+      "correct": "đi",
+      "wrong": ["vẻ", "nét", "dáng"],
+      "hint": "Đây là cách một người trông",
+      "explanation": "Sự khôn ngoan mang lại vẻ mặt dễ chịu, dịu dàng.",
+      "full_verse": "Ai được giống như người khôn ngoan? ai biết giải nghĩa sự vật? Sự khôn ngoan của người làm cho mặt người sáng sủa, và sự hung dữ của mặt người đổi đi.",
+      "verse_ref": "Truyền Đạo 8:1"
+    },
+    {
+      "id": "q_wisdom_029",
+      "question": "Điền vào chỗ trống: 'Tôi bèn nói rằng: Sự khôn ngoan hơn sức mạnh. Nhưng mà sự khôn ngoan của người nghèo bị khinh dể, lời nói người không ai _____.'",
+      "correct": "nghe",
+      "wrong": ["lắng nghe", "theo", "nhớ"],
+      "hint": "Điều này có nghĩa là chú ý đến",
+      "explanation": "Dù sự khôn ngoan vượt qua sức mạnh, thế gian thường bỏ qua người nghèo khôn ngoan.",
+      "full_verse": "Tôi bèn nói rằng: Sự khôn ngoan hơn sức mạnh. Nhưng mà sự khôn ngoan của người nghèo bị khinh dể, lời nói người không ai nghe.",
+      "verse_ref": "Truyền Đạo 9:16"
+    },
+    {
+      "id": "q_wisdom_030",
+      "question": "Điền vào chỗ trống: 'Nếu sắt đã lụt mà người ta không mài lưỡi nó, thì phải dùng nhiều sức lực hơn; song sự khôn ngoan có ích dẫn đường nẻo thành _____.'",
+      "correct": "công",
+      "wrong": ["chiến thắng", "kết quả", "lợi ích"],
+      "hint": "Đây là đạt được điều bạn đặt ra để làm",
+      "explanation": "Sự khôn ngoan và kỹ năng hiệu quả hơn sức mạnh thô.",
+      "full_verse": "Nếu sắt đã lụt mà người ta không mài lưỡi nó, thì phải dùng nhiều sức lực hơn; song sự khôn ngoan có ích dẫn đường nẻo thành công.",
+      "verse_ref": "Truyền Đạo 10:10"
+    },
+    {
+      "id": "q_wisdom_031",
+      "question": "Điền vào chỗ trống: 'Sự khôn ngoan há chẳng có nơi người già cả, Và sự thông sáng há chẳng có trong những ngày _____?'",
+      "correct": "lâu",
+      "wrong": ["khôn ngoan", "tri thức", "hiểu biết"],
+      "hint": "Đây là khả năng thấu hiểu",
+      "explanation": "Tuổi tác và kinh nghiệm thường mang lại sự khôn ngoan và thông sáng.",
+      "full_verse": "Sự khôn ngoan há chẳng có nơi người già cả, Và sự thông sáng há chẳng có trong những ngày lâu?",
+      "verse_ref": "Gióp 12:12"
+    },
+    {
+      "id": "q_wisdom_032",
+      "question": "Điền vào chỗ trống: 'Ngài phán cùng loài người rằng: Kính sợ Chúa, ấy là sự khôn ngoan; Lánh khỏi điều _____, ấy là sự thông sáng.'",
+      "correct": "ác",
+      "wrong": ["tội", "gian ác", "sai trái"],
+      "hint": "Đây là điều trái ngược với điều tốt",
+      "explanation": "Sự khôn ngoan thật kính sợ Đức Chúa Trời và tránh điều ác.",
+      "full_verse": "Ngài phán cùng loài người rằng: Kính sợ Chúa, ấy là sự khôn ngoan; Lánh khỏi điều ác, ấy là sự thông sáng.",
+      "verse_ref": "Gióp 28:28"
+    },
+    {
+      "id": "q_wisdom_033",
+      "question": "Điền vào chỗ trống: 'Luật pháp của Đức Giê-hô-va là trọn vẹn, bổ linh hồn lại; Sự chứng cớ Đức Giê-hô-va là chắc chắn, làm cho kẻ ngu _____ trở nên khôn ngoan.'",
+      "correct": "dại",
+      "wrong": ["khiêm nhường", "hiền lành", "trẻ"],
+      "hint": "Điều này mô tả người thiếu kinh nghiệm hoặc ngây thơ",
+      "explanation": "Lời Đức Chúa Trời mang lại sự khôn ngoan ngay cả cho người thiếu kinh nghiệm.",
+      "full_verse": "Luật pháp của Đức Giê-hô-va là trọn vẹn, bổ linh hồn lại; Sự chứng cớ Đức Giê-hô-va là chắc chắn, làm cho kẻ ngu dại trở nên khôn ngoan.",
+      "verse_ref": "Thi Thiên 19:7"
+    },
+    {
+      "id": "q_wisdom_034",
+      "question": "Điền vào chỗ trống: 'Miệng người công bình nói ra sự khôn ngoan; Lưỡi người thuật điều _____ đáng.'",
+      "correct": "công",
+      "wrong": ["thật", "đúng", "tốt"],
+      "hint": "Điều này có nghĩa là công bằng và chính trực",
+      "explanation": "Người công bình nói sự khôn ngoan và công lý.",
+      "full_verse": "Miệng người công bình nói ra sự khôn ngoan; Lưỡi người thuật điều công đáng.",
+      "verse_ref": "Thi Thiên 37:30"
+    },
+    {
+      "id": "q_wisdom_035",
+      "question": "Điền vào chỗ trống: 'Cầu xin Chúa dạy chúng tôi biết đếm các ngày chúng tôi, Hầu cho chúng tôi được lòng khôn _____.'",
+      "correct": "ngoan",
+      "wrong": ["thông hiểu", "tri thức", "hiểu biết"],
+      "hint": "Đây là điều chúng ta đạt được bằng cách hiểu sự ngắn ngủi của cuộc sống",
+      "explanation": "Nhận biết sự ngắn ngủi của cuộc sống giúp chúng ta sống khôn ngoan.",
+      "full_verse": "Cầu xin Chúa dạy chúng tôi biết đếm các ngày chúng tôi, Hầu cho chúng tôi được lòng khôn ngoan.",
+      "verse_ref": "Thi Thiên 90:12"
+    },
+    {
+      "id": "q_wisdom_036",
+      "question": "Điền vào chỗ trống: 'Điều răn Chúa ở cùng tôi luôn luôn, Làm cho tôi khôn ngoan hơn kẻ _____ nghịch tôi.'",
+      "correct": "thù",
+      "wrong": ["thầy dạy", "trưởng lão", "bạn bè"],
+      "hint": "Đây là những người chống đối bạn",
+      "explanation": "Lời Đức Chúa Trời ban sự khôn ngoan vượt qua đối thủ của chúng ta.",
+      "full_verse": "Điều răn Chúa ở cùng tôi luôn luôn, Làm cho tôi khôn ngoan hơn kẻ thù nghịch tôi.",
+      "verse_ref": "Thi Thiên 119:98"
+    },
+    {
+      "id": "q_wisdom_037",
+      "question": "Điền vào chỗ trống: 'Thần của Đức Giê-hô-va sẽ ngự trên Ngài, tức là thần khôn ngoan và thông sáng, thần mưu toan và mạnh sức, thần hiểu biết và kính sợ Đức Giê-hô-_____.'",
+      "correct": "va",
+      "wrong": ["Đức Chúa Trời", "Đấng Chí Cao", "Đấng Toàn Năng"],
+      "hint": "Đây là danh giao ước của Đức Chúa Trời",
+      "explanation": "Đấng Mê-si sẽ đầy dẫy Thần khôn ngoan.",
+      "full_verse": "Thần của Đức Giê-hô-va sẽ ngự trên Ngài, tức là thần khôn ngoan và thông sáng, thần mưu toan và mạnh sức, thần hiểu biết và kính sợ Đức Giê-hô-va.",
+      "verse_ref": "Ê-sai 11:2"
+    },
+    {
+      "id": "q_wisdom_038",
+      "question": "Điền vào chỗ trống: 'Ngài thay đổi thì giờ và mùa; Ngài truất vua và lập vua; Ngài ban sự khôn ngoan cho kẻ khôn ngoan, và sự thông biết cho kẻ thông _____.'",
+      "correct": "hiểu",
+      "wrong": ["khiêm nhường", "trung tín", "công bình"],
+      "hint": "Đây là những người có sự phán đoán tốt",
+      "explanation": "Đức Chúa Trời là nguồn của tất cả sự khôn ngoan và tri thức.",
+      "full_verse": "Ngài thay đổi thì giờ và mùa; Ngài truất vua và lập vua; Ngài ban sự khôn ngoan cho kẻ khôn ngoan, và sự thông biết cho kẻ thông hiểu.",
+      "verse_ref": "Đa-ni-ên 2:21"
+    },
+    {
+      "id": "q_wisdom_039",
+      "question": "Điền vào chỗ trống: 'Vậy, kẻ nào nghe và làm theo lời ta phán đây, thì giống như một người khôn ngoan cất nhà mình trên _____.'",
+      "correct": "hòn đá",
+      "wrong": ["đá", "nền", "đất"],
+      "hint": "Đây là nền móng vững chắc",
+      "explanation": "Người khôn ngoan xây dựng cuộc sống trên lời dạy của Chúa Giê-xu.",
+      "full_verse": "Vậy, kẻ nào nghe và làm theo lời ta phán đây, thì giống như một người khôn ngoan cất nhà mình trên hòn đá.",
+      "verse_ref": "Ma-thi-ơ 7:24"
+    },
+    {
+      "id": "q_wisdom_040",
+      "question": "Điền vào chỗ trống: 'Ôi! sâu nhiệm thay là sự giàu có, khôn ngoan và thông biết của Đức Chúa Trời! Sự phán xét của Ngài nào ai thấu được, đường nẻo của Ngài nào ai _____ được!'",
+      "correct": "dò",
+      "wrong": ["hiểu", "biết", "tìm"],
+      "hint": "Điều này có nghĩa là theo dõi hoặc lần theo",
+      "explanation": "Sự khôn ngoan của Đức Chúa Trời sâu xa vô hạn và vượt quá sự hiểu biết của con người.",
+      "full_verse": "Ôi! sâu nhiệm thay là sự giàu có, khôn ngoan và thông biết của Đức Chúa Trời! Sự phán xét của Ngài nào ai thấu được, đường nẻo của Ngài nào ai dò được!",
+      "verse_ref": "Rô-ma 11:33"
+    },
+    {
+      "id": "q_wisdom_041",
+      "question": "Điền vào chỗ trống: 'Bởi vì sự dại của Đức Chúa Trời còn khôn hơn người ta, và sự yếu của Đức Chúa Trời còn mạnh hơn sức _____ người ta.'",
+      "correct": "mạnh",
+      "wrong": ["quyền năng", "uy lực", "lực"],
+      "hint": "Đây là khả năng vượt qua",
+      "explanation": "Ngay cả 'sự yếu' của Đức Chúa Trời cũng vượt qua tất cả sức mạnh của con người.",
+      "full_verse": "Bởi vì sự dại của Đức Chúa Trời còn khôn hơn người ta, và sự yếu của Đức Chúa Trời còn mạnh hơn sức mạnh người ta.",
+      "verse_ref": "1 Cô-rinh-tô 1:25"
+    },
+    {
+      "id": "q_wisdom_042",
+      "question": "Điền vào chỗ trống: 'Vả, ấy là nhờ Ngài mà anh em ở trong Đức Chúa Giê-xu Christ, là Đấng mà Đức Chúa Trời đã làm nên sự khôn ngoan, sự công bình, sự nên thánh, và sự cứu _____ cho chúng ta.'",
+      "correct": "chuộc",
+      "wrong": ["rỗi", "thoát", "tự do"],
+      "hint": "Đây là được mua lại hoặc giải cứu",
+      "explanation": "Đấng Christ hiện thân của sự khôn ngoan và cung cấp sự công bình và cứu chuộc cho chúng ta.",
+      "full_verse": "Vả, ấy là nhờ Ngài mà anh em ở trong Đức Chúa Giê-xu Christ, là Đấng mà Đức Chúa Trời đã làm nên sự khôn ngoan, sự công bình, sự nên thánh, và sự cứu chuộc cho chúng ta.",
+      "verse_ref": "1 Cô-rinh-tô 1:30"
+    },
+    {
+      "id": "q_wisdom_043",
+      "question": "Điền vào chỗ trống: 'Chúng tôi giảng sự khôn ngoan giữa những người trọn vẹn, song chẳng phải sự khôn ngoan của đời nầy, cũng không phải của các quan _____ đời nầy, là kẻ sẽ bị hủy diệt.'",
+      "correct": "quyền",
+      "wrong": ["lãnh đạo", "quyền lực", "khôn ngoan"],
+      "hint": "Đây là những người có quyền lực",
+      "explanation": "Sự khôn ngoan của Đức Chúa Trời khác với sự khôn ngoan của những người có quyền thế gian.",
+      "full_verse": "Chúng tôi giảng sự khôn ngoan giữa những người trọn vẹn, song chẳng phải sự khôn ngoan của đời nầy, cũng không phải của các quan quyền đời nầy, là kẻ sẽ bị hủy diệt.",
+      "verse_ref": "1 Cô-rinh-tô 2:6"
+    },
+    {
+      "id": "q_wisdom_044",
+      "question": "Điền vào chỗ trống: 'Vì sự khôn ngoan đời nầy là sự dại dột trước mặt Đức Chúa Trời. Như có chép rằng: Ấy là Ngài bắt những kẻ khôn ngoan trong chính sự _____ xảo của họ.'",
+      "correct": "quỷ",
+      "wrong": ["mưu kế", "kế hoạch", "thủ đoạn"],
+      "hint": "Đây là sự xảo quyệt hoặc lừa dối khéo léo",
+      "explanation": "Sự khôn ngoan thế gian là ngu dại so với sự khôn ngoan của Đức Chúa Trời.",
+      "full_verse": "Vì sự khôn ngoan đời nầy là sự dại dột trước mặt Đức Chúa Trời. Như có chép rằng: Ấy là Ngài bắt những kẻ khôn ngoan trong chính sự quỷ xảo của họ.",
+      "verse_ref": "1 Cô-rinh-tô 3:19"
+    },
+    {
+      "id": "q_wisdom_045",
+      "question": "Điền vào chỗ trống: 'Tôi cầu xin Đức Chúa Trời của Đức Chúa Giê-xu Christ chúng ta, là Cha vinh hiển, ban thần trí của sự khôn ngoan và của sự _____ khải cho anh em, để nhận biết Ngài.'",
+      "correct": "mặc",
+      "wrong": ["thông hiểu", "tri thức", "hiểu biết"],
+      "hint": "Đây là sự tiết lộ thiêng liêng về lẽ thật",
+      "explanation": "Chúng ta cần Thánh Linh của Đức Chúa Trời ban sự khôn ngoan và mặc khải lẽ thật.",
+      "full_verse": "Tôi cầu xin Đức Chúa Trời của Đức Chúa Giê-xu Christ chúng ta, là Cha vinh hiển, ban thần trí của sự khôn ngoan và của sự mặc khải cho anh em, để nhận biết Ngài.",
+      "verse_ref": "Ê-phê-sô 1:17"
+    },
+    {
+      "id": "q_wisdom_046",
+      "question": "Điền vào chỗ trống: 'Vậy, hãy giữ cho khéo về sự ăn ở của anh em, chớ xử mình như người dại dột, nhưng như người khôn _____.'",
+      "correct": "ngoan",
+      "wrong": ["lanh", "cẩn thận", "thận trọng"],
+      "hint": "Đây là điều trái ngược với dại dột",
+      "explanation": "Chúng ta nên sống cẩn thận và khôn ngoan.",
+      "full_verse": "Vậy, hãy giữ cho khéo về sự ăn ở của anh em, chớ xử mình như người dại dột, nhưng như người khôn ngoan.",
+      "verse_ref": "Ê-phê-sô 5:15"
+    },
+    {
+      "id": "q_wisdom_047",
+      "question": "Điền vào chỗ trống: 'Cho nên, từ ngày chúng tôi hay tin đó, cũng không thôi vì anh em cầu nguyện và xin, để anh em được đầy dẫy sự hiểu biết về ý muốn của Ngài, với mọi thứ khôn ngoan và thông hiểu thiêng _____.'",
+      "correct": "liêng",
+      "wrong": ["Chúa", "Lời", "Cha"],
+      "hint": "Đây là ngôi thứ ba của Ba Ngôi",
+      "explanation": "Đức Thánh Linh ban sự khôn ngoan và thông hiểu về ý muốn của Đức Chúa Trời.",
+      "full_verse": "Cho nên, từ ngày chúng tôi hay tin đó, cũng không thôi vì anh em cầu nguyện và xin, để anh em được đầy dẫy sự hiểu biết về ý muốn của Ngài, với mọi thứ khôn ngoan và thông hiểu thiêng liêng.",
+      "verse_ref": "Cô-lô-se 1:9"
+    },
+    {
+      "id": "q_wisdom_048",
+      "question": "Điền vào chỗ trống: 'Trong Ngài chứa đựng mọi sự giàu có của khôn ngoan và tri _____.'",
+      "correct": "thức",
+      "wrong": ["thông hiểu", "lẽ thật", "hiểu biết"],
+      "hint": "Đây là thông tin và sự hiểu biết",
+      "explanation": "Tất cả sự khôn ngoan và tri thức đều được tìm thấy trong Đấng Christ.",
+      "full_verse": "Trong Ngài chứa đựng mọi sự giàu có của khôn ngoan và tri thức.",
+      "verse_ref": "Cô-lô-se 2:3"
+    },
+    {
+      "id": "q_wisdom_049",
+      "question": "Điền vào chỗ trống: 'Trong anh em có người nào khôn ngoan thông sáng chăng? Hãy lấy cách ăn ở tốt của mình mà bày tỏ việc mình làm bởi khôn ngoan nhu _____.'",
+      "correct": "mì",
+      "wrong": ["Đức Chúa Trời", "đức tin", "ân điển"],
+      "hint": "Đây là điều tạo ra sự khiêm nhường",
+      "explanation": "Sự khôn ngoan thật được thể hiện qua những việc làm khiêm nhường, tốt lành.",
+      "full_verse": "Trong anh em có người nào khôn ngoan thông sáng chăng? Hãy lấy cách ăn ở tốt của mình mà bày tỏ việc mình làm bởi khôn ngoan nhu mì.",
+      "verse_ref": "Gia-cơ 3:13"
+    },
+    {
+      "id": "q_wisdom_050",
+      "question": "Điền vào chỗ trống: 'Hãy nhận biết rằng sự nhịn nhục của Chúa chúng ta cốt vì sự cứu rỗi anh em, cũng như Phao-lô, anh rất yêu dấu của chúng ta, đã bởi sự khôn _____ ban cho mình mà viết thư cho anh em.'",
+      "correct": "ngoan",
+      "wrong": ["tri thức", "thông hiểu", "hiểu biết"],
+      "hint": "Đây là điều Đức Chúa Trời ban cho Phao-lô để viết",
+      "explanation": "Phao-lô viết Kinh Thánh với sự khôn ngoan được Đức Chúa Trời ban cho.",
+      "full_verse": "Hãy nhận biết rằng sự nhịn nhục của Chúa chúng ta cốt vì sự cứu rỗi anh em, cũng như Phao-lô, anh rất yêu dấu của chúng ta, đã bởi sự khôn ngoan ban cho mình mà viết thư cho anh em.",
+      "verse_ref": "2 Phi-e-rơ 3:15"
+    }
+  ]
+}

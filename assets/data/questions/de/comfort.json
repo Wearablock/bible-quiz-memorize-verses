@@ -1,1 +1,452 @@
-{}
+{
+  "q_comfort_001": {
+    "question": "Ergänze die Lücke: 'Und ob ich schon wanderte im finstern Tal, fürchte ich kein Unglück; denn du bist bei _____.'",
+    "correct": "mir",
+    "wrong": ["uns", "ihnen", "allen"],
+    "hint": "Gottes Gegenwart ist persönlich",
+    "explanation": "David drückt sein Vertrauen aus, dass Gottes Gegenwart auch in den dunkelsten Momenten des Lebens Trost und Schutz bietet.",
+    "full_verse": "Und ob ich schon wanderte im finstern Tal, fürchte ich kein Unglück; denn du bist bei mir, dein Stecken und Stab trösten mich.",
+    "verse_ref": "Psalm 23:4"
+  },
+  "q_comfort_002": {
+    "question": "Ergänze die Lücke: 'Gelobt sei Gott, der Vater unseres Herrn Jesus Christus, der Vater der Barmherzigkeit und Gott allen _____.'",
+    "correct": "Trostes",
+    "wrong": ["Erbarmens", "Gnade", "Liebe"],
+    "hint": "Dies beschreibt Gottes Wesen zu trösten",
+    "explanation": "Paulus bezeichnet Gott als die ultimative Quelle allen Trostes, der uns tröstet, damit wir andere trösten können.",
+    "full_verse": "Gelobt sei Gott, der Vater unseres Herrn Jesus Christus, der Vater der Barmherzigkeit und Gott allen Trostes, der uns tröstet in aller unserer Bedrängnis.",
+    "verse_ref": "2. Korinther 1:3-4"
+  },
+  "q_comfort_003": {
+    "question": "Ergänze die Lücke: 'Selig sind, die da Leid tragen; denn sie sollen _____ werden.'",
+    "correct": "getröstet",
+    "wrong": ["geheilt", "gesegnet", "gerettet"],
+    "hint": "Jesus verspricht den Trauernden Trost",
+    "explanation": "In den Seligpreisungen verspricht Jesus göttlichen Trost für alle, die trauern und leiden.",
+    "full_verse": "Selig sind, die da Leid tragen; denn sie sollen getröstet werden.",
+    "verse_ref": "Matthäus 5:4"
+  },
+  "q_comfort_004": {
+    "question": "Ergänze die Lücke: 'Fürchte dich nicht, ich bin mit dir; weiche nicht, denn ich bin dein _____.'",
+    "correct": "Gott",
+    "wrong": ["Herr", "Retter", "König"],
+    "hint": "Gott erklärt seine Identität als Grund, nicht zu fürchten",
+    "explanation": "Gott versichert seinem Volk, dass seine Gegenwart und Identität die Notwendigkeit der Furcht beseitigen.",
+    "full_verse": "Fürchte dich nicht, ich bin mit dir; weiche nicht, denn ich bin dein Gott. Ich stärke dich, ich helfe dir auch, ich halte dich durch die rechte Hand meiner Gerechtigkeit.",
+    "verse_ref": "Jesaja 41:10"
+  },
+  "q_comfort_005": {
+    "question": "Ergänze die Lücke: 'Den Frieden lasse ich euch, meinen _____ gebe ich euch.'",
+    "correct": "Frieden",
+    "wrong": ["Liebe", "Freude", "Geist"],
+    "hint": "Jesus gibt, was er hinterlässt",
+    "explanation": "Jesus verspricht seinen Jüngern einen übernatürlichen Frieden, den die Welt nicht geben kann.",
+    "full_verse": "Den Frieden lasse ich euch, meinen Frieden gebe ich euch. Nicht gebe ich euch, wie die Welt gibt. Euer Herz erschrecke nicht und fürchte sich nicht.",
+    "verse_ref": "Johannes 14:27"
+  },
+  "q_comfort_006": {
+    "question": "Ergänze die Lücke: 'Der HERR ist nahe denen, die zerbrochenen _____ sind.'",
+    "correct": "Herzens",
+    "wrong": ["Geistes", "Glaubens", "Mutes"],
+    "hint": "Gott ist denen nahe, deren Herz verwundet ist",
+    "explanation": "Gott verspricht seine besondere Nähe zu denen, die emotional verwundet und im Geist zerbrochen sind.",
+    "full_verse": "Der HERR ist nahe denen, die zerbrochenen Herzens sind, und hilft denen, die ein zerschlagenes Gemüt haben.",
+    "verse_ref": "Psalm 34:19"
+  },
+  "q_comfort_007": {
+    "question": "Ergänze die Lücke: 'Kommet her zu mir, alle, die ihr mühselig und beladen seid; ich will euch _____.'",
+    "correct": "erquicken",
+    "wrong": ["Frieden", "Hoffnung", "Kraft"],
+    "hint": "Jesus bietet Erleichterung von Erschöpfung",
+    "explanation": "Jesus lädt alle, die müde und überwältigt sind, ein, Ruhe in ihm zu finden.",
+    "full_verse": "Kommet her zu mir, alle, die ihr mühselig und beladen seid; ich will euch erquicken.",
+    "verse_ref": "Matthäus 11:28"
+  },
+  "q_comfort_008": {
+    "question": "Ergänze die Lücke: 'Wir wissen aber, dass denen, die Gott lieben, alle Dinge zum _____ dienen.'",
+    "correct": "Besten",
+    "wrong": ["Nutzen", "Segen", "Ruhm"],
+    "hint": "Gottes Absicht in allen Umständen",
+    "explanation": "Paulus versichert den Gläubigen, dass Gott alle Dinge zu ihrem letztendlichen Wohl lenkt.",
+    "full_verse": "Wir wissen aber, dass denen, die Gott lieben, alle Dinge zum Besten dienen, denen, die nach seinem Ratschluss berufen sind.",
+    "verse_ref": "Römer 8:28"
+  },
+  "q_comfort_009": {
+    "question": "Ergänze die Lücke: 'Gott ist unsre Zuversicht und Stärke, eine Hilfe in den großen _____, die uns getroffen haben.'",
+    "correct": "Nöten",
+    "wrong": ["Zeiten", "Prüfungen", "Gefahren"],
+    "hint": "Wenn Schwierigkeiten entstehen, ist Gott da",
+    "explanation": "Der Psalmist erklärt Gott als beständige Quelle des Schutzes und der Hilfe in schwierigen Zeiten.",
+    "full_verse": "Gott ist unsre Zuversicht und Stärke, eine Hilfe in den großen Nöten, die uns getroffen haben.",
+    "verse_ref": "Psalm 46:2"
+  },
+  "q_comfort_010": {
+    "question": "Ergänze die Lücke: 'Ich will euch trösten, wie einen seine _____ tröstet.'",
+    "correct": "Mutter",
+    "wrong": ["Vater", "Freund", "Bruder"],
+    "hint": "Gott verspricht mütterlichen Trost",
+    "explanation": "Gott vergleicht seinen Trost mit der zärtlichen Fürsorge einer Mutter für ihr Kind.",
+    "full_verse": "Ich will euch trösten, wie einen seine Mutter tröstet; ja, ihr sollt an Jerusalem getröstet werden.",
+    "verse_ref": "Jesaja 66:13"
+  },
+  "q_comfort_011": {
+    "question": "Ergänze die Lücke: 'Der HERR ist mein _____; mir wird nichts mangeln.'",
+    "correct": "Hirte",
+    "wrong": ["Gott", "König", "Vater"],
+    "hint": "Diese Metapher zeigt Gottes fürsorgliche Führung",
+    "explanation": "David verwendet die Hirten-Metapher, um Gottes vollständige Versorgung und Fürsorge zu beschreiben.",
+    "full_verse": "Der HERR ist mein Hirte, mir wird nichts mangeln.",
+    "verse_ref": "Psalm 23:1"
+  },
+  "q_comfort_012": {
+    "question": "Ergänze die Lücke: 'Der HERR ist mein Licht und mein Heil; vor wem sollte ich mich _____?'",
+    "correct": "fürchten",
+    "wrong": ["vertrauen", "folgen", "dienen"],
+    "hint": "Gottes Gegenwart beseitigt diese Emotion",
+    "explanation": "David erklärt, dass es mit Gott als Licht und Heil keinen Grund zur Furcht gibt.",
+    "full_verse": "Der HERR ist mein Licht und mein Heil; vor wem sollte ich mich fürchten? Der HERR ist meines Lebens Kraft; vor wem sollte mir grauen?",
+    "verse_ref": "Psalm 27:1"
+  },
+  "q_comfort_013": {
+    "question": "Ergänze die Lücke: 'Wirf dein Anliegen auf den HERRN; der wird dich _____.'",
+    "correct": "versorgen",
+    "wrong": ["trösten", "helfen", "retten"],
+    "hint": "Gott wird dich am Laufen halten",
+    "explanation": "Der Psalmist ermutigt, unsere Sorgen Gott zu geben, der uns unterstützen und erhalten wird.",
+    "full_verse": "Wirf dein Anliegen auf den HERRN; der wird dich versorgen und wird den Gerechten in Ewigkeit nicht wanken lassen.",
+    "verse_ref": "Psalm 55:23"
+  },
+  "q_comfort_014": {
+    "question": "Ergänze die Lücke: 'Wenn mir gleich Leib und Seele verschmachtet, so bist du doch, Gott, allezeit meines Herzens Trost und mein _____.'",
+    "correct": "Teil",
+    "wrong": ["Heil", "Kraft", "Licht"],
+    "hint": "Gottes Versorgung hat kein Ende",
+    "explanation": "Selbst wenn unser Körper und Geist versagen, bleibt Gott unsere ewige Stärke und unser Erbe.",
+    "full_verse": "Wenn mir gleich Leib und Seele verschmachtet, so bist du doch, Gott, allezeit meines Herzens Trost und mein Teil.",
+    "verse_ref": "Psalm 73:26"
+  },
+  "q_comfort_015": {
+    "question": "Ergänze die Lücke: 'Ich hatte viel Bekümmernis in meinem Herzen, aber deine Tröstungen erquickten meine _____.'",
+    "correct": "Seele",
+    "wrong": ["Herz", "Geist", "Leben"],
+    "hint": "Gottes Trost erquickt diesen Teil von uns",
+    "explanation": "Der Psalmist bezeugt, dass Gottes Trost überwältigende Angst in Erquickung verwandelt.",
+    "full_verse": "Ich hatte viel Bekümmernis in meinem Herzen, aber deine Tröstungen erquickten meine Seele.",
+    "verse_ref": "Psalm 94:19"
+  },
+  "q_comfort_016": {
+    "question": "Ergänze die Lücke: 'Das ist mein Trost in meinem Elend, dass dein _____ mich erquickt.'",
+    "correct": "Wort",
+    "wrong": ["Geist", "Liebe", "Gnade"],
+    "hint": "Gottes Zusage gibt Leben",
+    "explanation": "Der Psalmist findet Trost im Leiden durch Gottes treue Verheißungen.",
+    "full_verse": "Das ist mein Trost in meinem Elend, dass dein Wort mich erquickt.",
+    "verse_ref": "Psalm 119:50"
+  },
+  "q_comfort_017": {
+    "question": "Ergänze die Lücke: 'Deine Gnade müsse mein Trost sein, wie du deinem Knecht _____ hast.'",
+    "correct": "zugesagt",
+    "wrong": ["versprochen", "gegeben", "gezeigt"],
+    "hint": "Der Psalmist beruft sich auf das, was Gott gesagt hat",
+    "explanation": "Der Psalmist bittet um Trost basierend auf Gottes unfehlbarer Liebe und seinen Verheißungen.",
+    "full_verse": "Deine Gnade müsse mein Trost sein, wie du deinem Knecht zugesagt hast.",
+    "verse_ref": "Psalm 119:76"
+  },
+  "q_comfort_018": {
+    "question": "Ergänze die Lücke: 'Er heilt, die zerbrochenen Herzens sind, und verbindet ihre _____.'",
+    "correct": "Wunden",
+    "wrong": ["Herzen", "Schmerzen", "Leiden"],
+    "hint": "Gott sorgt für Heilung emotionaler Verletzungen",
+    "explanation": "Gott heilt nicht nur gebrochene Herzen, sondern kümmert sich auch um die spezifischen Wunden, die wir tragen.",
+    "full_verse": "Er heilt, die zerbrochenen Herzens sind, und verbindet ihre Wunden.",
+    "verse_ref": "Psalm 147:3"
+  },
+  "q_comfort_019": {
+    "question": "Ergänze die Lücke: 'Tröstet, tröstet mein _____, spricht euer Gott.'",
+    "correct": "Volk",
+    "wrong": ["Kinder", "Diener", "Nation"],
+    "hint": "Gott wendet sich an seine Gemeinschaft",
+    "explanation": "Gott befiehlt, dass sein Volk doppelten Trost empfängt, und betont die Wichtigkeit der Tröstung.",
+    "full_verse": "Tröstet, tröstet mein Volk! spricht euer Gott.",
+    "verse_ref": "Jesaja 40:1"
+  },
+  "q_comfort_020": {
+    "question": "Ergänze die Lücke: 'Jauchzet, ihr Himmel; freue dich, Erde! Lobet, ihr Berge, mit Jauchzen! Denn der HERR hat sein Volk _____.'",
+    "correct": "getröstet",
+    "wrong": ["geliebt", "gerettet", "gesegnet"],
+    "hint": "Die ganze Schöpfung feiert Gottes Tröstung",
+    "explanation": "Die Schöpfung wird aufgerufen zu feiern, weil Gott seinem Volk Trost spendet.",
+    "full_verse": "Jauchzet, ihr Himmel; freue dich, Erde! Lobet, ihr Berge, mit Jauchzen! Denn der HERR hat sein Volk getröstet und erbarmt sich seiner Elenden.",
+    "verse_ref": "Jesaja 49:13"
+  },
+  "q_comfort_021": {
+    "question": "Ergänze die Lücke: 'Ich, ich bin euer _____.'",
+    "correct": "Tröster",
+    "wrong": ["Retter", "Gott", "Beschützer"],
+    "hint": "Gott selbst bringt persönlich Trost",
+    "explanation": "Gott erklärt nachdrücklich, dass er selbst derjenige ist, der Trost bringt.",
+    "full_verse": "Ich, ich bin euer Tröster! Wer bist du denn, dass du dich vor Menschen fürchtest, die doch sterben, und vor Menschenkindern, die wie Gras vergehen.",
+    "verse_ref": "Jesaja 51:12"
+  },
+  "q_comfort_022": {
+    "question": "Ergänze die Lücke: 'Es sollen wohl Berge weichen und Hügel hinfallen, aber meine _____ soll nicht von dir weichen.'",
+    "correct": "Gnade",
+    "wrong": ["Liebe", "Treue", "Verheißung"],
+    "hint": "Gottes Zuneigung zu uns ist unerschütterlich",
+    "explanation": "Gott verspricht, dass seine Gnade stabiler ist als die Berge selbst.",
+    "full_verse": "Es sollen wohl Berge weichen und Hügel hinfallen, aber meine Gnade soll nicht von dir weichen, und der Bund meines Friedens soll nicht hinfallen, spricht der HERR, dein Erbarmer.",
+    "verse_ref": "Jesaja 54:10"
+  },
+  "q_comfort_023": {
+    "question": "Ergänze die Lücke: 'Der Geist Gottes des HERRN ist auf mir, weil der HERR mich gesalbt hat. Er hat mich gesandt, den Elenden gute _____ zu bringen.'",
+    "correct": "Botschaft",
+    "wrong": ["Nachricht", "Hoffnung", "Worte"],
+    "hint": "Gute Nachricht kommt zu den Bedürftigen",
+    "explanation": "Jesaja prophezeit über die Mission des Messias, den Bedürftigen gute Nachricht und Trost zu bringen.",
+    "full_verse": "Der Geist Gottes des HERRN ist auf mir, weil der HERR mich gesalbt hat. Er hat mich gesandt, den Elenden gute Botschaft zu bringen, die zerbrochenen Herzen zu verbinden, zu verkündigen den Gefangenen die Freiheit.",
+    "verse_ref": "Jesaja 61:1"
+  },
+  "q_comfort_024": {
+    "question": "Ergänze die Lücke: 'Ich will ihre Trauer in _____ verwandeln und sie trösten und sie erfreuen nach ihrer Betrübnis.'",
+    "correct": "Freude",
+    "wrong": ["Frieden", "Hoffnung", "Ruhe"],
+    "hint": "Gott verwandelt Trauer in Feier",
+    "explanation": "Gott verspricht, Trauer in Freude zu verwandeln und Klagen durch Fröhlichkeit zu ersetzen.",
+    "full_verse": "Ich will ihre Trauer in Freude verwandeln und sie trösten und sie erfreuen nach ihrer Betrübnis.",
+    "verse_ref": "Jeremia 31:13"
+  },
+  "q_comfort_025": {
+    "question": "Ergänze die Lücke: 'Die Güte des HERRN ist's, dass wir nicht gar aus sind, seine Barmherzigkeit hat noch kein _____.'",
+    "correct": "Ende",
+    "wrong": ["Ziel", "Grenze", "Maß"],
+    "hint": "Gottes Barmherzigkeit versagt nie",
+    "explanation": "Selbst im Leiden bleiben Gottes Liebe und Barmherzigkeit beständig und zuverlässig.",
+    "full_verse": "Die Güte des HERRN ist's, dass wir nicht gar aus sind, seine Barmherzigkeit hat noch kein Ende, sondern sie ist alle Morgen neu, und deine Treue ist groß.",
+    "verse_ref": "Klagelieder 3:22-23"
+  },
+  "q_comfort_026": {
+    "question": "Ergänze die Lücke: 'Der HERR ist gütig und eine Feste zur Zeit der _____.'",
+    "correct": "Not",
+    "wrong": ["Angst", "Prüfung", "Gefahr"],
+    "hint": "Gott ist ein sicherer Ort, wenn Schwierigkeiten kommen",
+    "explanation": "Nahum verkündet Gottes Güte und seine Rolle als Zuflucht in schwierigen Zeiten.",
+    "full_verse": "Der HERR ist gütig und eine Feste zur Zeit der Not und kennt, die auf ihn trauen.",
+    "verse_ref": "Nahum 1:7"
+  },
+  "q_comfort_027": {
+    "question": "Ergänze die Lücke: 'Denn der HERR, dein Gott, ist bei dir, ein starker _____, der hilft.'",
+    "correct": "Held",
+    "wrong": ["Krieger", "Beschützer", "Retter"],
+    "hint": "Gott als Kämpfer bringt Rettung",
+    "explanation": "Zefanja beschreibt Gott als mächtigen Helden, der rettet und sich über sein Volk freut.",
+    "full_verse": "Denn der HERR, dein Gott, ist bei dir, ein starker Held, der hilft. Er wird sich über dich freuen und dir freundlich sein, er wird dir vergeben in seiner Liebe und wird über dich jauchzen mit Freuden.",
+    "verse_ref": "Zefanja 3:17"
+  },
+  "q_comfort_028": {
+    "question": "Ergänze die Lücke: 'Nehmt auf euch mein Joch und lernt von mir; denn ich bin sanftmütig und von _____ demütig.'",
+    "correct": "Herzen",
+    "wrong": ["Geist", "Sinn", "Seele"],
+    "hint": "Jesus beschreibt seinen inneren Charakter",
+    "explanation": "Jesus lädt uns ein, von seiner sanften und demütigen Natur zu lernen und Ruhe für unsere Seelen zu finden.",
+    "full_verse": "Nehmt auf euch mein Joch und lernt von mir; denn ich bin sanftmütig und von Herzen demütig; so werdet ihr Ruhe finden für eure Seelen.",
+    "verse_ref": "Matthäus 11:29"
+  },
+  "q_comfort_029": {
+    "question": "Ergänze die Lücke: 'Euer Herz erschrecke nicht! Glaubt an Gott und glaubt an _____!'",
+    "correct": "mich",
+    "wrong": ["ihn", "uns", "euch"],
+    "hint": "Jesus spricht innere Unruhe an",
+    "explanation": "Jesus tröstet seine Jünger, indem er sie aufruft, auf ihn zu vertrauen, wie sie auf Gott vertrauen.",
+    "full_verse": "Euer Herz erschrecke nicht! Glaubt an Gott und glaubt an mich!",
+    "verse_ref": "Johannes 14:1"
+  },
+  "q_comfort_030": {
+    "question": "Ergänze die Lücke: 'Und ich will den Vater bitten und er wird euch einen andern Tröster geben, dass er bei euch sei in _____.'",
+    "correct": "Ewigkeit",
+    "wrong": ["Wahrheit", "Liebe", "Kraft"],
+    "hint": "Die Gegenwart des Helfers hat kein Ende",
+    "explanation": "Jesus verspricht den Heiligen Geist als ständigen Tröster und Helfer.",
+    "full_verse": "Und ich will den Vater bitten und er wird euch einen andern Tröster geben, dass er bei euch sei in Ewigkeit.",
+    "verse_ref": "Johannes 14:16"
+  },
+  "q_comfort_031": {
+    "question": "Ergänze die Lücke: 'Ich will euch nicht als _____ zurücklassen; ich komme zu euch.'",
+    "correct": "Waisen",
+    "wrong": ["Fremde", "Alleinstehende", "Verlassene"],
+    "hint": "Jesus verspricht, uns nicht elternlos zu lassen",
+    "explanation": "Jesus versichert seinen Jüngern, dass er sie nicht wie Kinder ohne Eltern verlassen wird.",
+    "full_verse": "Ich will euch nicht als Waisen zurücklassen; ich komme zu euch.",
+    "verse_ref": "Johannes 14:18"
+  },
+  "q_comfort_032": {
+    "question": "Ergänze die Lücke: 'Das habe ich mit euch geredet, damit ihr in mir Frieden habt. In der Welt habt ihr Angst; aber seid getrost, ich habe die Welt _____.'",
+    "correct": "überwunden",
+    "wrong": ["besiegt", "bezwungen", "erobert"],
+    "hint": "Jesus hat diesen Bereich erobert",
+    "explanation": "Jesus erkennt Trübsal an, ermutigt aber die Gläubigen mit seinem Sieg über die Welt.",
+    "full_verse": "Das habe ich mit euch geredet, damit ihr in mir Frieden habt. In der Welt habt ihr Angst; aber seid getrost, ich habe die Welt überwunden.",
+    "verse_ref": "Johannes 16:33"
+  },
+  "q_comfort_033": {
+    "question": "Ergänze die Lücke: 'Denn ich bin überzeugt, dass dieser Zeit Leiden nicht ins Gewicht fallen gegenüber der _____, die an uns offenbart werden soll.'",
+    "correct": "Herrlichkeit",
+    "wrong": ["Freude", "Belohnung", "Segen"],
+    "hint": "Zukünftiger Glanz überwiegt gegenwärtigen Schmerz",
+    "explanation": "Paulus setzt Leiden in Perspektive, indem er es mit der unvergleichlichen zukünftigen Herrlichkeit vergleicht.",
+    "full_verse": "Denn ich bin überzeugt, dass dieser Zeit Leiden nicht ins Gewicht fallen gegenüber der Herrlichkeit, die an uns offenbart werden soll.",
+    "verse_ref": "Römer 8:18"
+  },
+  "q_comfort_034": {
+    "question": "Ergänze die Lücke: 'Denn was zuvor geschrieben ist, das ist uns zur Lehre geschrieben, damit wir durch Geduld und den Trost der Schrift _____ haben.'",
+    "correct": "Hoffnung",
+    "wrong": ["Glaube", "Frieden", "Freude"],
+    "hint": "Die Schrift erzeugt diese Erwartung",
+    "explanation": "Paulus erklärt, dass die Schrift Ausdauer und Ermutigung bietet, die Hoffnung hervorbringen.",
+    "full_verse": "Denn was zuvor geschrieben ist, das ist uns zur Lehre geschrieben, damit wir durch Geduld und den Trost der Schrift Hoffnung haben.",
+    "verse_ref": "Römer 15:4"
+  },
+  "q_comfort_035": {
+    "question": "Ergänze die Lücke: 'Denn wie die Leiden Christi reichlich über uns kommen, so werden wir auch reichlich getröstet durch _____.'",
+    "correct": "Christus",
+    "wrong": ["Gott", "Glauben", "Hoffnung"],
+    "hint": "Leiden und Trost sind verbunden",
+    "explanation": "Paulus lehrt, dass das Teilen an Christi Leiden auch bedeutet, reichlich an seinem Trost teilzuhaben.",
+    "full_verse": "Denn wie die Leiden Christi reichlich über uns kommen, so werden wir auch reichlich getröstet durch Christus.",
+    "verse_ref": "2. Korinther 1:5"
+  },
+  "q_comfort_036": {
+    "question": "Ergänze die Lücke: 'Aber Gott, der die Geringen tröstet, der tröstete uns durch die Ankunft des _____.'",
+    "correct": "Titus",
+    "wrong": ["Timotheus", "Paulus", "Barnabas"],
+    "hint": "Die Ankunft dieser Person brachte Trost",
+    "explanation": "Paulus berichtet, wie Gott die Ankunft des Titus nutzte, um in einer schwierigen Zeit Trost zu bringen.",
+    "full_verse": "Aber Gott, der die Geringen tröstet, der tröstete uns durch die Ankunft des Titus.",
+    "verse_ref": "2. Korinther 7:6"
+  },
+  "q_comfort_037": {
+    "question": "Ergänze die Lücke: 'Er aber, unser Herr Jesus Christus, und Gott, unser Vater, der uns geliebt und uns einen ewigen Trost und eine gute _____ gegeben hat durch Gnade.'",
+    "correct": "Hoffnung",
+    "wrong": ["Nachricht", "Glaube", "Verheißung"],
+    "hint": "Gott gibt uns positive Erwartung",
+    "explanation": "Paulus betet, dass Gottes ewiger Trost und Hoffnung die Gläubigen stärken mögen.",
+    "full_verse": "Er aber, unser Herr Jesus Christus, und Gott, unser Vater, der uns geliebt und uns einen ewigen Trost und eine gute Hoffnung gegeben hat durch Gnade, der tröste eure Herzen und stärke euch in allem guten Werk und Wort.",
+    "verse_ref": "2. Thessalonicher 2:16-17"
+  },
+  "q_comfort_038": {
+    "question": "Ergänze die Lücke: 'Darum lasst uns freimütig hinzutreten zu dem Thron der Gnade, auf dass wir Barmherzigkeit empfangen und Gnade finden zu der Zeit, wenn wir _____ bedürfen.'",
+    "correct": "Hilfe",
+    "wrong": ["Trost", "Kraft", "Rettung"],
+    "hint": "Gnade ist verfügbar, wenn wir sie brauchen",
+    "explanation": "Wir werden ermutigt, mutig zu Gottes Thron zu kommen, um Hilfe zu empfangen, wenn wir sie am meisten brauchen.",
+    "full_verse": "Darum lasst uns freimütig hinzutreten zu dem Thron der Gnade, auf dass wir Barmherzigkeit empfangen und Gnade finden zu der Zeit, wenn wir Hilfe bedürfen.",
+    "verse_ref": "Hebräer 4:16"
+  },
+  "q_comfort_039": {
+    "question": "Ergänze die Lücke: 'Ich will dich nicht verlassen und nicht von dir _____.'",
+    "correct": "weichen",
+    "wrong": ["gehen", "fliehen", "trennen"],
+    "hint": "Gott verspricht, uns nie zu verlassen",
+    "explanation": "Gott gibt ein nachdrückliches Versprechen, sein Volk nie zu verlassen oder aufzugeben.",
+    "full_verse": "Seid nicht geldgierig, und lasst euch genügen an dem, was da ist. Denn er hat gesagt: Ich will dich nicht verlassen und nicht von dir weichen.",
+    "verse_ref": "Hebräer 13:5"
+  },
+  "q_comfort_040": {
+    "question": "Ergänze die Lücke: 'Alle eure Sorge werft auf ihn; denn er _____ für euch.'",
+    "correct": "sorgt",
+    "wrong": ["liebt", "kämpft", "wacht"],
+    "hint": "Gottes Fürsorge motiviert, ihm unsere Sorgen zu geben",
+    "explanation": "Petrus ermutigt Gläubige, alle ihre Sorgen Gott zu geben, weil er sich wirklich um sie kümmert.",
+    "full_verse": "Alle eure Sorge werft auf ihn; denn er sorgt für euch.",
+    "verse_ref": "1. Petrus 5:7"
+  },
+  "q_comfort_041": {
+    "question": "Ergänze die Lücke: 'Denn das Lamm mitten auf dem Thron wird sie weiden und leiten zu den Quellen des lebendigen _____.'",
+    "correct": "Wassers",
+    "wrong": ["Lebens", "Lichts", "Heils"],
+    "hint": "Das Lamm bietet Erfrischung",
+    "explanation": "In der Offenbarung führt Jesus als das Lamm sein Volk zu ewiger Erfrischung und Trost.",
+    "full_verse": "Denn das Lamm mitten auf dem Thron wird sie weiden und leiten zu den Quellen des lebendigen Wassers, und Gott wird abwischen alle Tränen von ihren Augen.",
+    "verse_ref": "Offenbarung 7:17"
+  },
+  "q_comfort_042": {
+    "question": "Ergänze die Lücke: 'Und Gott wird abwischen alle _____ von ihren Augen.'",
+    "correct": "Tränen",
+    "wrong": ["Schmerzen", "Leiden", "Trauer"],
+    "hint": "Gott entfernt den Beweis des Weinens",
+    "explanation": "Im neuen Himmel und der neuen Erde wird Gott persönlich alle Trauer und allen Schmerz entfernen.",
+    "full_verse": "Und Gott wird abwischen alle Tränen von ihren Augen, und der Tod wird nicht mehr sein, noch Leid noch Geschrei noch Schmerz wird mehr sein; denn das Erste ist vergangen.",
+    "verse_ref": "Offenbarung 21:4"
+  },
+  "q_comfort_043": {
+    "question": "Ergänze die Lücke: 'Der HERR selbst wird vor dir herziehen und wird mit dir sein und wird die Hand nicht abtun und dich nicht _____.'",
+    "correct": "verlassen",
+    "wrong": ["vergessen", "aufgeben", "verwerfen"],
+    "hint": "Gott wird sein Volk nie im Stich lassen",
+    "explanation": "Mose ermutigt Josua mit dem Versprechen, dass Gott vorausgeht und sein Volk nie verlässt.",
+    "full_verse": "Der HERR selbst wird vor dir herziehen und wird mit dir sein und wird die Hand nicht abtun und dich nicht verlassen. Fürchte dich nicht und erschrick nicht!",
+    "verse_ref": "5. Mose 31:8"
+  },
+  "q_comfort_044": {
+    "question": "Ergänze die Lücke: 'Habe ich dir nicht geboten: Sei getrost und unverzagt? Lass dir nicht grauen und entsetze dich nicht; denn der HERR, dein Gott, ist mit dir in allem, was du tun _____.'",
+    "correct": "wirst",
+    "wrong": ["kannst", "sollst", "musst"],
+    "hint": "Gott gebietet Stärke und diese Eigenschaft",
+    "explanation": "Gott gebietet Josua, stark und mutig zu sein, weil er überall bei ihm sein wird, wohin er geht.",
+    "full_verse": "Habe ich dir nicht geboten: Sei getrost und unverzagt? Lass dir nicht grauen und entsetze dich nicht; denn der HERR, dein Gott, ist mit dir in allem, was du tun wirst.",
+    "verse_ref": "Josua 1:9"
+  },
+  "q_comfort_045": {
+    "question": "Ergänze die Lücke: 'Der HERR ist eine Feste für den Unterdrückten, eine Feste in Zeiten der _____.'",
+    "correct": "Not",
+    "wrong": ["Angst", "Gefahr", "Prüfung"],
+    "hint": "Gott schützt in schwierigen Zeiten",
+    "explanation": "Der Psalmist erklärt Gott als sicheren Ort für die Verfolgten und Kämpfenden.",
+    "full_verse": "Der HERR ist des Armen Schutz, ein Schutz in Zeiten der Not.",
+    "verse_ref": "Psalm 9:10"
+  },
+  "q_comfort_046": {
+    "question": "Ergänze die Lücke: 'Der HERR ist mein Fels und meine Burg und mein Erretter, mein Gott, mein Hort, auf den ich _____.'",
+    "correct": "traue",
+    "wrong": ["hoffe", "baue", "warte"],
+    "hint": "David findet Sicherheit in Gott",
+    "explanation": "David verwendet mehrere Metaphern, um Gott als seine ultimative Quelle des Schutzes und der Sicherheit zu beschreiben.",
+    "full_verse": "Der HERR ist mein Fels und meine Burg und mein Erretter, mein Gott, mein Hort, auf den ich traue, mein Schild und Berg meines Heils und mein Schutz.",
+    "verse_ref": "Psalm 18:3"
+  },
+  "q_comfort_047": {
+    "question": "Ergänze die Lücke: 'Den Abend lang währt das Weinen, aber des Morgens ist _____.'",
+    "correct": "Freude",
+    "wrong": ["Friede", "Hoffnung", "Licht"],
+    "hint": "Freude folgt nach der Dunkelheit",
+    "explanation": "Der Psalmist versichert, dass Trauer vorübergehend ist und Freude mit dem neuen Tag kommt.",
+    "full_verse": "Denn sein Zorn währt einen Augenblick und lebenslang seine Gnade. Den Abend lang währt das Weinen, aber des Morgens ist Freude.",
+    "verse_ref": "Psalm 30:6"
+  },
+  "q_comfort_048": {
+    "question": "Ergänze die Lücke: 'Was betrübst du dich, meine Seele, und bist so unruhig in mir? Harre auf Gott; denn ich werde ihm noch danken, dass er meines Angesichts Hilfe und mein _____ ist.'",
+    "correct": "Gott",
+    "wrong": ["Herr", "Retter", "König"],
+    "hint": "Der Psalmist ermutigt zu zukünftiger Anbetung",
+    "explanation": "Der Psalmist ermahnt seine eigene Seele, trotz gegenwärtiger Entmutigung auf Gott zu hoffen.",
+    "full_verse": "Was betrübst du dich, meine Seele, und bist so unruhig in mir? Harre auf Gott; denn ich werde ihm noch danken, dass er meines Angesichts Hilfe und mein Gott ist.",
+    "verse_ref": "Psalm 42:6"
+  },
+  "q_comfort_049": {
+    "question": "Ergänze die Lücke: 'Wer unter dem Schirm des Höchsten sitzt und unter dem Schatten des _____ bleibt.'",
+    "correct": "Allmächtigen",
+    "wrong": ["Herrn", "Retters", "Königs"],
+    "hint": "Dieser Titel betont Gottes Macht",
+    "explanation": "Wer Gott zu seiner Wohnstätte macht, findet Ruhe unter seinem schützenden Schatten.",
+    "full_verse": "Wer unter dem Schirm des Höchsten sitzt und unter dem Schatten des Allmächtigen bleibt, der spricht zu dem HERRN: Meine Zuversicht und meine Burg, mein Gott, auf den ich hoffe.",
+    "verse_ref": "Psalm 91:1-2"
+  },
+  "q_comfort_050": {
+    "question": "Ergänze die Lücke: 'Ich hebe meine Augen auf zu den Bergen. Woher kommt mir Hilfe? Meine Hilfe kommt vom HERRN, der Himmel und _____ gemacht hat.'",
+    "correct": "Erde",
+    "wrong": ["Welt", "Meer", "alles"],
+    "hint": "Der Psalmist identifiziert die Quelle der Hilfe",
+    "explanation": "Der Psalmist schaut über irdische Quellen hinaus zu Gott als dem Schöpfer von Himmel und Erde um Hilfe.",
+    "full_verse": "Ich hebe meine Augen auf zu den Bergen. Woher kommt mir Hilfe? Meine Hilfe kommt vom HERRN, der Himmel und Erde gemacht hat.",
+    "verse_ref": "Psalm 121:1-2"
+  }
+}

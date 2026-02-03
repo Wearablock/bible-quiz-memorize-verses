@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_strength_001",
+      "question": "Fülle die Lücke aus: 'Ich vermag alles durch den, der mich _____ macht.'",
+      "correct": "mächtig",
+      "wrong": ["stark", "mutig", "fähig"],
+      "hint": "Dies ist die Fähigkeit, Herausforderungen zu überwinden",
+      "explanation": "Christus befähigt uns, jeder Situation mit seiner Kraft zu begegnen.",
+      "full_verse": "Ich vermag alles durch den, der mich mächtig macht.",
+      "verse_ref": "Philipper 4:13"
+    },
+    {
+      "id": "q_strength_002",
+      "question": "Fülle die Lücke aus: 'Aber die auf den HERRN harren, kriegen neue Kraft, dass sie auffahren mit Flügeln wie _____; dass sie laufen und nicht matt werden, dass sie wandeln und nicht müde werden.'",
+      "correct": "Adler",
+      "wrong": ["Engel", "Vögel", "Tauben"],
+      "hint": "Dies ist ein mächtiger Vogel, der hoch fliegt",
+      "explanation": "Diejenigen, die auf Gott vertrauen, erhalten erneuerte Kraft, um Schwierigkeiten zu überwinden.",
+      "full_verse": "Aber die auf den HERRN harren, kriegen neue Kraft, dass sie auffahren mit Flügeln wie Adler, dass sie laufen und nicht matt werden, dass sie wandeln und nicht müde werden.",
+      "verse_ref": "Jesaja 40:31"
+    },
+    {
+      "id": "q_strength_003",
+      "question": "Fülle die Lücke aus: 'Gott ist unsre Zuversicht und Stärke, eine Hilfe in den großen _____, die uns getroffen haben.'",
+      "correct": "Nöten",
+      "wrong": ["Zeiten", "Gefahren", "Prüfungen"],
+      "hint": "Dieses Wort bedeutet Schwierigkeiten oder Bedrängnisse",
+      "explanation": "Gott ist immer als unsere Quelle der Stärke und Hilfe verfügbar.",
+      "full_verse": "Gott ist unsre Zuversicht und Stärke, eine Hilfe in den großen Nöten, die uns getroffen haben.",
+      "verse_ref": "Psalm 46:2"
+    },
+    {
+      "id": "q_strength_004",
+      "question": "Fülle die Lücke aus: 'Und er hat zu mir gesagt: Lass dir an meiner Gnade genügen; denn meine Kraft vollendet sich in der _____.'",
+      "correct": "Schwachheit",
+      "wrong": ["Demut", "Glaube", "Prüfung"],
+      "hint": "Dies ist das Gegenteil von Stärke",
+      "explanation": "Gottes Kraft zeigt sich am deutlichsten, wenn wir unsere eigenen Grenzen anerkennen.",
+      "full_verse": "Und er hat zu mir gesagt: Lass dir an meiner Gnade genügen; denn meine Kraft vollendet sich in der Schwachheit.",
+      "verse_ref": "2. Korinther 12:9"
+    },
+    {
+      "id": "q_strength_005",
+      "question": "Fülle die Lücke aus: 'Und seid nicht bekümmert; denn die Freude am HERRN ist eure _____.'",
+      "correct": "Stärke",
+      "wrong": ["Hoffnung", "Friede", "Zuflucht"],
+      "hint": "Dies ist, was die Freude am HERRN gibt",
+      "explanation": "Freude im Herrn zu finden gibt uns die Kraft durchzuhalten.",
+      "full_verse": "Und seid nicht bekümmert; denn die Freude am HERRN ist eure Stärke.",
+      "verse_ref": "Nehemia 8:10"
+    },
+    {
+      "id": "q_strength_006",
+      "question": "Fülle die Lücke aus: 'Der HERR ist meine Stärke und mein Schild; auf ihn traut mein Herz und mir ist geholfen. Nun ist mein Herz fröhlich, und ich will ihm danken mit meinem _____.'",
+      "correct": "Lied",
+      "wrong": ["Stimme", "Seele", "Wort"],
+      "hint": "Dies ist ein musikalischer Ausdruck des Lobes",
+      "explanation": "Wenn Gott uns stärkt, ist unsere Antwort freudiges Lob.",
+      "full_verse": "Der HERR ist meine Stärke und mein Schild; auf ihn traut mein Herz und mir ist geholfen. Nun ist mein Herz fröhlich, und ich will ihm danken mit meinem Lied.",
+      "verse_ref": "Psalm 28:7"
+    },
+    {
+      "id": "q_strength_007",
+      "question": "Fülle die Lücke aus: 'Fürchte dich nicht, ich bin mit dir; weiche nicht, denn ich bin dein Gott. Ich stärke dich, ich helfe dir auch, ich halte dich durch die rechte Hand meiner _____.'",
+      "correct": "Gerechtigkeit",
+      "wrong": ["Macht", "Stärke", "Kraft"],
+      "hint": "Dies beschreibt Gottes Rechtschaffenheit",
+      "explanation": "Gott verspricht seine Gegenwart, Stärke und Unterstützung denen, die ihm vertrauen.",
+      "full_verse": "Fürchte dich nicht, ich bin mit dir; weiche nicht, denn ich bin dein Gott. Ich stärke dich, ich helfe dir auch, ich halte dich durch die rechte Hand meiner Gerechtigkeit.",
+      "verse_ref": "Jesaja 41:10"
+    },
+    {
+      "id": "q_strength_008",
+      "question": "Fülle die Lücke aus: 'Zuletzt: Seid stark in dem Herrn und in der _____ seiner Stärke.'",
+      "correct": "Macht",
+      "wrong": ["Kraft", "Gnade", "Liebe"],
+      "hint": "Dies ist Gottes Fähigkeit zu handeln",
+      "explanation": "Unsere Stärke kommt aus der unbegrenzten Macht des Herrn.",
+      "full_verse": "Zuletzt: Seid stark in dem Herrn und in der Macht seiner Stärke.",
+      "verse_ref": "Epheser 6:10"
+    },
+    {
+      "id": "q_strength_009",
+      "question": "Fülle die Lücke aus: 'Gott rüstet mich mit Kraft und macht meine Wege _____.'",
+      "correct": "richtig",
+      "wrong": ["sicher", "gerade", "gut"],
+      "hint": "Dies bedeutet korrekt oder einwandfrei",
+      "explanation": "Gott gibt Kraft und hält uns auf einem sicheren Weg.",
+      "full_verse": "Gott rüstet mich mit Kraft und macht meine Wege richtig.",
+      "verse_ref": "Psalm 18:33"
+    },
+    {
+      "id": "q_strength_010",
+      "question": "Fülle die Lücke aus: 'Wenn mir gleich Leib und Seele verschmachtet, so bist du doch, Gott, allezeit meines Herzens Trost und mein _____.'",
+      "correct": "Teil",
+      "wrong": ["Hoffnung", "Zuflucht", "Erbe"],
+      "hint": "Dies bedeutet jemandes Anteil oder Zuteilung",
+      "explanation": "Selbst wenn unser Körper versagt, bleibt Gott unsere ewige Quelle der Stärke.",
+      "full_verse": "Wenn mir gleich Leib und Seele verschmachtet, so bist du doch, Gott, allezeit meines Herzens Trost und mein Teil.",
+      "verse_ref": "Psalm 73:26"
+    },
+    {
+      "id": "q_strength_011",
+      "question": "Fülle die Lücke aus: 'Seid getrost und unverzagt, fürchtet euch nicht und erschreckt nicht vor ihnen; denn der HERR, dein Gott, wird selber mit dir ziehen und wird die Hand nicht abtun und dich nicht _____.'",
+      "correct": "verlassen",
+      "wrong": ["vergessen", "aufgeben", "verstoßen"],
+      "hint": "Dies bedeutet, zurückzulassen oder im Stich zu lassen",
+      "explanation": "Gottes ständige Gegenwart gibt uns Stärke und Mut.",
+      "full_verse": "Seid getrost und unverzagt, fürchtet euch nicht und erschreckt nicht vor ihnen; denn der HERR, dein Gott, wird selber mit dir ziehen und wird die Hand nicht abtun und dich nicht verlassen.",
+      "verse_ref": "5. Mose 31:6"
+    },
+    {
+      "id": "q_strength_012",
+      "question": "Fülle die Lücke aus: 'Habe ich dir nicht geboten: Sei getrost und _____? Lass dir nicht grauen und entsetze dich nicht; denn der HERR, dein Gott, ist mit dir in allem, was du tun wirst.'",
+      "correct": "unverzagt",
+      "wrong": ["mutig", "treu", "kühn"],
+      "hint": "Dies bedeutet, Tapferkeit zu haben",
+      "explanation": "Gott gebietet uns, stark zu sein, weil er immer bei uns ist.",
+      "full_verse": "Habe ich dir nicht geboten: Sei getrost und unverzagt? Lass dir nicht grauen und entsetze dich nicht; denn der HERR, dein Gott, ist mit dir in allem, was du tun wirst.",
+      "verse_ref": "Josua 1:9"
+    },
+    {
+      "id": "q_strength_013",
+      "question": "Fülle die Lücke aus: 'Fragt nach dem HERRN und nach seiner Macht, suchet sein _____ allezeit!'",
+      "correct": "Antlitz",
+      "wrong": ["Gegenwart", "Herrlichkeit", "Hilfe"],
+      "hint": "Dies repräsentiert Gottes Gegenwart",
+      "explanation": "Wir sollten ständig Gottes Stärke und Gegenwart suchen.",
+      "full_verse": "Fragt nach dem HERRN und nach seiner Macht, suchet sein Antlitz allezeit!",
+      "verse_ref": "1. Chronik 16:11"
+    },
+    {
+      "id": "q_strength_014",
+      "question": "Fülle die Lücke aus: 'Herzlich lieb habe ich dich, HERR, meine Stärke! HERR, mein Fels, meine Burg, mein Erretter; mein Gott, mein Hort, auf den ich traue, mein Schild und Horn meines Heils und mein _____!'",
+      "correct": "Schutz",
+      "wrong": ["Zuflucht", "Trost", "Ruhe"],
+      "hint": "Dies ist ein Ort der Sicherheit",
+      "explanation": "Gott ist unsere ultimative Quelle der Stärke und des Schutzes.",
+      "full_verse": "Herzlich lieb habe ich dich, HERR, meine Stärke! HERR, mein Fels, meine Burg, mein Erretter; mein Gott, mein Hort, auf den ich traue, mein Schild und Horn meines Heils und mein Schutz!",
+      "verse_ref": "Psalm 18:2-3"
+    },
+    {
+      "id": "q_strength_015",
+      "question": "Fülle die Lücke aus: 'Der HERR ist mein Licht und mein Heil; vor wem sollte ich mich fürchten? Der HERR ist meines Lebens Kraft; vor wem sollte mir _____?'",
+      "correct": "grauen",
+      "wrong": ["bangen", "fürchten", "schrecken"],
+      "hint": "Dies ist ein Gefühl der Furcht",
+      "explanation": "Mit Gott als unserer Stärke haben wir keinen Grund zur Furcht.",
+      "full_verse": "Der HERR ist mein Licht und mein Heil; vor wem sollte ich mich fürchten? Der HERR ist meines Lebens Kraft; vor wem sollte mir grauen?",
+      "verse_ref": "Psalm 27:1"
+    },
+    {
+      "id": "q_strength_016",
+      "question": "Fülle die Lücke aus: 'Der HERR wird seinem Volk Kraft geben; der HERR wird sein Volk segnen mit _____.'",
+      "correct": "Frieden",
+      "wrong": ["Freude", "Hoffnung", "Liebe"],
+      "hint": "Dies ist ein Zustand der Ruhe und Gelassenheit",
+      "explanation": "Gott gibt seinem Volk sowohl Kraft als auch Frieden.",
+      "full_verse": "Der HERR wird seinem Volk Kraft geben; der HERR wird sein Volk segnen mit Frieden.",
+      "verse_ref": "Psalm 29:11"
+    },
+    {
+      "id": "q_strength_017",
+      "question": "Fülle die Lücke aus: 'Seid getrost und unverzagt alle, die ihr des HERRN _____!'",
+      "correct": "harret",
+      "wrong": ["vertraut", "glaubt", "folgt"],
+      "hint": "Dies ist zuversichtliches Warten",
+      "explanation": "Diejenigen, die auf Gott hoffen, werden Stärke und Mut finden.",
+      "full_verse": "Seid getrost und unverzagt alle, die ihr des HERRN harret!",
+      "verse_ref": "Psalm 31:25"
+    },
+    {
+      "id": "q_strength_018",
+      "question": "Fülle die Lücke aus: 'Aber der HERR hilft den Gerechten; der ist ihre Stärke in der _____.'",
+      "correct": "Not",
+      "wrong": ["Zeit", "Gefahr", "Prüfung"],
+      "hint": "Dies bezieht sich auf schwierige Zeiten",
+      "explanation": "Gott ist unsere Festung, wenn Schwierigkeiten entstehen.",
+      "full_verse": "Aber der HERR hilft den Gerechten; der ist ihre Stärke in der Not.",
+      "verse_ref": "Psalm 37:39"
+    },
+    {
+      "id": "q_strength_019",
+      "question": "Fülle die Lücke aus: 'Ich aber will von deiner Macht singen und des Morgens rühmen deine Güte; denn du bist mir Schutz und _____ in meiner Not.'",
+      "correct": "Zuflucht",
+      "wrong": ["Stärke", "Hilfe", "Rettung"],
+      "hint": "Dies ist ein Ort des Schutzes",
+      "explanation": "Wir preisen Gottes Stärke, weil er unsere Zuflucht ist.",
+      "full_verse": "Ich aber will von deiner Macht singen und des Morgens rühmen deine Güte; denn du bist mir Schutz und Zuflucht in meiner Not.",
+      "verse_ref": "Psalm 59:17"
+    },
+    {
+      "id": "q_strength_020",
+      "question": "Fülle die Lücke aus: 'Furchtbar bist du, Gott, in deinem Heiligtum. Er ist Israels Gott. Er wird dem Volk Macht und _____ geben. Gelobt sei Gott!'",
+      "correct": "Kraft",
+      "wrong": ["Stärke", "Mut", "Sieg"],
+      "hint": "Dies ist die Fähigkeit, Herausforderungen zu überwinden",
+      "explanation": "Gott gibt seinem Volk Macht und Kraft.",
+      "full_verse": "Furchtbar bist du, Gott, in deinem Heiligtum. Er ist Israels Gott. Er wird dem Volk Macht und Kraft geben. Gelobt sei Gott!",
+      "verse_ref": "Psalm 68:36"
+    },
+    {
+      "id": "q_strength_021",
+      "question": "Fülle die Lücke aus: 'Wohl den Menschen, die dich für ihre Stärke halten und von Herzen dir _____!'",
+      "correct": "nachwandeln",
+      "wrong": ["folgen", "dienen", "vertrauen"],
+      "hint": "Dies ist eine geistliche Reise",
+      "explanation": "Diejenigen, die ihre Stärke in Gott finden und ihm nachfolgen, sind gesegnet.",
+      "full_verse": "Wohl den Menschen, die dich für ihre Stärke halten und von Herzen dir nachwandeln!",
+      "verse_ref": "Psalm 84:6"
+    },
+    {
+      "id": "q_strength_022",
+      "question": "Fülle die Lücke aus: 'Der HERR ist meine Stärke und mein Lobgesang und ist mein _____.'",
+      "correct": "Heil",
+      "wrong": ["Schild", "Zuflucht", "Hoffnung"],
+      "hint": "Dies ist Befreiung von Gefahr",
+      "explanation": "Gott ist unsere Stärke, Verteidigung und Quelle der Errettung.",
+      "full_verse": "Der HERR ist meine Stärke und mein Lobgesang und ist mein Heil.",
+      "verse_ref": "Psalm 118:14"
+    },
+    {
+      "id": "q_strength_023",
+      "question": "Fülle die Lücke aus: 'Als ich rief, antwortetest du mir und gabst meiner Seele große _____.'",
+      "correct": "Kraft",
+      "wrong": ["Stärke", "Mut", "Hilfe"],
+      "hint": "Dies bedeutet, Mut zu geben",
+      "explanation": "Gott beantwortet unsere Gebete und gibt uns kühne Stärke.",
+      "full_verse": "Wenn ich dich anrufe, so erhörst du mich und gibst meiner Seele große Kraft.",
+      "verse_ref": "Psalm 138:3"
+    },
+    {
+      "id": "q_strength_024",
+      "question": "Fülle die Lücke aus: 'Siehe, Gott ist mein Heil, ich bin sicher und fürchte mich nicht; denn Gott der HERR ist meine Stärke und mein Psalm und ist mein _____.'",
+      "correct": "Heil",
+      "wrong": ["Schild", "Zuflucht", "Lied"],
+      "hint": "Dies ist Schutz vor Angriff",
+      "explanation": "Gott ist sowohl unsere Stärke als auch unser Schutz.",
+      "full_verse": "Siehe, Gott ist mein Heil, ich bin sicher und fürchte mich nicht; denn Gott der HERR ist meine Stärke und mein Psalm und ist mein Heil.",
+      "verse_ref": "Jesaja 12:2"
+    },
+    {
+      "id": "q_strength_025",
+      "question": "Fülle die Lücke aus: 'Er gibt den Müden Kraft und Stärke genug den _____.'",
+      "correct": "Unvermögenden",
+      "wrong": ["Schwachen", "Kraftlosen", "Erschöpften"],
+      "hint": "Dies sind Menschen ohne Kraft",
+      "explanation": "Gott stärkt diejenigen, die müde und schwach sind.",
+      "full_verse": "Er gibt den Müden Kraft und Stärke genug den Unvermögenden.",
+      "verse_ref": "Jesaja 40:29"
+    },
+    {
+      "id": "q_strength_026",
+      "question": "Fülle die Lücke aus: 'Denn ich bin der HERR, dein Gott, der deine rechte Hand fasst und zu dir spricht: Fürchte dich nicht, ich _____ dir!'",
+      "correct": "helfe",
+      "wrong": ["rette", "schütze", "führe"],
+      "hint": "Dies bedeutet, zu unterstützen oder beizustehen",
+      "explanation": "Gott hält persönlich unsere Hand und verspricht, uns zu helfen.",
+      "full_verse": "Denn ich bin der HERR, dein Gott, der deine rechte Hand fasst und zu dir spricht: Fürchte dich nicht, ich helfe dir!",
+      "verse_ref": "Jesaja 41:13"
+    },
+    {
+      "id": "q_strength_027",
+      "question": "Fülle die Lücke aus: 'HERR, du bist meine Stärke und Kraft und meine Zuflucht in der Not! Die Heiden werden zu dir kommen von den Enden der _____.'",
+      "correct": "Erde",
+      "wrong": ["Welt", "Länder", "Meere"],
+      "hint": "Dies ist unser Planet",
+      "explanation": "Gott ist unsere Stärke und Zuflucht, und alle Völker werden zu ihm kommen.",
+      "full_verse": "HERR, du bist meine Stärke und Kraft und meine Zuflucht in der Not! Die Heiden werden zu dir kommen von den Enden der Erde.",
+      "verse_ref": "Jeremia 16:19"
+    },
+    {
+      "id": "q_strength_028",
+      "question": "Fülle die Lücke aus: 'Aber Gott der HERR ist meine Stärke; er wird meine Füße machen wie Hirschfüße und wird mich über die _____ gehen lassen.'",
+      "correct": "Höhen",
+      "wrong": ["Berge", "Hügel", "Felsen"],
+      "hint": "Dies bezieht sich auf hohe Orte",
+      "explanation": "Gott gibt uns Kraft, Hindernisse zu überwinden und neue Höhen zu erreichen.",
+      "full_verse": "Aber Gott der HERR ist meine Stärke; er wird meine Füße machen wie Hirschfüße und wird mich über die Höhen gehen lassen.",
+      "verse_ref": "Habakuk 3:19"
+    },
+    {
+      "id": "q_strength_029",
+      "question": "Fülle die Lücke aus: 'Es soll nicht durch Heer oder Kraft, sondern durch meinen _____ geschehen, spricht der HERR Zebaoth.'",
+      "correct": "Geist",
+      "wrong": ["Wort", "Hand", "Gnade"],
+      "hint": "Dies ist die dritte Person der Dreieinigkeit",
+      "explanation": "Wahre Stärke kommt nicht durch menschliche Anstrengung, sondern durch Gottes Geist.",
+      "full_verse": "Es soll nicht durch Heer oder Kraft, sondern durch meinen Geist geschehen, spricht der HERR Zebaoth.",
+      "verse_ref": "Sacharja 4:6"
+    },
+    {
+      "id": "q_strength_030",
+      "question": "Fülle die Lücke aus: 'Aber in dem allen überwinden wir weit durch den, der uns _____ hat.'",
+      "correct": "geliebt",
+      "wrong": ["gerettet", "geholfen", "gestärkt"],
+      "hint": "Dies beschreibt Christi Zuneigung zu uns",
+      "explanation": "Durch Christi Liebe haben wir überwältigenden Sieg.",
+      "full_verse": "Aber in dem allen überwinden wir weit durch den, der uns geliebt hat.",
+      "verse_ref": "Römer 8:37"
+    },
+    {
+      "id": "q_strength_031",
+      "question": "Fülle die Lücke aus: 'Denn die göttliche Torheit ist weiser, als die Menschen sind, und die göttliche _____ ist stärker, als die Menschen sind.'",
+      "correct": "Schwachheit",
+      "wrong": ["Kraft", "Macht", "Gnade"],
+      "hint": "Dies ist das Gegenteil von Stärke",
+      "explanation": "Selbst Gottes 'Schwachheit' übertrifft alle menschliche Stärke.",
+      "full_verse": "Denn die göttliche Torheit ist weiser, als die Menschen sind, und die göttliche Schwachheit ist stärker, als die Menschen sind.",
+      "verse_ref": "1. Korinther 1:25"
+    },
+    {
+      "id": "q_strength_032",
+      "question": "Fülle die Lücke aus: 'Bisher hat euch nur menschliche Versuchung getroffen. Aber Gott ist treu, der euch nicht versuchen lässt über eure Kraft, sondern macht, dass die Versuchung so ein Ende nimmt, dass ihr's _____ könnt.'",
+      "correct": "ertragen",
+      "wrong": ["überwinden", "widerstehen", "bestehen"],
+      "hint": "Dies bedeutet, durch Schwierigkeiten durchzuhalten",
+      "explanation": "Gott gibt uns die Kraft, jede Versuchung zu ertragen.",
+      "full_verse": "Bisher hat euch nur menschliche Versuchung getroffen. Aber Gott ist treu, der euch nicht versuchen lässt über eure Kraft, sondern macht, dass die Versuchung so ein Ende nimmt, dass ihr's ertragen könnt.",
+      "verse_ref": "1. Korinther 10:13"
+    },
+    {
+      "id": "q_strength_033",
+      "question": "Fülle die Lücke aus: 'Wachet, steht im Glauben, seid mutig und seid _____!'",
+      "correct": "stark",
+      "wrong": ["tapfer", "kühn", "furchtlos"],
+      "hint": "Dies ist die Fähigkeit, Herausforderungen zu überwinden",
+      "explanation": "Wir sind aufgerufen, wachsam, treu, mutig und stark zu sein.",
+      "full_verse": "Wachet, steht im Glauben, seid mutig und seid stark!",
+      "verse_ref": "1. Korinther 16:13"
+    },
+    {
+      "id": "q_strength_034",
+      "question": "Fülle die Lücke aus: 'Darum will ich mich am allerliebsten rühmen meiner Schwachheit, auf dass die Kraft Christi bei mir wohne. Darum bin ich guten Mutes in Schwachheit, in Misshandlungen, in Nöten, in Verfolgungen und Ängsten um Christi willen; denn wenn ich schwach bin, so bin ich _____.'",
+      "correct": "stark",
+      "wrong": ["mutig", "kühn", "mächtig"],
+      "hint": "Dies ist das Gegenteil von schwach",
+      "explanation": "Gottes Kraft vollendet sich in unserer Schwachheit.",
+      "full_verse": "Darum will ich mich am allerliebsten rühmen meiner Schwachheit, auf dass die Kraft Christi bei mir wohne. Darum bin ich guten Mutes in Schwachheit, in Misshandlungen, in Nöten, in Verfolgungen und Ängsten um Christi willen; denn wenn ich schwach bin, so bin ich stark.",
+      "verse_ref": "2. Korinther 12:9-10"
+    },
+    {
+      "id": "q_strength_035",
+      "question": "Fülle die Lücke aus: 'Dass er euch Kraft gebe nach dem Reichtum seiner Herrlichkeit, stark zu werden durch seinen Geist an dem inwendigen _____.'",
+      "correct": "Menschen",
+      "wrong": ["Wesen", "Seele", "Herzen"],
+      "hint": "Dies ist der Kern dessen, wer du bist",
+      "explanation": "Gott stärkt uns geistlich von innen heraus.",
+      "full_verse": "Dass er euch Kraft gebe nach dem Reichtum seiner Herrlichkeit, stark zu werden durch seinen Geist an dem inwendigen Menschen.",
+      "verse_ref": "Epheser 3:16"
+    },
+    {
+      "id": "q_strength_036",
+      "question": "Fülle die Lücke aus: 'Und gestärkt werdet mit aller Kraft durch seine herrliche Macht zu aller Geduld und _____.'",
+      "correct": "Langmut",
+      "wrong": ["Glaube", "Hoffnung", "Friede"],
+      "hint": "Dies ist die Fähigkeit, ruhig zu warten",
+      "explanation": "Gottes Kraft befähigt uns, mit Geduld auszuharren.",
+      "full_verse": "Und gestärkt werdet mit aller Kraft durch seine herrliche Macht zu aller Geduld und Langmut.",
+      "verse_ref": "Kolosser 1:11"
+    },
+    {
+      "id": "q_strength_037",
+      "question": "Fülle die Lücke aus: 'Denn Gott hat uns nicht gegeben den Geist der Furcht, sondern der Kraft und der Liebe und der _____.'",
+      "correct": "Besonnenheit",
+      "wrong": ["Weisheit", "Mut", "Glaube"],
+      "hint": "Dies ist Selbstbeherrschung",
+      "explanation": "Gottes Geist befähigt uns mit Kraft, Liebe und Besonnenheit.",
+      "full_verse": "Denn Gott hat uns nicht gegeben den Geist der Furcht, sondern der Kraft und der Liebe und der Besonnenheit.",
+      "verse_ref": "2. Timotheus 1:7"
+    },
+    {
+      "id": "q_strength_038",
+      "question": "Fülle die Lücke aus: 'So sei nun stark, mein Sohn, durch die _____, die in Christus Jesus ist.'",
+      "correct": "Gnade",
+      "wrong": ["Kraft", "Liebe", "Macht"],
+      "hint": "Dies ist unverdiente Gunst von Gott",
+      "explanation": "Unsere Stärke kommt aus der Gnade, die in Christus gefunden wird.",
+      "full_verse": "So sei nun stark, mein Sohn, durch die Gnade, die in Christus Jesus ist.",
+      "verse_ref": "2. Timotheus 2:1"
+    },
+    {
+      "id": "q_strength_039",
+      "question": "Fülle die Lücke aus: 'Der Herr aber stand mir bei und stärkte mich, damit durch mich die Verkündigung reichlich geschehe und alle _____ sie hörten.'",
+      "correct": "Heiden",
+      "wrong": ["Völker", "Menschen", "Nationen"],
+      "hint": "Dies bezieht sich auf nichtjüdische Menschen",
+      "explanation": "Gott stärkt uns, um seine Absichten zu erfüllen.",
+      "full_verse": "Der Herr aber stand mir bei und stärkte mich, damit durch mich die Verkündigung reichlich geschehe und alle Heiden sie hörten.",
+      "verse_ref": "2. Timotheus 4:17"
+    },
+    {
+      "id": "q_strength_040",
+      "question": "Fülle die Lücke aus: 'Haben des Feuers Kraft ausgelöscht, sind der Schärfe des Schwerts entronnen, sind stark geworden aus der Schwachheit, sind kräftig geworden im Kampf und haben fremde _____ in die Flucht geschlagen.'",
+      "correct": "Heere",
+      "wrong": ["Feinde", "Völker", "Truppen"],
+      "hint": "Dies sind militärische Kräfte",
+      "explanation": "Glaube kann Schwachheit in Stärke für den Sieg verwandeln.",
+      "full_verse": "Haben des Feuers Kraft ausgelöscht, sind der Schärfe des Schwerts entronnen, sind stark geworden aus der Schwachheit, sind kräftig geworden im Kampf und haben fremde Heere in die Flucht geschlagen.",
+      "verse_ref": "Hebräer 11:34"
+    },
+    {
+      "id": "q_strength_041",
+      "question": "Fülle die Lücke aus: 'Der Gott aller Gnade aber, der euch berufen hat zu seiner ewigen Herrlichkeit in Christus, der wird euch, die ihr eine kleine Zeit leidet, aufrichten, stärken, kräftigen, _____.'",
+      "correct": "gründen",
+      "wrong": ["festigen", "bewahren", "segnen"],
+      "hint": "Dies bedeutet, fest zu etablieren",
+      "explanation": "Gott wird uns stärken und festigen, nachdem wir Prüfungen ertragen haben.",
+      "full_verse": "Der Gott aller Gnade aber, der euch berufen hat zu seiner ewigen Herrlichkeit in Christus, der wird euch, die ihr eine kleine Zeit leidet, aufrichten, stärken, kräftigen, gründen.",
+      "verse_ref": "1. Petrus 5:10"
+    },
+    {
+      "id": "q_strength_042",
+      "question": "Fülle die Lücke aus: 'Kinder, ihr seid von Gott und habt jene überwunden; denn der in euch ist, ist größer als der, der in der _____ ist.'",
+      "correct": "Welt",
+      "wrong": ["Finsternis", "Bosheit", "Sünde"],
+      "hint": "Dies ist der Ort, wo das Böse wirkt",
+      "explanation": "Gott in uns ist größer als jede Kraft in der Welt.",
+      "full_verse": "Kinder, ihr seid von Gott und habt jene überwunden; denn der in euch ist, ist größer als der, der in der Welt ist.",
+      "verse_ref": "1. Johannes 4:4"
+    },
+    {
+      "id": "q_strength_043",
+      "question": "Fülle die Lücke aus: 'Der HERR ist meine Stärke und mein Lobgesang und ist mein Heil. Er ist mein Gott, ich will ihn preisen; er ist meines Vaters Gott, ich will ihn _____.'",
+      "correct": "erheben",
+      "wrong": ["loben", "rühmen", "ehren"],
+      "hint": "Dies bedeutet, hoch zu preisen",
+      "explanation": "Gott ist unsere Stärke, unser Schutz und unsere Errettung.",
+      "full_verse": "Der HERR ist meine Stärke und mein Lobgesang und ist mein Heil. Er ist mein Gott, ich will ihn preisen; er ist meines Vaters Gott, ich will ihn erheben.",
+      "verse_ref": "2. Mose 15:2"
+    },
+    {
+      "id": "q_strength_044",
+      "question": "Fülle die Lücke aus: 'Gott stärkt mich mit Kraft und macht meinen Weg ohne _____.'",
+      "correct": "Tadel",
+      "wrong": ["Fehler", "Hindernis", "Gefahr"],
+      "hint": "Dies bedeutet ohne Makel oder Kritik",
+      "explanation": "Gott gibt Stärke und führt uns sicher.",
+      "full_verse": "Gott stärkt mich mit Kraft und macht meinen Weg ohne Tadel.",
+      "verse_ref": "2. Samuel 22:33"
+    },
+    {
+      "id": "q_strength_045",
+      "question": "Fülle die Lücke aus: 'Aus dem Munde der jungen Kinder und Säuglinge hast du eine Macht zugerichtet um deiner Feinde willen, dass du vertilgest den Feind und den _____.'",
+      "correct": "Rachgierigen",
+      "wrong": ["Bösen", "Gegner", "Gottlosen"],
+      "hint": "Dies ist jemand, der Rache sucht",
+      "explanation": "Gottes Stärke zeigt sich sogar durch das Lob von Kindern.",
+      "full_verse": "Aus dem Munde der jungen Kinder und Säuglinge hast du eine Macht zugerichtet um deiner Feinde willen, dass du vertilgest den Feind und den Rachgierigen.",
+      "verse_ref": "Psalm 8:3"
+    },
+    {
+      "id": "q_strength_046",
+      "question": "Fülle die Lücke aus: 'Lass dir wohlgefallen die Rede meines Mundes und das Gespräch meines Herzens vor dir, HERR, mein Fels und mein _____.'",
+      "correct": "Erlöser",
+      "wrong": ["Retter", "Stärke", "Zuflucht"],
+      "hint": "Dies ist jemand, der durch Zahlung eines Preises rettet",
+      "explanation": "Gott ist unsere Stärke (Fels) und unser Erlöser.",
+      "full_verse": "Lass dir wohlgefallen die Rede meines Mundes und das Gespräch meines Herzens vor dir, HERR, mein Fels und mein Erlöser.",
+      "verse_ref": "Psalm 19:15"
+    },
+    {
+      "id": "q_strength_047",
+      "question": "Fülle die Lücke aus: 'Meine Hand soll ihn erhalten, und mein _____ soll ihn stärken.'",
+      "correct": "Arm",
+      "wrong": ["Hand", "Macht", "Kraft"],
+      "hint": "Dieses Körperteil symbolisiert Stärke",
+      "explanation": "Gottes Arm repräsentiert seine Macht zu stärken und zu erhalten.",
+      "full_verse": "Meine Hand soll ihn erhalten, und mein Arm soll ihn stärken.",
+      "verse_ref": "Psalm 89:22"
+    },
+    {
+      "id": "q_strength_048",
+      "question": "Fülle die Lücke aus: 'Fragt nach dem HERRN und nach seiner Macht, sucht sein Antlitz _____!'",
+      "correct": "allezeit",
+      "wrong": ["immer", "täglich", "beständig"],
+      "hint": "Dies bedeutet zu allen Zeiten",
+      "explanation": "Wir sollten ständig Gottes Stärke und Gegenwart suchen.",
+      "full_verse": "Fragt nach dem HERRN und nach seiner Macht, sucht sein Antlitz allezeit!",
+      "verse_ref": "Psalm 105:4"
+    },
+    {
+      "id": "q_strength_049",
+      "question": "Fülle die Lücke aus: 'Gelobt sei der HERR, mein Fels, der meine Hände lehrt streiten, meine Fäuste, _____ zu führen.'",
+      "correct": "Krieg",
+      "wrong": ["Kampf", "Schlacht", "Streit"],
+      "hint": "Dies ist ein militärischer Konflikt",
+      "explanation": "Gott rüstet uns aus und stärkt uns für geistliche Kämpfe.",
+      "full_verse": "Gelobt sei der HERR, mein Fels, der meine Hände lehrt streiten, meine Fäuste, Krieg zu führen.",
+      "verse_ref": "Psalm 144:1"
+    },
+    {
+      "id": "q_strength_050",
+      "question": "Fülle die Lücke aus: 'Ein Weiser ist stark, und ein Verständiger hat große _____.'",
+      "correct": "Kraft",
+      "wrong": ["Macht", "Stärke", "Mut"],
+      "hint": "Dies ist die Fähigkeit, Herausforderungen zu überwinden",
+      "explanation": "Weisheit und Erkenntnis verstärken unsere Kraft.",
+      "full_verse": "Ein Weiser ist stark, und ein Verständiger hat große Kraft.",
+      "verse_ref": "Sprüche 24:5"
+    }
+  ]
+}

@@ -1,1 +1,452 @@
-{}
+{
+  "q_faith_001": {
+    "question": "Completa el espacio en blanco: 'Es, pues, la fe la certeza de lo que se espera, la convicción de lo que no se _____.'",
+    "correct": "ve",
+    "wrong": ["sabe", "tiene", "entiende"],
+    "hint": "La fe se relaciona con lo invisible",
+    "explanation": "El escritor de Hebreos define la fe como estar seguro de las cosas que no podemos ver físicamente.",
+    "full_verse": "Es, pues, la fe la certeza de lo que se espera, la convicción de lo que no se ve.",
+    "verse_ref": "Hebreos 11:1"
+  },
+  "q_faith_002": {
+    "question": "Completa el espacio en blanco: 'Así que la fe es por el oír, y el oír, por la palabra de _____.'",
+    "correct": "Dios",
+    "wrong": ["Cristo", "salvación", "verdad"],
+    "hint": "La fe viene por escuchar acerca de esta persona",
+    "explanation": "Pablo enseña que la fe se produce al escuchar el mensaje sobre Cristo.",
+    "full_verse": "Así que la fe es por el oír, y el oír, por la palabra de Dios.",
+    "verse_ref": "Romanos 10:17"
+  },
+  "q_faith_003": {
+    "question": "Completa el espacio en blanco: 'Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es _____ de Dios.'",
+    "correct": "don",
+    "wrong": ["obra", "plan", "voluntad"],
+    "hint": "La salvación es dada gratuitamente",
+    "explanation": "Pablo enfatiza que la salvación por medio de la fe es un regalo de Dios, no algo que ganamos.",
+    "full_verse": "Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios.",
+    "verse_ref": "Efesios 2:8"
+  },
+  "q_faith_004": {
+    "question": "Completa el espacio en blanco: 'Así también la fe, si no tiene obras, es _____ en sí misma.'",
+    "correct": "muerta",
+    "wrong": ["débil", "vacía", "inútil"],
+    "hint": "La fe sin obras no tiene vida",
+    "explanation": "Santiago enseña que la fe genuina naturalmente producirá buenas obras como evidencia.",
+    "full_verse": "Así también la fe, si no tiene obras, es muerta en sí misma.",
+    "verse_ref": "Santiago 2:17"
+  },
+  "q_faith_005": {
+    "question": "Completa el espacio en blanco: 'Respondiendo Jesús, les dijo: Tened fe en _____.'",
+    "correct": "Dios",
+    "wrong": ["mí", "vosotros", "la oración"],
+    "hint": "Jesús dirige la fe al Padre",
+    "explanation": "Jesús instruye a Sus discípulos a poner su confianza completamente en Dios.",
+    "full_verse": "Respondiendo Jesús, les dijo: Tened fe en Dios.",
+    "verse_ref": "Marcos 11:22"
+  },
+  "q_faith_006": {
+    "question": "Completa el espacio en blanco: 'De cierto os digo, que si tuviereis fe como un grano de _____, diréis a este monte: Pásate de aquí allá, y se pasará.'",
+    "correct": "mostaza",
+    "wrong": ["trigo", "planta", "árbol"],
+    "hint": "Esta es la más pequeña de las semillas",
+    "explanation": "Jesús enseña que incluso una pequeña cantidad de fe genuina puede lograr grandes cosas.",
+    "full_verse": "De cierto os digo, que si tuviereis fe como un grano de mostaza, diréis a este monte: Pásate de aquí allá, y se pasará, y nada os será imposible.",
+    "verse_ref": "Mateo 17:20"
+  },
+  "q_faith_007": {
+    "question": "Completa el espacio en blanco: 'Porque por fe andamos, no por _____.'",
+    "correct": "vista",
+    "wrong": ["obras", "ley", "sentimientos"],
+    "hint": "Lo opuesto a ver",
+    "explanation": "Pablo contrasta la fe con la vista física, enfatizando que los creyentes confían en lo invisible.",
+    "full_verse": "Porque por fe andamos, no por vista.",
+    "verse_ref": "2 Corintios 5:7"
+  },
+  "q_faith_008": {
+    "question": "Completa el espacio en blanco: 'Con Cristo estoy juntamente crucificado, y ya no vivo yo, mas vive Cristo en _____.'",
+    "correct": "mí",
+    "wrong": ["nosotros", "ellos", "todos"],
+    "hint": "Pablo habla de su experiencia personal",
+    "explanation": "Pablo describe la transformación de vivir por fe en Cristo quien ahora vive dentro de él.",
+    "full_verse": "Con Cristo estoy juntamente crucificado, y ya no vivo yo, mas vive Cristo en mí; y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual me amó y se entregó a sí mismo por mí.",
+    "verse_ref": "Gálatas 2:20"
+  },
+  "q_faith_009": {
+    "question": "Completa el espacio en blanco: 'Pero sin fe es imposible _____ a Dios.'",
+    "correct": "agradar",
+    "wrong": ["conocer", "amar", "servir"],
+    "hint": "La fe es requerida para satisfacer a Dios",
+    "explanation": "El escritor de Hebreos declara que la fe es absolutamente esencial para agradar a Dios.",
+    "full_verse": "Pero sin fe es imposible agradar a Dios; porque es necesario que el que se acerca a Dios crea que le hay, y que es galardonador de los que le buscan.",
+    "verse_ref": "Hebreos 11:6"
+  },
+  "q_faith_010": {
+    "question": "Completa el espacio en blanco: 'Porque en el evangelio la justicia de Dios se revela por fe y para fe, como está escrito: Mas el justo por la fe _____.'",
+    "correct": "vivirá",
+    "wrong": ["será salvo", "amará", "servirá"],
+    "hint": "El justo vive por esto",
+    "explanation": "Pablo cita a Habacuc para mostrar que la justicia siempre ha sido por medio de la fe.",
+    "full_verse": "Porque en el evangelio la justicia de Dios se revela por fe y para fe, como está escrito: Mas el justo por la fe vivirá.",
+    "verse_ref": "Romanos 1:17"
+  },
+  "q_faith_011": {
+    "question": "Completa el espacio en blanco: 'Pero pida con fe, no dudando nada; porque el que duda es semejante a la onda del _____.'",
+    "correct": "mar",
+    "wrong": ["río", "lago", "océano"],
+    "hint": "Un gran cuerpo de agua",
+    "explanation": "Santiago enseña que la oración debe ofrecerse con fe sin vacilar.",
+    "full_verse": "Pero pida con fe, no dudando nada; porque el que duda es semejante a la onda del mar, que es arrastrada por el viento y echada de una parte a otra.",
+    "verse_ref": "Santiago 1:6"
+  },
+  "q_faith_012": {
+    "question": "Completa el espacio en blanco: 'Para que sometida a prueba vuestra fe, mucho más preciosa que el _____ que perece aunque sea probado con fuego, sea hallada en alabanza.'",
+    "correct": "oro",
+    "wrong": ["plata", "joyas", "tesoro"],
+    "hint": "Un metal precioso",
+    "explanation": "Pedro compara la fe probada con el oro refinado, mostrando el valor superior de la fe.",
+    "full_verse": "Para que sometida a prueba vuestra fe, mucho más preciosa que el oro, el cual aunque perecedero se prueba con fuego, sea hallada en alabanza, gloria y honra cuando sea manifestado Jesucristo.",
+    "verse_ref": "1 Pedro 1:7"
+  },
+  "q_faith_013": {
+    "question": "Completa el espacio en blanco: 'Mas el justo vivirá por fe; y si retrocediere, no agradará a mi _____.'",
+    "correct": "alma",
+    "wrong": ["corazón", "espíritu", "voluntad"],
+    "hint": "La parte interior de Dios",
+    "explanation": "El escritor cita a Habacuc, advirtiendo contra apartarse de la fe.",
+    "full_verse": "Mas el justo vivirá por fe; y si retrocediere, no agradará a mi alma.",
+    "verse_ref": "Hebreos 10:38"
+  },
+  "q_faith_014": {
+    "question": "Completa el espacio en blanco: 'Tampoco dudó, por incredulidad, de la promesa de Dios, sino que se fortaleció en fe, dando _____ a Dios.'",
+    "correct": "gloria",
+    "wrong": ["gracias", "alabanza", "honor"],
+    "hint": "La fe de Abraham honró a Dios",
+    "explanation": "Pablo describe la fe inquebrantable de Abraham en la promesa de Dios a pesar de circunstancias imposibles.",
+    "full_verse": "Tampoco dudó, por incredulidad, de la promesa de Dios, sino que se fortaleció en fe, dando gloria a Dios.",
+    "verse_ref": "Romanos 4:20"
+  },
+  "q_faith_015": {
+    "question": "Completa el espacio en blanco: 'Jesús le dijo: Si puedes creer, al que cree todo le es _____.'",
+    "correct": "posible",
+    "wrong": ["dado", "hecho", "logrado"],
+    "hint": "Nada está fuera del alcance de la fe",
+    "explanation": "Jesús desafía la duda de un padre declarando que todas las cosas son posibles por medio de la fe.",
+    "full_verse": "Jesús le dijo: Si puedes creer, al que cree todo le es posible.",
+    "verse_ref": "Marcos 9:23"
+  },
+  "q_faith_016": {
+    "question": "Completa el espacio en blanco: 'Respondiendo Jesús, les dijo: De cierto os digo, que si tuviereis fe, y no dudareis, no sólo haréis esto de la higuera, sino que si a este monte dijereis: Quítate y échate en el _____, será hecho.'",
+    "correct": "mar",
+    "wrong": ["valle", "fuego", "abismo"],
+    "hint": "Un gran cuerpo de agua",
+    "explanation": "Jesús usa hipérbole para ilustrar el increíble poder de la fe inquebrantable.",
+    "full_verse": "Respondiendo Jesús, les dijo: De cierto os digo, que si tuviereis fe, y no dudareis, no sólo haréis esto de la higuera, sino que si a este monte dijereis: Quítate y échate en el mar, será hecho.",
+    "verse_ref": "Mateo 21:21"
+  },
+  "q_faith_017": {
+    "question": "Completa el espacio en blanco: 'Porque todo lo que es nacido de Dios vence al mundo; y esta es la victoria que ha vencido al mundo, nuestra _____.'",
+    "correct": "fe",
+    "wrong": ["amor", "esperanza", "Dios"],
+    "hint": "Esto conquista al mundo",
+    "explanation": "Juan declara que la fe en Cristo es lo que permite a los creyentes vencer al mundo.",
+    "full_verse": "Porque todo lo que es nacido de Dios vence al mundo; y esta es la victoria que ha vencido al mundo, nuestra fe.",
+    "verse_ref": "1 Juan 5:4"
+  },
+  "q_faith_018": {
+    "question": "Completa el espacio en blanco: 'Y que por la ley ninguno se justifica para con Dios, es evidente, porque: El justo por la fe _____.'",
+    "correct": "vivirá",
+    "wrong": ["será salvo", "amará", "servirá"],
+    "hint": "La justicia viene a través de esto",
+    "explanation": "Pablo argumenta que la justificación viene por medio de la fe, no por guardar la ley.",
+    "full_verse": "Y que por la ley ninguno se justifica para con Dios, es evidente, porque: El justo por la fe vivirá.",
+    "verse_ref": "Gálatas 3:11"
+  },
+  "q_faith_019": {
+    "question": "Completa el espacio en blanco: 'Por la fe entendemos haber sido constituido el universo por la palabra de Dios, de modo que lo que se ve fue hecho de lo que no se _____.'",
+    "correct": "veía",
+    "wrong": ["existía", "conocía", "creaba"],
+    "hint": "Lo opuesto a lo visible",
+    "explanation": "La fe nos ayuda a entender que Dios creó todo de la nada.",
+    "full_verse": "Por la fe entendemos haber sido constituido el universo por la palabra de Dios, de modo que lo que se ve fue hecho de lo que no se veía.",
+    "verse_ref": "Hebreos 11:3"
+  },
+  "q_faith_020": {
+    "question": "Completa el espacio en blanco: 'Justificados, pues, por la fe, tenemos _____ para con Dios por medio de nuestro Señor Jesucristo.'",
+    "correct": "paz",
+    "wrong": ["vida", "esperanza", "gozo"],
+    "hint": "La fe trae reconciliación con Dios",
+    "explanation": "Pablo declara que la justificación por fe resulta en paz con Dios.",
+    "full_verse": "Justificados, pues, por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo.",
+    "verse_ref": "Romanos 5:1"
+  },
+  "q_faith_021": {
+    "question": "Completa el espacio en blanco: 'Porque como el cuerpo sin espíritu está muerto, así también la fe sin obras está _____.'",
+    "correct": "muerta",
+    "wrong": ["débil", "vacía", "falsa"],
+    "hint": "La fe sin obras no tiene vida",
+    "explanation": "Santiago compara la fe sin obras con un cuerpo sin espíritu—sin vida.",
+    "full_verse": "Porque como el cuerpo sin espíritu está muerto, así también la fe sin obras está muerta.",
+    "verse_ref": "Santiago 2:26"
+  },
+  "q_faith_022": {
+    "question": "Completa el espacio en blanco: 'Puestos los ojos en Jesús, el autor y consumador de la _____.'",
+    "correct": "fe",
+    "wrong": ["amor", "esperanza", "salvación"],
+    "hint": "Jesús completa esto en nosotros",
+    "explanation": "Jesús es tanto el originador como el que lleva la fe a su perfección.",
+    "full_verse": "Puestos los ojos en Jesús, el autor y consumador de la fe, el cual por el gozo puesto delante de él sufrió la cruz, menospreciando el oprobio, y se sentó a la diestra del trono de Dios.",
+    "verse_ref": "Hebreos 12:2"
+  },
+  "q_faith_023": {
+    "question": "Completa el espacio en blanco: 'Pelea la buena batalla de la fe, echa mano de la vida _____, a la cual asimismo fuiste llamado.'",
+    "correct": "eterna",
+    "wrong": ["verdadera", "prometida", "santa"],
+    "hint": "Esta dura para siempre",
+    "explanation": "Pablo anima a Timoteo a luchar por la fe y aferrarse a la vida eterna.",
+    "full_verse": "Pelea la buena batalla de la fe, echa mano de la vida eterna, a la cual asimismo fuiste llamado, habiendo hecho la buena profesión delante de muchos testigos.",
+    "verse_ref": "1 Timoteo 6:12"
+  },
+  "q_faith_024": {
+    "question": "Completa el espacio en blanco: 'Por tanto, de la manera que habéis recibido al Señor Jesucristo, andad en él; arraigados y sobreedificados en él, y confirmados en la fe, así como habéis sido enseñados, abundando en acciones de _____.'",
+    "correct": "gracias",
+    "wrong": ["gozo", "amor", "esperanza"],
+    "hint": "La gratitud debe abundar",
+    "explanation": "Pablo insta a los creyentes a permanecer arraigados en Cristo, creciendo en fe con corazones agradecidos.",
+    "full_verse": "Por tanto, de la manera que habéis recibido al Señor Jesucristo, andad en él; arraigados y sobreedificados en él, y confirmados en la fe, así como habéis sido enseñados, abundando en acciones de gracias.",
+    "verse_ref": "Colosenses 2:6-7"
+  },
+  "q_faith_025": {
+    "question": "Completa el espacio en blanco: 'Velad, estad firmes en la fe; portaos varonilmente, y _____.'",
+    "correct": "esforzaos",
+    "wrong": ["sed audaces", "sed valientes", "sed fieles"],
+    "hint": "Lo opuesto a ser débil",
+    "explanation": "Pablo da cuatro mandamientos para la vigilancia y fortaleza espiritual.",
+    "full_verse": "Velad, estad firmes en la fe; portaos varonilmente, y esforzaos.",
+    "verse_ref": "1 Corintios 16:13"
+  },
+  "q_faith_026": {
+    "question": "Completa el espacio en blanco: 'Y ser hallado en él, no teniendo mi propia justicia, que es por la ley, sino la que es por la fe de _____.'",
+    "correct": "Cristo",
+    "wrong": ["Dios", "Jesús", "el Señor"],
+    "hint": "La fe de Pablo está en esta persona",
+    "explanation": "Pablo desea la justicia que viene por medio de la fe en Cristo, no por medio de la ley.",
+    "full_verse": "Y ser hallado en él, no teniendo mi propia justicia, que es por la ley, sino la que es por la fe de Cristo, la justicia que es de Dios por la fe.",
+    "verse_ref": "Filipenses 3:9"
+  },
+  "q_faith_027": {
+    "question": "Completa el espacio en blanco: 'Concluimos, pues, que el hombre es justificado por fe sin las obras de la _____.'",
+    "correct": "ley",
+    "wrong": ["carne", "mundo", "persona"],
+    "hint": "La fe justifica sin esto",
+    "explanation": "Pablo argumenta que la justificación viene por medio de la fe, no por guardar la ley.",
+    "full_verse": "Concluimos, pues, que el hombre es justificado por fe sin las obras de la ley.",
+    "verse_ref": "Romanos 3:28"
+  },
+  "q_faith_028": {
+    "question": "Completa el espacio en blanco: 'Porque en Cristo Jesús ni la circuncisión vale algo, ni la incircuncisión, sino la fe que obra por el _____.'",
+    "correct": "amor",
+    "wrong": ["obras", "hechos", "acción"],
+    "hint": "La fe obra a través de esta emoción",
+    "explanation": "Pablo enseña que la verdadera fe se expresa a través del amor, no de rituales externos.",
+    "full_verse": "Porque en Cristo Jesús ni la circuncisión vale algo, ni la incircuncisión, sino la fe que obra por el amor.",
+    "verse_ref": "Gálatas 5:6"
+  },
+  "q_faith_029": {
+    "question": "Completa el espacio en blanco: 'Pero el que duda sobre lo que come, es condenado, porque no lo hace con fe; y todo lo que no proviene de fe, es _____.'",
+    "correct": "pecado",
+    "wrong": ["malo", "erróneo", "incorrecto"],
+    "hint": "Las acciones sin fe son esto",
+    "explanation": "Pablo enseña que cualquier cosa hecha sin la convicción de fe es pecaminosa.",
+    "full_verse": "Pero el que duda sobre lo que come, es condenado, porque no lo hace con fe; y todo lo que no proviene de fe, es pecado.",
+    "verse_ref": "Romanos 14:23"
+  },
+  "q_faith_030": {
+    "question": "Completa el espacio en blanco: 'Por la fe Noé, cuando fue advertido por Dios acerca de cosas que aún no se veían, con temor preparó el _____ en que su casa se salvase.'",
+    "correct": "arca",
+    "wrong": ["altar", "casa", "barco"],
+    "hint": "Noé construyó esta embarcación",
+    "explanation": "La fe de Noé lo llevó a construir el arca a pesar de nunca haber visto un diluvio.",
+    "full_verse": "Por la fe Noé, cuando fue advertido por Dios acerca de cosas que aún no se veían, con temor preparó el arca en que su casa se salvase; y por esa fe condenó al mundo, y fue hecho heredero de la justicia que viene por la fe.",
+    "verse_ref": "Hebreos 11:7"
+  },
+  "q_faith_031": {
+    "question": "Completa el espacio en blanco: 'Por la fe Abraham, siendo llamado, _____ para salir al lugar que había de recibir como herencia; y salió sin saber a dónde iba.'",
+    "correct": "obedeció",
+    "wrong": ["creyó", "confió", "siguió"],
+    "hint": "La respuesta de Abraham al llamado de Dios",
+    "explanation": "La fe de Abraham fue demostrada a través de la obediencia, partiendo sin conocer su destino.",
+    "full_verse": "Por la fe Abraham, siendo llamado, obedeció para salir al lugar que había de recibir como herencia; y salió sin saber a dónde iba.",
+    "verse_ref": "Hebreos 11:8"
+  },
+  "q_faith_032": {
+    "question": "Completa el espacio en blanco: 'Por la fe también la misma Sara, siendo estéril, recibió fuerza para concebir; y dio a luz aun fuera del tiempo de la edad, porque creyó que era _____ quien lo había prometido.'",
+    "correct": "fiel",
+    "wrong": ["verdadero", "poderoso", "todopoderoso"],
+    "hint": "Sara confió en el carácter de Dios",
+    "explanation": "La fe de Sara se basó en confiar en que Dios cumpliría Su promesa.",
+    "full_verse": "Por la fe también la misma Sara, siendo estéril, recibió fuerza para concebir; y dio a luz aun fuera del tiempo de la edad, porque creyó que era fiel quien lo había prometido.",
+    "verse_ref": "Hebreos 11:11"
+  },
+  "q_faith_033": {
+    "question": "Completa el espacio en blanco: 'Por la fe Abraham, cuando fue probado, ofreció a Isaac; y el que había recibido las promesas ofrecía su _____.'",
+    "correct": "unigénito",
+    "wrong": ["hijo", "heredero", "amado"],
+    "hint": "Abraham estaba dispuesto a sacrificar a esta persona",
+    "explanation": "La fe de Abraham fue probada cuando Dios le pidió que sacrificara a Isaac.",
+    "full_verse": "Por la fe Abraham, cuando fue probado, ofreció a Isaac; y el que había recibido las promesas ofrecía su unigénito.",
+    "verse_ref": "Hebreos 11:17"
+  },
+  "q_faith_034": {
+    "question": "Completa el espacio en blanco: 'Por la fe Moisés, hecho ya grande, rehusó llamarse hijo de la hija de _____.'",
+    "correct": "Faraón",
+    "wrong": ["Egipto", "el rey", "Ramsés"],
+    "hint": "El gobernante de Egipto",
+    "explanation": "Moisés eligió identificarse con el pueblo de Dios en lugar de la realeza egipcia.",
+    "full_verse": "Por la fe Moisés, hecho ya grande, rehusó llamarse hijo de la hija de Faraón, escogiendo antes ser maltratado con el pueblo de Dios, que gozar de los deleites temporales del pecado.",
+    "verse_ref": "Hebreos 11:24-25"
+  },
+  "q_faith_035": {
+    "question": "Completa el espacio en blanco: 'Por la fe pasaron el Mar Rojo como por tierra seca; e intentando los egipcios hacer lo mismo, fueron _____.'",
+    "correct": "ahogados",
+    "wrong": ["destruidos", "matados", "perdidos"],
+    "hint": "Los egipcios perecieron en el agua",
+    "explanation": "La fe de Israel les permitió cruzar el Mar Rojo mientras los egipcios que los perseguían se ahogaron.",
+    "full_verse": "Por la fe pasaron el Mar Rojo como por tierra seca; e intentando los egipcios hacer lo mismo, fueron ahogados.",
+    "verse_ref": "Hebreos 11:29"
+  },
+  "q_faith_036": {
+    "question": "Completa el espacio en blanco: 'Por la fe cayeron los muros de Jericó después de rodearlos _____ días.'",
+    "correct": "siete",
+    "wrong": ["seis", "tres", "cuarenta"],
+    "hint": "Un número significativo en las Escrituras",
+    "explanation": "La fe y obediencia de Israel al marchar alrededor de Jericó llevó a que los muros cayeran.",
+    "full_verse": "Por la fe cayeron los muros de Jericó después de rodearlos siete días.",
+    "verse_ref": "Hebreos 11:30"
+  },
+  "q_faith_037": {
+    "question": "Completa el espacio en blanco: 'Por la fe Rahab la ramera no pereció juntamente con los _____, habiendo recibido a los espías en paz.'",
+    "correct": "desobedientes",
+    "wrong": ["infieles", "incrédulos", "malvados"],
+    "hint": "Aquellos que no obedecieron",
+    "explanation": "La fe de Rahab la salvó cuando Jericó fue destruida.",
+    "full_verse": "Por la fe Rahab la ramera no pereció juntamente con los desobedientes, habiendo recibido a los espías en paz.",
+    "verse_ref": "Hebreos 11:31"
+  },
+  "q_faith_038": {
+    "question": "Completa el espacio en blanco: 'Dijeron los apóstoles al Señor: Auméntanos la _____.'",
+    "correct": "fe",
+    "wrong": ["amor", "esperanza", "fuerza"],
+    "hint": "Los discípulos pidieron más de esto",
+    "explanation": "Los apóstoles reconocieron su necesidad de mayor fe y le pidieron a Jesús que la aumentara.",
+    "full_verse": "Dijeron los apóstoles al Señor: Auméntanos la fe. Entonces el Señor dijo: Si tuvierais fe como un grano de mostaza, podríais decir a este sicómoro: Desarráigate, y plántate en el mar; y os obedecería.",
+    "verse_ref": "Lucas 17:5-6"
+  },
+  "q_faith_039": {
+    "question": "Completa el espacio en blanco: 'Al oírlo Jesús, se maravilló, y dijo a los que le seguían: De cierto os digo, que ni aun en Israel he hallado tanta _____.'",
+    "correct": "fe",
+    "wrong": ["amor", "confianza", "creencia"],
+    "hint": "Jesús quedó impresionado por esta cualidad",
+    "explanation": "Jesús se maravilló de la extraordinaria fe del centurión en Su autoridad.",
+    "full_verse": "Al oírlo Jesús, se maravilló, y dijo a los que le seguían: De cierto os digo, que ni aun en Israel he hallado tanta fe.",
+    "verse_ref": "Mateo 8:10"
+  },
+  "q_faith_040": {
+    "question": "Completa el espacio en blanco: 'Pero Jesús, volviéndose y mirándola, dijo: Ten ánimo, hija; tu fe te ha _____.'",
+    "correct": "salvado",
+    "wrong": ["sanado", "ayudado", "bendecido"],
+    "hint": "La mujer fue sanada",
+    "explanation": "Jesús atribuyó la sanidad de la mujer a su fe.",
+    "full_verse": "Pero Jesús, volviéndose y mirándola, dijo: Ten ánimo, hija; tu fe te ha salvado. Y la mujer fue salva desde aquella hora.",
+    "verse_ref": "Mateo 9:22"
+  },
+  "q_faith_041": {
+    "question": "Completa el espacio en blanco: 'Entonces respondiendo Jesús, dijo: Oh mujer, grande es tu fe; hágase contigo como _____.'",
+    "correct": "quieres",
+    "wrong": ["pides", "deseas", "esperas"],
+    "hint": "Jesús concedió lo que ella quería",
+    "explanation": "Jesús elogió la gran fe de la mujer cananea y le concedió su petición.",
+    "full_verse": "Entonces respondiendo Jesús, dijo: Oh mujer, grande es tu fe; hágase contigo como quieres. Y su hija fue sanada desde aquella hora.",
+    "verse_ref": "Mateo 15:28"
+  },
+  "q_faith_042": {
+    "question": "Completa el espacio en blanco: 'Pero él dijo a la mujer: Tu fe te ha salvado, ve en _____.'",
+    "correct": "paz",
+    "wrong": ["gozo", "esperanza", "amor"],
+    "hint": "Jesús la envía con esta bendición",
+    "explanation": "Jesús aseguró a la mujer pecadora que su fe le había traído salvación y paz.",
+    "full_verse": "Pero él dijo a la mujer: Tu fe te ha salvado, ve en paz.",
+    "verse_ref": "Lucas 7:50"
+  },
+  "q_faith_043": {
+    "question": "Completa el espacio en blanco: 'Y él le dijo: Hija, tu fe te ha hecho salva; ve en _____.'",
+    "correct": "paz",
+    "wrong": ["gozo", "esperanza", "amor"],
+    "hint": "Jesús bendice su partida",
+    "explanation": "Jesús declaró que la fe de la mujer la había sanado y la bendijo con paz.",
+    "full_verse": "Y él le dijo: Hija, tu fe te ha hecho salva; ve en paz.",
+    "verse_ref": "Lucas 8:48"
+  },
+  "q_faith_044": {
+    "question": "Completa el espacio en blanco: 'Y por la fe en su nombre, a éste, que vosotros veis y conocéis, le ha confirmado su nombre; y la fe que es por él ha dado a éste esta completa _____ en presencia de todos vosotros.'",
+    "correct": "sanidad",
+    "wrong": ["salvación", "restauración", "curación"],
+    "hint": "El cojo fue sanado completamente",
+    "explanation": "Pedro explica que la fe en el nombre de Jesús sanó al cojo en la puerta del templo.",
+    "full_verse": "Y por la fe en su nombre, a éste, que vosotros veis y conocéis, le ha confirmado su nombre; y la fe que es por él ha dado a éste esta completa sanidad en presencia de todos vosotros.",
+    "verse_ref": "Hechos 3:16"
+  },
+  "q_faith_045": {
+    "question": "Completa el espacio en blanco: '¿Qué dice la Escritura? Creyó Abraham a Dios, y le fue contado por _____.'",
+    "correct": "justicia",
+    "wrong": ["fe", "santidad", "rectitud"],
+    "hint": "La creencia de Abraham fue contada como esto",
+    "explanation": "Pablo cita Génesis para mostrar que Abraham fue hecho justo por medio de la fe, no por obras.",
+    "full_verse": "¿Qué dice la Escritura? Creyó Abraham a Dios, y le fue contado por justicia.",
+    "verse_ref": "Romanos 4:3"
+  },
+  "q_faith_046": {
+    "question": "Completa el espacio en blanco: 'Que si confesares con tu boca que Jesús es el Señor, y creyeres en tu corazón que Dios le levantó de los muertos, serás _____.'",
+    "correct": "salvo",
+    "wrong": ["bendecido", "perdonado", "sanado"],
+    "hint": "La confesión y la creencia llevan a esto",
+    "explanation": "Pablo da el requisito simple para la salvación: confesar a Jesús como Señor y creer en Su resurrección.",
+    "full_verse": "Que si confesares con tu boca que Jesús es el Señor, y creyeres en tu corazón que Dios le levantó de los muertos, serás salvo.",
+    "verse_ref": "Romanos 10:9"
+  },
+  "q_faith_047": {
+    "question": "Completa el espacio en blanco: 'Sobre todo, tomad el escudo de la fe, con que podáis apagar todos los dardos de fuego del _____.'",
+    "correct": "maligno",
+    "wrong": ["enemigo", "diablo", "adversario"],
+    "hint": "Las armas de Satanás son como estos proyectiles",
+    "explanation": "Pablo describe la fe como un escudo que protege contra los ataques de Satanás.",
+    "full_verse": "Sobre todo, tomad el escudo de la fe, con que podáis apagar todos los dardos de fuego del maligno.",
+    "verse_ref": "Efesios 6:16"
+  },
+  "q_faith_048": {
+    "question": "Completa el espacio en blanco: 'Pero nosotros, que somos del día, seamos sobrios, habiéndonos vestido con la coraza de fe y de amor, y con la esperanza de salvación como _____.'",
+    "correct": "yelmo",
+    "wrong": ["escudo", "corona", "armadura"],
+    "hint": "Armadura que protege la cabeza",
+    "explanation": "Pablo usa la imagen de la armadura para describir la protección espiritual de la fe, el amor y la esperanza.",
+    "full_verse": "Pero nosotros, que somos del día, seamos sobrios, habiéndonos vestido con la coraza de fe y de amor, y con la esperanza de salvación como yelmo.",
+    "verse_ref": "1 Tesalonicenses 5:8"
+  },
+  "q_faith_049": {
+    "question": "Completa el espacio en blanco: 'He peleado la buena batalla, he acabado la carrera, he guardado la _____.'",
+    "correct": "fe",
+    "wrong": ["esperanza", "carrera", "palabra"],
+    "hint": "Pablo preservó esto a lo largo de su vida",
+    "explanation": "Pablo reflexiona sobre su vida, declarando que ha permanecido fiel hasta el final.",
+    "full_verse": "He peleado la buena batalla, he acabado la carrera, he guardado la fe.",
+    "verse_ref": "2 Timoteo 4:7"
+  },
+  "q_faith_050": {
+    "question": "Completa el espacio en blanco: 'Obteniendo el fin de vuestra fe, que es la salvación de vuestras _____.'",
+    "correct": "almas",
+    "wrong": ["vidas", "corazones", "espíritus"],
+    "hint": "La fe resulta en salvar esta parte de nosotros",
+    "explanation": "Pedro anima a los creyentes de que el objetivo final de la fe es la salvación de sus almas.",
+    "full_verse": "Obteniendo el fin de vuestra fe, que es la salvación de vuestras almas.",
+    "verse_ref": "1 Pedro 1:9"
+  }
+}

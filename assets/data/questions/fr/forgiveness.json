@@ -1,1 +1,452 @@
-{}
+{
+  "q_forgiveness_001": {
+    "question": "Selon 1 Jean 1:9, « Si nous confessons nos péchés, il est fidèle et juste pour nous les pardonner, et pour nous _____ de toute iniquité. »",
+    "correct": "purifier",
+    "wrong": ["libérer", "sauver", "guérir"],
+    "hint": "Dieu fait plus que pardonner.",
+    "explanation": "Jean assure les croyants que la confession conduit au pardon et à la purification du péché.",
+    "full_verse": "Si nous confessons nos péchés, il est fidèle et juste pour nous les pardonner, et pour nous purifier de toute iniquité.",
+    "verse_ref": "1 Jean 1:9"
+  },
+  "q_forgiveness_002": {
+    "question": "Selon Éphésiens 4:32, « Soyez bons les uns envers les autres, compatissants, vous pardonnant réciproquement, comme Dieu vous a _____ en Christ. »",
+    "correct": "pardonné",
+    "wrong": ["aimé", "sauvé", "béni"],
+    "hint": "L'action de Dieu envers nous est le modèle.",
+    "explanation": "Paul instruit les croyants à pardonner aux autres comme Dieu leur a pardonné.",
+    "full_verse": "Soyez bons les uns envers les autres, compatissants, vous pardonnant réciproquement, comme Dieu vous a pardonné en Christ.",
+    "verse_ref": "Éphésiens 4:32"
+  },
+  "q_forgiveness_003": {
+    "question": "Selon Colossiens 3:13, « Supportez-vous les uns les autres, et, si l'un a sujet de se plaindre de l'autre, pardonnez-vous réciproquement. De même que Christ vous a _____, pardonnez-vous aussi. »",
+    "correct": "pardonné",
+    "wrong": ["aimé", "sauvé", "appelé"],
+    "hint": "Notre pardon doit refléter le sien.",
+    "explanation": "Paul appelle les croyants à étendre le même pardon qu'ils ont reçu du Seigneur.",
+    "full_verse": "Supportez-vous les uns les autres, et, si l'un a sujet de se plaindre de l'autre, pardonnez-vous réciproquement. De même que Christ vous a pardonné, pardonnez-vous aussi.",
+    "verse_ref": "Colossiens 3:13"
+  },
+  "q_forgiveness_004": {
+    "question": "Selon Matthieu 6:14, « Si vous pardonnez aux hommes leurs offenses, votre _____ céleste vous pardonnera aussi. »",
+    "correct": "Père",
+    "wrong": ["Seigneur", "Dieu", "Roi"],
+    "hint": "Jésus parle de Dieu en termes familiaux.",
+    "explanation": "Jésus enseigne que notre volonté de pardonner est liée au pardon de Dieu.",
+    "full_verse": "Si vous pardonnez aux hommes leurs offenses, votre Père céleste vous pardonnera aussi.",
+    "verse_ref": "Matthieu 6:14"
+  },
+  "q_forgiveness_005": {
+    "question": "Selon Marc 11:25, « Et, lorsque vous êtes debout faisant votre prière, si vous avez quelque chose contre quelqu'un, _____, afin que votre Père qui est dans les cieux vous pardonne aussi vos offenses. »",
+    "correct": "pardonnez",
+    "wrong": ["priez", "bénissez", "aimez"],
+    "hint": "Ce que nous devons faire avant de prier.",
+    "explanation": "Jésus enseigne que le pardon envers les autres doit précéder nos prières.",
+    "full_verse": "Et, lorsque vous êtes debout faisant votre prière, si vous avez quelque chose contre quelqu'un, pardonnez, afin que votre Père qui est dans les cieux vous pardonne aussi vos offenses.",
+    "verse_ref": "Marc 11:25"
+  },
+  "q_forgiveness_006": {
+    "question": "Selon Actes 3:19, « Repentez-vous donc et convertissez-vous, pour que vos péchés soient effacés, afin que des temps de _____ viennent de la part du Seigneur. »",
+    "correct": "rafraîchissement",
+    "wrong": ["bénédiction", "guérison", "paix"],
+    "hint": "Le pardon apporte un renouveau spirituel.",
+    "explanation": "Pierre appelle à la repentance qui conduit au pardon et au rafraîchissement spirituel.",
+    "full_verse": "Repentez-vous donc et convertissez-vous, pour que vos péchés soient effacés, afin que des temps de rafraîchissement viennent de la part du Seigneur.",
+    "verse_ref": "Actes 3:19"
+  },
+  "q_forgiveness_007": {
+    "question": "Selon Psaume 103:12, « Autant l'orient est éloigné de l'occident, autant il éloigne de nous nos _____. »",
+    "correct": "transgressions",
+    "wrong": ["péchés", "fautes", "erreurs"],
+    "hint": "Dieu les sépare complètement de nous.",
+    "explanation": "David décrit poétiquement comment Dieu éloigne nos péchés de nous.",
+    "full_verse": "Autant l'orient est éloigné de l'occident, autant il éloigne de nous nos transgressions.",
+    "verse_ref": "Psaume 103:12"
+  },
+  "q_forgiveness_008": {
+    "question": "Selon Ésaïe 1:18, « Si vos péchés sont comme le cramoisi, ils deviendront blancs comme la _____. »",
+    "correct": "neige",
+    "wrong": ["laine", "lumière", "lune"],
+    "hint": "Un symbole de pureté et de propreté.",
+    "explanation": "Dieu promet une purification complète, transformant les péchés écarlates en blanc pur.",
+    "full_verse": "Venez et plaidons! dit l'Éternel. Si vos péchés sont comme le cramoisi, ils deviendront blancs comme la neige; S'ils sont rouges comme la pourpre, ils deviendront comme la laine.",
+    "verse_ref": "Ésaïe 1:18"
+  },
+  "q_forgiveness_009": {
+    "question": "Selon Michée 7:18, « Quel Dieu est semblable à toi, qui pardonnes l'iniquité, qui oublies les péchés du _____ de ton héritage? »",
+    "correct": "reste",
+    "wrong": ["peuple", "enfants", "élus"],
+    "hint": "La portion fidèle du peuple de Dieu.",
+    "explanation": "Michée célèbre la volonté unique de Dieu de pardonner les péchés de son peuple.",
+    "full_verse": "Quel Dieu est semblable à toi, qui pardonnes l'iniquité, qui oublies les péchés du reste de ton héritage? Il ne garde pas sa colère à toujours, car il prend plaisir à la miséricorde.",
+    "verse_ref": "Michée 7:18"
+  },
+  "q_forgiveness_010": {
+    "question": "Selon Luc 6:37, « Ne jugez point, et vous ne serez point jugés; ne condamnez point, et vous ne serez point condamnés; absolvez, et vous serez _____. »",
+    "correct": "absous",
+    "wrong": ["bénis", "sauvés", "aimés"],
+    "hint": "Ce que nous donnons, nous le recevons.",
+    "explanation": "Jésus enseigne la nature réciproque du pardon.",
+    "full_verse": "Ne jugez point, et vous ne serez point jugés; ne condamnez point, et vous ne serez point condamnés; absolvez, et vous serez absous.",
+    "verse_ref": "Luc 6:37"
+  },
+  "q_forgiveness_011": {
+    "question": "Selon Matthieu 18:21-22, Pierre demanda combien de fois pardonner. Jésus répondit : « Je ne te dis pas jusqu'à sept fois, mais jusqu'à soixante-dix fois sept _____. »",
+    "correct": "fois",
+    "wrong": ["jours", "ans", "plus"],
+    "hint": "Jésus multiplie le nombre.",
+    "explanation": "Jésus enseigne que le pardon doit être illimité, pas compté.",
+    "full_verse": "Alors Pierre s'approcha de lui, et dit: Seigneur, combien de fois pardonnerai-je à mon frère, lorsqu'il péchera contre moi? Sera-ce jusqu'à sept fois? Jésus lui dit: Je ne te dis pas jusqu'à sept fois, mais jusqu'à soixante-dix fois sept fois.",
+    "verse_ref": "Matthieu 18:21-22"
+  },
+  "q_forgiveness_012": {
+    "question": "Selon Luc 17:3-4, « Si ton frère a péché, reprends-le; et, s'il se _____, pardonne-lui. »",
+    "correct": "repent",
+    "wrong": ["excuse", "retourne", "change"],
+    "hint": "Un retournement du péché.",
+    "explanation": "Jésus enseigne que la repentance doit être accueillie par le pardon.",
+    "full_verse": "Prenez garde à vous-mêmes. Si ton frère a péché, reprends-le; et, s'il se repent, pardonne-lui. Et s'il a péché contre toi sept fois dans un jour et que sept fois il revienne à toi, disant: Je me repens, tu lui pardonneras.",
+    "verse_ref": "Luc 17:3-4"
+  },
+  "q_forgiveness_013": {
+    "question": "Selon Luc 23:34, Jésus dit : « Père, _____-leur, car ils ne savent ce qu'ils font. »",
+    "correct": "pardonne",
+    "wrong": ["aide", "bénis", "sauve"],
+    "hint": "Jésus a prié ceci sur la croix.",
+    "explanation": "Même en étant crucifié, Jésus a demandé au Père de pardonner à ceux qui l'ont crucifié.",
+    "full_verse": "Jésus dit: Père, pardonne-leur, car ils ne savent ce qu'ils font. Ils se partagèrent ses vêtements, en tirant au sort.",
+    "verse_ref": "Luc 23:34"
+  },
+  "q_forgiveness_014": {
+    "question": "Selon Actes 2:38, « Repentez-vous, et que chacun de vous soit baptisé au nom de Jésus-Christ, pour le pardon de vos péchés; et vous recevrez le don du Saint-_____. »",
+    "correct": "Esprit",
+    "wrong": ["Pouvoir", "Vie", "Feu"],
+    "hint": "Le don promis après le pardon.",
+    "explanation": "Pierre lie la repentance et le baptême au pardon et à la réception du Saint-Esprit.",
+    "full_verse": "Pierre leur dit: Repentez-vous, et que chacun de vous soit baptisé au nom de Jésus-Christ, pour le pardon de vos péchés; et vous recevrez le don du Saint-Esprit.",
+    "verse_ref": "Actes 2:38"
+  },
+  "q_forgiveness_015": {
+    "question": "Selon Actes 10:43, « Tous les prophètes rendent de lui le témoignage que quiconque croit en lui reçoit par son _____ le pardon des péchés. »",
+    "correct": "nom",
+    "wrong": ["sang", "mort", "grâce"],
+    "hint": "Le pardon vient par cela.",
+    "explanation": "Pierre déclare que le pardon vient en croyant au nom de Jésus.",
+    "full_verse": "Tous les prophètes rendent de lui le témoignage que quiconque croit en lui reçoit par son nom le pardon des péchés.",
+    "verse_ref": "Actes 10:43"
+  },
+  "q_forgiveness_016": {
+    "question": "Selon Actes 13:38, « C'est par lui que le pardon des péchés vous est _____. »",
+    "correct": "annoncé",
+    "wrong": ["donné", "offert", "promis"],
+    "hint": "Le message est proclamé.",
+    "explanation": "Paul déclare la bonne nouvelle du pardon disponible par Jésus.",
+    "full_verse": "Sachez donc, hommes frères, que c'est par lui que le pardon des péchés vous est annoncé.",
+    "verse_ref": "Actes 13:38"
+  },
+  "q_forgiveness_017": {
+    "question": "Selon Romains 4:7, « Heureux ceux dont les iniquités sont pardonnées, et dont les péchés sont _____! »",
+    "correct": "couverts",
+    "wrong": ["effacés", "oubliés", "purifiés"],
+    "hint": "Les péchés sont cachés de la vue.",
+    "explanation": "Paul cite David pour décrire le bonheur de ceux dont les péchés sont pardonnés.",
+    "full_verse": "Heureux ceux dont les iniquités sont pardonnées, et dont les péchés sont couverts!",
+    "verse_ref": "Romains 4:7"
+  },
+  "q_forgiveness_018": {
+    "question": "Selon 2 Corinthiens 5:19, « Dieu était en Christ, réconciliant le monde avec lui-même, en n'imputant point aux hommes leurs offenses, et il a mis en nous la parole de la _____. »",
+    "correct": "réconciliation",
+    "wrong": ["pardon", "salut", "paix"],
+    "hint": "Le message d'être réunis.",
+    "explanation": "Paul explique que Dieu pardonne les péchés et donne aux croyants le message de réconciliation.",
+    "full_verse": "Car Dieu était en Christ, réconciliant le monde avec lui-même, en n'imputant point aux hommes leurs offenses, et il a mis en nous la parole de la réconciliation.",
+    "verse_ref": "2 Corinthiens 5:19"
+  },
+  "q_forgiveness_019": {
+    "question": "Selon Hébreux 8:12, « Car je pardonnerai leurs iniquités, et je ne me souviendrai _____ de leurs péchés. »",
+    "correct": "plus",
+    "wrong": ["jamais", "point", "pas"],
+    "hint": "Dieu ne les rappellera pas.",
+    "explanation": "Dieu promet un pardon complet, choisissant de ne plus se souvenir des péchés pardonnés.",
+    "full_verse": "Parce que je pardonnerai leurs iniquités, et que je ne me souviendrai plus de leurs péchés.",
+    "verse_ref": "Hébreux 8:12"
+  },
+  "q_forgiveness_020": {
+    "question": "Selon Hébreux 10:17, « Et je ne me souviendrai plus de leurs péchés ni de leurs _____. »",
+    "correct": "iniquités",
+    "wrong": ["fautes", "erreurs", "offenses"],
+    "hint": "Un autre mot pour transgressions.",
+    "explanation": "L'auteur d'Hébreux souligne la promesse de Dieu de ne plus se souvenir des péchés pardonnés.",
+    "full_verse": "Et je ne me souviendrai plus de leurs péchés ni de leurs iniquités.",
+    "verse_ref": "Hébreux 10:17"
+  },
+  "q_forgiveness_021": {
+    "question": "Selon Jacques 5:15, « La prière de la foi sauvera le malade, et le Seigneur le relèvera; et s'il a commis des péchés, il lui sera _____. »",
+    "correct": "pardonné",
+    "wrong": ["guéri", "restauré", "sauvé"],
+    "hint": "Le péché est traité avec la maladie.",
+    "explanation": "Jacques lie la prière de foi à la guérison et au pardon.",
+    "full_verse": "La prière de la foi sauvera le malade, et le Seigneur le relèvera; et s'il a commis des péchés, il lui sera pardonné.",
+    "verse_ref": "Jacques 5:15"
+  },
+  "q_forgiveness_022": {
+    "question": "Selon Psaume 32:1, « Heureux celui à qui la transgression est remise, à qui le péché est _____! »",
+    "correct": "couvert",
+    "wrong": ["effacé", "oublié", "pardonné"],
+    "hint": "Le péché est caché de la vue.",
+    "explanation": "David célèbre le bonheur de recevoir le pardon de Dieu.",
+    "full_verse": "Heureux celui à qui la transgression est remise, à qui le péché est couvert!",
+    "verse_ref": "Psaume 32:1"
+  },
+  "q_forgiveness_023": {
+    "question": "Selon Psaume 32:5, « Je t'ai fait connaître mon péché, je n'ai pas caché mon iniquité; J'ai dit: J'avouerai mes transgressions à l'Éternel! Et tu as effacé la _____ de mon péché. »",
+    "correct": "peine",
+    "wrong": ["honte", "tache", "marque"],
+    "hint": "La responsabilité morale du péché.",
+    "explanation": "David témoigne que la confession conduit au pardon de la culpabilité.",
+    "full_verse": "Je t'ai fait connaître mon péché, je n'ai pas caché mon iniquité; J'ai dit: J'avouerai mes transgressions à l'Éternel! Et tu as effacé la peine de mon péché.",
+    "verse_ref": "Psaume 32:5"
+  },
+  "q_forgiveness_024": {
+    "question": "Selon Psaume 51:3, « O Dieu! aie pitié de moi dans ta bonté; Selon ta grande _____, efface mes transgressions. »",
+    "correct": "miséricorde",
+    "wrong": ["grâce", "bonté", "tendresse"],
+    "hint": "Le sentiment tendre de Dieu envers nous.",
+    "explanation": "David fait appel à la compassion de Dieu pour le pardon de ses péchés.",
+    "full_verse": "O Dieu! aie pitié de moi dans ta bonté; Selon ta grande miséricorde, efface mes transgressions.",
+    "verse_ref": "Psaume 51:3"
+  },
+  "q_forgiveness_025": {
+    "question": "Selon Psaume 86:5, « Car tu es bon, Seigneur, tu pardonnes, tu es plein d'_____ pour tous ceux qui t'invoquent. »",
+    "correct": "amour",
+    "wrong": ["grâce", "miséricorde", "bonté"],
+    "hint": "Dieu est riche de cette qualité.",
+    "explanation": "David loue la disposition de Dieu à pardonner et son amour abondant.",
+    "full_verse": "Car tu es bon, Seigneur, tu pardonnes, tu es plein d'amour pour tous ceux qui t'invoquent.",
+    "verse_ref": "Psaume 86:5"
+  },
+  "q_forgiveness_026": {
+    "question": "Selon Psaume 103:3, « C'est lui qui pardonne toutes tes iniquités, qui guérit toutes tes _____. »",
+    "correct": "maladies",
+    "wrong": ["blessures", "douleurs", "peines"],
+    "hint": "Les maux physiques.",
+    "explanation": "David loue Dieu pour le pardon des péchés et la guérison des maladies.",
+    "full_verse": "C'est lui qui pardonne toutes tes iniquités, qui guérit toutes tes maladies.",
+    "verse_ref": "Psaume 103:3"
+  },
+  "q_forgiveness_027": {
+    "question": "Selon Psaume 130:4, « Mais le pardon se trouve auprès de toi, afin qu'on te _____. »",
+    "correct": "craigne",
+    "wrong": ["aime", "serve", "adore"],
+    "hint": "Un respect saint pour Dieu.",
+    "explanation": "Le psalmiste reconnaît que le pardon de Dieu mène à un service révérencieux.",
+    "full_verse": "Mais le pardon se trouve auprès de toi, afin qu'on te craigne.",
+    "verse_ref": "Psaume 130:4"
+  },
+  "q_forgiveness_028": {
+    "question": "Selon Proverbes 17:9, « Celui qui couvre une faute cherche l'amour, et celui qui la rappelle dans ses discours divise les _____. »",
+    "correct": "amis",
+    "wrong": ["cœurs", "frères", "gens"],
+    "hint": "Les relations sont affectées.",
+    "explanation": "Salomon enseigne que l'amour couvre les offenses plutôt que de les répandre.",
+    "full_verse": "Celui qui couvre une faute cherche l'amour, et celui qui la rappelle dans ses discours divise les amis.",
+    "verse_ref": "Proverbes 17:9"
+  },
+  "q_forgiveness_029": {
+    "question": "Selon Ésaïe 43:25, « C'est moi, moi qui efface tes transgressions pour l'amour de moi, et je ne me souviendrai plus de tes _____. »",
+    "correct": "péchés",
+    "wrong": ["fautes", "erreurs", "offenses"],
+    "hint": "Ce que Dieu choisit d'oublier.",
+    "explanation": "Dieu déclare qu'il pardonne pour l'amour de lui-même et oublie nos péchés.",
+    "full_verse": "C'est moi, moi qui efface tes transgressions pour l'amour de moi, et je ne me souviendrai plus de tes péchés.",
+    "verse_ref": "Ésaïe 43:25"
+  },
+  "q_forgiveness_030": {
+    "question": "Selon Ésaïe 55:7, « Que le méchant abandonne sa voie, et l'homme d'iniquité ses pensées; Qu'il retourne à l'Éternel, qui aura _____ de lui. »",
+    "correct": "pitié",
+    "wrong": ["compassion", "grâce", "merci"],
+    "hint": "La réponse de Dieu à la repentance.",
+    "explanation": "Ésaïe appelle à la repentance avec la promesse de la pitié et du pardon de Dieu.",
+    "full_verse": "Que le méchant abandonne sa voie, et l'homme d'iniquité ses pensées; Qu'il retourne à l'Éternel, qui aura pitié de lui, à notre Dieu, qui ne se lasse pas de pardonner.",
+    "verse_ref": "Ésaïe 55:7"
+  },
+  "q_forgiveness_031": {
+    "question": "Selon Jérémie 31:34, « Car je pardonnerai leur iniquité, et je ne me _____ plus de leur péché. »",
+    "correct": "souviendrai",
+    "wrong": ["rappellerai", "occuperai", "chargerai"],
+    "hint": "Dieu ne les ramènera pas à l'esprit.",
+    "explanation": "Dieu promet une nouvelle alliance avec un pardon complet et une connaissance personnelle de lui.",
+    "full_verse": "Celui-ci n'enseignera plus son prochain, ni celui-là son frère, en disant: Connaissez l'Éternel! Car tous me connaîtront, depuis le plus petit jusqu'au plus grand, dit l'Éternel; Car je pardonnerai leur iniquité, et je ne me souviendrai plus de leur péché.",
+    "verse_ref": "Jérémie 31:34"
+  },
+  "q_forgiveness_032": {
+    "question": "Selon Daniel 9:9, « Auprès du Seigneur, notre Dieu, la miséricorde et le _____, car nous avons été rebelles envers lui. »",
+    "correct": "pardon",
+    "wrong": ["amour", "salut", "secours"],
+    "hint": "Ce que Dieu offre malgré notre rébellion.",
+    "explanation": "Daniel reconnaît le pardon de Dieu malgré la rébellion d'Israël.",
+    "full_verse": "Auprès du Seigneur, notre Dieu, la miséricorde et le pardon, car nous avons été rebelles envers lui.",
+    "verse_ref": "Daniel 9:9"
+  },
+  "q_forgiveness_033": {
+    "question": "Selon Matthieu 6:15, « Mais si vous ne pardonnez pas aux hommes, votre Père ne vous pardonnera pas non plus vos _____. »",
+    "correct": "offenses",
+    "wrong": ["dettes", "torts", "fautes"],
+    "hint": "Ce dont nous avons besoin d'être pardonnés.",
+    "explanation": "Jésus avertit que le refus de pardonner aux autres bloque notre propre pardon.",
+    "full_verse": "mais si vous ne pardonnez pas aux hommes, votre Père ne vous pardonnera pas non plus vos offenses.",
+    "verse_ref": "Matthieu 6:15"
+  },
+  "q_forgiveness_034": {
+    "question": "Selon Matthieu 9:2, « Jésus, voyant leur foi, dit au paralytique: Prends courage, mon enfant, tes péchés te sont _____. »",
+    "correct": "pardonnés",
+    "wrong": ["remis", "effacés", "oubliés"],
+    "hint": "Jésus a déclaré cela au sujet des péchés de l'homme.",
+    "explanation": "Jésus a démontré son autorité à pardonner les péchés en guérissant le paralytique.",
+    "full_verse": "Et voici, on lui amena un paralytique couché sur un lit. Jésus, voyant leur foi, dit au paralytique: Prends courage, mon enfant, tes péchés te sont pardonnés.",
+    "verse_ref": "Matthieu 9:2"
+  },
+  "q_forgiveness_035": {
+    "question": "Selon Matthieu 12:31, « Tout péché et tout blasphème sera pardonné aux hommes, mais le blasphème contre l'_____ ne sera point pardonné. »",
+    "correct": "Esprit",
+    "wrong": ["Père", "Fils", "Seigneur"],
+    "hint": "La troisième personne de la Trinité.",
+    "explanation": "Jésus met en garde contre le péché impardonnable de blasphème contre le Saint-Esprit.",
+    "full_verse": "C'est pourquoi je vous dis: Tout péché et tout blasphème sera pardonné aux hommes, mais le blasphème contre l'Esprit ne sera point pardonné.",
+    "verse_ref": "Matthieu 12:31"
+  },
+  "q_forgiveness_036": {
+    "question": "Selon Matthieu 26:28, « Car ceci est mon sang, le sang de l'alliance, qui est répandu pour plusieurs, pour la _____ des péchés. »",
+    "correct": "rémission",
+    "wrong": ["guérison", "purification", "libération"],
+    "hint": "Jésus a versé son sang pour cela.",
+    "explanation": "Jésus déclare lors de la Cène que son sang apporte le pardon.",
+    "full_verse": "car ceci est mon sang, le sang de l'alliance, qui est répandu pour plusieurs, pour la rémission des péchés.",
+    "verse_ref": "Matthieu 26:28"
+  },
+  "q_forgiveness_037": {
+    "question": "Selon Marc 2:5, « Jésus, voyant leur foi, dit au paralytique: Mon enfant, tes péchés sont _____. »",
+    "correct": "pardonnés",
+    "wrong": ["remis", "effacés", "oubliés"],
+    "hint": "Jésus a d'abord déclaré cela avant de guérir.",
+    "explanation": "Jésus a priorisé le pardon des péchés de l'homme avant de guérir son corps.",
+    "full_verse": "Jésus, voyant leur foi, dit au paralytique: Mon enfant, tes péchés sont pardonnés.",
+    "verse_ref": "Marc 2:5"
+  },
+  "q_forgiveness_038": {
+    "question": "Selon Luc 5:20, « Voyant leur foi, Jésus dit: Homme, tes péchés te sont _____. »",
+    "correct": "pardonnés",
+    "wrong": ["remis", "effacés", "oubliés"],
+    "hint": "Jésus a répondu au besoin spirituel de l'homme.",
+    "explanation": "Luc rapporte que Jésus a pardonné les péchés du paralytique, démontrant son autorité divine.",
+    "full_verse": "Voyant leur foi, Jésus dit: Homme, tes péchés te sont pardonnés.",
+    "verse_ref": "Luc 5:20"
+  },
+  "q_forgiveness_039": {
+    "question": "Selon Luc 7:47, « C'est pourquoi, je te le dis, ses nombreux péchés ont été pardonnés: car elle a beaucoup _____. »",
+    "correct": "aimé",
+    "wrong": ["pleuré", "donné", "servi"],
+    "hint": "Son émotion a démontré le pardon reçu.",
+    "explanation": "Jésus explique que le grand amour de la femme était la preuve de son pardon.",
+    "full_verse": "C'est pourquoi, je te le dis, ses nombreux péchés ont été pardonnés: car elle a beaucoup aimé. Mais celui à qui on pardonne peu aime peu.",
+    "verse_ref": "Luc 7:47"
+  },
+  "q_forgiveness_040": {
+    "question": "Selon Luc 7:48, « Et il dit à la femme: Tes péchés sont _____. »",
+    "correct": "pardonnés",
+    "wrong": ["effacés", "oubliés", "remis"],
+    "hint": "Jésus a déclaré cela à la femme.",
+    "explanation": "Jésus a personnellement prononcé le pardon à la femme pécheresse.",
+    "full_verse": "Et il dit à la femme: Tes péchés sont pardonnés.",
+    "verse_ref": "Luc 7:48"
+  },
+  "q_forgiveness_041": {
+    "question": "Selon Luc 11:4, « Pardonne-nous nos péchés, car nous aussi nous pardonnons à quiconque nous offense; et ne nous induis pas en _____. »",
+    "correct": "tentation",
+    "wrong": ["mal", "péché", "danger"],
+    "hint": "Nous demandons d'éviter cela.",
+    "explanation": "Jésus enseigne à ses disciples à prier pour le pardon et la protection contre la tentation.",
+    "full_verse": "pardonne-nous nos péchés, car nous aussi nous pardonnons à quiconque nous offense; et ne nous induis pas en tentation.",
+    "verse_ref": "Luc 11:4"
+  },
+  "q_forgiveness_042": {
+    "question": "Selon Actes 5:31, « Dieu l'a élevé par sa droite comme Prince et Sauveur, pour donner à Israël la repentance et le pardon des _____. »",
+    "correct": "péchés",
+    "wrong": ["dettes", "torts", "fautes"],
+    "hint": "Ce que Jésus est venu pardonner.",
+    "explanation": "Pierre déclare que Jésus a été élevé pour apporter la repentance et le pardon.",
+    "full_verse": "Dieu l'a élevé par sa droite comme Prince et Sauveur, pour donner à Israël la repentance et le pardon des péchés.",
+    "verse_ref": "Actes 5:31"
+  },
+  "q_forgiveness_043": {
+    "question": "Selon Actes 26:18, « afin que tu leur ouvres les yeux, pour qu'ils passent des ténèbres à la lumière et de la puissance de Satan à Dieu, pour qu'ils reçoivent, par la foi en moi, le pardon des péchés et l'héritage avec les _____. »",
+    "correct": "sanctifiés",
+    "wrong": ["sauvés", "bénis", "élus"],
+    "hint": "Ceux qui sont rendus saints.",
+    "explanation": "Paul décrit sa mission d'amener les gens des ténèbres à la lumière et au pardon.",
+    "full_verse": "afin que tu leur ouvres les yeux, pour qu'ils passent des ténèbres à la lumière et de la puissance de Satan à Dieu, pour qu'ils reçoivent, par la foi en moi, le pardon des péchés et l'héritage avec les sanctifiés.",
+    "verse_ref": "Actes 26:18"
+  },
+  "q_forgiveness_044": {
+    "question": "Selon Éphésiens 1:7, « En lui nous avons la rédemption par son sang, la rémission des péchés, selon la richesse de sa _____. »",
+    "correct": "grâce",
+    "wrong": ["amour", "miséricorde", "gloire"],
+    "hint": "La faveur imméritée de Dieu.",
+    "explanation": "Paul déclare que le pardon vient par le sang de Christ et la riche grâce de Dieu.",
+    "full_verse": "En lui nous avons la rédemption par son sang, la rémission des péchés, selon la richesse de sa grâce.",
+    "verse_ref": "Éphésiens 1:7"
+  },
+  "q_forgiveness_045": {
+    "question": "Selon Colossiens 1:14, « en qui nous avons la rédemption, la rémission des _____. »",
+    "correct": "péchés",
+    "wrong": ["dettes", "fautes", "torts"],
+    "hint": "Ce dont nous sommes pardonnés.",
+    "explanation": "Paul déclare succinctement que la rédemption en Christ signifie le pardon des péchés.",
+    "full_verse": "en qui nous avons la rédemption, la rémission des péchés.",
+    "verse_ref": "Colossiens 1:14"
+  },
+  "q_forgiveness_046": {
+    "question": "Selon Colossiens 2:13, « Vous qui étiez morts par vos offenses et par l'incirconcision de votre chair, il vous a rendus à la vie avec lui, en nous faisant _____ pour toutes nos offenses. »",
+    "correct": "grâce",
+    "wrong": ["pardon", "pitié", "miséricorde"],
+    "hint": "L'expression de la faveur divine.",
+    "explanation": "Paul explique que Dieu nous a rendus à la vie en nous faisant grâce pour tous nos péchés.",
+    "full_verse": "Vous qui étiez morts par vos offenses et par l'incirconcision de votre chair, il vous a rendus à la vie avec lui, en nous faisant grâce pour toutes nos offenses.",
+    "verse_ref": "Colossiens 2:13"
+  },
+  "q_forgiveness_047": {
+    "question": "Selon 1 Jean 2:1, « Mes petits enfants, je vous écris ces choses, afin que vous ne péchiez point. Et si quelqu'un a péché, nous avons un avocat auprès du Père, Jésus-Christ le _____. »",
+    "correct": "juste",
+    "wrong": ["saint", "fidèle", "vrai"],
+    "hint": "Le caractère moral de Jésus.",
+    "explanation": "Jean assure les croyants que Jésus plaide pour nous quand nous péchons.",
+    "full_verse": "Mes petits enfants, je vous écris ces choses, afin que vous ne péchiez point. Et si quelqu'un a péché, nous avons un avocat auprès du Père, Jésus-Christ le juste.",
+    "verse_ref": "1 Jean 2:1"
+  },
+  "q_forgiveness_048": {
+    "question": "Selon 1 Jean 2:12, « Je vous écris, petits enfants, parce que vos péchés vous sont pardonnés à cause de son _____. »",
+    "correct": "nom",
+    "wrong": ["sang", "mort", "amour"],
+    "hint": "Le pardon vient par cela.",
+    "explanation": "Jean rappelle aux croyants que leurs péchés sont pardonnés par le nom de Jésus.",
+    "full_verse": "Je vous écris, petits enfants, parce que vos péchés vous sont pardonnés à cause de son nom.",
+    "verse_ref": "1 Jean 2:12"
+  },
+  "q_forgiveness_049": {
+    "question": "Selon 2 Chroniques 7:14, « si mon peuple sur qui est invoqué mon nom s'humilie, prie, et cherche ma face, et s'il se détourne de ses mauvaises voies, je l'exaucerai des cieux, je lui pardonnerai son péché, et je guérirai son _____. »",
+    "correct": "pays",
+    "wrong": ["cœur", "peuple", "âme"],
+    "hint": "Dieu promet de restaurer leur territoire.",
+    "explanation": "Dieu promet le pardon et la guérison à son peuple qui s'humilie et se repent.",
+    "full_verse": "si mon peuple sur qui est invoqué mon nom s'humilie, prie, et cherche ma face, et s'il se détourne de ses mauvaises voies, je l'exaucerai des cieux, je lui pardonnerai son péché, et je guérirai son pays.",
+    "verse_ref": "2 Chroniques 7:14"
+  },
+  "q_forgiveness_050": {
+    "question": "Selon Nombres 14:18, « L'Éternel est lent à la colère et riche en bonté, il pardonne l'iniquité et la rébellion; mais il ne tient point le coupable pour innocent, et il punit l'iniquité des pères sur les enfants jusqu'à la troisième et la quatrième _____. »",
+    "correct": "génération",
+    "wrong": ["niveau", "degré", "mesure"],
+    "hint": "Les effets du péché continuent dans les lignées familiales.",
+    "explanation": "Moïse déclare le caractère de Dieu comme lent à la colère et pardonnant, mais juste.",
+    "full_verse": "L'Éternel est lent à la colère et riche en bonté, il pardonne l'iniquité et la rébellion; mais il ne tient point le coupable pour innocent, et il punit l'iniquité des pères sur les enfants jusqu'à la troisième et la quatrième génération.",
+    "verse_ref": "Nombres 14:18"
+  }
+}

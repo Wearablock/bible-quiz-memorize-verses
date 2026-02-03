@@ -1,1 +1,452 @@
-{}
+{
+  "q_love_001": {
+    "question": "Điền vào chỗ trống: 'Vì Đức Chúa Trời yêu _____ thế gian đến nỗi đã ban Con Một của Ngài.'",
+    "correct": "thương",
+    "wrong": ["ban phước", "tạo dựng", "phán xét"],
+    "hint": "Câu này mô tả hành động vĩ đại nhất của Đức Chúa Trời đối với loài người",
+    "explanation": "Giăng 3:16 bày tỏ chiều sâu tình yêu của Đức Chúa Trời - Ngài yêu thương thế gian đến nỗi ban Con Ngài để cứu chúng ta.",
+    "full_verse": "Vì Đức Chúa Trời yêu thương thế gian đến nỗi đã ban Con Một của Ngài, hầu cho hễ ai tin Con ấy không bị hư mất mà được sự sống đời đời.",
+    "verse_ref": "Giăng 3:16"
+  },
+  "q_love_002": {
+    "question": "Điền vào chỗ trống: 'Tình yêu thương hay nhịn nhục, tình yêu thương hay _____.'",
+    "correct": "nhân từ",
+    "wrong": ["mạnh mẽ", "khôn ngoan", "tinh khiết"],
+    "hint": "Phẩm chất này bao gồm sự dịu dàng và quan tâm",
+    "explanation": "Phao-lô bắt đầu mô tả nổi tiếng về tình yêu bằng cách nhấn mạnh sự nhịn nhục và nhân từ là những phẩm chất nền tảng.",
+    "full_verse": "Tình yêu thương hay nhịn nhục, tình yêu thương hay nhân từ. Tình yêu thương không ghen tị, không khoe mình, không kiêu ngạo.",
+    "verse_ref": "1 Cô-rinh-tô 13:4"
+  },
+  "q_love_003": {
+    "question": "Điền vào chỗ trống: 'Không có tình yêu nào lớn hơn điều này: hy sinh _____ mình vì bạn hữu.'",
+    "correct": "mạng sống",
+    "wrong": ["của cải", "lòng kiêu hãnh", "nhà cửa"],
+    "hint": "Chúa Giê-xu đã chứng minh sự hy sinh tối thượng này",
+    "explanation": "Chúa Giê-xu nói những lời này trước khi bị đóng đinh, dạy rằng sự bày tỏ tình yêu lớn nhất là hy sinh chính mình.",
+    "full_verse": "Không có tình yêu nào lớn hơn điều này: hy sinh mạng sống mình vì bạn hữu.",
+    "verse_ref": "Giăng 15:13"
+  },
+  "q_love_004": {
+    "question": "Điền vào chỗ trống: 'Nay còn lại ba điều này: đức tin, hy vọng và tình yêu thương. Nhưng điều lớn nhất trong ba điều đó là _____.'",
+    "correct": "tình yêu thương",
+    "wrong": ["đức tin", "hy vọng", "bình an"],
+    "hint": "Phao-lô tuyên bố điều này là tối cao trong ba điều",
+    "explanation": "Khi kết luận bài giảng về tình yêu, Phao-lô tuyên bố rằng trong khi đức tin, hy vọng và tình yêu thương đều tồn tại, tình yêu thương là đức tính cao quý nhất.",
+    "full_verse": "Nay còn lại ba điều này: đức tin, hy vọng và tình yêu thương. Nhưng điều lớn nhất trong ba điều đó là tình yêu thương.",
+    "verse_ref": "1 Cô-rinh-tô 13:13"
+  },
+  "q_love_005": {
+    "question": "Điền vào chỗ trống: 'Chúng ta yêu vì Ngài đã yêu chúng ta _____ nhất.'",
+    "correct": "trước",
+    "wrong": ["luôn luôn", "thật sự", "sâu sắc"],
+    "hint": "Tình yêu của Đức Chúa Trời đi trước tình yêu của chúng ta",
+    "explanation": "Khả năng yêu thương của chúng ta bắt nguồn từ sáng kiến của Đức Chúa Trời - Ngài đã yêu chúng ta trước khi chúng ta có thể yêu Ngài.",
+    "full_verse": "Chúng ta yêu vì Ngài đã yêu chúng ta trước nhất.",
+    "verse_ref": "1 Giăng 4:19"
+  },
+  "q_love_006": {
+    "question": "Điền vào chỗ trống: 'Hãy yêu _____ như chính mình.'",
+    "correct": "người lân cận",
+    "wrong": ["gia đình", "bạn bè", "anh em"],
+    "hint": "Mệnh lệnh này mở rộng tình yêu ra ngoài vòng thân thuộc",
+    "explanation": "Chúa Giê-xu trích mệnh lệnh này từ Lê-vi Ký là điều răn lớn thứ hai, dạy chúng ta mở rộng tình yêu đến mọi người.",
+    "full_verse": "Hãy yêu người lân cận như chính mình.",
+    "verse_ref": "Mác 12:31"
+  },
+  "q_love_007": {
+    "question": "Điền vào chỗ trống: 'Đức Chúa Trời là _____.'",
+    "correct": "tình yêu thương",
+    "wrong": ["ánh sáng", "thần linh", "thánh khiết"],
+    "hint": "Điều này định nghĩa bản chất thiết yếu của Đức Chúa Trời",
+    "explanation": "Giăng đưa ra tuyên bố sâu sắc rằng tình yêu không chỉ là điều Đức Chúa Trời làm, mà là bản chất căn bản của Ngài.",
+    "full_verse": "Ai không yêu thương thì không biết Đức Chúa Trời, vì Đức Chúa Trời là tình yêu thương.",
+    "verse_ref": "1 Giăng 4:8"
+  },
+  "q_love_008": {
+    "question": "Điền vào chỗ trống: 'Tình yêu thương không vui về điều bất chính, nhưng vui về _____.'",
+    "correct": "chân lý",
+    "wrong": ["công chính", "khiêm nhường", "trung tín"],
+    "hint": "Tình yêu vui mừng về điều chân thật và thành thật",
+    "explanation": "Tình yêu thật không tìm thấy niềm vui trong điều sai trái mà vui mừng về chân lý và sự công chính.",
+    "full_verse": "Tình yêu thương không vui về điều bất chính, nhưng vui về chân lý.",
+    "verse_ref": "1 Cô-rinh-tô 13:6"
+  },
+  "q_love_009": {
+    "question": "Điền vào chỗ trống: 'Trên hết, hãy yêu thương nhau tha thiết, vì tình yêu thương che đậy vô số _____.'",
+    "correct": "tội lỗi",
+    "wrong": ["lỗi lầm", "sai phạm", "điều sai"],
+    "hint": "Tình yêu có sức mạnh tha thứ nhiều vi phạm",
+    "explanation": "Phi-e-rơ dạy rằng tình yêu sâu sắc, chân thật có sức mạnh tha thứ và bỏ qua nhiều xúc phạm.",
+    "full_verse": "Trên hết, hãy yêu thương nhau tha thiết, vì tình yêu thương che đậy vô số tội lỗi.",
+    "verse_ref": "1 Phi-e-rơ 4:8"
+  },
+  "q_love_010": {
+    "question": "Điền vào chỗ trống: 'Nhưng Ta bảo các ngươi: Hãy yêu _____ mình và cầu nguyện cho những kẻ bức hại các ngươi.'",
+    "correct": "kẻ thù",
+    "wrong": ["người lân cận", "anh em", "bạn bè"],
+    "hint": "Chúa Giê-xu ra lệnh chúng ta yêu ngay cả những người chống đối mình",
+    "explanation": "Chúa Giê-xu dạy một cách triệt để rằng tình yêu phải mở rộng đến cả những người ghét và bức hại chúng ta.",
+    "full_verse": "Nhưng Ta bảo các ngươi: Hãy yêu kẻ thù mình và cầu nguyện cho những kẻ bức hại các ngươi.",
+    "verse_ref": "Ma-thi-ơ 5:44"
+  },
+  "q_love_011": {
+    "question": "Điền vào chỗ trống: 'Hỡi những người làm chồng, hãy yêu vợ mình như Đấng Christ đã yêu _____.'",
+    "correct": "Hội Thánh",
+    "wrong": ["môn đồ", "thế gian", "Cha"],
+    "hint": "Tình yêu hy sinh của Đấng Christ dành cho các tín hữu là mẫu mực",
+    "explanation": "Phao-lô hướng dẫn những người chồng yêu vợ với cùng tình yêu hy sinh mà Đấng Christ đã dành cho Hội Thánh.",
+    "full_verse": "Hỡi những người làm chồng, hãy yêu vợ mình như Đấng Christ đã yêu Hội Thánh và phó chính mình vì Hội Thánh.",
+    "verse_ref": "Ê-phê-sô 5:25"
+  },
+  "q_love_012": {
+    "question": "Điền vào chỗ trống: 'Đừng mắc nợ ai điều gì, ngoài món nợ yêu thương _____.'",
+    "correct": "nhau",
+    "wrong": ["người lân cận", "anh em", "bạn bè"],
+    "hint": "Món nợ này không bao giờ trả hết",
+    "explanation": "Phao-lô dạy rằng trong khi chúng ta nên trả hết các khoản nợ, nghĩa vụ yêu thương người khác là liên tục và không bao giờ trả xong.",
+    "full_verse": "Đừng mắc nợ ai điều gì, ngoài món nợ yêu thương nhau, vì ai yêu người khác là đã làm trọn luật pháp.",
+    "verse_ref": "Rô-ma 13:8"
+  },
+  "q_love_013": {
+    "question": "Điền vào chỗ trống: 'Trong tình yêu không có sự sợ hãi, nhưng tình yêu _____ đuổi bỏ sự sợ hãi.'",
+    "correct": "trọn vẹn",
+    "wrong": ["thật", "tinh khiết", "lớn lao"],
+    "hint": "Tình yêu hoàn hảo, trưởng thành loại bỏ sự sợ hãi",
+    "explanation": "Giăng dạy rằng khi tình yêu đạt đến sự trưởng thành và trọn vẹn, nó loại bỏ mọi sợ hãi về sự phán xét.",
+    "full_verse": "Trong tình yêu không có sự sợ hãi, nhưng tình yêu trọn vẹn đuổi bỏ sự sợ hãi, vì sự sợ hãi liên quan đến hình phạt.",
+    "verse_ref": "1 Giăng 4:18"
+  },
+  "q_love_014": {
+    "question": "Điền vào chỗ trống: 'Ngươi hãy yêu Chúa là Đức Chúa Trời ngươi hết lòng, hết linh hồn và hết _____.'",
+    "correct": "trí",
+    "wrong": ["thân thể", "đời sống", "của cải"],
+    "hint": "Điều này liên quan đến khả năng trí tuệ của chúng ta",
+    "explanation": "Chúa Giê-xu tuyên bố đây là điều răn lớn nhất - yêu Đức Chúa Trời hoàn toàn với mọi khía cạnh của con người chúng ta.",
+    "full_verse": "Ngươi hãy yêu Chúa là Đức Chúa Trời ngươi hết lòng, hết linh hồn và hết trí.",
+    "verse_ref": "Ma-thi-ơ 22:37"
+  },
+  "q_love_015": {
+    "question": "Điền vào chỗ trống: 'Ta ban cho các ngươi một điều răn mới: Hãy yêu thương nhau. Như Ta đã yêu các ngươi, các ngươi cũng phải yêu thương _____.'",
+    "correct": "nhau",
+    "wrong": ["người lân cận", "anh em", "bạn bè"],
+    "hint": "Chúa Giê-xu làm mẫu về tình yêu hỗ tương này",
+    "explanation": "Chúa Giê-xu ban điều răn mới này cho các môn đồ, đặt tình yêu của chính Ngài làm tiêu chuẩn cho cách chúng ta nên yêu thương.",
+    "full_verse": "Ta ban cho các ngươi một điều răn mới: Hãy yêu thương nhau. Như Ta đã yêu các ngươi, các ngươi cũng phải yêu thương nhau.",
+    "verse_ref": "Giăng 13:34"
+  },
+  "q_love_016": {
+    "question": "Điền vào chỗ trống: 'Thưa anh chị em yêu dấu, chúng ta hãy yêu thương nhau, vì tình yêu thương đến từ _____.'",
+    "correct": "Đức Chúa Trời",
+    "wrong": ["thiên đàng", "trên cao", "bên trong"],
+    "hint": "Tình yêu có nguồn gốc thiêng liêng",
+    "explanation": "Giăng dạy rằng tình yêu đích thực bắt nguồn từ Đức Chúa Trời - Ngài là nguồn của mọi tình yêu thật.",
+    "full_verse": "Thưa anh chị em yêu dấu, chúng ta hãy yêu thương nhau, vì tình yêu thương đến từ Đức Chúa Trời. Ai yêu thương thì sinh bởi Đức Chúa Trời và biết Đức Chúa Trời.",
+    "verse_ref": "1 Giăng 4:7"
+  },
+  "q_love_017": {
+    "question": "Điền vào chỗ trống: 'Hãy xem Cha yêu thương chúng ta dường nào, đến nỗi chúng ta được gọi là _____ của Đức Chúa Trời!'",
+    "correct": "con cái",
+    "wrong": ["đầy tớ", "bạn hữu", "người thừa kế"],
+    "hint": "Điều này mô tả mối quan hệ của chúng ta với Đức Chúa Trời",
+    "explanation": "Giăng ngạc nhiên về tình yêu hào phóng của Đức Chúa Trời ban cho chúng ta đặc quyền làm con cái Ngài.",
+    "full_verse": "Hãy xem Cha yêu thương chúng ta dường nào, đến nỗi chúng ta được gọi là con cái của Đức Chúa Trời!",
+    "verse_ref": "1 Giăng 3:1"
+  },
+  "q_love_018": {
+    "question": "Điền vào chỗ trống: 'Tình yêu thương không bao giờ _____.'",
+    "correct": "hư mất",
+    "wrong": ["kết thúc", "dừng lại", "bỏ cuộc"],
+    "hint": "Tình yêu là vĩnh cửu và không bao giờ thất bại",
+    "explanation": "Phao-lô tuyên bố rằng không giống các ân tứ thuộc linh sẽ chấm dứt, tình yêu là đời đời và không bao giờ thất bại.",
+    "full_verse": "Tình yêu thương không bao giờ hư mất. Nhưng các lời tiên tri sẽ qua đi, các tiếng lạ sẽ ngưng, sự hiểu biết cũng sẽ qua đi.",
+    "verse_ref": "1 Cô-rinh-tô 13:8"
+  },
+  "q_love_019": {
+    "question": "Điền vào chỗ trống: 'Hãy giữ mình trong tình yêu của Đức Chúa Trời trong khi chờ đợi _____ của Chúa Giê-xu Christ chúng ta.'",
+    "correct": "lòng thương xót",
+    "wrong": ["sự trở lại", "sự đến", "vinh hiển"],
+    "hint": "Phẩm chất này dẫn đến sự sống đời đời",
+    "explanation": "Giu-đe khuyến khích các tín hữu ở trong tình yêu của Đức Chúa Trời trong khi chờ đợi sự trở lại đầy thương xót của Đấng Christ.",
+    "full_verse": "Hãy giữ mình trong tình yêu của Đức Chúa Trời trong khi chờ đợi lòng thương xót của Chúa Giê-xu Christ chúng ta đem anh chị em vào sự sống đời đời.",
+    "verse_ref": "Giu-đe 1:21"
+  },
+  "q_love_020": {
+    "question": "Điền vào chỗ trống: 'Mọi việc anh chị em làm, hãy làm trong _____.'",
+    "correct": "tình yêu thương",
+    "wrong": ["đức tin", "bình an", "vui mừng"],
+    "hint": "Điều này nên thúc đẩy mọi hành động của chúng ta",
+    "explanation": "Lời hướng dẫn đơn giản nhưng sâu sắc của Phao-lô rằng tình yêu nên là động lực đằng sau mọi việc chúng ta làm.",
+    "full_verse": "Mọi việc anh chị em làm, hãy làm trong tình yêu thương.",
+    "verse_ref": "1 Cô-rinh-tô 16:14"
+  },
+  "q_love_021": {
+    "question": "Điền vào chỗ trống: 'Nhưng Đức Chúa Trời bày tỏ tình yêu của Ngài đối với chúng ta trong điều này: Khi chúng ta còn là _____, Đấng Christ đã chết vì chúng ta.'",
+    "correct": "tội nhân",
+    "wrong": ["hư mất", "tan vỡ", "yếu đuối"],
+    "hint": "Đấng Christ đã chết vì chúng ta trong tình trạng sa ngã",
+    "explanation": "Phao-lô nhấn mạnh rằng tình yêu của Đức Chúa Trời là vô điều kiện - Đấng Christ đã chết vì chúng ta khi chúng ta còn đang nổi loạn chống lại Ngài.",
+    "full_verse": "Nhưng Đức Chúa Trời bày tỏ tình yêu của Ngài đối với chúng ta trong điều này: Khi chúng ta còn là tội nhân, Đấng Christ đã chết vì chúng ta.",
+    "verse_ref": "Rô-ma 5:8"
+  },
+  "q_love_022": {
+    "question": "Điền vào chỗ trống: 'Tình yêu thương hay dung thứ mọi sự, tin mọi sự, hy vọng mọi sự, chịu đựng _____.'",
+    "correct": "mọi sự",
+    "wrong": ["tất cả", "mọi điều", "mãi mãi"],
+    "hint": "Tình yêu tiếp tục bất chấp khó khăn",
+    "explanation": "Phao-lô mô tả bản chất bền bỉ của tình yêu - nó không bao giờ bỏ cuộc và tiếp tục qua mọi hoàn cảnh.",
+    "full_verse": "Tình yêu thương hay dung thứ mọi sự, tin mọi sự, hy vọng mọi sự, chịu đựng mọi sự.",
+    "verse_ref": "1 Cô-rinh-tô 13:7"
+  },
+  "q_love_023": {
+    "question": "Điền vào chỗ trống: 'Bởi điều này chúng ta biết thế nào là tình yêu thương: Đức Chúa Giê-xu Christ đã phó _____ Ngài vì chúng ta.'",
+    "correct": "mạng sống",
+    "wrong": ["vinh hiển", "vương miện", "quyền năng"],
+    "hint": "Chúa Giê-xu đã thực hiện sự hy sinh tối thượng",
+    "explanation": "Giăng chỉ đến sự chết hy sinh của Đấng Christ như ví dụ điển hình về tình yêu thật là gì.",
+    "full_verse": "Bởi điều này chúng ta biết thế nào là tình yêu thương: Đức Chúa Giê-xu Christ đã phó mạng sống Ngài vì chúng ta. Chúng ta cũng phải phó mạng sống mình vì anh chị em.",
+    "verse_ref": "1 Giăng 3:16"
+  },
+  "q_love_024": {
+    "question": "Điền vào chỗ trống: 'Dù tôi nói được các tiếng của loài người và thiên sứ, mà không có tình yêu thương, thì tôi chỉ như tiếng cồng vang hay _____ chũm chọe.'",
+    "correct": "chập",
+    "wrong": ["chuông", "trống", "kèn"],
+    "hint": "Đây là một nhạc cụ gõ",
+    "explanation": "Phao-lô bắt đầu chương về tình yêu bằng cách nói rằng ngay cả những ân tứ ấn tượng nhất cũng vô nghĩa nếu không có tình yêu.",
+    "full_verse": "Dù tôi nói được các tiếng của loài người và thiên sứ, mà không có tình yêu thương, thì tôi chỉ như tiếng cồng vang hay chập chũm chọe.",
+    "verse_ref": "1 Cô-rinh-tô 13:1"
+  },
+  "q_love_025": {
+    "question": "Điền vào chỗ trống: 'Ai nói mình yêu Đức Chúa Trời mà ghét anh em mình là người _____.'",
+    "correct": "nói dối",
+    "wrong": ["ngu dại", "tội nhân", "đạo đức giả"],
+    "hint": "Người này không thành thật",
+    "explanation": "Giăng làm rõ rằng yêu Đức Chúa Trời và ghét người khác là không tương thích - điều này chứng minh điều kia là sai.",
+    "full_verse": "Ai nói mình yêu Đức Chúa Trời mà ghét anh em mình là người nói dối. Vì ai không yêu anh em mình là người mình thấy, thì không thể yêu Đức Chúa Trời là Đấng mình không thấy.",
+    "verse_ref": "1 Giăng 4:20"
+  },
+  "q_love_026": {
+    "question": "Điền vào chỗ trống: 'Đây là điều răn của Ta: Hãy yêu thương nhau như Ta đã _____ các ngươi.'",
+    "correct": "yêu",
+    "wrong": ["dạy", "ban phước", "chọn"],
+    "hint": "Chúa Giê-xu đặt gương mẫu cho chúng ta noi theo",
+    "explanation": "Chúa Giê-xu ra lệnh cho những người theo Ngài yêu thương với cùng tình yêu hy sinh mà Ngài đã chứng minh.",
+    "full_verse": "Đây là điều răn của Ta: Hãy yêu thương nhau như Ta đã yêu các ngươi.",
+    "verse_ref": "Giăng 15:12"
+  },
+  "q_love_027": {
+    "question": "Điền vào chỗ trống: 'Ai yêu thương anh em mình thì ở trong _____, và không có gì làm cho người ấy vấp ngã.'",
+    "correct": "ánh sáng",
+    "wrong": ["lẽ thật", "Thánh Linh", "Chúa"],
+    "hint": "Điều này đối lập với bóng tối",
+    "explanation": "Giăng đối chiếu tình yêu và sự ghét như ánh sáng và bóng tối - những ai yêu thương bước đi trong ánh sáng của Đức Chúa Trời.",
+    "full_verse": "Ai yêu thương anh em mình thì ở trong ánh sáng, và không có gì làm cho người ấy vấp ngã.",
+    "verse_ref": "1 Giăng 2:10"
+  },
+  "q_love_028": {
+    "question": "Điền vào chỗ trống: 'Trên hết mọi điều đó, hãy mặc lấy tình yêu thương, là điều ràng buộc mọi sự trong sự trọn _____.'",
+    "correct": "vẹn",
+    "wrong": ["hòa hợp", "bình an", "trật tự"],
+    "hint": "Tình yêu tạo ra sự hiệp nhất hoàn hảo",
+    "explanation": "Phao-lô mô tả tình yêu như đức tính giữ tất cả các đức tính khác lại với nhau trong sự trọn vẹn hoàn hảo.",
+    "full_verse": "Trên hết mọi điều đó, hãy mặc lấy tình yêu thương, là điều ràng buộc mọi sự trong sự trọn vẹn.",
+    "verse_ref": "Cô-lô-se 3:14"
+  },
+  "q_love_029": {
+    "question": "Điền vào chỗ trống: 'Vì tôi tin chắc rằng không điều gì, dù sự chết hay sự sống... có thể phân cách chúng ta khỏi _____ của Đức Chúa Trời.'",
+    "correct": "tình yêu",
+    "wrong": ["ân điển", "quyền năng", "sự hiện diện"],
+    "hint": "Không gì có thể phá vỡ mối ràng buộc này với Đức Chúa Trời",
+    "explanation": "Phao-lô tuyên bố đắc thắng rằng hoàn toàn không có gì có thể phân cách các tín hữu khỏi tình yêu của Đức Chúa Trời trong Đấng Christ.",
+    "full_verse": "Vì tôi tin chắc rằng không điều gì, dù sự chết hay sự sống, dù thiên sứ hay ma quỷ, dù hiện tại hay tương lai, dù quyền lực nào, dù cao hay sâu, dù bất cứ tạo vật nào, có thể phân cách chúng ta khỏi tình yêu của Đức Chúa Trời trong Đức Chúa Giê-xu Christ, Chúa chúng ta.",
+    "verse_ref": "Rô-ma 8:38-39"
+  },
+  "q_love_030": {
+    "question": "Điền vào chỗ trống: 'Dù tôi có ơn tiên tri, hiểu biết mọi huyền nhiệm và mọi kiến thức, dù tôi có đức tin đến nỗi dời núi được, mà không có tình yêu thương, tôi chẳng ra _____.'",
+    "correct": "gì",
+    "wrong": ["trống rỗng", "hư mất", "ngu dại"],
+    "hint": "Không có tình yêu, ngay cả những ân tứ lớn cũng bằng không",
+    "explanation": "Phao-lô nhấn mạnh rằng ngay cả những ân tứ và khả năng thuộc linh lớn nhất cũng vô giá trị nếu không có tình yêu.",
+    "full_verse": "Dù tôi có ơn tiên tri, hiểu biết mọi huyền nhiệm và mọi kiến thức, dù tôi có đức tin đến nỗi dời núi được, mà không có tình yêu thương, tôi chẳng ra gì.",
+    "verse_ref": "1 Cô-rinh-tô 13:2"
+  },
+  "q_love_031": {
+    "question": "Điền vào chỗ trống: 'Ta đã yêu ngươi bằng tình yêu _____ kiếp; Ta đã lấy lòng nhân từ mà kéo ngươi đến.'",
+    "correct": "đời đời",
+    "wrong": ["vĩnh cửu", "vô tận", "vô hạn"],
+    "hint": "Tình yêu này không có kết thúc",
+    "explanation": "Đức Chúa Trời tuyên bố tình yêu của Ngài dành cho dân Ngài là đời đời và không thay đổi, kéo họ bằng lòng nhân từ.",
+    "full_verse": "Ta đã yêu ngươi bằng tình yêu đời đời kiếp; Ta đã lấy lòng nhân từ mà kéo ngươi đến.",
+    "verse_ref": "Giê-rê-mi 31:3"
+  },
+  "q_love_032": {
+    "question": "Điền vào chỗ trống: 'Hãy yêu thương nhau tha thiết như anh em. Hãy lấy lòng kính trọng nhau hơn _____.'",
+    "correct": "mình",
+    "wrong": ["người khác", "tất cả", "mọi thứ"],
+    "hint": "Đặt người khác lên trước",
+    "explanation": "Phao-lô hướng dẫn các tín hữu thực hành tình yêu quên mình, đặt sự tôn trọng người khác trên chính mình.",
+    "full_verse": "Hãy yêu thương nhau tha thiết như anh em. Hãy lấy lòng kính trọng nhau hơn mình.",
+    "verse_ref": "Rô-ma 12:10"
+  },
+  "q_love_033": {
+    "question": "Điền vào chỗ trống: 'Nguyện Chúa khiến tình yêu của anh chị em gia tăng và _____ đối với nhau và với mọi người.'",
+    "correct": "tràn đầy",
+    "wrong": ["dư dật", "nhân lên", "lan rộng"],
+    "hint": "Tình yêu nên tràn ra dư dật",
+    "explanation": "Phao-lô cầu nguyện rằng tình yêu của người Tê-sa-lô-ni-ca sẽ lớn lên đến nỗi tràn ra cho mọi người xung quanh.",
+    "full_verse": "Nguyện Chúa khiến tình yêu của anh chị em gia tăng và tràn đầy đối với nhau và với mọi người, như tình yêu chúng tôi đối với anh chị em.",
+    "verse_ref": "1 Tê-sa-lô-ni-ca 3:12"
+  },
+  "q_love_034": {
+    "question": "Điền vào chỗ trống: 'Dù tôi đem hết gia tài mình bố thí, dù tôi phó thân thể mình để chịu đốt, mà không có tình yêu thương, tôi chẳng được _____.'",
+    "correct": "ích gì",
+    "wrong": ["ít", "kém", "trống rỗng"],
+    "hint": "Không có tình yêu, ngay cả sự hy sinh cũng vô giá trị",
+    "explanation": "Phao-lô cho thấy rằng ngay cả những hành động hào phóng và hy sinh nhất cũng không có giá trị nếu không có tình yêu chân thật.",
+    "full_verse": "Dù tôi đem hết gia tài mình bố thí, dù tôi phó thân thể mình để chịu đốt, mà không có tình yêu thương, tôi chẳng được ích gì.",
+    "verse_ref": "1 Cô-rinh-tô 13:3"
+  },
+  "q_love_035": {
+    "question": "Điền vào chỗ trống: 'Các ngươi có nghe nói rằng: \"Hãy yêu người lân cận và ghét _____ mình.\"'",
+    "correct": "kẻ thù",
+    "wrong": ["đối thủ", "kẻ địch", "người chống đối"],
+    "hint": "Chúa Giê-xu trích lời dạy phổ biến này trước khi sửa đổi",
+    "explanation": "Chúa Giê-xu trích sự giải thích sai phổ biến trước khi dạy rằng chúng ta phải yêu cả kẻ thù mình.",
+    "full_verse": "Các ngươi có nghe nói rằng: 'Hãy yêu người lân cận và ghét kẻ thù mình.'",
+    "verse_ref": "Ma-thi-ơ 5:43"
+  },
+  "q_love_036": {
+    "question": "Điền vào chỗ trống: 'Chưa hề có ai thấy Đức Chúa Trời; nhưng nếu chúng ta yêu thương nhau, Đức Chúa Trời ở trong chúng ta và tình yêu của Ngài được _____ trong chúng ta.'",
+    "correct": "trọn vẹn",
+    "wrong": ["hoàn hảo", "toàn vẹn", "đầy đủ"],
+    "hint": "Tình yêu của Đức Chúa Trời đạt mục tiêu trong chúng ta",
+    "explanation": "Giăng dạy rằng yêu thương nhau là bằng chứng về sự hiện diện của Đức Chúa Trời và tình yêu của Ngài đạt được mục đích dự định.",
+    "full_verse": "Chưa hề có ai thấy Đức Chúa Trời; nhưng nếu chúng ta yêu thương nhau, Đức Chúa Trời ở trong chúng ta và tình yêu của Ngài được trọn vẹn trong chúng ta.",
+    "verse_ref": "1 Giăng 4:12"
+  },
+  "q_love_037": {
+    "question": "Điền vào chỗ trống: 'Và tình yêu thương là đây: Chúng ta bước đi theo _____ Ngài.'",
+    "correct": "các điều răn",
+    "wrong": ["sự đáp ứng", "sự phù hợp", "sự đầu phục"],
+    "hint": "Tình yêu được chứng minh qua việc tuân theo hướng dẫn của Đức Chúa Trời",
+    "explanation": "Giăng định nghĩa tình yêu một cách thực tế là vâng lời các điều răn của Đức Chúa Trời, không chỉ là cảm xúc.",
+    "full_verse": "Và tình yêu thương là đây: Chúng ta bước đi theo các điều răn Ngài. Như anh chị em đã nghe từ ban đầu, điều răn của Ngài là anh chị em bước đi trong tình yêu thương.",
+    "verse_ref": "2 Giăng 1:6"
+  },
+  "q_love_038": {
+    "question": "Điền vào chỗ trống: 'Bởi điều này mọi người sẽ nhận biết các ngươi là môn đồ Ta: Nếu các ngươi yêu thương _____.'",
+    "correct": "nhau",
+    "wrong": ["người lân cận", "anh em", "bạn bè"],
+    "hint": "Tình yêu hỗ tương nhận diện những người theo Đấng Christ",
+    "explanation": "Chúa Giê-xu tuyên bố rằng tình yêu giữa những người theo Ngài sẽ là dấu hiệu phân biệt của môn đồ thật.",
+    "full_verse": "Bởi điều này mọi người sẽ nhận biết các ngươi là môn đồ Ta: Nếu các ngươi yêu thương nhau.",
+    "verse_ref": "Giăng 13:35"
+  },
+  "q_love_039": {
+    "question": "Điền vào chỗ trống: 'Đừng để sự nhân từ và chân lý lìa khỏi con; hãy đeo chúng quanh _____ con.'",
+    "correct": "cổ",
+    "wrong": ["tim", "cổ tay", "eo"],
+    "hint": "Đeo những đức tính này như đồ trang sức",
+    "explanation": "Châm ngôn dạy chúng ta giữ sự nhân từ và chân thật gần gũi, như một chiếc dây chuyền luôn đeo.",
+    "full_verse": "Đừng để sự nhân từ và chân lý lìa khỏi con; hãy đeo chúng quanh cổ con, ghi chúng trên bảng lòng con.",
+    "verse_ref": "Châm Ngôn 3:3"
+  },
+  "q_love_040": {
+    "question": "Điền vào chỗ trống: 'Tình yêu thương không làm điều vô lễ, không tìm lợi riêng, không dễ _____.'",
+    "correct": "nóng giận",
+    "wrong": ["bị xúc phạm", "bị tổn thương", "bị khiêu khích"],
+    "hint": "Tình yêu duy trì sự bình tĩnh",
+    "explanation": "Phao-lô mô tả tình yêu là kiên nhẫn với người khác, không nhanh chóng tức giận hay mất bình tĩnh.",
+    "full_verse": "Tình yêu thương không làm điều vô lễ, không tìm lợi riêng, không dễ nóng giận, không ghi nhớ điều ác.",
+    "verse_ref": "1 Cô-rinh-tô 13:5"
+  },
+  "q_love_041": {
+    "question": "Điền vào chỗ trống: 'Và hy vọng không làm chúng ta hổ thẹn, vì tình yêu của Đức Chúa Trời đã được đổ vào _____ chúng ta qua Đức Thánh Linh.'",
+    "correct": "lòng",
+    "wrong": ["linh hồn", "đời sống", "trí"],
+    "hint": "Thánh Linh đổ đầy phần này của chúng ta bằng tình yêu của Đức Chúa Trời",
+    "explanation": "Phao-lô mô tả cách Đức Thánh Linh đổ đầy lòng các tín hữu với sự trải nghiệm tình yêu của Đức Chúa Trời.",
+    "full_verse": "Và hy vọng không làm chúng ta hổ thẹn, vì tình yêu của Đức Chúa Trời đã được đổ vào lòng chúng ta qua Đức Thánh Linh, Đấng đã được ban cho chúng ta.",
+    "verse_ref": "Rô-ma 5:5"
+  },
+  "q_love_042": {
+    "question": "Điền vào chỗ trống: 'Sự ghét gây ra xung đột, nhưng tình yêu thương che đậy mọi _____.'",
+    "correct": "lỗi lầm",
+    "wrong": ["tội lỗi", "khuyết điểm", "sai phạm"],
+    "hint": "Tình yêu bỏ qua những xúc phạm",
+    "explanation": "Châm ngôn này đối chiếu sự ghét, gây ra xung đột, với tình yêu, tha thứ và che đậy các xúc phạm.",
+    "full_verse": "Sự ghét gây ra xung đột, nhưng tình yêu thương che đậy mọi lỗi lầm.",
+    "verse_ref": "Châm Ngôn 10:12"
+  },
+  "q_love_043": {
+    "question": "Điền vào chỗ trống: 'Hãy đặt em như ấn trên tim anh, như ấn trên cánh tay anh; vì tình yêu mạnh như _____.'",
+    "correct": "sự chết",
+    "wrong": ["sự sống", "đức tin", "Đức Chúa Trời"],
+    "hint": "Sức mạnh của tình yêu được so sánh với điều không thể tránh được",
+    "explanation": "Nhã Ca mô tả một cách thơ mộng sức mạnh không thể cưỡng lại của tình yêu, so sánh nó với sức mạnh không thể ngăn cản của sự chết.",
+    "full_verse": "Hãy đặt em như ấn trên tim anh, như ấn trên cánh tay anh; vì tình yêu mạnh như sự chết, sự ghen tuông cứng như âm phủ.",
+    "verse_ref": "Nhã Ca 8:6"
+  },
+  "q_love_044": {
+    "question": "Điền vào chỗ trống: 'Đây là cách Đức Chúa Trời bày tỏ tình yêu của Ngài giữa chúng ta: Ngài đã sai Con Một của Ngài đến _____ gian.'",
+    "correct": "thế",
+    "wrong": ["Thánh Linh", "Lời", "Món Quà"],
+    "hint": "Đức Chúa Trời sai Chúa Giê-xu để bày tỏ tình yêu của Ngài",
+    "explanation": "Giăng giải thích rằng tình yêu của Đức Chúa Trời được bày tỏ qua việc sai Đức Chúa Giê-xu Christ đến thế gian.",
+    "full_verse": "Đây là cách Đức Chúa Trời bày tỏ tình yêu của Ngài giữa chúng ta: Ngài đã sai Con Một của Ngài đến thế gian để chúng ta nhờ Ngài mà được sống.",
+    "verse_ref": "1 Giăng 4:9"
+  },
+  "q_love_045": {
+    "question": "Điền vào chỗ trống: 'Tình yêu thương phải _____. Hãy ghét điều ác, gắn bó với điều thiện.'",
+    "correct": "chân thành",
+    "wrong": ["tinh khiết", "thật", "chân thật"],
+    "hint": "Tình yêu phải không giả vờ",
+    "explanation": "Phao-lô hướng dẫn rằng tình yêu phải đích thực và không đạo đức giả, đi kèm với sự phân biệt đạo đức.",
+    "full_verse": "Tình yêu thương phải chân thành. Hãy ghét điều ác, gắn bó với điều thiện.",
+    "verse_ref": "Rô-ma 12:9"
+  },
+  "q_love_046": {
+    "question": "Điền vào chỗ trống: 'Tình yêu thương không ghi nhớ điều _____.'",
+    "correct": "ác",
+    "wrong": ["tội", "lỗi", "nợ"],
+    "hint": "Tình yêu không giữ thù",
+    "explanation": "Phao-lô mô tả tình yêu là hay tha thứ, không giữ danh sách các xúc phạm chống lại chúng ta.",
+    "full_verse": "Tình yêu thương không làm điều vô lễ, không tìm lợi riêng, không dễ nóng giận, không ghi nhớ điều ác.",
+    "verse_ref": "1 Cô-rinh-tô 13:5"
+  },
+  "q_love_047": {
+    "question": "Điền vào chỗ trống: 'Điều duy nhất có giá trị là đức tin bày tỏ qua _____.'",
+    "correct": "tình yêu thương",
+    "wrong": ["việc làm", "hành động", "công việc"],
+    "hint": "Đức tin nên được chứng minh theo cách này",
+    "explanation": "Phao-lô dạy rằng đức tin thật thì năng động và tự bày tỏ qua tình yêu thương cho người khác.",
+    "full_verse": "Vì trong Đức Chúa Giê-xu Christ, cắt bì hay không cắt bì đều không có giá trị gì. Điều duy nhất có giá trị là đức tin bày tỏ qua tình yêu thương.",
+    "verse_ref": "Ga-la-ti 5:6"
+  },
+  "q_love_048": {
+    "question": "Điền vào chỗ trống: 'Khi tôi còn là trẻ con, tôi nói như trẻ con, suy nghĩ như trẻ con, lý luận như trẻ con. Khi tôi trưởng thành, tôi bỏ những cách của thời _____.'",
+    "correct": "thơ ấu",
+    "wrong": ["tuổi trẻ", "chưa trưởng thành", "trẻ con"],
+    "hint": "Lớn lên có nghĩa là rời bỏ giai đoạn này",
+    "explanation": "Phao-lô minh họa rằng tình yêu mang lại sự trưởng thành, như lớn lên từ thời thơ ấu đến tuổi trưởng thành.",
+    "full_verse": "Khi tôi còn là trẻ con, tôi nói như trẻ con, suy nghĩ như trẻ con, lý luận như trẻ con. Khi tôi trưởng thành, tôi bỏ những cách của thời thơ ấu.",
+    "verse_ref": "1 Cô-rinh-tô 13:11"
+  },
+  "q_love_049": {
+    "question": "Điền vào chỗ trống: 'Hỡi các con nhỏ, chúng ta đừng yêu thương bằng lời nói và lưỡi, nhưng bằng hành động và _____.'",
+    "correct": "chân lý",
+    "wrong": ["việc làm", "đức tin", "thần linh"],
+    "hint": "Tình yêu phải chân thật và thật sự",
+    "explanation": "Giăng kêu gọi tình yêu vượt xa lời nói đến những hành động chân thật phản ánh sự thật.",
+    "full_verse": "Hỡi các con nhỏ, chúng ta đừng yêu thương bằng lời nói và lưỡi, nhưng bằng hành động và chân lý.",
+    "verse_ref": "1 Giăng 3:18"
+  },
+  "q_love_050": {
+    "question": "Điền vào chỗ trống: 'Và chúng ta đã biết và tin tình yêu mà Đức Chúa Trời dành cho chúng ta. Đức Chúa Trời là tình yêu thương. Ai ở trong tình yêu thương là ở trong _____, và Đức Chúa Trời ở trong người ấy.'",
+    "correct": "Đức Chúa Trời",
+    "wrong": ["bình an", "ánh sáng", "chân lý"],
+    "hint": "Sống trong tình yêu có nghĩa là ở trong Đấng Thiêng Liêng",
+    "explanation": "Giăng dạy rằng những ai sống trong tình yêu trải nghiệm sự ở trong nhau mật thiết với Đức Chúa Trời.",
+    "full_verse": "Và chúng ta đã biết và tin tình yêu mà Đức Chúa Trời dành cho chúng ta. Đức Chúa Trời là tình yêu thương. Ai ở trong tình yêu thương là ở trong Đức Chúa Trời, và Đức Chúa Trời ở trong người ấy.",
+    "verse_ref": "1 Giăng 4:16"
+  }
+}

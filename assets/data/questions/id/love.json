@@ -1,1 +1,452 @@
-{}
+{
+  "q_love_001": {
+    "question": "Isilah bagian yang kosong: 'Karena begitu besar kasih Allah akan dunia ini, sehingga Ia telah mengaruniakan Anak-Nya yang _____.'",
+    "correct": "tunggal",
+    "wrong": ["diberkati", "diciptakan", "dihakimi"],
+    "hint": "Ayat ini menggambarkan tindakan terbesar Allah bagi umat manusia",
+    "explanation": "Yohanes 3:16 mengungkapkan kedalaman kasih Allah - Ia begitu mengasihi dunia sehingga Ia memberikan Anak-Nya untuk keselamatan kita.",
+    "full_verse": "Karena begitu besar kasih Allah akan dunia ini, sehingga Ia telah mengaruniakan Anak-Nya yang tunggal, supaya setiap orang yang percaya kepada-Nya tidak binasa, melainkan beroleh hidup yang kekal.",
+    "verse_ref": "Yohanes 3:16"
+  },
+  "q_love_002": {
+    "question": "Isilah bagian yang kosong: 'Kasih itu sabar; kasih itu _____.'",
+    "correct": "murah hati",
+    "wrong": ["kuat", "bijaksana", "murni"],
+    "hint": "Kualitas ini melibatkan kelembutan dan perhatian",
+    "explanation": "Paulus memulai deskripsi terkenalnya tentang kasih dengan menekankan kesabaran dan kemurahan hati sebagai kualitas dasarnya.",
+    "full_verse": "Kasih itu sabar; kasih itu murah hati; ia tidak cemburu. Ia tidak memegahkan diri dan tidak sombong.",
+    "verse_ref": "1 Korintus 13:4"
+  },
+  "q_love_003": {
+    "question": "Isilah bagian yang kosong: 'Tidak ada kasih yang lebih besar dari pada kasih seorang yang memberikan _____ untuk sahabat-sahabatnya.'",
+    "correct": "nyawanya",
+    "wrong": ["kekayaannya", "harga dirinya", "rumahnya"],
+    "hint": "Yesus menunjukkan pengorbanan tertinggi ini",
+    "explanation": "Yesus mengucapkan kata-kata ini sebelum penyaliban-Nya, mengajarkan bahwa ekspresi kasih terbesar adalah pengorbanan diri.",
+    "full_verse": "Tidak ada kasih yang lebih besar dari pada kasih seorang yang memberikan nyawanya untuk sahabat-sahabatnya.",
+    "verse_ref": "Yohanes 15:13"
+  },
+  "q_love_004": {
+    "question": "Isilah bagian yang kosong: 'Demikianlah tinggal ketiga hal ini, yaitu iman, pengharapan dan kasih, dan yang paling besar di antaranya ialah _____.'",
+    "correct": "kasih",
+    "wrong": ["iman", "pengharapan", "damai"],
+    "hint": "Paulus menyatakan ini sebagai yang tertinggi di antara ketiganya",
+    "explanation": "Dalam mengakhiri wacana tentang kasih, Paulus menyatakan bahwa meskipun iman, pengharapan, dan kasih semua bertahan, kasih adalah kebajikan terbesar.",
+    "full_verse": "Demikianlah tinggal ketiga hal ini, yaitu iman, pengharapan dan kasih, dan yang paling besar di antaranya ialah kasih.",
+    "verse_ref": "1 Korintus 13:13"
+  },
+  "q_love_005": {
+    "question": "Isilah bagian yang kosong: 'Kita mengasihi, karena Allah lebih _____ mengasihi kita.'",
+    "correct": "dahulu",
+    "wrong": ["selalu", "sungguh", "dalam"],
+    "hint": "Kasih Allah mendahului kasih kita",
+    "explanation": "Kemampuan kita untuk mengasihi berasal dari inisiatif Allah - Ia mengasihi kita sebelum kita bisa mengasihi-Nya.",
+    "full_verse": "Kita mengasihi, karena Allah lebih dahulu mengasihi kita.",
+    "verse_ref": "1 Yohanes 4:19"
+  },
+  "q_love_006": {
+    "question": "Isilah bagian yang kosong: 'Kasihilah _____ seperti dirimu sendiri.'",
+    "correct": "sesamamu manusia",
+    "wrong": ["keluargamu", "temanmu", "saudaramu"],
+    "hint": "Perintah ini memperluas kasih melampaui lingkaran dalam kita",
+    "explanation": "Yesus mengutip perintah ini dari Imamat sebagai hukum kedua yang terbesar, mengajarkan kita untuk memperluas kasih kepada semua orang.",
+    "full_verse": "Kasihilah sesamamu manusia seperti dirimu sendiri.",
+    "verse_ref": "Markus 12:31"
+  },
+  "q_love_007": {
+    "question": "Isilah bagian yang kosong: 'Allah adalah _____.'",
+    "correct": "kasih",
+    "wrong": ["terang", "roh", "kudus"],
+    "hint": "Ini mendefinisikan sifat esensial Allah",
+    "explanation": "Yohanes membuat pernyataan mendalam ini bahwa kasih bukan hanya sesuatu yang Allah lakukan, tetapi siapa Dia pada dasarnya.",
+    "full_verse": "Barangsiapa tidak mengasihi, ia tidak mengenal Allah, sebab Allah adalah kasih.",
+    "verse_ref": "1 Yohanes 4:8"
+  },
+  "q_love_008": {
+    "question": "Isilah bagian yang kosong: 'Ia tidak bersukacita karena ketidakadilan, tetapi karena _____.'",
+    "correct": "kebenaran",
+    "wrong": ["keadilan", "kerendahan hati", "kesetiaan"],
+    "hint": "Kasih merayakan apa yang tulus dan jujur",
+    "explanation": "Kasih sejati tidak menemukan kesenangan dalam kejahatan tetapi merayakan kebenaran dan keadilan.",
+    "full_verse": "Ia tidak bersukacita karena ketidakadilan, tetapi karena kebenaran.",
+    "verse_ref": "1 Korintus 13:6"
+  },
+  "q_love_009": {
+    "question": "Isilah bagian yang kosong: 'Tetapi yang terutama: kasihilah sungguh-sungguh seorang akan yang lain, sebab kasih menutupi banyak _____.'",
+    "correct": "dosa",
+    "wrong": ["kesalahan", "kekeliruan", "pelanggaran"],
+    "hint": "Kasih memiliki kuasa untuk mengampuni banyak pelanggaran",
+    "explanation": "Petrus mengajarkan bahwa kasih yang dalam dan tulus memiliki kuasa untuk mengampuni dan mengabaikan banyak pelanggaran.",
+    "full_verse": "Tetapi yang terutama: kasihilah sungguh-sungguh seorang akan yang lain, sebab kasih menutupi banyak dosa.",
+    "verse_ref": "1 Petrus 4:8"
+  },
+  "q_love_010": {
+    "question": "Isilah bagian yang kosong: 'Tetapi Aku berkata kepadamu: Kasihilah _____ dan berdoalah bagi mereka yang menganiaya kamu.'",
+    "correct": "musuhmu",
+    "wrong": ["sesamamu", "saudaramu", "temanmu"],
+    "hint": "Yesus memerintahkan kita untuk mengasihi bahkan mereka yang menentang kita",
+    "explanation": "Yesus secara radikal mengajarkan bahwa kasih harus diperluas bahkan kepada mereka yang membenci dan menganiaya kita.",
+    "full_verse": "Tetapi Aku berkata kepadamu: Kasihilah musuhmu dan berdoalah bagi mereka yang menganiaya kamu.",
+    "verse_ref": "Matius 5:44"
+  },
+  "q_love_011": {
+    "question": "Isilah bagian yang kosong: 'Hai suami, kasihilah isterimu sebagaimana Kristus telah mengasihi _____.'",
+    "correct": "jemaat",
+    "wrong": ["murid-murid", "dunia", "Bapa"],
+    "hint": "Kasih pengorbanan Kristus bagi orang percaya adalah modelnya",
+    "explanation": "Paulus menginstruksikan para suami untuk mengasihi istri mereka dengan kasih pengorbanan yang sama seperti Kristus tunjukkan kepada jemaat.",
+    "full_verse": "Hai suami, kasihilah isterimu sebagaimana Kristus telah mengasihi jemaat dan telah menyerahkan diri-Nya baginya.",
+    "verse_ref": "Efesus 5:25"
+  },
+  "q_love_012": {
+    "question": "Isilah bagian yang kosong: 'Janganlah kamu berhutang apa-apa kepada siapa pun juga, tetapi hendaklah kamu saling mengasihi. Sebab barangsiapa mengasihi sesamanya manusia, ia sudah memenuhi hukum _____.'",
+    "correct": "Taurat",
+    "wrong": ["sesama", "saudara", "teman"],
+    "hint": "Hutang ini tidak pernah bisa sepenuhnya dibayar",
+    "explanation": "Paulus mengajarkan bahwa sementara kita harus membayar semua hutang, kewajiban untuk mengasihi orang lain terus berlanjut dan tidak pernah sepenuhnya lunas.",
+    "full_verse": "Janganlah kamu berhutang apa-apa kepada siapa pun juga, tetapi hendaklah kamu saling mengasihi. Sebab barangsiapa mengasihi sesamanya manusia, ia sudah memenuhi hukum Taurat.",
+    "verse_ref": "Roma 13:8"
+  },
+  "q_love_013": {
+    "question": "Isilah bagian yang kosong: 'Di dalam kasih tidak ada ketakutan: kasih yang _____ melenyapkan ketakutan.'",
+    "correct": "sempurna",
+    "wrong": ["sejati", "murni", "besar"],
+    "hint": "Kasih yang lengkap dan matang menghilangkan ketakutan",
+    "explanation": "Yohanes mengajarkan bahwa ketika kasih mencapai kematangan dan kelengkapan, ia menghilangkan semua ketakutan akan penghakiman.",
+    "full_verse": "Di dalam kasih tidak ada ketakutan: kasih yang sempurna melenyapkan ketakutan; sebab ketakutan mengandung hukuman.",
+    "verse_ref": "1 Yohanes 4:18"
+  },
+  "q_love_014": {
+    "question": "Isilah bagian yang kosong: 'Kasihilah Tuhan, Allahmu, dengan segenap hatimu dan dengan segenap jiwamu dan dengan segenap _____.'",
+    "correct": "akal budimu",
+    "wrong": ["tubuhmu", "hidupmu", "kekayaanmu"],
+    "hint": "Ini melibatkan kapasitas intelektual kita",
+    "explanation": "Yesus menyatakan ini sebagai hukum yang terbesar - mengasihi Allah sepenuhnya dengan setiap aspek keberadaan kita.",
+    "full_verse": "Kasihilah Tuhan, Allahmu, dengan segenap hatimu dan dengan segenap jiwamu dan dengan segenap akal budimu.",
+    "verse_ref": "Matius 22:37"
+  },
+  "q_love_015": {
+    "question": "Isilah bagian yang kosong: 'Aku memberikan perintah baru kepada kamu, yaitu supaya kamu saling mengasihi; sama seperti Aku telah mengasihi kamu demikian pula kamu harus saling _____.'",
+    "correct": "mengasihi",
+    "wrong": ["sesama", "saudara", "teman"],
+    "hint": "Yesus memodelkan kasih timbal balik ini",
+    "explanation": "Yesus memberikan perintah baru ini kepada murid-murid-Nya, menetapkan kasih-Nya sendiri sebagai standar bagaimana kita harus mengasihi.",
+    "full_verse": "Aku memberikan perintah baru kepada kamu, yaitu supaya kamu saling mengasihi; sama seperti Aku telah mengasihi kamu demikian pula kamu harus saling mengasihi.",
+    "verse_ref": "Yohanes 13:34"
+  },
+  "q_love_016": {
+    "question": "Isilah bagian yang kosong: 'Saudara-saudaraku yang kekasih, marilah kita saling mengasihi, sebab kasih itu berasal dari _____.'",
+    "correct": "Allah",
+    "wrong": ["surga", "atas", "dalam"],
+    "hint": "Kasih memiliki sumber ilahi",
+    "explanation": "Yohanes mengajarkan bahwa kasih autentik berasal dari Allah - Ia adalah sumber semua kasih sejati.",
+    "full_verse": "Saudara-saudaraku yang kekasih, marilah kita saling mengasihi, sebab kasih itu berasal dari Allah; dan setiap orang yang mengasihi, lahir dari Allah dan mengenal Allah.",
+    "verse_ref": "1 Yohanes 4:7"
+  },
+  "q_love_017": {
+    "question": "Isilah bagian yang kosong: 'Lihatlah, betapa besarnya kasih yang dikaruniakan Bapa kepada kita, sehingga kita disebut anak-anak _____.'",
+    "correct": "Allah",
+    "wrong": ["hamba", "teman", "ahli waris"],
+    "hint": "Ini menggambarkan hubungan kita dengan Allah",
+    "explanation": "Yohanes takjub akan kasih Allah yang luar biasa yang memberi kita hak istimewa menjadi anak-anak-Nya.",
+    "full_verse": "Lihatlah, betapa besarnya kasih yang dikaruniakan Bapa kepada kita, sehingga kita disebut anak-anak Allah, dan memang kita adalah anak-anak Allah.",
+    "verse_ref": "1 Yohanes 3:1"
+  },
+  "q_love_018": {
+    "question": "Isilah bagian yang kosong: 'Kasih tidak berkesudahan; nubuat akan _____, bahasa roh akan berhenti.'",
+    "correct": "berakhir",
+    "wrong": ["selesai", "berhenti", "habis"],
+    "hint": "Kasih bersifat permanen dan tidak pernah gagal",
+    "explanation": "Paulus menyatakan bahwa tidak seperti karunia rohani yang akan berhenti, kasih adalah kekal dan tidak akan pernah gagal.",
+    "full_verse": "Kasih tidak berkesudahan; nubuat akan berakhir; bahasa roh akan berhenti; pengetahuan akan lenyap.",
+    "verse_ref": "1 Korintus 13:8"
+  },
+  "q_love_019": {
+    "question": "Isilah bagian yang kosong: 'Peliharalah dirimu demikian dalam kasih Allah sambil menantikan _____ Tuhan kita Yesus Kristus untuk hidup yang kekal.'",
+    "correct": "rahmat",
+    "wrong": ["kedatangan", "kemuliaan", "kembali"],
+    "hint": "Kualitas ini menuntun kepada hidup kekal",
+    "explanation": "Yudas mendorong orang percaya untuk tetap dalam kasih Allah sambil menantikan kedatangan rahmat Kristus.",
+    "full_verse": "Peliharalah dirimu demikian dalam kasih Allah sambil menantikan rahmat Tuhan kita Yesus Kristus untuk hidup yang kekal.",
+    "verse_ref": "Yudas 1:21"
+  },
+  "q_love_020": {
+    "question": "Isilah bagian yang kosong: 'Lakukanlah segala sesuatu dalam _____.'",
+    "correct": "kasih",
+    "wrong": ["iman", "damai", "sukacita"],
+    "hint": "Ini harus memotivasi semua tindakan kita",
+    "explanation": "Instruksi sederhana namun mendalam dari Paulus bahwa kasih harus menjadi motivasi di balik segala sesuatu yang kita lakukan.",
+    "full_verse": "Lakukanlah segala sesuatu dalam kasih!",
+    "verse_ref": "1 Korintus 16:14"
+  },
+  "q_love_021": {
+    "question": "Isilah bagian yang kosong: 'Akan tetapi Allah menunjukkan kasih-Nya kepada kita, oleh karena Kristus telah mati untuk kita, ketika kita masih _____.'",
+    "correct": "berdosa",
+    "wrong": ["tersesat", "hancur", "lemah"],
+    "hint": "Kristus mati untuk kita dalam keadaan kita yang jatuh",
+    "explanation": "Paulus menekankan bahwa kasih Allah tidak bersyarat - Kristus mati untuk kita sementara kita masih dalam pemberontakan terhadap-Nya.",
+    "full_verse": "Akan tetapi Allah menunjukkan kasih-Nya kepada kita, oleh karena Kristus telah mati untuk kita, ketika kita masih berdosa.",
+    "verse_ref": "Roma 5:8"
+  },
+  "q_love_022": {
+    "question": "Isilah bagian yang kosong: 'Ia menutupi segala sesuatu, percaya segala sesuatu, mengharapkan segala sesuatu, sabar menanggung segala _____.'",
+    "correct": "sesuatu",
+    "wrong": ["bertahan", "percaya", "mengampuni"],
+    "hint": "Kasih berlanjut meskipun ada kesulitan",
+    "explanation": "Paulus menggambarkan sifat kasih yang bertahan - ia tidak pernah menyerah dan terus melalui semua keadaan.",
+    "full_verse": "Ia menutupi segala sesuatu, percaya segala sesuatu, mengharapkan segala sesuatu, sabar menanggung segala sesuatu.",
+    "verse_ref": "1 Korintus 13:7"
+  },
+  "q_love_023": {
+    "question": "Isilah bagian yang kosong: 'Demikianlah kita ketahui kasih Kristus, yaitu bahwa Ia telah menyerahkan _____ bagi kita.'",
+    "correct": "nyawa-Nya",
+    "wrong": ["kemuliaan-Nya", "mahkota-Nya", "kuasa-Nya"],
+    "hint": "Yesus membuat pengorbanan tertinggi",
+    "explanation": "Yohanes menunjuk kepada kematian pengorbanan Kristus sebagai contoh yang mendefinisikan seperti apa kasih sejati.",
+    "full_verse": "Demikianlah kita ketahui kasih Kristus, yaitu bahwa Ia telah menyerahkan nyawa-Nya untuk kita; jadi kita pun wajib menyerahkan nyawa kita untuk saudara-saudara kita.",
+    "verse_ref": "1 Yohanes 3:16"
+  },
+  "q_love_024": {
+    "question": "Isilah bagian yang kosong: 'Sekalipun aku dapat berkata-kata dengan semua bahasa manusia dan bahasa malaikat, tetapi jika aku tidak mempunyai kasih, aku sama dengan gong yang berkumandang dan canang yang _____.'",
+    "correct": "gemerincing",
+    "wrong": ["berdentang", "bergema", "berbunyi"],
+    "hint": "Ini adalah alat musik perkusi",
+    "explanation": "Paulus memulai pasal kasihnya dengan menyatakan bahwa bahkan karunia yang paling mengesankan pun tidak berarti tanpa kasih.",
+    "full_verse": "Sekalipun aku dapat berkata-kata dengan semua bahasa manusia dan bahasa malaikat, tetapi jika aku tidak mempunyai kasih, aku sama dengan gong yang berkumandang dan canang yang gemerincing.",
+    "verse_ref": "1 Korintus 13:1"
+  },
+  "q_love_025": {
+    "question": "Isilah bagian yang kosong: 'Jikalau seorang berkata: \"Aku mengasihi Allah,\" dan ia membenci saudaranya, maka ia adalah _____.'",
+    "correct": "pendusta",
+    "wrong": ["bodoh", "pendosa", "munafik"],
+    "hint": "Orang ini tidak jujur",
+    "explanation": "Yohanes memperjelas bahwa kasih kepada Allah dan kebencian terhadap orang lain tidak cocok - yang satu membuktikan yang lain salah.",
+    "full_verse": "Jikalau seorang berkata: 'Aku mengasihi Allah,' dan ia membenci saudaranya, maka ia adalah pendusta, karena barangsiapa tidak mengasihi saudaranya yang dilihatnya, tidak mungkin mengasihi Allah, yang tidak dilihatnya.",
+    "verse_ref": "1 Yohanes 4:20"
+  },
+  "q_love_026": {
+    "question": "Isilah bagian yang kosong: 'Inilah perintah-Ku, yaitu supaya kamu saling mengasihi, seperti Aku telah _____ kamu.'",
+    "correct": "mengasihi",
+    "wrong": ["mengajar", "memberkati", "memilih"],
+    "hint": "Yesus memberikan teladan untuk kita ikuti",
+    "explanation": "Yesus memerintahkan pengikut-Nya untuk mengasihi dengan kasih pengorbanan yang sama seperti yang Ia tunjukkan.",
+    "full_verse": "Inilah perintah-Ku, yaitu supaya kamu saling mengasihi, seperti Aku telah mengasihi kamu.",
+    "verse_ref": "Yohanes 15:12"
+  },
+  "q_love_027": {
+    "question": "Isilah bagian yang kosong: 'Barangsiapa mengasihi saudaranya, ia tetap berada di dalam _____, dan di dalam dirinya tidak ada penyesatan.'",
+    "correct": "terang",
+    "wrong": ["kebenaran", "Roh", "Tuhan"],
+    "hint": "Ini adalah kebalikan dari kegelapan",
+    "explanation": "Yohanes mengkontraskan kasih dan kebencian seperti terang dan kegelapan - mereka yang mengasihi berjalan dalam terang Allah.",
+    "full_verse": "Barangsiapa mengasihi saudaranya, ia tetap berada di dalam terang, dan di dalam dirinya tidak ada penyesatan.",
+    "verse_ref": "1 Yohanes 2:10"
+  },
+  "q_love_028": {
+    "question": "Isilah bagian yang kosong: 'Dan di atas semuanya itu: kenakanlah kasih, sebagai pengikat yang mempersatukan dan _____.'",
+    "correct": "menyempurnakan",
+    "wrong": ["keselarasan", "damai", "keteraturan"],
+    "hint": "Kasih menciptakan kebersamaan yang lengkap",
+    "explanation": "Paulus menggambarkan kasih sebagai kebajikan yang menyatukan semua kebajikan lainnya dalam keutuhan yang sempurna.",
+    "full_verse": "Dan di atas semuanya itu: kenakanlah kasih, sebagai pengikat yang mempersatukan dan menyempurnakan.",
+    "verse_ref": "Kolose 3:14"
+  },
+  "q_love_029": {
+    "question": "Isilah bagian yang kosong: 'Sebab aku yakin, bahwa baik maut, maupun hidup... tidak akan dapat memisahkan kita dari kasih Allah, yang ada dalam Kristus Yesus, _____ kita.'",
+    "correct": "Tuhan",
+    "wrong": ["kasih karunia", "kuasa", "hadirat"],
+    "hint": "Tidak ada yang dapat memutuskan ikatan ini dengan Allah",
+    "explanation": "Paulus dengan penuh kemenangan menyatakan bahwa sama sekali tidak ada yang dapat memisahkan orang percaya dari kasih Allah dalam Kristus.",
+    "full_verse": "Sebab aku yakin, bahwa baik maut, maupun hidup, baik malaikat-malaikat, maupun pemerintah-pemerintah, baik yang ada sekarang, maupun yang akan datang, atau kuasa-kuasa, baik yang di atas, maupun yang di bawah, ataupun sesuatu makhluk lain, tidak akan dapat memisahkan kita dari kasih Allah, yang ada dalam Kristus Yesus, Tuhan kita.",
+    "verse_ref": "Roma 8:38-39"
+  },
+  "q_love_030": {
+    "question": "Isilah bagian yang kosong: 'Sekalipun aku mempunyai karunia untuk bernubuat dan aku mengetahui segala rahasia dan memiliki seluruh pengetahuan; dan sekalipun aku memiliki iman yang sempurna untuk memindahkan gunung, tetapi jika aku tidak mempunyai kasih, aku sama sekali _____.'",
+    "correct": "tidak berguna",
+    "wrong": ["kosong", "tersesat", "bodoh"],
+    "hint": "Tanpa kasih, bahkan karunia besar pun tidak ada nilainya",
+    "explanation": "Paulus menekankan bahwa bahkan karunia dan kemampuan rohani terbesar pun tidak berharga tanpa kasih.",
+    "full_verse": "Sekalipun aku mempunyai karunia untuk bernubuat dan aku mengetahui segala rahasia dan memiliki seluruh pengetahuan; dan sekalipun aku memiliki iman yang sempurna untuk memindahkan gunung, tetapi jika aku tidak mempunyai kasih, aku sama sekali tidak berguna.",
+    "verse_ref": "1 Korintus 13:2"
+  },
+  "q_love_031": {
+    "question": "Isilah bagian yang kosong: 'Aku mengasihi engkau dengan kasih yang _____; sebab itu Aku melanjutkan kasih setia-Ku kepadamu.'",
+    "correct": "kekal",
+    "wrong": ["abadi", "tak berakhir", "tak terbatas"],
+    "hint": "Kasih ini tidak ada akhirnya",
+    "explanation": "Allah menyatakan kasih-Nya kepada umat-Nya sebagai kekal dan tidak berubah, menarik mereka dengan kebaikan.",
+    "full_verse": "Aku mengasihi engkau dengan kasih yang kekal; sebab itu Aku melanjutkan kasih setia-Ku kepadamu.",
+    "verse_ref": "Yeremia 31:3"
+  },
+  "q_love_032": {
+    "question": "Isilah bagian yang kosong: 'Hendaklah kamu saling mengasihi sebagai saudara dan saling mendahului dalam memberi _____.'",
+    "correct": "hormat",
+    "wrong": ["yang lain", "semua", "segalanya"],
+    "hint": "Utamakan orang lain lebih dahulu",
+    "explanation": "Paulus menginstruksikan orang percaya untuk mempraktikkan kasih tanpa pamrih, mengutamakan kehormatan orang lain di atas diri sendiri.",
+    "full_verse": "Hendaklah kamu saling mengasihi sebagai saudara dan saling mendahului dalam memberi hormat.",
+    "verse_ref": "Roma 12:10"
+  },
+  "q_love_033": {
+    "question": "Isilah bagian yang kosong: 'Semoga Tuhan menyebabkan kamu bertambah dan berkelimpahan dalam kasih seorang terhadap yang lain dan terhadap semua orang, sama seperti kami juga mengasihi _____.'",
+    "correct": "kamu",
+    "wrong": ["berlimpah", "bertambah", "menyebar"],
+    "hint": "Kasih harus melimpah dengan berlimpah",
+    "explanation": "Paulus berdoa agar kasih jemaat Tesalonika bertumbuh sehingga meluap kepada semua orang di sekitar mereka.",
+    "full_verse": "Semoga Tuhan menyebabkan kamu bertambah dan berkelimpahan dalam kasih seorang terhadap yang lain dan terhadap semua orang, sama seperti kami juga mengasihi kamu.",
+    "verse_ref": "1 Tesalonika 3:12"
+  },
+  "q_love_034": {
+    "question": "Isilah bagian yang kosong: 'Dan sekalipun aku membagi-bagikan segala sesuatu yang ada padaku, bahkan menyerahkan tubuhku untuk dibakar, tetapi jika aku tidak mempunyai kasih, sedikitpun tidak ada faedahnya _____.'",
+    "correct": "bagiku",
+    "wrong": ["sedikit", "kurang", "kosong"],
+    "hint": "Tanpa kasih, bahkan pengorbanan pun tidak berharga",
+    "explanation": "Paulus menunjukkan bahwa bahkan tindakan paling dermawan dan pengorbanan pun tidak ada gunanya tanpa kasih yang tulus.",
+    "full_verse": "Dan sekalipun aku membagi-bagikan segala sesuatu yang ada padaku, bahkan menyerahkan tubuhku untuk dibakar, tetapi jika aku tidak mempunyai kasih, sedikitpun tidak ada faedahnya bagiku.",
+    "verse_ref": "1 Korintus 13:3"
+  },
+  "q_love_035": {
+    "question": "Isilah bagian yang kosong: 'Kamu telah mendengar firman: Kasihilah sesamamu manusia dan bencilah _____.'",
+    "correct": "musuhmu",
+    "wrong": ["lawanmu", "seteru", "penentang"],
+    "hint": "Yesus mengutip ajaran umum ini sebelum mengoreksinya",
+    "explanation": "Yesus mengutip penafsiran populer yang salah sebelum mengajarkan bahwa kita harus mengasihi bahkan musuh kita.",
+    "full_verse": "Kamu telah mendengar firman: Kasihilah sesamamu manusia dan bencilah musuhmu.",
+    "verse_ref": "Matius 5:43"
+  },
+  "q_love_036": {
+    "question": "Isilah bagian yang kosong: 'Tidak ada seorang pun yang pernah melihat Allah. Jika kita saling mengasihi, Allah tetap di dalam kita, dan kasih-Nya sempurna di dalam _____.'",
+    "correct": "kita",
+    "wrong": ["sempurna", "utuh", "penuh"],
+    "hint": "Kasih Allah mencapai tujuannya di dalam kita",
+    "explanation": "Yohanes mengajarkan bahwa saling mengasihi adalah bukti kehadiran Allah dan kasih-Nya mencapai tujuan yang dimaksudkan.",
+    "full_verse": "Tidak ada seorang pun yang pernah melihat Allah. Jika kita saling mengasihi, Allah tetap di dalam kita, dan kasih-Nya sempurna di dalam kita.",
+    "verse_ref": "1 Yohanes 4:12"
+  },
+  "q_love_037": {
+    "question": "Isilah bagian yang kosong: 'Dan inilah kasih itu, yaitu bahwa kita hidup menurut perintah-Nya. Itulah perintah itu, yaitu bahwa kamu harus hidup di dalam kasih, sebagaimana telah kamu dengar dari _____.'",
+    "correct": "mulanya",
+    "wrong": ["tanggapan", "kesesuaian", "penyerahan"],
+    "hint": "Kasih ditunjukkan melalui mengikuti instruksi Allah",
+    "explanation": "Yohanes mendefinisikan kasih secara praktis sebagai ketaatan kepada perintah Allah, bukan hanya emosi.",
+    "full_verse": "Dan inilah kasih itu, yaitu bahwa kita hidup menurut perintah-Nya. Itulah perintah itu, yaitu bahwa kamu harus hidup di dalam kasih, sebagaimana telah kamu dengar dari mulanya.",
+    "verse_ref": "2 Yohanes 1:6"
+  },
+  "q_love_038": {
+    "question": "Isilah bagian yang kosong: 'Dengan demikian semua orang akan tahu, bahwa kamu adalah murid-murid-Ku, yaitu jikalau kamu saling _____.'",
+    "correct": "mengasihi",
+    "wrong": ["sesama", "saudara", "teman"],
+    "hint": "Kasih timbal balik mengidentifikasi pengikut Kristus",
+    "explanation": "Yesus menyatakan bahwa kasih di antara pengikut-Nya akan menjadi tanda yang membedakan pemuridan sejati.",
+    "full_verse": "Dengan demikian semua orang akan tahu, bahwa kamu adalah murid-murid-Ku, yaitu jikalau kamu saling mengasihi.",
+    "verse_ref": "Yohanes 13:35"
+  },
+  "q_love_039": {
+    "question": "Isilah bagian yang kosong: 'Janganlah kiranya kasih dan setia meninggalkan engkau! Kalungkanlah semuanya itu pada _____.'",
+    "correct": "lehermu",
+    "wrong": ["hatimu", "pergelangan tanganmu", "pinggangmu"],
+    "hint": "Kenakan kebajikan ini seperti perhiasan",
+    "explanation": "Amsal menginstruksikan kita untuk menjaga kasih dan kesetiaan dekat, seperti kalung yang selalu dipakai.",
+    "full_verse": "Janganlah kiranya kasih dan setia meninggalkan engkau! Kalungkanlah semuanya itu pada lehermu, tuliskanlah itu pada loh hatimu.",
+    "verse_ref": "Amsal 3:3"
+  },
+  "q_love_040": {
+    "question": "Isilah bagian yang kosong: 'Ia tidak melakukan yang tidak sopan dan tidak mencari keuntungan diri sendiri. Ia tidak pemarah dan tidak menyimpan kesalahan orang _____.'",
+    "correct": "lain",
+    "wrong": ["tersinggung", "terluka", "terprovokasi"],
+    "hint": "Kasih menjaga ketenangan",
+    "explanation": "Paulus menggambarkan kasih sebagai sabar terhadap orang lain, tidak cepat menjadi kesal atau kehilangan kesabaran.",
+    "full_verse": "Ia tidak melakukan yang tidak sopan dan tidak mencari keuntungan diri sendiri. Ia tidak pemarah dan tidak menyimpan kesalahan orang lain.",
+    "verse_ref": "1 Korintus 13:5"
+  },
+  "q_love_041": {
+    "question": "Isilah bagian yang kosong: 'Dan pengharapan tidak mengecewakan, karena kasih Allah telah dicurahkan di dalam _____ kita oleh Roh Kudus yang telah dikaruniakan kepada kita.'",
+    "correct": "hati",
+    "wrong": ["jiwa", "hidup", "pikiran"],
+    "hint": "Roh memenuhi bagian ini dari kita dengan kasih Allah",
+    "explanation": "Paulus menggambarkan bagaimana Roh Kudus memenuhi hati orang percaya dengan pengetahuan pengalaman akan kasih Allah.",
+    "full_verse": "Dan pengharapan tidak mengecewakan, karena kasih Allah telah dicurahkan di dalam hati kita oleh Roh Kudus yang telah dikaruniakan kepada kita.",
+    "verse_ref": "Roma 5:5"
+  },
+  "q_love_042": {
+    "question": "Isilah bagian yang kosong: 'Kebencian menimbulkan pertengkaran, tetapi kasih menutupi segala _____.'",
+    "correct": "pelanggaran",
+    "wrong": ["dosa", "kesalahan", "kekeliruan"],
+    "hint": "Kasih mengabaikan pelanggaran",
+    "explanation": "Amsal ini mengkontraskan kebencian, yang menciptakan perselisihan, dengan kasih, yang mengampuni dan menutupi pelanggaran.",
+    "full_verse": "Kebencian menimbulkan pertengkaran, tetapi kasih menutupi segala pelanggaran.",
+    "verse_ref": "Amsal 10:12"
+  },
+  "q_love_043": {
+    "question": "Isilah bagian yang kosong: 'Taruhlah aku seperti meterai pada hatimu, seperti meterai pada lenganmu, karena cinta kuat seperti _____.'",
+    "correct": "maut",
+    "wrong": ["hidup", "iman", "Allah"],
+    "hint": "Kuasa kasih dibandingkan dengan sesuatu yang tidak terhindarkan",
+    "explanation": "Kidung Agung secara puitis menggambarkan kuasa kasih yang tak tertahankan, membandingkannya dengan kekuatan maut yang tak terhentikan.",
+    "full_verse": "Taruhlah aku seperti meterai pada hatimu, seperti meterai pada lenganmu, karena cinta kuat seperti maut, kegairahan gigih seperti dunia orang mati.",
+    "verse_ref": "Kidung Agung 8:6"
+  },
+  "q_love_044": {
+    "question": "Isilah bagian yang kosong: 'Dalam hal inilah kasih Allah dinyatakan di tengah-tengah kita, yaitu bahwa Allah telah mengutus Anak-Nya yang _____ ke dalam dunia.'",
+    "correct": "tunggal",
+    "wrong": ["Roh", "Firman", "Karunia"],
+    "hint": "Allah mengutus Yesus untuk menunjukkan kasih-Nya",
+    "explanation": "Yohanes menjelaskan bahwa kasih Allah ditunjukkan melalui mengutus Yesus Kristus ke dalam dunia.",
+    "full_verse": "Dalam hal inilah kasih Allah dinyatakan di tengah-tengah kita, yaitu bahwa Allah telah mengutus Anak-Nya yang tunggal ke dalam dunia, supaya kita hidup oleh-Nya.",
+    "verse_ref": "1 Yohanes 4:9"
+  },
+  "q_love_045": {
+    "question": "Isilah bagian yang kosong: 'Hendaklah kasih itu jangan pura-pura! Jauhilah yang jahat dan lakukanlah yang _____!'",
+    "correct": "baik",
+    "wrong": ["murni", "benar", "tulus"],
+    "hint": "Kasih harus tanpa kepura-puraan",
+    "explanation": "Paulus menginstruksikan bahwa kasih harus autentik dan tidak munafik, disertai dengan kebijaksanaan moral.",
+    "full_verse": "Hendaklah kasih itu jangan pura-pura! Jauhilah yang jahat dan lakukanlah yang baik.",
+    "verse_ref": "Roma 12:9"
+  },
+  "q_love_046": {
+    "question": "Isilah bagian yang kosong: 'Ia tidak menyimpan kesalahan orang _____.'",
+    "correct": "lain",
+    "wrong": ["dosa", "kesalahan", "hutang"],
+    "hint": "Kasih tidak menyimpan dendam",
+    "explanation": "Paulus menggambarkan kasih sebagai mengampuni, tidak menyimpan daftar pelanggaran yang dilakukan terhadap kita.",
+    "full_verse": "Ia tidak melakukan yang tidak sopan dan tidak mencari keuntungan diri sendiri. Ia tidak pemarah dan tidak menyimpan kesalahan orang lain.",
+    "verse_ref": "1 Korintus 13:5"
+  },
+  "q_love_047": {
+    "question": "Isilah bagian yang kosong: 'Sebab bagi orang-orang yang ada di dalam Kristus Yesus hal bersunat atau tidak bersunat tidak mempunyai sesuatu arti, hanya iman yang bekerja oleh _____.'",
+    "correct": "kasih",
+    "wrong": ["perbuatan", "tindakan", "aksi"],
+    "hint": "Iman harus ditunjukkan dengan cara ini",
+    "explanation": "Paulus mengajarkan bahwa iman sejati aktif dan menunjukkan dirinya melalui kasih kepada orang lain.",
+    "full_verse": "Sebab bagi orang-orang yang ada di dalam Kristus Yesus hal bersunat atau tidak bersunat tidak mempunyai sesuatu arti, hanya iman yang bekerja oleh kasih.",
+    "verse_ref": "Galatia 5:6"
+  },
+  "q_love_048": {
+    "question": "Isilah bagian yang kosong: 'Ketika aku kanak-kanak, aku berkata-kata seperti kanak-kanak, aku merasa seperti kanak-kanak, aku berpikir seperti kanak-kanak. Sekarang sesudah aku menjadi dewasa, aku meninggalkan sifat kanak-_____.'",
+    "correct": "kanak",
+    "wrong": ["muda", "ketidakdewasaan", "anak-anak"],
+    "hint": "Bertumbuh berarti meninggalkan tahap ini",
+    "explanation": "Paulus mengilustrasikan bahwa kasih membawa kedewasaan, seperti bertumbuh dari masa kanak-kanak ke dewasa.",
+    "full_verse": "Ketika aku kanak-kanak, aku berkata-kata seperti kanak-kanak, aku merasa seperti kanak-kanak, aku berpikir seperti kanak-kanak. Sekarang sesudah aku menjadi dewasa, aku meninggalkan sifat kanak-kanak itu.",
+    "verse_ref": "1 Korintus 13:11"
+  },
+  "q_love_049": {
+    "question": "Isilah bagian yang kosong: 'Anak-anakku, marilah kita mengasihi bukan dengan perkataan atau dengan lidah, tetapi dengan perbuatan dan dalam _____.'",
+    "correct": "kebenaran",
+    "wrong": ["tindakan", "iman", "roh"],
+    "hint": "Kasih harus tulus dan nyata",
+    "explanation": "Yohanes menyerukan kasih yang melampaui sekadar kata-kata menjadi tindakan tulus yang mencerminkan kebenaran.",
+    "full_verse": "Anak-anakku, marilah kita mengasihi bukan dengan perkataan atau dengan lidah, tetapi dengan perbuatan dan dalam kebenaran.",
+    "verse_ref": "1 Yohanes 3:18"
+  },
+  "q_love_050": {
+    "question": "Isilah bagian yang kosong: 'Dan kita telah mengenal dan telah percaya akan kasih Allah kepada kita. Allah adalah kasih, dan barangsiapa tetap berada di dalam kasih, ia tetap berada di dalam Allah dan _____ di dalam dia.'",
+    "correct": "Allah",
+    "wrong": ["damai", "terang", "kebenaran"],
+    "hint": "Hidup dalam kasih berarti tinggal dalam Yang Ilahi",
+    "explanation": "Yohanes mengajarkan bahwa mereka yang hidup dalam kasih mengalami hubungan timbal balik yang intim dengan Allah.",
+    "full_verse": "Dan kita telah mengenal dan telah percaya akan kasih Allah kepada kita. Allah adalah kasih, dan barangsiapa tetap berada di dalam kasih, ia tetap berada di dalam Allah dan Allah di dalam dia.",
+    "verse_ref": "1 Yohanes 4:16"
+  }
+}

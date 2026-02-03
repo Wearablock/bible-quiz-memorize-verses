@@ -1,1 +1,452 @@
-{}
+{
+  "q_forgiveness_001": {
+    "question": "Completa il versetto: 'Se confessiamo i nostri peccati, egli è fedele e giusto da perdonarci i peccati e _____ da ogni iniquità.'",
+    "correct": "purificarci",
+    "wrong": ["liberarci", "salvarci", "mondarci"],
+    "hint": "Dio fa più che perdonare",
+    "explanation": "Giovanni assicura i credenti che la confessione porta sia al perdono che alla purificazione dal peccato.",
+    "full_verse": "Se confessiamo i nostri peccati, egli è fedele e giusto da perdonarci i peccati e purificarci da ogni iniquità.",
+    "verse_ref": "1 Giovanni 1:9"
+  },
+  "q_forgiveness_002": {
+    "question": "Completa il versetto: 'Siate invece benevoli e misericordiosi gli uni verso gli altri, perdonandovi a vicenda come anche Dio vi ha _____ in Cristo.'",
+    "correct": "perdonati",
+    "wrong": ["amati", "salvati", "benedetti"],
+    "hint": "L'azione di Dio verso di noi è il modello",
+    "explanation": "Paolo istruisce i credenti a perdonare gli altri basandosi sul perdono ricevuto da Dio.",
+    "full_verse": "Siate invece benevoli e misericordiosi gli uni verso gli altri, perdonandovi a vicenda come anche Dio vi ha perdonati in Cristo.",
+    "verse_ref": "Efesini 4:32"
+  },
+  "q_forgiveness_003": {
+    "question": "Completa il versetto: 'Sopportatevi gli uni gli altri e perdonatevi a vicenda, se uno ha di che dolersi di un altro. Come il _____ vi ha perdonati, così fate anche voi.'",
+    "correct": "Signore",
+    "wrong": ["Padre", "Cristo", "Dio"],
+    "hint": "Il nostro perdono dovrebbe rispecchiare il suo",
+    "explanation": "Paolo chiama i credenti a estendere lo stesso perdono che hanno ricevuto dal Signore.",
+    "full_verse": "Sopportatevi gli uni gli altri e perdonatevi a vicenda, se uno ha di che dolersi di un altro. Come il Signore vi ha perdonati, così fate anche voi.",
+    "verse_ref": "Colossesi 3:13"
+  },
+  "q_forgiveness_004": {
+    "question": "Completa il versetto: 'Perché se voi perdonate agli uomini le loro colpe, il _____ vostro celeste perdonerà anche a voi.'",
+    "correct": "Padre",
+    "wrong": ["Signore", "Dio", "Re"],
+    "hint": "Gesù parla di Dio in termini familiari",
+    "explanation": "Gesù insegna che la nostra volontà di perdonare gli altri è collegata al ricevere il perdono di Dio.",
+    "full_verse": "Perché se voi perdonate agli uomini le loro colpe, il Padre vostro celeste perdonerà anche a voi.",
+    "verse_ref": "Matteo 6:14"
+  },
+  "q_forgiveness_005": {
+    "question": "Completa il versetto: 'Quando vi mettete a pregare, se avete qualcosa contro qualcuno, _____, affinché il Padre vostro che è nei cieli vi perdoni le vostre colpe.'",
+    "correct": "perdonatelo",
+    "wrong": ["rilasciatelo", "benedicetelo", "amatelo"],
+    "hint": "Cosa dobbiamo fare prima della preghiera",
+    "explanation": "Gesù insegna che il perdono degli altri dovrebbe precedere le nostre preghiere.",
+    "full_verse": "Quando vi mettete a pregare, se avete qualcosa contro qualcuno, perdonatelo, affinché il Padre vostro che è nei cieli vi perdoni le vostre colpe.",
+    "verse_ref": "Marco 11:25"
+  },
+  "q_forgiveness_006": {
+    "question": "Completa il versetto: 'Ravvedetevi dunque e convertitevi, perché i vostri peccati siano cancellati e affinché vengano dalla presenza del Signore dei tempi di _____.'",
+    "correct": "ristoro",
+    "wrong": ["benedizione", "guarigione", "pace"],
+    "hint": "Il perdono porta rinnovamento spirituale",
+    "explanation": "Pietro chiama al ravvedimento che porta al perdono e al ristoro spirituale.",
+    "full_verse": "Ravvedetevi dunque e convertitevi, perché i vostri peccati siano cancellati e affinché vengano dalla presenza del Signore dei tempi di ristoro.",
+    "verse_ref": "Atti 3:19"
+  },
+  "q_forgiveness_007": {
+    "question": "Completa il versetto: 'Come è lontano l'oriente dall'occidente, così ha allontanato da noi le nostre _____.'",
+    "correct": "trasgressioni",
+    "wrong": ["peccati", "colpe", "vergogne"],
+    "hint": "Dio le separa completamente da noi",
+    "explanation": "Davide descrive poeticamente quanto completamente Dio rimuove i nostri peccati da noi.",
+    "full_verse": "Come è lontano l'oriente dall'occidente, così ha allontanato da noi le nostre trasgressioni.",
+    "verse_ref": "Salmo 103:12"
+  },
+  "q_forgiveness_008": {
+    "question": "Completa il versetto: 'Anche se i vostri peccati fossero come scarlatto, diventeranno bianchi come la _____.'",
+    "correct": "neve",
+    "wrong": ["lana", "nuvola", "luce"],
+    "hint": "Un simbolo di purezza e pulizia",
+    "explanation": "Dio promette una purificazione completa, trasformando i peccati scarlatti in bianco puro.",
+    "full_verse": "Venite, ora, e discutiamo, dice il SIGNORE; anche se i vostri peccati fossero come scarlatto, diventeranno bianchi come la neve; anche se fossero rossi come porpora, diventeranno come la lana.",
+    "verse_ref": "Isaia 1:18"
+  },
+  "q_forgiveness_009": {
+    "question": "Completa il versetto: 'Quale Dio è come te, che perdoni l'iniquità e passi sopra alla trasgressione del _____ della tua eredità?'",
+    "correct": "residuo",
+    "wrong": ["popolo", "figli", "eletti"],
+    "hint": "La porzione fedele del popolo di Dio",
+    "explanation": "Michea celebra la disponibilità unica di Dio a perdonare i peccati del suo popolo.",
+    "full_verse": "Quale Dio è come te, che perdoni l'iniquità e passi sopra alla trasgressione del residuo della tua eredità? Egli non serba la sua ira per sempre, perché si compiace di usare misericordia.",
+    "verse_ref": "Michea 7:18"
+  },
+  "q_forgiveness_010": {
+    "question": "Completa il versetto: 'Non giudicate, e non sarete giudicati; non condannate, e non sarete condannati; perdonate, e vi sarà _____.'",
+    "correct": "perdonato",
+    "wrong": ["dato", "benedetto", "amato"],
+    "hint": "Ciò che diamo, riceviamo",
+    "explanation": "Gesù insegna la natura reciproca del perdono.",
+    "full_verse": "Non giudicate, e non sarete giudicati; non condannate, e non sarete condannati; perdonate, e vi sarà perdonato.",
+    "verse_ref": "Luca 6:37"
+  },
+  "q_forgiveness_011": {
+    "question": "Completa il versetto: 'Allora Pietro si avvicinò e gli disse: \"Signore, quante volte perdonerò mio fratello se pecca contro di me? Fino a sette volte?\" E Gesù a lui: \"Non ti dico fino a sette volte, ma fino a settanta volte _____.\"'",
+    "correct": "sette",
+    "wrong": ["tanto", "più", "ancora"],
+    "hint": "Gesù moltiplica il numero",
+    "explanation": "Gesù insegna che il perdono dovrebbe essere illimitato, non contato.",
+    "full_verse": "Allora Pietro si avvicinò e gli disse: \"Signore, quante volte perdonerò mio fratello se pecca contro di me? Fino a sette volte?\" E Gesù a lui: \"Non ti dico fino a sette volte, ma fino a settanta volte sette.\"",
+    "verse_ref": "Matteo 18:21-22"
+  },
+  "q_forgiveness_012": {
+    "question": "Completa il versetto: 'State attenti a voi stessi! Se tuo fratello pecca, riprendilo; e se si _____, perdonalo.'",
+    "correct": "ravvede",
+    "wrong": ["scusa", "ritorna", "cambia"],
+    "hint": "Un allontanarsi dal peccato",
+    "explanation": "Gesù insegna che il ravvedimento dovrebbe essere incontrato con il perdono.",
+    "full_verse": "State attenti a voi stessi! Se tuo fratello pecca, riprendilo; e se si ravvede, perdonalo. Se pecca contro di te sette volte al giorno, e sette volte viene da te e ti dice: \"Mi pento\", perdonalo.",
+    "verse_ref": "Luca 17:3-4"
+  },
+  "q_forgiveness_013": {
+    "question": "Completa il versetto: 'Gesù diceva: \"Padre, perdona loro, perché non sanno quello che _____.\"'",
+    "correct": "fanno",
+    "wrong": ["dicono", "pensano", "causano"],
+    "hint": "Gesù pregò questo sulla croce",
+    "explanation": "Anche mentre veniva crocifisso, Gesù chiese al Padre di perdonare coloro che lo crocifiggevano.",
+    "full_verse": "Gesù diceva: \"Padre, perdona loro, perché non sanno quello che fanno.\" E divisero fra loro le sue vesti, tirandole a sorte.",
+    "verse_ref": "Luca 23:34"
+  },
+  "q_forgiveness_014": {
+    "question": "Completa il versetto: 'Pietro disse loro: \"Ravvedetevi e ciascuno di voi sia battezzato nel nome di Gesù Cristo per il perdono dei vostri peccati, e voi riceverete il dono dello Spirito _____.\"'",
+    "correct": "Santo",
+    "wrong": ["Divino", "Potente", "Eterno"],
+    "hint": "Il dono promesso dopo il perdono",
+    "explanation": "Pietro collega il ravvedimento e il battesimo con il perdono e il ricevere lo Spirito Santo.",
+    "full_verse": "Pietro disse loro: \"Ravvedetevi e ciascuno di voi sia battezzato nel nome di Gesù Cristo per il perdono dei vostri peccati, e voi riceverete il dono dello Spirito Santo.\"",
+    "verse_ref": "Atti 2:38"
+  },
+  "q_forgiveness_015": {
+    "question": "Completa il versetto: 'Di lui tutti i profeti attestano che chiunque crede in lui riceve il perdono dei peccati mediante il suo _____.'",
+    "correct": "nome",
+    "wrong": ["sangue", "morte", "grazia"],
+    "hint": "Il perdono viene attraverso questo",
+    "explanation": "Pietro dichiara che il perdono viene attraverso il credere nel nome di Gesù.",
+    "full_verse": "Di lui tutti i profeti attestano che chiunque crede in lui riceve il perdono dei peccati mediante il suo nome.",
+    "verse_ref": "Atti 10:43"
+  },
+  "q_forgiveness_016": {
+    "question": "Completa il versetto: 'Vi sia dunque noto, fratelli, che per mezzo di lui vi è _____ il perdono dei peccati.'",
+    "correct": "annunciato",
+    "wrong": ["dato", "offerto", "promesso"],
+    "hint": "Il messaggio viene proclamato",
+    "explanation": "Paolo dichiara la buona notizia del perdono disponibile attraverso Gesù.",
+    "full_verse": "Vi sia dunque noto, fratelli, che per mezzo di lui vi è annunciato il perdono dei peccati.",
+    "verse_ref": "Atti 13:38"
+  },
+  "q_forgiveness_017": {
+    "question": "Completa il versetto: 'Beati quelli le cui trasgressioni sono perdonate e i cui peccati sono _____.'",
+    "correct": "coperti",
+    "wrong": ["rimossi", "purificati", "dimenticati"],
+    "hint": "I peccati sono nascosti alla vista",
+    "explanation": "Paolo cita Davide per descrivere la beatitudine di coloro i cui peccati sono perdonati.",
+    "full_verse": "Beati quelli le cui trasgressioni sono perdonate e i cui peccati sono coperti.",
+    "verse_ref": "Romani 4:7"
+  },
+  "q_forgiveness_018": {
+    "question": "Completa il versetto: 'Dio infatti era in Cristo nel riconciliare con sé il mondo, non imputando agli uomini le loro colpe, e ha messo in noi la parola della _____.'",
+    "correct": "riconciliazione",
+    "wrong": ["perdono", "salvezza", "pace"],
+    "hint": "Il messaggio di essere riportati insieme",
+    "explanation": "Paolo spiega che Dio perdona i peccati e dà ai credenti il messaggio della riconciliazione.",
+    "full_verse": "Dio infatti era in Cristo nel riconciliare con sé il mondo, non imputando agli uomini le loro colpe, e ha messo in noi la parola della riconciliazione.",
+    "verse_ref": "2 Corinzi 5:19"
+  },
+  "q_forgiveness_019": {
+    "question": "Completa il versetto: 'Perché io perdonerò la loro iniquità e non mi ricorderò _____ del loro peccato.'",
+    "correct": "più",
+    "wrong": ["mai", "ancora", "oltre"],
+    "hint": "Dio non li ricorderà",
+    "explanation": "Dio promette perdono completo, scegliendo di non ricordare i peccati perdonati.",
+    "full_verse": "Perché io perdonerò la loro iniquità e non mi ricorderò più del loro peccato.",
+    "verse_ref": "Ebrei 8:12"
+  },
+  "q_forgiveness_020": {
+    "question": "Completa il versetto: 'Poi aggiunge: \"Non mi ricorderò _____ dei loro peccati e delle loro iniquità.\"'",
+    "correct": "più",
+    "wrong": ["mai", "ancora", "oltre"],
+    "hint": "Dio sceglie di dimenticare",
+    "explanation": "L'autore di Ebrei enfatizza la promessa di Dio di non ricordare i peccati perdonati.",
+    "full_verse": "Poi aggiunge: \"Non mi ricorderò più dei loro peccati e delle loro iniquità.\"",
+    "verse_ref": "Ebrei 10:17"
+  },
+  "q_forgiveness_021": {
+    "question": "Completa il versetto: 'La preghiera della fede salverà il malato e il Signore lo ristabilirà; se egli ha commesso dei peccati, gli saranno _____.'",
+    "correct": "perdonati",
+    "wrong": ["guariti", "rimossi", "dimenticati"],
+    "hint": "Il peccato viene affrontato insieme alla malattia",
+    "explanation": "Giacomo collega la preghiera di fede sia alla guarigione che al perdono.",
+    "full_verse": "La preghiera della fede salverà il malato e il Signore lo ristabilirà; se egli ha commesso dei peccati, gli saranno perdonati.",
+    "verse_ref": "Giacomo 5:15"
+  },
+  "q_forgiveness_022": {
+    "question": "Completa il versetto: 'Beato l'uomo a cui la trasgressione è perdonata, e il cui peccato è _____!'",
+    "correct": "coperto",
+    "wrong": ["rimosso", "purificato", "dimenticato"],
+    "hint": "I peccati sono nascosti alla vista",
+    "explanation": "Davide celebra la beatitudine di ricevere il perdono da Dio.",
+    "full_verse": "Beato l'uomo a cui la trasgressione è perdonata, e il cui peccato è coperto!",
+    "verse_ref": "Salmo 32:1"
+  },
+  "q_forgiveness_023": {
+    "question": "Completa il versetto: 'Davanti a te ho riconosciuto il mio peccato, non ho coperto la mia iniquità. Ho detto: \"Confesserò le mie trasgressioni al SIGNORE\", e tu hai perdonato la _____ del mio peccato.'",
+    "correct": "colpa",
+    "wrong": ["peso", "fardello", "macchia"],
+    "hint": "La responsabilità morale per il peccato",
+    "explanation": "Davide testimonia che la confessione porta al perdono della colpa.",
+    "full_verse": "Davanti a te ho riconosciuto il mio peccato, non ho coperto la mia iniquità. Ho detto: \"Confesserò le mie trasgressioni al SIGNORE\", e tu hai perdonato la colpa del mio peccato.",
+    "verse_ref": "Salmo 32:5"
+  },
+  "q_forgiveness_024": {
+    "question": "Completa il versetto: 'Abbi pietà di me, o Dio, per la tua bontà; nella tua grande _____ cancella i miei misfatti.'",
+    "correct": "compassione",
+    "wrong": ["misericordia", "grazia", "gentilezza"],
+    "hint": "Il tenero sentimento di Dio verso di noi",
+    "explanation": "Davide fa appello alla compassione di Dio per il perdono dei suoi peccati.",
+    "full_verse": "Abbi pietà di me, o Dio, per la tua bontà; nella tua grande compassione cancella i miei misfatti.",
+    "verse_ref": "Salmo 51:1"
+  },
+  "q_forgiveness_025": {
+    "question": "Completa il versetto: 'Poiché tu, Signore, sei buono, pronto a perdonare e misericordioso in _____ verso quelli che t'invocano.'",
+    "correct": "abbondanza",
+    "wrong": ["grazia", "amore", "gentilezza"],
+    "hint": "Dio è ricco in questa qualità",
+    "explanation": "Davide loda la prontezza di Dio a perdonare e la sua abbondante misericordia.",
+    "full_verse": "Poiché tu, Signore, sei buono, pronto a perdonare e misericordioso in abbondanza verso quelli che t'invocano.",
+    "verse_ref": "Salmo 86:5"
+  },
+  "q_forgiveness_026": {
+    "question": "Completa il versetto: 'Egli perdona tutte le tue colpe, guarisce tutte le tue _____.'",
+    "correct": "infermità",
+    "wrong": ["ferite", "malattie", "sofferenze"],
+    "hint": "Disturbi fisici",
+    "explanation": "Davide loda Dio sia per il perdono dei peccati che per la guarigione dei disturbi fisici.",
+    "full_verse": "Egli perdona tutte le tue colpe, guarisce tutte le tue infermità.",
+    "verse_ref": "Salmo 103:3"
+  },
+  "q_forgiveness_027": {
+    "question": "Completa il versetto: 'Ma con te è il perdono, affinché tu sia _____.'",
+    "correct": "temuto",
+    "wrong": ["amato", "servito", "lodato"],
+    "hint": "Santo rispetto per Dio",
+    "explanation": "Il salmista riconosce che il perdono di Dio porta al timore reverenziale.",
+    "full_verse": "Ma con te è il perdono, affinché tu sia temuto.",
+    "verse_ref": "Salmo 130:4"
+  },
+  "q_forgiveness_028": {
+    "question": "Completa il versetto: 'Chi copre le colpe si procura amore, ma chi rievoca sempre le cose separa gli amici _____.'",
+    "correct": "intimi",
+    "wrong": ["cari", "fedeli", "veri"],
+    "hint": "Le relazioni sono influenzate",
+    "explanation": "Salomone insegna che l'amore copre le offese invece di diffonderle.",
+    "full_verse": "Chi copre le colpe si procura amore, ma chi rievoca sempre le cose separa gli amici intimi.",
+    "verse_ref": "Proverbi 17:9"
+  },
+  "q_forgiveness_029": {
+    "question": "Completa il versetto: 'Io, io, sono colui che per amor di me stesso cancello le tue trasgressioni e non mi ricordo _____ dei tuoi peccati.'",
+    "correct": "più",
+    "wrong": ["mai", "ancora", "oltre"],
+    "hint": "Dio sceglie di dimenticare",
+    "explanation": "Dio dichiara che perdona per amor suo e dimentica i nostri peccati.",
+    "full_verse": "Io, io, sono colui che per amor di me stesso cancello le tue trasgressioni e non mi ricordo più dei tuoi peccati.",
+    "verse_ref": "Isaia 43:25"
+  },
+  "q_forgiveness_030": {
+    "question": "Completa il versetto: 'Lasci l'empio la sua via e l'uomo iniquo i suoi pensieri; si converta al SIGNORE che avrà _____ di lui.'",
+    "correct": "pietà",
+    "wrong": ["compassione", "misericordia", "grazia"],
+    "hint": "La risposta di Dio al ravvedimento",
+    "explanation": "Isaia chiama al ravvedimento con la promessa della pietà e del perdono di Dio.",
+    "full_verse": "Lasci l'empio la sua via e l'uomo iniquo i suoi pensieri; si converta al SIGNORE che avrà pietà di lui, e al nostro Dio che perdona largamente.",
+    "verse_ref": "Isaia 55:7"
+  },
+  "q_forgiveness_031": {
+    "question": "Completa il versetto: 'Nessuno istruirà più il suo prossimo né il proprio fratello, dicendo: \"Conoscete il SIGNORE!\" Poiché tutti mi conosceranno, dal più piccolo al più grande, dice il SIGNORE. Poiché io perdonerò la loro iniquità e non mi _____ più del loro peccato.'",
+    "correct": "ricorderò",
+    "wrong": ["occuperò", "interesserò", "preoccuperò"],
+    "hint": "Dio non li porterà alla mente",
+    "explanation": "Dio promette un nuovo patto con perdono completo e conoscenza personale di lui.",
+    "full_verse": "Nessuno istruirà più il suo prossimo né il proprio fratello, dicendo: \"Conoscete il SIGNORE!\" Poiché tutti mi conosceranno, dal più piccolo al più grande, dice il SIGNORE. Poiché io perdonerò la loro iniquità e non mi ricorderò più del loro peccato.",
+    "verse_ref": "Geremia 31:34"
+  },
+  "q_forgiveness_032": {
+    "question": "Completa il versetto: 'Al Signore nostro Dio appartengono la misericordia e il perdono, perché noi ci siamo _____ contro di lui.'",
+    "correct": "ribellati",
+    "wrong": ["peccato", "voltati", "opposti"],
+    "hint": "Opposizione attiva a Dio",
+    "explanation": "Daniele riconosce il perdono di Dio nonostante la ribellione di Israele.",
+    "full_verse": "Al Signore nostro Dio appartengono la misericordia e il perdono, perché noi ci siamo ribellati contro di lui.",
+    "verse_ref": "Daniele 9:9"
+  },
+  "q_forgiveness_033": {
+    "question": "Completa il versetto: 'Ma se voi non perdonate agli uomini, neppure il Padre vostro perdonerà i vostri _____.'",
+    "correct": "peccati",
+    "wrong": ["debiti", "torti", "errori"],
+    "hint": "Ciò che abbiamo bisogno di essere perdonati",
+    "explanation": "Gesù avverte che il non perdonare gli altri blocca il nostro stesso perdono.",
+    "full_verse": "Ma se voi non perdonate agli uomini, neppure il Padre vostro perdonerà i vostri peccati.",
+    "verse_ref": "Matteo 6:15"
+  },
+  "q_forgiveness_034": {
+    "question": "Completa il versetto: 'Gesù, veduta la loro fede, disse al paralitico: \"Figliolo, i tuoi peccati ti sono _____.\"'",
+    "correct": "perdonati",
+    "wrong": ["rimossi", "purificati", "cancellati"],
+    "hint": "Gesù dichiarò questo riguardo ai peccati dell'uomo",
+    "explanation": "Gesù dimostrò la sua autorità di perdonare i peccati guarendo il paralitico.",
+    "full_verse": "Gesù, veduta la loro fede, disse al paralitico: \"Figliolo, i tuoi peccati ti sono perdonati.\"",
+    "verse_ref": "Matteo 9:2"
+  },
+  "q_forgiveness_035": {
+    "question": "Completa il versetto: 'Perciò io vi dico: ogni peccato e bestemmia sarà perdonata agli uomini; ma la bestemmia contro lo _____ non sarà perdonata.'",
+    "correct": "Spirito",
+    "wrong": ["Padre", "Figlio", "Signore"],
+    "hint": "La terza persona della Trinità",
+    "explanation": "Gesù avverte riguardo al peccato imperdonabile di bestemmiare lo Spirito Santo.",
+    "full_verse": "Perciò io vi dico: ogni peccato e bestemmia sarà perdonata agli uomini; ma la bestemmia contro lo Spirito non sarà perdonata.",
+    "verse_ref": "Matteo 12:31"
+  },
+  "q_forgiveness_036": {
+    "question": "Completa il versetto: 'Questo è il mio sangue, il sangue del patto, che è sparso per molti per il perdono dei _____.'",
+    "correct": "peccati",
+    "wrong": ["tutti", "molti", "vostri"],
+    "hint": "Gesù ha versato il suo sangue per questo scopo",
+    "explanation": "Gesù dichiara all'Ultima Cena che il suo sangue porta il perdono.",
+    "full_verse": "Questo è il mio sangue, il sangue del patto, che è sparso per molti per il perdono dei peccati.",
+    "verse_ref": "Matteo 26:28"
+  },
+  "q_forgiveness_037": {
+    "question": "Completa il versetto: 'Gesù, veduta la loro fede, disse al paralitico: \"Figliolo, i tuoi peccati ti sono _____.\"'",
+    "correct": "perdonati",
+    "wrong": ["rimossi", "purificati", "cancellati"],
+    "hint": "Gesù dichiarò questo prima di guarire",
+    "explanation": "Gesù diede priorità al perdono dei peccati dell'uomo prima di guarire il suo corpo.",
+    "full_verse": "Gesù, veduta la loro fede, disse al paralitico: \"Figliolo, i tuoi peccati ti sono perdonati.\"",
+    "verse_ref": "Marco 2:5"
+  },
+  "q_forgiveness_038": {
+    "question": "Completa il versetto: 'Veduta la loro fede, Gesù disse: \"Amico, i tuoi peccati ti sono _____.\"'",
+    "correct": "perdonati",
+    "wrong": ["rimossi", "purificati", "cancellati"],
+    "hint": "Gesù affrontò il bisogno spirituale dell'uomo",
+    "explanation": "Luca registra Gesù che perdona i peccati del paralitico, dimostrando la sua autorità divina.",
+    "full_verse": "Veduta la loro fede, Gesù disse: \"Amico, i tuoi peccati ti sono perdonati.\"",
+    "verse_ref": "Luca 5:20"
+  },
+  "q_forgiveness_039": {
+    "question": "Completa il versetto: 'Perciò ti dico: i suoi molti peccati le sono perdonati, perché ha molto _____.'",
+    "correct": "amato",
+    "wrong": ["creduto", "pianto", "servito"],
+    "hint": "La sua emozione dimostrò il perdono ricevuto",
+    "explanation": "Gesù spiega che il grande amore della donna era evidenza del suo perdono.",
+    "full_verse": "Perciò ti dico: i suoi molti peccati le sono perdonati, perché ha molto amato; ma colui a cui poco è perdonato, poco ama.",
+    "verse_ref": "Luca 7:47"
+  },
+  "q_forgiveness_040": {
+    "question": "Completa il versetto: 'Poi disse alla donna: \"I tuoi peccati sono _____.\"'",
+    "correct": "perdonati",
+    "wrong": ["rimossi", "purificati", "cancellati"],
+    "hint": "Gesù dichiarò questo alla donna",
+    "explanation": "Gesù pronunciò personalmente il perdono alla donna peccatrice.",
+    "full_verse": "Poi disse alla donna: \"I tuoi peccati sono perdonati.\"",
+    "verse_ref": "Luca 7:48"
+  },
+  "q_forgiveness_041": {
+    "question": "Completa il versetto: 'E perdonaci i nostri peccati, perché anche noi perdoniamo a ogni nostro debitore. E non esporci alla _____.'",
+    "correct": "tentazione",
+    "wrong": ["prova", "male", "pericolo"],
+    "hint": "Chiediamo di evitare questo",
+    "explanation": "Gesù insegna ai suoi discepoli a pregare per il perdono e la protezione dalla tentazione.",
+    "full_verse": "E perdonaci i nostri peccati, perché anche noi perdoniamo a ogni nostro debitore. E non esporci alla tentazione.",
+    "verse_ref": "Luca 11:4"
+  },
+  "q_forgiveness_042": {
+    "question": "Completa il versetto: 'Dio lo ha innalzato con la sua destra, costituendolo Principe e Salvatore, per dare ravvedimento a Israele, e perdono dei _____.'",
+    "correct": "peccati",
+    "wrong": ["debiti", "torti", "colpe"],
+    "hint": "Ciò che Gesù è venuto a perdonare",
+    "explanation": "Pietro dichiara che Gesù fu innalzato per portare ravvedimento e perdono.",
+    "full_verse": "Dio lo ha innalzato con la sua destra, costituendolo Principe e Salvatore, per dare ravvedimento a Israele, e perdono dei peccati.",
+    "verse_ref": "Atti 5:31"
+  },
+  "q_forgiveness_043": {
+    "question": "Completa il versetto: 'Per aprire loro gli occhi, affinché si convertano dalle tenebre alla luce e dal potere di Satana a Dio, e ricevano, per la fede in me, il perdono dei peccati e la loro parte di eredità tra i _____.'",
+    "correct": "santificati",
+    "wrong": ["salvati", "benedetti", "eletti"],
+    "hint": "Resi santi",
+    "explanation": "Paolo descrive la sua missione di portare le persone dalle tenebre alla luce e al perdono.",
+    "full_verse": "Per aprire loro gli occhi, affinché si convertano dalle tenebre alla luce e dal potere di Satana a Dio, e ricevano, per la fede in me, il perdono dei peccati e la loro parte di eredità tra i santificati.",
+    "verse_ref": "Atti 26:18"
+  },
+  "q_forgiveness_044": {
+    "question": "Completa il versetto: 'In lui abbiamo la redenzione mediante il suo sangue, il perdono dei peccati secondo le ricchezze della sua _____.'",
+    "correct": "grazia",
+    "wrong": ["amore", "misericordia", "gloria"],
+    "hint": "Il favore immeritato di Dio",
+    "explanation": "Paolo dichiara che il perdono viene attraverso il sangue di Cristo e la ricca grazia di Dio.",
+    "full_verse": "In lui abbiamo la redenzione mediante il suo sangue, il perdono dei peccati secondo le ricchezze della sua grazia.",
+    "verse_ref": "Efesini 1:7"
+  },
+  "q_forgiveness_045": {
+    "question": "Completa il versetto: 'In lui abbiamo la redenzione, il perdono dei _____.'",
+    "correct": "peccati",
+    "wrong": ["tutti", "debiti", "colpe"],
+    "hint": "Di cosa siamo perdonati",
+    "explanation": "Paolo afferma succintamente che la redenzione in Cristo significa perdono dei peccati.",
+    "full_verse": "In lui abbiamo la redenzione, il perdono dei peccati.",
+    "verse_ref": "Colossesi 1:14"
+  },
+  "q_forgiveness_046": {
+    "question": "Completa il versetto: 'Voi, che eravate morti nei peccati e nella incirconcisione della vostra carne, voi, dico, Dio ha vivificati con lui, perdonandoci tutti i nostri _____.'",
+    "correct": "peccati",
+    "wrong": ["debiti", "torti", "errori"],
+    "hint": "Tutto ciò che abbiamo fatto di sbagliato",
+    "explanation": "Paolo spiega che Dio ci ha resi vivi perdonando tutti i nostri peccati attraverso Cristo.",
+    "full_verse": "Voi, che eravate morti nei peccati e nella incirconcisione della vostra carne, voi, dico, Dio ha vivificati con lui, perdonandoci tutti i nostri peccati.",
+    "verse_ref": "Colossesi 2:13"
+  },
+  "q_forgiveness_047": {
+    "question": "Completa il versetto: 'Figlioli miei, vi scrivo queste cose perché non pecchiate; e se qualcuno ha peccato, abbiamo un avvocato presso il Padre: Gesù Cristo, il _____.'",
+    "correct": "giusto",
+    "wrong": ["santo", "fedele", "vivente"],
+    "hint": "Il carattere morale di Gesù",
+    "explanation": "Giovanni assicura i credenti che Gesù difende per noi quando pecchiamo.",
+    "full_verse": "Figlioli miei, vi scrivo queste cose perché non pecchiate; e se qualcuno ha peccato, abbiamo un avvocato presso il Padre: Gesù Cristo, il giusto.",
+    "verse_ref": "1 Giovanni 2:1"
+  },
+  "q_forgiveness_048": {
+    "question": "Completa il versetto: 'Vi scrivo, figlioli, perché i vostri peccati sono perdonati a motivo del suo _____.'",
+    "correct": "nome",
+    "wrong": ["sangue", "morte", "amore"],
+    "hint": "Il perdono viene attraverso questo",
+    "explanation": "Giovanni ricorda ai credenti che i loro peccati sono perdonati attraverso il nome di Gesù.",
+    "full_verse": "Vi scrivo, figlioli, perché i vostri peccati sono perdonati a motivo del suo nome.",
+    "verse_ref": "1 Giovanni 2:12"
+  },
+  "q_forgiveness_049": {
+    "question": "Completa il versetto: 'Se il mio popolo, sul quale è invocato il mio nome, si umilia, prega, cerca la mia faccia e si converte dalle sue vie malvagie, io lo ascolterò dal cielo, gli perdonerò i suoi peccati, e guarirò il suo _____.'",
+    "correct": "paese",
+    "wrong": ["cuore", "nazione", "popolo"],
+    "hint": "Dio promette di restaurare il loro territorio",
+    "explanation": "Dio promette perdono e guarigione al suo popolo che si umilia e si ravvede.",
+    "full_verse": "Se il mio popolo, sul quale è invocato il mio nome, si umilia, prega, cerca la mia faccia e si converte dalle sue vie malvagie, io lo ascolterò dal cielo, gli perdonerò i suoi peccati, e guarirò il suo paese.",
+    "verse_ref": "2 Cronache 7:14"
+  },
+  "q_forgiveness_050": {
+    "question": "Completa il versetto: 'Il SIGNORE è lento all'ira e grande in misericordia; egli perdona l'iniquità e la trasgressione, ma non lascia impunito il colpevole, e punisce l'iniquità dei padri sui figli, fino alla terza e alla quarta _____.'",
+    "correct": "generazione",
+    "wrong": ["livello", "grado", "misura"],
+    "hint": "Gli effetti del peccato continuano attraverso le linee familiari",
+    "explanation": "Mosè dichiara il carattere di Dio come lento all'ira e perdonatore, ma anche giusto.",
+    "full_verse": "Il SIGNORE è lento all'ira e grande in misericordia; egli perdona l'iniquità e la trasgressione, ma non lascia impunito il colpevole, e punisce l'iniquità dei padri sui figli, fino alla terza e alla quarta generazione.",
+    "verse_ref": "Numeri 14:18"
+  }
+}

@@ -1,1 +1,452 @@
-{}
+{
+  "q_hope_001": {
+    "question": "Selon Romains 15:13, « Que le Dieu de l'espérance vous remplisse de toute joie et de toute paix dans la foi, pour que vous abondiez en espérance, par la puissance du Saint-_____! »",
+    "correct": "Esprit",
+    "wrong": ["Dieu", "Seigneur", "Père"],
+    "hint": "La troisième personne de la Trinité.",
+    "explanation": "Paul prie pour que les croyants soient remplis de joie, de paix et d'espérance par le Saint-Esprit.",
+    "full_verse": "Que le Dieu de l'espérance vous remplisse de toute joie et de toute paix dans la foi, pour que vous abondiez en espérance, par la puissance du Saint-Esprit!",
+    "verse_ref": "Romains 15:13"
+  },
+  "q_hope_002": {
+    "question": "Selon Jérémie 29:11, « Car je connais les projets que j'ai formés sur vous, dit l'Éternel, projets de paix et non de malheur, afin de vous donner un _____ et de l'espérance. »",
+    "correct": "avenir",
+    "wrong": ["promesse", "bénédiction", "dessein"],
+    "hint": "Ce qui vient après aujourd'hui.",
+    "explanation": "Dieu assure son peuple que ses projets incluent l'espérance et un avenir radieux.",
+    "full_verse": "Car je connais les projets que j'ai formés sur vous, dit l'Éternel, projets de paix et non de malheur, afin de vous donner un avenir et de l'espérance.",
+    "verse_ref": "Jérémie 29:11"
+  },
+  "q_hope_003": {
+    "question": "Selon Romains 8:24, « Car c'est en espérance que nous sommes sauvés. Or, l'espérance qu'on voit n'est plus espérance: ce qu'on voit, peut-on l'espérer _____? »",
+    "correct": "encore",
+    "wrong": ["toujours", "vraiment", "aussi"],
+    "hint": "Une question rhétorique.",
+    "explanation": "Paul explique que l'espérance implique d'attendre ce que nous ne possédons pas encore.",
+    "full_verse": "Car c'est en espérance que nous sommes sauvés. Or, l'espérance qu'on voit n'est plus espérance: ce qu'on voit, peut-on l'espérer encore?",
+    "verse_ref": "Romains 8:24"
+  },
+  "q_hope_004": {
+    "question": "Selon Hébreux 6:19, « Cette espérance, nous la possédons comme une ancre de l'âme, sûre et _____. »",
+    "correct": "solide",
+    "wrong": ["forte", "stable", "ferme"],
+    "hint": "Fiable et protégée.",
+    "explanation": "L'auteur d'Hébreux décrit l'espérance comme une ancre qui stabilise nos âmes.",
+    "full_verse": "Cette espérance, nous la possédons comme une ancre de l'âme, sûre et solide; elle pénètre au delà du voile.",
+    "verse_ref": "Hébreux 6:19"
+  },
+  "q_hope_005": {
+    "question": "Selon 1 Pierre 1:3, « Béni soit Dieu, le Père de notre Seigneur Jésus-Christ, qui, selon sa grande miséricorde, nous a régénérés, pour une espérance _____, par la résurrection de Jésus-Christ d'entre les morts. »",
+    "correct": "vivante",
+    "wrong": ["éternelle", "grande", "nouvelle"],
+    "hint": "Cette espérance est en vie.",
+    "explanation": "Pierre loue Dieu pour avoir donné aux croyants une espérance vivante par la résurrection de Christ.",
+    "full_verse": "Béni soit Dieu, le Père de notre Seigneur Jésus-Christ, qui, selon sa grande miséricorde, nous a régénérés, pour une espérance vivante, par la résurrection de Jésus-Christ d'entre les morts.",
+    "verse_ref": "1 Pierre 1:3"
+  },
+  "q_hope_006": {
+    "question": "Selon Psaume 42:12, « Pourquoi t'abats-tu, mon âme, et gémis-tu au dedans de moi? Espère en Dieu, car je le _____ encore. »",
+    "correct": "louerai",
+    "wrong": ["remercierai", "adorerai", "servirai"],
+    "hint": "Une future adoration de Dieu.",
+    "explanation": "Le psalmiste encourage son âme à espérer en Dieu malgré le découragement actuel.",
+    "full_verse": "Pourquoi t'abats-tu, mon âme, et gémis-tu au dedans de moi? Espère en Dieu, car je le louerai encore; Il est mon salut et mon Dieu.",
+    "verse_ref": "Psaume 42:12"
+  },
+  "q_hope_007": {
+    "question": "Selon Ésaïe 40:31, « Mais ceux qui se confient en l'Éternel renouvellent leur force. Ils prennent le vol comme les _____. »",
+    "correct": "aigles",
+    "wrong": ["anges", "oiseaux", "colombes"],
+    "hint": "Un oiseau majestueux.",
+    "explanation": "Ésaïe promet que ceux qui espèrent en Dieu seront surnaturellement fortifiés.",
+    "full_verse": "Mais ceux qui se confient en l'Éternel renouvellent leur force. Ils prennent le vol comme les aigles; Ils courent, et ne se lassent point, Ils marchent, et ne se fatiguent point.",
+    "verse_ref": "Ésaïe 40:31"
+  },
+  "q_hope_008": {
+    "question": "Selon Lamentations 3:24, « L'Éternel est mon partage, dit mon âme; C'est pourquoi je veux _____ en lui. »",
+    "correct": "espérer",
+    "wrong": ["croire", "attendre", "me confier"],
+    "hint": "Avoir de l'espérance.",
+    "explanation": "Jérémie déclare que parce que Dieu est son héritage, il espérera en lui.",
+    "full_verse": "L'Éternel est mon partage, dit mon âme; C'est pourquoi je veux espérer en lui.",
+    "verse_ref": "Lamentations 3:24"
+  },
+  "q_hope_009": {
+    "question": "Selon Psaume 31:25, « Fortifiez-vous et que votre cœur s'affermisse, vous tous qui espérez en l'_____! »",
+    "correct": "Éternel",
+    "wrong": ["Dieu", "Sauveur", "Seigneur"],
+    "hint": "Le nom de l'alliance de Dieu.",
+    "explanation": "David encourage ceux qui espèrent en Dieu à être forts et courageux.",
+    "full_verse": "Fortifiez-vous et que votre cœur s'affermisse, vous tous qui espérez en l'Éternel!",
+    "verse_ref": "Psaume 31:25"
+  },
+  "q_hope_010": {
+    "question": "Selon Romains 5:5, « Or, l'espérance ne trompe point, parce que l'amour de Dieu est répandu dans nos _____ par le Saint-Esprit. »",
+    "correct": "cœurs",
+    "wrong": ["âmes", "vies", "esprits"],
+    "hint": "Le centre de notre être.",
+    "explanation": "Paul assure que l'espérance en Dieu ne déçoit jamais grâce à son amour en nous.",
+    "full_verse": "Or, l'espérance ne trompe point, parce que l'amour de Dieu est répandu dans nos cœurs par le Saint-Esprit qui nous a été donné.",
+    "verse_ref": "Romains 5:5"
+  },
+  "q_hope_011": {
+    "question": "Selon Colossiens 1:27, « Dieu a voulu faire connaître la glorieuse richesse de ce mystère parmi les païens, savoir: Christ en vous, l'espérance de la _____. »",
+    "correct": "gloire",
+    "wrong": ["salut", "vie", "paix"],
+    "hint": "La splendeur future avec Dieu.",
+    "explanation": "Paul révèle que Christ habitant en nous est l'espérance de la gloire future.",
+    "full_verse": "à qui Dieu a voulu faire connaître quelle est la glorieuse richesse de ce mystère parmi les païens, savoir: Christ en vous, l'espérance de la gloire.",
+    "verse_ref": "Colossiens 1:27"
+  },
+  "q_hope_012": {
+    "question": "Selon Tite 2:13, « en attendant la bienheureuse espérance, et la manifestation de la gloire du grand Dieu et de notre Sauveur Jésus-_____. »",
+    "correct": "Christ",
+    "wrong": ["Seigneur", "Roi", "Messie"],
+    "hint": "Le titre de Jésus.",
+    "explanation": "Paul décrit le retour de Christ comme la bienheureuse espérance que les croyants attendent.",
+    "full_verse": "en attendant la bienheureuse espérance, et la manifestation de la gloire du grand Dieu et de notre Sauveur Jésus-Christ.",
+    "verse_ref": "Tite 2:13"
+  },
+  "q_hope_013": {
+    "question": "Selon 1 Thessaloniciens 4:13, « Nous ne voulons pas, frères, que vous soyez dans l'ignorance au sujet de ceux qui dorment, afin que vous ne vous affligiez pas comme les autres qui n'ont point d'_____. »",
+    "correct": "espérance",
+    "wrong": ["foi", "paix", "réconfort"],
+    "hint": "Les croyants ont cela pour l'avenir.",
+    "explanation": "Paul réconforte les croyants qu'ils ont de l'espérance concernant ceux qui sont morts en Christ.",
+    "full_verse": "Nous ne voulons pas, frères, que vous soyez dans l'ignorance au sujet de ceux qui dorment, afin que vous ne vous affligiez pas comme les autres qui n'ont point d'espérance.",
+    "verse_ref": "1 Thessaloniciens 4:13"
+  },
+  "q_hope_014": {
+    "question": "Selon Psaume 39:8, « Et maintenant, Seigneur, que puis-je attendre? En toi est mon _____. »",
+    "correct": "espérance",
+    "wrong": ["salut", "refuge", "secours"],
+    "hint": "Ce que David place en Dieu.",
+    "explanation": "David déclare que son espérance est entièrement placée en Dieu.",
+    "full_verse": "Et maintenant, Seigneur, que puis-je attendre? En toi est mon espérance.",
+    "verse_ref": "Psaume 39:8"
+  },
+  "q_hope_015": {
+    "question": "Selon Psaume 62:6, « Oui, c'est en Dieu que mon âme se confie; De lui vient mon _____. »",
+    "correct": "espérance",
+    "wrong": ["salut", "secours", "refuge"],
+    "hint": "La source de l'attente confiante.",
+    "explanation": "David encourage son âme à se reposer en Dieu comme source de toute espérance.",
+    "full_verse": "Oui, c'est en Dieu que mon âme se confie; De lui vient mon espérance.",
+    "verse_ref": "Psaume 62:6"
+  },
+  "q_hope_016": {
+    "question": "Selon Psaume 71:5, « Car tu es mon espérance, Seigneur Éternel! En toi je me confie dès ma _____. »",
+    "correct": "jeunesse",
+    "wrong": ["naissance", "enfance", "vie"],
+    "hint": "Les premières années de la vie.",
+    "explanation": "Le psalmiste témoigne que Dieu a été son espérance depuis ses jeunes années.",
+    "full_verse": "Car tu es mon espérance, Seigneur Éternel! En toi je me confie dès ma jeunesse.",
+    "verse_ref": "Psaume 71:5"
+  },
+  "q_hope_017": {
+    "question": "Selon Psaume 119:114, « Tu es mon asile et mon bouclier; J'espère en ta _____. »",
+    "correct": "parole",
+    "wrong": ["promesse", "nom", "grâce"],
+    "hint": "La vérité prononcée par Dieu.",
+    "explanation": "Le psalmiste place son espérance dans la parole de Dieu comme source de protection.",
+    "full_verse": "Tu es mon asile et mon bouclier; J'espère en ta parole.",
+    "verse_ref": "Psaume 119:114"
+  },
+  "q_hope_018": {
+    "question": "Selon Psaume 130:5, « J'espère en l'Éternel, mon âme espère, Et j'attends sa _____. »",
+    "correct": "parole",
+    "wrong": ["promesse", "grâce", "venue"],
+    "hint": "Ce que Dieu a dit.",
+    "explanation": "Le psalmiste exprime une dépendance totale de la parole de Dieu pour l'espérance.",
+    "full_verse": "J'espère en l'Éternel, mon âme espère, Et j'attends sa parole.",
+    "verse_ref": "Psaume 130:5"
+  },
+  "q_hope_019": {
+    "question": "Selon Psaume 146:5, « Heureux celui qui a pour secours le Dieu de Jacob, qui met son espérance en l'Éternel, son _____! »",
+    "correct": "Dieu",
+    "wrong": ["Seigneur", "Roi", "Sauveur"],
+    "hint": "Sa divinité.",
+    "explanation": "Le psalmiste déclare la bénédiction sur ceux qui espèrent en l'Éternel leur Dieu.",
+    "full_verse": "Heureux celui qui a pour secours le Dieu de Jacob, Qui met son espérance en l'Éternel, son Dieu!",
+    "verse_ref": "Psaume 146:5"
+  },
+  "q_hope_020": {
+    "question": "Selon Proverbes 13:12, « Un espoir différé rend le cœur malade, mais un désir accompli est un arbre de _____. »",
+    "correct": "vie",
+    "wrong": ["joie", "paix", "bonheur"],
+    "hint": "Quelque chose qui donne la vitalité.",
+    "explanation": "Salomon contraste l'espérance retardée avec le désir accompli qui donne la vie.",
+    "full_verse": "Un espoir différé rend le cœur malade, Mais un désir accompli est un arbre de vie.",
+    "verse_ref": "Proverbes 13:12"
+  },
+  "q_hope_021": {
+    "question": "Selon Ésaïe 25:9, « En ce jour l'on dira: Voici, c'est notre Dieu, en qui nous avons confiance, Et c'est lui qui nous _____. »",
+    "correct": "sauve",
+    "wrong": ["aide", "bénit", "aime"],
+    "hint": "Dieu a délivré son peuple.",
+    "explanation": "Ésaïe prophétise un jour où le peuple de Dieu célébrera son salut.",
+    "full_verse": "En ce jour l'on dira: Voici, c'est notre Dieu, en qui nous avons confiance, Et c'est lui qui nous sauve; C'est l'Éternel, en qui nous avons confiance; Soyons dans l'allégresse, et réjouissons-nous de son salut!",
+    "verse_ref": "Ésaïe 25:9"
+  },
+  "q_hope_022": {
+    "question": "Selon Michée 7:7, « Pour moi, je regarderai vers l'Éternel, Je mettrai mon espérance dans le Dieu de mon salut; Mon Dieu m'_____. »",
+    "correct": "exaucera",
+    "wrong": ["aidera", "sauvera", "répondra"],
+    "hint": "Dieu répond à la prière.",
+    "explanation": "Michée exprime une espérance confiante que Dieu l'entendra.",
+    "full_verse": "Pour moi, je regarderai vers l'Éternel, Je mettrai mon espérance dans le Dieu de mon salut; Mon Dieu m'exaucera.",
+    "verse_ref": "Michée 7:7"
+  },
+  "q_hope_023": {
+    "question": "Selon Zacharie 9:12, « Retournez à la forteresse, captifs pleins d'espérance! Aujourd'hui encore je le déclare, Je te rendrai le _____. »",
+    "correct": "double",
+    "wrong": ["tout", "bien", "perdu"],
+    "hint": "Deux fois plus.",
+    "explanation": "Dieu promet une double restauration à ceux qui maintiennent l'espérance.",
+    "full_verse": "Retournez à la forteresse, captifs pleins d'espérance! Aujourd'hui encore je le déclare, Je te rendrai le double.",
+    "verse_ref": "Zacharie 9:12"
+  },
+  "q_hope_024": {
+    "question": "Selon Romains 5:4, « la persévérance la victoire dans l'épreuve, et cette victoire l'_____. »",
+    "correct": "espérance",
+    "wrong": ["foi", "amour", "joie"],
+    "hint": "Le résultat d'un caractère développé.",
+    "explanation": "Paul montre la progression de la souffrance à la persévérance, au caractère, à l'espérance.",
+    "full_verse": "la persévérance la victoire dans l'épreuve, et cette victoire l'espérance.",
+    "verse_ref": "Romains 5:4"
+  },
+  "q_hope_025": {
+    "question": "Selon Romains 8:25, « Mais si nous espérons ce que nous ne voyons pas, nous l'attendons avec _____. »",
+    "correct": "persévérance",
+    "wrong": ["joie", "foi", "paix"],
+    "hint": "Avec endurance.",
+    "explanation": "Paul enseigne que l'espérance implique une attente patiente de ce qui n'est pas encore vu.",
+    "full_verse": "Mais si nous espérons ce que nous ne voyons pas, nous l'attendons avec persévérance.",
+    "verse_ref": "Romains 8:25"
+  },
+  "q_hope_026": {
+    "question": "Selon Romains 12:12, « Réjouissez-vous en espérance. Soyez patients dans l'affliction. Persévérez dans la _____. »",
+    "correct": "prière",
+    "wrong": ["foi", "amour", "paix"],
+    "hint": "La communication avec Dieu.",
+    "explanation": "Paul donne trois instructions pour la vie chrétienne, y compris la joie dans l'espérance.",
+    "full_verse": "Réjouissez-vous en espérance. Soyez patients dans l'affliction. Persévérez dans la prière.",
+    "verse_ref": "Romains 12:12"
+  },
+  "q_hope_027": {
+    "question": "Selon 1 Corinthiens 13:13, « Maintenant donc ces trois choses demeurent: la foi, l'espérance, l'amour; mais la plus grande de ces choses, c'est l'_____. »",
+    "correct": "amour",
+    "wrong": ["foi", "espérance", "grâce"],
+    "hint": "La vertu suprême.",
+    "explanation": "Paul déclare que bien que la foi, l'espérance et l'amour demeurent, l'amour est le plus grand.",
+    "full_verse": "Maintenant donc ces trois choses demeurent: la foi, l'espérance, l'amour; mais la plus grande de ces choses, c'est l'amour.",
+    "verse_ref": "1 Corinthiens 13:13"
+  },
+  "q_hope_028": {
+    "question": "Selon Galates 5:5, « Pour nous, c'est de la foi que nous attendons, par l'Esprit, l'espérance de la _____. »",
+    "correct": "justice",
+    "wrong": ["vie", "gloire", "paix"],
+    "hint": "Être déclaré juste.",
+    "explanation": "Paul décrit les croyants qui attendent avec espérance la justice promise par la foi.",
+    "full_verse": "Pour nous, c'est de la foi que nous attendons, par l'Esprit, l'espérance de la justice.",
+    "verse_ref": "Galates 5:5"
+  },
+  "q_hope_029": {
+    "question": "Selon Éphésiens 1:18, « et qu'il illumine les yeux de votre cœur, pour que vous sachiez quelle est l'espérance qui s'attache à son _____. »",
+    "correct": "appel",
+    "wrong": ["nom", "amour", "salut"],
+    "hint": "L'invitation de Dieu.",
+    "explanation": "Paul prie pour que les croyants comprennent l'espérance de leur appel en Christ.",
+    "full_verse": "et qu'il illumine les yeux de votre cœur, pour que vous sachiez quelle est l'espérance qui s'attache à son appel, quelle est la richesse de la gloire de son héritage qu'il réserve aux saints.",
+    "verse_ref": "Éphésiens 1:18"
+  },
+  "q_hope_030": {
+    "question": "Selon Éphésiens 4:4, « Il y a un seul corps et un seul Esprit, comme aussi vous avez été appelés à une seule espérance par votre _____. »",
+    "correct": "vocation",
+    "wrong": ["foi", "salut", "baptême"],
+    "hint": "L'appel de Dieu aux croyants.",
+    "explanation": "Paul souligne l'unité des croyants dans une seule espérance par leur vocation.",
+    "full_verse": "Il y a un seul corps et un seul Esprit, comme aussi vous avez été appelés à une seule espérance par votre vocation.",
+    "verse_ref": "Éphésiens 4:4"
+  },
+  "q_hope_031": {
+    "question": "Selon Colossiens 1:5, « à cause de l'espérance qui vous est réservée dans les _____, et que la parole de la vérité, l'Évangile, vous a précédemment fait connaître. »",
+    "correct": "cieux",
+    "wrong": ["gloires", "promesses", "bénédictions"],
+    "hint": "Où Dieu habite.",
+    "explanation": "Paul décrit l'espérance comme un trésor réservé dans les cieux qui produit foi et amour.",
+    "full_verse": "à cause de l'espérance qui vous est réservée dans les cieux, et que la parole de la vérité, l'Évangile, vous a précédemment fait connaître.",
+    "verse_ref": "Colossiens 1:5"
+  },
+  "q_hope_032": {
+    "question": "Selon 1 Thessaloniciens 1:3, « nous rappelant sans cesse l'œuvre de votre foi, le travail de votre charité, et la fermeté de votre espérance en notre Seigneur Jésus-_____. »",
+    "correct": "Christ",
+    "wrong": ["Seigneur", "Sauveur", "Roi"],
+    "hint": "Le titre de notre Seigneur.",
+    "explanation": "Paul félicite les Thessaloniciens pour leur foi, amour et espérance en Christ.",
+    "full_verse": "nous rappelant sans cesse l'œuvre de votre foi, le travail de votre charité, et la fermeté de votre espérance en notre Seigneur Jésus-Christ, devant Dieu notre Père.",
+    "verse_ref": "1 Thessaloniciens 1:3"
+  },
+  "q_hope_033": {
+    "question": "Selon 1 Thessaloniciens 5:8, « Mais nous qui sommes du jour, soyons sobres, ayant revêtu la cuirasse de la foi et de l'amour, et ayant pour casque l'espérance du _____. »",
+    "correct": "salut",
+    "wrong": ["ciel", "Christ", "Seigneur"],
+    "hint": "Ce que Dieu nous donne.",
+    "explanation": "Paul utilise l'imagerie de l'armure, décrivant l'espérance du salut comme un casque.",
+    "full_verse": "Mais nous qui sommes du jour, soyons sobres, ayant revêtu la cuirasse de la foi et de l'amour, et ayant pour casque l'espérance du salut.",
+    "verse_ref": "1 Thessaloniciens 5:8"
+  },
+  "q_hope_034": {
+    "question": "Selon 2 Thessaloniciens 2:16, « Que notre Seigneur Jésus-Christ lui-même, et Dieu notre Père, qui nous a aimés, et qui nous a donné par sa grâce une consolation éternelle et une bonne _____. »",
+    "correct": "espérance",
+    "wrong": ["nouvelle", "promesse", "foi"],
+    "hint": "Attente positive pour l'avenir.",
+    "explanation": "Paul prie pour que les croyants reçoivent une consolation éternelle et une bonne espérance.",
+    "full_verse": "Que notre Seigneur Jésus-Christ lui-même, et Dieu notre Père, qui nous a aimés, et qui nous a donné par sa grâce une consolation éternelle et une bonne espérance.",
+    "verse_ref": "2 Thessaloniciens 2:16"
+  },
+  "q_hope_035": {
+    "question": "Selon 1 Timothée 1:1, « Paul, apôtre de Jésus-Christ, par ordre de Dieu notre Sauveur et de Jésus-Christ notre _____. »",
+    "correct": "espérance",
+    "wrong": ["Seigneur", "Roi", "Sauveur"],
+    "hint": "Christ est notre attente.",
+    "explanation": "Paul identifie Jésus-Christ comme notre espérance dans sa salutation à Timothée.",
+    "full_verse": "Paul, apôtre de Jésus-Christ, par ordre de Dieu notre Sauveur et de Jésus-Christ notre espérance.",
+    "verse_ref": "1 Timothée 1:1"
+  },
+  "q_hope_036": {
+    "question": "Selon 1 Timothée 4:10, « c'est pour cela que nous travaillons et que nous combattons, parce que nous mettons notre espérance dans le Dieu vivant, qui est le Sauveur de tous les hommes, principalement des _____. »",
+    "correct": "croyants",
+    "wrong": ["fidèles", "justes", "saints"],
+    "hint": "Ceux qui ont la foi.",
+    "explanation": "Paul explique que l'espérance dans le Dieu vivant motive le service chrétien.",
+    "full_verse": "Nous travaillons, en effet, et nous combattons, parce que nous mettons notre espérance dans le Dieu vivant, qui est le Sauveur de tous les hommes, principalement des croyants.",
+    "verse_ref": "1 Timothée 4:10"
+  },
+  "q_hope_037": {
+    "question": "Selon 1 Timothée 6:17, « Recommande aux riches du présent siècle de ne pas être orgueilleux, et de ne pas mettre leur espérance dans des richesses incertaines, mais de la mettre en _____. »",
+    "correct": "Dieu",
+    "wrong": ["Christ", "le Seigneur", "le ciel"],
+    "hint": "L'objet approprié de l'espérance.",
+    "explanation": "Paul met en garde contre l'espérance placée dans les richesses incertaines au lieu de Dieu.",
+    "full_verse": "Recommande aux riches du présent siècle de ne pas être orgueilleux, et de ne pas mettre leur espérance dans des richesses incertaines, mais de la mettre en Dieu, qui nous donne avec abondance toutes choses pour que nous en jouissions.",
+    "verse_ref": "1 Timothée 6:17"
+  },
+  "q_hope_038": {
+    "question": "Selon Tite 1:2, « lesquelles reposent sur l'espérance de la vie éternelle, promise dès les plus anciens temps par le Dieu qui ne _____ point. »",
+    "correct": "ment",
+    "wrong": ["change", "oublie", "faillit"],
+    "hint": "Dieu dit toujours la vérité.",
+    "explanation": "Paul fonde l'espérance en la vie éternelle sur la promesse véridique de Dieu.",
+    "full_verse": "lesquelles reposent sur l'espérance de la vie éternelle, promise dès les plus anciens temps par le Dieu qui ne ment point.",
+    "verse_ref": "Tite 1:2"
+  },
+  "q_hope_039": {
+    "question": "Selon Tite 3:7, « afin que, justifiés par sa grâce, nous devenions, en espérance, héritiers de la vie _____. »",
+    "correct": "éternelle",
+    "wrong": ["divine", "céleste", "nouvelle"],
+    "hint": "Vivre pour toujours.",
+    "explanation": "Paul explique que la justification par la grâce fait de nous des héritiers avec l'espérance de la vie éternelle.",
+    "full_verse": "afin que, justifiés par sa grâce, nous devenions, en espérance, héritiers de la vie éternelle.",
+    "verse_ref": "Tite 3:7"
+  },
+  "q_hope_040": {
+    "question": "Selon Hébreux 3:6, « mais Christ l'est comme Fils sur sa maison; et sa maison, c'est nous, pourvu que nous retenions jusqu'à la fin la ferme confiance et l'espérance dont nous nous _____. »",
+    "correct": "glorifions",
+    "wrong": ["réjouissons", "nourrissons", "souvenons"],
+    "hint": "Nous sommes fiers de cette espérance.",
+    "explanation": "L'auteur encourage les croyants à retenir fermement leur espérance en Christ.",
+    "full_verse": "mais Christ l'est comme Fils sur sa maison; et sa maison, c'est nous, pourvu que nous retenions jusqu'à la fin la ferme confiance et l'espérance dont nous nous glorifions.",
+    "verse_ref": "Hébreux 3:6"
+  },
+  "q_hope_041": {
+    "question": "Selon Hébreux 6:18, « afin que, par deux choses immuables, dans lesquelles il est impossible que Dieu mente, nous trouvions un puissant encouragement, nous dont le seul refuge a été de saisir l'espérance qui nous était proposée. Cette espérance, nous la possédons comme une _____ de l'âme. »",
+    "correct": "ancre",
+    "wrong": ["forteresse", "refuge", "bouclier"],
+    "hint": "Ce qui garde un navire stable.",
+    "explanation": "L'auteur décrit l'espérance comme une ancre qui stabilise l'âme.",
+    "full_verse": "afin que, par deux choses immuables, dans lesquelles il est impossible que Dieu mente, nous trouvions un puissant encouragement, nous dont le seul refuge a été de saisir l'espérance qui nous était proposée. Cette espérance, nous la possédons comme une ancre de l'âme, sûre et solide.",
+    "verse_ref": "Hébreux 6:18-19"
+  },
+  "q_hope_042": {
+    "question": "Selon Hébreux 7:19, « car la loi n'a rien amené à la perfection, et introduction d'une meilleure espérance, par laquelle nous nous approchons de _____. »",
+    "correct": "Dieu",
+    "wrong": ["Christ", "lui", "la perfection"],
+    "hint": "L'espérance nous rapproche de lui.",
+    "explanation": "L'auteur contraste la loi avec la meilleure espérance qui nous rapproche de Dieu.",
+    "full_verse": "car la loi n'a rien amené à la perfection, et introduction d'une meilleure espérance, par laquelle nous nous approchons de Dieu.",
+    "verse_ref": "Hébreux 7:19"
+  },
+  "q_hope_043": {
+    "question": "Selon Hébreux 10:23, « Retenons fermement la profession de notre espérance, car celui qui a fait la promesse est _____. »",
+    "correct": "fidèle",
+    "wrong": ["vrai", "bon", "juste"],
+    "hint": "Dieu tient ses promesses.",
+    "explanation": "L'auteur encourage les croyants à retenir fermement l'espérance parce que Dieu est fidèle.",
+    "full_verse": "Retenons fermement la profession de notre espérance, car celui qui a fait la promesse est fidèle.",
+    "verse_ref": "Hébreux 10:23"
+  },
+  "q_hope_044": {
+    "question": "Selon Hébreux 11:1, « Or la foi est une ferme assurance des choses qu'on espère, une démonstration de celles qu'on ne _____ pas. »",
+    "correct": "voit",
+    "wrong": ["sait", "possède", "comprend"],
+    "hint": "La foi concerne l'invisible.",
+    "explanation": "L'auteur définit la foi en relation avec l'espérance et les réalités invisibles.",
+    "full_verse": "Or la foi est une ferme assurance des choses qu'on espère, une démonstration de celles qu'on ne voit pas.",
+    "verse_ref": "Hébreux 11:1"
+  },
+  "q_hope_045": {
+    "question": "Selon 1 Pierre 1:13, « C'est pourquoi, ceignez les reins de votre entendement, soyez sobres, et ayez une entière espérance dans la grâce qui vous sera apportée, lorsque Jésus-Christ _____. »",
+    "correct": "apparaîtra",
+    "wrong": ["viendra", "reviendra", "se manifestera"],
+    "hint": "Quand Christ sera révélé.",
+    "explanation": "Pierre appelle les croyants à placer leur espérance pleinement dans la grâce à venir lors du retour de Christ.",
+    "full_verse": "C'est pourquoi, ceignez les reins de votre entendement, soyez sobres, et ayez une entière espérance dans la grâce qui vous sera apportée, lorsque Jésus-Christ apparaîtra.",
+    "verse_ref": "1 Pierre 1:13"
+  },
+  "q_hope_046": {
+    "question": "Selon 1 Pierre 1:21, « qui par lui croyez en Dieu, lequel l'a ressuscité des morts et lui a donné la gloire, en sorte que votre foi et votre espérance reposent sur _____. »",
+    "correct": "Dieu",
+    "wrong": ["Christ", "lui", "le Seigneur"],
+    "hint": "L'objet ultime de la foi et de l'espérance.",
+    "explanation": "Pierre explique que par Christ, notre foi et notre espérance sont dirigées vers Dieu.",
+    "full_verse": "qui par lui croyez en Dieu, lequel l'a ressuscité des morts et lui a donné la gloire, en sorte que votre foi et votre espérance reposent sur Dieu.",
+    "verse_ref": "1 Pierre 1:21"
+  },
+  "q_hope_047": {
+    "question": "Selon 1 Pierre 3:15, « Mais sanctifiez dans vos cœurs Christ le Seigneur, étant toujours prêts à vous défendre, avec douceur et respect, devant quiconque vous demande raison de l'espérance qui est en _____. »",
+    "correct": "vous",
+    "wrong": ["nous", "Christ", "Dieu"],
+    "hint": "Posséder l'espérance.",
+    "explanation": "Pierre instruit les croyants à être prêts à expliquer l'espérance qu'ils possèdent.",
+    "full_verse": "Mais sanctifiez dans vos cœurs Christ le Seigneur, étant toujours prêts à vous défendre, avec douceur et respect, devant quiconque vous demande raison de l'espérance qui est en vous.",
+    "verse_ref": "1 Pierre 3:15"
+  },
+  "q_hope_048": {
+    "question": "Selon 1 Jean 3:3, « Quiconque a cette espérance en lui se purifie, comme lui-même est _____. »",
+    "correct": "pur",
+    "wrong": ["saint", "juste", "parfait"],
+    "hint": "Libre d'impureté.",
+    "explanation": "Jean enseigne que l'espérance en Christ conduit à la purification personnelle.",
+    "full_verse": "Quiconque a cette espérance en lui se purifie, comme lui-même est pur.",
+    "verse_ref": "1 Jean 3:3"
+  },
+  "q_hope_049": {
+    "question": "Selon Lamentations 3:21-22, « Voici ce que je veux repasser en mon cœur, ce qui me donnera de l'espérance. Les bontés de l'Éternel ne sont pas épuisées, ses compassions ne sont pas à leur _____. »",
+    "correct": "terme",
+    "wrong": ["fin", "limite", "bout"],
+    "hint": "Elles ne finissent jamais.",
+    "explanation": "Jérémie trouve l'espérance en se rappelant l'amour fidèle de Dieu qui nous préserve.",
+    "full_verse": "Voici ce que je veux repasser en mon cœur, ce qui me donnera de l'espérance. Les bontés de l'Éternel ne sont pas épuisées, ses compassions ne sont pas à leur terme.",
+    "verse_ref": "Lamentations 3:21-22"
+  },
+  "q_hope_050": {
+    "question": "Selon Job 11:18, « Tu seras plein de confiance, car il y aura de l'espérance; Tu regarderas autour de toi, et tu reposeras en _____. »",
+    "correct": "sûreté",
+    "wrong": ["paix", "confiance", "sécurité"],
+    "hint": "Protégé du danger.",
+    "explanation": "Tsophar décrit la sécurité et le repos qui viennent de l'espérance.",
+    "full_verse": "Tu seras plein de confiance, car il y aura de l'espérance; Tu regarderas autour de toi, et tu reposeras en sûreté.",
+    "verse_ref": "Job 11:18"
+  }
+}

@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_proverbs_001",
+      "question": "Fill in the blank: 'Trust in the LORD with all your heart and lean not on your own _____; in all your ways submit to him, and he will make your paths straight.'",
+      "correct": "understanding",
+      "wrong": ["wisdom", "knowledge", "strength"],
+      "hint": "This word relates to human intellect and reasoning",
+      "explanation": "We are called to trust God completely rather than relying on our own limited human understanding.",
+      "full_verse": "Trust in the LORD with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.",
+      "verse_ref": "Proverbs 3:5-6"
+    },
+    {
+      "id": "q_proverbs_002",
+      "question": "Fill in the blank: 'The fear of the LORD is the beginning of _____; fools despise wisdom and instruction.'",
+      "correct": "knowledge",
+      "wrong": ["wisdom", "understanding", "faith"],
+      "hint": "This is what fools despise along with instruction",
+      "explanation": "Reverence for God is the foundation of all true knowledge.",
+      "full_verse": "The fear of the LORD is the beginning of knowledge, but fools despise wisdom and instruction.",
+      "verse_ref": "Proverbs 1:7"
+    },
+    {
+      "id": "q_proverbs_003",
+      "question": "Fill in the blank: 'Start _____ in the way they should go, and even when they are old they will not turn from it.'",
+      "correct": "children",
+      "wrong": ["youth", "disciples", "believers"],
+      "hint": "This refers to young ones being raised",
+      "explanation": "Early spiritual training has lasting effects throughout a person's life.",
+      "full_verse": "Start children in the way they should go, and even when they are old they will not turn from it.",
+      "verse_ref": "Proverbs 22:6"
+    },
+    {
+      "id": "q_proverbs_004",
+      "question": "Fill in the blank: 'Commit to the LORD whatever you do, and he will establish your _____.'",
+      "correct": "plans",
+      "wrong": ["ways", "steps", "works"],
+      "hint": "This word refers to your intentions for the future",
+      "explanation": "When we dedicate our work to God, He guides and establishes our intentions.",
+      "full_verse": "Commit to the LORD whatever you do, and he will establish your plans.",
+      "verse_ref": "Proverbs 16:3"
+    },
+    {
+      "id": "q_proverbs_005",
+      "question": "Fill in the blank: 'Let love and _____ never leave you; bind them around your neck, write them on the tablet of your heart.'",
+      "correct": "faithfulness",
+      "wrong": ["truth", "mercy", "kindness"],
+      "hint": "This virtue relates to being loyal and reliable",
+      "explanation": "Love and faithfulness should be constant companions, shaping our character.",
+      "full_verse": "Let love and faithfulness never leave you; bind them around your neck, write them on the tablet of your heart.",
+      "verse_ref": "Proverbs 3:3"
+    },
+    {
+      "id": "q_proverbs_006",
+      "question": "Fill in the blank: 'Above all else, guard your _____, for everything you do flows from it.'",
+      "correct": "heart",
+      "wrong": ["mind", "soul", "tongue"],
+      "hint": "This is the center of your being and emotions",
+      "explanation": "The heart is the wellspring of life, affecting all our thoughts, words, and actions.",
+      "full_verse": "Above all else, guard your heart, for everything you do flows from it.",
+      "verse_ref": "Proverbs 4:23"
+    },
+    {
+      "id": "q_proverbs_007",
+      "question": "Fill in the blank: 'The name of the LORD is a fortified _____; the righteous run to it and are safe.'",
+      "correct": "tower",
+      "wrong": ["city", "fortress", "refuge"],
+      "hint": "This is a tall structure used for defense",
+      "explanation": "God's name represents His character and power, providing protection for those who trust Him.",
+      "full_verse": "The name of the LORD is a fortified tower; the righteous run to it and are safe.",
+      "verse_ref": "Proverbs 18:10"
+    },
+    {
+      "id": "q_proverbs_008",
+      "question": "Fill in the blank: 'As iron sharpens iron, so one person sharpens _____.'",
+      "correct": "another",
+      "wrong": ["himself", "others", "friends"],
+      "hint": "This refers to a single other individual",
+      "explanation": "Healthy relationships help us grow and improve through mutual encouragement and challenge.",
+      "full_verse": "As iron sharpens iron, so one person sharpens another.",
+      "verse_ref": "Proverbs 27:17"
+    },
+    {
+      "id": "q_proverbs_009",
+      "question": "Fill in the blank: 'Charm is deceptive, and beauty is fleeting; but a woman who fears the LORD is to be _____.'",
+      "correct": "praised",
+      "wrong": ["honored", "blessed", "loved"],
+      "hint": "This means to be commended or celebrated",
+      "explanation": "True worth is found in reverence for God, not outward appearance.",
+      "full_verse": "Charm is deceptive, and beauty is fleeting; but a woman who fears the LORD is to be praised.",
+      "verse_ref": "Proverbs 31:30"
+    },
+    {
+      "id": "q_proverbs_010",
+      "question": "Fill in the blank: 'A generous person will _____; whoever refreshes others will be refreshed.'",
+      "correct": "prosper",
+      "wrong": ["thrive", "succeed", "flourish"],
+      "hint": "This means to do well or succeed",
+      "explanation": "Generosity brings blessings back to the giver.",
+      "full_verse": "A generous person will prosper; whoever refreshes others will be refreshed.",
+      "verse_ref": "Proverbs 11:25"
+    },
+    {
+      "id": "q_proverbs_011",
+      "question": "Fill in the blank: 'Honor the LORD with your wealth, with the _____ of all your crops.'",
+      "correct": "firstfruits",
+      "wrong": ["best", "tithe", "harvest"],
+      "hint": "This refers to the first portion of your harvest",
+      "explanation": "Giving God the first and best of our income shows trust and gratitude.",
+      "full_verse": "Honor the LORD with your wealth, with the firstfruits of all your crops.",
+      "verse_ref": "Proverbs 3:9"
+    },
+    {
+      "id": "q_proverbs_012",
+      "question": "Fill in the blank: 'Hatred stirs up conflict, but love covers over all _____.'",
+      "correct": "wrongs",
+      "wrong": ["sins", "faults", "offenses"],
+      "hint": "This refers to mistakes or offenses",
+      "explanation": "Love chooses to forgive rather than hold grudges.",
+      "full_verse": "Hatred stirs up conflict, but love covers over all wrongs.",
+      "verse_ref": "Proverbs 10:12"
+    },
+    {
+      "id": "q_proverbs_013",
+      "question": "Fill in the blank: 'When pride comes, then comes _____; but with humility comes wisdom.'",
+      "correct": "disgrace",
+      "wrong": ["shame", "downfall", "destruction"],
+      "hint": "This is the opposite of honor",
+      "explanation": "Pride leads to shame, while humility leads to wisdom.",
+      "full_verse": "When pride comes, then comes disgrace, but with humility comes wisdom.",
+      "verse_ref": "Proverbs 11:2"
+    },
+    {
+      "id": "q_proverbs_014",
+      "question": "Fill in the blank: 'Anxiety weighs down the heart, but a kind word cheers it _____.'",
+      "correct": "up",
+      "wrong": ["along", "greatly", "always"],
+      "hint": "This small word indicates the direction of lifting",
+      "explanation": "Encouraging words have the power to lift spirits weighed down by worry.",
+      "full_verse": "Anxiety weighs down the heart, but a kind word cheers it up.",
+      "verse_ref": "Proverbs 12:25"
+    },
+    {
+      "id": "q_proverbs_015",
+      "question": "Fill in the blank: 'Hope deferred makes the heart sick, but a longing fulfilled is a tree of _____.'",
+      "correct": "life",
+      "wrong": ["joy", "hope", "blessing"],
+      "hint": "This is what the tree provides",
+      "explanation": "Delayed hopes can be discouraging, but fulfilled desires bring vitality and joy.",
+      "full_verse": "Hope deferred makes the heart sick, but a longing fulfilled is a tree of life.",
+      "verse_ref": "Proverbs 13:12"
+    },
+    {
+      "id": "q_proverbs_016",
+      "question": "Fill in the blank: 'There is a way that appears to be right, but in the end it leads to _____.'",
+      "correct": "death",
+      "wrong": ["ruin", "destruction", "darkness"],
+      "hint": "This is the ultimate consequence",
+      "explanation": "Human judgment can be deceived; what seems right may lead to destruction.",
+      "full_verse": "There is a way that appears to be right, but in the end it leads to death.",
+      "verse_ref": "Proverbs 14:12"
+    },
+    {
+      "id": "q_proverbs_017",
+      "question": "Fill in the blank: 'A gentle answer turns away wrath, but a harsh word stirs up _____.'",
+      "correct": "anger",
+      "wrong": ["strife", "conflict", "fury"],
+      "hint": "This emotion is provoked by harsh words",
+      "explanation": "How we respond can either defuse or escalate conflict.",
+      "full_verse": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
+      "verse_ref": "Proverbs 15:1"
+    },
+    {
+      "id": "q_proverbs_018",
+      "question": "Fill in the blank: 'In their hearts humans plan their course, but the LORD establishes their _____.'",
+      "correct": "steps",
+      "wrong": ["paths", "ways", "plans"],
+      "hint": "This refers to individual movements forward",
+      "explanation": "We can make plans, but God ultimately directs our path.",
+      "full_verse": "In their hearts humans plan their course, but the LORD establishes their steps.",
+      "verse_ref": "Proverbs 16:9"
+    },
+    {
+      "id": "q_proverbs_019",
+      "question": "Fill in the blank: 'A friend loves at all times, and a brother is born for a time of _____.'",
+      "correct": "adversity",
+      "wrong": ["trouble", "need", "hardship"],
+      "hint": "This word means difficult circumstances",
+      "explanation": "True friends and family are there during difficult times.",
+      "full_verse": "A friend loves at all times, and a brother is born for a time of adversity.",
+      "verse_ref": "Proverbs 17:17"
+    },
+    {
+      "id": "q_proverbs_020",
+      "question": "Fill in the blank: 'One who has unreliable friends soon comes to ruin, but there is a friend who sticks closer than a _____.'",
+      "correct": "brother",
+      "wrong": ["father", "mother", "sister"],
+      "hint": "This is a male family member",
+      "explanation": "True friendship can be even closer than family bonds.",
+      "full_verse": "One who has unreliable friends soon comes to ruin, but there is a friend who sticks closer than a brother.",
+      "verse_ref": "Proverbs 18:24"
+    },
+    {
+      "id": "q_proverbs_021",
+      "question": "Fill in the blank: 'Many are the plans in a person's heart, but it is the LORD's _____ that prevails.'",
+      "correct": "purpose",
+      "wrong": ["will", "plan", "way"],
+      "hint": "This refers to God's intention or design",
+      "explanation": "Human plans are many, but God's sovereign purpose will ultimately be accomplished.",
+      "full_verse": "Many are the plans in a person's heart, but it is the LORD's purpose that prevails.",
+      "verse_ref": "Proverbs 19:21"
+    },
+    {
+      "id": "q_proverbs_022",
+      "question": "Fill in the blank: 'The righteous lead blameless lives; blessed are their _____ after them.'",
+      "correct": "children",
+      "wrong": ["families", "descendants", "offspring"],
+      "hint": "These are the sons and daughters",
+      "explanation": "A righteous life leaves a positive legacy for future generations.",
+      "full_verse": "The righteous lead blameless lives; blessed are their children after them.",
+      "verse_ref": "Proverbs 20:7"
+    },
+    {
+      "id": "q_proverbs_023",
+      "question": "Fill in the blank: 'Whoever pursues righteousness and love finds life, _____, and honor.'",
+      "correct": "prosperity",
+      "wrong": ["peace", "joy", "blessing"],
+      "hint": "This word means success and flourishing",
+      "explanation": "Pursuing righteousness and love leads to a full and blessed life.",
+      "full_verse": "Whoever pursues righteousness and love finds life, prosperity, and honor.",
+      "verse_ref": "Proverbs 21:21"
+    },
+    {
+      "id": "q_proverbs_024",
+      "question": "Fill in the blank: 'A good name is more desirable than great _____; to be esteemed is better than silver or gold.'",
+      "correct": "riches",
+      "wrong": ["wealth", "treasure", "fortune"],
+      "hint": "This word refers to abundant wealth",
+      "explanation": "Character and reputation are more valuable than material wealth.",
+      "full_verse": "A good name is more desirable than great riches; to be esteemed is better than silver or gold.",
+      "verse_ref": "Proverbs 22:1"
+    },
+    {
+      "id": "q_proverbs_025",
+      "question": "Fill in the blank: 'Apply your heart to instruction and your ears to words of _____.'",
+      "correct": "knowledge",
+      "wrong": ["wisdom", "truth", "understanding"],
+      "hint": "This is what instruction aims to impart",
+      "explanation": "We should eagerly receive both instruction and knowledge.",
+      "full_verse": "Apply your heart to instruction and your ears to words of knowledge.",
+      "verse_ref": "Proverbs 23:12"
+    },
+    {
+      "id": "q_proverbs_026",
+      "question": "Fill in the blank: 'For though the righteous fall seven times, they rise _____; but the wicked stumble when calamity strikes.'",
+      "correct": "again",
+      "wrong": ["up", "quickly", "always"],
+      "hint": "This word indicates repetition after falling",
+      "explanation": "The righteous demonstrate resilience, getting back up after failures.",
+      "full_verse": "For though the righteous fall seven times, they rise again, but the wicked stumble when calamity strikes.",
+      "verse_ref": "Proverbs 24:16"
+    },
+    {
+      "id": "q_proverbs_027",
+      "question": "Fill in the blank: 'A word aptly spoken is like apples of gold in settings of _____.'",
+      "correct": "silver",
+      "wrong": ["gold", "jewels", "bronze"],
+      "hint": "This precious metal provides the setting",
+      "explanation": "Well-timed, appropriate words are beautiful and valuable.",
+      "full_verse": "A word aptly spoken is like apples of gold in settings of silver.",
+      "verse_ref": "Proverbs 25:11"
+    },
+    {
+      "id": "q_proverbs_028",
+      "question": "Fill in the blank: 'Without wood a fire goes out; without a _____ a quarrel dies down.'",
+      "correct": "gossip",
+      "wrong": ["rumor", "tale", "whisper"],
+      "hint": "This refers to someone who spreads rumors",
+      "explanation": "Conflict is sustained by those who spread negative talk about others.",
+      "full_verse": "Without wood a fire goes out; without a gossip a quarrel dies down.",
+      "verse_ref": "Proverbs 26:20"
+    },
+    {
+      "id": "q_proverbs_029",
+      "question": "Fill in the blank: 'Do not boast about _____; for you do not know what a day may bring.'",
+      "correct": "tomorrow",
+      "wrong": ["yourself", "the future", "your plans"],
+      "hint": "This refers to the next day",
+      "explanation": "We should not presume upon the future, as it is uncertain.",
+      "full_verse": "Do not boast about tomorrow, for you do not know what a day may bring.",
+      "verse_ref": "Proverbs 27:1"
+    },
+    {
+      "id": "q_proverbs_030",
+      "question": "Fill in the blank: 'Whoever conceals their sins does not prosper, but the one who confesses and renounces them finds _____.'",
+      "correct": "mercy",
+      "wrong": ["grace", "forgiveness", "peace"],
+      "hint": "This is compassionate treatment",
+      "explanation": "Confession and repentance lead to God's mercy.",
+      "full_verse": "Whoever conceals their sins does not prosper, but the one who confesses and renounces them finds mercy.",
+      "verse_ref": "Proverbs 28:13"
+    },
+    {
+      "id": "q_proverbs_031",
+      "question": "Fill in the blank: 'Fear of man will prove to be a _____; but whoever trusts in the LORD is kept safe.'",
+      "correct": "snare",
+      "wrong": ["trap", "burden", "curse"],
+      "hint": "This is something that catches and traps",
+      "explanation": "Being controlled by what others think can trap us, but trusting God brings security.",
+      "full_verse": "Fear of man will prove to be a snare, but whoever trusts in the LORD is kept safe.",
+      "verse_ref": "Proverbs 29:25"
+    },
+    {
+      "id": "q_proverbs_032",
+      "question": "Fill in the blank: 'Every word of God is _____; he is a shield to those who take refuge in him.'",
+      "correct": "flawless",
+      "wrong": ["pure", "true", "perfect"],
+      "hint": "This means without any defects",
+      "explanation": "God's Word is completely reliable and trustworthy.",
+      "full_verse": "Every word of God is flawless; he is a shield to those who take refuge in him.",
+      "verse_ref": "Proverbs 30:5"
+    },
+    {
+      "id": "q_proverbs_033",
+      "question": "Fill in the blank: 'For the LORD gives wisdom; from his mouth come knowledge and _____.'",
+      "correct": "understanding",
+      "wrong": ["truth", "insight", "discernment"],
+      "hint": "This is the ability to comprehend",
+      "explanation": "True wisdom, knowledge, and understanding all come from God.",
+      "full_verse": "For the LORD gives wisdom; from his mouth come knowledge and understanding.",
+      "verse_ref": "Proverbs 2:6"
+    },
+    {
+      "id": "q_proverbs_034",
+      "question": "Fill in the blank: 'My son, do not despise the LORD's discipline, and do not resent his _____.'",
+      "correct": "rebuke",
+      "wrong": ["correction", "punishment", "guidance"],
+      "hint": "This is a sharp expression of disapproval",
+      "explanation": "God disciplines those He loves, and we should accept His correction.",
+      "full_verse": "My son, do not despise the LORD's discipline, and do not resent his rebuke, because the LORD disciplines those he loves, as a father the son he delights in.",
+      "verse_ref": "Proverbs 3:11-12"
+    },
+    {
+      "id": "q_proverbs_035",
+      "question": "Fill in the blank: 'The beginning of wisdom is this: Get _____. Though it cost all you have, get understanding.'",
+      "correct": "wisdom",
+      "wrong": ["knowledge", "insight", "understanding"],
+      "hint": "This is what the verse says to obtain",
+      "explanation": "Wisdom is so valuable that it's worth pursuing at any cost.",
+      "full_verse": "The beginning of wisdom is this: Get wisdom. Though it cost all you have, get understanding.",
+      "verse_ref": "Proverbs 4:7"
+    },
+    {
+      "id": "q_proverbs_036",
+      "question": "Fill in the blank: 'There are six things the LORD hates, seven that are detestable to him: haughty eyes, a lying tongue, hands that shed innocent blood, a heart that devises wicked schemes, feet that are quick to rush into _____, a false witness who pours out lies, and a person who stirs up conflict in the community.'",
+      "correct": "evil",
+      "wrong": ["sin", "trouble", "mischief"],
+      "hint": "This is the opposite of good",
+      "explanation": "God hates various forms of wickedness, including those eager to do wrong.",
+      "full_verse": "There are six things the LORD hates, seven that are detestable to him: haughty eyes, a lying tongue, hands that shed innocent blood, a heart that devises wicked schemes, feet that are quick to rush into evil, a false witness who pours out lies and a person who stirs up conflict in the community.",
+      "verse_ref": "Proverbs 6:16-19"
+    },
+    {
+      "id": "q_proverbs_037",
+      "question": "Fill in the blank: 'The fear of the LORD is the beginning of wisdom, and knowledge of the Holy One is _____.'",
+      "correct": "understanding",
+      "wrong": ["wisdom", "insight", "discernment"],
+      "hint": "This is the ability to comprehend deeply",
+      "explanation": "True wisdom begins with reverence for God, and knowing Him brings understanding.",
+      "full_verse": "The fear of the LORD is the beginning of wisdom, and knowledge of the Holy One is understanding.",
+      "verse_ref": "Proverbs 9:10"
+    },
+    {
+      "id": "q_proverbs_038",
+      "question": "Fill in the blank: 'The blessing of the LORD brings wealth, without painful _____ for it.'",
+      "correct": "toil",
+      "wrong": ["labor", "work", "effort"],
+      "hint": "This is hard, exhausting work",
+      "explanation": "God's blessing brings prosperity without the burden of anxious striving.",
+      "full_verse": "The blessing of the LORD brings wealth, without painful toil for it.",
+      "verse_ref": "Proverbs 10:22"
+    },
+    {
+      "id": "q_proverbs_039",
+      "question": "Fill in the blank: 'For lack of guidance a nation falls, but victory is won through many _____.'",
+      "correct": "advisers",
+      "wrong": ["counselors", "leaders", "elders"],
+      "hint": "These are people who give advice",
+      "explanation": "Wise counsel from many sources leads to success.",
+      "full_verse": "For lack of guidance a nation falls, but victory is won through many advisers.",
+      "verse_ref": "Proverbs 11:14"
+    },
+    {
+      "id": "q_proverbs_040",
+      "question": "Fill in the blank: 'The way of fools seems right to them, but the wise listen to _____.'",
+      "correct": "advice",
+      "wrong": ["counsel", "wisdom", "others"],
+      "hint": "This is guidance or recommendations from others",
+      "explanation": "Fools trust their own judgment; the wise seek and heed counsel.",
+      "full_verse": "The way of fools seems right to them, but the wise listen to advice.",
+      "verse_ref": "Proverbs 12:15"
+    },
+    {
+      "id": "q_proverbs_041",
+      "question": "Fill in the blank: 'Whoever is patient has great understanding, but one who is quick-tempered displays _____.'",
+      "correct": "folly",
+      "wrong": ["anger", "foolishness", "pride"],
+      "hint": "This is the opposite of wisdom",
+      "explanation": "Patience reflects wisdom, while a quick temper shows foolishness.",
+      "full_verse": "Whoever is patient has great understanding, but one who is quick-tempered displays folly.",
+      "verse_ref": "Proverbs 14:29"
+    },
+    {
+      "id": "q_proverbs_042",
+      "question": "Fill in the blank: 'Plans fail for lack of _____; but with many advisers they succeed.'",
+      "correct": "counsel",
+      "wrong": ["advice", "guidance", "wisdom"],
+      "hint": "This is advice or guidance",
+      "explanation": "Seeking wise counsel helps ensure success in our plans.",
+      "full_verse": "Plans fail for lack of counsel, but with many advisers they succeed.",
+      "verse_ref": "Proverbs 15:22"
+    },
+    {
+      "id": "q_proverbs_043",
+      "question": "Fill in the blank: 'Pride goes before destruction, a haughty spirit before a _____.'",
+      "correct": "fall",
+      "wrong": ["crash", "ruin", "defeat"],
+      "hint": "This is a sudden drop or collapse",
+      "explanation": "Pride leads to destruction and downfall.",
+      "full_verse": "Pride goes before destruction, a haughty spirit before a fall.",
+      "verse_ref": "Proverbs 16:18"
+    },
+    {
+      "id": "q_proverbs_044",
+      "question": "Fill in the blank: 'A cheerful heart is good _____; but a crushed spirit dries up the bones.'",
+      "correct": "medicine",
+      "wrong": ["healing", "therapy", "remedy"],
+      "hint": "This is something that heals",
+      "explanation": "Joy and cheerfulness have a healing effect on our whole being.",
+      "full_verse": "A cheerful heart is good medicine, but a crushed spirit dries up the bones.",
+      "verse_ref": "Proverbs 17:22"
+    },
+    {
+      "id": "q_proverbs_045",
+      "question": "Fill in the blank: 'Whoever is kind to the poor lends to the _____; and he will reward them for what they have done.'",
+      "correct": "LORD",
+      "wrong": ["God", "Most High", "Almighty"],
+      "hint": "This is the covenant name of God",
+      "explanation": "Helping the poor is like lending to God, who promises to repay.",
+      "full_verse": "Whoever is kind to the poor lends to the LORD, and he will reward them for what they have done.",
+      "verse_ref": "Proverbs 19:17"
+    },
+    {
+      "id": "q_proverbs_046",
+      "question": "Fill in the blank: 'Do not say, \"I'll pay you back for this wrong!\" Wait for the LORD, and he will _____ you.'",
+      "correct": "avenge",
+      "wrong": ["help", "save", "deliver"],
+      "hint": "This means to take revenge on someone's behalf",
+      "explanation": "Rather than seeking revenge, we should trust God to bring justice.",
+      "full_verse": "Do not say, \"I'll pay you back for this wrong!\" Wait for the LORD, and he will avenge you.",
+      "verse_ref": "Proverbs 20:22"
+    },
+    {
+      "id": "q_proverbs_047",
+      "question": "Fill in the blank: 'To do what is right and just is more acceptable to the LORD than _____.'",
+      "correct": "sacrifice",
+      "wrong": ["offerings", "worship", "prayer"],
+      "hint": "This is a religious offering",
+      "explanation": "God values righteous living over religious rituals.",
+      "full_verse": "To do what is right and just is more acceptable to the LORD than sacrifice.",
+      "verse_ref": "Proverbs 21:3"
+    },
+    {
+      "id": "q_proverbs_048",
+      "question": "Fill in the blank: 'Humility is the fear of the LORD; its wages are riches and _____ and life.'",
+      "correct": "honor",
+      "wrong": ["glory", "blessing", "peace"],
+      "hint": "This is high respect or esteem",
+      "explanation": "Humility and reverence for God lead to rich rewards including honor and life.",
+      "full_verse": "Humility is the fear of the LORD; its wages are riches and honor and life.",
+      "verse_ref": "Proverbs 22:4"
+    },
+    {
+      "id": "q_proverbs_049",
+      "question": "Fill in the blank: 'A wife of noble character who can find? She is worth far more than _____.'",
+      "correct": "rubies",
+      "wrong": ["gold", "silver", "jewels"],
+      "hint": "These are precious red gemstones",
+      "explanation": "A virtuous wife is more valuable than precious gems.",
+      "full_verse": "A wife of noble character who can find? She is worth far more than rubies.",
+      "verse_ref": "Proverbs 31:10"
+    },
+    {
+      "id": "q_proverbs_050",
+      "question": "Fill in the blank: 'Do not be wise in your own eyes; fear the LORD and shun _____.'",
+      "correct": "evil",
+      "wrong": ["sin", "wickedness", "wrong"],
+      "hint": "This is what we should avoid",
+      "explanation": "True wisdom involves fearing God and turning away from evil.",
+      "full_verse": "Do not be wise in your own eyes; fear the LORD and shun evil.",
+      "verse_ref": "Proverbs 3:7"
+    }
+  ]
+}

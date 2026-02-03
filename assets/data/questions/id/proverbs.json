@@ -1,1 +1,452 @@
-{}
+{
+  "q_proverbs_001": {
+    "question": "Isilah bagian yang kosong: 'Percayalah kepada TUHAN dengan segenap hatimu, dan janganlah bersandar kepada _____ sendiri.'",
+    "correct": "pengertianmu",
+    "wrong": ["hikmatmu", "pengetahuanmu", "kekuatanmu"],
+    "hint": "Kata ini berkaitan dengan akal dan penalaran manusia",
+    "explanation": "Kita dipanggil untuk mempercayai Allah sepenuhnya daripada mengandalkan pengertian manusia kita yang terbatas.",
+    "full_verse": "Percayalah kepada TUHAN dengan segenap hatimu, dan janganlah bersandar kepada pengertianmu sendiri. Akuilah Dia dalam segala lakumu, maka Ia akan meluruskan jalanmu.",
+    "verse_ref": "Amsal 3:5-6"
+  },
+  "q_proverbs_002": {
+    "question": "Isilah bagian yang kosong: 'Takut akan TUHAN adalah permulaan pengetahuan, tetapi orang bodoh menghina _____ dan didikan.'",
+    "correct": "hikmat",
+    "wrong": ["pengertian", "pengetahuan", "iman"],
+    "hint": "Ini adalah apa yang orang bodoh hina bersama dengan didikan",
+    "explanation": "Takut akan Allah adalah dasar dari semua pengetahuan sejati.",
+    "full_verse": "Takut akan TUHAN adalah permulaan pengetahuan, tetapi orang bodoh menghina hikmat dan didikan.",
+    "verse_ref": "Amsal 1:7"
+  },
+  "q_proverbs_003": {
+    "question": "Isilah bagian yang kosong: 'Didiklah orang muda menurut jalan yang patut baginya, maka pada masa tuanya pun ia tidak akan menyimpang dari pada _____.'",
+    "correct": "jalan itu",
+    "wrong": ["pemuda", "murid", "orang percaya"],
+    "hint": "Ini mengacu pada anak-anak yang sedang dibesarkan",
+    "explanation": "Pelatihan rohani sejak dini memiliki efek yang bertahan sepanjang hidup seseorang.",
+    "full_verse": "Didiklah orang muda menurut jalan yang patut baginya, maka pada masa tuanya pun ia tidak akan menyimpang dari pada jalan itu.",
+    "verse_ref": "Amsal 22:6"
+  },
+  "q_proverbs_004": {
+    "question": "Isilah bagian yang kosong: 'Serahkanlah perbuatanmu kepada TUHAN, maka terlaksanalah segala _____.'",
+    "correct": "rencanamu",
+    "wrong": ["jalanmu", "langkahmu", "pekerjaanmu"],
+    "hint": "Kata ini mengacu pada niat untuk masa depan",
+    "explanation": "Ketika kita mendedikasikan pekerjaan kita kepada Allah, Ia membimbing dan meneguhkan niat kita.",
+    "full_verse": "Serahkanlah perbuatanmu kepada TUHAN, maka terlaksanalah segala rencanamu.",
+    "verse_ref": "Amsal 16:3"
+  },
+  "q_proverbs_005": {
+    "question": "Isilah bagian yang kosong: 'Janganlah kiranya kasih dan setia meninggalkan engkau! Kalungkanlah semuanya itu pada lehermu, tuliskanlah itu pada loh _____.'",
+    "correct": "hatimu",
+    "wrong": ["kebenaran", "belas kasihan", "kebaikan"],
+    "hint": "Kebajikan ini berkaitan dengan kesetiaan dan dapat diandalkan",
+    "explanation": "Kasih dan kesetiaan harus menjadi teman yang tetap, membentuk karakter kita.",
+    "full_verse": "Janganlah kiranya kasih dan setia meninggalkan engkau! Kalungkanlah semuanya itu pada lehermu, tuliskanlah itu pada loh hatimu.",
+    "verse_ref": "Amsal 3:3"
+  },
+  "q_proverbs_006": {
+    "question": "Isilah bagian yang kosong: 'Jagalah hatimu dengan segala kewaspadaan, karena dari situlah terpancar kehidupan.'",
+    "correct": "hatimu",
+    "wrong": ["pikiranmu", "jiwamu", "lidahmu"],
+    "hint": "Ini adalah pusat keberadaan dan emosi",
+    "explanation": "Hati adalah sumber kehidupan, mempengaruhi semua pikiran, kata-kata, dan tindakan kita.",
+    "full_verse": "Jagalah hatimu dengan segala kewaspadaan, karena dari situlah terpancar kehidupan.",
+    "verse_ref": "Amsal 4:23"
+  },
+  "q_proverbs_007": {
+    "question": "Isilah bagian yang kosong: 'Nama TUHAN adalah menara yang kuat, ke sanalah orang benar berlari dan ia menjadi _____.'",
+    "correct": "selamat",
+    "wrong": ["kota", "benteng", "perlindungan"],
+    "hint": "Ini adalah struktur tinggi yang digunakan untuk pertahanan",
+    "explanation": "Nama Allah mewakili karakter dan kuasa-Nya, memberikan perlindungan bagi mereka yang percaya kepada-Nya.",
+    "full_verse": "Nama TUHAN adalah menara yang kuat, ke sanalah orang benar berlari dan ia menjadi selamat.",
+    "verse_ref": "Amsal 18:10"
+  },
+  "q_proverbs_008": {
+    "question": "Isilah bagian yang kosong: 'Besi menajamkan besi, orang menajamkan sesamanya.'",
+    "correct": "sesamanya",
+    "wrong": ["dirinya", "orang lain", "teman-temannya"],
+    "hint": "Ini mengacu pada satu individu lain",
+    "explanation": "Hubungan yang sehat membantu kita bertumbuh dan berkembang melalui dorongan dan tantangan timbal balik.",
+    "full_verse": "Besi menajamkan besi, orang menajamkan sesamanya.",
+    "verse_ref": "Amsal 27:17"
+  },
+  "q_proverbs_009": {
+    "question": "Isilah bagian yang kosong: 'Kemolekan adalah bohong dan kecantikan adalah sia-sia, tetapi isteri yang takut akan TUHAN dipuji-_____.'",
+    "correct": "puji",
+    "wrong": ["dihormati", "diberkati", "dikasihi"],
+    "hint": "Ini berarti dipuji atau dirayakan",
+    "explanation": "Nilai sejati ditemukan dalam takut akan Allah, bukan penampilan lahiriah.",
+    "full_verse": "Kemolekan adalah bohong dan kecantikan adalah sia-sia, tetapi isteri yang takut akan TUHAN dipuji-puji.",
+    "verse_ref": "Amsal 31:30"
+  },
+  "q_proverbs_010": {
+    "question": "Isilah bagian yang kosong: 'Orang yang murah hati menjadi _____; orang yang memberi minum akan diberi minum.'",
+    "correct": "kaya",
+    "wrong": ["makmur", "berhasil", "berkembang"],
+    "hint": "Ini berarti berhasil atau makmur",
+    "explanation": "Kemurahan hati membawa berkat kembali kepada pemberi.",
+    "full_verse": "Orang yang murah hati menjadi kaya; orang yang memberi minum akan diberi minum.",
+    "verse_ref": "Amsal 11:25"
+  },
+  "q_proverbs_011": {
+    "question": "Isilah bagian yang kosong: 'Muliakanlah TUHAN dengan hartamu dan dengan hasil pertama dari segala _____.'",
+    "correct": "penghasilanmu",
+    "wrong": ["terbaik", "persepuluhan", "panen"],
+    "hint": "Ini mengacu pada bagian pertama dari panenmu",
+    "explanation": "Memberi Allah bagian pertama dan terbaik dari penghasilan kita menunjukkan kepercayaan dan rasa syukur.",
+    "full_verse": "Muliakanlah TUHAN dengan hartamu dan dengan hasil pertama dari segala penghasilanmu.",
+    "verse_ref": "Amsal 3:9"
+  },
+  "q_proverbs_012": {
+    "question": "Isilah bagian yang kosong: 'Kebencian menimbulkan pertengkaran, tetapi kasih menutupi segala _____.'",
+    "correct": "pelanggaran",
+    "wrong": ["dosa", "kesalahan", "pelanggaran"],
+    "hint": "Ini mengacu pada kesalahan atau pelanggaran",
+    "explanation": "Kasih memilih untuk mengampuni daripada menyimpan dendam.",
+    "full_verse": "Kebencian menimbulkan pertengkaran, tetapi kasih menutupi segala pelanggaran.",
+    "verse_ref": "Amsal 10:12"
+  },
+  "q_proverbs_013": {
+    "question": "Isilah bagian yang kosong: 'Jika kesombongan tiba, kedatanganlah _____; tetapi hikmat ada pada orang yang rendah hati.'",
+    "correct": "cemooh",
+    "wrong": ["malu", "kejatuhan", "kehancuran"],
+    "hint": "Ini adalah kebalikan dari kehormatan",
+    "explanation": "Kesombongan membawa aib, sementara kerendahan hati membawa hikmat.",
+    "full_verse": "Jika kesombongan tiba, kedatanganlah cemooh, tetapi hikmat ada pada orang yang rendah hati.",
+    "verse_ref": "Amsal 11:2"
+  },
+  "q_proverbs_014": {
+    "question": "Isilah bagian yang kosong: 'Kekuatiran dalam hati membungkukkan orang, tetapi perkataan yang baik menggembirakan _____.'",
+    "correct": "dia",
+    "wrong": ["sepanjang", "sangat", "selalu"],
+    "hint": "Kata kecil ini menunjukkan arah mengangkat",
+    "explanation": "Kata-kata yang menggembirakan memiliki kuasa untuk mengangkat semangat yang tertekan oleh kekhawatiran.",
+    "full_verse": "Kekuatiran dalam hati membungkukkan orang, tetapi perkataan yang baik menggembirakan dia.",
+    "verse_ref": "Amsal 12:25"
+  },
+  "q_proverbs_015": {
+    "question": "Isilah bagian yang kosong: 'Pengharapan yang tertunda memuakkan hati, tetapi keinginan yang terpenuhi adalah pohon _____.'",
+    "correct": "kehidupan",
+    "wrong": ["sukacita", "harapan", "berkat"],
+    "hint": "Ini adalah apa yang pohon berikan",
+    "explanation": "Harapan yang tertunda dapat mengecewakan, tetapi keinginan yang terpenuhi membawa vitalitas dan sukacita.",
+    "full_verse": "Pengharapan yang tertunda memuakkan hati, tetapi keinginan yang terpenuhi adalah pohon kehidupan.",
+    "verse_ref": "Amsal 13:12"
+  },
+  "q_proverbs_016": {
+    "question": "Isilah bagian yang kosong: 'Ada jalan yang disangka lurus, tetapi ujungnya menuju maut.'",
+    "correct": "maut",
+    "wrong": ["kehancuran", "kebinasaan", "kegelapan"],
+    "hint": "Ini adalah konsekuensi tertinggi",
+    "explanation": "Penilaian manusia bisa tertipu; apa yang tampak benar bisa menuju kehancuran.",
+    "full_verse": "Ada jalan yang disangka lurus, tetapi ujungnya menuju maut.",
+    "verse_ref": "Amsal 14:12"
+  },
+  "q_proverbs_017": {
+    "question": "Isilah bagian yang kosong: 'Jawaban yang lembut meredakan kegeraman, tetapi perkataan yang pedas membangkitkan _____.'",
+    "correct": "marah",
+    "wrong": ["perselisihan", "konflik", "murka"],
+    "hint": "Emosi ini diprovokasi oleh kata-kata kasar",
+    "explanation": "Bagaimana kita merespons dapat meredakan atau meningkatkan konflik.",
+    "full_verse": "Jawaban yang lembut meredakan kegeraman, tetapi perkataan yang pedas membangkitkan marah.",
+    "verse_ref": "Amsal 15:1"
+  },
+  "q_proverbs_018": {
+    "question": "Isilah bagian yang kosong: 'Hati manusia memikir-mikirkan jalannya, tetapi Tuhanlah yang menentukan arah _____.'",
+    "correct": "langkahnya",
+    "wrong": ["jalannya", "caranya", "rencananya"],
+    "hint": "Ini mengacu pada gerakan individu ke depan",
+    "explanation": "Kita dapat membuat rencana, tetapi Allah pada akhirnya mengarahkan jalan kita.",
+    "full_verse": "Hati manusia memikir-mikirkan jalannya, tetapi Tuhanlah yang menentukan arah langkahnya.",
+    "verse_ref": "Amsal 16:9"
+  },
+  "q_proverbs_019": {
+    "question": "Isilah bagian yang kosong: 'Seorang sahabat menaruh kasih setiap waktu, dan menjadi saudara dalam kesukaran.'",
+    "correct": "kesukaran",
+    "wrong": ["kesulitan", "kebutuhan", "kesusahan"],
+    "hint": "Kata ini berarti keadaan yang sulit",
+    "explanation": "Teman dan keluarga sejati ada di saat masa-masa sulit.",
+    "full_verse": "Seorang sahabat menaruh kasih setiap waktu, dan menjadi saudara dalam kesukaran.",
+    "verse_ref": "Amsal 17:17"
+  },
+  "q_proverbs_020": {
+    "question": "Isilah bagian yang kosong: 'Ada teman yang mendatangkan kecelakaan, tetapi ada juga sahabat yang lebih karib dari pada _____.'",
+    "correct": "saudara",
+    "wrong": ["ayah", "ibu", "saudari"],
+    "hint": "Ini adalah anggota keluarga laki-laki",
+    "explanation": "Persahabatan sejati bisa lebih dekat dari ikatan keluarga.",
+    "full_verse": "Ada teman yang mendatangkan kecelakaan, tetapi ada juga sahabat yang lebih karib dari pada saudara.",
+    "verse_ref": "Amsal 18:24"
+  },
+  "q_proverbs_021": {
+    "question": "Isilah bagian yang kosong: 'Banyaklah rancangan di hati manusia, tetapi keputusan Tuhanlah yang _____.'",
+    "correct": "terlaksana",
+    "wrong": ["kehendak", "rencana", "cara"],
+    "hint": "Ini mengacu pada niat atau rancangan Allah",
+    "explanation": "Rencana manusia banyak, tetapi tujuan berdaulat Allah pada akhirnya akan tercapai.",
+    "full_verse": "Banyaklah rancangan di hati manusia, tetapi keputusan Tuhanlah yang terlaksana.",
+    "verse_ref": "Amsal 19:21"
+  },
+  "q_proverbs_022": {
+    "question": "Isilah bagian yang kosong: 'Orang benar berjalan dengan tidak bercela; berbahagialah keturunannya yang kemudian.'",
+    "correct": "keturunannya",
+    "wrong": ["keluarganya", "anak-anaknya", "bangsanya"],
+    "hint": "Ini adalah putra dan putri",
+    "explanation": "Kehidupan yang benar meninggalkan warisan positif untuk generasi mendatang.",
+    "full_verse": "Orang benar berjalan dengan tidak bercela; berbahagialah keturunannya yang kemudian.",
+    "verse_ref": "Amsal 20:7"
+  },
+  "q_proverbs_023": {
+    "question": "Isilah bagian yang kosong: 'Siapa mengejar kebenaran dan kasih akan memperoleh kehidupan, _____ dan kehormatan.'",
+    "correct": "kebenaran",
+    "wrong": ["damai", "sukacita", "berkat"],
+    "hint": "Kata ini berarti sukses dan berkembang",
+    "explanation": "Mengejar kebenaran dan kasih membawa kehidupan yang penuh dan diberkati.",
+    "full_verse": "Siapa mengejar kebenaran dan kasih akan memperoleh kehidupan, kebenaran dan kehormatan.",
+    "verse_ref": "Amsal 21:21"
+  },
+  "q_proverbs_024": {
+    "question": "Isilah bagian yang kosong: 'Nama baik lebih berharga dari pada kekayaan besar, dikasihi orang lebih baik dari pada perak dan _____.'",
+    "correct": "emas",
+    "wrong": ["harta", "harta karun", "keberuntungan"],
+    "hint": "Kata ini mengacu pada kekayaan yang melimpah",
+    "explanation": "Karakter dan reputasi lebih berharga dari kekayaan materi.",
+    "full_verse": "Nama baik lebih berharga dari pada kekayaan besar, dikasihi orang lebih baik dari pada perak dan emas.",
+    "verse_ref": "Amsal 22:1"
+  },
+  "q_proverbs_025": {
+    "question": "Isilah bagian yang kosong: 'Terapkanlah hatimu kepada didikan, dan telingamu kepada kata-kata _____.'",
+    "correct": "pengetahuan",
+    "wrong": ["hikmat", "kebenaran", "pengertian"],
+    "hint": "Ini adalah apa yang didikan bertujuan untuk menanamkan",
+    "explanation": "Kita harus dengan penuh semangat menerima baik didikan maupun pengetahuan.",
+    "full_verse": "Terapkanlah hatimu kepada didikan, dan telingamu kepada kata-kata pengetahuan.",
+    "verse_ref": "Amsal 23:12"
+  },
+  "q_proverbs_026": {
+    "question": "Isilah bagian yang kosong: 'Karena tujuh kali orang benar jatuh dan ia bangun kembali, tetapi orang fasik akan roboh dalam bencana.'",
+    "correct": "kembali",
+    "wrong": ["naik", "cepat", "selalu"],
+    "hint": "Kata ini menunjukkan pengulangan setelah jatuh",
+    "explanation": "Orang benar menunjukkan ketahanan, bangkit kembali setelah kegagalan.",
+    "full_verse": "Karena tujuh kali orang benar jatuh dan ia bangun kembali, tetapi orang fasik akan roboh dalam bencana.",
+    "verse_ref": "Amsal 24:16"
+  },
+  "q_proverbs_027": {
+    "question": "Isilah bagian yang kosong: 'Perkataan yang diucapkan tepat pada waktunya adalah seperti buah apel emas di pinggan _____.'",
+    "correct": "perak",
+    "wrong": ["emas", "permata", "perunggu"],
+    "hint": "Logam mulia ini menyediakan wadah",
+    "explanation": "Kata-kata yang tepat waktu dan pantas indah dan berharga.",
+    "full_verse": "Perkataan yang diucapkan tepat pada waktunya adalah seperti buah apel emas di pinggan perak.",
+    "verse_ref": "Amsal 25:11"
+  },
+  "q_proverbs_028": {
+    "question": "Isilah bagian yang kosong: 'Tidak ada kayu, apipun padam, tidak ada si pemfitnah, perkelahianpun reda.'",
+    "correct": "pemfitnah",
+    "wrong": ["rumor", "cerita", "bisikan"],
+    "hint": "Ini mengacu pada seseorang yang menyebarkan rumor",
+    "explanation": "Konflik dipertahankan oleh mereka yang menyebarkan pembicaraan negatif tentang orang lain.",
+    "full_verse": "Tidak ada kayu, apipun padam, tidak ada si pemfitnah, perkelahianpun reda.",
+    "verse_ref": "Amsal 26:20"
+  },
+  "q_proverbs_029": {
+    "question": "Isilah bagian yang kosong: 'Janganlah bermegah-megah karena esok hari, karena engkau tidak tahu apa yang akan terjadi _____.'",
+    "correct": "hari ini",
+    "wrong": ["dirimu", "masa depan", "rencanamu"],
+    "hint": "Ini mengacu pada hari berikutnya",
+    "explanation": "Kita tidak boleh menganggap masa depan sebagai pasti, karena tidak ada yang tahu.",
+    "full_verse": "Janganlah bermegah-megah karena esok hari, karena engkau tidak tahu apa yang akan terjadi hari ini.",
+    "verse_ref": "Amsal 27:1"
+  },
+  "q_proverbs_030": {
+    "question": "Isilah bagian yang kosong: 'Siapa menyembunyikan pelanggarannya tidak akan beruntung, tetapi siapa mengakuinya dan meninggalkannya akan disayangi.'",
+    "correct": "disayangi",
+    "wrong": ["kasih karunia", "pengampunan", "damai"],
+    "hint": "Ini adalah perlakuan yang penuh belas kasihan",
+    "explanation": "Pengakuan dan pertobatan membawa rahmat Allah.",
+    "full_verse": "Siapa menyembunyikan pelanggarannya tidak akan beruntung, tetapi siapa mengakuinya dan meninggalkannya akan disayangi.",
+    "verse_ref": "Amsal 28:13"
+  },
+  "q_proverbs_031": {
+    "question": "Isilah bagian yang kosong: 'Takut terhadap manusia adalah suatu jerat, tetapi siapa yang percaya kepada TUHAN akan dilindungi.'",
+    "correct": "jerat",
+    "wrong": ["perangkap", "beban", "kutukan"],
+    "hint": "Ini adalah sesuatu yang menangkap dan menjerat",
+    "explanation": "Dikendalikan oleh apa yang orang lain pikirkan dapat menjerat kita, tetapi percaya kepada Allah membawa keamanan.",
+    "full_verse": "Takut terhadap manusia adalah suatu jerat, tetapi siapa yang percaya kepada TUHAN akan dilindungi.",
+    "verse_ref": "Amsal 29:25"
+  },
+  "q_proverbs_032": {
+    "question": "Isilah bagian yang kosong: 'Segala Firman Allah adalah murni. Ia adalah perisai bagi orang-orang yang berlindung pada-_____.'",
+    "correct": "Nya",
+    "wrong": ["murni", "benar", "sempurna"],
+    "hint": "Ini berarti tanpa cacat",
+    "explanation": "Firman Allah sepenuhnya dapat diandalkan dan dipercaya.",
+    "full_verse": "Segala Firman Allah adalah murni. Ia adalah perisai bagi orang-orang yang berlindung pada-Nya.",
+    "verse_ref": "Amsal 30:5"
+  },
+  "q_proverbs_033": {
+    "question": "Isilah bagian yang kosong: 'Karena Tuhanlah yang memberikan hikmat, dari mulut-Nya datang pengetahuan dan _____.'",
+    "correct": "kepandaian",
+    "wrong": ["kebenaran", "wawasan", "kebijaksanaan"],
+    "hint": "Ini adalah kemampuan untuk memahami",
+    "explanation": "Hikmat sejati, pengetahuan, dan pengertian semua datang dari Allah.",
+    "full_verse": "Karena Tuhanlah yang memberikan hikmat, dari mulut-Nya datang pengetahuan dan kepandaian.",
+    "verse_ref": "Amsal 2:6"
+  },
+  "q_proverbs_034": {
+    "question": "Isilah bagian yang kosong: 'Hai anakku, janganlah engkau menolak didikan TUHAN, dan janganlah engkau bosan akan _____.'",
+    "correct": "peringatan-Nya",
+    "wrong": ["koreksi-Nya", "hukuman-Nya", "bimbingan-Nya"],
+    "hint": "Ini adalah ekspresi tajam ketidaksetujuan",
+    "explanation": "Allah mendisiplin mereka yang Ia kasihi, dan kita harus menerima koreksi-Nya.",
+    "full_verse": "Hai anakku, janganlah engkau menolak didikan TUHAN, dan janganlah engkau bosan akan peringatan-Nya, karena TUHAN menghajar orang yang dikasihi-Nya, seperti seorang ayah menghajar anak yang disayanginya.",
+    "verse_ref": "Amsal 3:11-12"
+  },
+  "q_proverbs_035": {
+    "question": "Isilah bagian yang kosong: 'Permulaan hikmat adalah: Dapatkan hikmat, dengan segala kekayaanmu dapatkan _____.'",
+    "correct": "pengertian",
+    "wrong": ["pengetahuan", "wawasan", "pengertian"],
+    "hint": "Ini adalah apa yang ayat katakan untuk diperoleh",
+    "explanation": "Hikmat sangat berharga sehingga layak untuk dikejar dengan biaya apa pun.",
+    "full_verse": "Permulaan hikmat adalah: Dapatkan hikmat, dengan segala kekayaanmu dapatkan pengertian.",
+    "verse_ref": "Amsal 4:7"
+  },
+  "q_proverbs_036": {
+    "question": "Isilah bagian yang kosong: 'Ada enam hal yang dibenci TUHAN, bahkan tujuh yang menjadi kekejian bagi-Nya: mata sombong, lidah dusta, tangan yang menumpahkan darah orang yang tidak bersalah, hati yang membuat rencana jahat, kaki yang cepat lari menuju _____.'",
+    "correct": "kejahatan",
+    "wrong": ["dosa", "masalah", "kejelekan"],
+    "hint": "Ini adalah kebalikan dari kebaikan",
+    "explanation": "Allah membenci berbagai bentuk kejahatan, termasuk mereka yang bersemangat untuk berbuat salah.",
+    "full_verse": "Ada enam hal yang dibenci TUHAN, bahkan tujuh yang menjadi kekejian bagi-Nya: mata sombong, lidah dusta, tangan yang menumpahkan darah orang yang tidak bersalah, hati yang membuat rencana jahat, kaki yang cepat lari menuju kejahatan, saksi dusta yang menyembur-nyemburkan kebohongan dan orang yang menimbulkan perselisihan di antara saudara-saudara.",
+    "verse_ref": "Amsal 6:16-19"
+  },
+  "q_proverbs_037": {
+    "question": "Isilah bagian yang kosong: 'Permulaan hikmat adalah takut akan TUHAN, dan mengenal Yang Mahakudus adalah _____.'",
+    "correct": "pengertian",
+    "wrong": ["hikmat", "wawasan", "kebijaksanaan"],
+    "hint": "Ini adalah kemampuan untuk memahami secara mendalam",
+    "explanation": "Hikmat sejati dimulai dengan takut akan Allah, dan mengenal-Nya membawa pengertian.",
+    "full_verse": "Permulaan hikmat adalah takut akan TUHAN, dan mengenal Yang Mahakudus adalah pengertian.",
+    "verse_ref": "Amsal 9:10"
+  },
+  "q_proverbs_038": {
+    "question": "Isilah bagian yang kosong: 'Berkat Tuhanlah yang menjadikan kaya, susah payah tidak akan menambahinya.'",
+    "correct": "menambahinya",
+    "wrong": ["kerja", "usaha", "jerih payah"],
+    "hint": "Ini adalah pekerjaan yang keras dan melelahkan",
+    "explanation": "Berkat Allah membawa kemakmuran tanpa beban usaha yang cemas.",
+    "full_verse": "Berkat Tuhanlah yang menjadikan kaya, susah payah tidak akan menambahinya.",
+    "verse_ref": "Amsal 10:22"
+  },
+  "q_proverbs_039": {
+    "question": "Isilah bagian yang kosong: 'Kalau tidak ada pemimpin, jatulah bangsa, tetapi kalau penasihat banyak, keselamatanpun _____.'",
+    "correct": "ada",
+    "wrong": ["penasihat", "pemimpin", "penatua"],
+    "hint": "Ini adalah orang yang memberi nasihat",
+    "explanation": "Nasihat bijak dari banyak sumber membawa keberhasilan.",
+    "full_verse": "Kalau tidak ada pemimpin, jatulah bangsa, tetapi kalau penasihat banyak, keselamatanpun ada.",
+    "verse_ref": "Amsal 11:14"
+  },
+  "q_proverbs_040": {
+    "question": "Isilah bagian yang kosong: 'Jalan orang bodoh lurus dalam anggapannya sendiri, tetapi siapa mendengarkan nasihat, ia _____.'",
+    "correct": "bijak",
+    "wrong": ["nasihat", "hikmat", "orang lain"],
+    "hint": "Ini adalah bimbingan atau rekomendasi dari orang lain",
+    "explanation": "Orang bodoh mempercayai penilaian mereka sendiri; orang bijak mencari dan memperhatikan nasihat.",
+    "full_verse": "Jalan orang bodoh lurus dalam anggapannya sendiri, tetapi siapa mendengarkan nasihat, ia bijak.",
+    "verse_ref": "Amsal 12:15"
+  },
+  "q_proverbs_041": {
+    "question": "Isilah bagian yang kosong: 'Orang yang sabar besar pengertiannya, tetapi orang yang cepat marah membesarkan _____.'",
+    "correct": "kebodohan",
+    "wrong": ["amarah", "kebodohan", "kesombongan"],
+    "hint": "Ini adalah kebalikan dari hikmat",
+    "explanation": "Kesabaran mencerminkan hikmat, sementara temperamen cepat menunjukkan kebodohan.",
+    "full_verse": "Orang yang sabar besar pengertiannya, tetapi orang yang cepat marah membesarkan kebodohan.",
+    "verse_ref": "Amsal 14:29"
+  },
+  "q_proverbs_042": {
+    "question": "Isilah bagian yang kosong: 'Rancangan gagal jika tidak ada pertimbangan, tetapi dengan banyak _____ terlaksanalah ia.'",
+    "correct": "penasihat",
+    "wrong": ["nasihat", "bimbingan", "hikmat"],
+    "hint": "Ini adalah nasihat atau bimbingan",
+    "explanation": "Mencari nasihat bijak membantu memastikan keberhasilan dalam rencana kita.",
+    "full_verse": "Rancangan gagal jika tidak ada pertimbangan, tetapi dengan banyak penasihat terlaksanalah ia.",
+    "verse_ref": "Amsal 15:22"
+  },
+  "q_proverbs_043": {
+    "question": "Isilah bagian yang kosong: 'Kecongkakan mendahului kehancuran, dan tinggi hati mendahului _____.'",
+    "correct": "kejatuhan",
+    "wrong": ["kehancuran", "keruntuhan", "kekalahan"],
+    "hint": "Ini adalah penurunan atau keruntuhan mendadak",
+    "explanation": "Kesombongan membawa kehancuran dan kejatuhan.",
+    "full_verse": "Kecongkakan mendahului kehancuran, dan tinggi hati mendahului kejatuhan.",
+    "verse_ref": "Amsal 16:18"
+  },
+  "q_proverbs_044": {
+    "question": "Isilah bagian yang kosong: 'Hati yang gembira adalah obat yang manjur, tetapi semangat yang patah mengeringkan _____.'",
+    "correct": "tulang",
+    "wrong": ["penyembuhan", "terapi", "obat"],
+    "hint": "Ini adalah sesuatu yang menyembuhkan",
+    "explanation": "Sukacita dan keceriaan memiliki efek penyembuhan pada seluruh keberadaan kita.",
+    "full_verse": "Hati yang gembira adalah obat yang manjur, tetapi semangat yang patah mengeringkan tulang.",
+    "verse_ref": "Amsal 17:22"
+  },
+  "q_proverbs_045": {
+    "question": "Isilah bagian yang kosong: 'Siapa yang menaruh belas kasihan kepada orang yang lemah, meminjamkan kepada _____; dan Ia akan membalas perbuatannya itu.'",
+    "correct": "TUHAN",
+    "wrong": ["Allah", "Yang Mahatinggi", "Yang Mahakuasa"],
+    "hint": "Ini adalah nama perjanjian Allah",
+    "explanation": "Membantu orang miskin seperti meminjamkan kepada Allah, yang berjanji untuk membalas.",
+    "full_verse": "Siapa yang menaruh belas kasihan kepada orang yang lemah, meminjamkan kepada TUHAN; dan Ia akan membalas perbuatannya itu.",
+    "verse_ref": "Amsal 19:17"
+  },
+  "q_proverbs_046": {
+    "question": "Isilah bagian yang kosong: 'Janganlah berkata: 'Aku akan mengadakan pembalasan.' Nantikanlah TUHAN, Ia akan menolong _____.'",
+    "correct": "engkau",
+    "wrong": ["membantu", "menyelamatkan", "membebaskan"],
+    "hint": "Ini berarti membalas atas nama seseorang",
+    "explanation": "Daripada mencari balas dendam, kita harus mempercayai Allah untuk membawa keadilan.",
+    "full_verse": "Janganlah berkata: 'Aku akan mengadakan pembalasan.' Nantikanlah TUHAN, Ia akan menolong engkau.",
+    "verse_ref": "Amsal 20:22"
+  },
+  "q_proverbs_047": {
+    "question": "Isilah bagian yang kosong: 'Melakukan kebenaran dan keadilan lebih berkenan kepada TUHAN dari pada _____.'",
+    "correct": "korban",
+    "wrong": ["persembahan", "penyembahan", "doa"],
+    "hint": "Ini adalah persembahan keagamaan",
+    "explanation": "Allah menghargai kehidupan yang benar lebih dari ritual keagamaan.",
+    "full_verse": "Melakukan kebenaran dan keadilan lebih berkenan kepada TUHAN dari pada korban.",
+    "verse_ref": "Amsal 21:3"
+  },
+  "q_proverbs_048": {
+    "question": "Isilah bagian yang kosong: 'Upah kerendahan hati dan takut akan TUHAN adalah kekayaan, kehormatan dan _____.'",
+    "correct": "kehidupan",
+    "wrong": ["kemuliaan", "berkat", "damai"],
+    "hint": "Ini adalah penghormatan atau penghargaan tinggi",
+    "explanation": "Kerendahan hati dan takut akan Allah membawa pahala yang kaya termasuk kehormatan dan kehidupan.",
+    "full_verse": "Upah kerendahan hati dan takut akan TUHAN adalah kekayaan, kehormatan dan kehidupan.",
+    "verse_ref": "Amsal 22:4"
+  },
+  "q_proverbs_049": {
+    "question": "Isilah bagian yang kosong: 'Isteri yang cakap siapakah akan mendapatkannya? Ia lebih berharga dari pada _____.'",
+    "correct": "permata",
+    "wrong": ["emas", "perak", "perhiasan"],
+    "hint": "Ini adalah batu permata merah yang berharga",
+    "explanation": "Istri yang berbudi mulia lebih berharga dari permata mahal.",
+    "full_verse": "Isteri yang cakap siapakah akan mendapatkannya? Ia lebih berharga dari pada permata.",
+    "verse_ref": "Amsal 31:10"
+  },
+  "q_proverbs_050": {
+    "question": "Isilah bagian yang kosong: 'Janganlah menganggap dirimu sendiri bijak, takutlah akan TUHAN dan jauhilah _____.'",
+    "correct": "kejahatan",
+    "wrong": ["dosa", "kefasikan", "kesalahan"],
+    "hint": "Ini adalah apa yang harus kita hindari",
+    "explanation": "Hikmat sejati melibatkan takut akan Allah dan menjauhi kejahatan.",
+    "full_verse": "Janganlah menganggap dirimu sendiri bijak, takutlah akan TUHAN dan jauhilah kejahatan.",
+    "verse_ref": "Amsal 3:7"
+  }
+}

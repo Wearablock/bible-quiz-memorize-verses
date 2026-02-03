@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_psalms_001",
+      "question": "Fill in the blank: 'The LORD is my _____; I lack nothing.'",
+      "correct": "shepherd",
+      "wrong": ["guide", "father", "protector"],
+      "hint": "This person cares for sheep",
+      "explanation": "God is portrayed as a caring shepherd who provides for all our needs.",
+      "full_verse": "The LORD is my shepherd, I lack nothing.",
+      "verse_ref": "Psalm 23:1"
+    },
+    {
+      "id": "q_psalms_002",
+      "question": "Fill in the blank: 'Even though I walk through the darkest valley, I will fear no _____, for you are with me; your rod and your staff, they comfort me.'",
+      "correct": "evil",
+      "wrong": ["harm", "danger", "death"],
+      "hint": "This is the opposite of good",
+      "explanation": "God's presence gives us courage even in the most difficult circumstances.",
+      "full_verse": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
+      "verse_ref": "Psalm 23:4"
+    },
+    {
+      "id": "q_psalms_003",
+      "question": "Fill in the blank: 'God is our refuge and strength, an ever-present help in _____.'",
+      "correct": "trouble",
+      "wrong": ["danger", "need", "distress"],
+      "hint": "This word means difficulty or hardship",
+      "explanation": "God is always available to help us in times of difficulty.",
+      "full_verse": "God is our refuge and strength, an ever-present help in trouble.",
+      "verse_ref": "Psalm 46:1"
+    },
+    {
+      "id": "q_psalms_004",
+      "question": "Fill in the blank: 'The LORD is my light and my salvation—whom shall I _____? The LORD is the stronghold of my life—of whom shall I be afraid?'",
+      "correct": "fear",
+      "wrong": ["trust", "follow", "worship"],
+      "hint": "This is what we don't need to feel when God is with us",
+      "explanation": "With God as our light and salvation, we have no reason to fear anyone.",
+      "full_verse": "The LORD is my light and my salvation—whom shall I fear? The LORD is the stronghold of my life—of whom shall I be afraid?",
+      "verse_ref": "Psalm 27:1"
+    },
+    {
+      "id": "q_psalms_005",
+      "question": "Fill in the blank: 'Your word is a lamp for my feet, a _____ on my path.'",
+      "correct": "light",
+      "wrong": ["guide", "beacon", "torch"],
+      "hint": "This illuminates the way ahead",
+      "explanation": "God's Word provides guidance and direction for our lives.",
+      "full_verse": "Your word is a lamp for my feet, a light on my path.",
+      "verse_ref": "Psalm 119:105"
+    },
+    {
+      "id": "q_psalms_006",
+      "question": "Fill in the blank: 'Blessed is the one who does not walk in step with the wicked or stand in the way that sinners take or sit in the company of _____.'",
+      "correct": "mockers",
+      "wrong": ["sinners", "fools", "scoffers"],
+      "hint": "These people ridicule others",
+      "explanation": "True blessing comes from avoiding the influence of those who mock God's ways.",
+      "full_verse": "Blessed is the one who does not walk in step with the wicked or stand in the way that sinners take or sit in the company of mockers.",
+      "verse_ref": "Psalm 1:1"
+    },
+    {
+      "id": "q_psalms_007",
+      "question": "Fill in the blank: 'Shout for _____ to the LORD, all the earth.'",
+      "correct": "joy",
+      "wrong": ["praise", "glory", "thanks"],
+      "hint": "This is an expression of great happiness",
+      "explanation": "We are called to express our joy to God enthusiastically.",
+      "full_verse": "Shout for joy to the LORD, all the earth.",
+      "verse_ref": "Psalm 100:1"
+    },
+    {
+      "id": "q_psalms_008",
+      "question": "Fill in the blank: 'This is the day the LORD has made; let us rejoice and be _____ in it.'",
+      "correct": "glad",
+      "wrong": ["joyful", "happy", "thankful"],
+      "hint": "This means to be happy",
+      "explanation": "Every day is a gift from God, worthy of celebration.",
+      "full_verse": "This is the day the LORD has made; let us rejoice and be glad in it.",
+      "verse_ref": "Psalm 118:24"
+    },
+    {
+      "id": "q_psalms_009",
+      "question": "Fill in the blank: 'Let everything that has _____ praise the LORD. Praise the LORD.'",
+      "correct": "breath",
+      "wrong": ["life", "spirit", "voice"],
+      "hint": "This is what all living creatures have",
+      "explanation": "All living beings are called to praise God.",
+      "full_verse": "Let everything that has breath praise the LORD. Praise the LORD.",
+      "verse_ref": "Psalm 150:6"
+    },
+    {
+      "id": "q_psalms_010",
+      "question": "Fill in the blank: 'Taste and see that the LORD is _____; blessed is the one who takes refuge in him.'",
+      "correct": "good",
+      "wrong": ["great", "faithful", "loving"],
+      "hint": "This is the opposite of bad",
+      "explanation": "We can experience God's goodness personally when we trust in Him.",
+      "full_verse": "Taste and see that the LORD is good; blessed is the one who takes refuge in him.",
+      "verse_ref": "Psalm 34:8"
+    },
+    {
+      "id": "q_psalms_011",
+      "question": "Fill in the blank: 'Take delight in the LORD, and he will give you the desires of your _____.'",
+      "correct": "heart",
+      "wrong": ["soul", "mind", "spirit"],
+      "hint": "This is the center of your emotions and desires",
+      "explanation": "When we find joy in God, He shapes and fulfills our deepest desires.",
+      "full_verse": "Take delight in the LORD, and he will give you the desires of your heart.",
+      "verse_ref": "Psalm 37:4"
+    },
+    {
+      "id": "q_psalms_012",
+      "question": "Fill in the blank: 'Create in me a pure heart, O God, and renew a steadfast _____ within me.'",
+      "correct": "spirit",
+      "wrong": ["soul", "heart", "mind"],
+      "hint": "This is the inner part of a person",
+      "explanation": "David asks God for inner transformation and renewed commitment.",
+      "full_verse": "Create in me a pure heart, O God, and renew a steadfast spirit within me.",
+      "verse_ref": "Psalm 51:10"
+    },
+    {
+      "id": "q_psalms_013",
+      "question": "Fill in the blank: 'Whoever dwells in the shelter of the Most High will rest in the _____ of the Almighty.'",
+      "correct": "shadow",
+      "wrong": ["presence", "arms", "care"],
+      "hint": "This is cast when light is blocked",
+      "explanation": "God provides protection and rest for those who dwell close to Him.",
+      "full_verse": "Whoever dwells in the shelter of the Most High will rest in the shadow of the Almighty.",
+      "verse_ref": "Psalm 91:1"
+    },
+    {
+      "id": "q_psalms_014",
+      "question": "Fill in the blank: 'Praise the LORD, my soul; all my inmost being, praise his holy _____.'",
+      "correct": "name",
+      "wrong": ["word", "glory", "majesty"],
+      "hint": "This represents God's identity and character",
+      "explanation": "We praise God's name because it represents who He is.",
+      "full_verse": "Praise the LORD, my soul; all my inmost being, praise his holy name.",
+      "verse_ref": "Psalm 103:1"
+    },
+    {
+      "id": "q_psalms_015",
+      "question": "Fill in the blank: 'I praise you because I am fearfully and _____ made; your works are wonderful, I know that full well.'",
+      "correct": "wonderfully",
+      "wrong": ["beautifully", "perfectly", "uniquely"],
+      "hint": "This means in an amazing way",
+      "explanation": "We are created with great care and intention by God.",
+      "full_verse": "I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well.",
+      "verse_ref": "Psalm 139:14"
+    },
+    {
+      "id": "q_psalms_016",
+      "question": "Fill in the blank: 'The heavens declare the glory of God; the skies proclaim the work of his _____.'",
+      "correct": "hands",
+      "wrong": ["power", "creation", "majesty"],
+      "hint": "These are body parts used for making things",
+      "explanation": "Creation itself testifies to God's creative power.",
+      "full_verse": "The heavens declare the glory of God; the skies proclaim the work of his hands.",
+      "verse_ref": "Psalm 19:1"
+    },
+    {
+      "id": "q_psalms_017",
+      "question": "Fill in the blank: 'Be still, and know that I am _____; I will be exalted among the nations, I will be exalted in the earth.'",
+      "correct": "God",
+      "wrong": ["Lord", "holy", "sovereign"],
+      "hint": "This is the divine being",
+      "explanation": "We are called to quiet ourselves and recognize God's sovereignty.",
+      "full_verse": "Be still, and know that I am God; I will be exalted among the nations, I will be exalted in the earth.",
+      "verse_ref": "Psalm 46:10"
+    },
+    {
+      "id": "q_psalms_018",
+      "question": "Fill in the blank: 'Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the LORD _____.'",
+      "correct": "forever",
+      "wrong": ["always", "eternally", "evermore"],
+      "hint": "This means for all time",
+      "explanation": "God's goodness accompanies us throughout life and into eternity.",
+      "full_verse": "Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the LORD forever.",
+      "verse_ref": "Psalm 23:6"
+    },
+    {
+      "id": "q_psalms_019",
+      "question": "Fill in the blank: 'I lift up my eyes to the mountains—where does my help come from? My help comes from the LORD, the Maker of heaven and _____.'",
+      "correct": "earth",
+      "wrong": ["land", "world", "all"],
+      "hint": "This is the ground we stand on",
+      "explanation": "Our help comes from the Creator of everything.",
+      "full_verse": "I lift up my eyes to the mountains—where does my help come from? My help comes from the LORD, the Maker of heaven and earth.",
+      "verse_ref": "Psalm 121:1-2"
+    },
+    {
+      "id": "q_psalms_020",
+      "question": "Fill in the blank: 'The LORD is close to the brokenhearted and saves those who are crushed in _____.'",
+      "correct": "spirit",
+      "wrong": ["soul", "heart", "mind"],
+      "hint": "This is the inner part of a person",
+      "explanation": "God is especially near to those experiencing emotional pain.",
+      "full_verse": "The LORD is close to the brokenhearted and saves those who are crushed in spirit.",
+      "verse_ref": "Psalm 34:18"
+    },
+    {
+      "id": "q_psalms_021",
+      "question": "Fill in the blank: 'As the deer pants for streams of water, so my soul _____ for you, my God.'",
+      "correct": "pants",
+      "wrong": ["longs", "thirsts", "yearns"],
+      "hint": "This is what a thirsty deer does",
+      "explanation": "Our souls should long for God like a thirsty animal seeks water.",
+      "full_verse": "As the deer pants for streams of water, so my soul pants for you, my God.",
+      "verse_ref": "Psalm 42:1"
+    },
+    {
+      "id": "q_psalms_022",
+      "question": "Fill in the blank: 'Cast your cares on the LORD and he will _____ you; he will never let the righteous be shaken.'",
+      "correct": "sustain",
+      "wrong": ["support", "uphold", "carry"],
+      "hint": "This means to keep going or maintain",
+      "explanation": "God invites us to give Him our worries and promises to sustain us.",
+      "full_verse": "Cast your cares on the LORD and he will sustain you; he will never let the righteous be shaken.",
+      "verse_ref": "Psalm 55:22"
+    },
+    {
+      "id": "q_psalms_023",
+      "question": "Fill in the blank: 'For the LORD God is a sun and shield; the LORD bestows favor and honor; no good thing does he withhold from those whose walk is _____.'",
+      "correct": "blameless",
+      "wrong": ["righteous", "faithful", "holy"],
+      "hint": "This means without fault",
+      "explanation": "God generously gives to those who live with integrity.",
+      "full_verse": "For the LORD God is a sun and shield; the LORD bestows favor and honor; no good thing does he withhold from those whose walk is blameless.",
+      "verse_ref": "Psalm 84:11"
+    },
+    {
+      "id": "q_psalms_024",
+      "question": "Fill in the blank: 'For he will command his angels concerning you to guard you in all your _____.'",
+      "correct": "ways",
+      "wrong": ["paths", "steps", "days"],
+      "hint": "This refers to your directions or activities",
+      "explanation": "God sends angels to protect His people.",
+      "full_verse": "For he will command his angels concerning you to guard you in all your ways.",
+      "verse_ref": "Psalm 91:11"
+    },
+    {
+      "id": "q_psalms_025",
+      "question": "Fill in the blank: 'The LORD is near to all who call on him, to all who call on him in _____.'",
+      "correct": "truth",
+      "wrong": ["faith", "spirit", "sincerity"],
+      "hint": "This means genuineness or honesty",
+      "explanation": "God draws near to those who sincerely seek Him.",
+      "full_verse": "The LORD is near to all who call on him, to all who call on him in truth.",
+      "verse_ref": "Psalm 145:18"
+    },
+    {
+      "id": "q_psalms_026",
+      "question": "Fill in the blank: 'When I consider your heavens, the work of your fingers, the moon and the stars, which you have set in place, what is mankind that you are _____ of them, human beings that you care for them?'",
+      "correct": "mindful",
+      "wrong": ["aware", "thinking", "conscious"],
+      "hint": "This means being aware of or thinking about",
+      "explanation": "Despite the vastness of creation, God cares deeply for humanity.",
+      "full_verse": "When I consider your heavens, the work of your fingers, the moon and the stars, which you have set in place, what is mankind that you are mindful of them, human beings that you care for them?",
+      "verse_ref": "Psalm 8:3-4"
+    },
+    {
+      "id": "q_psalms_027",
+      "question": "Fill in the blank: 'You make known to me the path of life; you will fill me with joy in your presence, with eternal pleasures at your right _____.'",
+      "correct": "hand",
+      "wrong": ["side", "throne", "place"],
+      "hint": "This is a body part symbolizing a position of honor",
+      "explanation": "God's presence brings complete joy and eternal blessings.",
+      "full_verse": "You make known to me the path of life; you will fill me with joy in your presence, with eternal pleasures at your right hand.",
+      "verse_ref": "Psalm 16:11"
+    },
+    {
+      "id": "q_psalms_028",
+      "question": "Fill in the blank: 'May these words of my mouth and this meditation of my heart be pleasing in your sight, LORD, my Rock and my _____.'",
+      "correct": "Redeemer",
+      "wrong": ["Savior", "Deliverer", "Refuge"],
+      "hint": "This is one who rescues by paying a price",
+      "explanation": "We desire both our words and thoughts to honor God.",
+      "full_verse": "May these words of my mouth and this meditation of my heart be pleasing in your sight, LORD, my Rock and my Redeemer.",
+      "verse_ref": "Psalm 19:14"
+    },
+    {
+      "id": "q_psalms_029",
+      "question": "Fill in the blank: 'The earth is the LORD's, and everything in it, the world, and all who _____ in it.'",
+      "correct": "live",
+      "wrong": ["dwell", "abide", "exist"],
+      "hint": "This means to reside or exist",
+      "explanation": "God owns everything in creation, including all people.",
+      "full_verse": "The earth is the LORD's, and everything in it, the world, and all who live in it.",
+      "verse_ref": "Psalm 24:1"
+    },
+    {
+      "id": "q_psalms_030",
+      "question": "Fill in the blank: 'I will instruct you and teach you in the way you should go; I will _____ you with my eye.'",
+      "correct": "counsel",
+      "wrong": ["guide", "watch", "lead"],
+      "hint": "This means to give advice",
+      "explanation": "God promises to personally guide and advise us.",
+      "full_verse": "I will instruct you and teach you in the way you should go; I will counsel you with my loving eye on you.",
+      "verse_ref": "Psalm 32:8"
+    },
+    {
+      "id": "q_psalms_031",
+      "question": "Fill in the blank: 'The LORD makes firm the steps of the one who delights in him; though he may stumble, he will not fall, for the LORD upholds him with his _____.'",
+      "correct": "hand",
+      "wrong": ["arm", "power", "strength"],
+      "hint": "This body part is used to hold someone",
+      "explanation": "God steadies those who delight in Him, even when they stumble.",
+      "full_verse": "The LORD makes firm the steps of the one who delights in him; though he may stumble, he will not fall, for the LORD upholds him with his hand.",
+      "verse_ref": "Psalm 37:23"
+    },
+    {
+      "id": "q_psalms_032",
+      "question": "Fill in the blank: 'I waited patiently for the LORD; he turned to me and heard my cry. He lifted me out of the slimy pit, out of the mud and _____; he set my feet on a rock and gave me a firm place to stand.'",
+      "correct": "mire",
+      "wrong": ["clay", "dirt", "dust"],
+      "hint": "This is deep, wet mud",
+      "explanation": "God rescues us from desperate situations and gives us stability.",
+      "full_verse": "I waited patiently for the LORD; he turned to me and heard my cry. He lifted me out of the slimy pit, out of the mud and mire; he set my feet on a rock and gave me a firm place to stand.",
+      "verse_ref": "Psalm 40:1-2"
+    },
+    {
+      "id": "q_psalms_033",
+      "question": "Fill in the blank: 'My sacrifice, O God, is a broken spirit; a broken and _____ heart you, God, will not despise.'",
+      "correct": "contrite",
+      "wrong": ["humble", "repentant", "sorrowful"],
+      "hint": "This means feeling sorry for wrongdoing",
+      "explanation": "God values genuine repentance over external religious rituals.",
+      "full_verse": "My sacrifice, O God, is a broken spirit; a broken and contrite heart you, God, will not despise.",
+      "verse_ref": "Psalm 51:17"
+    },
+    {
+      "id": "q_psalms_034",
+      "question": "Fill in the blank: 'When I am _____, I put my trust in you.'",
+      "correct": "afraid",
+      "wrong": ["weak", "troubled", "anxious"],
+      "hint": "This is an emotion felt when facing danger",
+      "explanation": "Fear should drive us to trust in God more.",
+      "full_verse": "When I am afraid, I put my trust in you.",
+      "verse_ref": "Psalm 56:3"
+    },
+    {
+      "id": "q_psalms_035",
+      "question": "Fill in the blank: 'Truly my soul finds rest in God; my salvation comes from him. Truly he is my rock and my _____; he is my fortress, I will never be shaken.'",
+      "correct": "salvation",
+      "wrong": ["refuge", "shield", "strength"],
+      "hint": "This is deliverance from danger",
+      "explanation": "God alone provides true rest and security for our souls.",
+      "full_verse": "Truly my soul finds rest in God; my salvation comes from him. Truly he is my rock and my salvation; he is my fortress, I will never be shaken.",
+      "verse_ref": "Psalm 62:1-2"
+    },
+    {
+      "id": "q_psalms_036",
+      "question": "Fill in the blank: 'My flesh and my heart may fail, but God is the strength of my heart and my _____ forever.'",
+      "correct": "portion",
+      "wrong": ["hope", "refuge", "inheritance"],
+      "hint": "This means one's share or allotment",
+      "explanation": "Even when our bodies fail, God remains our eternal inheritance.",
+      "full_verse": "My flesh and my heart may fail, but God is the strength of my heart and my portion forever.",
+      "verse_ref": "Psalm 73:26"
+    },
+    {
+      "id": "q_psalms_037",
+      "question": "Fill in the blank: 'You, Lord, are forgiving and good, abounding in love to all who _____ to you.'",
+      "correct": "call",
+      "wrong": ["come", "pray", "turn"],
+      "hint": "This means to cry out or appeal",
+      "explanation": "God's love and forgiveness are available to all who seek Him.",
+      "full_verse": "You, Lord, are forgiving and good, abounding in love to all who call to you.",
+      "verse_ref": "Psalm 86:5"
+    },
+    {
+      "id": "q_psalms_038",
+      "question": "Fill in the blank: 'Teach us to number our days, that we may gain a heart of _____.'",
+      "correct": "wisdom",
+      "wrong": ["understanding", "knowledge", "insight"],
+      "hint": "This is the quality of being wise",
+      "explanation": "Recognizing life's brevity helps us live wisely.",
+      "full_verse": "Teach us to number our days, that we may gain a heart of wisdom.",
+      "verse_ref": "Psalm 90:12"
+    },
+    {
+      "id": "q_psalms_039",
+      "question": "Fill in the blank: 'Sing to the LORD a new _____; sing to the LORD, all the earth.'",
+      "correct": "song",
+      "wrong": ["praise", "hymn", "anthem"],
+      "hint": "This is musical composition with words",
+      "explanation": "We are called to continually offer fresh praise to God.",
+      "full_verse": "Sing to the LORD a new song; sing to the LORD, all the earth.",
+      "verse_ref": "Psalm 96:1"
+    },
+    {
+      "id": "q_psalms_040",
+      "question": "Fill in the blank: 'As far as the east is from the west, so far has he removed our _____ from us.'",
+      "correct": "transgressions",
+      "wrong": ["sins", "iniquities", "offenses"],
+      "hint": "This is another word for sins or violations",
+      "explanation": "God completely removes our sins from us.",
+      "full_verse": "As far as the east is from the west, so far has he removed our transgressions from us.",
+      "verse_ref": "Psalm 103:12"
+    },
+    {
+      "id": "q_psalms_041",
+      "question": "Fill in the blank: 'Give thanks to the LORD, for he is good; his love endures _____.'",
+      "correct": "forever",
+      "wrong": ["always", "eternally", "evermore"],
+      "hint": "This means for all time without end",
+      "explanation": "God's love is eternal and unchanging.",
+      "full_verse": "Give thanks to the LORD, for he is good; his love endures forever.",
+      "verse_ref": "Psalm 107:1"
+    },
+    {
+      "id": "q_psalms_042",
+      "question": "Fill in the blank: 'I have hidden your word in my heart that I might not _____ against you.'",
+      "correct": "sin",
+      "wrong": ["rebel", "turn", "stray"],
+      "hint": "This is wrongdoing against God",
+      "explanation": "Memorizing Scripture helps us resist temptation.",
+      "full_verse": "I have hidden your word in my heart that I might not sin against you.",
+      "verse_ref": "Psalm 119:11"
+    },
+    {
+      "id": "q_psalms_043",
+      "question": "Fill in the blank: 'Children are a heritage from the LORD, offspring a _____ from him.'",
+      "correct": "reward",
+      "wrong": ["gift", "blessing", "treasure"],
+      "hint": "This is something received for achievement",
+      "explanation": "Children are a precious gift and blessing from God.",
+      "full_verse": "Children are a heritage from the LORD, offspring a reward from him.",
+      "verse_ref": "Psalm 127:3"
+    },
+    {
+      "id": "q_psalms_044",
+      "question": "Fill in the blank: 'How good and pleasant it is when God's people live together in _____!'",
+      "correct": "unity",
+      "wrong": ["peace", "harmony", "love"],
+      "hint": "This means togetherness or oneness",
+      "explanation": "Unity among believers is pleasing to God.",
+      "full_verse": "How good and pleasant it is when God's people live together in unity!",
+      "verse_ref": "Psalm 133:1"
+    },
+    {
+      "id": "q_psalms_045",
+      "question": "Fill in the blank: 'Search me, God, and know my heart; test me and know my anxious thoughts. See if there is any offensive way in me, and lead me in the way _____.'",
+      "correct": "everlasting",
+      "wrong": ["eternal", "righteous", "holy"],
+      "hint": "This means lasting forever",
+      "explanation": "We invite God to examine us and guide us toward eternal life.",
+      "full_verse": "Search me, God, and know my heart; test me and know my anxious thoughts. See if there is any offensive way in me, and lead me in the way everlasting.",
+      "verse_ref": "Psalm 139:23-24"
+    },
+    {
+      "id": "q_psalms_046",
+      "question": "Fill in the blank: 'Let the morning bring me word of your unfailing love, for I have put my _____ in you. Show me the way I should go, for to you I entrust my life.'",
+      "correct": "trust",
+      "wrong": ["hope", "faith", "heart"],
+      "hint": "This is confidence in someone",
+      "explanation": "We seek God's guidance and love each morning.",
+      "full_verse": "Let the morning bring me word of your unfailing love, for I have put my trust in you. Show me the way I should go, for to you I entrust my life.",
+      "verse_ref": "Psalm 143:8"
+    },
+    {
+      "id": "q_psalms_047",
+      "question": "Fill in the blank: 'He heals the brokenhearted and binds up their _____.'",
+      "correct": "wounds",
+      "wrong": ["hearts", "hurts", "sorrows"],
+      "hint": "These are injuries that need healing",
+      "explanation": "God brings healing to those who are emotionally wounded.",
+      "full_verse": "He heals the brokenhearted and binds up their wounds.",
+      "verse_ref": "Psalm 147:3"
+    },
+    {
+      "id": "q_psalms_048",
+      "question": "Fill in the blank: 'He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my _____.'",
+      "correct": "soul",
+      "wrong": ["spirit", "heart", "mind"],
+      "hint": "This is the spiritual part of a person",
+      "explanation": "God provides rest and renewal for our innermost being.",
+      "full_verse": "He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul.",
+      "verse_ref": "Psalm 23:2-3"
+    },
+    {
+      "id": "q_psalms_049",
+      "question": "Fill in the blank: 'For his anger lasts only a moment, but his favor lasts a lifetime; weeping may stay for the night, but rejoicing comes in the _____.'",
+      "correct": "morning",
+      "wrong": ["dawn", "daylight", "sunrise"],
+      "hint": "This is when a new day begins",
+      "explanation": "God's favor far outlasts His discipline, and joy follows sorrow.",
+      "full_verse": "For his anger lasts only a moment, but his favor lasts a lifetime; weeping may stay for the night, but rejoicing comes in the morning.",
+      "verse_ref": "Psalm 30:5"
+    },
+    {
+      "id": "q_psalms_050",
+      "question": "Fill in the blank: 'For the LORD is good and his love endures forever; his faithfulness continues through all _____.'",
+      "correct": "generations",
+      "wrong": ["ages", "time", "eternity"],
+      "hint": "This refers to successive groups of people over time",
+      "explanation": "God's faithfulness extends to every generation.",
+      "full_verse": "For the LORD is good and his love endures forever; his faithfulness continues through all generations.",
+      "verse_ref": "Psalm 100:5"
+    }
+  ]
+}

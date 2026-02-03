@@ -1,1 +1,452 @@
-{}
+{
+  "q_forgiveness_001": {
+    "question": "Fill in the blank: 'If we confess our sins, he is faithful and just and will forgive us our sins and _____ us from all unrighteousness.'",
+    "correct": "purify",
+    "wrong": ["cleanse", "free", "save"],
+    "hint": "God does more than just forgive",
+    "explanation": "John assures believers that confession leads to both forgiveness and purification from sin.",
+    "full_verse": "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.",
+    "verse_ref": "1 John 1:9"
+  },
+  "q_forgiveness_002": {
+    "question": "Fill in the blank: 'Be kind and compassionate to one another, forgiving each other, just as in Christ God _____ you.'",
+    "correct": "forgave",
+    "wrong": ["loved", "saved", "blessed"],
+    "hint": "God's action toward us is the model",
+    "explanation": "Paul instructs believers to forgive others based on the forgiveness they received from God.",
+    "full_verse": "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.",
+    "verse_ref": "Ephesians 4:32"
+  },
+  "q_forgiveness_003": {
+    "question": "Fill in the blank: 'Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the _____ forgave you.'",
+    "correct": "Lord",
+    "wrong": ["Father", "Christ", "God"],
+    "hint": "Our forgiveness should mirror His",
+    "explanation": "Paul calls believers to extend the same forgiveness they received from the Lord.",
+    "full_verse": "Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you.",
+    "verse_ref": "Colossians 3:13"
+  },
+  "q_forgiveness_004": {
+    "question": "Fill in the blank: 'For if you forgive other people when they sin against you, your heavenly _____ will also forgive you.'",
+    "correct": "Father",
+    "wrong": ["Lord", "God", "King"],
+    "hint": "Jesus speaks of God in familial terms",
+    "explanation": "Jesus teaches that our willingness to forgive others is connected to receiving God's forgiveness.",
+    "full_verse": "For if you forgive other people when they sin against you, your heavenly Father will also forgive you.",
+    "verse_ref": "Matthew 6:14"
+  },
+  "q_forgiveness_005": {
+    "question": "Fill in the blank: 'And when you stand praying, if you hold anything against anyone, _____ them, so that your Father in heaven may forgive you your sins.'",
+    "correct": "forgive",
+    "wrong": ["release", "pardon", "bless"],
+    "hint": "What we must do before prayer",
+    "explanation": "Jesus teaches that forgiveness of others should precede our prayers.",
+    "full_verse": "And when you stand praying, if you hold anything against anyone, forgive them, so that your Father in heaven may forgive you your sins.",
+    "verse_ref": "Mark 11:25"
+  },
+  "q_forgiveness_006": {
+    "question": "Fill in the blank: 'Repent, then, and turn to God, so that your sins may be wiped out, that times of _____ may come from the Lord.'",
+    "correct": "refreshing",
+    "wrong": ["blessing", "healing", "peace"],
+    "hint": "Forgiveness brings spiritual renewal",
+    "explanation": "Peter calls for repentance that leads to forgiveness and spiritual refreshment.",
+    "full_verse": "Repent, then, and turn to God, so that your sins may be wiped out, that times of refreshing may come from the Lord.",
+    "verse_ref": "Acts 3:19"
+  },
+  "q_forgiveness_007": {
+    "question": "Fill in the blank: 'As far as the east is from the west, so far has he removed our _____ from us.'",
+    "correct": "transgressions",
+    "wrong": ["sins", "guilt", "shame"],
+    "hint": "God separates these from us completely",
+    "explanation": "David poetically describes how completely God removes our sins from us.",
+    "full_verse": "As far as the east is from the west, so far has he removed our transgressions from us.",
+    "verse_ref": "Psalm 103:12"
+  },
+  "q_forgiveness_008": {
+    "question": "Fill in the blank: 'Though your sins are like scarlet, they shall be as white as _____.'",
+    "correct": "snow",
+    "wrong": ["wool", "clouds", "light"],
+    "hint": "A symbol of purity and cleanness",
+    "explanation": "God promises complete cleansing, transforming scarlet sins to pure white.",
+    "full_verse": "Come now, let us settle the matter, says the LORD. Though your sins are like scarlet, they shall be as white as snow; though they are red as crimson, they shall be like wool.",
+    "verse_ref": "Isaiah 1:18"
+  },
+  "q_forgiveness_009": {
+    "question": "Fill in the blank: 'Who is a God like you, who pardons sin and forgives the transgression of the _____ of his inheritance?'",
+    "correct": "remnant",
+    "wrong": ["people", "children", "chosen"],
+    "hint": "The faithful portion of God's people",
+    "explanation": "Micah celebrates God's unique willingness to forgive His people's sins.",
+    "full_verse": "Who is a God like you, who pardons sin and forgives the transgression of the remnant of his inheritance? You do not stay angry forever but delight to show mercy.",
+    "verse_ref": "Micah 7:18"
+  },
+  "q_forgiveness_010": {
+    "question": "Fill in the blank: 'Do not judge, and you will not be judged. Do not condemn, and you will not be condemned. Forgive, and you will be _____.'",
+    "correct": "forgiven",
+    "wrong": ["blessed", "saved", "loved"],
+    "hint": "What we give, we receive",
+    "explanation": "Jesus teaches the reciprocal nature of forgiveness.",
+    "full_verse": "Do not judge, and you will not be judged. Do not condemn, and you will not be condemned. Forgive, and you will be forgiven.",
+    "verse_ref": "Luke 6:37"
+  },
+  "q_forgiveness_011": {
+    "question": "Fill in the blank: 'Then Peter came to Jesus and asked, \"Lord, how many times shall I forgive my brother or sister who sins against me? Up to seven times?\" Jesus answered, \"I tell you, not seven times, but seventy-seven _____.\"'",
+    "correct": "times",
+    "wrong": ["fold", "more", "ways"],
+    "hint": "Jesus multiplies the number",
+    "explanation": "Jesus teaches that forgiveness should be unlimited, not counted.",
+    "full_verse": "Then Peter came to Jesus and asked, 'Lord, how many times shall I forgive my brother or sister who sins against me? Up to seven times?' Jesus answered, 'I tell you, not seven times, but seventy-seven times.'",
+    "verse_ref": "Matthew 18:21-22"
+  },
+  "q_forgiveness_012": {
+    "question": "Fill in the blank: 'So watch yourselves. If your brother or sister sins against you, rebuke them; and if they _____, forgive them.'",
+    "correct": "repent",
+    "wrong": ["ask", "return", "change"],
+    "hint": "A turning from sin",
+    "explanation": "Jesus teaches that repentance should be met with forgiveness.",
+    "full_verse": "So watch yourselves. If your brother or sister sins against you, rebuke them; and if they repent, forgive them. Even if they sin against you seven times in a day and seven times come back to you saying \"I repent,\" you must forgive them.",
+    "verse_ref": "Luke 17:3-4"
+  },
+  "q_forgiveness_013": {
+    "question": "Fill in the blank: 'Jesus said, \"Father, forgive them, for they do not know what they are _____.\"'",
+    "correct": "doing",
+    "wrong": ["saying", "thinking", "causing"],
+    "hint": "Jesus prayed this on the cross",
+    "explanation": "Even while being crucified, Jesus asked the Father to forgive those who crucified Him.",
+    "full_verse": "Jesus said, 'Father, forgive them, for they do not know what they are doing.' And they divided up his clothes by casting lots.",
+    "verse_ref": "Luke 23:34"
+  },
+  "q_forgiveness_014": {
+    "question": "Fill in the blank: 'Peter replied, \"Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy _____.\"'",
+    "correct": "Spirit",
+    "wrong": ["Ghost", "Power", "Life"],
+    "hint": "The promised gift after forgiveness",
+    "explanation": "Peter connects repentance and baptism with forgiveness and receiving the Holy Spirit.",
+    "full_verse": "Peter replied, 'Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit.'",
+    "verse_ref": "Acts 2:38"
+  },
+  "q_forgiveness_015": {
+    "question": "Fill in the blank: 'All the prophets testify about him that everyone who believes in him receives forgiveness of sins through his _____.'",
+    "correct": "name",
+    "wrong": ["blood", "death", "grace"],
+    "hint": "Forgiveness comes through this",
+    "explanation": "Peter declares that forgiveness comes through believing in Jesus' name.",
+    "full_verse": "All the prophets testify about him that everyone who believes in him receives forgiveness of sins through his name.",
+    "verse_ref": "Acts 10:43"
+  },
+  "q_forgiveness_016": {
+    "question": "Fill in the blank: 'Therefore, my friends, I want you to know that through Jesus the forgiveness of sins is _____ to you.'",
+    "correct": "proclaimed",
+    "wrong": ["given", "offered", "promised"],
+    "hint": "The message is being announced",
+    "explanation": "Paul declares the good news of forgiveness available through Jesus.",
+    "full_verse": "Therefore, my friends, I want you to know that through Jesus the forgiveness of sins is proclaimed to you.",
+    "verse_ref": "Acts 13:38"
+  },
+  "q_forgiveness_017": {
+    "question": "Fill in the blank: 'Blessed are those whose transgressions are forgiven, whose sins are _____.'",
+    "correct": "covered",
+    "wrong": ["removed", "cleansed", "forgotten"],
+    "hint": "Sins are hidden from view",
+    "explanation": "Paul quotes David to describe the blessedness of those whose sins are forgiven.",
+    "full_verse": "Blessed are those whose transgressions are forgiven, whose sins are covered.",
+    "verse_ref": "Romans 4:7"
+  },
+  "q_forgiveness_018": {
+    "question": "Fill in the blank: 'That God was reconciling the world to himself in Christ, not counting people's sins against them. And he has committed to us the message of _____.'",
+    "correct": "reconciliation",
+    "wrong": ["forgiveness", "salvation", "peace"],
+    "hint": "The message of being brought back together",
+    "explanation": "Paul explains that God forgives sins and gives believers the message of reconciliation.",
+    "full_verse": "That God was reconciling the world to himself in Christ, not counting people's sins against them. And he has committed to us the message of reconciliation.",
+    "verse_ref": "2 Corinthians 5:19"
+  },
+  "q_forgiveness_019": {
+    "question": "Fill in the blank: 'For I will forgive their wickedness and will remember their sins no _____.'",
+    "correct": "more",
+    "wrong": ["longer", "again", "further"],
+    "hint": "God will not recall them",
+    "explanation": "God promises complete forgiveness, choosing not to remember forgiven sins.",
+    "full_verse": "For I will forgive their wickedness and will remember their sins no more.",
+    "verse_ref": "Hebrews 8:12"
+  },
+  "q_forgiveness_020": {
+    "question": "Fill in the blank: 'Then he adds: \"Their sins and lawless acts I will remember no _____.\"'",
+    "correct": "more",
+    "wrong": ["longer", "again", "further"],
+    "hint": "God chooses to forget",
+    "explanation": "The writer of Hebrews emphasizes God's promise to not remember forgiven sins.",
+    "full_verse": "Then he adds: 'Their sins and lawless acts I will remember no more.'",
+    "verse_ref": "Hebrews 10:17"
+  },
+  "q_forgiveness_021": {
+    "question": "Fill in the blank: 'And the prayer offered in faith will make the sick person well; the Lord will raise them up. If they have sinned, they will be _____.'",
+    "correct": "forgiven",
+    "wrong": ["healed", "restored", "saved"],
+    "hint": "Sin is addressed along with sickness",
+    "explanation": "James connects faithful prayer with both healing and forgiveness.",
+    "full_verse": "And the prayer offered in faith will make the sick person well; the Lord will raise them up. If they have sinned, they will be forgiven.",
+    "verse_ref": "James 5:15"
+  },
+  "q_forgiveness_022": {
+    "question": "Fill in the blank: 'Blessed is the one whose transgressions are forgiven, whose sins are _____.'",
+    "correct": "covered",
+    "wrong": ["removed", "cleansed", "forgotten"],
+    "hint": "Sins are hidden from sight",
+    "explanation": "David celebrates the blessedness of receiving forgiveness from God.",
+    "full_verse": "Blessed is the one whose transgressions are forgiven, whose sins are covered.",
+    "verse_ref": "Psalm 32:1"
+  },
+  "q_forgiveness_023": {
+    "question": "Fill in the blank: 'Then I acknowledged my sin to you and did not cover up my iniquity. I said, \"I will confess my transgressions to the LORD.\" And you forgave the _____ of my sin.'",
+    "correct": "guilt",
+    "wrong": ["weight", "burden", "stain"],
+    "hint": "The moral responsibility for sin",
+    "explanation": "David testifies that confession leads to forgiveness of guilt.",
+    "full_verse": "Then I acknowledged my sin to you and did not cover up my iniquity. I said, 'I will confess my transgressions to the LORD.' And you forgave the guilt of my sin.",
+    "verse_ref": "Psalm 32:5"
+  },
+  "q_forgiveness_024": {
+    "question": "Fill in the blank: 'Have mercy on me, O God, according to your unfailing love; according to your great _____ blot out my transgressions.'",
+    "correct": "compassion",
+    "wrong": ["mercy", "grace", "kindness"],
+    "hint": "God's tender feeling toward us",
+    "explanation": "David appeals to God's compassion for forgiveness of his sins.",
+    "full_verse": "Have mercy on me, O God, according to your unfailing love; according to your great compassion blot out my transgressions.",
+    "verse_ref": "Psalm 51:1"
+  },
+  "q_forgiveness_025": {
+    "question": "Fill in the blank: 'For you, Lord, are good, and ready to forgive, and abundant in _____ to all who call upon you.'",
+    "correct": "mercy",
+    "wrong": ["grace", "love", "kindness"],
+    "hint": "God is rich in this quality",
+    "explanation": "David praises God's readiness to forgive and His abundant mercy.",
+    "full_verse": "For you, Lord, are good, and ready to forgive, and abundant in mercy to all who call upon you.",
+    "verse_ref": "Psalm 86:5"
+  },
+  "q_forgiveness_026": {
+    "question": "Fill in the blank: 'Who forgives all your sins and heals all your _____.'",
+    "correct": "diseases",
+    "wrong": ["wounds", "sickness", "pain"],
+    "hint": "Physical ailments",
+    "explanation": "David praises God for both forgiving sins and healing physical ailments.",
+    "full_verse": "Who forgives all your sins and heals all your diseases.",
+    "verse_ref": "Psalm 103:3"
+  },
+  "q_forgiveness_027": {
+    "question": "Fill in the blank: 'But with you there is forgiveness, so that we can, with _____, serve you.'",
+    "correct": "reverence",
+    "wrong": ["joy", "love", "faith"],
+    "hint": "Holy respect for God",
+    "explanation": "The psalmist recognizes that God's forgiveness leads to reverent service.",
+    "full_verse": "But with you there is forgiveness, so that we can, with reverence, serve you.",
+    "verse_ref": "Psalm 130:4"
+  },
+  "q_forgiveness_028": {
+    "question": "Fill in the blank: 'Whoever would foster love covers over an offense, but whoever repeats the matter separates close _____.'",
+    "correct": "friends",
+    "wrong": ["hearts", "bonds", "people"],
+    "hint": "Relationships are affected",
+    "explanation": "Solomon teaches that love covers offenses rather than spreading them.",
+    "full_verse": "Whoever would foster love covers over an offense, but whoever repeats the matter separates close friends.",
+    "verse_ref": "Proverbs 17:9"
+  },
+  "q_forgiveness_029": {
+    "question": "Fill in the blank: 'I, even I, am he who blots out your transgressions, for my own sake, and remembers your sins no _____.'",
+    "correct": "more",
+    "wrong": ["longer", "again", "further"],
+    "hint": "God chooses to forget",
+    "explanation": "God declares that He forgives for His own sake and forgets our sins.",
+    "full_verse": "I, even I, am he who blots out your transgressions, for my own sake, and remembers your sins no more.",
+    "verse_ref": "Isaiah 43:25"
+  },
+  "q_forgiveness_030": {
+    "question": "Fill in the blank: 'Let the wicked forsake their ways and the unrighteous their thoughts. Let them turn to the LORD, and he will have _____ on them.'",
+    "correct": "mercy",
+    "wrong": ["pity", "compassion", "grace"],
+    "hint": "God's response to repentance",
+    "explanation": "Isaiah calls for repentance with the promise of God's mercy and forgiveness.",
+    "full_verse": "Let the wicked forsake their ways and the unrighteous their thoughts. Let them turn to the LORD, and he will have mercy on them, and to our God, for he will freely pardon.",
+    "verse_ref": "Isaiah 55:7"
+  },
+  "q_forgiveness_031": {
+    "question": "Fill in the blank: 'No longer will they teach their neighbor, or say to one another, \"Know the LORD,\" because they will all know me, from the least of them to the greatest, declares the LORD. For I will forgive their wickedness and will _____ their sins no more.'",
+    "correct": "remember",
+    "wrong": ["recall", "count", "hold"],
+    "hint": "God will not bring them to mind",
+    "explanation": "God promises a new covenant with complete forgiveness and personal knowledge of Him.",
+    "full_verse": "No longer will they teach their neighbor, or say to one another, 'Know the LORD,' because they will all know me, from the least of them to the greatest, declares the LORD. For I will forgive their wickedness and will remember their sins no more.",
+    "verse_ref": "Jeremiah 31:34"
+  },
+  "q_forgiveness_032": {
+    "question": "Fill in the blank: 'The Lord our God is merciful and forgiving, even though we have _____ against him.'",
+    "correct": "rebelled",
+    "wrong": ["sinned", "turned", "fought"],
+    "hint": "Active opposition to God",
+    "explanation": "Daniel acknowledges God's forgiveness despite Israel's rebellion.",
+    "full_verse": "The Lord our God is merciful and forgiving, even though we have rebelled against him.",
+    "verse_ref": "Daniel 9:9"
+  },
+  "q_forgiveness_033": {
+    "question": "Fill in the blank: 'But if you do not forgive others their sins, your Father will not forgive your _____.'",
+    "correct": "sins",
+    "wrong": ["debts", "wrongs", "faults"],
+    "hint": "What we need forgiven",
+    "explanation": "Jesus warns that unforgiveness toward others blocks our own forgiveness.",
+    "full_verse": "But if you do not forgive others their sins, your Father will not forgive your sins.",
+    "verse_ref": "Matthew 6:15"
+  },
+  "q_forgiveness_034": {
+    "question": "Fill in the blank: 'When Jesus saw their faith, he said to the paralyzed man, \"Son, your sins are _____.\"'",
+    "correct": "forgiven",
+    "wrong": ["removed", "cleansed", "pardoned"],
+    "hint": "Jesus declared this about the man's sins",
+    "explanation": "Jesus demonstrated His authority to forgive sins by healing the paralytic.",
+    "full_verse": "When Jesus saw their faith, he said to the paralyzed man, 'Son, your sins are forgiven.'",
+    "verse_ref": "Matthew 9:2"
+  },
+  "q_forgiveness_035": {
+    "question": "Fill in the blank: 'And so I tell you, every kind of sin and slander can be forgiven, but blasphemy against the _____ will not be forgiven.'",
+    "correct": "Spirit",
+    "wrong": ["Father", "Son", "Lord"],
+    "hint": "The third person of the Trinity",
+    "explanation": "Jesus warns about the unforgivable sin of blaspheming the Holy Spirit.",
+    "full_verse": "And so I tell you, every kind of sin and slander can be forgiven, but blasphemy against the Spirit will not be forgiven.",
+    "verse_ref": "Matthew 12:31"
+  },
+  "q_forgiveness_036": {
+    "question": "Fill in the blank: 'This is my blood of the covenant, which is poured out for many for the forgiveness of _____.'",
+    "correct": "sins",
+    "wrong": ["all", "many", "you"],
+    "hint": "Jesus shed His blood for this purpose",
+    "explanation": "Jesus declares at the Last Supper that His blood brings forgiveness.",
+    "full_verse": "This is my blood of the covenant, which is poured out for many for the forgiveness of sins.",
+    "verse_ref": "Matthew 26:28"
+  },
+  "q_forgiveness_037": {
+    "question": "Fill in the blank: 'When Jesus saw their faith, he said to the paralyzed man, \"Son, your sins are _____.\"'",
+    "correct": "forgiven",
+    "wrong": ["removed", "cleansed", "pardoned"],
+    "hint": "Jesus declared this first before healing",
+    "explanation": "Jesus prioritized forgiving the man's sins before healing his body.",
+    "full_verse": "When Jesus saw their faith, he said to the paralyzed man, 'Son, your sins are forgiven.'",
+    "verse_ref": "Mark 2:5"
+  },
+  "q_forgiveness_038": {
+    "question": "Fill in the blank: 'When Jesus saw their faith, he said, \"Friend, your sins are _____.\"'",
+    "correct": "forgiven",
+    "wrong": ["removed", "cleansed", "pardoned"],
+    "hint": "Jesus addressed the man's spiritual need",
+    "explanation": "Luke records Jesus forgiving the paralytic's sins, demonstrating His divine authority.",
+    "full_verse": "When Jesus saw their faith, he said, 'Friend, your sins are forgiven.'",
+    "verse_ref": "Luke 5:20"
+  },
+  "q_forgiveness_039": {
+    "question": "Fill in the blank: 'Therefore, I tell you, her many sins have been forgiven—as her great _____ has shown.'",
+    "correct": "love",
+    "wrong": ["faith", "tears", "devotion"],
+    "hint": "Her emotion demonstrated forgiveness received",
+    "explanation": "Jesus explains that the woman's great love was evidence of her forgiveness.",
+    "full_verse": "Therefore, I tell you, her many sins have been forgiven—as her great love has shown. But whoever has been forgiven little loves little.",
+    "verse_ref": "Luke 7:47"
+  },
+  "q_forgiveness_040": {
+    "question": "Fill in the blank: 'Then Jesus said to her, \"Your sins are _____.\"'",
+    "correct": "forgiven",
+    "wrong": ["removed", "cleansed", "pardoned"],
+    "hint": "Jesus declared this to the woman",
+    "explanation": "Jesus personally pronounced forgiveness to the sinful woman.",
+    "full_verse": "Then Jesus said to her, 'Your sins are forgiven.'",
+    "verse_ref": "Luke 7:48"
+  },
+  "q_forgiveness_041": {
+    "question": "Fill in the blank: 'Forgive us our sins, for we also forgive everyone who sins against us. And lead us not into _____.'",
+    "correct": "temptation",
+    "wrong": ["evil", "sin", "danger"],
+    "hint": "We ask to avoid this",
+    "explanation": "Jesus teaches His disciples to pray for forgiveness and protection from temptation.",
+    "full_verse": "Forgive us our sins, for we also forgive everyone who sins against us. And lead us not into temptation.",
+    "verse_ref": "Luke 11:4"
+  },
+  "q_forgiveness_042": {
+    "question": "Fill in the blank: 'God exalted him to his own right hand as Prince and Savior that he might bring Israel to repentance and forgive their _____.'",
+    "correct": "sins",
+    "wrong": ["debts", "wrongs", "guilt"],
+    "hint": "What Jesus came to forgive",
+    "explanation": "Peter declares that Jesus was exalted to bring repentance and forgiveness.",
+    "full_verse": "God exalted him to his own right hand as Prince and Savior that he might bring Israel to repentance and forgive their sins.",
+    "verse_ref": "Acts 5:31"
+  },
+  "q_forgiveness_043": {
+    "question": "Fill in the blank: 'To open their eyes and turn them from darkness to light, and from the power of Satan to God, so that they may receive forgiveness of sins and a place among those who are _____ by faith in me.'",
+    "correct": "sanctified",
+    "wrong": ["saved", "blessed", "chosen"],
+    "hint": "Made holy",
+    "explanation": "Paul describes his mission to bring people from darkness to light and forgiveness.",
+    "full_verse": "To open their eyes and turn them from darkness to light, and from the power of Satan to God, so that they may receive forgiveness of sins and a place among those who are sanctified by faith in me.",
+    "verse_ref": "Acts 26:18"
+  },
+  "q_forgiveness_044": {
+    "question": "Fill in the blank: 'In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God's _____.'",
+    "correct": "grace",
+    "wrong": ["love", "mercy", "glory"],
+    "hint": "God's unmerited favor",
+    "explanation": "Paul declares that forgiveness comes through Christ's blood and God's rich grace.",
+    "full_verse": "In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God's grace.",
+    "verse_ref": "Ephesians 1:7"
+  },
+  "q_forgiveness_045": {
+    "question": "Fill in the blank: 'In whom we have redemption, the forgiveness of _____.'",
+    "correct": "sins",
+    "wrong": ["all", "debts", "guilt"],
+    "hint": "What we are forgiven of",
+    "explanation": "Paul succinctly states that redemption in Christ means forgiveness of sins.",
+    "full_verse": "In whom we have redemption, the forgiveness of sins.",
+    "verse_ref": "Colossians 1:14"
+  },
+  "q_forgiveness_046": {
+    "question": "Fill in the blank: 'When you were dead in your sins and in the uncircumcision of your flesh, God made you alive with Christ. He forgave us all our _____.'",
+    "correct": "sins",
+    "wrong": ["debts", "wrongs", "faults"],
+    "hint": "Everything we did wrong",
+    "explanation": "Paul explains that God made us alive by forgiving all our sins through Christ.",
+    "full_verse": "When you were dead in your sins and in the uncircumcision of your flesh, God made you alive with Christ. He forgave us all our sins.",
+    "verse_ref": "Colossians 2:13"
+  },
+  "q_forgiveness_047": {
+    "question": "Fill in the blank: 'My dear children, I write this to you so that you will not sin. But if anybody does sin, we have an advocate with the Father—Jesus Christ, the _____ One.'",
+    "correct": "Righteous",
+    "wrong": ["Holy", "Faithful", "Living"],
+    "hint": "Jesus' moral character",
+    "explanation": "John assures believers that Jesus advocates for us when we sin.",
+    "full_verse": "My dear children, I write this to you so that you will not sin. But if anybody does sin, we have an advocate with the Father—Jesus Christ, the Righteous One.",
+    "verse_ref": "1 John 2:1"
+  },
+  "q_forgiveness_048": {
+    "question": "Fill in the blank: 'I am writing to you, dear children, because your sins have been forgiven on account of his _____.'",
+    "correct": "name",
+    "wrong": ["blood", "death", "love"],
+    "hint": "Forgiveness comes through this",
+    "explanation": "John reminds believers that their sins are forgiven through Jesus' name.",
+    "full_verse": "I am writing to you, dear children, because your sins have been forgiven on account of his name.",
+    "verse_ref": "1 John 2:12"
+  },
+  "q_forgiveness_049": {
+    "question": "Fill in the blank: 'If my people, who are called by my name, will humble themselves and pray and seek my face and turn from their wicked ways, then I will hear from heaven, and I will forgive their sin and will heal their _____.'",
+    "correct": "land",
+    "wrong": ["hearts", "nation", "people"],
+    "hint": "God promises to restore their territory",
+    "explanation": "God promises forgiveness and healing to His people who humble themselves and repent.",
+    "full_verse": "If my people, who are called by my name, will humble themselves and pray and seek my face and turn from their wicked ways, then I will hear from heaven, and I will forgive their sin and will heal their land.",
+    "verse_ref": "2 Chronicles 7:14"
+  },
+  "q_forgiveness_050": {
+    "question": "Fill in the blank: 'The LORD is slow to anger, abounding in love and forgiving sin and rebellion. Yet he does not leave the guilty unpunished; he punishes the children for the sin of the parents to the third and fourth _____.'",
+    "correct": "generation",
+    "wrong": ["level", "degree", "extent"],
+    "hint": "Sin's effects continue through family lines",
+    "explanation": "Moses declares God's character as slow to anger and forgiving, yet just.",
+    "full_verse": "The LORD is slow to anger, abounding in love and forgiving sin and rebellion. Yet he does not leave the guilty unpunished; he punishes the children for the sin of the parents to the third and fourth generation.",
+    "verse_ref": "Numbers 14:18"
+  }
+}

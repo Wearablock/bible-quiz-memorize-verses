@@ -1,1 +1,452 @@
-{}
+{
+  "q_love_001": {
+    "question": "Selon Jean 3:16, « Car Dieu a tant _____ le monde qu'il a donné son Fils unique. »",
+    "correct": "aimé",
+    "wrong": ["béni", "créé", "jugé"],
+    "hint": "Ce verset décrit le plus grand acte de Dieu envers l'humanité.",
+    "explanation": "Jean 3:16 révèle la profondeur de l'amour de Dieu - Il a tant aimé le monde qu'Il a donné son Fils pour notre salut.",
+    "full_verse": "Car Dieu a tant aimé le monde qu'il a donné son Fils unique, afin que quiconque croit en lui ne périsse point, mais qu'il ait la vie éternelle.",
+    "verse_ref": "Jean 3:16"
+  },
+  "q_love_002": {
+    "question": "Selon 1 Corinthiens 13:4, « L'amour est patient, l'amour est _____. »",
+    "correct": "serviable",
+    "wrong": ["fort", "sage", "pur"],
+    "hint": "Cette qualité implique gentillesse et considération.",
+    "explanation": "Paul commence sa célèbre description de l'amour en soulignant la patience et la bonté comme ses qualités fondamentales.",
+    "full_verse": "L'amour est patient, il est plein de bonté; l'amour n'est point envieux; l'amour ne se vante point, il ne s'enfle point d'orgueil.",
+    "verse_ref": "1 Corinthiens 13:4"
+  },
+  "q_love_003": {
+    "question": "Selon Jean 15:13, « Il n'y a pas de plus grand amour que de donner sa _____ pour ses amis. »",
+    "correct": "vie",
+    "wrong": ["richesse", "fierté", "maison"],
+    "hint": "Jésus a démontré ce sacrifice ultime.",
+    "explanation": "Jésus a prononcé ces paroles avant sa crucifixion, enseignant que la plus grande expression de l'amour est le sacrifice de soi.",
+    "full_verse": "Il n'y a pas de plus grand amour que de donner sa vie pour ses amis.",
+    "verse_ref": "Jean 15:13"
+  },
+  "q_love_004": {
+    "question": "Selon 1 Corinthiens 13:13, « Maintenant donc ces trois choses demeurent: la foi, l'espérance, l'amour; mais la plus grande de ces choses, c'est l'_____. »",
+    "correct": "amour",
+    "wrong": ["foi", "espérance", "paix"],
+    "hint": "Paul déclare celle-ci comme suprême parmi les trois.",
+    "explanation": "En concluant son discours sur l'amour, Paul déclare que la foi, l'espérance et l'amour demeurent, mais l'amour est la plus grande vertu.",
+    "full_verse": "Maintenant donc ces trois choses demeurent: la foi, l'espérance, l'amour; mais la plus grande de ces choses, c'est l'amour.",
+    "verse_ref": "1 Corinthiens 13:13"
+  },
+  "q_love_005": {
+    "question": "Selon 1 Jean 4:19, « Pour nous, nous l'aimons, parce qu'il nous a aimés le _____. »",
+    "correct": "premier",
+    "wrong": ["toujours", "vraiment", "profondément"],
+    "hint": "L'amour de Dieu a précédé le nôtre.",
+    "explanation": "Notre capacité d'aimer provient de l'initiative de Dieu - Il nous a aimés avant que nous puissions l'aimer.",
+    "full_verse": "Pour nous, nous l'aimons, parce qu'il nous a aimés le premier.",
+    "verse_ref": "1 Jean 4:19"
+  },
+  "q_love_006": {
+    "question": "Selon Marc 12:31, « Tu aimeras ton _____ comme toi-même. »",
+    "correct": "prochain",
+    "wrong": ["famille", "ami", "frère"],
+    "hint": "Ce commandement étend l'amour au-delà de notre cercle intime.",
+    "explanation": "Jésus a cité ce commandement du Lévitique comme le second plus grand, nous enseignant à étendre l'amour à toutes les personnes.",
+    "full_verse": "Voici le second: Tu aimeras ton prochain comme toi-même. Il n'y a pas d'autre commandement plus grand que ceux-là.",
+    "verse_ref": "Marc 12:31"
+  },
+  "q_love_007": {
+    "question": "Selon 1 Jean 4:8, « Dieu est _____. »",
+    "correct": "amour",
+    "wrong": ["lumière", "esprit", "saint"],
+    "hint": "Cela définit la nature essentielle de Dieu.",
+    "explanation": "Jean fait cette déclaration profonde que l'amour n'est pas seulement quelque chose que Dieu fait, mais ce qu'Il est fondamentalement.",
+    "full_verse": "Celui qui n'aime pas n'a pas connu Dieu, car Dieu est amour.",
+    "verse_ref": "1 Jean 4:8"
+  },
+  "q_love_008": {
+    "question": "Selon 1 Corinthiens 13:6, « L'amour ne se réjouit point de l'injustice, mais il se réjouit de la _____. »",
+    "correct": "vérité",
+    "wrong": ["justice", "bonté", "fidélité"],
+    "hint": "L'amour célèbre ce qui est authentique et honnête.",
+    "explanation": "Le véritable amour ne trouve aucun plaisir dans le mal mais célèbre la vérité et la justice.",
+    "full_verse": "il ne se réjouit point de l'injustice, mais il se réjouit de la vérité.",
+    "verse_ref": "1 Corinthiens 13:6"
+  },
+  "q_love_009": {
+    "question": "Selon 1 Pierre 4:8, « Avant tout, ayez les uns pour les autres un ardent amour, car l'amour couvre une multitude de _____. »",
+    "correct": "péchés",
+    "wrong": ["fautes", "erreurs", "torts"],
+    "hint": "L'amour a le pouvoir de pardonner de nombreuses transgressions.",
+    "explanation": "Pierre enseigne que l'amour profond et authentique a le pouvoir de pardonner et de passer sur de nombreuses offenses.",
+    "full_verse": "Avant tout, ayez les uns pour les autres un ardent amour, car l'amour couvre une multitude de péchés.",
+    "verse_ref": "1 Pierre 4:8"
+  },
+  "q_love_010": {
+    "question": "Selon Matthieu 5:44, « Mais moi, je vous dis: Aimez vos _____, bénissez ceux qui vous maudissent. »",
+    "correct": "ennemis",
+    "wrong": ["prochains", "frères", "amis"],
+    "hint": "Jésus nous commande d'aimer même ceux qui s'opposent à nous.",
+    "explanation": "Jésus a enseigné de façon radicale que l'amour doit s'étendre même à ceux qui nous haïssent et nous persécutent.",
+    "full_verse": "Mais moi, je vous dis: Aimez vos ennemis, bénissez ceux qui vous maudissent, faites du bien à ceux qui vous haïssent, et priez pour ceux qui vous maltraitent et qui vous persécutent.",
+    "verse_ref": "Matthieu 5:44"
+  },
+  "q_love_011": {
+    "question": "Selon Éphésiens 5:25, « Maris, aimez vos femmes, comme Christ a aimé l'_____. »",
+    "correct": "Église",
+    "wrong": ["humanité", "monde", "Père"],
+    "hint": "L'amour sacrificiel de Christ pour les croyants est le modèle.",
+    "explanation": "Paul instruit les maris à aimer leurs femmes avec le même amour sacrificiel que Christ a montré à l'Église.",
+    "full_verse": "Maris, aimez vos femmes, comme Christ a aimé l'Église, et s'est livré lui-même pour elle.",
+    "verse_ref": "Éphésiens 5:25"
+  },
+  "q_love_012": {
+    "question": "Selon Romains 13:8, « Ne devez rien à personne, si ce n'est de vous aimer les uns les _____. »",
+    "correct": "autres",
+    "wrong": ["prochains", "frères", "amis"],
+    "hint": "Cette dette ne peut jamais être entièrement payée.",
+    "explanation": "Paul enseigne que bien que nous devions payer toutes nos dettes, l'obligation d'aimer les autres est continue et jamais complètement acquittée.",
+    "full_verse": "Ne devez rien à personne, si ce n'est de vous aimer les uns les autres; car celui qui aime les autres a accompli la loi.",
+    "verse_ref": "Romains 13:8"
+  },
+  "q_love_013": {
+    "question": "Selon 1 Jean 4:18, « La crainte n'est pas dans l'amour, mais l'amour _____ bannit la crainte. »",
+    "correct": "parfait",
+    "wrong": ["vrai", "pur", "grand"],
+    "hint": "L'amour complet et mature élimine la crainte.",
+    "explanation": "Jean enseigne que quand l'amour atteint la maturité et la plénitude, il supprime toute crainte du jugement.",
+    "full_verse": "La crainte n'est pas dans l'amour, mais l'amour parfait bannit la crainte; car la crainte suppose un châtiment, et celui qui craint n'est pas parfait dans l'amour.",
+    "verse_ref": "1 Jean 4:18"
+  },
+  "q_love_014": {
+    "question": "Selon Matthieu 22:37, « Tu aimeras le Seigneur, ton Dieu, de tout ton cœur, de toute ton âme, et de toute ta _____. »",
+    "correct": "pensée",
+    "wrong": ["force", "vie", "richesse"],
+    "hint": "Cela implique notre capacité intellectuelle.",
+    "explanation": "Jésus a déclaré cela comme le plus grand commandement - aimer Dieu complètement avec chaque aspect de notre être.",
+    "full_verse": "Jésus lui répondit: Tu aimeras le Seigneur, ton Dieu, de tout ton cœur, de toute ton âme, et de toute ta pensée.",
+    "verse_ref": "Matthieu 22:37"
+  },
+  "q_love_015": {
+    "question": "Selon Jean 13:34, « Je vous donne un commandement nouveau: Aimez-vous les uns les _____. »",
+    "correct": "autres",
+    "wrong": ["prochains", "frères", "amis"],
+    "hint": "Jésus a modelé cet amour mutuel.",
+    "explanation": "Jésus a donné ce nouveau commandement à ses disciples, établissant son propre amour comme la norme de notre façon d'aimer.",
+    "full_verse": "Je vous donne un commandement nouveau: Aimez-vous les uns les autres; comme je vous ai aimés, vous aussi, aimez-vous les uns les autres.",
+    "verse_ref": "Jean 13:34"
+  },
+  "q_love_016": {
+    "question": "Selon 1 Jean 4:7, « Bien-aimés, aimons-nous les uns les autres; car l'amour est de _____. »",
+    "correct": "Dieu",
+    "wrong": ["ciel", "haut", "nous"],
+    "hint": "L'amour a une source divine.",
+    "explanation": "Jean enseigne que l'amour authentique provient de Dieu - Il est la source de tout véritable amour.",
+    "full_verse": "Bien-aimés, aimons-nous les uns les autres; car l'amour est de Dieu, et quiconque aime est né de Dieu et connaît Dieu.",
+    "verse_ref": "1 Jean 4:7"
+  },
+  "q_love_017": {
+    "question": "Selon 1 Jean 3:1, « Voyez quel amour le Père nous a témoigné, pour que nous soyons appelés _____ de Dieu! »",
+    "correct": "enfants",
+    "wrong": ["serviteurs", "amis", "héritiers"],
+    "hint": "Cela décrit notre relation avec Dieu.",
+    "explanation": "Jean s'émerveille de l'amour extravagant de Dieu qui nous accorde le privilège d'être ses enfants.",
+    "full_verse": "Voyez quel amour le Père nous a témoigné, pour que nous soyons appelés enfants de Dieu! Et nous le sommes.",
+    "verse_ref": "1 Jean 3:1"
+  },
+  "q_love_018": {
+    "question": "Selon 1 Corinthiens 13:8, « L'amour ne _____ jamais. »",
+    "correct": "périt",
+    "wrong": ["finit", "cesse", "s'arrête"],
+    "hint": "L'amour est permanent et infaillible.",
+    "explanation": "Paul déclare que contrairement aux dons spirituels qui cesseront, l'amour est éternel et ne périra jamais.",
+    "full_verse": "L'amour ne périt jamais. Les prophéties prendront fin, les langues cesseront, la connaissance disparaîtra.",
+    "verse_ref": "1 Corinthiens 13:8"
+  },
+  "q_love_019": {
+    "question": "Selon Jude 1:21, « Maintenez-vous dans l'amour de Dieu, en attendant la _____ de notre Seigneur Jésus-Christ. »",
+    "correct": "miséricorde",
+    "wrong": ["retour", "venue", "gloire"],
+    "hint": "Cette qualité mène à la vie éternelle.",
+    "explanation": "Jude encourage les croyants à rester dans l'amour de Dieu en attendant le retour miséricordieux de Christ.",
+    "full_verse": "maintenez-vous dans l'amour de Dieu, en attendant la miséricorde de notre Seigneur Jésus-Christ pour la vie éternelle.",
+    "verse_ref": "Jude 1:21"
+  },
+  "q_love_020": {
+    "question": "Selon 1 Corinthiens 16:14, « Que tout ce que vous faites se fasse avec _____! »",
+    "correct": "amour",
+    "wrong": ["foi", "paix", "joie"],
+    "hint": "Cela devrait motiver toutes nos actions.",
+    "explanation": "L'instruction simple mais profonde de Paul que l'amour devrait être la motivation derrière tout ce que nous faisons.",
+    "full_verse": "Que tout ce que vous faites se fasse avec amour!",
+    "verse_ref": "1 Corinthiens 16:14"
+  },
+  "q_love_021": {
+    "question": "Selon Romains 5:8, « Mais Dieu prouve son amour envers nous, en ce que, lorsque nous étions encore des _____, Christ est mort pour nous. »",
+    "correct": "pécheurs",
+    "wrong": ["perdus", "brisés", "faibles"],
+    "hint": "Christ est mort pour nous dans notre état déchu.",
+    "explanation": "Paul souligne que l'amour de Dieu est inconditionnel - Christ est mort pour nous alors que nous étions encore en rébellion contre lui.",
+    "full_verse": "Mais Dieu prouve son amour envers nous, en ce que, lorsque nous étions encore des pécheurs, Christ est mort pour nous.",
+    "verse_ref": "Romains 5:8"
+  },
+  "q_love_022": {
+    "question": "Selon 1 Corinthiens 13:7, « L'amour excuse tout, croit tout, espère tout, _____ tout. »",
+    "correct": "supporte",
+    "wrong": ["endure", "pardonne", "accepte"],
+    "hint": "L'amour continue malgré les difficultés.",
+    "explanation": "Paul décrit la nature persévérante de l'amour - il n'abandonne jamais et continue à travers toutes les circonstances.",
+    "full_verse": "il excuse tout, il croit tout, il espère tout, il supporte tout.",
+    "verse_ref": "1 Corinthiens 13:7"
+  },
+  "q_love_023": {
+    "question": "Selon 1 Jean 3:16, « Nous avons connu l'amour, en ce qu'il a donné sa _____ pour nous. »",
+    "correct": "vie",
+    "wrong": ["gloire", "couronne", "puissance"],
+    "hint": "Jésus a fait le sacrifice ultime.",
+    "explanation": "Jean désigne la mort sacrificielle de Christ comme l'exemple définitif de ce qu'est le véritable amour.",
+    "full_verse": "Nous avons connu l'amour, en ce qu'il a donné sa vie pour nous; nous aussi, nous devons donner notre vie pour les frères.",
+    "verse_ref": "1 Jean 3:16"
+  },
+  "q_love_024": {
+    "question": "Selon 1 Corinthiens 13:1, « Quand je parlerais les langues des hommes et des anges, si je n'ai pas l'amour, je suis un airain qui résonne, ou une _____ qui retentit. »",
+    "correct": "cymbale",
+    "wrong": ["cloche", "tambour", "trompette"],
+    "hint": "C'est un instrument à percussion.",
+    "explanation": "Paul commence son chapitre sur l'amour en déclarant que même les dons les plus impressionnants sont vides de sens sans amour.",
+    "full_verse": "Quand je parlerais les langues des hommes et des anges, si je n'ai pas l'amour, je suis un airain qui résonne, ou une cymbale qui retentit.",
+    "verse_ref": "1 Corinthiens 13:1"
+  },
+  "q_love_025": {
+    "question": "Selon 1 Jean 4:20, « Si quelqu'un dit: J'aime Dieu, et qu'il haïsse son frère, c'est un _____. »",
+    "correct": "menteur",
+    "wrong": ["fou", "pécheur", "hypocrite"],
+    "hint": "Cette personne ne dit pas la vérité.",
+    "explanation": "Jean montre clairement que l'amour pour Dieu et la haine des autres sont incompatibles - l'un prouve que l'autre est faux.",
+    "full_verse": "Si quelqu'un dit: J'aime Dieu, et qu'il haïsse son frère, c'est un menteur; car celui qui n'aime pas son frère qu'il voit, comment peut-il aimer Dieu qu'il ne voit pas?",
+    "verse_ref": "1 Jean 4:20"
+  },
+  "q_love_026": {
+    "question": "Selon Jean 15:12, « C'est ici mon commandement: Aimez-vous les uns les autres, comme je vous ai _____. »",
+    "correct": "aimés",
+    "wrong": ["enseignés", "bénis", "choisis"],
+    "hint": "Jésus a donné l'exemple à suivre.",
+    "explanation": "Jésus commande à ses disciples d'aimer avec le même amour sacrificiel qu'il a démontré.",
+    "full_verse": "C'est ici mon commandement: Aimez-vous les uns les autres, comme je vous ai aimés.",
+    "verse_ref": "Jean 15:12"
+  },
+  "q_love_027": {
+    "question": "Selon 1 Jean 2:10, « Celui qui aime son frère demeure dans la _____, et aucune occasion de chute n'est en lui. »",
+    "correct": "lumière",
+    "wrong": ["vérité", "paix", "foi"],
+    "hint": "C'est l'opposé des ténèbres.",
+    "explanation": "Jean contraste l'amour et la haine comme la lumière et les ténèbres - ceux qui aiment marchent dans la lumière de Dieu.",
+    "full_verse": "Celui qui aime son frère demeure dans la lumière, et aucune occasion de chute n'est en lui.",
+    "verse_ref": "1 Jean 2:10"
+  },
+  "q_love_028": {
+    "question": "Selon Colossiens 3:14, « Mais par-dessus toutes ces choses revêtez-vous de l'amour, qui est le lien de la _____. »",
+    "correct": "perfection",
+    "wrong": ["paix", "unité", "harmonie"],
+    "hint": "L'amour crée une plénitude parfaite.",
+    "explanation": "Paul décrit l'amour comme la vertu qui tient toutes les autres vertus ensemble dans une plénitude parfaite.",
+    "full_verse": "Mais par-dessus toutes ces choses revêtez-vous de l'amour, qui est le lien de la perfection.",
+    "verse_ref": "Colossiens 3:14"
+  },
+  "q_love_029": {
+    "question": "Selon Romains 8:38-39, « Car j'ai l'assurance que ni la mort ni la vie... ne pourra nous séparer de l'_____ de Dieu. »",
+    "correct": "amour",
+    "wrong": ["grâce", "puissance", "présence"],
+    "hint": "Rien ne peut briser ce lien avec Dieu.",
+    "explanation": "Paul déclare triomphalement que absolument rien ne peut séparer les croyants de l'amour de Dieu en Christ.",
+    "full_verse": "Car j'ai l'assurance que ni la mort ni la vie, ni les anges ni les dominations, ni les choses présentes ni les choses à venir, ni les puissances, ni la hauteur, ni la profondeur, ni aucune autre créature ne pourra nous séparer de l'amour de Dieu manifesté en Jésus-Christ notre Seigneur.",
+    "verse_ref": "Romains 8:38-39"
+  },
+  "q_love_030": {
+    "question": "Selon 1 Corinthiens 13:2, « Quand j'aurais le don de prophétie... quand j'aurais toute la foi... si je n'ai pas l'amour, je ne suis _____. »",
+    "correct": "rien",
+    "wrong": ["vide", "perdu", "fou"],
+    "hint": "Sans amour, même les grands dons ne valent zéro.",
+    "explanation": "Paul souligne que même les plus grands dons et capacités spirituels sont sans valeur sans amour.",
+    "full_verse": "Et quand j'aurais le don de prophétie, la science de tous les mystères et toute la connaissance, quand j'aurais même toute la foi jusqu'à transporter des montagnes, si je n'ai pas l'amour, je ne suis rien.",
+    "verse_ref": "1 Corinthiens 13:2"
+  },
+  "q_love_031": {
+    "question": "Selon Jérémie 31:3, « Je t'aime d'un amour _____; C'est pourquoi je te conserve ma bonté. »",
+    "correct": "éternel",
+    "wrong": ["infini", "sans fin", "immense"],
+    "hint": "Cet amour n'a pas de fin.",
+    "explanation": "Dieu déclare son amour pour son peuple comme éternel et immuable, les attirant avec bonté.",
+    "full_verse": "Je t'aime d'un amour éternel; C'est pourquoi je te conserve ma bonté.",
+    "verse_ref": "Jérémie 31:3"
+  },
+  "q_love_032": {
+    "question": "Selon Romains 12:10, « Par l'amour fraternel, soyez pleins d'affection les uns pour les autres; par honneur, usez de _____ réciproques. »",
+    "correct": "prévenances",
+    "wrong": ["respect", "politesse", "gentillesse"],
+    "hint": "Mettre les autres en premier.",
+    "explanation": "Paul instruit les croyants à pratiquer un amour désintéressé, mettant l'honneur des autres au-dessus du leur.",
+    "full_verse": "Par l'amour fraternel, soyez pleins d'affection les uns pour les autres; par honneur, usez de prévenances réciproques.",
+    "verse_ref": "Romains 12:10"
+  },
+  "q_love_033": {
+    "question": "Selon 1 Thessaloniciens 3:12, « Que le Seigneur augmente de plus en plus parmi vous, et à l'égard de tous, l'amour que vous avez les uns pour les autres et pour tous, à l'exemple de celui que nous avons pour _____! »",
+    "correct": "vous",
+    "wrong": ["tous", "eux", "lui"],
+    "hint": "L'amour devrait déborder abondamment.",
+    "explanation": "Paul prie pour que l'amour des Thessaloniciens grandisse tellement qu'il déborde sur tous autour d'eux.",
+    "full_verse": "Que le Seigneur augmente de plus en plus parmi vous, et à l'égard de tous, l'amour que vous avez les uns pour les autres et pour tous, à l'exemple de celui que nous avons pour vous!",
+    "verse_ref": "1 Thessaloniciens 3:12"
+  },
+  "q_love_034": {
+    "question": "Selon 1 Corinthiens 13:3, « Et quand je distribuerais tous mes biens pour la nourriture des pauvres... si je n'ai pas l'amour, cela ne me sert de _____. »",
+    "correct": "rien",
+    "wrong": ["peu", "moins", "vide"],
+    "hint": "Sans amour, même le sacrifice est sans valeur.",
+    "explanation": "Paul montre que même les actes les plus généreux et sacrificiels sont sans profit sans amour authentique.",
+    "full_verse": "Et quand je distribuerais tous mes biens pour la nourriture des pauvres, quand je livrerais même mon corps pour être brûlé, si je n'ai pas l'amour, cela ne me sert de rien.",
+    "verse_ref": "1 Corinthiens 13:3"
+  },
+  "q_love_035": {
+    "question": "Selon Matthieu 5:43, « Vous avez appris qu'il a été dit: Tu aimeras ton prochain, et tu haïras ton _____. »",
+    "correct": "ennemi",
+    "wrong": ["rival", "adversaire", "opposant"],
+    "hint": "Jésus a cité cet enseignement courant avant de le corriger.",
+    "explanation": "Jésus a cité l'interprétation populaire erronée avant d'enseigner que nous devons aimer même nos ennemis.",
+    "full_verse": "Vous avez appris qu'il a été dit: Tu aimeras ton prochain, et tu haïras ton ennemi.",
+    "verse_ref": "Matthieu 5:43"
+  },
+  "q_love_036": {
+    "question": "Selon 1 Jean 4:12, « Personne n'a jamais vu Dieu; si nous nous aimons les uns les autres, Dieu demeure en nous, et son amour est _____ en nous. »",
+    "correct": "parfait",
+    "wrong": ["complet", "entier", "plein"],
+    "hint": "L'amour de Dieu atteint son but en nous.",
+    "explanation": "Jean enseigne que s'aimer les uns les autres est la preuve de la présence de Dieu et de son amour atteignant son objectif prévu.",
+    "full_verse": "Personne n'a jamais vu Dieu; si nous nous aimons les uns les autres, Dieu demeure en nous, et son amour est parfait en nous.",
+    "verse_ref": "1 Jean 4:12"
+  },
+  "q_love_037": {
+    "question": "Selon 2 Jean 1:6, « Et l'amour consiste à marcher selon ses _____. »",
+    "correct": "commandements",
+    "wrong": ["voies", "paroles", "instructions"],
+    "hint": "L'amour se démontre en suivant les instructions de Dieu.",
+    "explanation": "Jean définit l'amour de façon pratique comme l'obéissance aux commandements de Dieu, pas seulement une émotion.",
+    "full_verse": "Et l'amour consiste à marcher selon ses commandements. C'est là le commandement dans lequel vous devez marcher, comme vous l'avez appris dès le commencement.",
+    "verse_ref": "2 Jean 1:6"
+  },
+  "q_love_038": {
+    "question": "Selon Jean 13:35, « A ceci tous connaîtront que vous êtes mes disciples, si vous avez de l'amour les uns pour les _____. »",
+    "correct": "autres",
+    "wrong": ["prochains", "frères", "amis"],
+    "hint": "L'amour mutuel identifie les disciples de Christ.",
+    "explanation": "Jésus a déclaré que l'amour entre ses disciples serait la marque distinctive du vrai discipulat.",
+    "full_verse": "A ceci tous connaîtront que vous êtes mes disciples, si vous avez de l'amour les uns pour les autres.",
+    "verse_ref": "Jean 13:35"
+  },
+  "q_love_039": {
+    "question": "Selon Proverbes 3:3, « Que la bonté et la fidélité ne t'abandonnent pas; Lie-les à ton _____. »",
+    "correct": "cou",
+    "wrong": ["cœur", "poignet", "taille"],
+    "hint": "Porte ces vertus comme un bijou.",
+    "explanation": "Le proverbe nous instruit à garder la bonté et la fidélité près de nous, comme un collier toujours porté.",
+    "full_verse": "Que la bonté et la fidélité ne t'abandonnent pas; Lie-les à ton cou, écris-les sur la table de ton cœur.",
+    "verse_ref": "Proverbes 3:3"
+  },
+  "q_love_040": {
+    "question": "Selon 1 Corinthiens 13:5, « L'amour ne fait rien de malhonnête, il ne cherche point son intérêt, il ne s'_____ point. »",
+    "correct": "irrite",
+    "wrong": ["offense", "blesse", "provoque"],
+    "hint": "L'amour garde son calme.",
+    "explanation": "Paul décrit l'amour comme patient avec les autres, ne se mettant pas rapidement en colère.",
+    "full_verse": "il ne fait rien de malhonnête, il ne cherche point son intérêt, il ne s'irrite point, il ne soupçonne point le mal.",
+    "verse_ref": "1 Corinthiens 13:5"
+  },
+  "q_love_041": {
+    "question": "Selon Romains 5:5, « Or, l'espérance ne trompe point, parce que l'amour de Dieu est répandu dans nos _____ par le Saint-Esprit. »",
+    "correct": "cœurs",
+    "wrong": ["âmes", "vies", "esprits"],
+    "hint": "L'Esprit remplit cette partie de nous avec l'amour de Dieu.",
+    "explanation": "Paul décrit comment le Saint-Esprit remplit les cœurs des croyants de la connaissance expérientielle de l'amour de Dieu.",
+    "full_verse": "Or, l'espérance ne trompe point, parce que l'amour de Dieu est répandu dans nos cœurs par le Saint-Esprit qui nous a été donné.",
+    "verse_ref": "Romains 5:5"
+  },
+  "q_love_042": {
+    "question": "Selon Proverbes 10:12, « La haine excite des querelles, Mais l'amour couvre toutes les _____. »",
+    "correct": "fautes",
+    "wrong": ["péchés", "erreurs", "offenses"],
+    "hint": "L'amour passe sur les offenses.",
+    "explanation": "Ce proverbe contraste la haine, qui crée des conflits, avec l'amour, qui pardonne et couvre les offenses.",
+    "full_verse": "La haine excite des querelles, Mais l'amour couvre toutes les fautes.",
+    "verse_ref": "Proverbes 10:12"
+  },
+  "q_love_043": {
+    "question": "Selon Cantique des Cantiques 8:6, « Mets-moi comme un sceau sur ton cœur... Car l'amour est fort comme la _____. »",
+    "correct": "mort",
+    "wrong": ["vie", "foi", "force"],
+    "hint": "La puissance de l'amour est comparée à quelque chose d'inévitable.",
+    "explanation": "Le Cantique des Cantiques décrit poétiquement la puissance irrésistible de l'amour, la comparant à la force implacable de la mort.",
+    "full_verse": "Mets-moi comme un sceau sur ton cœur, Comme un sceau sur ton bras; Car l'amour est fort comme la mort, La jalousie est inflexible comme le séjour des morts.",
+    "verse_ref": "Cantique des Cantiques 8:6"
+  },
+  "q_love_044": {
+    "question": "Selon 1 Jean 4:9, « L'amour de Dieu a été manifesté envers nous en ce que Dieu a envoyé son _____ unique dans le monde. »",
+    "correct": "Fils",
+    "wrong": ["Esprit", "Parole", "Don"],
+    "hint": "Dieu a envoyé Jésus pour démontrer son amour.",
+    "explanation": "Jean explique que l'amour de Dieu a été démontré en envoyant Jésus-Christ dans le monde.",
+    "full_verse": "L'amour de Dieu a été manifesté envers nous en ce que Dieu a envoyé son Fils unique dans le monde, afin que nous vivions par lui.",
+    "verse_ref": "1 Jean 4:9"
+  },
+  "q_love_045": {
+    "question": "Selon Romains 12:9, « Que l'amour soit sans _____. Ayez le mal en horreur; attachez-vous fortement au bien. »",
+    "correct": "hypocrisie",
+    "wrong": ["mensonge", "fausseté", "prétention"],
+    "hint": "L'amour doit être sans feinte.",
+    "explanation": "Paul instruit que l'amour doit être authentique et sans hypocrisie, accompagné de discernement moral.",
+    "full_verse": "Que l'amour soit sans hypocrisie. Ayez le mal en horreur; attachez-vous fortement au bien.",
+    "verse_ref": "Romains 12:9"
+  },
+  "q_love_046": {
+    "question": "Selon 1 Corinthiens 13:5, « L'amour ne soupçonne point le _____. »",
+    "correct": "mal",
+    "wrong": ["péché", "tort", "mensonge"],
+    "hint": "L'amour ne garde pas rancune.",
+    "explanation": "Paul décrit l'amour comme pardonnant, ne tenant pas une liste des offenses commises contre nous.",
+    "full_verse": "il ne fait rien de malhonnête, il ne cherche point son intérêt, il ne s'irrite point, il ne soupçonne point le mal.",
+    "verse_ref": "1 Corinthiens 13:5"
+  },
+  "q_love_047": {
+    "question": "Selon Galates 5:6, « Car, en Jésus-Christ, ni la circoncision ni l'incirconcision n'a de valeur, mais la foi qui est agissante par l'_____. »",
+    "correct": "amour",
+    "wrong": ["œuvre", "action", "obéissance"],
+    "hint": "La foi devrait se démontrer de cette façon.",
+    "explanation": "Paul enseigne que la vraie foi est active et se manifeste par l'amour pour les autres.",
+    "full_verse": "Car, en Jésus-Christ, ni la circoncision ni l'incirconcision n'a de valeur, mais la foi qui est agissante par l'amour.",
+    "verse_ref": "Galates 5:6"
+  },
+  "q_love_048": {
+    "question": "Selon 1 Corinthiens 13:11, « Lorsque j'étais enfant, je parlais comme un enfant, je pensais comme un enfant, je raisonnais comme un enfant; lorsque je suis devenu homme, j'ai fait disparaître ce qui était de l'_____. »",
+    "correct": "enfant",
+    "wrong": ["jeunesse", "immaturité", "enfance"],
+    "hint": "Grandir signifie laisser cette étape derrière.",
+    "explanation": "Paul illustre que l'amour apporte la maturité, comme passer de l'enfance à l'âge adulte.",
+    "full_verse": "Lorsque j'étais enfant, je parlais comme un enfant, je pensais comme un enfant, je raisonnais comme un enfant; lorsque je suis devenu homme, j'ai fait disparaître ce qui était de l'enfant.",
+    "verse_ref": "1 Corinthiens 13:11"
+  },
+  "q_love_049": {
+    "question": "Selon 1 Jean 3:18, « Petits enfants, n'aimons pas en paroles et avec la langue, mais en actions et avec _____. »",
+    "correct": "vérité",
+    "wrong": ["sincérité", "foi", "cœur"],
+    "hint": "L'amour doit être authentique et réel.",
+    "explanation": "Jean appelle à un amour qui va au-delà des simples mots vers des actions authentiques qui reflètent la vérité.",
+    "full_verse": "Petits enfants, n'aimons pas en paroles et avec la langue, mais en actions et avec vérité.",
+    "verse_ref": "1 Jean 3:18"
+  },
+  "q_love_050": {
+    "question": "Selon 1 Jean 4:16, « Et nous, nous avons connu l'amour que Dieu a pour nous, et nous y avons cru. Dieu est amour; et celui qui demeure dans l'amour demeure en _____, et Dieu demeure en lui. »",
+    "correct": "Dieu",
+    "wrong": ["paix", "lumière", "vérité"],
+    "hint": "Vivre dans l'amour signifie demeurer dans le Divin.",
+    "explanation": "Jean enseigne que ceux qui vivent dans l'amour expérimentent une demeure mutuelle et intime avec Dieu.",
+    "full_verse": "Et nous, nous avons connu l'amour que Dieu a pour nous, et nous y avons cru. Dieu est amour; et celui qui demeure dans l'amour demeure en Dieu, et Dieu demeure en lui.",
+    "verse_ref": "1 Jean 4:16"
+  }
+}

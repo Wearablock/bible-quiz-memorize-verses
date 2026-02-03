@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_salvation_001",
+      "question": "Điền vào chỗ trống: 'Vì Đức Chúa Trời yêu thương thế gian đến nỗi đã ban Con một của Ngài, hầu cho hễ ai tin Con ấy không bị hư mất mà được sự sống đời _____.'",
+      "correct": "đời",
+      "wrong": ["bình an", "vui mừng", "cứu rỗi"],
+      "hint": "Đây là điều tồn tại mãi mãi",
+      "explanation": "Tình yêu của Đức Chúa Trời ban cho chúng ta món quà sự sống đời đời qua đức tin nơi Chúa Giê-xu.",
+      "full_verse": "Vì Đức Chúa Trời yêu thương thế gian đến nỗi đã ban Con một của Ngài, hầu cho hễ ai tin Con ấy không bị hư mất mà được sự sống đời đời.",
+      "verse_ref": "Giăng 3:16"
+    },
+    {
+      "id": "q_salvation_002",
+      "question": "Điền vào chỗ trống: 'Vậy nếu miệng ngươi xưng Đức Chúa Giê-xu là Chúa, và lòng ngươi tin rằng Đức Chúa Trời đã khiến Ngài từ cõi chết sống lại, thì ngươi sẽ được _____.'",
+      "correct": "cứu",
+      "wrong": ["phước", "tha thứ", "chữa lành"],
+      "hint": "Điều này có nghĩa là được giải cứu khỏi tội lỗi",
+      "explanation": "Sự cứu rỗi đến qua việc xưng nhận Chúa Giê-xu là Chúa và tin vào sự phục sinh của Ngài.",
+      "full_verse": "Vậy nếu miệng ngươi xưng Đức Chúa Giê-xu là Chúa, và lòng ngươi tin rằng Đức Chúa Trời đã khiến Ngài từ cõi chết sống lại, thì ngươi sẽ được cứu.",
+      "verse_ref": "Rô-ma 10:9"
+    },
+    {
+      "id": "q_salvation_003",
+      "question": "Điền vào chỗ trống: 'Vả, ấy là nhờ ân điển, bởi đức tin mà anh em được cứu, điều đó không phải đến từ anh em, bèn là sự ban cho của Đức Chúa Trời, cũng không phải bởi _____, hầu cho không ai khoe mình.'",
+      "correct": "việc làm",
+      "wrong": ["nỗ lực", "công đức", "thành tích"],
+      "hint": "Đây là những hành động hoặc công việc chúng ta làm",
+      "explanation": "Sự cứu rỗi là món quà miễn phí của Đức Chúa Trời, không do nỗ lực của chính chúng ta.",
+      "full_verse": "Vả, ấy là nhờ ân điển, bởi đức tin mà anh em được cứu, điều đó không phải đến từ anh em, bèn là sự ban cho của Đức Chúa Trời, cũng không phải bởi việc làm, hầu cho không ai khoe mình.",
+      "verse_ref": "Ê-phê-sô 2:8-9"
+    },
+    {
+      "id": "q_salvation_004",
+      "question": "Điền vào chỗ trống: 'Chẳng có sự cứu rỗi trong đấng nào khác; vì ở dưới trời chẳng có _____ nào khác ban cho loài người, để chúng ta phải nhờ đó mà được cứu.'",
+      "correct": "danh",
+      "wrong": ["đường", "lối", "hy vọng"],
+      "hint": "Điều này đại diện cho danh tính của một người",
+      "explanation": "Chúa Giê-xu Christ là nguồn cứu rỗi duy nhất cho nhân loại.",
+      "full_verse": "Chẳng có sự cứu rỗi trong đấng nào khác; vì ở dưới trời chẳng có danh nào khác ban cho loài người, để chúng ta phải nhờ đó mà được cứu.",
+      "verse_ref": "Công vụ 4:12"
+    },
+    {
+      "id": "q_salvation_005",
+      "question": "Điền vào chỗ trống: 'Vậy Đức Chúa Giê-xu đáp rằng: Ta là đường đi, lẽ thật, và sự sống; chẳng bởi ta thì không ai được đến cùng _____.'",
+      "correct": "Cha",
+      "wrong": ["đức tin", "Ngài", "ân điển"],
+      "hint": "Chúa Giê-xu đang nói về Đức Chúa Trời Cha",
+      "explanation": "Chúa Giê-xu là con đường duy nhất đến với Đức Chúa Trời là Cha.",
+      "full_verse": "Vậy Đức Chúa Giê-xu đáp rằng: Ta là đường đi, lẽ thật, và sự sống; chẳng bởi ta thì không ai được đến cùng Cha.",
+      "verse_ref": "Giăng 14:6"
+    },
+    {
+      "id": "q_salvation_006",
+      "question": "Điền vào chỗ trống: 'Vì tiền công của tội lỗi là sự chết, nhưng sự ban cho của Đức Chúa Trời là sự sống đời đời trong Đức Chúa Giê-xu Christ, _____ chúng ta.'",
+      "correct": "Chúa",
+      "wrong": ["Đấng Cứu Thế", "Vua", "Chủ"],
+      "hint": "Danh hiệu này thể hiện quyền năng của Chúa Giê-xu",
+      "explanation": "Tội lỗi dẫn đến sự chết, nhưng Đức Chúa Trời ban sự sống đời đời qua Chúa Giê-xu.",
+      "full_verse": "Vì tiền công của tội lỗi là sự chết, nhưng sự ban cho của Đức Chúa Trời là sự sống đời đời trong Đức Chúa Giê-xu Christ, Chúa chúng ta.",
+      "verse_ref": "Rô-ma 6:23"
+    },
+    {
+      "id": "q_salvation_007",
+      "question": "Điền vào chỗ trống: 'Hai người trả lời rằng: Hãy tin Đức Chúa Giê-xu, thì ngươi và _____ ngươi sẽ được cứu rỗi.'",
+      "correct": "cả nhà",
+      "wrong": ["gia đình", "con cái", "dân tộc"],
+      "hint": "Điều này đề cập đến tất cả những người sống trong nhà bạn",
+      "explanation": "Đức tin nơi Chúa Giê-xu mang lại sự cứu rỗi có thể ảnh hưởng đến toàn bộ gia đình.",
+      "full_verse": "Hai người trả lời rằng: Hãy tin Đức Chúa Giê-xu, thì ngươi và cả nhà ngươi sẽ được cứu rỗi.",
+      "verse_ref": "Công vụ 16:31"
+    },
+    {
+      "id": "q_salvation_008",
+      "question": "Điền vào chỗ trống: 'Ngài cứu chúng ta không phải vì việc công bình chúng ta đã làm, nhưng cứ theo _____ Ngài mà thôi, bởi sự rửa về sự lại sanh và sự đổi mới của Đức Thánh Linh.'",
+      "correct": "lòng thương xót",
+      "wrong": ["ân điển", "tình yêu", "sự nhân từ"],
+      "hint": "Đây là lòng thương cảm dành cho những người không xứng đáng",
+      "explanation": "Sự cứu rỗi của chúng ta dựa trên lòng thương xót của Đức Chúa Trời, không phải sự công bình của chính chúng ta.",
+      "full_verse": "Ngài cứu chúng ta không phải vì việc công bình chúng ta đã làm, nhưng cứ theo lòng thương xót Ngài mà thôi, bởi sự rửa về sự lại sanh và sự đổi mới của Đức Thánh Linh.",
+      "verse_ref": "Tít 3:5"
+    },
+    {
+      "id": "q_salvation_009",
+      "question": "Điền vào chỗ trống: 'Nhưng hễ ai đã nhận Ngài, thì Ngài ban cho quyền phép trở nên _____ Đức Chúa Trời, là ban cho những kẻ tin danh Ngài.'",
+      "correct": "con cái",
+      "wrong": ["tôi tớ", "môn đồ", "người theo"],
+      "hint": "Điều này mô tả mối quan hệ gia đình",
+      "explanation": "Tin Chúa Giê-xu cho chúng ta quyền trở thành thành viên trong gia đình Đức Chúa Trời.",
+      "full_verse": "Nhưng hễ ai đã nhận Ngài, thì Ngài ban cho quyền phép trở nên con cái Đức Chúa Trời, là ban cho những kẻ tin danh Ngài.",
+      "verse_ref": "Giăng 1:12"
+    },
+    {
+      "id": "q_salvation_010",
+      "question": "Điền vào chỗ trống: 'Nhưng Đức Chúa Trời tỏ lòng yêu thương Ngài đối với chúng ta, khi chúng ta còn là người có _____, thì Đấng Christ vì chúng ta chịu chết.'",
+      "correct": "tội",
+      "wrong": ["lạc mất", "thù nghịch", "yếu đuối"],
+      "hint": "Điều này mô tả những người đã làm điều sai trái",
+      "explanation": "Tình yêu của Đức Chúa Trời được thể hiện qua việc Đấng Christ chịu chết vì chúng ta dù chúng ta còn là tội nhân.",
+      "full_verse": "Nhưng Đức Chúa Trời tỏ lòng yêu thương Ngài đối với chúng ta, khi chúng ta còn là người có tội, thì Đấng Christ vì chúng ta chịu chết.",
+      "verse_ref": "Rô-ma 5:8"
+    },
+    {
+      "id": "q_salvation_011",
+      "question": "Điền vào chỗ trống: 'Vì Đức Chúa Trời đã sai Con Ngài xuống thế gian, chẳng phải để đoán xét thế gian đâu, nhưng hầu cho thế gian nhờ Con ấy mà được _____.'",
+      "correct": "cứu",
+      "wrong": ["phán xét", "chuộc", "chữa lành"],
+      "hint": "Đây là mục đích Chúa Giê-xu đến",
+      "explanation": "Chúa Giê-xu đến không phải để lên án mà để cứu thế gian.",
+      "full_verse": "Vì Đức Chúa Trời đã sai Con Ngài xuống thế gian, chẳng phải để đoán xét thế gian đâu, nhưng hầu cho thế gian nhờ Con ấy mà được cứu.",
+      "verse_ref": "Giăng 3:17"
+    },
+    {
+      "id": "q_salvation_012",
+      "question": "Điền vào chỗ trống: 'Quả thật, quả thật, ta nói cùng các ngươi, ai nghe lời ta mà tin Đấng đã sai ta, thì được sự sống đời đời, và không đến sự phán xét, song vượt khỏi sự chết mà đến sự _____.'",
+      "correct": "sống",
+      "wrong": ["vinh hiển", "bình an", "tự do"],
+      "hint": "Đây là điều trái ngược với sự chết",
+      "explanation": "Tin Chúa Giê-xu có nghĩa là vượt qua từ sự chết thuộc linh đến sự sống đời đời.",
+      "full_verse": "Quả thật, quả thật, ta nói cùng các ngươi, ai nghe lời ta mà tin Đấng đã sai ta, thì được sự sống đời đời, và không đến sự phán xét, song vượt khỏi sự chết mà đến sự sống.",
+      "verse_ref": "Giăng 5:24"
+    },
+    {
+      "id": "q_salvation_013",
+      "question": "Điền vào chỗ trống: 'Quả thật, quả thật, ta nói cùng các ngươi, hễ ai _____ thì được sự sống đời đời.'",
+      "correct": "tin",
+      "wrong": ["vâng lời", "theo", "cầu nguyện"],
+      "hint": "Điều này có nghĩa là có đức tin",
+      "explanation": "Sự sống đời đời đến qua việc tin Chúa Giê-xu.",
+      "full_verse": "Quả thật, quả thật, ta nói cùng các ngươi, hễ ai tin thì được sự sống đời đời.",
+      "verse_ref": "Giăng 6:47"
+    },
+    {
+      "id": "q_salvation_014",
+      "question": "Điền vào chỗ trống: 'Ta là cái cửa: nếu ai bởi ta mà vào, thì sẽ được cứu rỗi; họ sẽ vào ra và gặp _____.'",
+      "correct": "đồng cỏ",
+      "wrong": ["sự yên nghỉ", "bình an", "sự sống"],
+      "hint": "Đây là nơi chiên ăn cỏ",
+      "explanation": "Chúa Giê-xu là cửa vào sự cứu rỗi và sự nuôi dưỡng thuộc linh.",
+      "full_verse": "Ta là cái cửa: nếu ai bởi ta mà vào, thì sẽ được cứu rỗi; họ sẽ vào ra và gặp đồng cỏ.",
+      "verse_ref": "Giăng 10:9"
+    },
+    {
+      "id": "q_salvation_015",
+      "question": "Điền vào chỗ trống: 'Ta ban cho nó sự sống đời đời; nó chẳng chết mất bao giờ, và chẳng ai cướp nó khỏi _____ ta.'",
+      "correct": "tay",
+      "wrong": ["quyền năng", "sự bảo vệ", "tình yêu"],
+      "hint": "Bộ phận cơ thể dùng để nắm giữ",
+      "explanation": "Chúa Giê-xu đảm bảo sự an ninh đời đời cho những người theo Ngài.",
+      "full_verse": "Ta ban cho nó sự sống đời đời; nó chẳng chết mất bao giờ, và chẳng ai cướp nó khỏi tay ta.",
+      "verse_ref": "Giăng 10:28"
+    },
+    {
+      "id": "q_salvation_016",
+      "question": "Điền vào chỗ trống: 'Và lại ai cầu khẩn danh Chúa thì sẽ được _____.'",
+      "correct": "cứu",
+      "wrong": ["phước", "nghe", "tha thứ"],
+      "hint": "Điều này có nghĩa là được giải cứu khỏi tội lỗi",
+      "explanation": "Sự cứu rỗi dành cho tất cả những ai kêu cầu Chúa.",
+      "full_verse": "Và lại ai cầu khẩn danh Chúa thì sẽ được cứu.",
+      "verse_ref": "Công vụ 2:21"
+    },
+    {
+      "id": "q_salvation_017",
+      "question": "Điền vào chỗ trống: 'Thật vậy, tôi không hổ thẹn về Tin Lành đâu, vì là quyền phép của Đức Chúa Trời để cứu mọi kẻ _____: trước là người Giu-đa, sau là người Gờ-réc.'",
+      "correct": "tin",
+      "wrong": ["vâng lời", "ăn năn", "theo"],
+      "hint": "Điều này có nghĩa là có đức tin",
+      "explanation": "Tin Lành là thông điệp quyền năng của Đức Chúa Trời về sự cứu rỗi qua đức tin.",
+      "full_verse": "Thật vậy, tôi không hổ thẹn về Tin Lành đâu, vì là quyền phép của Đức Chúa Trời để cứu mọi kẻ tin: trước là người Giu-đa, sau là người Gờ-réc.",
+      "verse_ref": "Rô-ma 1:16"
+    },
+    {
+      "id": "q_salvation_018",
+      "question": "Điền vào chỗ trống: 'Vì mọi người đều đã phạm tội, thiếu mất sự vinh hiển của Đức Chúa Trời, và họ nhờ _____ Ngài mà được xưng công bình nhưng không, bởi sự chuộc tội đã làm trọn trong Đức Chúa Giê-xu Christ.'",
+      "correct": "ân điển",
+      "wrong": ["lòng thương xót", "tình yêu", "quyền năng"],
+      "hint": "Đây là ân huệ không đáng được",
+      "explanation": "Mọi người đều đã phạm tội, nhưng sự xưng công bình được ban cho nhưng không qua ân điển của Đức Chúa Trời.",
+      "full_verse": "Vì mọi người đều đã phạm tội, thiếu mất sự vinh hiển của Đức Chúa Trời, và họ nhờ ân điển Ngài mà được xưng công bình nhưng không, bởi sự chuộc tội đã làm trọn trong Đức Chúa Giê-xu Christ.",
+      "verse_ref": "Rô-ma 3:23-24"
+    },
+    {
+      "id": "q_salvation_019",
+      "question": "Điền vào chỗ trống: 'Huống chi nay chúng ta đã nhờ huyết Ngài được xưng công bình, thì sẽ nhờ Ngài được cứu khỏi cơn _____ là dường nào!'",
+      "correct": "thạnh nộ",
+      "wrong": ["phán xét", "tức giận", "hình phạt"],
+      "hint": "Đây là sự giận dữ công bình của Đức Chúa Trời đối với tội lỗi",
+      "explanation": "Huyết của Đấng Christ cứu chúng ta khỏi cơn thạnh nộ mà chúng ta đáng phải chịu.",
+      "full_verse": "Huống chi nay chúng ta đã nhờ huyết Ngài được xưng công bình, thì sẽ nhờ Ngài được cứu khỏi cơn thạnh nộ là dường nào!",
+      "verse_ref": "Rô-ma 5:9"
+    },
+    {
+      "id": "q_salvation_020",
+      "question": "Điền vào chỗ trống: 'Cho nên hiện nay chẳng còn có sự _____ gì cho những kẻ ở trong Đức Chúa Giê-xu Christ.'",
+      "correct": "đoán phạt",
+      "wrong": ["phán xét", "hình phạt", "tội lỗi"],
+      "hint": "Điều này có nghĩa là sự tuyên án có tội",
+      "explanation": "Những ai ở trong Đấng Christ được giải thoát khỏi án phạt của tội lỗi.",
+      "full_verse": "Cho nên hiện nay chẳng còn có sự đoán phạt gì cho những kẻ ở trong Đức Chúa Giê-xu Christ.",
+      "verse_ref": "Rô-ma 8:1"
+    },
+    {
+      "id": "q_salvation_021",
+      "question": "Điền vào chỗ trống: 'Vì ai kêu cầu _____ Chúa thì sẽ được cứu.'",
+      "correct": "danh",
+      "wrong": ["quyền năng", "ân điển", "lòng thương xót"],
+      "hint": "Điều này đại diện cho danh tính của Đức Chúa Trời",
+      "explanation": "Kêu cầu danh Chúa mang lại sự cứu rỗi.",
+      "full_verse": "Vì ai kêu cầu danh Chúa thì sẽ được cứu.",
+      "verse_ref": "Rô-ma 10:13"
+    },
+    {
+      "id": "q_salvation_022",
+      "question": "Điền vào chỗ trống: 'Vậy, nếu ai ở trong Đấng Christ, thì nấy là người dựng nên mới; những sự cũ đã qua đi, này mọi sự đều trở nên _____.'",
+      "correct": "mới",
+      "wrong": ["sống", "hy vọng", "thay đổi"],
+      "hint": "Đây là điều trái ngược với cũ",
+      "explanation": "Trong Đấng Christ, chúng ta trở thành tạo vật hoàn toàn mới.",
+      "full_verse": "Vậy, nếu ai ở trong Đấng Christ, thì nấy là người dựng nên mới; những sự cũ đã qua đi, này mọi sự đều trở nên mới.",
+      "verse_ref": "2 Cô-rinh-tô 5:17"
+    },
+    {
+      "id": "q_salvation_023",
+      "question": "Điền vào chỗ trống: 'Dầu vậy, đã biết rằng người ta được xưng công bình chẳng phải bởi các việc luật pháp đâu, bèn là cậy _____ trong Đức Chúa Giê-xu Christ, nên chính chúng tôi đã tin Đức Chúa Giê-xu Christ.'",
+      "correct": "đức tin",
+      "wrong": ["sự trông cậy", "hy vọng", "lòng tin"],
+      "hint": "Đây là niềm tin chắc chắn",
+      "explanation": "Sự xưng công bình đến qua đức tin nơi Đấng Christ, không phải bởi tuân theo luật pháp.",
+      "full_verse": "Dầu vậy, đã biết rằng người ta được xưng công bình chẳng phải bởi các việc luật pháp đâu, bèn là cậy đức tin trong Đức Chúa Giê-xu Christ, nên chính chúng tôi đã tin Đức Chúa Giê-xu Christ.",
+      "verse_ref": "Ga-la-ti 2:16"
+    },
+    {
+      "id": "q_salvation_024",
+      "question": "Điền vào chỗ trống: 'Trong Ngài, chúng ta được cứu chuộc bởi huyết Ngài, được tha tội, theo sự dư dật của _____ Ngài.'",
+      "correct": "ân điển",
+      "wrong": ["lòng thương xót", "tình yêu", "vinh hiển"],
+      "hint": "Đây là ân huệ không đáng được từ Đức Chúa Trời",
+      "explanation": "Sự cứu chuộc và tha thứ đến qua huyết của Đấng Christ và ân điển dư dật của Đức Chúa Trời.",
+      "full_verse": "Trong Ngài, chúng ta được cứu chuộc bởi huyết Ngài, được tha tội, theo sự dư dật của ân điển Ngài.",
+      "verse_ref": "Ê-phê-sô 1:7"
+    },
+    {
+      "id": "q_salvation_025",
+      "question": "Điền vào chỗ trống: 'Ngài đã giải cứu chúng ta khỏi quyền của sự _____, làm cho chúng ta dời qua nước của Con yêu dấu Ngài, trong Ngài chúng ta có sự cứu chuộc, là sự tha tội.'",
+      "correct": "tối tăm",
+      "wrong": ["tội lỗi", "điều ác", "sự chết"],
+      "hint": "Đây là điều trái ngược với sự sáng",
+      "explanation": "Đức Chúa Trời giải cứu chúng ta khỏi quyền lực của sự tối tăm và đem chúng ta vào nước của Đấng Christ.",
+      "full_verse": "Ngài đã giải cứu chúng ta khỏi quyền của sự tối tăm, làm cho chúng ta dời qua nước của Con yêu dấu Ngài, trong Ngài chúng ta có sự cứu chuộc, là sự tha tội.",
+      "verse_ref": "Cô-lô-se 1:13-14"
+    },
+    {
+      "id": "q_salvation_026",
+      "question": "Điền vào chỗ trống: 'Đức Chúa Giê-xu Christ đã đến trong thế gian để cứu vớt kẻ có _____, ấy là lời chắc chắn, đáng đem lòng tin trọn vẹn mà nhận lấy.'",
+      "correct": "tội",
+      "wrong": ["linh hồn", "người", "loài người"],
+      "hint": "Đây là những người đã làm điều sai trái",
+      "explanation": "Chúa Giê-xu đến đặc biệt để cứu những người đã phạm tội.",
+      "full_verse": "Đức Chúa Giê-xu Christ đã đến trong thế gian để cứu vớt kẻ có tội, ấy là lời chắc chắn, đáng đem lòng tin trọn vẹn mà nhận lấy.",
+      "verse_ref": "1 Ti-mô-thê 1:15"
+    },
+    {
+      "id": "q_salvation_027",
+      "question": "Điền vào chỗ trống: 'Ngài muốn cho mọi người được cứu rỗi và hiểu biết _____.'",
+      "correct": "lẽ thật",
+      "wrong": ["Tin Lành", "Chúa", "sự cứu rỗi"],
+      "hint": "Đây là điều thật và đúng đắn",
+      "explanation": "Đức Chúa Trời mong muốn mọi người được cứu và biết lẽ thật.",
+      "full_verse": "Ngài muốn cho mọi người được cứu rỗi và hiểu biết lẽ thật.",
+      "verse_ref": "1 Ti-mô-thê 2:4"
+    },
+    {
+      "id": "q_salvation_028",
+      "question": "Điền vào chỗ trống: 'Ngài đã cứu chúng ta, gọi chúng ta bởi sự kêu gọi thánh, chẳng phải theo việc làm chúng ta, bèn là theo ý riêng Ngài đã định, theo _____ đã ban cho chúng ta trong Đức Chúa Giê-xu Christ.'",
+      "correct": "ân điển",
+      "wrong": ["ý muốn", "tình yêu", "lòng thương xót"],
+      "hint": "Đây là ân huệ không đáng được",
+      "explanation": "Sự cứu rỗi dựa trên ân điển và mục đích của Đức Chúa Trời, không phải việc làm của chúng ta.",
+      "full_verse": "Ngài đã cứu chúng ta, gọi chúng ta bởi sự kêu gọi thánh, chẳng phải theo việc làm chúng ta, bèn là theo ý riêng Ngài đã định, theo ân điển đã ban cho chúng ta trong Đức Chúa Giê-xu Christ.",
+      "verse_ref": "2 Ti-mô-thê 1:9"
+    },
+    {
+      "id": "q_salvation_029",
+      "question": "Điền vào chỗ trống: 'Sau khi đã được làm nên trọn vẹn rồi, thì trở nên cội rễ của sự cứu rỗi đời đời cho kẻ nào _____ theo Ngài.'",
+      "correct": "vâng lời",
+      "wrong": ["theo", "tin cậy", "tin"],
+      "hint": "Điều này có nghĩa là tuân theo mệnh lệnh",
+      "explanation": "Chúa Giê-xu là nguồn cứu rỗi cho những ai vâng lời Ngài.",
+      "full_verse": "Sau khi đã được làm nên trọn vẹn rồi, thì trở nên cội rễ của sự cứu rỗi đời đời cho kẻ nào vâng lời theo Ngài.",
+      "verse_ref": "Hê-bơ-rơ 5:9"
+    },
+    {
+      "id": "q_salvation_030",
+      "question": "Điền vào chỗ trống: 'Bởi đó Ngài có thể cứu toàn vẹn những kẻ nhờ Ngài mà đến gần Đức Chúa Trời, vì Ngài hằng sống để _____ cho những kẻ ấy.'",
+      "correct": "cầu thay",
+      "wrong": ["cầu nguyện", "nói", "van xin"],
+      "hint": "Điều này có nghĩa là cầu nguyện thay cho người khác",
+      "explanation": "Chúa Giê-xu liên tục cầu thay cho các tín đồ trước mặt Đức Chúa Trời.",
+      "full_verse": "Bởi đó Ngài có thể cứu toàn vẹn những kẻ nhờ Ngài mà đến gần Đức Chúa Trời, vì Ngài hằng sống để cầu thay cho những kẻ ấy.",
+      "verse_ref": "Hê-bơ-rơ 7:25"
+    },
+    {
+      "id": "q_salvation_031",
+      "question": "Điền vào chỗ trống: 'Cũng vậy, Đấng Christ đã dâng mình một lần đặng cất tội lỗi của nhiều người; Ngài lại sẽ hiện ra lần thứ hai, không phải để cất tội đi nữa, nhưng để ban sự _____ cho kẻ chờ đợi Ngài.'",
+      "correct": "cứu rỗi",
+      "wrong": ["bình an", "vinh hiển", "sự sống"],
+      "hint": "Đây là sự giải thoát khỏi tội lỗi",
+      "explanation": "Sự tái lâm của Đấng Christ sẽ mang lại sự cứu rỗi cuối cùng cho dân Ngài.",
+      "full_verse": "Cũng vậy, Đấng Christ đã dâng mình một lần đặng cất tội lỗi của nhiều người; Ngài lại sẽ hiện ra lần thứ hai, không phải để cất tội đi nữa, nhưng để ban sự cứu rỗi cho kẻ chờ đợi Ngài.",
+      "verse_ref": "Hê-bơ-rơ 9:28"
+    },
+    {
+      "id": "q_salvation_032",
+      "question": "Điền vào chỗ trống: 'Ngợi khen Đức Chúa Trời, là Cha Đức Chúa Giê-xu Christ chúng ta, Ngài lấy lòng thương xót cả thể khiến chúng ta lại sanh, đặng chúng ta nhờ sự Đức Chúa Giê-xu Christ sống lại từ trong kẻ chết mà có sự trông cậy sống, là cơ nghiệp không hư đi, không ô uế, không suy _____ để dành cho anh em ở trên trời.'",
+      "correct": "tàn",
+      "wrong": ["mất", "hư", "giảm"],
+      "hint": "Điều này có nghĩa là mất màu hoặc biến mất",
+      "explanation": "Cơ nghiệp thiên đàng của chúng ta là đời đời và không thay đổi.",
+      "full_verse": "Ngợi khen Đức Chúa Trời, là Cha Đức Chúa Giê-xu Christ chúng ta, Ngài lấy lòng thương xót cả thể khiến chúng ta lại sanh, đặng chúng ta nhờ sự Đức Chúa Giê-xu Christ sống lại từ trong kẻ chết mà có sự trông cậy sống, là cơ nghiệp không hư đi, không ô uế, không suy tàn để dành cho anh em ở trên trời.",
+      "verse_ref": "1 Phi-e-rơ 1:3-4"
+    },
+    {
+      "id": "q_salvation_033",
+      "question": "Điền vào chỗ trống: 'Vì anh em đương nhận lấy kết quả của đức tin, là sự cứu rỗi _____ mình.'",
+      "correct": "linh hồn",
+      "wrong": ["đời sống", "tấm lòng", "tâm linh"],
+      "hint": "Đây là phần thuộc linh của con người",
+      "explanation": "Mục tiêu cuối cùng của đức tin là sự cứu rỗi linh hồn chúng ta.",
+      "full_verse": "Vì anh em đương nhận lấy kết quả của đức tin, là sự cứu rỗi linh hồn mình.",
+      "verse_ref": "1 Phi-e-rơ 1:9"
+    },
+    {
+      "id": "q_salvation_034",
+      "question": "Điền vào chỗ trống: 'Ngài gánh tội lỗi chúng ta trong thân thể Ngài trên cây gỗ, hầu cho chúng ta là kẻ đã chết về tội lỗi, được sống cho sự công bình; lại nhờ những _____ đòn của Ngài mà anh em đã được lành bệnh.'",
+      "correct": "lằn",
+      "wrong": ["huyết", "sự chết", "sự hy sinh"],
+      "hint": "Đây là những vết thương trên thân thể",
+      "explanation": "Sự đau khổ của Đấng Christ trên thập tự giá mang lại sự chữa lành thuộc linh cho chúng ta.",
+      "full_verse": "Ngài gánh tội lỗi chúng ta trong thân thể Ngài trên cây gỗ, hầu cho chúng ta là kẻ đã chết về tội lỗi, được sống cho sự công bình; lại nhờ những lằn đòn của Ngài mà anh em đã được lành bệnh.",
+      "verse_ref": "1 Phi-e-rơ 2:24"
+    },
+    {
+      "id": "q_salvation_035",
+      "question": "Điền vào chỗ trống: 'Vả, Đấng Christ cũng vì tội lỗi chịu chết một lần, là Đấng công bình thay cho kẻ không công bình, để đem anh em đến cùng Đức _____.'",
+      "correct": "Chúa Trời",
+      "wrong": ["thiên đàng", "sự cứu rỗi", "sự sống"],
+      "hint": "Đây là Đấng mà Đấng Christ đem chúng ta đến",
+      "explanation": "Sự chịu khổ của Đấng Christ là để hòa giải chúng ta với Đức Chúa Trời.",
+      "full_verse": "Vả, Đấng Christ cũng vì tội lỗi chịu chết một lần, là Đấng công bình thay cho kẻ không công bình, để đem anh em đến cùng Đức Chúa Trời.",
+      "verse_ref": "1 Phi-e-rơ 3:18"
+    },
+    {
+      "id": "q_salvation_036",
+      "question": "Điền vào chỗ trống: 'Chúa không chậm trễ về lời hứa của Ngài như mấy người kia tưởng đâu, nhưng Ngài lấy lòng nhịn nhục đối với anh em, không muốn cho một người nào chết _____, song muốn cho mọi người đều ăn năn.'",
+      "correct": "mất",
+      "wrong": ["đi", "khổ", "hư"],
+      "hint": "Điều này có nghĩa là bị hủy diệt",
+      "explanation": "Đức Chúa Trời kiên nhẫn chờ đợi mọi người ăn năn và được cứu.",
+      "full_verse": "Chúa không chậm trễ về lời hứa của Ngài như mấy người kia tưởng đâu, nhưng Ngài lấy lòng nhịn nhục đối với anh em, không muốn cho một người nào chết mất, song muốn cho mọi người đều ăn năn.",
+      "verse_ref": "2 Phi-e-rơ 3:9"
+    },
+    {
+      "id": "q_salvation_037",
+      "question": "Điền vào chỗ trống: 'Nhưng nếu chúng ta đi trong sự sáng cũng như chính mình Ngài ở trong sự sáng, thì chúng ta giao thông cùng nhau; và huyết của Đức Chúa Giê-xu, Con Ngài, làm sạch mọi _____ chúng ta.'",
+      "correct": "tội",
+      "wrong": ["tội lỗi", "xấu hổ", "điều ác"],
+      "hint": "Đây là sự vi phạm chống lại Đức Chúa Trời",
+      "explanation": "Huyết Chúa Giê-xu tẩy sạch các tín đồ khỏi mọi tội lỗi.",
+      "full_verse": "Nhưng nếu chúng ta đi trong sự sáng cũng như chính mình Ngài ở trong sự sáng, thì chúng ta giao thông cùng nhau; và huyết của Đức Chúa Giê-xu, Con Ngài, làm sạch mọi tội chúng ta.",
+      "verse_ref": "1 Giăng 1:7"
+    },
+    {
+      "id": "q_salvation_038",
+      "question": "Điền vào chỗ trống: 'Chúng tôi đã ngắm xem, và làm chứng rằng Đức Chúa Cha đã sai Đức Chúa Con làm Cứu Chúa _____.'",
+      "correct": "thế gian",
+      "wrong": ["Hội Thánh", "dân sự", "các nước"],
+      "hint": "Điều này bao gồm tất cả nhân loại",
+      "explanation": "Chúa Giê-xu được sai đến để cứu toàn thế gian.",
+      "full_verse": "Chúng tôi đã ngắm xem, và làm chứng rằng Đức Chúa Cha đã sai Đức Chúa Con làm Cứu Chúa thế gian.",
+      "verse_ref": "1 Giăng 4:14"
+    },
+    {
+      "id": "q_salvation_039",
+      "question": "Điền vào chỗ trống: 'Chứng ấy tức là Đức Chúa Trời đã ban sự sống đời đời cho chúng ta, và sự sống ấy ở trong _____ Ngài. Ai có Đức Chúa Con thì có sự sống; ai không có Con Đức Chúa Trời thì không có sự sống.'",
+      "correct": "Con",
+      "wrong": ["lời", "ân điển", "Thánh Linh"],
+      "hint": "Điều này đề cập đến Chúa Giê-xu",
+      "explanation": "Sự sống đời đời chỉ được tìm thấy trong Chúa Giê-xu Christ.",
+      "full_verse": "Chứng ấy tức là Đức Chúa Trời đã ban sự sống đời đời cho chúng ta, và sự sống ấy ở trong Con Ngài. Ai có Đức Chúa Con thì có sự sống; ai không có Con Đức Chúa Trời thì không có sự sống.",
+      "verse_ref": "1 Giăng 5:11-12"
+    },
+    {
+      "id": "q_salvation_040",
+      "question": "Điền vào chỗ trống: 'Này, ta đứng ngoài cửa mà gõ; nếu ai nghe tiếng ta mà mở cửa cho, thì ta sẽ vào cùng người ấy, ăn bữa tối với người, và người với _____.'",
+      "correct": "ta",
+      "wrong": ["Đức Chúa Trời", "Ngài", "họ"],
+      "hint": "Chúa Giê-xu đang đề cập đến chính Ngài",
+      "explanation": "Chúa Giê-xu mời gọi chúng ta mở lòng và có mối thông công với Ngài.",
+      "full_verse": "Này, ta đứng ngoài cửa mà gõ; nếu ai nghe tiếng ta mà mở cửa cho, thì ta sẽ vào cùng người ấy, ăn bữa tối với người, và người với ta.",
+      "verse_ref": "Khải Huyền 3:20"
+    },
+    {
+      "id": "q_salvation_041",
+      "question": "Điền vào chỗ trống: 'Nhưng người đã vì tội lỗi chúng ta mà bị vết, vì sự gian ác chúng ta mà bị thương. Bởi sự sửa phạt người chịu chúng ta được bình an, bởi _____ đòn người chúng ta được lành bệnh.'",
+      "correct": "lằn",
+      "wrong": ["huyết", "sự chết", "sự đau khổ"],
+      "hint": "Đây là những vết thương trên thân thể",
+      "explanation": "Sự chịu khổ và vết thương của Đấng Christ mang lại sự chữa lành và bình an với Đức Chúa Trời cho chúng ta.",
+      "full_verse": "Nhưng người đã vì tội lỗi chúng ta mà bị vết, vì sự gian ác chúng ta mà bị thương. Bởi sự sửa phạt người chịu chúng ta được bình an, bởi lằn đòn người chúng ta được lành bệnh.",
+      "verse_ref": "Ê-sai 53:5"
+    },
+    {
+      "id": "q_salvation_042",
+      "question": "Điền vào chỗ trống: 'Chúng ta thảy đều như chiên đi lạc, ai theo đường nấy: Đức Giê-hô-va đã làm cho tội lỗi của hết thảy chúng ta đều chất trên _____ ấy.'",
+      "correct": "người",
+      "wrong": ["tội", "tội lỗi", "gánh nặng"],
+      "hint": "Điều này đề cập đến Đấng Christ",
+      "explanation": "Đấng Christ gánh chịu tội lỗi của toàn thể nhân loại trên chính Ngài.",
+      "full_verse": "Chúng ta thảy đều như chiên đi lạc, ai theo đường nấy: Đức Giê-hô-va đã làm cho tội lỗi của hết thảy chúng ta đều chất trên người ấy.",
+      "verse_ref": "Ê-sai 53:6"
+    },
+    {
+      "id": "q_salvation_043",
+      "question": "Điền vào chỗ trống: 'Nầy, tay Đức Giê-hô-va chẳng trở nên ngắn mà không cứu được, _____ Ngài cũng chẳng nặng nề mà không nghe được đâu.'",
+      "correct": "tai",
+      "wrong": ["mắt", "lòng", "tay"],
+      "hint": "Bộ phận cơ thể dùng để nghe",
+      "explanation": "Đức Chúa Trời hoàn toàn có khả năng cứu và nghe lời cầu nguyện của chúng ta.",
+      "full_verse": "Nầy, tay Đức Giê-hô-va chẳng trở nên ngắn mà không cứu được, tai Ngài cũng chẳng nặng nề mà không nghe được đâu.",
+      "verse_ref": "Ê-sai 59:1"
+    },
+    {
+      "id": "q_salvation_044",
+      "question": "Điền vào chỗ trống: 'Đức Giê-hô-va là ánh sáng và là sự cứu rỗi tôi: Tôi sẽ sợ ai? Đức Giê-hô-va là _____ của mạng sống tôi: Tôi sẽ hãi hùng ai?'",
+      "correct": "đồn lũy",
+      "wrong": ["sức mạnh", "nơi ẩn náu", "thuẫn"],
+      "hint": "Đây là nơi kiên cố được bảo vệ",
+      "explanation": "Đức Chúa Trời là ánh sáng, sự cứu rỗi và thành trì vững chắc của chúng ta.",
+      "full_verse": "Đức Giê-hô-va là ánh sáng và là sự cứu rỗi tôi: Tôi sẽ sợ ai? Đức Giê-hô-va là đồn lũy của mạng sống tôi: Tôi sẽ hãi hùng ai?",
+      "verse_ref": "Thi Thiên 27:1"
+    },
+    {
+      "id": "q_salvation_045",
+      "question": "Điền vào chỗ trống: 'Linh hồn ta chỉ _____ yên nơi Đức Chúa Trời; Sự cứu rỗi ta đến từ Ngài.'",
+      "correct": "nghỉ",
+      "wrong": ["bình an", "hy vọng", "vui mừng"],
+      "hint": "Đây là trạng thái thư giãn hoặc yên tĩnh",
+      "explanation": "Linh hồn chúng ta chỉ tìm được sự nghỉ ngơi thật sự nơi Đức Chúa Trời, nguồn cứu rỗi của chúng ta.",
+      "full_verse": "Linh hồn ta chỉ nghỉ yên nơi Đức Chúa Trời; Sự cứu rỗi ta đến từ Ngài.",
+      "verse_ref": "Thi Thiên 62:1"
+    },
+    {
+      "id": "q_salvation_046",
+      "question": "Điền vào chỗ trống: 'Đức Chúa Trời là Đức Chúa Trời của sự cứu rỗi chúng tôi; Các lối thoát khỏi sự _____ đều thuộc về Chúa Giê-hô-va.'",
+      "correct": "chết",
+      "wrong": ["tội", "sự phán xét", "hủy diệt"],
+      "hint": "Đây là sự kết thúc của cuộc sống",
+      "explanation": "Đức Chúa Trời có quyền năng trên sự chết và ban cho sự giải thoát khỏi nó.",
+      "full_verse": "Đức Chúa Trời là Đức Chúa Trời của sự cứu rỗi chúng tôi; Các lối thoát khỏi sự chết đều thuộc về Chúa Giê-hô-va.",
+      "verse_ref": "Thi Thiên 68:20"
+    },
+    {
+      "id": "q_salvation_047",
+      "question": "Điền vào chỗ trống: 'Đức Giê-hô-va là sức mạnh tôi và bài ca tôi; Ngài trở nên sự _____ tôi.'",
+      "correct": "cứu rỗi",
+      "wrong": ["thuẫn", "nơi ẩn náu", "hy vọng"],
+      "hint": "Đây là sự giải thoát khỏi nguy hiểm hoặc tội lỗi",
+      "explanation": "Chính Đức Chúa Trời là sự cứu rỗi và sự bảo vệ của chúng ta.",
+      "full_verse": "Đức Giê-hô-va là sức mạnh tôi và bài ca tôi; Ngài trở nên sự cứu rỗi tôi.",
+      "verse_ref": "Thi Thiên 118:14"
+    },
+    {
+      "id": "q_salvation_048",
+      "question": "Điền vào chỗ trống: 'Bởi vì Con người đã đến tìm và cứu kẻ bị _____.'",
+      "correct": "hư mất",
+      "wrong": ["thế gian", "tội nhân", "yếu đuối"],
+      "hint": "Điều này mô tả những người đang lạc lối thuộc linh",
+      "explanation": "Sứ mệnh của Chúa Giê-xu là tìm và giải cứu những người đang lạc mất thuộc linh.",
+      "full_verse": "Bởi vì Con người đã đến tìm và cứu kẻ bị hư mất.",
+      "verse_ref": "Lu-ca 19:10"
+    },
+    {
+      "id": "q_salvation_049",
+      "question": "Điền vào chỗ trống: 'Người sẽ sanh một trai, ngươi khá đặt tên là Giê-xu, vì chính con trai ấy sẽ cứu dân mình ra khỏi _____.'",
+      "correct": "tội",
+      "wrong": ["con cái", "người theo", "Hội Thánh"],
+      "hint": "Điều này đề cập đến sự vi phạm",
+      "explanation": "Tên Giê-xu có nghĩa là 'Chúa cứu' vì Ngài cứu dân Ngài khỏi tội lỗi.",
+      "full_verse": "Người sẽ sanh một trai, ngươi khá đặt tên là Giê-xu, vì chính con trai ấy sẽ cứu dân mình ra khỏi tội.",
+      "verse_ref": "Ma-thi-ơ 1:21"
+    },
+    {
+      "id": "q_salvation_050",
+      "question": "Điền vào chỗ trống: 'Ai tin và chịu phép báp-têm, sẽ được rỗi; nhưng ai chẳng tin, sẽ bị _____.'",
+      "correct": "đoán phạt",
+      "wrong": ["hư mất", "phán xét", "hình phạt"],
+      "hint": "Điều này có nghĩa là bị tuyên án có tội",
+      "explanation": "Đức tin dẫn đến sự cứu rỗi, trong khi không tin dẫn đến sự đoán phạt.",
+      "full_verse": "Ai tin và chịu phép báp-têm, sẽ được rỗi; nhưng ai chẳng tin, sẽ bị đoán phạt.",
+      "verse_ref": "Mác 16:16"
+    }
+  ]
+}

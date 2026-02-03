@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_psalms_001",
+      "question": "Completa il versetto: 'Il SIGNORE è il mio _____; nulla mi manca.'",
+      "correct": "pastore",
+      "wrong": ["guida", "padre", "protettore"],
+      "hint": "Questa persona si prende cura delle pecore",
+      "explanation": "Dio è rappresentato come un pastore premuroso che provvede a tutti i nostri bisogni.",
+      "full_verse": "Il SIGNORE è il mio pastore; nulla mi manca.",
+      "verse_ref": "Salmo 23:1"
+    },
+    {
+      "id": "q_psalms_002",
+      "question": "Completa il versetto: 'Quand'anche camminassi nella valle dell'ombra della morte, io non temerei alcun _____, perché tu sei con me; il tuo bastone e la tua verga mi danno sicurezza.'",
+      "correct": "male",
+      "wrong": ["danno", "pericolo", "morte"],
+      "hint": "Questo è l'opposto del bene",
+      "explanation": "La presenza di Dio ci dà coraggio anche nelle circostanze più difficili.",
+      "full_verse": "Quand'anche camminassi nella valle dell'ombra della morte, io non temerei alcun male, perché tu sei con me; il tuo bastone e la tua verga mi danno sicurezza.",
+      "verse_ref": "Salmo 23:4"
+    },
+    {
+      "id": "q_psalms_003",
+      "question": "Completa il versetto: 'Dio è per noi un rifugio e una forza, un aiuto sempre pronto nelle _____.'",
+      "correct": "difficoltà",
+      "wrong": ["pericoli", "necessità", "angustie"],
+      "hint": "Questa parola significa problemi o avversità",
+      "explanation": "Dio è sempre disponibile ad aiutarci nei momenti di difficoltà.",
+      "full_verse": "Dio è per noi un rifugio e una forza, un aiuto sempre pronto nelle difficoltà.",
+      "verse_ref": "Salmo 46:1"
+    },
+    {
+      "id": "q_psalms_004",
+      "question": "Completa il versetto: 'Il SIGNORE è la mia luce e la mia salvezza; di chi _____? Il SIGNORE è il baluardo della mia vita; di chi avrò paura?'",
+      "correct": "temerò",
+      "wrong": ["confiderò", "seguirò", "adorerò"],
+      "hint": "Questo è ciò che non dobbiamo provare quando Dio è con noi",
+      "explanation": "Con Dio come nostra luce e salvezza, non abbiamo motivo di temere nessuno.",
+      "full_verse": "Il SIGNORE è la mia luce e la mia salvezza; di chi temerò? Il SIGNORE è il baluardo della mia vita; di chi avrò paura?",
+      "verse_ref": "Salmo 27:1"
+    },
+    {
+      "id": "q_psalms_005",
+      "question": "Completa il versetto: 'La tua parola è una lampada al mio piede e una _____ sul mio sentiero.'",
+      "correct": "luce",
+      "wrong": ["guida", "faro", "torcia"],
+      "hint": "Questo illumina la via davanti",
+      "explanation": "La Parola di Dio fornisce guida e direzione per le nostre vite.",
+      "full_verse": "La tua parola è una lampada al mio piede e una luce sul mio sentiero.",
+      "verse_ref": "Salmo 119:105"
+    },
+    {
+      "id": "q_psalms_006",
+      "question": "Completa il versetto: 'Beato l'uomo che non cammina secondo il consiglio degli empi, che non si ferma nella via dei peccatori, né si siede in compagnia degli _____.'",
+      "correct": "schernitori",
+      "wrong": ["peccatori", "stolti", "beffardi"],
+      "hint": "Queste persone deridono gli altri",
+      "explanation": "La vera benedizione viene dall'evitare l'influenza di coloro che deridono le vie di Dio.",
+      "full_verse": "Beato l'uomo che non cammina secondo il consiglio degli empi, che non si ferma nella via dei peccatori, né si siede in compagnia degli schernitori.",
+      "verse_ref": "Salmo 1:1"
+    },
+    {
+      "id": "q_psalms_007",
+      "question": "Completa il versetto: 'Acclamate il SIGNORE, voi tutti gli abitanti della terra! Servite il SIGNORE con _____!'",
+      "correct": "gioia",
+      "wrong": ["lode", "gloria", "gratitudine"],
+      "hint": "Questa è un'espressione di grande felicità",
+      "explanation": "Siamo chiamati ad esprimere la nostra gioia a Dio con entusiasmo.",
+      "full_verse": "Acclamate il SIGNORE, voi tutti gli abitanti della terra! Servite il SIGNORE con gioia!",
+      "verse_ref": "Salmo 100:1-2"
+    },
+    {
+      "id": "q_psalms_008",
+      "question": "Completa il versetto: 'Questo è il giorno che il SIGNORE ha fatto; rallegriamoci e _____ in esso.'",
+      "correct": "giubiliamo",
+      "wrong": ["gioiamo", "festeggiamo", "ringraziamo"],
+      "hint": "Questo significa essere felici",
+      "explanation": "Ogni giorno è un dono di Dio, degno di celebrazione.",
+      "full_verse": "Questo è il giorno che il SIGNORE ha fatto; rallegriamoci e giubiliamo in esso.",
+      "verse_ref": "Salmo 118:24"
+    },
+    {
+      "id": "q_psalms_009",
+      "question": "Completa il versetto: 'Ogni essere vivente lodi il SIGNORE. Alleluia!' o 'Ogni vivente che _____lodi il SIGNORE.'",
+      "correct": "respira",
+      "wrong": ["vive", "spirito", "voce"],
+      "hint": "Questo è ciò che tutte le creature viventi hanno",
+      "explanation": "Tutti gli esseri viventi sono chiamati a lodare Dio.",
+      "full_verse": "Ogni essere vivente lodi il SIGNORE. Alleluia!",
+      "verse_ref": "Salmo 150:6"
+    },
+    {
+      "id": "q_psalms_010",
+      "question": "Completa il versetto: 'Gustate e vedete quanto il SIGNORE è _____! Beato l'uomo che confida in lui.'",
+      "correct": "buono",
+      "wrong": ["grande", "fedele", "amorevole"],
+      "hint": "Questo è l'opposto di cattivo",
+      "explanation": "Possiamo sperimentare personalmente la bontà di Dio quando confidiamo in lui.",
+      "full_verse": "Gustate e vedete quanto il SIGNORE è buono! Beato l'uomo che confida in lui.",
+      "verse_ref": "Salmo 34:8"
+    },
+    {
+      "id": "q_psalms_011",
+      "question": "Completa il versetto: 'Trova la tua gioia nel SIGNORE, ed egli appagherà i desideri del tuo _____.'",
+      "correct": "cuore",
+      "wrong": ["anima", "mente", "spirito"],
+      "hint": "Questo è il centro delle tue emozioni e desideri",
+      "explanation": "Quando troviamo gioia in Dio, Egli forma e soddisfa i nostri desideri più profondi.",
+      "full_verse": "Trova la tua gioia nel SIGNORE, ed egli appagherà i desideri del tuo cuore.",
+      "verse_ref": "Salmo 37:4"
+    },
+    {
+      "id": "q_psalms_012",
+      "question": "Completa il versetto: 'O Dio, crea in me un cuore puro e rinnova dentro di me uno _____ saldo.'",
+      "correct": "spirito",
+      "wrong": ["anima", "cuore", "mente"],
+      "hint": "Questa è la parte interiore di una persona",
+      "explanation": "Davide chiede a Dio una trasformazione interiore e un rinnovato impegno.",
+      "full_verse": "O Dio, crea in me un cuore puro e rinnova dentro di me uno spirito saldo.",
+      "verse_ref": "Salmo 51:10"
+    },
+    {
+      "id": "q_psalms_013",
+      "question": "Completa il versetto: 'Chi abita al riparo dell'Altissimo riposa all'_____ dell'Onnipotente.'",
+      "correct": "ombra",
+      "wrong": ["presenza", "braccia", "cura"],
+      "hint": "Questa si forma quando la luce è bloccata",
+      "explanation": "Dio fornisce protezione e riposo a coloro che dimorano vicino a lui.",
+      "full_verse": "Chi abita al riparo dell'Altissimo riposa all'ombra dell'Onnipotente.",
+      "verse_ref": "Salmo 91:1"
+    },
+    {
+      "id": "q_psalms_014",
+      "question": "Completa il versetto: 'Benedici, anima mia, il SIGNORE; e tutto quello che è in me, benedica il suo santo _____.'",
+      "correct": "nome",
+      "wrong": ["parola", "gloria", "maestà"],
+      "hint": "Questo rappresenta l'identità e il carattere di Dio",
+      "explanation": "Lodiamo il nome di Dio perché rappresenta chi Egli è.",
+      "full_verse": "Benedici, anima mia, il SIGNORE; e tutto quello che è in me, benedica il suo santo nome.",
+      "verse_ref": "Salmo 103:1"
+    },
+    {
+      "id": "q_psalms_015",
+      "question": "Completa il versetto: 'Io ti celebrerò, perché sono stato fatto in modo stupendo. Meravigliose sono le tue opere, e l'anima mia lo sa _____.'",
+      "correct": "bene",
+      "wrong": ["perfettamente", "certamente", "pienamente"],
+      "hint": "Questo significa in modo completo",
+      "explanation": "Siamo creati con grande cura e intenzionalità da Dio.",
+      "full_verse": "Io ti celebrerò, perché sono stato fatto in modo stupendo. Meravigliose sono le tue opere, e l'anima mia lo sa molto bene.",
+      "verse_ref": "Salmo 139:14"
+    },
+    {
+      "id": "q_psalms_016",
+      "question": "Completa il versetto: 'I cieli raccontano la gloria di Dio e il firmamento annuncia l'opera delle sue _____.'",
+      "correct": "mani",
+      "wrong": ["potenza", "creazione", "maestà"],
+      "hint": "Queste sono parti del corpo usate per fare cose",
+      "explanation": "La creazione stessa testimonia del potere creativo di Dio.",
+      "full_verse": "I cieli raccontano la gloria di Dio e il firmamento annuncia l'opera delle sue mani.",
+      "verse_ref": "Salmo 19:1"
+    },
+    {
+      "id": "q_psalms_017",
+      "question": "Completa il versetto: 'Fermatevi e riconoscete che io sono _____; io sarò esaltato fra le nazioni, sarò esaltato sulla terra.'",
+      "correct": "Dio",
+      "wrong": ["Signore", "santo", "sovrano"],
+      "hint": "Questo è l'essere divino",
+      "explanation": "Siamo chiamati a quietarci e riconoscere la sovranità di Dio.",
+      "full_verse": "Fermatevi e riconoscete che io sono Dio; io sarò esaltato fra le nazioni, sarò esaltato sulla terra.",
+      "verse_ref": "Salmo 46:10"
+    },
+    {
+      "id": "q_psalms_018",
+      "question": "Completa il versetto: 'Certo, beni e bontà m'accompagneranno tutti i giorni della mia vita; e io abiterò nella casa del SIGNORE per _____.'",
+      "correct": "lunghi giorni",
+      "wrong": ["sempre", "eternamente", "ogni tempo"],
+      "hint": "Questo significa per tutto il tempo",
+      "explanation": "La bontà di Dio ci accompagna per tutta la vita e nell'eternità.",
+      "full_verse": "Certo, beni e bontà m'accompagneranno tutti i giorni della mia vita; e io abiterò nella casa del SIGNORE per lunghi giorni.",
+      "verse_ref": "Salmo 23:6"
+    },
+    {
+      "id": "q_psalms_019",
+      "question": "Completa il versetto: 'Alzo gli occhi verso i monti... Da dove mi verrà l'aiuto? Il mio aiuto viene dal SIGNORE, che ha fatto il cielo e la _____.'",
+      "correct": "terra",
+      "wrong": ["mondo", "tutto", "creazione"],
+      "hint": "Questo è il suolo su cui stiamo",
+      "explanation": "Il nostro aiuto viene dal Creatore di ogni cosa.",
+      "full_verse": "Alzo gli occhi verso i monti... Da dove mi verrà l'aiuto? Il mio aiuto viene dal SIGNORE, che ha fatto il cielo e la terra.",
+      "verse_ref": "Salmo 121:1-2"
+    },
+    {
+      "id": "q_psalms_020",
+      "question": "Completa il versetto: 'Il SIGNORE è vicino a quelli che hanno il cuore spezzato e salva quelli che hanno lo _____ afflitto.'",
+      "correct": "spirito",
+      "wrong": ["anima", "cuore", "mente"],
+      "hint": "Questa è la parte interiore di una persona",
+      "explanation": "Dio è particolarmente vicino a coloro che sperimentano dolore emotivo.",
+      "full_verse": "Il SIGNORE è vicino a quelli che hanno il cuore spezzato e salva quelli che hanno lo spirito afflitto.",
+      "verse_ref": "Salmo 34:18"
+    },
+    {
+      "id": "q_psalms_021",
+      "question": "Completa il versetto: 'Come la cerva desidera i corsi d'acqua, così l'anima mia _____ te, o Dio.'",
+      "correct": "anela",
+      "wrong": ["brama", "cerca", "desidera"],
+      "hint": "Questo è ciò che fa un cervo assetato",
+      "explanation": "Le nostre anime dovrebbero anelare a Dio come un animale assetato cerca l'acqua.",
+      "full_verse": "Come la cerva desidera i corsi d'acqua, così l'anima mia anela a te, o Dio.",
+      "verse_ref": "Salmo 42:1"
+    },
+    {
+      "id": "q_psalms_022",
+      "question": "Completa il versetto: 'Getta sul SIGNORE il tuo affanno, ed egli ti _____. Egli non permetterà mai che il giusto vacilli.'",
+      "correct": "sosterrà",
+      "wrong": ["soccorrerà", "sosterrà", "porterà"],
+      "hint": "Questo significa mantenere o far andare avanti",
+      "explanation": "Dio ci invita a dargli le nostre preoccupazioni e promette di sostenerci.",
+      "full_verse": "Getta sul SIGNORE il tuo affanno, ed egli ti sosterrà. Egli non permetterà mai che il giusto vacilli.",
+      "verse_ref": "Salmo 55:22"
+    },
+    {
+      "id": "q_psalms_023",
+      "question": "Completa il versetto: 'Perché Dio, il SIGNORE, è sole e scudo; il SIGNORE concede grazia e gloria; non rifiuta nulla di buono a quelli che camminano _____.'",
+      "correct": "rettamente",
+      "wrong": ["giustamente", "fedelmente", "santamente"],
+      "hint": "Questo significa senza colpa",
+      "explanation": "Dio dona generosamente a coloro che vivono con integrità.",
+      "full_verse": "Perché Dio, il SIGNORE, è sole e scudo; il SIGNORE concede grazia e gloria. Egli non rifiuta nulla di buono a quelli che camminano rettamente.",
+      "verse_ref": "Salmo 84:11"
+    },
+    {
+      "id": "q_psalms_024",
+      "question": "Completa il versetto: 'Poiché egli comanderà ai suoi angeli di custodirti in tutte le tue _____.'",
+      "correct": "vie",
+      "wrong": ["sentieri", "passi", "giorni"],
+      "hint": "Questo si riferisce alle tue direzioni o attività",
+      "explanation": "Dio manda i suoi angeli a proteggere il suo popolo.",
+      "full_verse": "Poiché egli comanderà ai suoi angeli di custodirti in tutte le tue vie.",
+      "verse_ref": "Salmo 91:11"
+    },
+    {
+      "id": "q_psalms_025",
+      "question": "Completa il versetto: 'Il SIGNORE è vicino a tutti quelli che lo invocano, a tutti quelli che lo invocano in _____.'",
+      "correct": "verità",
+      "wrong": ["fede", "spirito", "sincerità"],
+      "hint": "Questo significa genuinità o onestà",
+      "explanation": "Dio si avvicina a coloro che lo cercano sinceramente.",
+      "full_verse": "Il SIGNORE è vicino a tutti quelli che lo invocano, a tutti quelli che lo invocano in verità.",
+      "verse_ref": "Salmo 145:18"
+    },
+    {
+      "id": "q_psalms_026",
+      "question": "Completa il versetto: 'Quand'io considero i tuoi cieli, opera delle tue dita, la luna e le stelle che tu hai disposte, che cos'è l'uomo perché tu lo _____? E il figlio dell'uomo perché te ne prenda cura?'",
+      "correct": "ricordi",
+      "wrong": ["conosca", "pensi", "consideri"],
+      "hint": "Questo significa essere consapevoli o pensare a qualcosa",
+      "explanation": "Nonostante l'immensità della creazione, Dio si prende profondamente cura dell'umanità.",
+      "full_verse": "Quand'io considero i tuoi cieli, opera delle tue dita, la luna e le stelle che tu hai disposte, che cos'è l'uomo perché tu lo ricordi? E il figlio dell'uomo perché te ne prenda cura?",
+      "verse_ref": "Salmo 8:3-4"
+    },
+    {
+      "id": "q_psalms_027",
+      "question": "Completa il versetto: 'Tu m'insegni la via della vita; vi sono gioie a sazietà in tua presenza; alla tua destra vi sono delizie in _____.'",
+      "correct": "eterno",
+      "wrong": ["perpetuo", "sempre", "ogni tempo"],
+      "hint": "Questa parte del corpo simboleggia una posizione d'onore",
+      "explanation": "La presenza di Dio porta gioia completa e benedizioni eterne.",
+      "full_verse": "Tu m'insegni la via della vita; vi sono gioie a sazietà in tua presenza; alla tua destra vi sono delizie in eterno.",
+      "verse_ref": "Salmo 16:11"
+    },
+    {
+      "id": "q_psalms_028",
+      "question": "Completa il versetto: 'Siano gradite le parole della mia bocca e la meditazione del mio cuore in tua presenza, o SIGNORE, mia rocca e mio _____.'",
+      "correct": "redentore",
+      "wrong": ["salvatore", "liberatore", "rifugio"],
+      "hint": "Questo è colui che salva pagando un prezzo",
+      "explanation": "Desideriamo che sia le nostre parole che i nostri pensieri onorino Dio.",
+      "full_verse": "Siano gradite le parole della mia bocca e la meditazione del mio cuore in tua presenza, o SIGNORE, mia rocca e mio redentore.",
+      "verse_ref": "Salmo 19:14"
+    },
+    {
+      "id": "q_psalms_029",
+      "question": "Completa il versetto: 'Al SIGNORE appartiene la terra e tutto quel che è in essa, il mondo e i suoi _____.'",
+      "correct": "abitanti",
+      "wrong": ["popoli", "viventi", "creature"],
+      "hint": "Questo significa coloro che risiedono o esistono",
+      "explanation": "Dio possiede tutto nella creazione, incluse tutte le persone.",
+      "full_verse": "Al SIGNORE appartiene la terra e tutto quel che è in essa, il mondo e i suoi abitanti.",
+      "verse_ref": "Salmo 24:1"
+    },
+    {
+      "id": "q_psalms_030",
+      "question": "Completa il versetto: 'Io ti istruirò e ti insegnerò la via per la quale devi camminare; io ti _____ con il mio occhio su di te.'",
+      "correct": "consiglierò",
+      "wrong": ["guiderò", "osserverò", "condurrò"],
+      "hint": "Questo significa dare consigli",
+      "explanation": "Dio promette di guidarci e consigliarci personalmente.",
+      "full_verse": "Io ti istruirò e ti insegnerò la via per la quale devi camminare; io ti consiglierò, con il mio occhio su di te.",
+      "verse_ref": "Salmo 32:8"
+    },
+    {
+      "id": "q_psalms_031",
+      "question": "Completa il versetto: 'Il SIGNORE rende sicuri i passi dell'uomo e gradisce le sue vie; se cade, non è però atterrato, perché il SIGNORE lo sostiene per la _____.'",
+      "correct": "mano",
+      "wrong": ["braccio", "potenza", "forza"],
+      "hint": "Questa parte del corpo è usata per tenere qualcuno",
+      "explanation": "Dio stabilisce coloro che si dilettano in lui, anche quando inciampano.",
+      "full_verse": "Il SIGNORE rende sicuri i passi dell'uomo e gradisce le sue vie. Se cade, non è però atterrato, perché il SIGNORE lo sostiene per la mano.",
+      "verse_ref": "Salmo 37:23-24"
+    },
+    {
+      "id": "q_psalms_032",
+      "question": "Completa il versetto: 'Ho pazientemente aspettato il SIGNORE, ed egli si è chinato su di me e ha ascoltato il mio grido. Mi ha tratto fuori da una fossa di perdizione, dal _____ melmoso.'",
+      "correct": "fango",
+      "wrong": ["argilla", "terra", "polvere"],
+      "hint": "Questo è fango profondo e bagnato",
+      "explanation": "Dio ci salva da situazioni disperate e ci dà stabilità.",
+      "full_verse": "Ho pazientemente aspettato il SIGNORE, ed egli si è chinato su di me e ha ascoltato il mio grido. Mi ha tratto fuori da una fossa di perdizione, dal fango melmoso; ha fatto posare i miei piedi sulla roccia e ha reso sicuri i miei passi.",
+      "verse_ref": "Salmo 40:1-2"
+    },
+    {
+      "id": "q_psalms_033",
+      "question": "Completa il versetto: 'Sacrificio gradito a Dio è uno spirito afflitto; tu, Dio, non disprezzi un cuore afflitto e _____.'",
+      "correct": "umiliato",
+      "wrong": ["pentito", "addolorato", "contrito"],
+      "hint": "Questo significa sentirsi dispiaciuti per il male commesso",
+      "explanation": "Dio apprezza il vero pentimento più dei rituali religiosi esterni.",
+      "full_verse": "Sacrificio gradito a Dio è uno spirito afflitto; tu, Dio, non disprezzi un cuore afflitto e umiliato.",
+      "verse_ref": "Salmo 51:17"
+    },
+    {
+      "id": "q_psalms_034",
+      "question": "Completa il versetto: 'Quando sono _____, io confido in te.'",
+      "correct": "preso dalla paura",
+      "wrong": ["debole", "turbato", "ansioso"],
+      "hint": "Questa è un'emozione provata di fronte al pericolo",
+      "explanation": "La paura dovrebbe spingerci a confidare di più in Dio.",
+      "full_verse": "Quando sono preso dalla paura, io confido in te.",
+      "verse_ref": "Salmo 56:3"
+    },
+    {
+      "id": "q_psalms_035",
+      "question": "Completa il versetto: 'Solo in Dio l'anima mia trova riposo; da lui viene la mia salvezza. Lui solo è la mia rocca e la mia _____; egli è il mio alto rifugio; io non potrò vacillare.'",
+      "correct": "salvezza",
+      "wrong": ["rifugio", "scudo", "forza"],
+      "hint": "Questa è la liberazione dal pericolo",
+      "explanation": "Solo Dio fornisce vero riposo e sicurezza per le nostre anime.",
+      "full_verse": "Solo in Dio l'anima mia trova riposo; da lui viene la mia salvezza. Lui solo è la mia rocca e la mia salvezza; egli è il mio alto rifugio; io non potrò vacillare.",
+      "verse_ref": "Salmo 62:1-2"
+    },
+    {
+      "id": "q_psalms_036",
+      "question": "Completa il versetto: 'La mia carne e il mio cuore possono venir meno, ma Dio è la rocca del mio cuore e la mia _____ in eterno.'",
+      "correct": "parte",
+      "wrong": ["speranza", "rifugio", "eredità"],
+      "hint": "Questo significa la propria quota o porzione",
+      "explanation": "Anche quando i nostri corpi cedono, Dio rimane la nostra eredità eterna.",
+      "full_verse": "La mia carne e il mio cuore possono venir meno, ma Dio è la rocca del mio cuore e la mia parte in eterno.",
+      "verse_ref": "Salmo 73:26"
+    },
+    {
+      "id": "q_psalms_037",
+      "question": "Completa il versetto: 'Tu, Signore, sei buono e pronto a perdonare, e grande in benignità verso tutti quelli che ti _____.'",
+      "correct": "invocano",
+      "wrong": ["vengono", "pregano", "cercano"],
+      "hint": "Questo significa gridare o appellarsi",
+      "explanation": "L'amore e il perdono di Dio sono disponibili per tutti coloro che lo cercano.",
+      "full_verse": "Tu, Signore, sei buono e pronto a perdonare, e grande in benignità verso tutti quelli che ti invocano.",
+      "verse_ref": "Salmo 86:5"
+    },
+    {
+      "id": "q_psalms_038",
+      "question": "Completa il versetto: 'Insegnaci dunque a contare i nostri giorni, per acquistare un cuore _____.'",
+      "correct": "saggio",
+      "wrong": ["comprensivo", "conoscente", "perspicace"],
+      "hint": "Questa è la qualità dell'essere saggi",
+      "explanation": "Riconoscere la brevità della vita ci aiuta a vivere saggiamente.",
+      "full_verse": "Insegnaci dunque a contare i nostri giorni, per acquistare un cuore saggio.",
+      "verse_ref": "Salmo 90:12"
+    },
+    {
+      "id": "q_psalms_039",
+      "question": "Completa il versetto: 'Cantate al SIGNORE un cantico nuovo; cantate al SIGNORE, abitanti di tutta la _____!'",
+      "correct": "terra",
+      "wrong": ["mondo", "nazione", "creazione"],
+      "hint": "Questo è una composizione musicale con parole",
+      "explanation": "Siamo chiamati a offrire continuamente lodi fresche a Dio.",
+      "full_verse": "Cantate al SIGNORE un cantico nuovo; cantate al SIGNORE, abitanti di tutta la terra!",
+      "verse_ref": "Salmo 96:1"
+    },
+    {
+      "id": "q_psalms_040",
+      "question": "Completa il versetto: 'Quanto è lontano l'oriente dall'occidente, tanto ha egli allontanato da noi le nostre _____.'",
+      "correct": "trasgressioni",
+      "wrong": ["peccati", "iniquità", "offese"],
+      "hint": "Questa è un'altra parola per peccati o violazioni",
+      "explanation": "Dio rimuove completamente i nostri peccati da noi.",
+      "full_verse": "Quanto è lontano l'oriente dall'occidente, tanto ha egli allontanato da noi le nostre trasgressioni.",
+      "verse_ref": "Salmo 103:12"
+    },
+    {
+      "id": "q_psalms_041",
+      "question": "Completa il versetto: 'Celebrate il SIGNORE, perché egli è buono, perché la sua bontà dura in _____.'",
+      "correct": "eterno",
+      "wrong": ["sempre", "perpetuo", "ogni tempo"],
+      "hint": "Questo significa per tutto il tempo senza fine",
+      "explanation": "L'amore di Dio è eterno e immutabile.",
+      "full_verse": "Celebrate il SIGNORE, perché egli è buono, perché la sua bontà dura in eterno.",
+      "verse_ref": "Salmo 107:1"
+    },
+    {
+      "id": "q_psalms_042",
+      "question": "Completa il versetto: 'Ho conservato la tua parola nel mio cuore per non _____ contro di te.'",
+      "correct": "peccare",
+      "wrong": ["ribellarmi", "allontanarmi", "deviare"],
+      "hint": "Questo è agire male contro Dio",
+      "explanation": "Memorizzare la Scrittura ci aiuta a resistere alla tentazione.",
+      "full_verse": "Ho conservato la tua parola nel mio cuore per non peccare contro di te.",
+      "verse_ref": "Salmo 119:11"
+    },
+    {
+      "id": "q_psalms_043",
+      "question": "Completa il versetto: 'Ecco, i figli sono un dono che viene dal SIGNORE; il frutto del grembo materno è un _____.'",
+      "correct": "premio",
+      "wrong": ["dono", "benedizione", "tesoro"],
+      "hint": "Questo è qualcosa ricevuto per un risultato",
+      "explanation": "I figli sono un dono prezioso e una benedizione da Dio.",
+      "full_verse": "Ecco, i figli sono un dono che viene dal SIGNORE; il frutto del grembo materno è un premio.",
+      "verse_ref": "Salmo 127:3"
+    },
+    {
+      "id": "q_psalms_044",
+      "question": "Completa il versetto: 'Ecco, quant'è buono e quant'è piacevole che i fratelli vivano insieme _____!'",
+      "correct": "uniti",
+      "wrong": ["in pace", "in armonia", "in amore"],
+      "hint": "Questo significa stare insieme o essere uno",
+      "explanation": "L'unità tra i credenti è gradita a Dio.",
+      "full_verse": "Ecco, quant'è buono e quant'è piacevole che i fratelli vivano insieme uniti!",
+      "verse_ref": "Salmo 133:1"
+    },
+    {
+      "id": "q_psalms_045",
+      "question": "Completa il versetto: 'Esaminami, o Dio, e conosci il mio cuore. Mettimi alla prova e conosci i miei pensieri. Vedi se c'è in me qualche via iniqua e guidami per la via _____.'",
+      "correct": "eterna",
+      "wrong": ["santa", "giusta", "retta"],
+      "hint": "Questo significa che dura per sempre",
+      "explanation": "Invitiamo Dio ad esaminarci e guidarci verso la vita eterna.",
+      "full_verse": "Esaminami, o Dio, e conosci il mio cuore. Mettimi alla prova e conosci i miei pensieri. Vedi se c'è in me qualche via iniqua e guidami per la via eterna.",
+      "verse_ref": "Salmo 139:23-24"
+    },
+    {
+      "id": "q_psalms_046",
+      "question": "Completa il versetto: 'Fammi udire al mattino la tua benignità, perché in te confido; fammi conoscere la via da seguire, poiché io elevo l'anima mia a _____.'",
+      "correct": "te",
+      "wrong": ["Dio", "lui", "cielo"],
+      "hint": "Questo è fiducia in qualcuno",
+      "explanation": "Cerchiamo la guida e l'amore di Dio ogni mattina.",
+      "full_verse": "Fammi udire al mattino la tua benignità, perché in te confido; fammi conoscere la via da seguire, poiché io elevo l'anima mia a te.",
+      "verse_ref": "Salmo 143:8"
+    },
+    {
+      "id": "q_psalms_047",
+      "question": "Completa il versetto: 'Egli guarisce chi ha il cuore spezzato e fascia le loro _____.'",
+      "correct": "ferite",
+      "wrong": ["cuori", "dolori", "tristezze"],
+      "hint": "Queste sono lesioni che necessitano di guarigione",
+      "explanation": "Dio porta guarigione a coloro che sono emotivamente feriti.",
+      "full_verse": "Egli guarisce chi ha il cuore spezzato e fascia le loro ferite.",
+      "verse_ref": "Salmo 147:3"
+    },
+    {
+      "id": "q_psalms_048",
+      "question": "Completa il versetto: 'Egli mi fa riposare in verdeggianti pascoli, mi guida lungo le acque calme. Egli mi ristora l'_____.'",
+      "correct": "anima",
+      "wrong": ["spirito", "cuore", "mente"],
+      "hint": "Questa è la parte spirituale di una persona",
+      "explanation": "Dio provvede riposo e rinnovamento per il nostro essere più intimo.",
+      "full_verse": "Egli mi fa riposare in verdeggianti pascoli, mi guida lungo le acque calme. Egli mi ristora l'anima.",
+      "verse_ref": "Salmo 23:2-3"
+    },
+    {
+      "id": "q_psalms_049",
+      "question": "Completa il versetto: 'Poiché l'ira sua è solo per un momento, ma la sua benevolenza è per tutta la vita. La sera ci accompagna il pianto; ma la _____ viene la gioia.'",
+      "correct": "mattina",
+      "wrong": ["alba", "luce", "aurora"],
+      "hint": "Questo è quando inizia un nuovo giorno",
+      "explanation": "Il favore di Dio supera di gran lunga la sua disciplina, e la gioia segue il dolore.",
+      "full_verse": "Poiché l'ira sua è solo per un momento, ma la sua benevolenza è per tutta la vita. La sera ci accompagna il pianto; ma la mattina viene la gioia.",
+      "verse_ref": "Salmo 30:5"
+    },
+    {
+      "id": "q_psalms_050",
+      "question": "Completa il versetto: 'Poiché il SIGNORE è buono; la sua benignità dura in eterno, e la sua fedeltà per ogni _____.'",
+      "correct": "generazione",
+      "wrong": ["età", "tempo", "eternità"],
+      "hint": "Questo si riferisce a gruppi successivi di persone nel tempo",
+      "explanation": "La fedeltà di Dio si estende a ogni generazione.",
+      "full_verse": "Poiché il SIGNORE è buono; la sua benignità dura in eterno, e la sua fedeltà per ogni generazione.",
+      "verse_ref": "Salmo 100:5"
+    }
+  ]
+}

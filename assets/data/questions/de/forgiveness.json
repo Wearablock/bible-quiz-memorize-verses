@@ -1,1 +1,452 @@
-{}
+{
+  "q_forgiveness_001": {
+    "question": "Ergänze die Lücke: 'Wenn wir aber unsre Sünden bekennen, so ist er treu und gerecht, dass er uns die Sünden vergibt und _____ uns von aller Ungerechtigkeit.'",
+    "correct": "reinigt",
+    "wrong": ["befreit", "erlöst", "rettet"],
+    "hint": "Gott tut mehr als nur vergeben",
+    "explanation": "Johannes versichert Gläubigen, dass Bekenntnis sowohl zu Vergebung als auch zu Reinigung von Sünde führt.",
+    "full_verse": "Wenn wir aber unsre Sünden bekennen, so ist er treu und gerecht, dass er uns die Sünden vergibt und reinigt uns von aller Ungerechtigkeit.",
+    "verse_ref": "1. Johannes 1:9"
+  },
+  "q_forgiveness_002": {
+    "question": "Ergänze die Lücke: 'Seid aber untereinander freundlich und herzlich und vergebt einer dem andern, wie auch Gott euch vergeben hat in _____.'",
+    "correct": "Christus",
+    "wrong": ["Liebe", "Gnade", "Barmherzigkeit"],
+    "hint": "Gottes Handeln an uns ist das Vorbild",
+    "explanation": "Paulus weist Gläubige an, anderen zu vergeben, basierend auf der Vergebung, die sie von Gott empfangen haben.",
+    "full_verse": "Seid aber untereinander freundlich und herzlich und vergebt einer dem andern, wie auch Gott euch vergeben hat in Christus.",
+    "verse_ref": "Epheser 4:32"
+  },
+  "q_forgiveness_003": {
+    "question": "Ergänze die Lücke: 'Ertrage einer den andern und vergebt euch untereinander, wenn jemand Klage hat gegen den andern; wie der _____ euch vergeben hat, so vergebt auch ihr!'",
+    "correct": "Herr",
+    "wrong": ["Vater", "Christus", "Gott"],
+    "hint": "Unsere Vergebung sollte seine widerspiegeln",
+    "explanation": "Paulus ruft Gläubige auf, die gleiche Vergebung zu geben, die sie vom Herrn empfangen haben.",
+    "full_verse": "Ertrage einer den andern und vergebt euch untereinander, wenn jemand Klage hat gegen den andern; wie der Herr euch vergeben hat, so vergebt auch ihr!",
+    "verse_ref": "Kolosser 3:13"
+  },
+  "q_forgiveness_004": {
+    "question": "Ergänze die Lücke: 'Denn wenn ihr den Menschen ihre Verfehlungen vergebt, so wird euch euer himmlischer _____ auch vergeben.'",
+    "correct": "Vater",
+    "wrong": ["Herr", "Gott", "König"],
+    "hint": "Jesus spricht von Gott in familiären Begriffen",
+    "explanation": "Jesus lehrt, dass unsere Bereitschaft, anderen zu vergeben, mit dem Empfang von Gottes Vergebung verbunden ist.",
+    "full_verse": "Denn wenn ihr den Menschen ihre Verfehlungen vergebt, so wird euch euer himmlischer Vater auch vergeben.",
+    "verse_ref": "Matthäus 6:14"
+  },
+  "q_forgiveness_005": {
+    "question": "Ergänze die Lücke: 'Und wenn ihr steht und betet, so vergebt, wenn ihr etwas gegen jemanden habt, damit auch euer Vater im Himmel euch vergebe eure _____.'",
+    "correct": "Verfehlungen",
+    "wrong": ["Sünden", "Schulden", "Fehler"],
+    "hint": "Was wir vor dem Gebet tun müssen",
+    "explanation": "Jesus lehrt, dass Vergebung anderen gegenüber unseren Gebeten vorausgehen sollte.",
+    "full_verse": "Und wenn ihr steht und betet, so vergebt, wenn ihr etwas gegen jemanden habt, damit auch euer Vater im Himmel euch vergebe eure Verfehlungen.",
+    "verse_ref": "Markus 11:25"
+  },
+  "q_forgiveness_006": {
+    "question": "Ergänze die Lücke: 'So tut nun Buße und bekehrt euch, dass eure Sünden getilgt werden, damit die Zeit der _____ komme von dem Angesicht des Herrn.'",
+    "correct": "Erquickung",
+    "wrong": ["Segnung", "Heilung", "Freude"],
+    "hint": "Vergebung bringt geistliche Erneuerung",
+    "explanation": "Petrus ruft zur Buße auf, die zu Vergebung und geistlicher Erquickung führt.",
+    "full_verse": "So tut nun Buße und bekehrt euch, dass eure Sünden getilgt werden, damit die Zeit der Erquickung komme von dem Angesicht des Herrn.",
+    "verse_ref": "Apostelgeschichte 3:19"
+  },
+  "q_forgiveness_007": {
+    "question": "Ergänze die Lücke: 'So fern der Morgen ist vom Abend, lässt er unsre _____ von uns sein.'",
+    "correct": "Übertretungen",
+    "wrong": ["Sünden", "Schuld", "Schande"],
+    "hint": "Gott trennt diese vollständig von uns",
+    "explanation": "David beschreibt poetisch, wie vollständig Gott unsere Sünden von uns entfernt.",
+    "full_verse": "So fern der Morgen ist vom Abend, lässt er unsre Übertretungen von uns sein.",
+    "verse_ref": "Psalm 103:12"
+  },
+  "q_forgiveness_008": {
+    "question": "Ergänze die Lücke: 'Wenn eure Sünde auch blutrot ist, soll sie doch schneeweiß werden, und wenn sie rot ist wie _____.'",
+    "correct": "Scharlach",
+    "wrong": ["Purpur", "Karmesin", "Blut"],
+    "hint": "Eine leuchtend rote Farbe",
+    "explanation": "Gott verspricht vollständige Reinigung, die scharlachrote Sünden in reines Weiß verwandelt.",
+    "full_verse": "Kommt denn und lasst uns miteinander rechten, spricht der HERR. Wenn eure Sünde auch blutrot ist, soll sie doch schneeweiß werden, und wenn sie rot ist wie Scharlach, soll sie wie Wolle werden.",
+    "verse_ref": "Jesaja 1:18"
+  },
+  "q_forgiveness_009": {
+    "question": "Ergänze die Lücke: 'Wo ist solch ein Gott, wie du bist, der die Sünde vergibt und erlässt die Schuld denen, die übrig geblieben sind von seinem _____?'",
+    "correct": "Erbteil",
+    "wrong": ["Volk", "Kindern", "Erwählten"],
+    "hint": "Der treue Teil von Gottes Volk",
+    "explanation": "Micha feiert Gottes einzigartige Bereitschaft, die Sünden seines Volkes zu vergeben.",
+    "full_verse": "Wo ist solch ein Gott, wie du bist, der die Sünde vergibt und erlässt die Schuld denen, die übrig geblieben sind von seinem Erbteil; der an seinem Zorn nicht ewig festhält, denn er hat Gefallen an Gnade!",
+    "verse_ref": "Micha 7:18"
+  },
+  "q_forgiveness_010": {
+    "question": "Ergänze die Lücke: 'Richtet nicht, so werdet ihr auch nicht gerichtet. Verdammt nicht, so werdet ihr nicht verdammt. Vergebt, so wird euch _____.'",
+    "correct": "vergeben",
+    "wrong": ["gesegnet", "gerettet", "geliebt"],
+    "hint": "Was wir geben, empfangen wir",
+    "explanation": "Jesus lehrt die gegenseitige Natur der Vergebung.",
+    "full_verse": "Richtet nicht, so werdet ihr auch nicht gerichtet. Verdammt nicht, so werdet ihr nicht verdammt. Vergebt, so wird euch vergeben.",
+    "verse_ref": "Lukas 6:37"
+  },
+  "q_forgiveness_011": {
+    "question": "Ergänze die Lücke: 'Da trat Petrus hinzu und sprach zu ihm: Herr, wie oft muss ich denn meinem Bruder, der an mir sündigt, vergeben? Ist's genug siebenmal? Jesus sprach zu ihm: Ich sage dir: nicht siebenmal, sondern siebzigmal _____.'",
+    "correct": "siebenmal",
+    "wrong": ["mehr", "so viel", "hundertmal"],
+    "hint": "Jesus multipliziert die Zahl",
+    "explanation": "Jesus lehrt, dass Vergebung unbegrenzt sein sollte, nicht gezählt.",
+    "full_verse": "Da trat Petrus hinzu und sprach zu ihm: Herr, wie oft muss ich denn meinem Bruder, der an mir sündigt, vergeben? Ist's genug siebenmal? Jesus sprach zu ihm: Ich sage dir: nicht siebenmal, sondern siebzigmal siebenmal.",
+    "verse_ref": "Matthäus 18:21-22"
+  },
+  "q_forgiveness_012": {
+    "question": "Ergänze die Lücke: 'Habt acht auf euch selbst! Wenn dein Bruder sündigt, so weise ihn zurecht; und wenn er es _____, so vergib ihm.'",
+    "correct": "bereut",
+    "wrong": ["bittet", "einsieht", "ändert"],
+    "hint": "Eine Abkehr von der Sünde",
+    "explanation": "Jesus lehrt, dass Reue mit Vergebung beantwortet werden sollte.",
+    "full_verse": "Habt acht auf euch selbst! Wenn dein Bruder sündigt, so weise ihn zurecht; und wenn er es bereut, so vergib ihm. Und wenn er siebenmal am Tag an dir sündigen würde und siebenmal wieder zu dir käme und spräche: Es reut mich!, so sollst du ihm vergeben.",
+    "verse_ref": "Lukas 17:3-4"
+  },
+  "q_forgiveness_013": {
+    "question": "Ergänze die Lücke: 'Jesus aber sprach: Vater, vergib ihnen; denn sie wissen nicht, was sie _____!'",
+    "correct": "tun",
+    "wrong": ["sagen", "denken", "verursachen"],
+    "hint": "Jesus betete dies am Kreuz",
+    "explanation": "Selbst während er gekreuzigt wurde, bat Jesus den Vater, denen zu vergeben, die ihn kreuzigten.",
+    "full_verse": "Jesus aber sprach: Vater, vergib ihnen; denn sie wissen nicht, was sie tun! Und sie verteilten seine Kleider und warfen das Los darum.",
+    "verse_ref": "Lukas 23:34"
+  },
+  "q_forgiveness_014": {
+    "question": "Ergänze die Lücke: 'Petrus sprach zu ihnen: Tut Buße, und jeder von euch lasse sich taufen auf den Namen Jesu Christi zur Vergebung eurer Sünden, so werdet ihr empfangen die Gabe des Heiligen _____.'",
+    "correct": "Geistes",
+    "wrong": ["Lebens", "Kraft", "Lichts"],
+    "hint": "Das verheißene Geschenk nach der Vergebung",
+    "explanation": "Petrus verbindet Buße und Taufe mit Vergebung und dem Empfang des Heiligen Geistes.",
+    "full_verse": "Petrus sprach zu ihnen: Tut Buße, und jeder von euch lasse sich taufen auf den Namen Jesu Christi zur Vergebung eurer Sünden, so werdet ihr empfangen die Gabe des Heiligen Geistes.",
+    "verse_ref": "Apostelgeschichte 2:38"
+  },
+  "q_forgiveness_015": {
+    "question": "Ergänze die Lücke: 'Von diesem bezeugen alle Propheten, dass durch seinen _____ alle, die an ihn glauben, Vergebung der Sünden empfangen sollen.'",
+    "correct": "Namen",
+    "wrong": ["Blut", "Tod", "Gnade"],
+    "hint": "Vergebung kommt dadurch",
+    "explanation": "Petrus erklärt, dass Vergebung durch den Glauben an Jesu Namen kommt.",
+    "full_verse": "Von diesem bezeugen alle Propheten, dass durch seinen Namen alle, die an ihn glauben, Vergebung der Sünden empfangen sollen.",
+    "verse_ref": "Apostelgeschichte 10:43"
+  },
+  "q_forgiveness_016": {
+    "question": "Ergänze die Lücke: 'So sei euch nun kundgetan, ihr Männer, liebe Brüder, dass euch durch diesen Vergebung der Sünden _____ wird.'",
+    "correct": "verkündigt",
+    "wrong": ["gegeben", "angeboten", "verheißen"],
+    "hint": "Die Botschaft wird angekündigt",
+    "explanation": "Paulus verkündet die gute Nachricht von der Vergebung, die durch Jesus verfügbar ist.",
+    "full_verse": "So sei euch nun kundgetan, ihr Männer, liebe Brüder, dass euch durch diesen Vergebung der Sünden verkündigt wird.",
+    "verse_ref": "Apostelgeschichte 13:38"
+  },
+  "q_forgiveness_017": {
+    "question": "Ergänze die Lücke: 'Selig sind die, denen die Ungerechtigkeiten vergeben und denen die Sünden _____ sind!'",
+    "correct": "bedeckt",
+    "wrong": ["entfernt", "gereinigt", "vergessen"],
+    "hint": "Sünden sind verborgen vor dem Blick",
+    "explanation": "Paulus zitiert David, um die Seligkeit derer zu beschreiben, deren Sünden vergeben sind.",
+    "full_verse": "Selig sind die, denen die Ungerechtigkeiten vergeben und denen die Sünden bedeckt sind!",
+    "verse_ref": "Römer 4:7"
+  },
+  "q_forgiveness_018": {
+    "question": "Ergänze die Lücke: 'Denn Gott war in Christus und versöhnte die Welt mit sich selber und rechnete ihnen ihre Sünden nicht zu und hat unter uns aufgerichtet das Wort von der _____.'",
+    "correct": "Versöhnung",
+    "wrong": ["Vergebung", "Rettung", "Frieden"],
+    "hint": "Die Botschaft des Wiederzusammenkommens",
+    "explanation": "Paulus erklärt, dass Gott Sünden vergibt und Gläubigen die Botschaft der Versöhnung anvertraut.",
+    "full_verse": "Denn Gott war in Christus und versöhnte die Welt mit sich selber und rechnete ihnen ihre Sünden nicht zu und hat unter uns aufgerichtet das Wort von der Versöhnung.",
+    "verse_ref": "2. Korinther 5:19"
+  },
+  "q_forgiveness_019": {
+    "question": "Ergänze die Lücke: 'Denn ich will gnädig sein ihrer Missetat und ihrer Sünden will ich nicht mehr _____.'",
+    "correct": "gedenken",
+    "wrong": ["erinnern", "zählen", "halten"],
+    "hint": "Gott wird sie nicht mehr abrufen",
+    "explanation": "Gott verspricht vollständige Vergebung und wählt, sich nicht an vergebene Sünden zu erinnern.",
+    "full_verse": "Denn ich will gnädig sein ihrer Missetat und ihrer Sünden will ich nicht mehr gedenken.",
+    "verse_ref": "Hebräer 8:12"
+  },
+  "q_forgiveness_020": {
+    "question": "Ergänze die Lücke: 'Und ihrer Sünden und Ungerechtigkeiten will ich nicht mehr _____.'",
+    "correct": "gedenken",
+    "wrong": ["erinnern", "zählen", "halten"],
+    "hint": "Gott wählt zu vergessen",
+    "explanation": "Der Verfasser des Hebräerbriefs betont Gottes Verheißung, sich nicht an vergebene Sünden zu erinnern.",
+    "full_verse": "Und ihrer Sünden und Ungerechtigkeiten will ich nicht mehr gedenken.",
+    "verse_ref": "Hebräer 10:17"
+  },
+  "q_forgiveness_021": {
+    "question": "Ergänze die Lücke: 'Und das Gebet des Glaubens wird dem Kranken helfen, und der Herr wird ihn aufrichten; und wenn er Sünden getan hat, wird ihm _____ werden.'",
+    "correct": "vergeben",
+    "wrong": ["geheilt", "geholfen", "gerettet"],
+    "hint": "Sünde wird zusammen mit Krankheit angesprochen",
+    "explanation": "Jakobus verbindet gläubiges Gebet sowohl mit Heilung als auch mit Vergebung.",
+    "full_verse": "Und das Gebet des Glaubens wird dem Kranken helfen, und der Herr wird ihn aufrichten; und wenn er Sünden getan hat, wird ihm vergeben werden.",
+    "verse_ref": "Jakobus 5:15"
+  },
+  "q_forgiveness_022": {
+    "question": "Ergänze die Lücke: 'Wohl dem, dem die Übertretungen vergeben sind, dem die Sünde _____ ist!'",
+    "correct": "bedeckt",
+    "wrong": ["entfernt", "gereinigt", "vergessen"],
+    "hint": "Sünden sind verborgen vor dem Blick",
+    "explanation": "David feiert die Seligkeit, Vergebung von Gott zu empfangen.",
+    "full_verse": "Wohl dem, dem die Übertretungen vergeben sind, dem die Sünde bedeckt ist!",
+    "verse_ref": "Psalm 32:1"
+  },
+  "q_forgiveness_023": {
+    "question": "Ergänze die Lücke: 'Darum bekannte ich dir meine Sünde, und meine Schuld verbarg ich nicht. Ich sprach: Ich will dem HERRN meine Übertretungen bekennen. Da vergabst du mir die _____ meiner Sünde.'",
+    "correct": "Schuld",
+    "wrong": ["Last", "Bürde", "Flecken"],
+    "hint": "Die moralische Verantwortung für Sünde",
+    "explanation": "David bezeugt, dass Bekenntnis zur Vergebung der Schuld führt.",
+    "full_verse": "Darum bekannte ich dir meine Sünde, und meine Schuld verbarg ich nicht. Ich sprach: Ich will dem HERRN meine Übertretungen bekennen. Da vergabst du mir die Schuld meiner Sünde.",
+    "verse_ref": "Psalm 32:5"
+  },
+  "q_forgiveness_024": {
+    "question": "Ergänze die Lücke: 'Gott, sei mir gnädig nach deiner Güte, und tilge meine Sünden nach deiner großen _____.'",
+    "correct": "Barmherzigkeit",
+    "wrong": ["Gnade", "Liebe", "Freundlichkeit"],
+    "hint": "Gottes zärtliches Gefühl uns gegenüber",
+    "explanation": "David appelliert an Gottes Barmherzigkeit für die Vergebung seiner Sünden.",
+    "full_verse": "Gott, sei mir gnädig nach deiner Güte, und tilge meine Sünden nach deiner großen Barmherzigkeit.",
+    "verse_ref": "Psalm 51:3"
+  },
+  "q_forgiveness_025": {
+    "question": "Ergänze die Lücke: 'Denn du, Herr, bist gut und gnädig, von großer _____ allen, die dich anrufen.'",
+    "correct": "Güte",
+    "wrong": ["Gnade", "Liebe", "Freundlichkeit"],
+    "hint": "Gott ist reich an dieser Eigenschaft",
+    "explanation": "David preist Gottes Bereitschaft zu vergeben und seine reichliche Güte.",
+    "full_verse": "Denn du, Herr, bist gut und gnädig, von großer Güte allen, die dich anrufen.",
+    "verse_ref": "Psalm 86:5"
+  },
+  "q_forgiveness_026": {
+    "question": "Ergänze die Lücke: 'Der dir alle deine Sünde vergibt und heilet alle deine _____.'",
+    "correct": "Gebrechen",
+    "wrong": ["Wunden", "Krankheit", "Schmerzen"],
+    "hint": "Körperliche Beschwerden",
+    "explanation": "David preist Gott sowohl für das Vergeben von Sünden als auch für das Heilen körperlicher Leiden.",
+    "full_verse": "Der dir alle deine Sünde vergibt und heilet alle deine Gebrechen.",
+    "verse_ref": "Psalm 103:3"
+  },
+  "q_forgiveness_027": {
+    "question": "Ergänze die Lücke: 'Denn bei dir ist die Vergebung, dass man dich _____.'",
+    "correct": "fürchte",
+    "wrong": ["liebe", "ehre", "diene"],
+    "hint": "Heiliger Respekt vor Gott",
+    "explanation": "Der Psalmist erkennt, dass Gottes Vergebung zu ehrfürchtigem Dienst führt.",
+    "full_verse": "Denn bei dir ist die Vergebung, dass man dich fürchte.",
+    "verse_ref": "Psalm 130:4"
+  },
+  "q_forgiveness_028": {
+    "question": "Ergänze die Lücke: 'Wer Verfehlung zudeckt, stiftet Freundschaft; wer aber eine Sache aufrührt, der macht _____ uneins.'",
+    "correct": "Freunde",
+    "wrong": ["Herzen", "Menschen", "Brüder"],
+    "hint": "Beziehungen werden betroffen",
+    "explanation": "Salomo lehrt, dass Liebe Vergehen bedeckt, anstatt sie zu verbreiten.",
+    "full_verse": "Wer Verfehlung zudeckt, stiftet Freundschaft; wer aber eine Sache aufrührt, der macht Freunde uneins.",
+    "verse_ref": "Sprüche 17:9"
+  },
+  "q_forgiveness_029": {
+    "question": "Ergänze die Lücke: 'Ich, ich tilge deine Übertretungen um meinetwillen und gedenke deiner Sünden nicht _____.'",
+    "correct": "mehr",
+    "wrong": ["länger", "wieder", "weiter"],
+    "hint": "Gott wählt zu vergessen",
+    "explanation": "Gott erklärt, dass er um seinetwillen vergibt und unsere Sünden vergisst.",
+    "full_verse": "Ich, ich tilge deine Übertretungen um meinetwillen und gedenke deiner Sünden nicht mehr.",
+    "verse_ref": "Jesaja 43:25"
+  },
+  "q_forgiveness_030": {
+    "question": "Ergänze die Lücke: 'Der Gottlose lasse von seinem Wege und der Übeltäter von seinen Gedanken und bekehre sich zum HERRN, so wird er sich seiner _____.'",
+    "correct": "erbarmen",
+    "wrong": ["annehmen", "freuen", "erfreuen"],
+    "hint": "Gottes Antwort auf Buße",
+    "explanation": "Jesaja ruft zur Buße mit der Verheißung von Gottes Erbarmen und Vergebung.",
+    "full_verse": "Der Gottlose lasse von seinem Wege und der Übeltäter von seinen Gedanken und bekehre sich zum HERRN, so wird er sich seiner erbarmen, und zu unserm Gott, denn bei ihm ist viel Vergebung.",
+    "verse_ref": "Jesaja 55:7"
+  },
+  "q_forgiveness_031": {
+    "question": "Ergänze die Lücke: 'Denn ich will ihnen ihre Missetat vergeben und ihrer Sünde nimmermehr _____.'",
+    "correct": "gedenken",
+    "wrong": ["erinnern", "zählen", "halten"],
+    "hint": "Gott wird sie nicht im Gedächtnis behalten",
+    "explanation": "Gott verheißt einen neuen Bund mit vollständiger Vergebung und persönlicher Erkenntnis seiner selbst.",
+    "full_verse": "Denn ich will ihnen ihre Missetat vergeben und ihrer Sünde nimmermehr gedenken.",
+    "verse_ref": "Jeremia 31:34"
+  },
+  "q_forgiveness_032": {
+    "question": "Ergänze die Lücke: 'Bei dem Herrn, unserm Gott, ist Barmherzigkeit und Vergebung. Denn wir sind _____ geworden.'",
+    "correct": "abtrünnig",
+    "wrong": ["sündig", "untreu", "schwach"],
+    "hint": "Aktiver Widerstand gegen Gott",
+    "explanation": "Daniel erkennt Gottes Vergebung trotz Israels Abtrünnigkeit an.",
+    "full_verse": "Bei dem Herrn, unserm Gott, ist Barmherzigkeit und Vergebung. Denn wir sind abtrünnig geworden.",
+    "verse_ref": "Daniel 9:9"
+  },
+  "q_forgiveness_033": {
+    "question": "Ergänze die Lücke: 'Wenn ihr aber den Menschen nicht vergebt, so wird euch euer Vater eure _____ auch nicht vergeben.'",
+    "correct": "Verfehlungen",
+    "wrong": ["Schulden", "Fehler", "Sünden"],
+    "hint": "Was wir vergeben brauchen",
+    "explanation": "Jesus warnt, dass Unvergebenheit gegenüber anderen unsere eigene Vergebung blockiert.",
+    "full_verse": "Wenn ihr aber den Menschen nicht vergebt, so wird euch euer Vater eure Verfehlungen auch nicht vergeben.",
+    "verse_ref": "Matthäus 6:15"
+  },
+  "q_forgiveness_034": {
+    "question": "Ergänze die Lücke: 'Da nun Jesus ihren Glauben sah, sprach er zu dem Gelähmten: Mein Sohn, deine Sünden sind dir _____.'",
+    "correct": "vergeben",
+    "wrong": ["erlassen", "getilgt", "abgewaschen"],
+    "hint": "Jesus erklärte dies über die Sünden des Mannes",
+    "explanation": "Jesus demonstrierte seine Autorität, Sünden zu vergeben, indem er den Gelähmten heilte.",
+    "full_verse": "Da nun Jesus ihren Glauben sah, sprach er zu dem Gelähmten: Mein Sohn, deine Sünden sind dir vergeben.",
+    "verse_ref": "Matthäus 9:2"
+  },
+  "q_forgiveness_035": {
+    "question": "Ergänze die Lücke: 'Darum sage ich euch: Alle Sünde und Lästerung wird den Menschen vergeben; aber die Lästerung gegen den _____ wird nicht vergeben.'",
+    "correct": "Geist",
+    "wrong": ["Vater", "Sohn", "Herrn"],
+    "hint": "Die dritte Person der Dreieinigkeit",
+    "explanation": "Jesus warnt vor der unvergebbaren Sünde der Lästerung gegen den Heiligen Geist.",
+    "full_verse": "Darum sage ich euch: Alle Sünde und Lästerung wird den Menschen vergeben; aber die Lästerung gegen den Geist wird nicht vergeben.",
+    "verse_ref": "Matthäus 12:31"
+  },
+  "q_forgiveness_036": {
+    "question": "Ergänze die Lücke: 'Das ist mein Blut des Bundes, das vergossen wird für viele zur Vergebung der _____.'",
+    "correct": "Sünden",
+    "wrong": ["Menschen", "Vielen", "Welt"],
+    "hint": "Jesus vergoss sein Blut für diesen Zweck",
+    "explanation": "Jesus erklärt beim letzten Abendmahl, dass sein Blut Vergebung bringt.",
+    "full_verse": "Das ist mein Blut des Bundes, das vergossen wird für viele zur Vergebung der Sünden.",
+    "verse_ref": "Matthäus 26:28"
+  },
+  "q_forgiveness_037": {
+    "question": "Ergänze die Lücke: 'Als Jesus ihren Glauben sah, sprach er zu dem Gelähmten: Mein Sohn, deine Sünden sind dir _____.'",
+    "correct": "vergeben",
+    "wrong": ["erlassen", "getilgt", "abgewaschen"],
+    "hint": "Jesus erklärte dies zuerst vor der Heilung",
+    "explanation": "Jesus gab der Vergebung der Sünden des Mannes Vorrang vor der Heilung seines Körpers.",
+    "full_verse": "Als Jesus ihren Glauben sah, sprach er zu dem Gelähmten: Mein Sohn, deine Sünden sind dir vergeben.",
+    "verse_ref": "Markus 2:5"
+  },
+  "q_forgiveness_038": {
+    "question": "Ergänze die Lücke: 'Und als er ihren Glauben sah, sprach er: Mensch, deine Sünden sind dir _____.'",
+    "correct": "vergeben",
+    "wrong": ["erlassen", "getilgt", "abgewaschen"],
+    "hint": "Jesus sprach das geistliche Bedürfnis des Mannes an",
+    "explanation": "Lukas berichtet, dass Jesus dem Gelähmten die Sünden vergab und damit seine göttliche Autorität demonstrierte.",
+    "full_verse": "Und als er ihren Glauben sah, sprach er: Mensch, deine Sünden sind dir vergeben.",
+    "verse_ref": "Lukas 5:20"
+  },
+  "q_forgiveness_039": {
+    "question": "Ergänze die Lücke: 'Deshalb sage ich dir: Ihre vielen Sünden sind vergeben, denn sie hat viel _____; wem aber wenig vergeben wird, der liebt wenig.'",
+    "correct": "Liebe",
+    "wrong": ["Glauben", "Tränen", "Hingabe"],
+    "hint": "Ihre Emotion zeigte empfangene Vergebung",
+    "explanation": "Jesus erklärt, dass die große Liebe der Frau ein Beweis für ihre Vergebung war.",
+    "full_verse": "Deshalb sage ich dir: Ihre vielen Sünden sind vergeben, denn sie hat viel Liebe gezeigt; wem aber wenig vergeben wird, der liebt wenig.",
+    "verse_ref": "Lukas 7:47"
+  },
+  "q_forgiveness_040": {
+    "question": "Ergänze die Lücke: 'Und er sprach zu ihr: Dir sind deine Sünden _____.'",
+    "correct": "vergeben",
+    "wrong": ["erlassen", "getilgt", "abgewaschen"],
+    "hint": "Jesus erklärte dies der Frau",
+    "explanation": "Jesus sprach der sündigen Frau persönlich Vergebung zu.",
+    "full_verse": "Und er sprach zu ihr: Dir sind deine Sünden vergeben.",
+    "verse_ref": "Lukas 7:48"
+  },
+  "q_forgiveness_041": {
+    "question": "Ergänze die Lücke: 'Und vergib uns unsere Sünden; denn auch wir vergeben allen, die an uns schuldig werden. Und führe uns nicht in _____.'",
+    "correct": "Versuchung",
+    "wrong": ["Übel", "Sünde", "Gefahr"],
+    "hint": "Wir bitten, dies zu vermeiden",
+    "explanation": "Jesus lehrt seine Jünger, um Vergebung und Schutz vor Versuchung zu beten.",
+    "full_verse": "Und vergib uns unsere Sünden; denn auch wir vergeben allen, die an uns schuldig werden. Und führe uns nicht in Versuchung.",
+    "verse_ref": "Lukas 11:4"
+  },
+  "q_forgiveness_042": {
+    "question": "Ergänze die Lücke: 'Den hat Gott durch seine rechte Hand erhöht zum Fürsten und Heiland, um Israel Buße und Vergebung der _____ zu geben.'",
+    "correct": "Sünden",
+    "wrong": ["Schulden", "Fehler", "Übertretungen"],
+    "hint": "Wofür Jesus kam zu vergeben",
+    "explanation": "Petrus erklärt, dass Jesus erhöht wurde, um Buße und Vergebung zu bringen.",
+    "full_verse": "Den hat Gott durch seine rechte Hand erhöht zum Fürsten und Heiland, um Israel Buße und Vergebung der Sünden zu geben.",
+    "verse_ref": "Apostelgeschichte 5:31"
+  },
+  "q_forgiveness_043": {
+    "question": "Ergänze die Lücke: 'Ihre Augen aufzutun, dass sie sich bekehren von der Finsternis zum Licht und von der Gewalt des Satans zu Gott. So werden sie empfangen Vergebung der Sünden und das Erbteil mit denen, die _____ sind durch den Glauben an mich.'",
+    "correct": "geheiligt",
+    "wrong": ["gerettet", "gesegnet", "erwählt"],
+    "hint": "Heilig gemacht",
+    "explanation": "Paulus beschreibt seine Mission, Menschen von der Finsternis zum Licht und zur Vergebung zu bringen.",
+    "full_verse": "Ihre Augen aufzutun, dass sie sich bekehren von der Finsternis zum Licht und von der Gewalt des Satans zu Gott. So werden sie empfangen Vergebung der Sünden und das Erbteil mit denen, die geheiligt sind durch den Glauben an mich.",
+    "verse_ref": "Apostelgeschichte 26:18"
+  },
+  "q_forgiveness_044": {
+    "question": "Ergänze die Lücke: 'In ihm haben wir die Erlösung durch sein Blut, die Vergebung der Sünden, nach dem Reichtum seiner _____.'",
+    "correct": "Gnade",
+    "wrong": ["Liebe", "Barmherzigkeit", "Herrlichkeit"],
+    "hint": "Gottes unverdiente Gunst",
+    "explanation": "Paulus erklärt, dass Vergebung durch Christi Blut und Gottes reiche Gnade kommt.",
+    "full_verse": "In ihm haben wir die Erlösung durch sein Blut, die Vergebung der Sünden, nach dem Reichtum seiner Gnade.",
+    "verse_ref": "Epheser 1:7"
+  },
+  "q_forgiveness_045": {
+    "question": "Ergänze die Lücke: 'An dem wir haben die Erlösung, nämlich die Vergebung der _____.'",
+    "correct": "Sünden",
+    "wrong": ["Schulden", "Fehler", "Übertretungen"],
+    "hint": "Wovon uns vergeben wird",
+    "explanation": "Paulus erklärt kurz, dass Erlösung in Christus Vergebung der Sünden bedeutet.",
+    "full_verse": "An dem wir haben die Erlösung, nämlich die Vergebung der Sünden.",
+    "verse_ref": "Kolosser 1:14"
+  },
+  "q_forgiveness_046": {
+    "question": "Ergänze die Lücke: 'Und er hat euch mit ihm lebendig gemacht, die ihr tot wart in den Sünden und in der Unbeschnittenheit eures Fleisches, und hat uns vergeben alle _____.'",
+    "correct": "Sünden",
+    "wrong": ["Schulden", "Fehler", "Übertretungen"],
+    "hint": "Alles, was wir falsch gemacht haben",
+    "explanation": "Paulus erklärt, dass Gott uns lebendig gemacht hat, indem er alle unsere Sünden durch Christus vergab.",
+    "full_verse": "Und er hat euch mit ihm lebendig gemacht, die ihr tot wart in den Sünden und in der Unbeschnittenheit eures Fleisches, und hat uns vergeben alle Sünden.",
+    "verse_ref": "Kolosser 2:13"
+  },
+  "q_forgiveness_047": {
+    "question": "Ergänze die Lücke: 'Meine Kinder, dies schreibe ich euch, damit ihr nicht sündigt. Und wenn jemand sündigt, so haben wir einen Fürsprecher bei dem Vater, Jesus Christus, der _____ ist.'",
+    "correct": "gerecht",
+    "wrong": ["heilig", "treu", "lebendig"],
+    "hint": "Jesu moralischer Charakter",
+    "explanation": "Johannes versichert Gläubigen, dass Jesus für uns eintritt, wenn wir sündigen.",
+    "full_verse": "Meine Kinder, dies schreibe ich euch, damit ihr nicht sündigt. Und wenn jemand sündigt, so haben wir einen Fürsprecher bei dem Vater, Jesus Christus, der gerecht ist.",
+    "verse_ref": "1. Johannes 2:1"
+  },
+  "q_forgiveness_048": {
+    "question": "Ergänze die Lücke: 'Ich schreibe euch, liebe Kinder; denn die Sünden sind euch vergeben um seines _____ willen.'",
+    "correct": "Namens",
+    "wrong": ["Blutes", "Todes", "Liebe"],
+    "hint": "Vergebung kommt dadurch",
+    "explanation": "Johannes erinnert Gläubige daran, dass ihre Sünden durch Jesu Namen vergeben sind.",
+    "full_verse": "Ich schreibe euch, liebe Kinder; denn die Sünden sind euch vergeben um seines Namens willen.",
+    "verse_ref": "1. Johannes 2:12"
+  },
+  "q_forgiveness_049": {
+    "question": "Ergänze die Lücke: 'Und wenn dann mein Volk, über das mein Name genannt ist, sich demütigt, dass sie beten und mein Angesicht suchen und sich von ihren bösen Wegen bekehren, so will ich vom Himmel her hören und ihre Sünde vergeben und ihr _____ heilen.'",
+    "correct": "Land",
+    "wrong": ["Herzen", "Volk", "Nation"],
+    "hint": "Gott verspricht, ihr Territorium wiederherzustellen",
+    "explanation": "Gott verspricht Vergebung und Heilung für sein Volk, das sich demütigt und Buße tut.",
+    "full_verse": "Und wenn dann mein Volk, über das mein Name genannt ist, sich demütigt, dass sie beten und mein Angesicht suchen und sich von ihren bösen Wegen bekehren, so will ich vom Himmel her hören und ihre Sünde vergeben und ihr Land heilen.",
+    "verse_ref": "2. Chronik 7:14"
+  },
+  "q_forgiveness_050": {
+    "question": "Ergänze die Lücke: 'Der HERR ist geduldig und von großer Barmherzigkeit und vergibt Missetat und Übertretung, aber er lässt niemand ungestraft, sondern sucht heim die Missetat der Väter an den Kindern bis ins dritte und vierte _____.'",
+    "correct": "Glied",
+    "wrong": ["Grad", "Maß", "Generation"],
+    "hint": "Die Auswirkungen der Sünde setzen sich in Familienlinien fort",
+    "explanation": "Mose erklärt Gottes Charakter als langsam zum Zorn und vergebend, aber dennoch gerecht.",
+    "full_verse": "Der HERR ist geduldig und von großer Barmherzigkeit und vergibt Missetat und Übertretung, aber er lässt niemand ungestraft, sondern sucht heim die Missetat der Väter an den Kindern bis ins dritte und vierte Glied.",
+    "verse_ref": "4. Mose 14:18"
+  }
+}

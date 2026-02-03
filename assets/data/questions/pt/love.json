@@ -1,1 +1,452 @@
-{}
+{
+  "q_love_001": {
+    "question": "Complete o espaço em branco: 'Porque Deus _____ o mundo de tal maneira que deu o seu Filho unigênito.'",
+    "correct": "amou",
+    "wrong": ["abençoou", "criou", "julgou"],
+    "hint": "Este versículo descreve o maior ato de Deus para com a humanidade",
+    "explanation": "João 3:16 revela a profundidade do amor de Deus - Ele amou o mundo tanto que deu Seu Filho para nossa salvação.",
+    "full_verse": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.",
+    "verse_ref": "João 3:16"
+  },
+  "q_love_002": {
+    "question": "Complete o espaço em branco: 'O amor é sofredor, é _____.'",
+    "correct": "benigno",
+    "wrong": ["forte", "sábio", "puro"],
+    "hint": "Esta qualidade envolve gentileza e consideração",
+    "explanation": "Paulo começa sua famosa descrição do amor enfatizando paciência e bondade como suas qualidades fundamentais.",
+    "full_verse": "O amor é sofredor, é benigno; o amor não é invejoso; o amor não trata com leviandade, não se ensoberbece.",
+    "verse_ref": "1 Coríntios 13:4"
+  },
+  "q_love_003": {
+    "question": "Complete o espaço em branco: 'Ninguém tem maior amor do que este: de dar alguém a sua _____ pelos seus amigos.'",
+    "correct": "vida",
+    "wrong": ["riqueza", "orgulho", "casa"],
+    "hint": "Jesus demonstrou este sacrifício supremo",
+    "explanation": "Jesus disse estas palavras antes de Sua crucificação, ensinando que a maior expressão de amor é o auto-sacrifício.",
+    "full_verse": "Ninguém tem maior amor do que este: de dar alguém a sua vida pelos seus amigos.",
+    "verse_ref": "João 15:13"
+  },
+  "q_love_004": {
+    "question": "Complete o espaço em branco: 'Agora, pois, permanecem a fé, a esperança e o amor, estes três; mas o maior destes é o _____.'",
+    "correct": "amor",
+    "wrong": ["fé", "esperança", "paz"],
+    "hint": "Paulo declara este como supremo entre os três",
+    "explanation": "Ao concluir seu discurso sobre o amor, Paulo declara que enquanto fé, esperança e amor perduram, o amor é a maior virtude.",
+    "full_verse": "Agora, pois, permanecem a fé, a esperança e o amor, estes três; mas o maior destes é o amor.",
+    "verse_ref": "1 Coríntios 13:13"
+  },
+  "q_love_005": {
+    "question": "Complete o espaço em branco: 'Nós o amamos a ele porque ele nos amou _____.'",
+    "correct": "primeiro",
+    "wrong": ["sempre", "verdadeiramente", "profundamente"],
+    "hint": "O amor de Deus precedeu o nosso",
+    "explanation": "Nossa capacidade de amar se origina da iniciativa de Deus - Ele nos amou antes que pudéssemos amá-Lo.",
+    "full_verse": "Nós o amamos a ele porque ele nos amou primeiro.",
+    "verse_ref": "1 João 4:19"
+  },
+  "q_love_006": {
+    "question": "Complete o espaço em branco: 'Amarás o teu _____ como a ti mesmo.'",
+    "correct": "próximo",
+    "wrong": ["família", "amigo", "irmão"],
+    "hint": "Este mandamento estende o amor além do nosso círculo íntimo",
+    "explanation": "Jesus citou este mandamento de Levítico como o segundo maior mandamento, ensinando-nos a estender o amor a todas as pessoas.",
+    "full_verse": "Amarás o teu próximo como a ti mesmo.",
+    "verse_ref": "Marcos 12:31"
+  },
+  "q_love_007": {
+    "question": "Complete o espaço em branco: 'Deus é _____.'",
+    "correct": "amor",
+    "wrong": ["luz", "espírito", "santo"],
+    "hint": "Isto define a natureza essencial de Deus",
+    "explanation": "João faz esta profunda declaração de que o amor não é apenas algo que Deus faz, mas quem Ele fundamentalmente é.",
+    "full_verse": "Aquele que não ama não conhece a Deus; porque Deus é amor.",
+    "verse_ref": "1 João 4:8"
+  },
+  "q_love_008": {
+    "question": "Complete o espaço em branco: 'Não folga com a injustiça, mas folga com a _____.'",
+    "correct": "verdade",
+    "wrong": ["justiça", "humildade", "fidelidade"],
+    "hint": "O amor celebra o que é genuíno e honesto",
+    "explanation": "O verdadeiro amor não encontra prazer na maldade, mas celebra a verdade e a justiça.",
+    "full_verse": "Não folga com a injustiça, mas folga com a verdade.",
+    "verse_ref": "1 Coríntios 13:6"
+  },
+  "q_love_009": {
+    "question": "Complete o espaço em branco: 'Mas, sobretudo, tende ardente amor uns para com os outros; porque o amor cobrirá a multidão de _____.'",
+    "correct": "pecados",
+    "wrong": ["falhas", "erros", "ofensas"],
+    "hint": "O amor tem o poder de perdoar muitas transgressões",
+    "explanation": "Pedro ensina que o amor profundo e genuíno tem o poder de perdoar e relevar muitas ofensas.",
+    "full_verse": "Mas, sobretudo, tende ardente amor uns para com os outros; porque o amor cobrirá a multidão de pecados.",
+    "verse_ref": "1 Pedro 4:8"
+  },
+  "q_love_010": {
+    "question": "Complete o espaço em branco: 'Eu, porém, vos digo: Amai a vossos _____, bendizei os que vos maldizem.'",
+    "correct": "inimigos",
+    "wrong": ["vizinhos", "irmãos", "amigos"],
+    "hint": "Jesus nos ordena amar até mesmo aqueles que se opõem a nós",
+    "explanation": "Jesus ensinou radicalmente que o amor deve se estender até mesmo àqueles que nos odeiam e perseguem.",
+    "full_verse": "Eu, porém, vos digo: Amai a vossos inimigos, bendizei os que vos maldizem, fazei bem aos que vos odeiam, e orai pelos que vos maltratam e vos perseguem.",
+    "verse_ref": "Mateus 5:44"
+  },
+  "q_love_011": {
+    "question": "Complete o espaço em branco: 'Vós, maridos, amai vossas mulheres, como também Cristo amou a _____.'",
+    "correct": "igreja",
+    "wrong": ["discípulos", "mundo", "Pai"],
+    "hint": "O amor sacrificial de Cristo pelos crentes é o modelo",
+    "explanation": "Paulo instrui os maridos a amarem suas esposas com o mesmo amor abnegado que Cristo demonstrou pela igreja.",
+    "full_verse": "Vós, maridos, amai vossas mulheres, como também Cristo amou a igreja, e a si mesmo se entregou por ela.",
+    "verse_ref": "Efésios 5:25"
+  },
+  "q_love_012": {
+    "question": "Complete o espaço em branco: 'A ninguém devais coisa alguma, a não ser o amor com que vos ameis uns aos _____.'",
+    "correct": "outros",
+    "wrong": ["próximos", "irmãos", "amigos"],
+    "hint": "Esta dívida nunca pode ser totalmente paga",
+    "explanation": "Paulo ensina que enquanto devemos pagar todas as dívidas, a obrigação de amar os outros é contínua e nunca totalmente quitada.",
+    "full_verse": "A ninguém devais coisa alguma, a não ser o amor com que vos ameis uns aos outros; porque quem ama aos outros cumpriu a lei.",
+    "verse_ref": "Romanos 13:8"
+  },
+  "q_love_013": {
+    "question": "Complete o espaço em branco: 'No amor não há temor, antes o _____ amor lança fora o temor.'",
+    "correct": "perfeito",
+    "wrong": ["verdadeiro", "puro", "grande"],
+    "hint": "O amor completo e maduro elimina o medo",
+    "explanation": "João ensina que quando o amor atinge maturidade e completude, ele remove todo medo de julgamento.",
+    "full_verse": "No amor não há temor, antes o perfeito amor lança fora o temor; porque o temor tem consigo a pena.",
+    "verse_ref": "1 João 4:18"
+  },
+  "q_love_014": {
+    "question": "Complete o espaço em branco: 'Amarás o Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todo o teu _____.'",
+    "correct": "pensamento",
+    "wrong": ["corpo", "vida", "riqueza"],
+    "hint": "Isto envolve nossa capacidade intelectual",
+    "explanation": "Jesus declarou este como o maior mandamento - amar a Deus completamente com cada aspecto do nosso ser.",
+    "full_verse": "Amarás o Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todo o teu pensamento.",
+    "verse_ref": "Mateus 22:37"
+  },
+  "q_love_015": {
+    "question": "Complete o espaço em branco: 'Um novo mandamento vos dou: Que vos ameis uns aos outros; como eu vos amei a vós, que também vós uns aos outros vos _____.'",
+    "correct": "ameis",
+    "wrong": ["sirvais", "ajudeis", "perdoeis"],
+    "hint": "Jesus modelou este amor mútuo",
+    "explanation": "Jesus deu este novo mandamento aos Seus discípulos, estabelecendo Seu próprio amor como o padrão de como devemos amar.",
+    "full_verse": "Um novo mandamento vos dou: Que vos ameis uns aos outros; como eu vos amei a vós, que também vós uns aos outros vos ameis.",
+    "verse_ref": "João 13:34"
+  },
+  "q_love_016": {
+    "question": "Complete o espaço em branco: 'Amados, amemo-nos uns aos outros; porque o amor é de _____.'",
+    "correct": "Deus",
+    "wrong": ["céu", "cima", "dentro"],
+    "hint": "O amor tem uma fonte divina",
+    "explanation": "João ensina que o amor autêntico se origina de Deus - Ele é a fonte de todo amor verdadeiro.",
+    "full_verse": "Amados, amemo-nos uns aos outros; porque o amor é de Deus; e qualquer que ama é nascido de Deus e conhece a Deus.",
+    "verse_ref": "1 João 4:7"
+  },
+  "q_love_017": {
+    "question": "Complete o espaço em branco: 'Vede quão grande amor nos tem concedido o Pai: que fôssemos chamados _____ de Deus.'",
+    "correct": "filhos",
+    "wrong": ["servos", "amigos", "herdeiros"],
+    "hint": "Isto descreve nosso relacionamento com Deus",
+    "explanation": "João maravilha-se com o amor extravagante de Deus que nos concede o privilégio de sermos Seus filhos.",
+    "full_verse": "Vede quão grande amor nos tem concedido o Pai: que fôssemos chamados filhos de Deus.",
+    "verse_ref": "1 João 3:1"
+  },
+  "q_love_018": {
+    "question": "Complete o espaço em branco: 'O amor nunca _____.'",
+    "correct": "falha",
+    "wrong": ["termina", "para", "desiste"],
+    "hint": "O amor é permanente e infalível",
+    "explanation": "Paulo declara que diferente dos dons espirituais que cessarão, o amor é eterno e nunca falhará.",
+    "full_verse": "O amor nunca falha; mas havendo profecias, serão aniquiladas; havendo línguas, cessarão; havendo ciência, desaparecerá.",
+    "verse_ref": "1 Coríntios 13:8"
+  },
+  "q_love_019": {
+    "question": "Complete o espaço em branco: 'Conservai-vos a vós mesmos no amor de Deus, esperando a _____ de nosso Senhor Jesus Cristo para a vida eterna.'",
+    "correct": "misericórdia",
+    "wrong": ["volta", "vinda", "glória"],
+    "hint": "Esta qualidade conduz à vida eterna",
+    "explanation": "Judas encoraja os crentes a permanecerem no amor de Deus enquanto aguardam o retorno misericordioso de Cristo.",
+    "full_verse": "Conservai-vos a vós mesmos no amor de Deus, esperando a misericórdia de nosso Senhor Jesus Cristo para a vida eterna.",
+    "verse_ref": "Judas 1:21"
+  },
+  "q_love_020": {
+    "question": "Complete o espaço em branco: 'Todas as vossas coisas sejam feitas com _____.'",
+    "correct": "amor",
+    "wrong": ["fé", "paz", "alegria"],
+    "hint": "Isto deveria motivar todas as nossas ações",
+    "explanation": "A instrução simples, porém profunda de Paulo de que o amor deve ser a motivação por trás de tudo o que fazemos.",
+    "full_verse": "Todas as vossas coisas sejam feitas com amor.",
+    "verse_ref": "1 Coríntios 16:14"
+  },
+  "q_love_021": {
+    "question": "Complete o espaço em branco: 'Mas Deus prova o seu amor para conosco, em que Cristo morreu por nós, sendo nós ainda _____.'",
+    "correct": "pecadores",
+    "wrong": ["perdidos", "quebrantados", "fracos"],
+    "hint": "Cristo morreu por nós em nosso estado caído",
+    "explanation": "Paulo enfatiza que o amor de Deus é incondicional - Cristo morreu por nós enquanto ainda estávamos em rebelião contra Ele.",
+    "full_verse": "Mas Deus prova o seu amor para conosco, em que Cristo morreu por nós, sendo nós ainda pecadores.",
+    "verse_ref": "Romanos 5:8"
+  },
+  "q_love_022": {
+    "question": "Complete o espaço em branco: 'Tudo sofre, tudo crê, tudo espera, tudo _____.'",
+    "correct": "suporta",
+    "wrong": ["aguenta", "acredita", "perdoa"],
+    "hint": "O amor continua apesar das dificuldades",
+    "explanation": "Paulo descreve a natureza duradoura do amor - ele nunca desiste e continua em todas as circunstâncias.",
+    "full_verse": "Tudo sofre, tudo crê, tudo espera, tudo suporta.",
+    "verse_ref": "1 Coríntios 13:7"
+  },
+  "q_love_023": {
+    "question": "Complete o espaço em branco: 'Conhecemos o amor nisto: que ele deu a sua _____ por nós.'",
+    "correct": "vida",
+    "wrong": ["glória", "coroa", "poder"],
+    "hint": "Jesus fez o sacrifício supremo",
+    "explanation": "João aponta para a morte sacrificial de Cristo como o exemplo definitivo do que é o verdadeiro amor.",
+    "full_verse": "Conhecemos o amor nisto: que ele deu a sua vida por nós, e nós devemos dar a vida pelos irmãos.",
+    "verse_ref": "1 João 3:16"
+  },
+  "q_love_024": {
+    "question": "Complete o espaço em branco: 'Ainda que eu falasse as línguas dos homens e dos anjos, e não tivesse amor, seria como o metal que soa ou como o sino que _____.'",
+    "correct": "tine",
+    "wrong": ["toca", "bate", "ressoa"],
+    "hint": "Este é um instrumento de percussão",
+    "explanation": "Paulo começa seu capítulo sobre o amor afirmando que mesmo os dons mais impressionantes são sem sentido sem amor.",
+    "full_verse": "Ainda que eu falasse as línguas dos homens e dos anjos, e não tivesse amor, seria como o metal que soa ou como o sino que tine.",
+    "verse_ref": "1 Coríntios 13:1"
+  },
+  "q_love_025": {
+    "question": "Complete o espaço em branco: 'Se alguém diz: Eu amo a Deus, e odeia a seu irmão, é _____.'",
+    "correct": "mentiroso",
+    "wrong": ["tolo", "pecador", "hipócrita"],
+    "hint": "Esta pessoa não está sendo verdadeira",
+    "explanation": "João deixa claro que o amor a Deus e o ódio aos outros são incompatíveis - um prova que o outro é falso.",
+    "full_verse": "Se alguém diz: Eu amo a Deus, e odeia a seu irmão, é mentiroso. Pois quem não ama a seu irmão, ao qual viu, como pode amar a Deus, a quem não viu?",
+    "verse_ref": "1 João 4:20"
+  },
+  "q_love_026": {
+    "question": "Complete o espaço em branco: 'O meu mandamento é este: Que vos ameis uns aos outros, assim como eu vos _____.'",
+    "correct": "amei",
+    "wrong": ["ensinei", "abençoei", "escolhi"],
+    "hint": "Jesus deu o exemplo para seguirmos",
+    "explanation": "Jesus ordena que Seus seguidores amem com o mesmo amor sacrificial que Ele demonstrou.",
+    "full_verse": "O meu mandamento é este: Que vos ameis uns aos outros, assim como eu vos amei.",
+    "verse_ref": "João 15:12"
+  },
+  "q_love_027": {
+    "question": "Complete o espaço em branco: 'Aquele que ama a seu irmão está na _____, e nele não há escândalo.'",
+    "correct": "luz",
+    "wrong": ["verdade", "Espírito", "Senhor"],
+    "hint": "Este é o oposto de trevas",
+    "explanation": "João contrasta amor e ódio como luz e trevas - aqueles que amam andam na luz de Deus.",
+    "full_verse": "Aquele que ama a seu irmão está na luz, e nele não há escândalo.",
+    "verse_ref": "1 João 2:10"
+  },
+  "q_love_028": {
+    "question": "Complete o espaço em branco: 'E, sobre tudo isto, revesti-vos de amor, que é o vínculo da _____.'",
+    "correct": "perfeição",
+    "wrong": ["harmonia", "paz", "ordem"],
+    "hint": "O amor cria unidade completa",
+    "explanation": "Paulo descreve o amor como a virtude que mantém todas as outras virtudes juntas em perfeita completude.",
+    "full_verse": "E, sobre tudo isto, revesti-vos de amor, que é o vínculo da perfeição.",
+    "verse_ref": "Colossenses 3:14"
+  },
+  "q_love_029": {
+    "question": "Complete o espaço em branco: 'Porque estou certo de que, nem a morte, nem a vida... nos poderá separar do _____ de Deus.'",
+    "correct": "amor",
+    "wrong": ["graça", "poder", "presença"],
+    "hint": "Nada pode quebrar este vínculo com Deus",
+    "explanation": "Paulo declara triunfantemente que absolutamente nada pode separar os crentes do amor de Deus em Cristo.",
+    "full_verse": "Porque estou certo de que, nem a morte, nem a vida, nem os anjos, nem os principados, nem as potestades, nem o presente, nem o porvir, nem a altura, nem a profundidade, nem alguma outra criatura nos poderá separar do amor de Deus, que está em Cristo Jesus nosso Senhor.",
+    "verse_ref": "Romanos 8:38-39"
+  },
+  "q_love_030": {
+    "question": "Complete o espaço em branco: 'E ainda que tivesse o dom de profecia, e conhecesse todos os mistérios e toda a ciência, e ainda que tivesse toda a fé, de maneira tal que transportasse os montes, e não tivesse amor, nada _____.'",
+    "correct": "seria",
+    "wrong": ["valeria", "ganharia", "teria"],
+    "hint": "Sem amor, mesmo grandes dons não valem nada",
+    "explanation": "Paulo enfatiza que mesmo os maiores dons e habilidades espirituais são inúteis sem amor.",
+    "full_verse": "E ainda que tivesse o dom de profecia, e conhecesse todos os mistérios e toda a ciência, e ainda que tivesse toda a fé, de maneira tal que transportasse os montes, e não tivesse amor, nada seria.",
+    "verse_ref": "1 Coríntios 13:2"
+  },
+  "q_love_031": {
+    "question": "Complete o espaço em branco: 'Com amor eterno te amei, por isso com benignidade te _____.'",
+    "correct": "atraí",
+    "wrong": ["chamei", "abençoei", "guardei"],
+    "hint": "Este amor não tem fim",
+    "explanation": "Deus declara Seu amor por Seu povo como eterno e imutável, atraindo-os com bondade.",
+    "full_verse": "Com amor eterno te amei, por isso com benignidade te atraí.",
+    "verse_ref": "Jeremias 31:3"
+  },
+  "q_love_032": {
+    "question": "Complete o espaço em branco: 'Amai-vos cordialmente uns aos outros com amor fraternal, preferindo-vos em honra uns aos _____.'",
+    "correct": "outros",
+    "wrong": ["demais", "todos", "irmãos"],
+    "hint": "Coloque os outros em primeiro lugar",
+    "explanation": "Paulo instrui os crentes a praticarem amor abnegado, colocando a honra dos outros acima da própria.",
+    "full_verse": "Amai-vos cordialmente uns aos outros com amor fraternal, preferindo-vos em honra uns aos outros.",
+    "verse_ref": "Romanos 12:10"
+  },
+  "q_love_033": {
+    "question": "Complete o espaço em branco: 'E o Senhor vos aumente, e faça crescer em amor uns para com os outros, e para com todos, como também o fazemos para convosco, e vos faça _____.'",
+    "correct": "abundar",
+    "wrong": ["crescer", "multiplicar", "espalhar"],
+    "hint": "O amor deve transbordar abundantemente",
+    "explanation": "Paulo ora para que o amor dos tessalonicenses cresça tanto que transborde para todos ao seu redor.",
+    "full_verse": "E o Senhor vos aumente, e faça crescer em amor uns para com os outros, e para com todos, como também o fazemos para convosco.",
+    "verse_ref": "1 Tessalonicenses 3:12"
+  },
+  "q_love_034": {
+    "question": "Complete o espaço em branco: 'E ainda que distribuísse toda a minha fortuna para sustento dos pobres, e ainda que entregasse o meu corpo para ser queimado, e não tivesse amor, nada disso me _____.'",
+    "correct": "aproveitaria",
+    "wrong": ["valeria", "serviria", "ajudaria"],
+    "hint": "Sem amor, mesmo o sacrifício é inútil",
+    "explanation": "Paulo mostra que mesmo os atos mais generosos e sacrificiais são sem proveito sem amor genuíno.",
+    "full_verse": "E ainda que distribuísse toda a minha fortuna para sustento dos pobres, e ainda que entregasse o meu corpo para ser queimado, e não tivesse amor, nada disso me aproveitaria.",
+    "verse_ref": "1 Coríntios 13:3"
+  },
+  "q_love_035": {
+    "question": "Complete o espaço em branco: 'Ouvistes que foi dito: Amarás o teu próximo, e odiarás o teu _____.'",
+    "correct": "inimigo",
+    "wrong": ["rival", "adversário", "oponente"],
+    "hint": "Jesus citou este ensinamento comum antes de corrigi-lo",
+    "explanation": "Jesus citou a interpretação popular errada antes de ensinar que devemos amar até nossos inimigos.",
+    "full_verse": "Ouvistes que foi dito: Amarás o teu próximo, e odiarás o teu inimigo.",
+    "verse_ref": "Mateus 5:43"
+  },
+  "q_love_036": {
+    "question": "Complete o espaço em branco: 'Ninguém jamais viu a Deus; se nós nos amarmos uns aos outros, Deus está em nós, e em nós é _____ o seu amor.'",
+    "correct": "perfeito",
+    "wrong": ["completo", "pleno", "cheio"],
+    "hint": "O amor de Deus alcança seu objetivo em nós",
+    "explanation": "João ensina que amar uns aos outros é evidência da presença de Deus e de Seu amor alcançando seu propósito pretendido.",
+    "full_verse": "Ninguém jamais viu a Deus; se nós nos amarmos uns aos outros, Deus está em nós, e em nós é perfeito o seu amor.",
+    "verse_ref": "1 João 4:12"
+  },
+  "q_love_037": {
+    "question": "Complete o espaço em branco: 'E o amor é este: que andemos segundo os seus _____.'",
+    "correct": "mandamentos",
+    "wrong": ["caminhos", "estatutos", "princípios"],
+    "hint": "O amor é demonstrado seguindo as instruções de Deus",
+    "explanation": "João define o amor praticamente como obediência aos mandamentos de Deus, não apenas uma emoção.",
+    "full_verse": "E o amor é este: que andemos segundo os seus mandamentos. Este é o mandamento, como já desde o princípio ouvistes, que andeis nele.",
+    "verse_ref": "2 João 1:6"
+  },
+  "q_love_038": {
+    "question": "Complete o espaço em branco: 'Nisto todos conhecerão que sois meus discípulos, se vos amardes uns aos _____.'",
+    "correct": "outros",
+    "wrong": ["próximos", "irmãos", "amigos"],
+    "hint": "O amor mútuo identifica os seguidores de Cristo",
+    "explanation": "Jesus declarou que o amor entre Seus seguidores seria a marca distintiva do verdadeiro discipulado.",
+    "full_verse": "Nisto todos conhecerão que sois meus discípulos, se vos amardes uns aos outros.",
+    "verse_ref": "João 13:35"
+  },
+  "q_love_039": {
+    "question": "Complete o espaço em branco: 'Não te desamparem a benignidade e a fidelidade; ata-as ao teu _____.'",
+    "correct": "pescoço",
+    "wrong": ["coração", "pulso", "cintura"],
+    "hint": "Use estas virtudes como joias",
+    "explanation": "O provérbio nos instrui a manter a benignidade e a fidelidade perto, como um colar sempre usado.",
+    "full_verse": "Não te desamparem a benignidade e a fidelidade; ata-as ao teu pescoço, escreve-as na tábua do teu coração.",
+    "verse_ref": "Provérbios 3:3"
+  },
+  "q_love_040": {
+    "question": "Complete o espaço em branco: 'Não se porta com indecência, não busca os seus interesses, não se _____.'",
+    "correct": "irrita",
+    "wrong": ["ofende", "magoa", "provoca"],
+    "hint": "O amor mantém a compostura",
+    "explanation": "Paulo descreve o amor como paciente com os outros, não rápido para ficar perturbado ou perder a calma.",
+    "full_verse": "Não se porta com indecência, não busca os seus interesses, não se irrita, não suspeita mal.",
+    "verse_ref": "1 Coríntios 13:5"
+  },
+  "q_love_041": {
+    "question": "Complete o espaço em branco: 'E a esperança não traz confusão, porquanto o amor de Deus está derramado em nossos _____ pelo Espírito Santo.'",
+    "correct": "corações",
+    "wrong": ["almas", "vidas", "mentes"],
+    "hint": "O Espírito enche esta parte de nós com o amor de Deus",
+    "explanation": "Paulo descreve como o Espírito Santo enche os corações dos crentes com o conhecimento experiencial do amor de Deus.",
+    "full_verse": "E a esperança não traz confusão, porquanto o amor de Deus está derramado em nossos corações pelo Espírito Santo que nos foi dado.",
+    "verse_ref": "Romanos 5:5"
+  },
+  "q_love_042": {
+    "question": "Complete o espaço em branco: 'O ódio excita contendas, mas o amor cobre todas as _____.'",
+    "correct": "transgressões",
+    "wrong": ["pecados", "falhas", "erros"],
+    "hint": "O amor releva as ofensas",
+    "explanation": "Este provérbio contrasta o ódio, que cria conflito, com o amor, que perdoa e cobre as ofensas.",
+    "full_verse": "O ódio excita contendas, mas o amor cobre todas as transgressões.",
+    "verse_ref": "Provérbios 10:12"
+  },
+  "q_love_043": {
+    "question": "Complete o espaço em branco: 'Põe-me como selo sobre o teu coração, como selo sobre o teu braço, porque o amor é forte como a _____.'",
+    "correct": "morte",
+    "wrong": ["vida", "fé", "Deus"],
+    "hint": "O poder do amor é comparado a algo inevitável",
+    "explanation": "O Cântico dos Cânticos descreve poeticamente o poder irresistível do amor, comparando-o à força inevitável da morte.",
+    "full_verse": "Põe-me como selo sobre o teu coração, como selo sobre o teu braço, porque o amor é forte como a morte, e duro como a sepultura o ciúme.",
+    "verse_ref": "Cânticos 8:6"
+  },
+  "q_love_044": {
+    "question": "Complete o espaço em branco: 'Nisto se manifesta o amor de Deus para conosco: que Deus enviou seu _____ unigênito ao mundo.'",
+    "correct": "Filho",
+    "wrong": ["Espírito", "Palavra", "Dom"],
+    "hint": "Deus enviou Jesus para demonstrar Seu amor",
+    "explanation": "João explica que o amor de Deus foi demonstrado através do envio de Jesus Cristo ao mundo.",
+    "full_verse": "Nisto se manifesta o amor de Deus para conosco: que Deus enviou seu Filho unigênito ao mundo, para que por ele vivamos.",
+    "verse_ref": "1 João 4:9"
+  },
+  "q_love_045": {
+    "question": "Complete o espaço em branco: 'O amor seja não _____. Aborrecei o mal e apegai-vos ao bem.'",
+    "correct": "fingido",
+    "wrong": ["falso", "vão", "vazio"],
+    "hint": "O amor deve ser sem pretensão",
+    "explanation": "Paulo instrui que o amor deve ser autêntico e não hipócrita, acompanhado de discernimento moral.",
+    "full_verse": "O amor seja não fingido. Aborrecei o mal e apegai-vos ao bem.",
+    "verse_ref": "Romanos 12:9"
+  },
+  "q_love_046": {
+    "question": "Complete o espaço em branco: 'Não suspeita _____.'",
+    "correct": "mal",
+    "wrong": ["pecado", "falta", "erro"],
+    "hint": "O amor não guarda rancores",
+    "explanation": "Paulo descreve o amor como perdoador, não mantendo uma lista de ofensas cometidas contra nós.",
+    "full_verse": "Não se porta com indecência, não busca os seus interesses, não se irrita, não suspeita mal.",
+    "verse_ref": "1 Coríntios 13:5"
+  },
+  "q_love_047": {
+    "question": "Complete o espaço em branco: 'Porque em Jesus Cristo nem a circuncisão nem a incircuncisão tem valor algum; mas sim a fé que opera pelo _____.'",
+    "correct": "amor",
+    "wrong": ["obras", "atos", "ação"],
+    "hint": "A fé deve ser demonstrada desta forma",
+    "explanation": "Paulo ensina que a verdadeira fé é ativa e se mostra através do amor pelos outros.",
+    "full_verse": "Porque em Jesus Cristo nem a circuncisão nem a incircuncisão tem valor algum; mas sim a fé que opera pelo amor.",
+    "verse_ref": "Gálatas 5:6"
+  },
+  "q_love_048": {
+    "question": "Complete o espaço em branco: 'Quando eu era menino, falava como menino, sentia como menino, discorria como menino, mas, logo que cheguei a ser homem, acabei com as coisas de _____.'",
+    "correct": "menino",
+    "wrong": ["juventude", "imaturidade", "criança"],
+    "hint": "Crescer significa deixar este estágio para trás",
+    "explanation": "Paulo ilustra que o amor traz maturidade, como crescer da infância para a idade adulta.",
+    "full_verse": "Quando eu era menino, falava como menino, sentia como menino, discorria como menino, mas, logo que cheguei a ser homem, acabei com as coisas de menino.",
+    "verse_ref": "1 Coríntios 13:11"
+  },
+  "q_love_049": {
+    "question": "Complete o espaço em branco: 'Meus filhinhos, não amemos de palavra, nem de língua, mas por obras e em _____.'",
+    "correct": "verdade",
+    "wrong": ["ação", "fé", "espírito"],
+    "hint": "O amor deve ser genuíno e real",
+    "explanation": "João clama por um amor que vai além de meras palavras para ações genuínas que refletem a verdade.",
+    "full_verse": "Meus filhinhos, não amemos de palavra, nem de língua, mas por obras e em verdade.",
+    "verse_ref": "1 João 3:18"
+  },
+  "q_love_050": {
+    "question": "Complete o espaço em branco: 'E nós conhecemos, e cremos no amor que Deus nos tem. Deus é amor; e quem está em amor está em _____, e Deus nele.'",
+    "correct": "Deus",
+    "wrong": ["paz", "luz", "verdade"],
+    "hint": "Viver em amor significa habitar no Divino",
+    "explanation": "João ensina que aqueles que vivem em amor experimentam uma íntima e mútua habitação com Deus.",
+    "full_verse": "E nós conhecemos, e cremos no amor que Deus nos tem. Deus é amor; e quem está em amor está em Deus, e Deus nele.",
+    "verse_ref": "1 João 4:16"
+  }
+}

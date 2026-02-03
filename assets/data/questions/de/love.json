@@ -1,1 +1,452 @@
-{}
+{
+  "q_love_001": {
+    "question": "Fülle die Lücke aus: 'Denn also hat Gott die Welt _____, dass er seinen eingeborenen Sohn gab.'",
+    "correct": "geliebt",
+    "wrong": ["gesegnet", "erschaffen", "gerichtet"],
+    "hint": "Dieser Vers beschreibt Gottes größte Tat gegenüber der Menschheit",
+    "explanation": "Johannes 3:16 offenbart die Tiefe von Gottes Liebe – Er liebte die Welt so sehr, dass er seinen Sohn für unsere Erlösung gab.",
+    "full_verse": "Denn also hat Gott die Welt geliebt, dass er seinen eingeborenen Sohn gab, auf dass alle, die an ihn glauben, nicht verloren werden, sondern das ewige Leben haben.",
+    "verse_ref": "Johannes 3:16"
+  },
+  "q_love_002": {
+    "question": "Fülle die Lücke aus: 'Die Liebe ist langmütig und _____.'",
+    "correct": "freundlich",
+    "wrong": ["stark", "weise", "rein"],
+    "hint": "Diese Eigenschaft beinhaltet Sanftmut und Rücksichtnahme",
+    "explanation": "Paulus beginnt seine berühmte Beschreibung der Liebe mit der Betonung von Langmut und Freundlichkeit als grundlegende Eigenschaften.",
+    "full_verse": "Die Liebe ist langmütig und freundlich, die Liebe eifert nicht, die Liebe treibt nicht Mutwillen, sie blähet sich nicht.",
+    "verse_ref": "1. Korinther 13:4"
+  },
+  "q_love_003": {
+    "question": "Fülle die Lücke aus: 'Niemand hat größere Liebe denn die, dass er sein _____ lässet für seine Freunde.'",
+    "correct": "Leben",
+    "wrong": ["Reichtum", "Stolz", "Heim"],
+    "hint": "Jesus zeigte dieses höchste Opfer",
+    "explanation": "Jesus sprach diese Worte vor seiner Kreuzigung und lehrte, dass der größte Ausdruck der Liebe Selbstaufopferung ist.",
+    "full_verse": "Niemand hat größere Liebe denn die, dass er sein Leben lässet für seine Freunde.",
+    "verse_ref": "Johannes 15:13"
+  },
+  "q_love_004": {
+    "question": "Fülle die Lücke aus: 'Nun aber bleibt Glaube, Hoffnung, Liebe, diese drei; aber die _____ ist die größte unter ihnen.'",
+    "correct": "Liebe",
+    "wrong": ["Glaube", "Hoffnung", "Frieden"],
+    "hint": "Paulus erklärt dies als die höchste der drei",
+    "explanation": "Am Ende seiner Abhandlung über die Liebe erklärt Paulus, dass, obwohl Glaube, Hoffnung und Liebe alle bestehen bleiben, die Liebe die größte Tugend ist.",
+    "full_verse": "Nun aber bleibt Glaube, Hoffnung, Liebe, diese drei; aber die Liebe ist die größte unter ihnen.",
+    "verse_ref": "1. Korinther 13:13"
+  },
+  "q_love_005": {
+    "question": "Fülle die Lücke aus: 'Lasset uns ihn lieben, denn er hat uns _____ geliebt.'",
+    "correct": "zuerst",
+    "wrong": ["immer", "wahrhaft", "tief"],
+    "hint": "Gottes Liebe ging unserer voraus",
+    "explanation": "Unsere Fähigkeit zu lieben entspringt Gottes Initiative – Er liebte uns, bevor wir ihn lieben konnten.",
+    "full_verse": "Lasset uns ihn lieben, denn er hat uns zuerst geliebt.",
+    "verse_ref": "1. Johannes 4:19"
+  },
+  "q_love_006": {
+    "question": "Fülle die Lücke aus: 'Du sollst deinen _____ lieben wie dich selbst.'",
+    "correct": "Nächsten",
+    "wrong": ["Familie", "Freund", "Bruder"],
+    "hint": "Dieses Gebot erweitert die Liebe über unseren inneren Kreis hinaus",
+    "explanation": "Jesus zitierte dieses Gebot aus dem 3. Mose als das zweitgrößte Gebot und lehrte uns, die Liebe auf alle Menschen auszudehnen.",
+    "full_verse": "Du sollst deinen Nächsten lieben wie dich selbst.",
+    "verse_ref": "Markus 12:31"
+  },
+  "q_love_007": {
+    "question": "Fülle die Lücke aus: 'Gott ist die _____.'",
+    "correct": "Liebe",
+    "wrong": ["Licht", "Geist", "Heilig"],
+    "hint": "Dies definiert Gottes wesentliches Wesen",
+    "explanation": "Johannes macht diese tiefgründige Aussage, dass Liebe nicht nur etwas ist, das Gott tut, sondern wer er im Wesentlichen ist.",
+    "full_verse": "Wer nicht liebet, der kennet Gott nicht; denn Gott ist die Liebe.",
+    "verse_ref": "1. Johannes 4:8"
+  },
+  "q_love_008": {
+    "question": "Fülle die Lücke aus: 'Sie freut sich nicht der Ungerechtigkeit, sie freut sich aber der _____.'",
+    "correct": "Wahrheit",
+    "wrong": ["Gerechtigkeit", "Demut", "Treue"],
+    "hint": "Die Liebe feiert, was echt und ehrlich ist",
+    "explanation": "Wahre Liebe findet keine Freude am Unrecht, sondern feiert Wahrheit und Gerechtigkeit.",
+    "full_verse": "Sie freut sich nicht der Ungerechtigkeit, sie freut sich aber der Wahrheit.",
+    "verse_ref": "1. Korinther 13:6"
+  },
+  "q_love_009": {
+    "question": "Fülle die Lücke aus: 'Vor allen Dingen aber habt untereinander eine inbrünstige Liebe; denn die Liebe deckt auch der _____ Menge.'",
+    "correct": "Sünden",
+    "wrong": ["Fehler", "Irrtümer", "Vergehen"],
+    "hint": "Die Liebe hat die Kraft, viele Übertretungen zu vergeben",
+    "explanation": "Petrus lehrt, dass tiefe, echte Liebe die Kraft hat, viele Vergehen zu vergeben und zu übersehen.",
+    "full_verse": "Vor allen Dingen aber habt untereinander eine inbrünstige Liebe; denn die Liebe deckt auch der Sünden Menge.",
+    "verse_ref": "1. Petrus 4:8"
+  },
+  "q_love_010": {
+    "question": "Fülle die Lücke aus: 'Ich aber sage euch: Liebet eure _____ und bittet für die, so euch verfolgen.'",
+    "correct": "Feinde",
+    "wrong": ["Nächsten", "Brüder", "Freunde"],
+    "hint": "Jesus gebietet uns, auch diejenigen zu lieben, die uns entgegenstehen",
+    "explanation": "Jesus lehrte radikal, dass die Liebe sich sogar auf diejenigen erstrecken muss, die uns hassen und verfolgen.",
+    "full_verse": "Ich aber sage euch: Liebet eure Feinde; segnet, die euch fluchen; tut wohl denen, die euch hassen; bittet für die, so euch beleidigen und verfolgen.",
+    "verse_ref": "Matthäus 5:44"
+  },
+  "q_love_011": {
+    "question": "Fülle die Lücke aus: 'Ihr Männer, liebet eure Weiber, gleichwie Christus auch geliebet hat die _____.'",
+    "correct": "Gemeinde",
+    "wrong": ["Jünger", "Welt", "Vater"],
+    "hint": "Christi aufopfernde Liebe für die Gläubigen ist das Vorbild",
+    "explanation": "Paulus weist Ehemänner an, ihre Frauen mit der gleichen selbstaufopfernden Liebe zu lieben, die Christus der Gemeinde gezeigt hat.",
+    "full_verse": "Ihr Männer, liebet eure Weiber, gleichwie Christus auch geliebet hat die Gemeinde und hat sich selbst für sie gegeben.",
+    "verse_ref": "Epheser 5:25"
+  },
+  "q_love_012": {
+    "question": "Fülle die Lücke aus: 'Seid niemand nichts schuldig, denn dass ihr euch unter_____ liebet.'",
+    "correct": "einander",
+    "wrong": ["Nächsten", "Brüder", "Freunde"],
+    "hint": "Diese Schuld kann nie vollständig bezahlt werden",
+    "explanation": "Paulus lehrt, dass wir zwar alle Schulden bezahlen sollten, aber die Verpflichtung, andere zu lieben, ist fortlaufend und nie vollständig erfüllt.",
+    "full_verse": "Seid niemand nichts schuldig, denn dass ihr euch untereinander liebet; denn wer den andern liebet, der hat das Gesetz erfüllet.",
+    "verse_ref": "Römer 13:8"
+  },
+  "q_love_013": {
+    "question": "Fülle die Lücke aus: 'Furcht ist nicht in der Liebe, sondern die _____ Liebe treibet die Furcht aus.'",
+    "correct": "völlige",
+    "wrong": ["wahre", "reine", "große"],
+    "hint": "Vollkommene, reife Liebe beseitigt die Furcht",
+    "explanation": "Johannes lehrt, dass wenn die Liebe zur Reife und Vollständigkeit gelangt, sie alle Furcht vor dem Gericht beseitigt.",
+    "full_verse": "Furcht ist nicht in der Liebe, sondern die völlige Liebe treibet die Furcht aus; denn die Furcht hat Pein.",
+    "verse_ref": "1. Johannes 4:18"
+  },
+  "q_love_014": {
+    "question": "Fülle die Lücke aus: 'Du sollst lieben Gott, deinen Herrn, von ganzem Herzen, von ganzer Seele und von ganzem _____.'",
+    "correct": "Gemüte",
+    "wrong": ["Leib", "Leben", "Reichtum"],
+    "hint": "Dies betrifft unsere intellektuelle Fähigkeit",
+    "explanation": "Jesus erklärte dies als das größte Gebot – Gott vollständig mit jedem Aspekt unseres Seins zu lieben.",
+    "full_verse": "Du sollst lieben Gott, deinen Herrn, von ganzem Herzen, von ganzer Seele und von ganzem Gemüte.",
+    "verse_ref": "Matthäus 22:37"
+  },
+  "q_love_015": {
+    "question": "Fülle die Lücke aus: 'Ein neu Gebot gebe ich euch, dass ihr euch untereinander liebet, wie ich euch geliebet habe, dass auch ihr einander _____.'",
+    "correct": "liebet",
+    "wrong": ["achtet", "ehret", "dienet"],
+    "hint": "Jesus war das Vorbild für diese gegenseitige Liebe",
+    "explanation": "Jesus gab seinen Jüngern dieses neue Gebot und setzte seine eigene Liebe als Maßstab dafür, wie wir lieben sollten.",
+    "full_verse": "Ein neu Gebot gebe ich euch, dass ihr euch untereinander liebet, wie ich euch geliebet habe, dass auch ihr einander liebet.",
+    "verse_ref": "Johannes 13:34"
+  },
+  "q_love_016": {
+    "question": "Fülle die Lücke aus: 'Ihr Lieben, lasset uns untereinander lieb haben; denn die Liebe ist von _____.'",
+    "correct": "Gott",
+    "wrong": ["Himmel", "oben", "innen"],
+    "hint": "Die Liebe hat eine göttliche Quelle",
+    "explanation": "Johannes lehrt, dass echte Liebe von Gott stammt – Er ist die Quelle aller wahren Liebe.",
+    "full_verse": "Ihr Lieben, lasset uns untereinander lieb haben; denn die Liebe ist von Gott, und wer liebhat, der ist von Gott geboren und kennet Gott.",
+    "verse_ref": "1. Johannes 4:7"
+  },
+  "q_love_017": {
+    "question": "Fülle die Lücke aus: 'Sehet, welch eine Liebe hat uns der Vater erzeiget, dass wir Gottes _____ sollen heißen!'",
+    "correct": "Kinder",
+    "wrong": ["Diener", "Freunde", "Erben"],
+    "hint": "Dies beschreibt unsere Beziehung zu Gott",
+    "explanation": "Johannes staunt über Gottes verschwenderische Liebe, die uns das Privileg gewährt, seine Kinder zu sein.",
+    "full_verse": "Sehet, welch eine Liebe hat uns der Vater erzeiget, dass wir Gottes Kinder sollen heißen!",
+    "verse_ref": "1. Johannes 3:1"
+  },
+  "q_love_018": {
+    "question": "Fülle die Lücke aus: 'Die Liebe höret nimmer _____.'",
+    "correct": "auf",
+    "wrong": ["endet", "stoppt", "hört"],
+    "hint": "Die Liebe ist beständig und unfehlbar",
+    "explanation": "Paulus erklärt, dass im Gegensatz zu geistlichen Gaben, die aufhören werden, die Liebe ewig ist und nie aufhören wird.",
+    "full_verse": "Die Liebe höret nimmer auf, so doch die Weissagungen aufhören werden und die Sprachen aufhören werden und die Erkenntnis aufhören wird.",
+    "verse_ref": "1. Korinther 13:8"
+  },
+  "q_love_019": {
+    "question": "Fülle die Lücke aus: 'Erhaltet euch in der Liebe Gottes und wartet auf die _____ unseres Herrn Jesu Christi zum ewigen Leben.'",
+    "correct": "Barmherzigkeit",
+    "wrong": ["Wiederkehr", "Kommen", "Herrlichkeit"],
+    "hint": "Diese Eigenschaft führt zum ewigen Leben",
+    "explanation": "Judas ermutigt die Gläubigen, in Gottes Liebe zu bleiben, während sie auf Christi barmherzige Wiederkehr warten.",
+    "full_verse": "Erhaltet euch in der Liebe Gottes und wartet auf die Barmherzigkeit unseres Herrn Jesu Christi zum ewigen Leben.",
+    "verse_ref": "Judas 1:21"
+  },
+  "q_love_020": {
+    "question": "Fülle die Lücke aus: 'Alle eure Dinge lasset in der _____ geschehen!'",
+    "correct": "Liebe",
+    "wrong": ["Glaube", "Frieden", "Freude"],
+    "hint": "Dies sollte all unsere Handlungen motivieren",
+    "explanation": "Paulus' einfache, aber tiefgründige Anweisung, dass die Liebe die Motivation hinter allem sein sollte, was wir tun.",
+    "full_verse": "Alle eure Dinge lasset in der Liebe geschehen!",
+    "verse_ref": "1. Korinther 16:14"
+  },
+  "q_love_021": {
+    "question": "Fülle die Lücke aus: 'Darum preiset Gott seine Liebe gegen uns, dass Christus für uns gestorben ist, da wir noch _____ waren.'",
+    "correct": "Sünder",
+    "wrong": ["verloren", "gebrochen", "schwach"],
+    "hint": "Christus starb für uns in unserem gefallenen Zustand",
+    "explanation": "Paulus betont, dass Gottes Liebe bedingungslos ist – Christus starb für uns, während wir noch in Rebellion gegen ihn waren.",
+    "full_verse": "Darum preiset Gott seine Liebe gegen uns, dass Christus für uns gestorben ist, da wir noch Sünder waren.",
+    "verse_ref": "Römer 5:8"
+  },
+  "q_love_022": {
+    "question": "Fülle die Lücke aus: 'Sie verträgt alles, sie glaubet alles, sie hoffet alles, sie _____ alles.'",
+    "correct": "duldet",
+    "wrong": ["erträgt", "glaubt", "vergibt"],
+    "hint": "Die Liebe hält trotz Schwierigkeiten durch",
+    "explanation": "Paulus beschreibt die ausdauernde Natur der Liebe – sie gibt nie auf und macht durch alle Umstände hindurch weiter.",
+    "full_verse": "Sie verträgt alles, sie glaubet alles, sie hoffet alles, sie duldet alles.",
+    "verse_ref": "1. Korinther 13:7"
+  },
+  "q_love_023": {
+    "question": "Fülle die Lücke aus: 'Daran haben wir erkannt die Liebe, dass er sein _____ für uns gelassen hat.'",
+    "correct": "Leben",
+    "wrong": ["Herrlichkeit", "Krone", "Macht"],
+    "hint": "Jesus brachte das höchste Opfer",
+    "explanation": "Johannes weist auf Christi Opfertod als das definierende Beispiel dafür hin, wie wahre Liebe aussieht.",
+    "full_verse": "Daran haben wir erkannt die Liebe, dass er sein Leben für uns gelassen hat; und wir sollen auch das Leben für die Brüder lassen.",
+    "verse_ref": "1. Johannes 3:16"
+  },
+  "q_love_024": {
+    "question": "Fülle die Lücke aus: 'Wenn ich mit Menschen- und mit Engelzungen redete und hätte der Liebe nicht, so wäre ich ein tönend Erz oder eine klingende _____.'",
+    "correct": "Schelle",
+    "wrong": ["Glocke", "Trommel", "Horn"],
+    "hint": "Dies ist ein Schlaginstrument",
+    "explanation": "Paulus beginnt sein Kapitel über die Liebe mit der Feststellung, dass selbst die beeindruckendsten Gaben ohne Liebe bedeutungslos sind.",
+    "full_verse": "Wenn ich mit Menschen- und mit Engelzungen redete und hätte der Liebe nicht, so wäre ich ein tönend Erz oder eine klingende Schelle.",
+    "verse_ref": "1. Korinther 13:1"
+  },
+  "q_love_025": {
+    "question": "Fülle die Lücke aus: 'So jemand spricht: Ich liebe Gott, und hasset seinen Bruder, der ist ein _____.'",
+    "correct": "Lügner",
+    "wrong": ["Tor", "Sünder", "Heuchler"],
+    "hint": "Diese Person sagt nicht die Wahrheit",
+    "explanation": "Johannes macht deutlich, dass die Liebe zu Gott und der Hass auf andere unvereinbar sind – das eine beweist das andere als falsch.",
+    "full_verse": "So jemand spricht: Ich liebe Gott, und hasset seinen Bruder, der ist ein Lügner. Denn wer seinen Bruder nicht liebet, den er siehet, wie kann er Gott lieben, den er nicht siehet?",
+    "verse_ref": "1. Johannes 4:20"
+  },
+  "q_love_026": {
+    "question": "Fülle die Lücke aus: 'Das ist mein Gebot, dass ihr euch untereinander liebet, gleichwie ich euch _____ habe.'",
+    "correct": "geliebt",
+    "wrong": ["gelehrt", "gesegnet", "erwählt"],
+    "hint": "Jesus hat das Beispiel gegeben, dem wir folgen sollen",
+    "explanation": "Jesus gebietet seinen Nachfolgern, mit der gleichen aufopfernden Liebe zu lieben, die er gezeigt hat.",
+    "full_verse": "Das ist mein Gebot, dass ihr euch untereinander liebet, gleichwie ich euch geliebt habe.",
+    "verse_ref": "Johannes 15:12"
+  },
+  "q_love_027": {
+    "question": "Fülle die Lücke aus: 'Wer seinen Bruder liebet, der bleibet im _____, und ist kein Ärgernis bei ihm.'",
+    "correct": "Licht",
+    "wrong": ["Wahrheit", "Geist", "Herrn"],
+    "hint": "Dies ist das Gegenteil von Finsternis",
+    "explanation": "Johannes stellt Liebe und Hass als Licht und Finsternis gegenüber – wer liebt, wandelt in Gottes Licht.",
+    "full_verse": "Wer seinen Bruder liebet, der bleibet im Licht, und ist kein Ärgernis bei ihm.",
+    "verse_ref": "1. Johannes 2:10"
+  },
+  "q_love_028": {
+    "question": "Fülle die Lücke aus: 'Über alles aber ziehet an die Liebe, die da ist das Band der _____.'",
+    "correct": "Vollkommenheit",
+    "wrong": ["Harmonie", "Frieden", "Ordnung"],
+    "hint": "Die Liebe schafft vollkommene Zusammengehörigkeit",
+    "explanation": "Paulus beschreibt die Liebe als die Tugend, die alle anderen Tugenden in vollkommener Ganzheit zusammenhält.",
+    "full_verse": "Über alles aber ziehet an die Liebe, die da ist das Band der Vollkommenheit.",
+    "verse_ref": "Kolosser 3:14"
+  },
+  "q_love_029": {
+    "question": "Fülle die Lücke aus: 'Denn ich bin gewiss, dass weder Tod noch Leben... mag uns scheiden von der _____ Gottes.'",
+    "correct": "Liebe",
+    "wrong": ["Gnade", "Macht", "Gegenwart"],
+    "hint": "Nichts kann diese Verbindung mit Gott brechen",
+    "explanation": "Paulus erklärt triumphierend, dass absolut nichts die Gläubigen von Gottes Liebe in Christus trennen kann.",
+    "full_verse": "Denn ich bin gewiss, dass weder Tod noch Leben, weder Engel noch Fürstentümer noch Gewalten, weder Gegenwärtiges noch Zukünftiges, weder Hohes noch Tiefes noch keine andere Kreatur mag uns scheiden von der Liebe Gottes, die in Christo Jesu ist, unserm Herrn.",
+    "verse_ref": "Römer 8:38-39"
+  },
+  "q_love_030": {
+    "question": "Fülle die Lücke aus: 'Und wenn ich weissagen könnte und wüsste alle Geheimnisse und alle Erkenntnis und hätte allen Glauben, also dass ich Berge versetzte, und hätte der Liebe nicht, so wäre ich _____.'",
+    "correct": "nichts",
+    "wrong": ["leer", "verloren", "töricht"],
+    "hint": "Ohne Liebe sind selbst große Gaben gleich null",
+    "explanation": "Paulus betont, dass selbst die größten geistlichen Gaben und Fähigkeiten ohne Liebe wertlos sind.",
+    "full_verse": "Und wenn ich weissagen könnte und wüsste alle Geheimnisse und alle Erkenntnis und hätte allen Glauben, also dass ich Berge versetzte, und hätte der Liebe nicht, so wäre ich nichts.",
+    "verse_ref": "1. Korinther 13:2"
+  },
+  "q_love_031": {
+    "question": "Fülle die Lücke aus: 'Ich habe dich je und je geliebt; darum habe ich dich zu mir gezogen aus lauter _____.'",
+    "correct": "Güte",
+    "wrong": ["Gnade", "Barmherzigkeit", "Liebe"],
+    "hint": "Diese Liebe hat kein Ende",
+    "explanation": "Gott erklärt seine Liebe für sein Volk als ewig und unveränderlich und zieht sie mit Güte.",
+    "full_verse": "Ich habe dich je und je geliebt; darum habe ich dich zu mir gezogen aus lauter Güte.",
+    "verse_ref": "Jeremia 31:3"
+  },
+  "q_love_032": {
+    "question": "Fülle die Lücke aus: 'Die brüderliche Liebe untereinander sei herzlich. Einer komme dem andern mit Ehrerbietung _____.'",
+    "correct": "zuvor",
+    "wrong": ["nach", "gleich", "überall"],
+    "hint": "Stellt andere an erste Stelle",
+    "explanation": "Paulus weist die Gläubigen an, selbstlose Liebe zu praktizieren und die Ehre anderer über die eigene zu stellen.",
+    "full_verse": "Die brüderliche Liebe untereinander sei herzlich. Einer komme dem andern mit Ehrerbietung zuvor.",
+    "verse_ref": "Römer 12:10"
+  },
+  "q_love_033": {
+    "question": "Fülle die Lücke aus: 'Euch aber mache der Herr, dass ihr zunehmet und _____ Liebe habt untereinander und gegen jedermann.'",
+    "correct": "völlige",
+    "wrong": ["große", "reichliche", "tiefe"],
+    "hint": "Die Liebe sollte reichlich überfließen",
+    "explanation": "Paulus betet, dass die Liebe der Thessalonicher so sehr wachsen möge, dass sie zu allen um sie herum überfließt.",
+    "full_verse": "Euch aber mache der Herr, dass ihr zunehmet und völlige Liebe habt untereinander und gegen jedermann, gleichwie wir gegen euch.",
+    "verse_ref": "1. Thessalonicher 3:12"
+  },
+  "q_love_034": {
+    "question": "Fülle die Lücke aus: 'Und wenn ich alle meine Habe den Armen gäbe und ließe meinen Leib brennen und hätte der Liebe nicht, so wäre mir's _____.'",
+    "correct": "nichts nütze",
+    "wrong": ["wenig", "leer", "umsonst"],
+    "hint": "Ohne Liebe ist selbst Opfer wertlos",
+    "explanation": "Paulus zeigt, dass selbst die großzügigsten und aufopferndsten Taten ohne echte Liebe nutzlos sind.",
+    "full_verse": "Und wenn ich alle meine Habe den Armen gäbe und ließe meinen Leib brennen und hätte der Liebe nicht, so wäre mir's nichts nütze.",
+    "verse_ref": "1. Korinther 13:3"
+  },
+  "q_love_035": {
+    "question": "Fülle die Lücke aus: 'Ihr habt gehört, dass gesagt ist: Du sollst deinen Nächsten lieben und deinen _____ hassen.'",
+    "correct": "Feind",
+    "wrong": ["Rivalen", "Gegner", "Widersacher"],
+    "hint": "Jesus zitierte diese verbreitete Lehre, bevor er sie korrigierte",
+    "explanation": "Jesus zitierte die populäre Fehlinterpretation, bevor er lehrte, dass wir sogar unsere Feinde lieben müssen.",
+    "full_verse": "Ihr habt gehört, dass gesagt ist: Du sollst deinen Nächsten lieben und deinen Feind hassen.",
+    "verse_ref": "Matthäus 5:43"
+  },
+  "q_love_036": {
+    "question": "Fülle die Lücke aus: 'Gott hat niemand jemals gesehen. So wir uns untereinander lieben, so bleibet Gott in uns, und seine Liebe ist _____ in uns.'",
+    "correct": "völlig",
+    "wrong": ["vollkommen", "ganz", "voll"],
+    "hint": "Gottes Liebe erreicht ihr Ziel in uns",
+    "explanation": "Johannes lehrt, dass das Lieben anderer ein Beweis für Gottes Gegenwart ist und seine Liebe ihren beabsichtigten Zweck erreicht.",
+    "full_verse": "Gott hat niemand jemals gesehen. So wir uns untereinander lieben, so bleibet Gott in uns, und seine Liebe ist völlig in uns.",
+    "verse_ref": "1. Johannes 4:12"
+  },
+  "q_love_037": {
+    "question": "Fülle die Lücke aus: 'Und das ist die Liebe, dass wir wandeln nach seinem _____.'",
+    "correct": "Gebot",
+    "wrong": ["Wort", "Willen", "Weg"],
+    "hint": "Die Liebe wird durch das Befolgen von Gottes Anweisungen gezeigt",
+    "explanation": "Johannes definiert Liebe praktisch als Gehorsam gegenüber Gottes Geboten, nicht nur als ein Gefühl.",
+    "full_verse": "Und das ist die Liebe, dass wir wandeln nach seinem Gebot. Das ist das Gebot, wie ihr gehört habt von Anfang, auf dass ihr darin wandelt.",
+    "verse_ref": "2. Johannes 1:6"
+  },
+  "q_love_038": {
+    "question": "Fülle die Lücke aus: 'Dabei wird jedermann erkennen, dass ihr meine Jünger seid, so ihr Liebe unter_____ habt.'",
+    "correct": "einander",
+    "wrong": ["Nächsten", "Brüdern", "Freunden"],
+    "hint": "Gegenseitige Liebe kennzeichnet Christi Nachfolger",
+    "explanation": "Jesus erklärte, dass die Liebe unter seinen Nachfolgern das Unterscheidungsmerkmal wahrer Jüngerschaft sein würde.",
+    "full_verse": "Dabei wird jedermann erkennen, dass ihr meine Jünger seid, so ihr Liebe untereinander habt.",
+    "verse_ref": "Johannes 13:35"
+  },
+  "q_love_039": {
+    "question": "Fülle die Lücke aus: 'Gnade und Treue sollen dich nicht verlassen. Hänge sie um deinen _____.'",
+    "correct": "Hals",
+    "wrong": ["Herz", "Handgelenk", "Gürtel"],
+    "hint": "Trage diese Tugenden wie Schmuck",
+    "explanation": "Das Sprichwort weist uns an, Gnade und Treue nah zu halten, wie eine Kette, die immer getragen wird.",
+    "full_verse": "Gnade und Treue sollen dich nicht verlassen. Hänge sie um deinen Hals und schreibe sie auf die Tafel deines Herzens.",
+    "verse_ref": "Sprüche 3:3"
+  },
+  "q_love_040": {
+    "question": "Fülle die Lücke aus: 'Sie stellet sich nicht ungebärdig, sie suchet nicht das Ihre, sie lässet sich nicht _____.'",
+    "correct": "erbittern",
+    "wrong": ["beleidigen", "verletzen", "provozieren"],
+    "hint": "Die Liebe bewahrt die Fassung",
+    "explanation": "Paulus beschreibt die Liebe als geduldig mit anderen, nicht schnell verärgert oder aufbrausend.",
+    "full_verse": "Sie stellet sich nicht ungebärdig, sie suchet nicht das Ihre, sie lässet sich nicht erbittern, sie trachtet nicht nach Schaden.",
+    "verse_ref": "1. Korinther 13:5"
+  },
+  "q_love_041": {
+    "question": "Fülle die Lücke aus: 'Hoffnung aber lässt nicht zuschanden werden; denn die Liebe Gottes ist ausgegossen in unser _____ durch den Heiligen Geist.'",
+    "correct": "Herz",
+    "wrong": ["Seele", "Leben", "Gemüt"],
+    "hint": "Der Geist füllt diesen Teil von uns mit Gottes Liebe",
+    "explanation": "Paulus beschreibt, wie der Heilige Geist die Herzen der Gläubigen mit der erfahrbaren Erkenntnis von Gottes Liebe erfüllt.",
+    "full_verse": "Hoffnung aber lässt nicht zuschanden werden; denn die Liebe Gottes ist ausgegossen in unser Herz durch den Heiligen Geist, welcher uns gegeben ist.",
+    "verse_ref": "Römer 5:5"
+  },
+  "q_love_042": {
+    "question": "Fülle die Lücke aus: 'Hass erreget Hader; aber Liebe deckt zu alle _____.'",
+    "correct": "Übertretungen",
+    "wrong": ["Sünden", "Fehler", "Irrtümer"],
+    "hint": "Die Liebe übersieht Vergehen",
+    "explanation": "Dieses Sprichwort stellt Hass, der Streit erzeugt, der Liebe gegenüber, die Vergehen vergibt und zudeckt.",
+    "full_verse": "Hass erreget Hader; aber Liebe deckt zu alle Übertretungen.",
+    "verse_ref": "Sprüche 10:12"
+  },
+  "q_love_043": {
+    "question": "Fülle die Lücke aus: 'Setze mich wie ein Siegel auf dein Herz und wie ein Siegel auf deinen Arm; denn Liebe ist stark wie der _____.'",
+    "correct": "Tod",
+    "wrong": ["Leben", "Glaube", "Gott"],
+    "hint": "Die Kraft der Liebe wird mit etwas Unvermeidlichem verglichen",
+    "explanation": "Das Hohelied beschreibt poetisch die unwiderstehliche Kraft der Liebe und vergleicht sie mit der unaufhaltsamen Macht des Todes.",
+    "full_verse": "Setze mich wie ein Siegel auf dein Herz und wie ein Siegel auf deinen Arm; denn Liebe ist stark wie der Tod, und Eifer ist fest wie die Hölle.",
+    "verse_ref": "Hohelied 8:6"
+  },
+  "q_love_044": {
+    "question": "Fülle die Lücke aus: 'Darin ist erschienen die Liebe Gottes gegen uns, dass Gott seinen eingeborenen _____ gesandt hat in die Welt.'",
+    "correct": "Sohn",
+    "wrong": ["Geist", "Wort", "Gabe"],
+    "hint": "Gott sandte Jesus, um seine Liebe zu zeigen",
+    "explanation": "Johannes erklärt, dass Gottes Liebe durch das Senden von Jesus Christus in die Welt gezeigt wurde.",
+    "full_verse": "Darin ist erschienen die Liebe Gottes gegen uns, dass Gott seinen eingeborenen Sohn gesandt hat in die Welt, dass wir durch ihn leben sollen.",
+    "verse_ref": "1. Johannes 4:9"
+  },
+  "q_love_045": {
+    "question": "Fülle die Lücke aus: 'Die Liebe sei nicht falsch. Hasset das Arge, hanget dem _____ an.'",
+    "correct": "Guten",
+    "wrong": ["Reinen", "Wahren", "Echten"],
+    "hint": "Die Liebe sollte ohne Verstellung sein",
+    "explanation": "Paulus weist an, dass die Liebe echt und ungeheuchelt sein muss, begleitet von moralischer Unterscheidung.",
+    "full_verse": "Die Liebe sei nicht falsch. Hasset das Arge, hanget dem Guten an.",
+    "verse_ref": "Römer 12:9"
+  },
+  "q_love_046": {
+    "question": "Fülle die Lücke aus: 'Sie trachtet nicht nach _____.'",
+    "correct": "Schaden",
+    "wrong": ["Sünden", "Fehlern", "Schulden"],
+    "hint": "Die Liebe trägt nichts nach",
+    "explanation": "Paulus beschreibt die Liebe als vergebend, keine Liste von Vergehen führend, die gegen uns begangen wurden.",
+    "full_verse": "Sie stellet sich nicht ungebärdig, sie suchet nicht das Ihre, sie lässet sich nicht erbittern, sie trachtet nicht nach Schaden.",
+    "verse_ref": "1. Korinther 13:5"
+  },
+  "q_love_047": {
+    "question": "Fülle die Lücke aus: 'Denn in Christo Jesu gilt weder Beschneidung noch Unbeschnittensein etwas, sondern der Glaube, der durch die _____ tätig ist.'",
+    "correct": "Liebe",
+    "wrong": ["Werke", "Taten", "Handlungen"],
+    "hint": "Der Glaube sollte auf diese Weise gezeigt werden",
+    "explanation": "Paulus lehrt, dass wahrer Glaube aktiv ist und sich durch Liebe für andere zeigt.",
+    "full_verse": "Denn in Christo Jesu gilt weder Beschneidung noch Unbeschnittensein etwas, sondern der Glaube, der durch die Liebe tätig ist.",
+    "verse_ref": "Galater 5:6"
+  },
+  "q_love_048": {
+    "question": "Fülle die Lücke aus: 'Da ich ein Kind war, da redete ich wie ein Kind und war klug wie ein Kind und hatte kindische Anschläge; da ich aber ein Mann ward, tat ich ab, was _____ war.'",
+    "correct": "kindisch",
+    "wrong": ["jugendlich", "unreif", "töricht"],
+    "hint": "Erwachsenwerden bedeutet, diese Phase hinter sich zu lassen",
+    "explanation": "Paulus illustriert, dass die Liebe Reife bringt, wie das Heranwachsen von der Kindheit zum Erwachsenenalter.",
+    "full_verse": "Da ich ein Kind war, da redete ich wie ein Kind und war klug wie ein Kind und hatte kindische Anschläge; da ich aber ein Mann ward, tat ich ab, was kindisch war.",
+    "verse_ref": "1. Korinther 13:11"
+  },
+  "q_love_049": {
+    "question": "Fülle die Lücke aus: 'Meine Kindlein, lasset uns nicht lieben mit Worten noch mit der Zunge, sondern mit der Tat und mit der _____.'",
+    "correct": "Wahrheit",
+    "wrong": ["Tat", "Glaube", "Geist"],
+    "hint": "Die Liebe sollte echt und wahr sein",
+    "explanation": "Johannes fordert eine Liebe, die über bloße Worte hinausgeht zu echten Taten, die die Wahrheit widerspiegeln.",
+    "full_verse": "Meine Kindlein, lasset uns nicht lieben mit Worten noch mit der Zunge, sondern mit der Tat und mit der Wahrheit.",
+    "verse_ref": "1. Johannes 3:18"
+  },
+  "q_love_050": {
+    "question": "Fülle die Lücke aus: 'Und wir haben erkannt und geglaubt die Liebe, die Gott zu uns hat. Gott ist die Liebe; und wer in der Liebe bleibet, der bleibet in _____, und Gott in ihm.'",
+    "correct": "Gott",
+    "wrong": ["Frieden", "Licht", "Wahrheit"],
+    "hint": "In der Liebe zu leben bedeutet, im Göttlichen zu wohnen",
+    "explanation": "Johannes lehrt, dass diejenigen, die in der Liebe leben, eine intime, gegenseitige Einwohnung mit Gott erfahren.",
+    "full_verse": "Und wir haben erkannt und geglaubt die Liebe, die Gott zu uns hat. Gott ist die Liebe; und wer in der Liebe bleibet, der bleibet in Gott, und Gott in ihm.",
+    "verse_ref": "1. Johannes 4:16"
+  }
+}

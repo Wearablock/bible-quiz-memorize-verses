@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_wisdom_001",
+      "question": "Complétez le verset : Selon Jacques 1:5, « Si quelqu'un d'entre vous manque de sagesse, qu'il la demande à Dieu, qui donne à tous simplement et sans _____, et elle lui sera donnée. »",
+      "correct": "reproche",
+      "wrong": ["reprendre", "blâme", "jugement"],
+      "hint": "Ce mot signifie critiquer ou condamner",
+      "explanation": "Dieu donne généreusement la sagesse à quiconque la demande sans faire de reproche.",
+      "full_verse": "Si quelqu'un d'entre vous manque de sagesse, qu'il la demande à Dieu, qui donne à tous simplement et sans reproche, et elle lui sera donnée.",
+      "verse_ref": "Jacques 1:5"
+    },
+    {
+      "id": "q_wisdom_002",
+      "question": "Complétez le verset : Selon Proverbes 1:7, « La crainte de l'Éternel est le commencement de la _____; les insensés méprisent la sagesse et l'instruction. »",
+      "correct": "science",
+      "wrong": ["sagesse", "connaissance", "vérité"],
+      "hint": "Ce mot est synonyme de connaissance dans ce contexte",
+      "explanation": "La révérence envers Dieu est le fondement de toute vraie connaissance.",
+      "full_verse": "La crainte de l'Éternel est le commencement de la science; les insensés méprisent la sagesse et l'instruction.",
+      "verse_ref": "Proverbes 1:7"
+    },
+    {
+      "id": "q_wisdom_003",
+      "question": "Complétez le verset : Selon Proverbes 3:5-6, « Confie-toi en l'Éternel de tout ton cœur, et ne t'appuie pas sur ta _____. Reconnais-le dans toutes tes voies, et il aplanira tes sentiers. »",
+      "correct": "sagesse",
+      "wrong": ["intelligence", "force", "connaissance"],
+      "hint": "Ce mot fait référence à l'intellect et au raisonnement humain",
+      "explanation": "Nous devons faire confiance à Dieu complètement plutôt que de nous fier à notre compréhension limitée.",
+      "full_verse": "Confie-toi en l'Éternel de tout ton cœur, et ne t'appuie pas sur ta sagesse. Reconnais-le dans toutes tes voies, et il aplanira tes sentiers.",
+      "verse_ref": "Proverbes 3:5-6"
+    },
+    {
+      "id": "q_wisdom_004",
+      "question": "Complétez le verset : Selon Proverbes 9:10, « Le commencement de la sagesse, c'est la crainte de l'Éternel; et la science des saints, c'est l'_____. »",
+      "correct": "intelligence",
+      "wrong": ["sagesse", "connaissance", "discernement"],
+      "hint": "C'est la capacité de comprendre profondément",
+      "explanation": "La vraie sagesse commence par la révérence envers Dieu, et le connaître apporte l'intelligence.",
+      "full_verse": "Le commencement de la sagesse, c'est la crainte de l'Éternel; et la science des saints, c'est l'intelligence.",
+      "verse_ref": "Proverbes 9:10"
+    },
+    {
+      "id": "q_wisdom_005",
+      "question": "Complétez le verset : Selon Colossiens 3:16, « Que la parole de Christ habite parmi vous abondamment; instruisez-vous et exhortez-vous les uns les autres en toute sagesse, par des psaumes, par des hymnes, par des cantiques spirituels, chantant à Dieu dans vos cœurs sous l'inspiration de la _____. »",
+      "correct": "grâce",
+      "wrong": ["joie", "louange", "foi"],
+      "hint": "C'est la faveur imméritée de Dieu",
+      "explanation": "La parole de Christ doit nous remplir de sagesse et d'adoration reconnaissante.",
+      "full_verse": "Que la parole de Christ habite parmi vous abondamment; instruisez-vous et exhortez-vous les uns les autres en toute sagesse, par des psaumes, par des hymnes, par des cantiques spirituels, chantant à Dieu dans vos cœurs sous l'inspiration de la grâce.",
+      "verse_ref": "Colossiens 3:16"
+    },
+    {
+      "id": "q_wisdom_006",
+      "question": "Complétez le verset : Selon Proverbes 2:6, « Car l'Éternel donne la sagesse; de sa bouche sortent la connaissance et l'_____. »",
+      "correct": "intelligence",
+      "wrong": ["vérité", "discernement", "instruction"],
+      "hint": "C'est la capacité de comprendre",
+      "explanation": "La vraie sagesse, la connaissance et l'intelligence viennent toutes de Dieu.",
+      "full_verse": "Car l'Éternel donne la sagesse; de sa bouche sortent la connaissance et l'intelligence.",
+      "verse_ref": "Proverbes 2:6"
+    },
+    {
+      "id": "q_wisdom_007",
+      "question": "Complétez le verset : Selon Proverbes 4:7, « Voici le commencement de la sagesse: Acquiers la _____; et avec tout ce que tu possèdes acquiers l'intelligence. »",
+      "correct": "sagesse",
+      "wrong": ["connaissance", "science", "intelligence"],
+      "hint": "C'est ce que le verset dit d'obtenir",
+      "explanation": "La sagesse est si précieuse qu'elle mérite d'être recherchée à tout prix.",
+      "full_verse": "Voici le commencement de la sagesse: Acquiers la sagesse; et avec tout ce que tu possèdes acquiers l'intelligence.",
+      "verse_ref": "Proverbes 4:7"
+    },
+    {
+      "id": "q_wisdom_008",
+      "question": "Complétez le verset : Selon Ecclésiaste 7:12, « Car la sagesse protège comme l'argent protège; mais un avantage de la science, c'est que la sagesse fait vivre ceux qui la _____. »",
+      "correct": "possèdent",
+      "wrong": ["cherchent", "aiment", "suivent"],
+      "hint": "Ce verbe signifie avoir en sa possession",
+      "explanation": "La sagesse protège et préserve ceux qui la possèdent.",
+      "full_verse": "Car la sagesse protège comme l'argent protège; mais un avantage de la science, c'est que la sagesse fait vivre ceux qui la possèdent.",
+      "verse_ref": "Ecclésiaste 7:12"
+    },
+    {
+      "id": "q_wisdom_009",
+      "question": "Complétez le verset : Selon Psaume 111:10, « La crainte de l'Éternel est le commencement de la sagesse; tous ceux qui l'observent ont une raison _____. Sa gloire subsiste à jamais. »",
+      "correct": "saine",
+      "wrong": ["bonne", "pure", "vraie"],
+      "hint": "Ce mot décrit une intelligence en bonne santé",
+      "explanation": "Obéir aux commandements de Dieu conduit à une vraie intelligence.",
+      "full_verse": "La crainte de l'Éternel est le commencement de la sagesse; tous ceux qui l'observent ont une raison saine. Sa gloire subsiste à jamais.",
+      "verse_ref": "Psaume 111:10"
+    },
+    {
+      "id": "q_wisdom_010",
+      "question": "Complétez le verset : Selon Jacques 3:17, « La sagesse d'en haut est premièrement pure, ensuite pacifique, modérée, conciliante, pleine de miséricorde et de bons fruits, exempte de duplicité, d'_____. »",
+      "correct": "hypocrisie",
+      "wrong": ["orgueil", "envie", "amertume"],
+      "hint": "Ce mot signifie feindre d'être ce qu'on n'est pas",
+      "explanation": "La sagesse céleste a de nombreuses caractéristiques, dont la pureté et la sincérité.",
+      "full_verse": "La sagesse d'en haut est premièrement pure, ensuite pacifique, modérée, conciliante, pleine de miséricorde et de bons fruits, exempte de duplicité, d'hypocrisie.",
+      "verse_ref": "Jacques 3:17"
+    },
+    {
+      "id": "q_wisdom_011",
+      "question": "Complétez le verset : Selon Proverbes 3:13, « Heureux l'homme qui a trouvé la sagesse, et l'homme qui possède l'_____! »",
+      "correct": "intelligence",
+      "wrong": ["connaissance", "discernement", "instruction"],
+      "hint": "C'est la capacité de comprendre",
+      "explanation": "Trouver la sagesse et l'intelligence apporte le bonheur.",
+      "full_verse": "Heureux l'homme qui a trouvé la sagesse, et l'homme qui possède l'intelligence!",
+      "verse_ref": "Proverbes 3:13"
+    },
+    {
+      "id": "q_wisdom_012",
+      "question": "Complétez le verset : Selon Proverbes 3:21, « Mon fils, que ces enseignements ne s'éloignent pas de tes yeux, garde la sagesse et la _____. »",
+      "correct": "réflexion",
+      "wrong": ["prudence", "connaissance", "vérité"],
+      "hint": "Ce mot implique la pensée attentive",
+      "explanation": "Nous devons garder la sagesse et le bon jugement.",
+      "full_verse": "Mon fils, que ces enseignements ne s'éloignent pas de tes yeux, garde la sagesse et la réflexion.",
+      "verse_ref": "Proverbes 3:21"
+    },
+    {
+      "id": "q_wisdom_013",
+      "question": "Complétez le verset : Selon Proverbes 4:5, « Acquiers la sagesse, acquiers l'intelligence; n'oublie pas les paroles de ma bouche, et ne t'en _____ pas. »",
+      "correct": "détourne",
+      "wrong": ["éloigne", "écarte", "sépare"],
+      "hint": "Ce verbe signifie changer de direction",
+      "explanation": "Nous devons poursuivre la sagesse et ne pas abandonner ses enseignements.",
+      "full_verse": "Acquiers la sagesse, acquiers l'intelligence; n'oublie pas les paroles de ma bouche, et ne t'en détourne pas.",
+      "verse_ref": "Proverbes 4:5"
+    },
+    {
+      "id": "q_wisdom_014",
+      "question": "Complétez le verset : Selon Proverbes 8:11, « Car la sagesse vaut mieux que les perles, elle a plus de valeur que tous les objets de _____. »",
+      "correct": "prix",
+      "wrong": ["valeur", "richesse", "désir"],
+      "hint": "Ce mot indique la valeur d'un objet",
+      "explanation": "La sagesse est plus précieuse que tout trésor terrestre.",
+      "full_verse": "Car la sagesse vaut mieux que les perles, elle a plus de valeur que tous les objets de prix.",
+      "verse_ref": "Proverbes 8:11"
+    },
+    {
+      "id": "q_wisdom_015",
+      "question": "Complétez le verset : Selon Proverbes 10:23, « Commettre le crime paraît un jeu à l'insensé, mais la sagesse appartient à l'homme _____. »",
+      "correct": "intelligent",
+      "wrong": ["sage", "juste", "prudent"],
+      "hint": "Ce mot décrit quelqu'un qui comprend bien",
+      "explanation": "Ceux qui ont de l'intelligence trouvent de la joie dans la sagesse, pas dans la méchanceté.",
+      "full_verse": "Commettre le crime paraît un jeu à l'insensé, mais la sagesse appartient à l'homme intelligent.",
+      "verse_ref": "Proverbes 10:23"
+    },
+    {
+      "id": "q_wisdom_016",
+      "question": "Complétez le verset : Selon Proverbes 11:2, « Quand vient l'orgueil, vient aussi l'ignominie; mais la sagesse est avec les _____. »",
+      "correct": "humbles",
+      "wrong": ["sages", "justes", "pieux"],
+      "hint": "Ce mot décrit ceux qui ne sont pas orgueilleux",
+      "explanation": "L'orgueil mène à la honte, tandis que l'humilité mène à la sagesse.",
+      "full_verse": "Quand vient l'orgueil, vient aussi l'ignominie; mais la sagesse est avec les humbles.",
+      "verse_ref": "Proverbes 11:2"
+    },
+    {
+      "id": "q_wisdom_017",
+      "question": "Complétez le verset : Selon Proverbes 12:15, « La voie de l'insensé est droite à ses yeux, mais celui qui écoute les conseils est _____. »",
+      "correct": "sage",
+      "wrong": ["prudent", "intelligent", "béni"],
+      "hint": "Ce mot décrit celui qui a la sagesse",
+      "explanation": "Les insensés font confiance à leur propre jugement; les sages cherchent conseil.",
+      "full_verse": "La voie de l'insensé est droite à ses yeux, mais celui qui écoute les conseils est sage.",
+      "verse_ref": "Proverbes 12:15"
+    },
+    {
+      "id": "q_wisdom_018",
+      "question": "Complétez le verset : Selon Proverbes 13:10, « C'est seulement par orgueil qu'on excite des querelles, mais la sagesse est avec ceux qui écoutent les _____. »",
+      "correct": "conseils",
+      "wrong": ["sages", "anciens", "paroles"],
+      "hint": "Ce sont des recommandations ou des avis",
+      "explanation": "L'orgueil cause des conflits, mais les sages acceptent les conseils.",
+      "full_verse": "C'est seulement par orgueil qu'on excite des querelles, mais la sagesse est avec ceux qui écoutent les conseils.",
+      "verse_ref": "Proverbes 13:10"
+    },
+    {
+      "id": "q_wisdom_019",
+      "question": "Complétez le verset : Selon Proverbes 14:1, « La femme sage bâtit sa maison, et la femme insensée la renverse de ses propres _____. »",
+      "correct": "mains",
+      "wrong": ["paroles", "actes", "erreurs"],
+      "hint": "C'est une partie du corps utilisée pour le travail",
+      "explanation": "La sagesse édifie tandis que la folie détruit.",
+      "full_verse": "La femme sage bâtit sa maison, et la femme insensée la renverse de ses propres mains.",
+      "verse_ref": "Proverbes 14:1"
+    },
+    {
+      "id": "q_wisdom_020",
+      "question": "Complétez le verset : Selon Proverbes 15:33, « La crainte de l'Éternel enseigne la sagesse, et l'humilité précède la _____. »",
+      "correct": "gloire",
+      "wrong": ["sagesse", "bénédiction", "honneur"],
+      "hint": "Ce mot signifie l'honneur et le prestige",
+      "explanation": "Craindre Dieu et être humble mène à la gloire.",
+      "full_verse": "La crainte de l'Éternel enseigne la sagesse, et l'humilité précède la gloire.",
+      "verse_ref": "Proverbes 15:33"
+    },
+    {
+      "id": "q_wisdom_021",
+      "question": "Complétez le verset : Selon Proverbes 16:16, « Combien acquérir la sagesse vaut mieux que l'or! Combien acquérir l'intelligence est préférable à l'_____! »",
+      "correct": "argent",
+      "wrong": ["or", "richesse", "trésor"],
+      "hint": "C'est un métal précieux",
+      "explanation": "La sagesse et l'intelligence sont plus précieuses que les métaux précieux.",
+      "full_verse": "Combien acquérir la sagesse vaut mieux que l'or! Combien acquérir l'intelligence est préférable à l'argent!",
+      "verse_ref": "Proverbes 16:16"
+    },
+    {
+      "id": "q_wisdom_022",
+      "question": "Complétez le verset : Selon Proverbes 17:28, « L'insensé même, quand il se tait, passe pour sage; celui qui ferme ses lèvres est un homme _____. »",
+      "correct": "intelligent",
+      "wrong": ["sage", "prudent", "avisé"],
+      "hint": "Ce mot décrit quelqu'un qui comprend bien",
+      "explanation": "Le silence peut être une marque de sagesse.",
+      "full_verse": "L'insensé même, quand il se tait, passe pour sage; celui qui ferme ses lèvres est un homme intelligent.",
+      "verse_ref": "Proverbes 17:28"
+    },
+    {
+      "id": "q_wisdom_023",
+      "question": "Complétez le verset : Selon Proverbes 18:15, « Un cœur intelligent acquiert la science, et l'oreille des sages cherche la _____. »",
+      "correct": "science",
+      "wrong": ["sagesse", "vérité", "connaissance"],
+      "hint": "Ce mot est synonyme de connaissance",
+      "explanation": "Les personnes sages recherchent activement la connaissance.",
+      "full_verse": "Un cœur intelligent acquiert la science, et l'oreille des sages cherche la science.",
+      "verse_ref": "Proverbes 18:15"
+    },
+    {
+      "id": "q_wisdom_024",
+      "question": "Complétez le verset : Selon Proverbes 19:8, « Celui qui acquiert du sens aime son âme; celui qui garde l'intelligence trouve le _____. »",
+      "correct": "bonheur",
+      "wrong": ["succès", "salut", "bien"],
+      "hint": "Ce mot signifie la félicité",
+      "explanation": "Aimer la sagesse mène à une vie heureuse.",
+      "full_verse": "Celui qui acquiert du sens aime son âme; celui qui garde l'intelligence trouve le bonheur.",
+      "verse_ref": "Proverbes 19:8"
+    },
+    {
+      "id": "q_wisdom_025",
+      "question": "Complétez le verset : Selon Proverbes 24:3, « C'est par la sagesse qu'une maison s'élève, et par l'intelligence qu'elle s'_____. »",
+      "correct": "affermit",
+      "wrong": ["établit", "construit", "accomplit"],
+      "hint": "Ce verbe signifie rendre stable",
+      "explanation": "La sagesse bâtit et l'intelligence affermit.",
+      "full_verse": "C'est par la sagesse qu'une maison s'élève, et par l'intelligence qu'elle s'affermit.",
+      "verse_ref": "Proverbes 24:3"
+    },
+    {
+      "id": "q_wisdom_026",
+      "question": "Complétez le verset : Selon Ecclésiaste 2:13, « Et j'ai vu que la sagesse a de l'avantage sur la folie, comme la lumière a de l'avantage sur les _____. »",
+      "correct": "ténèbres",
+      "wrong": ["ombres", "nuits", "obscurités"],
+      "hint": "C'est l'opposé de la lumière",
+      "explanation": "La sagesse éclaire comme la lumière comparée aux ténèbres de la folie.",
+      "full_verse": "Et j'ai vu que la sagesse a de l'avantage sur la folie, comme la lumière a de l'avantage sur les ténèbres.",
+      "verse_ref": "Ecclésiaste 2:13"
+    },
+    {
+      "id": "q_wisdom_027",
+      "question": "Complétez le verset : Selon Ecclésiaste 7:19, « La sagesse rend le sage plus fort que dix chefs qui sont dans une _____. »",
+      "correct": "ville",
+      "wrong": ["nation", "armée", "région"],
+      "hint": "C'est un lieu habité",
+      "explanation": "La sagesse donne plus de puissance que de nombreuses autorités combinées.",
+      "full_verse": "La sagesse rend le sage plus fort que dix chefs qui sont dans une ville.",
+      "verse_ref": "Ecclésiaste 7:19"
+    },
+    {
+      "id": "q_wisdom_028",
+      "question": "Complétez le verset : Selon Ecclésiaste 8:1, « Qui est comme le sage, et qui connaît l'explication des choses? La sagesse d'un homme fait briller son visage, et la sévérité de sa face est _____. »",
+      "correct": "changée",
+      "wrong": ["adoucie", "transformée", "modifiée"],
+      "hint": "Ce verbe signifie modifier",
+      "explanation": "La sagesse apporte un visage agréable et adouci.",
+      "full_verse": "Qui est comme le sage, et qui connaît l'explication des choses? La sagesse d'un homme fait briller son visage, et la sévérité de sa face est changée.",
+      "verse_ref": "Ecclésiaste 8:1"
+    },
+    {
+      "id": "q_wisdom_029",
+      "question": "Complétez le verset : Selon Ecclésiaste 9:16, « Et j'ai dit: La sagesse vaut mieux que la force. Cependant la sagesse du pauvre est méprisée, et ses paroles ne sont pas _____. »",
+      "correct": "écoutées",
+      "wrong": ["entendues", "comprises", "suivies"],
+      "hint": "Ce verbe signifie prêter attention à",
+      "explanation": "Bien que la sagesse surpasse la force, le monde ignore souvent le sage pauvre.",
+      "full_verse": "Et j'ai dit: La sagesse vaut mieux que la force. Cependant la sagesse du pauvre est méprisée, et ses paroles ne sont pas écoutées.",
+      "verse_ref": "Ecclésiaste 9:16"
+    },
+    {
+      "id": "q_wisdom_030",
+      "question": "Complétez le verset : Selon Ecclésiaste 10:10, « S'il a émoussé le fer, et s'il n'en a pas aiguisé le tranchant, il devra redoubler de force; mais la sagesse a l'avantage du _____. »",
+      "correct": "succès",
+      "wrong": ["résultat", "profit", "bien"],
+      "hint": "Ce mot signifie atteindre son objectif",
+      "explanation": "La sagesse et l'habileté sont plus efficaces que la force brute.",
+      "full_verse": "S'il a émoussé le fer, et s'il n'en a pas aiguisé le tranchant, il devra redoubler de force; mais la sagesse a l'avantage du succès.",
+      "verse_ref": "Ecclésiaste 10:10"
+    },
+    {
+      "id": "q_wisdom_031",
+      "question": "Complétez le verset : Selon Job 12:12, « Dans les vieillards se trouve la sagesse, et dans une longue vie l'_____. »",
+      "correct": "intelligence",
+      "wrong": ["expérience", "connaissance", "discernement"],
+      "hint": "C'est la capacité de comprendre",
+      "explanation": "L'âge et l'expérience apportent souvent la sagesse et l'intelligence.",
+      "full_verse": "Dans les vieillards se trouve la sagesse, et dans une longue vie l'intelligence.",
+      "verse_ref": "Job 12:12"
+    },
+    {
+      "id": "q_wisdom_032",
+      "question": "Complétez le verset : Selon Job 28:28, « Puis il dit à l'homme: Voici, la crainte du Seigneur, c'est la sagesse; s'éloigner du mal, c'est l'_____. »",
+      "correct": "intelligence",
+      "wrong": ["obéissance", "prudence", "piété"],
+      "hint": "C'est la capacité de comprendre",
+      "explanation": "La vraie sagesse craint Dieu et évite le mal.",
+      "full_verse": "Puis il dit à l'homme: Voici, la crainte du Seigneur, c'est la sagesse; s'éloigner du mal, c'est l'intelligence.",
+      "verse_ref": "Job 28:28"
+    },
+    {
+      "id": "q_wisdom_033",
+      "question": "Complétez le verset : Selon Psaume 19:8, « La loi de l'Éternel est parfaite, elle restaure l'âme; le témoignage de l'Éternel est véritable, il rend sage l'_____. »",
+      "correct": "ignorant",
+      "wrong": ["humble", "simple", "jeune"],
+      "hint": "Ce mot décrit quelqu'un qui manque de connaissance",
+      "explanation": "La Parole de Dieu apporte la sagesse même aux inexpérimentés.",
+      "full_verse": "La loi de l'Éternel est parfaite, elle restaure l'âme; le témoignage de l'Éternel est véritable, il rend sage l'ignorant.",
+      "verse_ref": "Psaume 19:8"
+    },
+    {
+      "id": "q_wisdom_034",
+      "question": "Complétez le verset : Selon Psaume 37:30, « La bouche du juste annonce la sagesse, et sa langue proclame la _____. »",
+      "correct": "justice",
+      "wrong": ["vérité", "droiture", "bonté"],
+      "hint": "Ce mot signifie l'équité et la droiture",
+      "explanation": "Les justes parlent avec sagesse et justice.",
+      "full_verse": "La bouche du juste annonce la sagesse, et sa langue proclame la justice.",
+      "verse_ref": "Psaume 37:30"
+    },
+    {
+      "id": "q_wisdom_035",
+      "question": "Complétez le verset : Selon Psaume 90:12, « Enseigne-nous à bien compter nos jours, afin que nous appliquions notre cœur à la _____. »",
+      "correct": "sagesse",
+      "wrong": ["piété", "connaissance", "prière"],
+      "hint": "C'est ce que nous gagnons en comprenant la brièveté de la vie",
+      "explanation": "Reconnaître la brièveté de la vie nous aide à vivre sagement.",
+      "full_verse": "Enseigne-nous à bien compter nos jours, afin que nous appliquions notre cœur à la sagesse.",
+      "verse_ref": "Psaume 90:12"
+    },
+    {
+      "id": "q_wisdom_036",
+      "question": "Complétez le verset : Selon Psaume 119:98, « Tes commandements me rendent plus sage que mes _____, car je les ai toujours avec moi. »",
+      "correct": "ennemis",
+      "wrong": ["maîtres", "anciens", "amis"],
+      "hint": "Ce sont ceux qui s'opposent à vous",
+      "explanation": "La Parole de Dieu donne une sagesse qui surpasse celle de nos adversaires.",
+      "full_verse": "Tes commandements me rendent plus sage que mes ennemis, car je les ai toujours avec moi.",
+      "verse_ref": "Psaume 119:98"
+    },
+    {
+      "id": "q_wisdom_037",
+      "question": "Complétez le verset : Selon Ésaïe 11:2, « L'Esprit de l'Éternel reposera sur lui: Esprit de sagesse et d'intelligence, Esprit de conseil et de force, Esprit de connaissance et de crainte de l'_____. »",
+      "correct": "Éternel",
+      "wrong": ["Dieu", "Seigneur", "Tout-Puissant"],
+      "hint": "C'est le nom d'alliance de Dieu",
+      "explanation": "Le Messie serait rempli de l'Esprit de sagesse.",
+      "full_verse": "L'Esprit de l'Éternel reposera sur lui: Esprit de sagesse et d'intelligence, Esprit de conseil et de force, Esprit de connaissance et de crainte de l'Éternel.",
+      "verse_ref": "Ésaïe 11:2"
+    },
+    {
+      "id": "q_wisdom_038",
+      "question": "Complétez le verset : Selon Daniel 2:21, « C'est lui qui change les temps et les circonstances, qui renverse et qui établit les rois, qui donne la sagesse aux sages et la science à ceux qui ont de l'_____. »",
+      "correct": "intelligence",
+      "wrong": ["expérience", "discernement", "foi"],
+      "hint": "C'est la capacité de comprendre",
+      "explanation": "Dieu est la source de toute sagesse et connaissance.",
+      "full_verse": "C'est lui qui change les temps et les circonstances, qui renverse et qui établit les rois, qui donne la sagesse aux sages et la science à ceux qui ont de l'intelligence.",
+      "verse_ref": "Daniel 2:21"
+    },
+    {
+      "id": "q_wisdom_039",
+      "question": "Complétez le verset : Selon Matthieu 7:24, « C'est pourquoi, quiconque entend ces paroles que je dis et les met en pratique, sera semblable à un homme prudent qui a bâti sa maison sur le _____. »",
+      "correct": "roc",
+      "wrong": ["rocher", "sable", "sol"],
+      "hint": "C'est une fondation solide",
+      "explanation": "Les sages bâtissent leur vie sur les enseignements de Jésus.",
+      "full_verse": "C'est pourquoi, quiconque entend ces paroles que je dis et les met en pratique, sera semblable à un homme prudent qui a bâti sa maison sur le roc.",
+      "verse_ref": "Matthieu 7:24"
+    },
+    {
+      "id": "q_wisdom_040",
+      "question": "Complétez le verset : Selon Romains 11:33, « Ô profondeur de la richesse, de la sagesse et de la science de Dieu! Que ses jugements sont insondables, et ses voies _____! »",
+      "correct": "incompréhensibles",
+      "wrong": ["mystérieuses", "impénétrables", "infinies"],
+      "hint": "Ce mot signifie qu'on ne peut pas les comprendre",
+      "explanation": "La sagesse de Dieu est infiniment profonde et au-delà de la compréhension humaine.",
+      "full_verse": "Ô profondeur de la richesse, de la sagesse et de la science de Dieu! Que ses jugements sont insondables, et ses voies incompréhensibles!",
+      "verse_ref": "Romains 11:33"
+    },
+    {
+      "id": "q_wisdom_041",
+      "question": "Complétez le verset : Selon 1 Corinthiens 1:25, « Car la folie de Dieu est plus sage que les hommes, et la faiblesse de Dieu est plus forte que les _____. »",
+      "correct": "hommes",
+      "wrong": ["puissants", "forts", "sages"],
+      "hint": "Ce mot désigne l'humanité",
+      "explanation": "Même la « faiblesse » de Dieu surpasse toute la force humaine.",
+      "full_verse": "Car la folie de Dieu est plus sage que les hommes, et la faiblesse de Dieu est plus forte que les hommes.",
+      "verse_ref": "1 Corinthiens 1:25"
+    },
+    {
+      "id": "q_wisdom_042",
+      "question": "Complétez le verset : Selon 1 Corinthiens 1:30, « Or, c'est par lui que vous êtes en Jésus-Christ, lequel, de par Dieu, a été fait pour nous sagesse, justice et sanctification et _____. »",
+      "correct": "rédemption",
+      "wrong": ["salut", "délivrance", "liberté"],
+      "hint": "Ce mot signifie être racheté",
+      "explanation": "Christ incarne la sagesse et nous apporte notre justice et rédemption.",
+      "full_verse": "Or, c'est par lui que vous êtes en Jésus-Christ, lequel, de par Dieu, a été fait pour nous sagesse, justice et sanctification et rédemption.",
+      "verse_ref": "1 Corinthiens 1:30"
+    },
+    {
+      "id": "q_wisdom_043",
+      "question": "Complétez le verset : Selon 1 Corinthiens 2:6, « Cependant, c'est une sagesse que nous prêchons parmi les parfaits, sagesse qui n'est pas de ce siècle, ni des chefs de ce siècle, qui vont être _____. »",
+      "correct": "anéantis",
+      "wrong": ["détruits", "jugés", "condamnés"],
+      "hint": "Ce verbe signifie être réduit à néant",
+      "explanation": "La sagesse de Dieu diffère de la sagesse des autorités de ce monde.",
+      "full_verse": "Cependant, c'est une sagesse que nous prêchons parmi les parfaits, sagesse qui n'est pas de ce siècle, ni des chefs de ce siècle, qui vont être anéantis.",
+      "verse_ref": "1 Corinthiens 2:6"
+    },
+    {
+      "id": "q_wisdom_044",
+      "question": "Complétez le verset : Selon 1 Corinthiens 3:19, « Car la sagesse de ce monde est une folie devant Dieu. Aussi est-il écrit: Il prend les sages dans leur _____. »",
+      "correct": "ruse",
+      "wrong": ["piège", "orgueil", "folie"],
+      "hint": "Ce mot signifie l'astuce trompeuse",
+      "explanation": "La sagesse du monde est une folie comparée à la sagesse de Dieu.",
+      "full_verse": "Car la sagesse de ce monde est une folie devant Dieu. Aussi est-il écrit: Il prend les sages dans leur ruse.",
+      "verse_ref": "1 Corinthiens 3:19"
+    },
+    {
+      "id": "q_wisdom_045",
+      "question": "Complétez le verset : Selon Éphésiens 1:17, « afin que le Dieu de notre Seigneur Jésus-Christ, le Père de gloire, vous donne un esprit de sagesse et de révélation, dans sa _____. »",
+      "correct": "connaissance",
+      "wrong": ["vérité", "grâce", "lumière"],
+      "hint": "Ce mot signifie le fait de connaître",
+      "explanation": "Nous avons besoin de l'Esprit de Dieu pour nous donner sagesse et révélation.",
+      "full_verse": "afin que le Dieu de notre Seigneur Jésus-Christ, le Père de gloire, vous donne un esprit de sagesse et de révélation, dans sa connaissance.",
+      "verse_ref": "Éphésiens 1:17"
+    },
+    {
+      "id": "q_wisdom_046",
+      "question": "Complétez le verset : Selon Éphésiens 5:15, « Prenez donc garde de vous conduire avec circonspection, non comme des insensés, mais comme des _____. »",
+      "correct": "sages",
+      "wrong": ["prudents", "justes", "parfaits"],
+      "hint": "C'est l'opposé d'insensé",
+      "explanation": "Nous devons vivre avec prudence et sagesse.",
+      "full_verse": "Prenez donc garde de vous conduire avec circonspection, non comme des insensés, mais comme des sages.",
+      "verse_ref": "Éphésiens 5:15"
+    },
+    {
+      "id": "q_wisdom_047",
+      "question": "Complétez le verset : Selon Colossiens 1:9, « C'est pour cela que nous aussi, depuis le jour où nous en avons été informés, nous ne cessons de prier Dieu pour vous, et de demander que vous soyez remplis de la connaissance de sa volonté, en toute sagesse et intelligence _____. »",
+      "correct": "spirituelle",
+      "wrong": ["divine", "céleste", "sainte"],
+      "hint": "Ce mot est lié à l'Esprit",
+      "explanation": "Le Saint-Esprit donne la sagesse et la compréhension de la volonté de Dieu.",
+      "full_verse": "C'est pour cela que nous aussi, depuis le jour où nous en avons été informés, nous ne cessons de prier Dieu pour vous, et de demander que vous soyez remplis de la connaissance de sa volonté, en toute sagesse et intelligence spirituelle.",
+      "verse_ref": "Colossiens 1:9"
+    },
+    {
+      "id": "q_wisdom_048",
+      "question": "Complétez le verset : Selon Colossiens 2:3, « mystère dans lequel sont cachés tous les trésors de la sagesse et de la _____. »",
+      "correct": "science",
+      "wrong": ["connaissance", "vérité", "intelligence"],
+      "hint": "Ce mot est synonyme de connaissance",
+      "explanation": "Toute sagesse et connaissance se trouvent en Christ.",
+      "full_verse": "mystère dans lequel sont cachés tous les trésors de la sagesse et de la science.",
+      "verse_ref": "Colossiens 2:3"
+    },
+    {
+      "id": "q_wisdom_049",
+      "question": "Complétez le verset : Selon Jacques 3:13, « Lequel d'entre vous est sage et intelligent? Qu'il montre ses œuvres par une bonne conduite avec la douceur de la _____. »",
+      "correct": "sagesse",
+      "wrong": ["foi", "grâce", "piété"],
+      "hint": "C'est ce qui produit la douceur",
+      "explanation": "La vraie sagesse se démontre par des actions humbles et bonnes.",
+      "full_verse": "Lequel d'entre vous est sage et intelligent? Qu'il montre ses œuvres par une bonne conduite avec la douceur de la sagesse.",
+      "verse_ref": "Jacques 3:13"
+    },
+    {
+      "id": "q_wisdom_050",
+      "question": "Complétez le verset : Selon 2 Pierre 3:15, « Croyez que la patience de notre Seigneur est votre salut, comme notre bien-aimé frère Paul vous l'a aussi écrit, selon la sagesse qui lui a été _____. »",
+      "correct": "donnée",
+      "wrong": ["accordée", "révélée", "confiée"],
+      "hint": "Ce verbe signifie recevoir en cadeau",
+      "explanation": "Paul a écrit les Écritures avec la sagesse que Dieu lui a donnée.",
+      "full_verse": "Croyez que la patience de notre Seigneur est votre salut, comme notre bien-aimé frère Paul vous l'a aussi écrit, selon la sagesse qui lui a été donnée.",
+      "verse_ref": "2 Pierre 3:15"
+    }
+  ]
+}

@@ -214,7 +214,7 @@ class AppConfig {
   // 예시: 'movie_quiz_remove_ads', 'science_quiz_premium'
 
   /// 광고 제거 상품 ID (스토어에 등록한 ID와 일치해야 함)
-  static const String removeAdsProductId = 'bible_quiz_remove_ads';
+  static const String removeAdsProductId = 'bible_quiz_memorize_verses_remove_ads';
 
   /// 프리미엄 상태 저장 키 (SharedPreferences, 일반적으로 변경 불필요)
   static const String premiumStorageKey = 'is_premium';
@@ -227,8 +227,9 @@ class AppConfig {
   // 예시: 'https://raw.githubusercontent.com/YourOrg/movie-quiz/main/github-data'
 
   /// GitHub Raw 콘텐츠 베이스 URL
+  /// TODO: 실제 GitHub 저장소 생성 후 URL 업데이트 필요
   static const String remoteDataBaseUrl =
-      'https://raw.githubusercontent.com/Wearablock/trivia-quiz/main/github-data';
+      'https://raw.githubusercontent.com/Wearablock/bible-quiz-memorize-verses/main/github-data';
 
   /// 타임아웃 설정 (일반적으로 변경 불필요)
   static const int versionCheckTimeout = 10;
@@ -246,7 +247,8 @@ class AppConfig {
   // 예시: 'https://yourorg.github.io/movie-quiz'
 
   /// 문서 베이스 URL
-  static const String docsBaseUrl = 'https://wearablock.github.io/trivia-quiz';
+  /// TODO: GitHub Pages 설정 후 URL 업데이트 필요
+  static const String docsBaseUrl = 'https://wearablock.github.io/bible-quiz-memorize-verses';
 
   /// 이용약관 URL
   static const String termsUrl = '$docsBaseUrl/terms.html';

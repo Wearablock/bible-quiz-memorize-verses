@@ -1,1 +1,452 @@
-{}
+{
+  "q_psalms_001": {
+    "question": "Isi bagian yang kosong: 'TUHAN adalah _____ku, aku tidak kekurangan.'",
+    "correct": "gembala",
+    "wrong": ["pemimpin", "bapa", "pelindung"],
+    "hint": "Orang yang mengurus domba",
+    "explanation": "Allah digambarkan sebagai gembala yang penuh kasih yang menyediakan segala kebutuhan kita.",
+    "full_verse": "TUHAN adalah gembalaku, aku tidak kekurangan.",
+    "verse_ref": "Mazmur 23:1"
+  },
+  "q_psalms_002": {
+    "question": "Isi bagian yang kosong: 'Sekalipun aku berjalan dalam lembah kekelaman, aku tidak takut bahaya, sebab Engkau besertaku; gada-Mu dan tongkat-Mu, itulah yang _____.'",
+    "correct": "menghibur",
+    "wrong": ["melindungi", "menuntun", "menjaga"],
+    "hint": "Kata ini berarti memberi penghiburan",
+    "explanation": "Kehadiran Allah memberikan kita keberanian bahkan dalam keadaan yang paling sulit.",
+    "full_verse": "Sekalipun aku berjalan dalam lembah kekelaman, aku tidak takut bahaya, sebab Engkau besertaku; gada-Mu dan tongkat-Mu, itulah yang menghibur aku.",
+    "verse_ref": "Mazmur 23:4"
+  },
+  "q_psalms_003": {
+    "question": "Isi bagian yang kosong: 'Allah itu bagi kita tempat perlindungan dan kekuatan, sebagai penolong dalam _____ sangat terbukti.'",
+    "correct": "kesesakan",
+    "wrong": ["bahaya", "kebutuhan", "kesusahan"],
+    "hint": "Kata ini berarti kesulitan atau kesukaran",
+    "explanation": "Allah selalu siap menolong kita di saat kesulitan.",
+    "full_verse": "Allah itu bagi kita tempat perlindungan dan kekuatan, sebagai penolong dalam kesesakan sangat terbukti.",
+    "verse_ref": "Mazmur 46:2"
+  },
+  "q_psalms_004": {
+    "question": "Isi bagian yang kosong: 'TUHAN adalah terangku dan keselamatanku, kepada siapakah aku harus _____? TUHAN adalah benteng hidupku, terhadap siapakah aku harus gemetar?'",
+    "correct": "takut",
+    "wrong": ["percaya", "mengikut", "menyembah"],
+    "hint": "Ini adalah sesuatu yang tidak perlu kita rasakan ketika Allah menyertai kita",
+    "explanation": "Dengan Allah sebagai terang dan keselamatan kita, kita tidak perlu takut kepada siapa pun.",
+    "full_verse": "TUHAN adalah terangku dan keselamatanku, kepada siapakah aku harus takut? TUHAN adalah benteng hidupku, terhadap siapakah aku harus gemetar?",
+    "verse_ref": "Mazmur 27:1"
+  },
+  "q_psalms_005": {
+    "question": "Isi bagian yang kosong: 'Firman-Mu itu pelita bagi kakiku dan _____ bagi jalanku.'",
+    "correct": "terang",
+    "wrong": ["pemandu", "suar", "obor"],
+    "hint": "Ini menerangi jalan di depan",
+    "explanation": "Firman Allah memberikan bimbingan dan arah bagi kehidupan kita.",
+    "full_verse": "Firman-Mu itu pelita bagi kakiku dan terang bagi jalanku.",
+    "verse_ref": "Mazmur 119:105"
+  },
+  "q_psalms_006": {
+    "question": "Isi bagian yang kosong: 'Berbahagialah orang yang tidak berjalan menurut nasihat orang fasik, yang tidak berdiri di jalan orang berdosa, dan yang tidak duduk dalam kumpulan _____.'",
+    "correct": "pencemooh",
+    "wrong": ["orang berdosa", "orang bodoh", "orang jahat"],
+    "hint": "Orang-orang ini mengejek orang lain",
+    "explanation": "Berkat sejati datang dari menghindari pengaruh orang-orang yang mencemooh jalan Allah.",
+    "full_verse": "Berbahagialah orang yang tidak berjalan menurut nasihat orang fasik, yang tidak berdiri di jalan orang berdosa, dan yang tidak duduk dalam kumpulan pencemooh.",
+    "verse_ref": "Mazmur 1:1"
+  },
+  "q_psalms_007": {
+    "question": "Isi bagian yang kosong: 'Bersorak-sorailah bagi TUHAN, hai seluruh bumi!'",
+    "correct": "Bersorak-sorailah",
+    "wrong": ["Pujilah", "Muliakanlah", "Bersyukurlah"],
+    "hint": "Ini adalah ekspresi kegembiraan yang besar",
+    "explanation": "Kita dipanggil untuk mengekspresikan sukacita kita kepada Allah dengan penuh semangat.",
+    "full_verse": "Bersorak-sorailah bagi TUHAN, hai seluruh bumi!",
+    "verse_ref": "Mazmur 100:1"
+  },
+  "q_psalms_008": {
+    "question": "Isi bagian yang kosong: 'Inilah hari yang dijadikan TUHAN, marilah kita bersorak-sorak dan _____ karenanya!'",
+    "correct": "bersukacita",
+    "wrong": ["bergembira", "bahagia", "bersyukur"],
+    "hint": "Ini berarti merasa sangat senang",
+    "explanation": "Setiap hari adalah karunia dari Allah yang layak dirayakan.",
+    "full_verse": "Inilah hari yang dijadikan TUHAN, marilah kita bersorak-sorak dan bersukacita karenanya!",
+    "verse_ref": "Mazmur 118:24"
+  },
+  "q_psalms_009": {
+    "question": "Isi bagian yang kosong: 'Biarlah segala yang bernafas memuji TUHAN! _____!'",
+    "correct": "Haleluya",
+    "wrong": ["Amin", "Puji Tuhan", "Syukur"],
+    "hint": "Ini adalah seruan pujian",
+    "explanation": "Semua makhluk hidup dipanggil untuk memuji Allah.",
+    "full_verse": "Biarlah segala yang bernafas memuji TUHAN! Haleluya!",
+    "verse_ref": "Mazmur 150:6"
+  },
+  "q_psalms_010": {
+    "question": "Isi bagian yang kosong: 'Kecaplah dan lihatlah, betapa _____nya TUHAN itu; berbahagialah orang yang berlindung pada-Nya!'",
+    "correct": "baik",
+    "wrong": ["besar", "setia", "penuh kasih"],
+    "hint": "Ini adalah kebalikan dari buruk",
+    "explanation": "Kita dapat mengalami kebaikan Allah secara pribadi ketika kita percaya kepada-Nya.",
+    "full_verse": "Kecaplah dan lihatlah, betapa baiknya TUHAN itu; berbahagialah orang yang berlindung pada-Nya!",
+    "verse_ref": "Mazmur 34:9"
+  },
+  "q_psalms_011": {
+    "question": "Isi bagian yang kosong: 'Bergembiralah karena TUHAN; maka Ia akan memberikan kepadamu apa yang diinginkan _____.'",
+    "correct": "hatimu",
+    "wrong": ["jiwamu", "pikiranmu", "rohmu"],
+    "hint": "Ini adalah pusat emosi dan keinginan Anda",
+    "explanation": "Ketika kita menemukan sukacita di dalam Allah, Dia membentuk dan memenuhi kerinduan terdalam kita.",
+    "full_verse": "Bergembiralah karena TUHAN; maka Ia akan memberikan kepadamu apa yang diinginkan hatimu.",
+    "verse_ref": "Mazmur 37:4"
+  },
+  "q_psalms_012": {
+    "question": "Isi bagian yang kosong: 'Jadikanlah hatiku tahir, ya Allah, dan perbaharuilah batinku dengan _____ yang teguh!'",
+    "correct": "roh",
+    "wrong": ["jiwa", "hati", "pikiran"],
+    "hint": "Ini adalah bagian batin seseorang",
+    "explanation": "Daud meminta Allah untuk transformasi batin dan komitmen yang diperbarui.",
+    "full_verse": "Jadikanlah hatiku tahir, ya Allah, dan perbaharuilah batinku dengan roh yang teguh!",
+    "verse_ref": "Mazmur 51:12"
+  },
+  "q_psalms_013": {
+    "question": "Isi bagian yang kosong: 'Orang yang duduk dalam lindungan Yang Mahatinggi dan bermalam dalam _____ Yang Mahakuasa.'",
+    "correct": "naungan",
+    "wrong": ["hadirat", "pelukan", "perlindungan"],
+    "hint": "Ini terbentuk ketika cahaya terhalang",
+    "explanation": "Allah memberikan perlindungan dan ketenangan bagi mereka yang tinggal dekat dengan-Nya.",
+    "full_verse": "Orang yang duduk dalam lindungan Yang Mahatinggi dan bermalam dalam naungan Yang Mahakuasa.",
+    "verse_ref": "Mazmur 91:1"
+  },
+  "q_psalms_014": {
+    "question": "Isi bagian yang kosong: 'Pujilah TUHAN, hai jiwaku! Dan segala yang ada di dalam diriku, pujilah _____ yang kudus!'",
+    "correct": "nama-Nya",
+    "wrong": ["firman-Nya", "kemuliaan-Nya", "kebesaran-Nya"],
+    "hint": "Ini mewakili identitas dan karakter Allah",
+    "explanation": "Kita memuji nama Allah karena itu mewakili siapa Dia.",
+    "full_verse": "Pujilah TUHAN, hai jiwaku! Dan segala yang ada di dalam diriku, pujilah nama-Nya yang kudus!",
+    "verse_ref": "Mazmur 103:1"
+  },
+  "q_psalms_015": {
+    "question": "Isi bagian yang kosong: 'Aku bersyukur kepada-Mu oleh karena kejadianku dahsyat dan _____; ajaib apa yang Kaubuat, dan jiwaku benar-benar menyadarinya.'",
+    "correct": "ajaib",
+    "wrong": ["indah", "sempurna", "unik"],
+    "hint": "Ini berarti dengan cara yang menakjubkan",
+    "explanation": "Kita diciptakan dengan penuh perhatian dan maksud oleh Allah.",
+    "full_verse": "Aku bersyukur kepada-Mu oleh karena kejadianku dahsyat dan ajaib; ajaib apa yang Kaubuat, dan jiwaku benar-benar menyadarinya.",
+    "verse_ref": "Mazmur 139:14"
+  },
+  "q_psalms_016": {
+    "question": "Isi bagian yang kosong: 'Langit menceritakan kemuliaan Allah, dan cakrawala memberitakan pekerjaan _____.'",
+    "correct": "tangan-Nya",
+    "wrong": ["kuasa-Nya", "ciptaan-Nya", "kebesaran-Nya"],
+    "hint": "Ini adalah bagian tubuh yang digunakan untuk membuat sesuatu",
+    "explanation": "Ciptaan sendiri bersaksi tentang kuasa kreatif Allah.",
+    "full_verse": "Langit menceritakan kemuliaan Allah, dan cakrawala memberitakan pekerjaan tangan-Nya.",
+    "verse_ref": "Mazmur 19:2"
+  },
+  "q_psalms_017": {
+    "question": "Isi bagian yang kosong: 'Diamlah dan ketahuilah, bahwa Akulah _____! Aku akan ditinggikan di antara bangsa-bangsa, ditinggikan di bumi!'",
+    "correct": "Allah",
+    "wrong": ["Tuhan", "kudus", "berdaulat"],
+    "hint": "Ini adalah Pribadi ilahi",
+    "explanation": "Kita dipanggil untuk menenangkan diri dan mengakui kedaulatan Allah.",
+    "full_verse": "Diamlah dan ketahuilah, bahwa Akulah Allah! Aku akan ditinggikan di antara bangsa-bangsa, ditinggikan di bumi!",
+    "verse_ref": "Mazmur 46:11"
+  },
+  "q_psalms_018": {
+    "question": "Isi bagian yang kosong: 'Kebajikan dan kemurahan belaka akan mengikuti aku, seumur hidupku; dan aku akan diam dalam rumah TUHAN _____.'",
+    "correct": "sepanjang masa",
+    "wrong": ["selalu", "selamanya", "abadi"],
+    "hint": "Ini berarti untuk sepanjang waktu",
+    "explanation": "Kebaikan Allah menyertai kita sepanjang hidup dan sampai kekekalan.",
+    "full_verse": "Kebajikan dan kemurahan belaka akan mengikuti aku, seumur hidupku; dan aku akan diam dalam rumah TUHAN sepanjang masa.",
+    "verse_ref": "Mazmur 23:6"
+  },
+  "q_psalms_019": {
+    "question": "Isi bagian yang kosong: 'Aku melayangkan mataku ke gunung-gunung; dari manakah akan datang pertolonganku? Pertolonganku ialah dari TUHAN, yang menjadikan langit dan _____.'",
+    "correct": "bumi",
+    "wrong": ["tanah", "dunia", "alam semesta"],
+    "hint": "Ini adalah tempat kita berpijak",
+    "explanation": "Pertolongan kita datang dari Pencipta segala sesuatu.",
+    "full_verse": "Aku melayangkan mataku ke gunung-gunung; dari manakah akan datang pertolonganku? Pertolonganku ialah dari TUHAN, yang menjadikan langit dan bumi.",
+    "verse_ref": "Mazmur 121:1-2"
+  },
+  "q_psalms_020": {
+    "question": "Isi bagian yang kosong: 'TUHAN itu dekat kepada orang-orang yang patah hati, dan Ia menyelamatkan orang-orang yang remuk _____.'",
+    "correct": "jiwanya",
+    "wrong": ["hatinya", "rohnya", "semangatnya"],
+    "hint": "Ini adalah bagian batin seseorang",
+    "explanation": "Allah sangat dekat kepada mereka yang mengalami penderitaan emosional.",
+    "full_verse": "TUHAN itu dekat kepada orang-orang yang patah hati, dan Ia menyelamatkan orang-orang yang remuk jiwanya.",
+    "verse_ref": "Mazmur 34:19"
+  },
+  "q_psalms_021": {
+    "question": "Isi bagian yang kosong: 'Seperti rusa yang merindukan sungai yang berair, demikianlah jiwaku _____ kepada-Mu, ya Allah.'",
+    "correct": "merindukan",
+    "wrong": ["mendambakan", "haus", "menginginkan"],
+    "hint": "Ini adalah apa yang dirasakan rusa yang haus",
+    "explanation": "Jiwa kita harus merindukan Allah seperti binatang yang haus mencari air.",
+    "full_verse": "Seperti rusa yang merindukan sungai yang berair, demikianlah jiwaku merindukan Engkau, ya Allah.",
+    "verse_ref": "Mazmur 42:2"
+  },
+  "q_psalms_022": {
+    "question": "Isi bagian yang kosong: 'Serahkanlah kuatirmu kepada TUHAN, maka Ia akan _____ engkau! Tidak untuk selama-lamanya dibiarkan-Nya orang benar itu goyah.'",
+    "correct": "memelihara",
+    "wrong": ["menolong", "menopang", "mendukung"],
+    "hint": "Ini berarti menjaga atau merawat",
+    "explanation": "Allah mengundang kita untuk memberikan kekhawatiran kita kepada-Nya dan berjanji untuk memelihara kita.",
+    "full_verse": "Serahkanlah kuatirmu kepada TUHAN, maka Ia akan memelihara engkau! Tidak untuk selama-lamanya dibiarkan-Nya orang benar itu goyah.",
+    "verse_ref": "Mazmur 55:23"
+  },
+  "q_psalms_023": {
+    "question": "Isi bagian yang kosong: 'Sebab TUHAN Allah adalah matahari dan perisai; kasih dan kemuliaan Ia berikan; Ia tidak menahan kebaikan dari orang yang hidup tidak _____.'",
+    "correct": "bercela",
+    "wrong": ["berdosa", "bersalah", "kotor"],
+    "hint": "Ini berarti tanpa kesalahan",
+    "explanation": "Allah dengan murah hati memberi kepada mereka yang hidup dengan integritas.",
+    "full_verse": "Sebab TUHAN Allah adalah matahari dan perisai; kasih dan kemuliaan Ia berikan; Ia tidak menahan kebaikan dari orang yang hidup tidak bercela.",
+    "verse_ref": "Mazmur 84:12"
+  },
+  "q_psalms_024": {
+    "question": "Isi bagian yang kosong: 'Sebab malaikat-malaikat-Nya akan diperintahkan-Nya kepadamu untuk menjaga engkau di segala _____.'",
+    "correct": "jalanmu",
+    "wrong": ["langkahmu", "harimu", "perbuatanmu"],
+    "hint": "Ini mengacu pada arah atau aktivitas Anda",
+    "explanation": "Allah mengirim malaikat-malaikat untuk melindungi umat-Nya.",
+    "full_verse": "Sebab malaikat-malaikat-Nya akan diperintahkan-Nya kepadamu untuk menjaga engkau di segala jalanmu.",
+    "verse_ref": "Mazmur 91:11"
+  },
+  "q_psalms_025": {
+    "question": "Isi bagian yang kosong: 'TUHAN dekat pada setiap orang yang berseru kepada-Nya, pada setiap orang yang berseru kepada-Nya dalam _____.'",
+    "correct": "kesetiaan",
+    "wrong": ["iman", "roh", "ketulusan"],
+    "hint": "Ini berarti kejujuran atau ketulusan",
+    "explanation": "Allah mendekat kepada mereka yang dengan tulus mencari-Nya.",
+    "full_verse": "TUHAN dekat pada setiap orang yang berseru kepada-Nya, pada setiap orang yang berseru kepada-Nya dalam kesetiaan.",
+    "verse_ref": "Mazmur 145:18"
+  },
+  "q_psalms_026": {
+    "question": "Isi bagian yang kosong: 'Jika aku melihat langit-Mu, buatan jari-Mu, bulan dan bintang-bintang yang Kautempatkan: apakah manusia, sehingga Engkau _____ dia?'",
+    "correct": "mengingatnya",
+    "wrong": ["memperhatikan", "memikirkan", "mengasihinya"],
+    "hint": "Ini berarti menyadari atau memikirkan",
+    "explanation": "Meskipun luasnya ciptaan, Allah sangat peduli kepada manusia.",
+    "full_verse": "Jika aku melihat langit-Mu, buatan jari-Mu, bulan dan bintang-bintang yang Kautempatkan: apakah manusia, sehingga Engkau mengingatnya?",
+    "verse_ref": "Mazmur 8:4-5"
+  },
+  "q_psalms_027": {
+    "question": "Isi bagian yang kosong: 'Engkau memberitahukan kepadaku jalan kehidupan; di hadapan-Mu ada sukacita berlimpah, di _____ ada nikmat yang abadi.'",
+    "correct": "tangan kanan-Mu",
+    "wrong": ["sisi-Mu", "takhta-Mu", "hadirat-Mu"],
+    "hint": "Ini adalah bagian tubuh yang melambangkan posisi kehormatan",
+    "explanation": "Kehadiran Allah membawa sukacita yang sempurna dan berkat kekal.",
+    "full_verse": "Engkau memberitahukan kepadaku jalan kehidupan; di hadapan-Mu ada sukacita berlimpah, di tangan kanan-Mu ada nikmat yang abadi.",
+    "verse_ref": "Mazmur 16:11"
+  },
+  "q_psalms_028": {
+    "question": "Isi bagian yang kosong: 'Biarlah perkataan mulutku dan renungan hatiku berkenan kepada-Mu, ya TUHAN, gunung batuku dan _____.'",
+    "correct": "penebusku",
+    "wrong": ["juruselamatku", "pembebas", "perlindunganku"],
+    "hint": "Ini adalah seseorang yang menyelamatkan dengan membayar harga",
+    "explanation": "Kita menginginkan perkataan dan pikiran kita untuk menghormati Allah.",
+    "full_verse": "Biarlah perkataan mulutku dan renungan hatiku berkenan kepada-Mu, ya TUHAN, gunung batuku dan penebusku.",
+    "verse_ref": "Mazmur 19:15"
+  },
+  "q_psalms_029": {
+    "question": "Isi bagian yang kosong: 'Milik TUHANlah bumi serta segala isinya, dan dunia serta yang _____ di dalamnya.'",
+    "correct": "diam",
+    "wrong": ["tinggal", "hidup", "ada"],
+    "hint": "Ini berarti bertempat tinggal",
+    "explanation": "Allah memiliki segalanya dalam ciptaan, termasuk semua orang.",
+    "full_verse": "Milik TUHANlah bumi serta segala isinya, dan dunia serta yang diam di dalamnya.",
+    "verse_ref": "Mazmur 24:1"
+  },
+  "q_psalms_030": {
+    "question": "Isi bagian yang kosong: 'Aku hendak mengajar dan menunjukkan kepadamu jalan yang harus kautempuh; Aku hendak memberi nasihat, mata-Ku tertuju _____.'",
+    "correct": "kepadamu",
+    "wrong": ["padamu", "atasmu", "kepadanya"],
+    "hint": "Ini menunjukkan kepada siapa perhatian Allah diarahkan",
+    "explanation": "Allah berjanji untuk secara pribadi membimbing dan menasihati kita.",
+    "full_verse": "Aku hendak mengajar dan menunjukkan kepadamu jalan yang harus kautempuh; Aku hendak memberi nasihat, mata-Ku tertuju kepadamu.",
+    "verse_ref": "Mazmur 32:8"
+  },
+  "q_psalms_031": {
+    "question": "Isi bagian yang kosong: 'TUHAN menetapkan langkah-langkah orang yang hidupnya berkenan kepada-Nya; apabila ia jatuh, tidaklah sampai tergeletak, sebab TUHAN _____ tangannya.'",
+    "correct": "menopang",
+    "wrong": ["memegang", "mengangkat", "menolong"],
+    "hint": "Ini berarti menyokong atau mendukung",
+    "explanation": "Allah meneguhkan mereka yang berkenan kepada-Nya, bahkan ketika mereka tersandung.",
+    "full_verse": "TUHAN menetapkan langkah-langkah orang yang hidupnya berkenan kepada-Nya; apabila ia jatuh, tidaklah sampai tergeletak, sebab TUHAN menopang tangannya.",
+    "verse_ref": "Mazmur 37:23-24"
+  },
+  "q_psalms_032": {
+    "question": "Isi bagian yang kosong: 'Aku sangat menanti-nantikan TUHAN; lalu Ia menjenguk aku dan mendengar teriakku minta tolong. Ia mengangkat aku dari lobang kebinasaan, dari lumpur _____.'",
+    "correct": "rawa",
+    "wrong": ["kotor", "dalam", "hitam"],
+    "hint": "Ini adalah lumpur yang dalam dan basah",
+    "explanation": "Allah menyelamatkan kita dari situasi yang putus asa dan memberikan kita kestabilan.",
+    "full_verse": "Aku sangat menanti-nantikan TUHAN; lalu Ia menjenguk aku dan mendengar teriakku minta tolong. Ia mengangkat aku dari lobang kebinasaan, dari lumpur rawa.",
+    "verse_ref": "Mazmur 40:2"
+  },
+  "q_psalms_033": {
+    "question": "Isi bagian yang kosong: 'Korban sembelihan kepada Allah ialah jiwa yang hancur; hati yang patah dan _____, tidak akan Kaupandang hina, ya Allah.'",
+    "correct": "remuk",
+    "wrong": ["rendah", "sedih", "menyesal"],
+    "hint": "Ini berarti merasa sangat menyesal atas kesalahan",
+    "explanation": "Allah menghargai pertobatan yang tulus lebih dari ritual keagamaan yang lahiriah.",
+    "full_verse": "Korban sembelihan kepada Allah ialah jiwa yang hancur; hati yang patah dan remuk tidak akan Kaupandang hina, ya Allah.",
+    "verse_ref": "Mazmur 51:19"
+  },
+  "q_psalms_034": {
+    "question": "Isi bagian yang kosong: 'Apabila aku _____, aku ini percaya kepada-Mu.'",
+    "correct": "takut",
+    "wrong": ["lemah", "susah", "cemas"],
+    "hint": "Ini adalah emosi yang dirasakan saat menghadapi bahaya",
+    "explanation": "Rasa takut harus mendorong kita untuk lebih percaya kepada Allah.",
+    "full_verse": "Apabila aku takut, aku ini percaya kepada-Mu.",
+    "verse_ref": "Mazmur 56:4"
+  },
+  "q_psalms_035": {
+    "question": "Isi bagian yang kosong: 'Hanya pada Allah saja aku tenang, dari pada-Nyalah keselamatanku. Hanya Dialah gunung batuku dan keselamatanku, kota bentengku, aku tidak akan goyah _____.'",
+    "correct": "sama sekali",
+    "wrong": ["selamanya", "lagi", "pernah"],
+    "hint": "Ini berarti tidak sedikitpun",
+    "explanation": "Allah sendiri yang memberikan ketenangan dan keamanan sejati bagi jiwa kita.",
+    "full_verse": "Hanya pada Allah saja aku tenang, dari pada-Nyalah keselamatanku. Hanya Dialah gunung batuku dan keselamatanku, kota bentengku, aku tidak akan goyah sama sekali.",
+    "verse_ref": "Mazmur 62:2-3"
+  },
+  "q_psalms_036": {
+    "question": "Isi bagian yang kosong: 'Sekalipun dagingku dan hatiku habis lenyap, gunung batuku dan _____ adalah Allah, untuk selama-lamanya.'",
+    "correct": "bagianku",
+    "wrong": ["harapanku", "perlindunganku", "warisanku"],
+    "hint": "Ini berarti bagian seseorang atau warisan",
+    "explanation": "Bahkan ketika tubuh kita gagal, Allah tetap menjadi warisan kekal kita.",
+    "full_verse": "Sekalipun dagingku dan hatiku habis lenyap, gunung batuku dan bagianku adalah Allah, untuk selama-lamanya.",
+    "verse_ref": "Mazmur 73:26"
+  },
+  "q_psalms_037": {
+    "question": "Isi bagian yang kosong: 'Sebab Engkau, ya Tuhan, baik dan suka mengampuni, berlimpah kasih setia bagi semua orang yang _____ kepada-Mu.'",
+    "correct": "berseru",
+    "wrong": ["datang", "berdoa", "kembali"],
+    "hint": "Ini berarti menangis atau memanggil",
+    "explanation": "Kasih dan pengampunan Allah tersedia bagi semua yang mencari-Nya.",
+    "full_verse": "Sebab Engkau, ya Tuhan, baik dan suka mengampuni, berlimpah kasih setia bagi semua orang yang berseru kepada-Mu.",
+    "verse_ref": "Mazmur 86:5"
+  },
+  "q_psalms_038": {
+    "question": "Isi bagian yang kosong: 'Ajarlah kami menghitung hari-hari kami sedemikian, hingga kami beroleh hati yang _____.'",
+    "correct": "bijaksana",
+    "wrong": ["pengertian", "berpengetahuan", "berakal"],
+    "hint": "Ini adalah kualitas menjadi bijak",
+    "explanation": "Menyadari singkatnya hidup membantu kita hidup dengan bijaksana.",
+    "full_verse": "Ajarlah kami menghitung hari-hari kami sedemikian, hingga kami beroleh hati yang bijaksana.",
+    "verse_ref": "Mazmur 90:12"
+  },
+  "q_psalms_039": {
+    "question": "Isi bagian yang kosong: 'Nyanyikanlah nyanyian baru bagi TUHAN, _____lah bagi TUHAN, hai segenap bumi!'",
+    "correct": "menyanyi",
+    "wrong": ["memuji", "bersyukur", "memuliakan"],
+    "hint": "Ini adalah komposisi musik dengan kata-kata",
+    "explanation": "Kita dipanggil untuk terus mempersembahkan pujian yang baru kepada Allah.",
+    "full_verse": "Nyanyikanlah nyanyian baru bagi TUHAN, menyanyilah bagi TUHAN, hai segenap bumi!",
+    "verse_ref": "Mazmur 96:1"
+  },
+  "q_psalms_040": {
+    "question": "Isi bagian yang kosong: 'Sejauh timur dari barat, demikian dijauhkan-Nya dari pada kita _____.'",
+    "correct": "pelanggaran kita",
+    "wrong": ["dosa kita", "kesalahan kita", "kejahatan kita"],
+    "hint": "Ini adalah kata lain untuk dosa atau pelanggaran",
+    "explanation": "Allah sepenuhnya menghapus dosa-dosa kita dari kita.",
+    "full_verse": "Sejauh timur dari barat, demikian dijauhkan-Nya dari pada kita pelanggaran kita.",
+    "verse_ref": "Mazmur 103:12"
+  },
+  "q_psalms_041": {
+    "question": "Isi bagian yang kosong: 'Bersyukurlah kepada TUHAN, sebab Ia baik! Bahwasanya untuk _____ kasih setia-Nya.'",
+    "correct": "selama-lamanya",
+    "wrong": ["selamanya", "kekal", "abadi"],
+    "hint": "Ini berarti untuk sepanjang waktu tanpa akhir",
+    "explanation": "Kasih Allah adalah kekal dan tidak berubah.",
+    "full_verse": "Bersyukurlah kepada TUHAN, sebab Ia baik! Bahwasanya untuk selama-lamanya kasih setia-Nya.",
+    "verse_ref": "Mazmur 107:1"
+  },
+  "q_psalms_042": {
+    "question": "Isi bagian yang kosong: 'Dalam hatiku aku menyimpan janji-Mu, supaya aku jangan _____ terhadap Engkau.'",
+    "correct": "berdosa",
+    "wrong": ["memberontak", "berpaling", "menyimpang"],
+    "hint": "Ini adalah pelanggaran terhadap Allah",
+    "explanation": "Menghafal Kitab Suci membantu kita melawan godaan.",
+    "full_verse": "Dalam hatiku aku menyimpan janji-Mu, supaya aku jangan berdosa terhadap Engkau.",
+    "verse_ref": "Mazmur 119:11"
+  },
+  "q_psalms_043": {
+    "question": "Isi bagian yang kosong: 'Sesungguhnya, anak-anak lelaki adalah milik pusaka dari pada TUHAN, dan buah kandungan adalah suatu _____.'",
+    "correct": "upah",
+    "wrong": ["karunia", "berkat", "harta"],
+    "hint": "Ini adalah sesuatu yang diterima untuk pencapaian",
+    "explanation": "Anak-anak adalah karunia dan berkat yang berharga dari Allah.",
+    "full_verse": "Sesungguhnya, anak-anak lelaki adalah milik pusaka dari pada TUHAN, dan buah kandungan adalah suatu upah.",
+    "verse_ref": "Mazmur 127:3"
+  },
+  "q_psalms_044": {
+    "question": "Isi bagian yang kosong: 'Sungguh, alangkah baiknya dan indahnya, apabila saudara-saudara diam bersama dengan _____!'",
+    "correct": "rukun",
+    "wrong": ["damai", "harmoni", "kasih"],
+    "hint": "Ini berarti kebersamaan atau kesatuan",
+    "explanation": "Kesatuan di antara orang percaya menyenangkan Allah.",
+    "full_verse": "Sungguh, alangkah baiknya dan indahnya, apabila saudara-saudara diam bersama dengan rukun!",
+    "verse_ref": "Mazmur 133:1"
+  },
+  "q_psalms_045": {
+    "question": "Isi bagian yang kosong: 'Selidikilah aku, ya Allah, dan kenallah hatiku, ujilah aku dan kenallah pikiran-pikiranku; lihatlah, apakah jalanku serong, dan tuntunlah aku di jalan yang _____!'",
+    "correct": "kekal",
+    "wrong": ["abadi", "benar", "kudus"],
+    "hint": "Ini berarti yang berlangsung selamanya",
+    "explanation": "Kita mengundang Allah untuk memeriksa kita dan membimbing kita menuju kehidupan kekal.",
+    "full_verse": "Selidikilah aku, ya Allah, dan kenallah hatiku, ujilah aku dan kenallah pikiran-pikiranku; lihatlah, apakah jalanku serong, dan tuntunlah aku di jalan yang kekal!",
+    "verse_ref": "Mazmur 139:23-24"
+  },
+  "q_psalms_046": {
+    "question": "Isi bagian yang kosong: 'Pada waktu pagi perdengarkan kasih setia-Mu kepadaku, sebab kepada-Mulah aku _____. Beritahukanlah kepadaku jalan yang harus kutempuh, sebab kepada-Mulah aku menaruh harapan.'",
+    "correct": "percaya",
+    "wrong": ["berharap", "beriman", "bersandar"],
+    "hint": "Ini adalah keyakinan pada seseorang",
+    "explanation": "Kita mencari bimbingan dan kasih Allah setiap pagi.",
+    "full_verse": "Pada waktu pagi perdengarkan kasih setia-Mu kepadaku, sebab kepada-Mulah aku percaya. Beritahukanlah kepadaku jalan yang harus kutempuh, sebab kepada-Mulah aku menaruh harapan.",
+    "verse_ref": "Mazmur 143:8"
+  },
+  "q_psalms_047": {
+    "question": "Isi bagian yang kosong: 'Ia menyembuhkan orang-orang yang patah hati dan membalut _____.'",
+    "correct": "luka-luka mereka",
+    "wrong": ["hati mereka", "kesakitan mereka", "kesedihan mereka"],
+    "hint": "Ini adalah cedera yang perlu disembuhkan",
+    "explanation": "Allah membawa penyembuhan bagi mereka yang terluka secara emosional.",
+    "full_verse": "Ia menyembuhkan orang-orang yang patah hati dan membalut luka-luka mereka.",
+    "verse_ref": "Mazmur 147:3"
+  },
+  "q_psalms_048": {
+    "question": "Isi bagian yang kosong: 'Ia membaringkan aku di padang yang berumput hijau, Ia membimbing aku ke air yang _____; Ia menyegarkan jiwaku.'",
+    "correct": "tenang",
+    "wrong": ["jernih", "segar", "sejuk"],
+    "hint": "Ini berarti damai atau tidak bergerak",
+    "explanation": "Allah menyediakan istirahat dan pembaruan bagi bagian terdalam diri kita.",
+    "full_verse": "Ia membaringkan aku di padang yang berumput hijau, Ia membimbing aku ke air yang tenang; Ia menyegarkan jiwaku.",
+    "verse_ref": "Mazmur 23:2-3"
+  },
+  "q_psalms_049": {
+    "question": "Isi bagian yang kosong: 'Sebab sesaat saja berlangsung murka-Nya, tetapi seumur hidup kasih setia-Nya. Tangisan mungkin datang pada waktu malam, tetapi pada pagi hari _____ berganti.'",
+    "correct": "kegirangan",
+    "wrong": ["sukacita", "kebahagiaan", "kegembiraan"],
+    "hint": "Ini adalah ketika hari baru dimulai",
+    "explanation": "Kasih Allah jauh melebihi disiplin-Nya, dan sukacita mengikuti kesedihan.",
+    "full_verse": "Sebab sesaat saja berlangsung murka-Nya, tetapi seumur hidup kasih setia-Nya. Tangisan mungkin datang pada waktu malam, tetapi pada pagi hari berganti kegirangan.",
+    "verse_ref": "Mazmur 30:6"
+  },
+  "q_psalms_050": {
+    "question": "Isi bagian yang kosong: 'Sebab TUHAN itu baik; kasih setia-Nya untuk selama-lamanya, dan kesetiaan-Nya tetap turun-_____.'",
+    "correct": "temurun",
+    "wrong": ["menurun", "berlanjut", "berkepanjangan"],
+    "hint": "Ini mengacu pada kelompok-kelompok orang yang berurutan dari waktu ke waktu",
+    "explanation": "Kesetiaan Allah meluas ke setiap generasi.",
+    "full_verse": "Sebab TUHAN itu baik; kasih setia-Nya untuk selama-lamanya, dan kesetiaan-Nya tetap turun-temurun.",
+    "verse_ref": "Mazmur 100:5"
+  }
+}

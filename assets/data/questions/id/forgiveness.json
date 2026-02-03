@@ -1,1 +1,452 @@
-{}
+{
+  "q_forgiveness_001": {
+    "question": "Lengkapi ayat: 'Jika kita mengaku dosa kita, maka Ia adalah setia dan adil, sehingga Ia akan mengampuni segala dosa kita dan _____ kita dari segala kejahatan.'",
+    "correct": "menyucikan",
+    "wrong": ["membersihkan", "membebaskan", "menyelamatkan"],
+    "hint": "Allah melakukan lebih dari sekadar mengampuni",
+    "explanation": "Yohanes meyakinkan orang percaya bahwa pengakuan dosa menghasilkan pengampunan dan penyucian dari dosa.",
+    "full_verse": "Jika kita mengaku dosa kita, maka Ia adalah setia dan adil, sehingga Ia akan mengampuni segala dosa kita dan menyucikan kita dari segala kejahatan.",
+    "verse_ref": "1 Yohanes 1:9"
+  },
+  "q_forgiveness_002": {
+    "question": "Lengkapi ayat: 'Tetapi hendaklah kamu ramah seorang terhadap yang lain, penuh kasih mesra dan saling mengampuni, sebagaimana Allah di dalam Kristus telah _____ kamu.'",
+    "correct": "mengampuni",
+    "wrong": ["mengasihi", "menyelamatkan", "memberkati"],
+    "hint": "Tindakan Allah kepada kita adalah teladan",
+    "explanation": "Paulus memerintahkan orang percaya untuk mengampuni orang lain berdasarkan pengampunan yang mereka terima dari Allah.",
+    "full_verse": "Tetapi hendaklah kamu ramah seorang terhadap yang lain, penuh kasih mesra dan saling mengampuni, sebagaimana Allah di dalam Kristus telah mengampuni kamu.",
+    "verse_ref": "Efesus 4:32"
+  },
+  "q_forgiveness_003": {
+    "question": "Lengkapi ayat: 'Sabarlah kamu seorang terhadap yang lain, dan ampunilah seorang akan yang lain apabila yang seorang menaruh dendam terhadap yang lain, sama seperti _____ telah mengampuni kamu.'",
+    "correct": "Tuhan",
+    "wrong": ["Bapa", "Kristus", "Allah"],
+    "hint": "Pengampunan kita harus mencerminkan pengampunan-Nya",
+    "explanation": "Paulus memanggil orang percaya untuk memberikan pengampunan yang sama seperti yang mereka terima dari Tuhan.",
+    "full_verse": "Sabarlah kamu seorang terhadap yang lain, dan ampunilah seorang akan yang lain apabila yang seorang menaruh dendam terhadap yang lain, sama seperti Tuhan telah mengampuni kamu, kamu perbuat jugalah demikian.",
+    "verse_ref": "Kolose 3:13"
+  },
+  "q_forgiveness_004": {
+    "question": "Lengkapi ayat: 'Karena jikalau kamu mengampuni kesalahan orang, _____ yang di sorga akan mengampuni kamu juga.'",
+    "correct": "Bapamu",
+    "wrong": ["Tuhanmu", "Allahmu", "Rajamu"],
+    "hint": "Yesus berbicara tentang Allah dalam istilah kekeluargaan",
+    "explanation": "Yesus mengajarkan bahwa kesediaan kita untuk mengampuni orang lain terhubung dengan menerima pengampunan Allah.",
+    "full_verse": "Karena jikalau kamu mengampuni kesalahan orang, Bapamu yang di sorga akan mengampuni kamu juga.",
+    "verse_ref": "Matius 6:14"
+  },
+  "q_forgiveness_005": {
+    "question": "Lengkapi ayat: 'Dan apabila kamu berdiri untuk berdoa, ampunilah dahulu sekiranya ada barang sesuatu dalam hatimu terhadap seseorang, supaya juga _____ yang di sorga mengampuni kesalahanmu.'",
+    "correct": "Bapamu",
+    "wrong": ["Tuhanmu", "Allahmu", "Rajamu"],
+    "hint": "Apa yang harus kita lakukan sebelum berdoa",
+    "explanation": "Yesus mengajarkan bahwa pengampunan terhadap orang lain harus mendahului doa kita.",
+    "full_verse": "Dan apabila kamu berdiri untuk berdoa, ampunilah dahulu sekiranya ada barang sesuatu dalam hatimu terhadap seseorang, supaya juga Bapamu yang di sorga mengampuni kesalahanmu.",
+    "verse_ref": "Markus 11:25"
+  },
+  "q_forgiveness_006": {
+    "question": "Lengkapi ayat: 'Karena itu sadarlah dan bertobatlah, supaya dosamu dihapuskan, agar datang masa-masa _____ dari hadirat Tuhan.'",
+    "correct": "kesegaran",
+    "wrong": ["berkat", "kesembuhan", "damai"],
+    "hint": "Pengampunan membawa pembaruan rohani",
+    "explanation": "Petrus menyerukan pertobatan yang membawa pengampunan dan kesegaran rohani.",
+    "full_verse": "Karena itu sadarlah dan bertobatlah, supaya dosamu dihapuskan, agar datang masa-masa kesegaran dari hadirat Tuhan.",
+    "verse_ref": "Kisah Para Rasul 3:19"
+  },
+  "q_forgiveness_007": {
+    "question": "Lengkapi ayat: 'Sejauh timur dari barat, demikian dijauhkan-Nya dari kita _____ kita.'",
+    "correct": "pelanggaran",
+    "wrong": ["dosa", "kesalahan", "malu"],
+    "hint": "Allah memisahkan ini dari kita sepenuhnya",
+    "explanation": "Daud secara puitis menggambarkan betapa sempurnanya Allah menjauhkan dosa-dosa kita dari kita.",
+    "full_verse": "Sejauh timur dari barat, demikian dijauhkan-Nya dari kita pelanggaran kita.",
+    "verse_ref": "Mazmur 103:12"
+  },
+  "q_forgiveness_008": {
+    "question": "Lengkapi ayat: 'Sekalipun dosamu merah seperti kirmizi, akan menjadi putih seperti _____.'",
+    "correct": "salju",
+    "wrong": ["bulu domba", "awan", "cahaya"],
+    "hint": "Simbol kemurnian dan kebersihan",
+    "explanation": "Allah menjanjikan pembersihan yang sempurna, mengubah dosa merah kirmizi menjadi putih murni.",
+    "full_verse": "Marilah, baiklah kita beperkara! firman TUHAN. Sekalipun dosamu merah seperti kirmizi, akan menjadi putih seperti salju; sekalipun berwarna merah seperti kain kesumba, akan menjadi putih seperti bulu domba.",
+    "verse_ref": "Yesaya 1:18"
+  },
+  "q_forgiveness_009": {
+    "question": "Lengkapi ayat: 'Siapakah Allah seperti Engkau yang mengampuni dosa, dan yang memaafkan pelanggaran dari _____ milik-Nya yang tertinggal?'",
+    "correct": "sisa-sisa",
+    "wrong": ["umat", "anak-anak", "pilihan"],
+    "hint": "Bagian yang setia dari umat Allah",
+    "explanation": "Mikha merayakan kesediaan Allah yang unik untuk mengampuni dosa umat-Nya.",
+    "full_verse": "Siapakah Allah seperti Engkau yang mengampuni dosa, dan yang memaafkan pelanggaran dari sisa-sisa milik-Nya yang tertinggal? Ia tidak mempertahankan murka-Nya untuk selama-lamanya, melainkan Ia berkenan kepada kasih setia.",
+    "verse_ref": "Mikha 7:18"
+  },
+  "q_forgiveness_010": {
+    "question": "Lengkapi ayat: 'Janganlah kamu menghakimi, maka kamupun tidak akan dihakimi. Dan janganlah kamu menghukum, maka kamupun tidak akan dihukum; ampunilah dan kamu akan _____.'",
+    "correct": "diampuni",
+    "wrong": ["diberkati", "diselamatkan", "dikasihi"],
+    "hint": "Apa yang kita berikan, kita terima",
+    "explanation": "Yesus mengajarkan sifat timbal balik dari pengampunan.",
+    "full_verse": "Janganlah kamu menghakimi, maka kamupun tidak akan dihakimi. Dan janganlah kamu menghukum, maka kamupun tidak akan dihukum; ampunilah dan kamu akan diampuni.",
+    "verse_ref": "Lukas 6:37"
+  },
+  "q_forgiveness_011": {
+    "question": "Lengkapi ayat: 'Kemudian datanglah Petrus dan berkata kepada Yesus: \"Tuhan, sampai berapa kali aku harus mengampuni saudaraku jika ia berbuat dosa terhadap aku? Sampai tujuh kali?\" Yesus berkata kepadanya: \"Bukan! Aku berkata kepadamu: Bukan sampai tujuh kali, melainkan sampai tujuh puluh kali tujuh _____.\"'",
+    "correct": "kali",
+    "wrong": ["lipat", "lagi", "lebih"],
+    "hint": "Yesus mengalikan jumlahnya",
+    "explanation": "Yesus mengajarkan bahwa pengampunan harus tidak terbatas, tidak dihitung.",
+    "full_verse": "Kemudian datanglah Petrus dan berkata kepada Yesus: 'Tuhan, sampai berapa kali aku harus mengampuni saudaraku jika ia berbuat dosa terhadap aku? Sampai tujuh kali?' Yesus berkata kepadanya: 'Bukan! Aku berkata kepadamu: Bukan sampai tujuh kali, melainkan sampai tujuh puluh kali tujuh kali.'",
+    "verse_ref": "Matius 18:21-22"
+  },
+  "q_forgiveness_012": {
+    "question": "Lengkapi ayat: 'Jagalah dirimu! Jikalau saudaramu berbuat dosa, tegorlah dia, dan jikalau ia _____, ampunilah dia.'",
+    "correct": "menyesal",
+    "wrong": ["meminta", "kembali", "berubah"],
+    "hint": "Berbalik dari dosa",
+    "explanation": "Yesus mengajarkan bahwa pertobatan harus dibalas dengan pengampunan.",
+    "full_verse": "Jagalah dirimu! Jikalau saudaramu berbuat dosa, tegorlah dia, dan jikalau ia menyesal, ampunilah dia. Bahkan jikalau ia berbuat dosa terhadap engkau tujuh kali sehari dan tujuh kali ia datang kepadamu dan berkata: Aku menyesal, ampunilah dia.",
+    "verse_ref": "Lukas 17:3-4"
+  },
+  "q_forgiveness_013": {
+    "question": "Lengkapi ayat: 'Yesus berkata: \"Ya Bapa, ampunilah mereka, sebab mereka tidak tahu apa yang mereka _____.\"'",
+    "correct": "perbuat",
+    "wrong": ["katakan", "pikirkan", "sebabkan"],
+    "hint": "Yesus berdoa ini di kayu salib",
+    "explanation": "Bahkan saat disalibkan, Yesus memohon kepada Bapa untuk mengampuni mereka yang menyalibkan-Nya.",
+    "full_verse": "Yesus berkata: 'Ya Bapa, ampunilah mereka, sebab mereka tidak tahu apa yang mereka perbuat.' Dan mereka membagi-bagi pakaian-Nya dengan membuang undi.",
+    "verse_ref": "Lukas 23:34"
+  },
+  "q_forgiveness_014": {
+    "question": "Lengkapi ayat: 'Jawab Petrus kepada mereka: \"Bertobatlah dan hendaklah kamu masing-masing memberi dirimu dibaptis dalam nama Yesus Kristus untuk pengampunan dosamu, maka kamu akan menerima karunia Roh _____.\"'",
+    "correct": "Kudus",
+    "wrong": ["Suci", "Kebenaran", "Hidup"],
+    "hint": "Karunia yang dijanjikan setelah pengampunan",
+    "explanation": "Petrus menghubungkan pertobatan dan baptisan dengan pengampunan dan menerima Roh Kudus.",
+    "full_verse": "Jawab Petrus kepada mereka: 'Bertobatlah dan hendaklah kamu masing-masing memberi dirimu dibaptis dalam nama Yesus Kristus untuk pengampunan dosamu, maka kamu akan menerima karunia Roh Kudus.'",
+    "verse_ref": "Kisah Para Rasul 2:38"
+  },
+  "q_forgiveness_015": {
+    "question": "Lengkapi ayat: 'Tentang Dialah semua nabi bersaksi, bahwa barangsiapa percaya kepada-Nya, ia akan mendapat pengampunan dosa oleh karena _____-Nya.'",
+    "correct": "nama",
+    "wrong": ["darah", "kematian", "kasih karunia"],
+    "hint": "Pengampunan datang melalui ini",
+    "explanation": "Petrus menyatakan bahwa pengampunan datang melalui percaya pada nama Yesus.",
+    "full_verse": "Tentang Dialah semua nabi bersaksi, bahwa barangsiapa percaya kepada-Nya, ia akan mendapat pengampunan dosa oleh karena nama-Nya.",
+    "verse_ref": "Kisah Para Rasul 10:43"
+  },
+  "q_forgiveness_016": {
+    "question": "Lengkapi ayat: 'Jadi ketahuilah, hai saudara-saudara, oleh karena Dialah maka _____ kepadamu pengampunan dosa.'",
+    "correct": "diberitakan",
+    "wrong": ["diberikan", "ditawarkan", "dijanjikan"],
+    "hint": "Berita sedang diumumkan",
+    "explanation": "Paulus menyatakan kabar baik pengampunan yang tersedia melalui Yesus.",
+    "full_verse": "Jadi ketahuilah, hai saudara-saudara, oleh karena Dialah maka diberitakan kepadamu pengampunan dosa.",
+    "verse_ref": "Kisah Para Rasul 13:38"
+  },
+  "q_forgiveness_017": {
+    "question": "Lengkapi ayat: 'Berbahagialah orang yang diampuni pelanggarannya, yang dosanya _____.'",
+    "correct": "ditutupi",
+    "wrong": ["dibuang", "disucikan", "dilupakan"],
+    "hint": "Dosa-dosa disembunyikan dari pandangan",
+    "explanation": "Paulus mengutip Daud untuk menggambarkan kebahagiaan mereka yang dosanya diampuni.",
+    "full_verse": "Berbahagialah orang yang diampuni pelanggarannya, yang dosanya ditutupi.",
+    "verse_ref": "Roma 4:7"
+  },
+  "q_forgiveness_018": {
+    "question": "Lengkapi ayat: 'Sebab Allah mendamaikan dunia dengan diri-Nya oleh Kristus dengan tidak memperhitungkan pelanggaran mereka. Ia telah mempercayakan berita _____ itu kepada kami.'",
+    "correct": "pendamaian",
+    "wrong": ["pengampunan", "keselamatan", "damai"],
+    "hint": "Berita tentang dipersatukan kembali",
+    "explanation": "Paulus menjelaskan bahwa Allah mengampuni dosa dan memberikan kepada orang percaya berita pendamaian.",
+    "full_verse": "Sebab Allah mendamaikan dunia dengan diri-Nya oleh Kristus dengan tidak memperhitungkan pelanggaran mereka. Ia telah mempercayakan berita pendamaian itu kepada kami.",
+    "verse_ref": "2 Korintus 5:19"
+  },
+  "q_forgiveness_019": {
+    "question": "Lengkapi ayat: 'Sebab Aku akan menaruh belas kasihan terhadap kesalahan mereka dan tidak lagi _____ dosa mereka.'",
+    "correct": "mengingat",
+    "wrong": ["menghitung", "menyimpan", "mencatat"],
+    "hint": "Allah tidak akan mengingatnya",
+    "explanation": "Allah menjanjikan pengampunan yang sempurna, memilih untuk tidak mengingat dosa-dosa yang diampuni.",
+    "full_verse": "Sebab Aku akan menaruh belas kasihan terhadap kesalahan mereka dan tidak lagi mengingat dosa mereka.",
+    "verse_ref": "Ibrani 8:12"
+  },
+  "q_forgiveness_020": {
+    "question": "Lengkapi ayat: 'Dan: \"Aku tidak lagi _____ akan dosa dan pelanggaran mereka.\"'",
+    "correct": "mengingat",
+    "wrong": ["menghitung", "menyimpan", "mencatat"],
+    "hint": "Allah memilih untuk melupakan",
+    "explanation": "Penulis Ibrani menekankan janji Allah untuk tidak mengingat dosa-dosa yang diampuni.",
+    "full_verse": "Dan: 'Aku tidak lagi mengingat akan dosa dan pelanggaran mereka.'",
+    "verse_ref": "Ibrani 10:17"
+  },
+  "q_forgiveness_021": {
+    "question": "Lengkapi ayat: 'Dan doa yang lahir dari iman akan menyelamatkan orang sakit itu dan Tuhan akan membangunkan dia; dan jika ia telah berbuat dosa, maka dosanya itu akan _____.'",
+    "correct": "diampuni",
+    "wrong": ["disembuhkan", "dipulihkan", "diselamatkan"],
+    "hint": "Dosa ditangani bersama dengan penyakit",
+    "explanation": "Yakobus menghubungkan doa yang penuh iman dengan kesembuhan dan pengampunan.",
+    "full_verse": "Dan doa yang lahir dari iman akan menyelamatkan orang sakit itu dan Tuhan akan membangunkan dia; dan jika ia telah berbuat dosa, maka dosanya itu akan diampuni.",
+    "verse_ref": "Yakobus 5:15"
+  },
+  "q_forgiveness_022": {
+    "question": "Lengkapi ayat: 'Berbahagialah orang yang diampuni pelanggarannya, yang dosanya _____!'",
+    "correct": "ditutupi",
+    "wrong": ["dibuang", "disucikan", "dilupakan"],
+    "hint": "Dosa-dosa disembunyikan dari penglihatan",
+    "explanation": "Daud merayakan kebahagiaan menerima pengampunan dari Allah.",
+    "full_verse": "Berbahagialah orang yang diampuni pelanggarannya, yang dosanya ditutupi!",
+    "verse_ref": "Mazmur 32:1"
+  },
+  "q_forgiveness_023": {
+    "question": "Lengkapi ayat: 'Lalu aku mengaku dosaku kepada-Mu dan tidak menyembunyikan kesalahanku; aku berkata: \"Aku akan mengaku kepada TUHAN pelanggaran-pelanggaranku,\" dan Engkau mengampuni _____ dosaku.'",
+    "correct": "kesalahan",
+    "wrong": ["beban", "noda", "berat"],
+    "hint": "Tanggung jawab moral atas dosa",
+    "explanation": "Daud bersaksi bahwa pengakuan dosa membawa pengampunan kesalahan.",
+    "full_verse": "Lalu aku mengaku dosaku kepada-Mu dan tidak menyembunyikan kesalahanku; aku berkata: 'Aku akan mengaku kepada TUHAN pelanggaran-pelanggaranku,' dan Engkau mengampuni kesalahan dosaku.",
+    "verse_ref": "Mazmur 32:5"
+  },
+  "q_forgiveness_024": {
+    "question": "Lengkapi ayat: 'Kasihanilah aku, ya Allah, menurut kasih setia-Mu, hapuskanlah pelanggaranku menurut rahmat-Mu yang _____!'",
+    "correct": "besar",
+    "wrong": ["penuh", "melimpah", "agung"],
+    "hint": "Perasaan lembut Allah terhadap kita",
+    "explanation": "Daud memohon kepada belas kasihan Allah untuk pengampunan dosa-dosanya.",
+    "full_verse": "Kasihanilah aku, ya Allah, menurut kasih setia-Mu, hapuskanlah pelanggaranku menurut rahmat-Mu yang besar!",
+    "verse_ref": "Mazmur 51:3"
+  },
+  "q_forgiveness_025": {
+    "question": "Lengkapi ayat: 'Sebab Engkau, ya Tuhan, baik dan suka mengampuni; berlimpah kasih setia-Mu bagi semua orang yang _____kepada-Mu.'",
+    "correct": "berseru",
+    "wrong": ["datang", "percaya", "berdoa"],
+    "hint": "Allah kaya dalam kualitas ini",
+    "explanation": "Daud memuji kesiapan Allah untuk mengampuni dan kasih setia-Nya yang berlimpah.",
+    "full_verse": "Sebab Engkau, ya Tuhan, baik dan suka mengampuni; berlimpah kasih setia-Mu bagi semua orang yang berseru kepada-Mu.",
+    "verse_ref": "Mazmur 86:5"
+  },
+  "q_forgiveness_026": {
+    "question": "Lengkapi ayat: 'Dia yang mengampuni segala kesalahanmu, yang menyembuhkan segala _____.'",
+    "correct": "penyakitmu",
+    "wrong": ["lukamu", "sakitmu", "deritamu"],
+    "hint": "Penyakit fisik",
+    "explanation": "Daud memuji Allah karena mengampuni dosa dan menyembuhkan penyakit fisik.",
+    "full_verse": "Dia yang mengampuni segala kesalahanmu, yang menyembuhkan segala penyakitmu.",
+    "verse_ref": "Mazmur 103:3"
+  },
+  "q_forgiveness_027": {
+    "question": "Lengkapi ayat: 'Tetapi pada-Mu ada pengampunan, supaya Engkau _____.'",
+    "correct": "ditakuti",
+    "wrong": ["dikasihi", "dilayani", "dipuji"],
+    "hint": "Rasa hormat yang kudus kepada Allah",
+    "explanation": "Pemazmur mengakui bahwa pengampunan Allah membawa penghormatan yang penuh takut.",
+    "full_verse": "Tetapi pada-Mu ada pengampunan, supaya Engkau ditakuti orang.",
+    "verse_ref": "Mazmur 130:4"
+  },
+  "q_forgiveness_028": {
+    "question": "Lengkapi ayat: 'Siapa menutupi pelanggaran, berusaha memelihara kasih, tetapi siapa membangkit-bangkit perkara, menceraikan _____.'",
+    "correct": "sahabat karib",
+    "wrong": ["hati", "ikatan", "orang"],
+    "hint": "Hubungan terpengaruh",
+    "explanation": "Salomo mengajarkan bahwa kasih menutupi pelanggaran daripada menyebarkannya.",
+    "full_verse": "Siapa menutupi pelanggaran, berusaha memelihara kasih, tetapi siapa membangkit-bangkit perkara, menceraikan sahabat karib.",
+    "verse_ref": "Amsal 17:9"
+  },
+  "q_forgiveness_029": {
+    "question": "Lengkapi ayat: 'Aku, Akulah Dia yang menghapus pelanggaranmu oleh karena Aku sendiri, dan Aku tidak _____ dosamu lagi.'",
+    "correct": "mengingat-ingat",
+    "wrong": ["menghitung", "menyimpan", "mencatat"],
+    "hint": "Allah memilih untuk melupakan",
+    "explanation": "Allah menyatakan bahwa Dia mengampuni demi diri-Nya sendiri dan melupakan dosa-dosa kita.",
+    "full_verse": "Aku, Akulah Dia yang menghapus pelanggaranmu oleh karena Aku sendiri, dan Aku tidak mengingat-ingat dosamu lagi.",
+    "verse_ref": "Yesaya 43:25"
+  },
+  "q_forgiveness_030": {
+    "question": "Lengkapi ayat: 'Baiklah orang fasik meninggalkan jalannya, dan orang jahat meninggalkan rancangannya; baiklah ia kembali kepada TUHAN, maka Dia akan _____ kepadanya.'",
+    "correct": "mengasihani",
+    "wrong": ["berbelas kasihan", "berbelas kasih", "mengampuni"],
+    "hint": "Respons Allah terhadap pertobatan",
+    "explanation": "Yesaya menyerukan pertobatan dengan janji belas kasihan dan pengampunan Allah.",
+    "full_verse": "Baiklah orang fasik meninggalkan jalannya, dan orang jahat meninggalkan rancangannya; baiklah ia kembali kepada TUHAN, maka Dia akan mengasihani dia, dan kepada Allah kita, sebab Ia memberi pengampunan dengan limpahnya.",
+    "verse_ref": "Yesaya 55:7"
+  },
+  "q_forgiveness_031": {
+    "question": "Lengkapi ayat: 'Tidak perlu lagi orang mengajar sesamanya atau mengajar saudaranya dengan mengatakan: Kenallah TUHAN! Sebab mereka semua, besar kecil, akan mengenal Aku, demikianlah firman TUHAN, sebab Aku akan mengampuni kesalahan mereka dan tidak lagi _____ dosa mereka.'",
+    "correct": "mengingat",
+    "wrong": ["menghitung", "menyimpan", "mencatat"],
+    "hint": "Allah tidak akan mengingatnya",
+    "explanation": "Allah menjanjikan perjanjian baru dengan pengampunan yang sempurna dan pengenalan pribadi akan Dia.",
+    "full_verse": "Tidak perlu lagi orang mengajar sesamanya atau mengajar saudaranya dengan mengatakan: Kenallah TUHAN! Sebab mereka semua, besar kecil, akan mengenal Aku, demikianlah firman TUHAN, sebab Aku akan mengampuni kesalahan mereka dan tidak lagi mengingat dosa mereka.",
+    "verse_ref": "Yeremia 31:34"
+  },
+  "q_forgiveness_032": {
+    "question": "Lengkapi ayat: 'Pada Tuhan, Allah kita, ada kesayangan dan pengampunan, kendatipun kami telah _____ kepada-Nya.'",
+    "correct": "memberontak",
+    "wrong": ["berdosa", "berpaling", "melawan"],
+    "hint": "Perlawanan aktif terhadap Allah",
+    "explanation": "Daniel mengakui pengampunan Allah meskipun pemberontakan Israel.",
+    "full_verse": "Pada Tuhan, Allah kita, ada kesayangan dan pengampunan, kendatipun kami telah memberontak kepada-Nya.",
+    "verse_ref": "Daniel 9:9"
+  },
+  "q_forgiveness_033": {
+    "question": "Lengkapi ayat: 'Tetapi jikalau kamu tidak mengampuni orang, Bapamu juga tidak akan mengampuni _____.'",
+    "correct": "kesalahanmu",
+    "wrong": ["dosamu", "hutangmu", "pelanggaranmu"],
+    "hint": "Apa yang perlu kita ampuni",
+    "explanation": "Yesus memperingatkan bahwa ketidakmampuan mengampuni orang lain menghalangi pengampunan kita sendiri.",
+    "full_verse": "Tetapi jikalau kamu tidak mengampuni orang, Bapamu juga tidak akan mengampuni kesalahanmu.",
+    "verse_ref": "Matius 6:15"
+  },
+  "q_forgiveness_034": {
+    "question": "Lengkapi ayat: 'Ketika Yesus melihat iman mereka, berkatalah Ia kepada orang lumpuh itu: \"Hai anak-Ku, dosamu sudah _____.\"'",
+    "correct": "diampuni",
+    "wrong": ["dibuang", "disucikan", "dihapus"],
+    "hint": "Yesus menyatakan ini tentang dosa orang itu",
+    "explanation": "Yesus menunjukkan kuasa-Nya untuk mengampuni dosa dengan menyembuhkan orang lumpuh.",
+    "full_verse": "Ketika Yesus melihat iman mereka, berkatalah Ia kepada orang lumpuh itu: 'Hai anak-Ku, dosamu sudah diampuni!'",
+    "verse_ref": "Matius 9:2"
+  },
+  "q_forgiveness_035": {
+    "question": "Lengkapi ayat: 'Sebab itu Aku berkata kepadamu: Segala dosa dan hujat manusia akan diampuni, tetapi hujat terhadap _____ tidak akan diampuni.'",
+    "correct": "Roh Kudus",
+    "wrong": ["Bapa", "Anak", "Tuhan"],
+    "hint": "Pribadi ketiga dari Trinitas",
+    "explanation": "Yesus memperingatkan tentang dosa yang tidak terampunkan yaitu menghujat Roh Kudus.",
+    "full_verse": "Sebab itu Aku berkata kepadamu: Segala dosa dan hujat manusia akan diampuni, tetapi hujat terhadap Roh Kudus tidak akan diampuni.",
+    "verse_ref": "Matius 12:31"
+  },
+  "q_forgiveness_036": {
+    "question": "Lengkapi ayat: 'Sebab inilah darah-Ku, darah perjanjian, yang ditumpahkan bagi banyak orang untuk pengampunan _____.'",
+    "correct": "dosa",
+    "wrong": ["semua", "banyak", "kamu"],
+    "hint": "Yesus mencurahkan darah-Nya untuk tujuan ini",
+    "explanation": "Yesus menyatakan pada Perjamuan Terakhir bahwa darah-Nya membawa pengampunan.",
+    "full_verse": "Sebab inilah darah-Ku, darah perjanjian, yang ditumpahkan bagi banyak orang untuk pengampunan dosa.",
+    "verse_ref": "Matius 26:28"
+  },
+  "q_forgiveness_037": {
+    "question": "Lengkapi ayat: 'Ketika Yesus melihat iman mereka, berkatalah Ia kepada orang lumpuh itu: \"Hai anak-Ku, dosamu sudah _____.\"'",
+    "correct": "diampuni",
+    "wrong": ["dibuang", "disucikan", "dihapus"],
+    "hint": "Yesus menyatakan ini lebih dulu sebelum menyembuhkan",
+    "explanation": "Yesus memprioritaskan mengampuni dosa orang itu sebelum menyembuhkan tubuhnya.",
+    "full_verse": "Ketika Yesus melihat iman mereka, berkatalah Ia kepada orang lumpuh itu: 'Hai anak-Ku, dosamu sudah diampuni.'",
+    "verse_ref": "Markus 2:5"
+  },
+  "q_forgiveness_038": {
+    "question": "Lengkapi ayat: 'Ketika Yesus melihat iman mereka, Ia berkata: \"Hai saudara, dosamu sudah _____.\"'",
+    "correct": "diampuni",
+    "wrong": ["dibuang", "disucikan", "dihapus"],
+    "hint": "Yesus menangani kebutuhan rohani orang itu",
+    "explanation": "Lukas mencatat Yesus mengampuni dosa orang lumpuh, menunjukkan otoritas ilahi-Nya.",
+    "full_verse": "Ketika Yesus melihat iman mereka, Ia berkata: 'Hai saudara, dosamu sudah diampuni.'",
+    "verse_ref": "Lukas 5:20"
+  },
+  "q_forgiveness_039": {
+    "question": "Lengkapi ayat: 'Sebab itu Aku berkata kepadamu: Dosanya yang banyak itu telah diampuni, sebab ia telah banyak berbuat _____.'",
+    "correct": "kasih",
+    "wrong": ["iman", "air mata", "bakti"],
+    "hint": "Emosinya menunjukkan pengampunan yang diterima",
+    "explanation": "Yesus menjelaskan bahwa kasih besar perempuan itu adalah bukti pengampunannya.",
+    "full_verse": "Sebab itu Aku berkata kepadamu: Dosanya yang banyak itu telah diampuni, sebab ia telah banyak berbuat kasih. Tetapi orang yang sedikit diampuni, sedikit juga ia berbuat kasih.",
+    "verse_ref": "Lukas 7:47"
+  },
+  "q_forgiveness_040": {
+    "question": "Lengkapi ayat: 'Lalu Ia berkata kepada perempuan itu: \"Dosamu telah _____.\"'",
+    "correct": "diampuni",
+    "wrong": ["dibuang", "disucikan", "dihapus"],
+    "hint": "Yesus menyatakan ini kepada perempuan itu",
+    "explanation": "Yesus secara pribadi menyatakan pengampunan kepada perempuan berdosa.",
+    "full_verse": "Lalu Ia berkata kepada perempuan itu: 'Dosamu telah diampuni.'",
+    "verse_ref": "Lukas 7:48"
+  },
+  "q_forgiveness_041": {
+    "question": "Lengkapi ayat: 'Dan ampunilah kami akan dosa kami, sebab kami pun mengampuni setiap orang yang bersalah kepada kami; dan janganlah membawa kami ke dalam _____.'",
+    "correct": "pencobaan",
+    "wrong": ["kejahatan", "dosa", "bahaya"],
+    "hint": "Kita memohon untuk menghindari ini",
+    "explanation": "Yesus mengajarkan murid-murid-Nya untuk berdoa memohon pengampunan dan perlindungan dari pencobaan.",
+    "full_verse": "Dan ampunilah kami akan dosa kami, sebab kami pun mengampuni setiap orang yang bersalah kepada kami; dan janganlah membawa kami ke dalam pencobaan.",
+    "verse_ref": "Lukas 11:4"
+  },
+  "q_forgiveness_042": {
+    "question": "Lengkapi ayat: 'Dialah yang telah ditinggikan oleh Allah sendiri dengan tangan kanan-Nya menjadi Pemimpin dan Juruselamat, supaya Israel dapat bertobat dan memperoleh pengampunan _____.'",
+    "correct": "dosa",
+    "wrong": ["hutang", "kesalahan", "pelanggaran"],
+    "hint": "Apa yang Yesus datang untuk mengampuni",
+    "explanation": "Petrus menyatakan bahwa Yesus ditinggikan untuk membawa pertobatan dan pengampunan.",
+    "full_verse": "Dialah yang telah ditinggikan oleh Allah sendiri dengan tangan kanan-Nya menjadi Pemimpin dan Juruselamat, supaya Israel dapat bertobat dan memperoleh pengampunan dosa.",
+    "verse_ref": "Kisah Para Rasul 5:31"
+  },
+  "q_forgiveness_043": {
+    "question": "Lengkapi ayat: 'Untuk membuka mata mereka, supaya mereka berbalik dari kegelapan kepada terang dan dari kuasa Iblis kepada Allah, supaya mereka oleh iman mereka kepada-Ku memperoleh pengampunan dosa dan mendapat bagian dalam apa yang ditentukan untuk orang-orang yang telah _____.'",
+    "correct": "dikuduskan",
+    "wrong": ["diselamatkan", "diberkati", "dipilih"],
+    "hint": "Dijadikan kudus",
+    "explanation": "Paulus menggambarkan misinya untuk membawa orang dari kegelapan kepada terang dan pengampunan.",
+    "full_verse": "Untuk membuka mata mereka, supaya mereka berbalik dari kegelapan kepada terang dan dari kuasa Iblis kepada Allah, supaya mereka oleh iman mereka kepada-Ku memperoleh pengampunan dosa dan mendapat bagian dalam apa yang ditentukan untuk orang-orang yang telah dikuduskan.",
+    "verse_ref": "Kisah Para Rasul 26:18"
+  },
+  "q_forgiveness_044": {
+    "question": "Lengkapi ayat: 'Sebab di dalam Dia kita beroleh penebusan, yaitu pengampunan dosa menurut kekayaan _____ Allah.'",
+    "correct": "kasih karunia",
+    "wrong": ["kasih", "belas kasihan", "kemuliaan"],
+    "hint": "Karunia Allah yang tidak layak kita terima",
+    "explanation": "Paulus menyatakan bahwa pengampunan datang melalui darah Kristus dan kasih karunia Allah yang kaya.",
+    "full_verse": "Sebab di dalam Dia dan oleh darah-Nya kita beroleh penebusan, yaitu pengampunan dosa, menurut kekayaan kasih karunia-Nya.",
+    "verse_ref": "Efesus 1:7"
+  },
+  "q_forgiveness_045": {
+    "question": "Lengkapi ayat: 'Di dalam Dia kita beroleh penebusan, yaitu pengampunan _____.'",
+    "correct": "dosa",
+    "wrong": ["semua", "hutang", "kesalahan"],
+    "hint": "Apa yang kita diampuni",
+    "explanation": "Paulus secara singkat menyatakan bahwa penebusan dalam Kristus berarti pengampunan dosa.",
+    "full_verse": "Di dalam Dia kita beroleh penebusan, yaitu pengampunan dosa.",
+    "verse_ref": "Kolose 1:14"
+  },
+  "q_forgiveness_046": {
+    "question": "Lengkapi ayat: 'Kamu juga, yang dahulu mati karena pelanggaranmu, kini dihidupkan Allah bersama-sama dengan Dia, sesudah Ia mengampuni segala pelanggaran _____.'",
+    "correct": "kita",
+    "wrong": ["kalian", "mereka", "semua"],
+    "hint": "Semua yang kita lakukan salah",
+    "explanation": "Paulus menjelaskan bahwa Allah menghidupkan kita dengan mengampuni semua dosa kita melalui Kristus.",
+    "full_verse": "Kamu juga, yang dahulu mati karena pelanggaranmu dan karena tidak disunat secara lahiriah, kamu telah dihidupkan Allah bersama-sama dengan Dia, sesudah Ia mengampuni segala pelanggaran kita.",
+    "verse_ref": "Kolose 2:13"
+  },
+  "q_forgiveness_047": {
+    "question": "Lengkapi ayat: 'Anak-anakku, hal-hal ini kutuliskan kepada kamu, supaya kamu jangan berbuat dosa, namun jika seorang berbuat dosa, kita mempunyai seorang pengantara pada Bapa, yaitu Yesus Kristus, yang _____.'",
+    "correct": "adil",
+    "wrong": ["kudus", "setia", "hidup"],
+    "hint": "Karakter moral Yesus",
+    "explanation": "Yohanes meyakinkan orang percaya bahwa Yesus membela kita ketika kita berdosa.",
+    "full_verse": "Anak-anakku, hal-hal ini kutuliskan kepada kamu, supaya kamu jangan berbuat dosa, namun jika seorang berbuat dosa, kita mempunyai seorang pengantara pada Bapa, yaitu Yesus Kristus, yang adil.",
+    "verse_ref": "1 Yohanes 2:1"
+  },
+  "q_forgiveness_048": {
+    "question": "Lengkapi ayat: 'Aku menulis kepada kamu, hai anak-anak, sebab dosamu telah diampuni oleh karena _____-Nya.'",
+    "correct": "nama",
+    "wrong": ["darah", "kematian", "kasih"],
+    "hint": "Pengampunan datang melalui ini",
+    "explanation": "Yohanes mengingatkan orang percaya bahwa dosa-dosa mereka diampuni melalui nama Yesus.",
+    "full_verse": "Aku menulis kepada kamu, hai anak-anak, sebab dosamu telah diampuni oleh karena nama-Nya.",
+    "verse_ref": "1 Yohanes 2:12"
+  },
+  "q_forgiveness_049": {
+    "question": "Lengkapi ayat: 'Dan apabila umat-Ku, yang atasnya nama-Ku disebut, merendahkan diri, berdoa dan mencari wajah-Ku, lalu berbalik dari jalan-jalannya yang jahat, maka Aku akan mendengar dari sorga dan mengampuni dosa mereka, serta memulihkan _____ mereka.'",
+    "correct": "negeri",
+    "wrong": ["hati", "bangsa", "umat"],
+    "hint": "Allah berjanji memulihkan wilayah mereka",
+    "explanation": "Allah menjanjikan pengampunan dan pemulihan kepada umat-Nya yang merendahkan diri dan bertobat.",
+    "full_verse": "Dan apabila umat-Ku, yang atasnya nama-Ku disebut, merendahkan diri, berdoa dan mencari wajah-Ku, lalu berbalik dari jalan-jalannya yang jahat, maka Aku akan mendengar dari sorga dan mengampuni dosa mereka, serta memulihkan negeri mereka.",
+    "verse_ref": "2 Tawarikh 7:14"
+  },
+  "q_forgiveness_050": {
+    "question": "Lengkapi ayat: 'TUHAN itu panjang sabar dan berlimpah kasih-Nya, Ia mengampuni kesalahan dan pelanggaran, tetapi sekali-kali tidak membebaskan dari hukuman, yang membalaskan kesalahan bapa kepada anak-anaknya, sampai keturunan yang ketiga dan _____.'",
+    "correct": "keempat",
+    "wrong": ["kelima", "kesepuluh", "keseribu"],
+    "hint": "Efek dosa berlanjut melalui garis keluarga",
+    "explanation": "Musa menyatakan karakter Allah yang panjang sabar dan mengampuni, namun adil.",
+    "full_verse": "TUHAN itu panjang sabar dan berlimpah kasih-Nya, Ia mengampuni kesalahan dan pelanggaran, tetapi sekali-kali tidak membebaskan dari hukuman, yang membalaskan kesalahan bapa kepada anak-anaknya, sampai keturunan yang ketiga dan keempat.",
+    "verse_ref": "Bilangan 14:18"
+  }
+}

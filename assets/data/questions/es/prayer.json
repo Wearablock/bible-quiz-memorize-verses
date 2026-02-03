@@ -1,1 +1,452 @@
-{}
+{
+  "q_prayer_001": {
+    "question": "Completa el espacio en blanco: 'Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de _____ en toda oración y ruego, con acción de gracias.'",
+    "correct": "Dios",
+    "wrong": ["cielo", "el Señor", "Jesús"],
+    "hint": "Presentamos nuestras peticiones a Él",
+    "explanation": "Pablo instruye a los creyentes a reemplazar la ansiedad con oración y acción de gracias a Dios.",
+    "full_verse": "Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios en toda oración y ruego, con acción de gracias.",
+    "verse_ref": "Filipenses 4:6"
+  },
+  "q_prayer_002": {
+    "question": "Completa el espacio en blanco: 'Orad sin _____.'",
+    "correct": "cesar",
+    "wrong": ["parar", "terminar", "descansar"],
+    "hint": "Oración continua",
+    "explanation": "Pablo da el mandamiento más corto y profundo sobre la oración—nunca dejes de orar.",
+    "full_verse": "Orad sin cesar.",
+    "verse_ref": "1 Tesalonicenses 5:17"
+  },
+  "q_prayer_003": {
+    "question": "Completa el espacio en blanco: 'Vosotros, pues, oraréis así: Padre nuestro que estás en los cielos, santificado sea tu _____.'",
+    "correct": "nombre",
+    "wrong": ["trono", "reino", "gloria"],
+    "hint": "Lo que debe ser honrado como santo",
+    "explanation": "Jesús comienza el Padre Nuestro enseñándonos a honrar el nombre de Dios como santo.",
+    "full_verse": "Vosotros, pues, oraréis así: Padre nuestro que estás en los cielos, santificado sea tu nombre.",
+    "verse_ref": "Mateo 6:9"
+  },
+  "q_prayer_004": {
+    "question": "Completa el espacio en blanco: 'Confesaos vuestras ofensas unos a otros, y orad unos por otros, para que seáis sanados. La oración eficaz del justo puede _____.'",
+    "correct": "mucho",
+    "wrong": ["todo", "sanar", "salvar"],
+    "hint": "Produce grandes resultados",
+    "explanation": "Santiago enseña que la oración de una persona justa es poderosa y eficaz.",
+    "full_verse": "Confesaos vuestras ofensas unos a otros, y orad unos por otros, para que seáis sanados. La oración eficaz del justo puede mucho.",
+    "verse_ref": "Santiago 5:16"
+  },
+  "q_prayer_005": {
+    "question": "Completa el espacio en blanco: 'Pedid, y se os dará; buscad, y hallaréis; llamad, y se os _____.'",
+    "correct": "abrirá",
+    "wrong": ["mostrará", "revelará", "dará"],
+    "hint": "Lo que sucede con una puerta",
+    "explanation": "Jesús anima a la oración persistente con la promesa de que Dios responderá.",
+    "full_verse": "Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá.",
+    "verse_ref": "Mateo 7:7"
+  },
+  "q_prayer_006": {
+    "question": "Completa el espacio en blanco: 'Y todo lo que pidiereis en mi nombre, lo haré, para que el Padre sea glorificado en el _____.'",
+    "correct": "Hijo",
+    "wrong": ["oración", "respuesta", "creyente"],
+    "hint": "Jesús se refiere a Sí mismo",
+    "explanation": "Jesús promete responder las oraciones hechas en Su nombre para la gloria del Padre.",
+    "full_verse": "Y todo lo que pidiereis en mi nombre, lo haré, para que el Padre sea glorificado en el Hijo.",
+    "verse_ref": "Juan 14:13"
+  },
+  "q_prayer_007": {
+    "question": "Completa el espacio en blanco: 'Y esta es la confianza que tenemos en él, que si pedimos alguna cosa conforme a su voluntad, él nos _____.'",
+    "correct": "oye",
+    "wrong": ["responde", "ayuda", "bendice"],
+    "hint": "Dios presta atención a nuestras oraciones",
+    "explanation": "Juan asegura a los creyentes que Dios oye las oraciones alineadas con Su voluntad.",
+    "full_verse": "Y esta es la confianza que tenemos en él, que si pedimos alguna cosa conforme a su voluntad, él nos oye.",
+    "verse_ref": "1 Juan 5:14"
+  },
+  "q_prayer_008": {
+    "question": "Completa el espacio en blanco: 'Entonces me invocaréis, y vendréis y oraréis a mí, y yo os _____.'",
+    "correct": "oiré",
+    "wrong": ["hablaré", "responderé", "contestaré"],
+    "hint": "Dios presta atención",
+    "explanation": "Dios promete escuchar cuando Su pueblo le invoque en oración.",
+    "full_verse": "Entonces me invocaréis, y vendréis y oraréis a mí, y yo os oiré.",
+    "verse_ref": "Jeremías 29:12"
+  },
+  "q_prayer_009": {
+    "question": "Completa el espacio en blanco: 'Cercano está Jehová a todos los que le invocan, a todos los que le invocan de _____.'",
+    "correct": "veras",
+    "wrong": ["fe", "amor", "esperanza"],
+    "hint": "Oración sincera y genuina",
+    "explanation": "Dios se acerca a aquellos que le invocan sincera y verdaderamente.",
+    "full_verse": "Cercano está Jehová a todos los que le invocan, a todos los que le invocan de veras.",
+    "verse_ref": "Salmos 145:18"
+  },
+  "q_prayer_010": {
+    "question": "Completa el espacio en blanco: 'Y de igual manera el Espíritu nos ayuda en nuestra debilidad; pues qué hemos de pedir como conviene, no lo sabemos, pero el Espíritu mismo intercede por nosotros con gemidos _____.'",
+    "correct": "indecibles",
+    "wrong": ["profundos", "santos", "celestiales"],
+    "hint": "Expresiones profundas más allá de las palabras",
+    "explanation": "Pablo enseña que el Espíritu Santo nos ayuda a orar cuando no sabemos cómo.",
+    "full_verse": "Y de igual manera el Espíritu nos ayuda en nuestra debilidad; pues qué hemos de pedir como conviene, no lo sabemos, pero el Espíritu mismo intercede por nosotros con gemidos indecibles.",
+    "verse_ref": "Romanos 8:26"
+  },
+  "q_prayer_011": {
+    "question": "Completa el espacio en blanco: 'Mas tú, cuando ores, entra en tu aposento, y cerrada la puerta, ora a tu Padre que está en secreto; y tu Padre que ve en lo _____ te recompensará en público.'",
+    "correct": "secreto",
+    "wrong": ["privado", "silencio", "oscuridad"],
+    "hint": "Oculto de la vista pública",
+    "explanation": "Jesús enseña sobre la oración privada que Dios ve y recompensa.",
+    "full_verse": "Mas tú, cuando ores, entra en tu aposento, y cerrada la puerta, ora a tu Padre que está en secreto; y tu Padre que ve en lo secreto te recompensará en público.",
+    "verse_ref": "Mateo 6:6"
+  },
+  "q_prayer_012": {
+    "question": "Completa el espacio en blanco: 'Otra vez os digo, que si dos de vosotros se pusieren de acuerdo en la tierra acerca de cualquiera cosa que pidieren, les será hecho por mi Padre que está en los _____.'",
+    "correct": "cielos",
+    "wrong": ["gloria", "poder", "amor"],
+    "hint": "Donde Dios mora",
+    "explanation": "Jesús promete que la oración unida de acuerdo será respondida por el Padre.",
+    "full_verse": "Otra vez os digo, que si dos de vosotros se pusieren de acuerdo en la tierra acerca de cualquiera cosa que pidieren, les será hecho por mi Padre que está en los cielos.",
+    "verse_ref": "Mateo 18:19"
+  },
+  "q_prayer_013": {
+    "question": "Completa el espacio en blanco: 'Y todo lo que pidiereis en oración, creyendo, lo _____.'",
+    "correct": "recibiréis",
+    "wrong": ["tendréis", "obtendréis", "ganaréis"],
+    "hint": "Lo que obtendremos",
+    "explanation": "Jesús conecta la fe creyente con recibir respuestas a la oración.",
+    "full_verse": "Y todo lo que pidiereis en oración, creyendo, lo recibiréis.",
+    "verse_ref": "Mateo 21:22"
+  },
+  "q_prayer_014": {
+    "question": "Completa el espacio en blanco: 'Por tanto, os digo que todo lo que pidiereis orando, creed que lo recibiréis, y os _____.'",
+    "correct": "vendrá",
+    "wrong": ["dará", "llegará", "será"],
+    "hint": "Será suyo",
+    "explanation": "Jesús enseña que la fe en la oración significa creer que ya hemos recibido.",
+    "full_verse": "Por tanto, os digo que todo lo que pidiereis orando, creed que lo recibiréis, y os vendrá.",
+    "verse_ref": "Marcos 11:24"
+  },
+  "q_prayer_015": {
+    "question": "Completa el espacio en blanco: 'Y yo os digo: Pedid, y se os dará; buscad, y hallaréis; llamad, y se os _____.'",
+    "correct": "abrirá",
+    "wrong": ["mostrará", "revelará", "concederá"],
+    "hint": "Se concede acceso",
+    "explanation": "Jesús anima a pedir, buscar y llamar persistentemente en oración.",
+    "full_verse": "Y yo os digo: Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá.",
+    "verse_ref": "Lucas 11:9"
+  },
+  "q_prayer_016": {
+    "question": "Completa el espacio en blanco: 'También les refirió Jesús una parábola sobre la necesidad de orar siempre, y no _____.'",
+    "correct": "desmayar",
+    "wrong": ["rendirse", "cansarse", "parar"],
+    "hint": "No desistir",
+    "explanation": "Jesús enseña a través de una parábola que debemos persistir en la oración.",
+    "full_verse": "También les refirió Jesús una parábola sobre la necesidad de orar siempre, y no desmayar.",
+    "verse_ref": "Lucas 18:1"
+  },
+  "q_prayer_017": {
+    "question": "Completa el espacio en blanco: 'Si permanecéis en mí, y mis palabras permanecen en vosotros, pedid todo lo que queréis, y os será _____.'",
+    "correct": "hecho",
+    "wrong": ["dado", "concedido", "otorgado"],
+    "hint": "Sucederá",
+    "explanation": "Jesús promete responder la oración de aquellos que permanecen en Él y en Su palabra.",
+    "full_verse": "Si permanecéis en mí, y mis palabras permanecen en vosotros, pedid todo lo que queréis, y os será hecho.",
+    "verse_ref": "Juan 15:7"
+  },
+  "q_prayer_018": {
+    "question": "Completa el espacio en blanco: 'Hasta ahora nada habéis pedido en mi nombre; pedid, y recibiréis, para que vuestro gozo sea _____.'",
+    "correct": "cumplido",
+    "wrong": ["lleno", "perfecto", "grande"],
+    "hint": "El gozo alcanzando su plenitud",
+    "explanation": "Jesús anima a Sus discípulos a orar en Su nombre para gozo completo.",
+    "full_verse": "Hasta ahora nada habéis pedido en mi nombre; pedid, y recibiréis, para que vuestro gozo sea cumplido.",
+    "verse_ref": "Juan 16:24"
+  },
+  "q_prayer_019": {
+    "question": "Completa el espacio en blanco: 'Perseverad en la oración, velando en ella con acción de _____.'",
+    "correct": "gracias",
+    "wrong": ["fe", "esperanza", "amor"],
+    "hint": "Expresando gratitud",
+    "explanation": "Pablo llama a los creyentes a la oración devota, vigilante y agradecida.",
+    "full_verse": "Perseverad en la oración, velando en ella con acción de gracias.",
+    "verse_ref": "Colosenses 4:2"
+  },
+  "q_prayer_020": {
+    "question": "Completa el espacio en blanco: 'Orando en todo tiempo con toda oración y súplica en el Espíritu, y velando en ello con toda perseverancia y súplica por todos los _____.'",
+    "correct": "santos",
+    "wrong": ["creyentes", "hermanos", "cristianos"],
+    "hint": "Los creyentes",
+    "explanation": "Pablo instruye a los creyentes a orar en el Espíritu por todo el pueblo de Dios.",
+    "full_verse": "Orando en todo tiempo con toda oración y súplica en el Espíritu, y velando en ello con toda perseverancia y súplica por todos los santos.",
+    "verse_ref": "Efesios 6:18"
+  },
+  "q_prayer_021": {
+    "question": "Completa el espacio en blanco: 'Quiero, pues, que los hombres oren en todo lugar, levantando manos santas, sin ira ni _____.'",
+    "correct": "contienda",
+    "wrong": ["disputa", "pelea", "duda"],
+    "hint": "Discordia o desacuerdo",
+    "explanation": "Pablo instruye a los hombres a orar con manos santas y corazones pacíficos.",
+    "full_verse": "Quiero, pues, que los hombres oren en todo lugar, levantando manos santas, sin ira ni contienda.",
+    "verse_ref": "1 Timoteo 2:8"
+  },
+  "q_prayer_022": {
+    "question": "Completa el espacio en blanco: 'Acerquémonos, pues, confiadamente al trono de la gracia, para alcanzar misericordia y hallar gracia para el oportuno _____.'",
+    "correct": "socorro",
+    "wrong": ["momento", "tiempo", "auxilio"],
+    "hint": "Cuando requerimos ayuda",
+    "explanation": "Se nos anima a acercarnos audazmente al trono de Dios para obtener ayuda cuando la necesitamos.",
+    "full_verse": "Acerquémonos, pues, confiadamente al trono de la gracia, para alcanzar misericordia y hallar gracia para el oportuno socorro.",
+    "verse_ref": "Hebreos 4:16"
+  },
+  "q_prayer_023": {
+    "question": "Completa el espacio en blanco: 'Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios, el cual da a todos abundantemente y sin reproche, y le será _____.'",
+    "correct": "dada",
+    "wrong": ["concedida", "otorgada", "entregada"],
+    "hint": "Dios no nos critica por pedir",
+    "explanation": "Santiago anima a los creyentes a pedir sabiduría a Dios, quien da generosamente.",
+    "full_verse": "Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios, el cual da a todos abundantemente y sin reproche, y le será dada.",
+    "verse_ref": "Santiago 1:5"
+  },
+  "q_prayer_024": {
+    "question": "Completa el espacio en blanco: 'Codiciáis, y no tenéis; matáis y ardéis de envidia, y no podéis alcanzar; combatís y lucháis, pero no tenéis lo que deseáis, porque no _____.'",
+    "correct": "pedís",
+    "wrong": ["oráis", "creéis", "buscáis"],
+    "hint": "Simplemente solicitando a Dios",
+    "explanation": "Santiago señala que a menudo carecemos porque no pedimos a Dios.",
+    "full_verse": "Codiciáis, y no tenéis; matáis y ardéis de envidia, y no podéis alcanzar; combatís y lucháis, pero no tenéis lo que deseáis, porque no pedís.",
+    "verse_ref": "Santiago 4:2"
+  },
+  "q_prayer_025": {
+    "question": "Completa el espacio en blanco: 'Porque los ojos del Señor están sobre los justos, y sus oídos atentos a sus oraciones; pero el rostro del Señor está contra aquellos que hacen el _____.'",
+    "correct": "mal",
+    "wrong": ["pecado", "daño", "maldad"],
+    "hint": "Lo opuesto al bien",
+    "explanation": "Pedro cita el Salmo 34, mostrando que Dios escucha las oraciones de los justos.",
+    "full_verse": "Porque los ojos del Señor están sobre los justos, y sus oídos atentos a sus oraciones; pero el rostro del Señor está contra aquellos que hacen el mal.",
+    "verse_ref": "1 Pedro 3:12"
+  },
+  "q_prayer_026": {
+    "question": "Completa el espacio en blanco: 'Respóndeme cuando clamo, oh Dios de mi justicia. Cuando estaba en angustia, tú me hiciste ensanchar; ten _____ de mí, y oye mi oración.'",
+    "correct": "misericordia",
+    "wrong": ["piedad", "compasión", "gracia"],
+    "hint": "David pide la bondad de Dios",
+    "explanation": "David clama a Dios por misericordia y alivio en su angustia.",
+    "full_verse": "Respóndeme cuando clamo, oh Dios de mi justicia. Cuando estaba en angustia, tú me hiciste ensanchar; ten misericordia de mí, y oye mi oración.",
+    "verse_ref": "Salmos 4:1"
+  },
+  "q_prayer_027": {
+    "question": "Completa el espacio en blanco: 'Oh Jehová, de mañana oirás mi voz; de mañana me presentaré delante de ti, y _____.'",
+    "correct": "esperaré",
+    "wrong": ["oraré", "adoraré", "descansaré"],
+    "hint": "Con anticipación",
+    "explanation": "David presenta sus oraciones en la mañana y espera con expectación.",
+    "full_verse": "Oh Jehová, de mañana oirás mi voz; de mañana me presentaré delante de ti, y esperaré.",
+    "verse_ref": "Salmos 5:3"
+  },
+  "q_prayer_028": {
+    "question": "Completa el espacio en blanco: 'A ti clamo, oh Dios, porque tú me oirás; inclina a mí tu oído, escucha mi _____.'",
+    "correct": "palabra",
+    "wrong": ["voz", "clamor", "oración"],
+    "hint": "Comunicación con Dios",
+    "explanation": "David expresa confianza en que Dios escuchará y responderá su oración.",
+    "full_verse": "A ti clamo, oh Dios, porque tú me oirás; inclina a mí tu oído, escucha mi palabra.",
+    "verse_ref": "Salmos 17:6"
+  },
+  "q_prayer_029": {
+    "question": "Completa el espacio en blanco: 'Tarde y mañana y a mediodía oraré y clamaré, y él oirá mi _____.'",
+    "correct": "voz",
+    "wrong": ["oración", "clamor", "súplica"],
+    "hint": "Dios presta atención",
+    "explanation": "David testifica que Dios escucha sus oraciones durante todo el día.",
+    "full_verse": "Tarde y mañana y a mediodía oraré y clamaré, y él oirá mi voz.",
+    "verse_ref": "Salmos 55:17"
+  },
+  "q_prayer_030": {
+    "question": "Completa el espacio en blanco: 'Mas ciertamente me escuchó Dios; atendió a la voz de mi _____.'",
+    "correct": "súplica",
+    "wrong": ["oración", "clamor", "petición"],
+    "hint": "Lo que David habló a Dios",
+    "explanation": "El salmista testifica que Dios verdaderamente escuchó su oración.",
+    "full_verse": "Mas ciertamente me escuchó Dios; atendió a la voz de mi súplica.",
+    "verse_ref": "Salmos 66:19"
+  },
+  "q_prayer_031": {
+    "question": "Completa el espacio en blanco: 'Escucha, oh Jehová, mi oración, y está atento a la voz de mis _____.'",
+    "correct": "ruegos",
+    "wrong": ["súplicas", "clamores", "peticiones"],
+    "hint": "Pidiendo la compasión de Dios",
+    "explanation": "David suplica a Dios que escuche su oración y clamor por misericordia.",
+    "full_verse": "Escucha, oh Jehová, mi oración, y está atento a la voz de mis ruegos.",
+    "verse_ref": "Salmos 86:6"
+  },
+  "q_prayer_032": {
+    "question": "Completa el espacio en blanco: 'Habrá satisfecho a la oración de los desamparados, y no habrá desechado la oración de _____.'",
+    "correct": "ellos",
+    "wrong": ["ellas", "estos", "aquellos"],
+    "hint": "Una petición ferviente",
+    "explanation": "El salmista asegura que Dios responde a las oraciones de los necesitados.",
+    "full_verse": "Habrá satisfecho a la oración de los desamparados, y no habrá desechado la oración de ellos.",
+    "verse_ref": "Salmos 102:17"
+  },
+  "q_prayer_033": {
+    "question": "Completa el espacio en blanco: 'Suba mi oración delante de ti como el incienso, el don de mis manos como la ofrenda de la _____.'",
+    "correct": "tarde",
+    "wrong": ["mañana", "noche", "oración"],
+    "hint": "Un ritual del Antiguo Testamento",
+    "explanation": "David compara su oración con el incienso y sus manos levantadas con una ofrenda.",
+    "full_verse": "Suba mi oración delante de ti como el incienso, el don de mis manos como la ofrenda de la tarde.",
+    "verse_ref": "Salmos 141:2"
+  },
+  "q_prayer_034": {
+    "question": "Completa el espacio en blanco: 'Buscad a Jehová mientras puede ser hallado, llamadle en tanto que está _____.'",
+    "correct": "cercano",
+    "wrong": ["aquí", "presente", "disponible"],
+    "hint": "Al alcance",
+    "explanation": "Isaías urge a buscar a Dios e invocarlo mientras está accesible.",
+    "full_verse": "Buscad a Jehová mientras puede ser hallado, llamadle en tanto que está cercano.",
+    "verse_ref": "Isaías 55:6"
+  },
+  "q_prayer_035": {
+    "question": "Completa el espacio en blanco: 'Y antes que clamen, responderé yo; mientras aún hablan, yo habré _____.'",
+    "correct": "oído",
+    "wrong": ["respondido", "contestado", "escuchado"],
+    "hint": "Dios presta atención incluso antes de que terminemos",
+    "explanation": "Dios promete escuchar y responder incluso antes de que Su pueblo termine de orar.",
+    "full_verse": "Y antes que clamen, responderé yo; mientras aún hablan, yo habré oído.",
+    "verse_ref": "Isaías 65:24"
+  },
+  "q_prayer_036": {
+    "question": "Completa el espacio en blanco: 'Clama a mí, y yo te responderé, y te enseñaré cosas grandes y ocultas que tú no _____.'",
+    "correct": "conoces",
+    "wrong": ["ves", "entiendes", "tienes"],
+    "hint": "Información oculta",
+    "explanation": "Dios nos invita a clamar a Él y promete revelar verdades ocultas.",
+    "full_verse": "Clama a mí, y yo te responderé, y te enseñaré cosas grandes y ocultas que tú no conoces.",
+    "verse_ref": "Jeremías 33:3"
+  },
+  "q_prayer_037": {
+    "question": "Completa el espacio en blanco: 'Inclina, oh Dios mío, tu oído, y oye; abre tus ojos, y mira nuestras desolaciones, y la ciudad sobre la cual es invocado tu nombre; porque no elevamos nuestros ruegos ante ti confiados en nuestras justicias, sino en tus muchas _____.'",
+    "correct": "misericordias",
+    "wrong": ["gracias", "bondades", "compasiones"],
+    "hint": "La bondad de Dios",
+    "explanation": "Daniel ora basándose en la misericordia de Dios, no en la justicia humana.",
+    "full_verse": "Inclina, oh Dios mío, tu oído, y oye; abre tus ojos, y mira nuestras desolaciones, y la ciudad sobre la cual es invocado tu nombre; porque no elevamos nuestros ruegos ante ti confiados en nuestras justicias, sino en tus muchas misericordias.",
+    "verse_ref": "Daniel 9:18"
+  },
+  "q_prayer_038": {
+    "question": "Completa el espacio en blanco: 'Y orando, no uséis vanas repeticiones, como los gentiles, que piensan que por su palabrería serán _____.'",
+    "correct": "oídos",
+    "wrong": ["respondidos", "bendecidos", "salvados"],
+    "hint": "Cantidad de palabras",
+    "explanation": "Jesús advierte contra la repetición sin sentido en la oración.",
+    "full_verse": "Y orando, no uséis vanas repeticiones, como los gentiles, que piensan que por su palabrería serán oídos.",
+    "verse_ref": "Mateo 6:7"
+  },
+  "q_prayer_039": {
+    "question": "Completa el espacio en blanco: 'Velad y orad, para que no entréis en tentación; el espíritu a la verdad está dispuesto, pero la carne es _____.'",
+    "correct": "débil",
+    "wrong": ["cansada", "frágil", "pecadora"],
+    "hint": "Falta de fuerza",
+    "explanation": "Jesús advierte a Sus discípulos que oren para evitar caer en tentación.",
+    "full_verse": "Velad y orad, para que no entréis en tentación; el espíritu a la verdad está dispuesto, pero la carne es débil.",
+    "verse_ref": "Mateo 26:41"
+  },
+  "q_prayer_040": {
+    "question": "Completa el espacio en blanco: 'En aquellos días él fue al monte a orar, y pasó la noche orando a _____.'",
+    "correct": "Dios",
+    "wrong": ["cielo", "el Padre", "el Señor"],
+    "hint": "A quien Jesús oraba",
+    "explanation": "Lucas registra que Jesús pasó una noche entera en oración a Dios.",
+    "full_verse": "En aquellos días él fue al monte a orar, y pasó la noche orando a Dios.",
+    "verse_ref": "Lucas 6:12"
+  },
+  "q_prayer_041": {
+    "question": "Completa el espacio en blanco: 'Todos éstos perseveraban unánimes en oración y ruego, con las mujeres, y con María la madre de Jesús, y con sus _____.'",
+    "correct": "hermanos",
+    "wrong": ["discípulos", "seguidores", "amigos"],
+    "hint": "Miembros de la familia de Jesús",
+    "explanation": "Los primeros creyentes, incluyendo la familia de Jesús, se dedicaron a la oración unida.",
+    "full_verse": "Todos éstos perseveraban unánimes en oración y ruego, con las mujeres, y con María la madre de Jesús, y con sus hermanos.",
+    "verse_ref": "Hechos 1:14"
+  },
+  "q_prayer_042": {
+    "question": "Completa el espacio en blanco: 'Y perseveraban en la doctrina de los apóstoles, en la comunión unos con otros, en el partimiento del pan y en las _____.'",
+    "correct": "oraciones",
+    "wrong": ["alabanzas", "adoraciones", "ayunos"],
+    "hint": "Comunicación con Dios",
+    "explanation": "La iglesia primitiva se dedicaba a la enseñanza, comunión, partimiento del pan y oración.",
+    "full_verse": "Y perseveraban en la doctrina de los apóstoles, en la comunión unos con otros, en el partimiento del pan y en las oraciones.",
+    "verse_ref": "Hechos 2:42"
+  },
+  "q_prayer_043": {
+    "question": "Completa el espacio en blanco: 'Gozosos en la esperanza; sufridos en la tribulación; constantes en la _____.'",
+    "correct": "oración",
+    "wrong": ["amor", "fe", "servicio"],
+    "hint": "Comunicación con Dios",
+    "explanation": "Pablo da tres instrucciones para la vida cristiana, incluyendo la oración constante.",
+    "full_verse": "Gozosos en la esperanza; sufridos en la tribulación; constantes en la oración.",
+    "verse_ref": "Romanos 12:12"
+  },
+  "q_prayer_044": {
+    "question": "Completa el espacio en blanco: 'Y a Aquel que es poderoso para hacer todas las cosas mucho más abundantemente de lo que pedimos o entendemos, según el poder que actúa en _____.'",
+    "correct": "nosotros",
+    "wrong": ["vosotros", "ellos", "todos"],
+    "hint": "Dios obra en los creyentes",
+    "explanation": "Pablo alaba a Dios quien puede hacer mucho más de lo que podríamos pedir o imaginar.",
+    "full_verse": "Y a Aquel que es poderoso para hacer todas las cosas mucho más abundantemente de lo que pedimos o entendemos, según el poder que actúa en nosotros.",
+    "verse_ref": "Efesios 3:20"
+  },
+  "q_prayer_045": {
+    "question": "Completa el espacio en blanco: 'Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo _____.'",
+    "correct": "Jesús",
+    "wrong": ["Señor", "Salvador", "Dios"],
+    "hint": "El nombre completo de nuestro Señor",
+    "explanation": "Pablo promete que la paz de Dios guardará a los creyentes que oran con acción de gracias.",
+    "full_verse": "Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús.",
+    "verse_ref": "Filipenses 4:7"
+  },
+  "q_prayer_046": {
+    "question": "Completa el espacio en blanco: 'Exhorto ante todo, a que se hagan rogativas, oraciones, peticiones y acciones de gracias, por todos los _____.'",
+    "correct": "hombres",
+    "wrong": ["pueblos", "creyentes", "santos"],
+    "hint": "Todas las personas",
+    "explanation": "Pablo instruye que las oraciones deben hacerse por todas las personas.",
+    "full_verse": "Exhorto ante todo, a que se hagan rogativas, oraciones, peticiones y acciones de gracias, por todos los hombres.",
+    "verse_ref": "1 Timoteo 2:1"
+  },
+  "q_prayer_047": {
+    "question": "Completa el espacio en blanco: 'Y Cristo, en los días de su carne, ofreciendo ruegos y súplicas con gran clamor y lágrimas al que le podía librar de la muerte, fue oído a causa de su _____.'",
+    "correct": "temor reverente",
+    "wrong": ["fe", "oración", "obediencia"],
+    "hint": "Humilde sumisión a Dios",
+    "explanation": "El escritor describe las intensas oraciones de Jesús durante Su ministerio terrenal.",
+    "full_verse": "Y Cristo, en los días de su carne, ofreciendo ruegos y súplicas con gran clamor y lágrimas al que le podía librar de la muerte, fue oído a causa de su temor reverente.",
+    "verse_ref": "Hebreos 5:7"
+  },
+  "q_prayer_048": {
+    "question": "Completa el espacio en blanco: 'Y la oración de fe salvará al enfermo, y el Señor lo levantará; y si hubiere cometido pecados, le serán _____.'",
+    "correct": "perdonados",
+    "wrong": ["sanados", "restaurados", "salvados"],
+    "hint": "Los pecados son perdonados",
+    "explanation": "Santiago conecta la oración fiel con la sanidad y el perdón.",
+    "full_verse": "Y la oración de fe salvará al enfermo, y el Señor lo levantará; y si hubiere cometido pecados, le serán perdonados.",
+    "verse_ref": "Santiago 5:15"
+  },
+  "q_prayer_049": {
+    "question": "Completa el espacio en blanco: 'Y cualquiera cosa que pidiéremos la recibiremos de él, porque guardamos sus mandamientos, y hacemos las cosas que son _____ delante de él.'",
+    "correct": "agradables",
+    "wrong": ["honrosas", "gloriosas", "justas"],
+    "hint": "Lo que hace feliz a Dios",
+    "explanation": "Juan conecta la oración respondida con la obediencia a los mandamientos de Dios.",
+    "full_verse": "Y cualquiera cosa que pidiéremos la recibiremos de él, porque guardamos sus mandamientos, y hacemos las cosas que son agradables delante de él.",
+    "verse_ref": "1 Juan 3:22"
+  },
+  "q_prayer_050": {
+    "question": "Completa el espacio en blanco: 'Y de la mano del ángel subió a la presencia de Dios el humo del incienso con las oraciones de los _____.'",
+    "correct": "santos",
+    "wrong": ["justos", "creyentes", "fieles"],
+    "hint": "El pueblo de Dios",
+    "explanation": "La visión de Juan muestra las oraciones de los creyentes subiendo ante Dios como incienso.",
+    "full_verse": "Y de la mano del ángel subió a la presencia de Dios el humo del incienso con las oraciones de los santos.",
+    "verse_ref": "Apocalipsis 8:4"
+  }
+}

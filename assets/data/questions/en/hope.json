@@ -1,1 +1,452 @@
-{}
+{
+  "q_hope_001": {
+    "question": "Fill in the blank: 'May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy _____.'",
+    "correct": "Spirit",
+    "wrong": ["Ghost", "One", "God"],
+    "hint": "The third person of the Trinity",
+    "explanation": "Paul prays that believers would be filled with joy, peace, and overflowing hope through the Holy Spirit.",
+    "full_verse": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.",
+    "verse_ref": "Romans 15:13"
+  },
+  "q_hope_002": {
+    "question": "Fill in the blank: 'For I know the plans I have for you, declares the LORD, plans to prosper you and not to harm you, plans to give you hope and a _____.'",
+    "correct": "future",
+    "wrong": ["promise", "blessing", "purpose"],
+    "hint": "What comes after today",
+    "explanation": "God assures His people that His plans include hope and a bright future.",
+    "full_verse": "For I know the plans I have for you, declares the LORD, plans to prosper you and not to harm you, plans to give you hope and a future.",
+    "verse_ref": "Jeremiah 29:11"
+  },
+  "q_hope_003": {
+    "question": "Fill in the blank: 'For in this hope we were saved. But hope that is seen is no hope at all. Who hopes for what they already _____?'",
+    "correct": "have",
+    "wrong": ["see", "know", "own"],
+    "hint": "Possessing something",
+    "explanation": "Paul explains that hope involves waiting for what we don't yet possess.",
+    "full_verse": "For in this hope we were saved. But hope that is seen is no hope at all. Who hopes for what they already have?",
+    "verse_ref": "Romans 8:24"
+  },
+  "q_hope_004": {
+    "question": "Fill in the blank: 'We have this hope as an anchor for the soul, firm and _____.'",
+    "correct": "secure",
+    "wrong": ["strong", "steady", "stable"],
+    "hint": "Safe and protected",
+    "explanation": "The writer of Hebrews describes hope as an anchor that keeps our souls steady.",
+    "full_verse": "We have this hope as an anchor for the soul, firm and secure. It enters the inner sanctuary behind the curtain.",
+    "verse_ref": "Hebrews 6:19"
+  },
+  "q_hope_005": {
+    "question": "Fill in the blank: 'Praise be to the God and Father of our Lord Jesus Christ! In his great mercy he has given us new birth into a living _____ through the resurrection of Jesus Christ from the dead.'",
+    "correct": "hope",
+    "wrong": ["faith", "life", "promise"],
+    "hint": "This hope is alive",
+    "explanation": "Peter praises God for giving believers a living hope through Christ's resurrection.",
+    "full_verse": "Praise be to the God and Father of our Lord Jesus Christ! In his great mercy he has given us new birth into a living hope through the resurrection of Jesus Christ from the dead.",
+    "verse_ref": "1 Peter 1:3"
+  },
+  "q_hope_006": {
+    "question": "Fill in the blank: 'Why, my soul, are you downcast? Why so disturbed within me? Put your hope in God, for I will yet _____ him.'",
+    "correct": "praise",
+    "wrong": ["thank", "worship", "trust"],
+    "hint": "Future worship of God",
+    "explanation": "The psalmist encourages his soul to hope in God despite current discouragement.",
+    "full_verse": "Why, my soul, are you downcast? Why so disturbed within me? Put your hope in God, for I will yet praise him, my Savior and my God.",
+    "verse_ref": "Psalm 42:11"
+  },
+  "q_hope_007": {
+    "question": "Fill in the blank: 'But those who hope in the LORD will renew their strength. They will soar on wings like _____.'",
+    "correct": "eagles",
+    "wrong": ["angels", "birds", "doves"],
+    "hint": "A majestic bird",
+    "explanation": "Isaiah promises that those who hope in God will be supernaturally strengthened.",
+    "full_verse": "But those who hope in the LORD will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.",
+    "verse_ref": "Isaiah 40:31"
+  },
+  "q_hope_008": {
+    "question": "Fill in the blank: 'I say to myself, \"The LORD is my portion; therefore I will _____ in him.\"'",
+    "correct": "wait",
+    "wrong": ["hope", "trust", "believe"],
+    "hint": "Patiently expecting",
+    "explanation": "Jeremiah declares that because God is his inheritance, he will wait hopefully for Him.",
+    "full_verse": "I say to myself, 'The LORD is my portion; therefore I will wait for him.'",
+    "verse_ref": "Lamentations 3:24"
+  },
+  "q_hope_009": {
+    "question": "Fill in the blank: 'Be strong and take heart, all you who hope in the _____.'",
+    "correct": "LORD",
+    "wrong": ["God", "Savior", "King"],
+    "hint": "The covenant name of God",
+    "explanation": "David encourages those who hope in God to be strong and courageous.",
+    "full_verse": "Be strong and take heart, all you who hope in the LORD.",
+    "verse_ref": "Psalm 31:24"
+  },
+  "q_hope_010": {
+    "question": "Fill in the blank: 'And hope does not put us to shame, because God's love has been poured out into our _____ through the Holy Spirit.'",
+    "correct": "hearts",
+    "wrong": ["souls", "lives", "minds"],
+    "hint": "The center of our being",
+    "explanation": "Paul assures that hope in God will never disappoint because of His love in us.",
+    "full_verse": "And hope does not put us to shame, because God's love has been poured out into our hearts through the Holy Spirit, who has been given to us.",
+    "verse_ref": "Romans 5:5"
+  },
+  "q_hope_011": {
+    "question": "Fill in the blank: 'To them God has chosen to make known among the Gentiles the glorious riches of this mystery, which is Christ in you, the hope of _____.'",
+    "correct": "glory",
+    "wrong": ["salvation", "heaven", "life"],
+    "hint": "Future splendor with God",
+    "explanation": "Paul reveals that Christ dwelling in believers is the hope of future glory.",
+    "full_verse": "To them God has chosen to make known among the Gentiles the glorious riches of this mystery, which is Christ in you, the hope of glory.",
+    "verse_ref": "Colossians 1:27"
+  },
+  "q_hope_012": {
+    "question": "Fill in the blank: 'While we wait for the blessed hope—the appearing of the glory of our great God and Savior, Jesus _____.'",
+    "correct": "Christ",
+    "wrong": ["Lord", "King", "Messiah"],
+    "hint": "Jesus' title",
+    "explanation": "Paul describes Christ's return as the blessed hope believers eagerly await.",
+    "full_verse": "While we wait for the blessed hope—the appearing of the glory of our great God and Savior, Jesus Christ.",
+    "verse_ref": "Titus 2:13"
+  },
+  "q_hope_013": {
+    "question": "Fill in the blank: 'Brothers and sisters, we do not want you to be uninformed about those who sleep in death, so that you do not grieve like the rest of mankind, who have no _____.'",
+    "correct": "hope",
+    "wrong": ["faith", "peace", "comfort"],
+    "hint": "Believers have this for the future",
+    "explanation": "Paul comforts believers that they have hope regarding those who have died in Christ.",
+    "full_verse": "Brothers and sisters, we do not want you to be uninformed about those who sleep in death, so that you do not grieve like the rest of mankind, who have no hope.",
+    "verse_ref": "1 Thessalonians 4:13"
+  },
+  "q_hope_014": {
+    "question": "Fill in the blank: 'But now, Lord, what do I look for? My hope is in _____.'",
+    "correct": "you",
+    "wrong": ["God", "thee", "heaven"],
+    "hint": "David addresses God directly",
+    "explanation": "David declares that his hope is placed entirely in God.",
+    "full_verse": "But now, Lord, what do I look for? My hope is in you.",
+    "verse_ref": "Psalm 39:7"
+  },
+  "q_hope_015": {
+    "question": "Fill in the blank: 'Yes, my soul, find rest in God; my hope comes from _____.'",
+    "correct": "him",
+    "wrong": ["God", "above", "heaven"],
+    "hint": "The source of hope",
+    "explanation": "David encourages his soul to rest in God as the source of all hope.",
+    "full_verse": "Yes, my soul, find rest in God; my hope comes from him.",
+    "verse_ref": "Psalm 62:5"
+  },
+  "q_hope_016": {
+    "question": "Fill in the blank: 'For you have been my hope, Sovereign LORD, my confidence since my _____.'",
+    "correct": "youth",
+    "wrong": ["birth", "childhood", "beginning"],
+    "hint": "Early years of life",
+    "explanation": "The psalmist testifies that God has been his hope from early life.",
+    "full_verse": "For you have been my hope, Sovereign LORD, my confidence since my youth.",
+    "verse_ref": "Psalm 71:5"
+  },
+  "q_hope_017": {
+    "question": "Fill in the blank: 'You are my refuge and my shield; I have put my hope in your _____.'",
+    "correct": "word",
+    "wrong": ["name", "promise", "love"],
+    "hint": "God's spoken truth",
+    "explanation": "The psalmist places hope in God's word as a source of protection.",
+    "full_verse": "You are my refuge and my shield; I have put my hope in your word.",
+    "verse_ref": "Psalm 119:114"
+  },
+  "q_hope_018": {
+    "question": "Fill in the blank: 'I wait for the LORD, my whole being waits, and in his word I put my _____.'",
+    "correct": "hope",
+    "wrong": ["trust", "faith", "heart"],
+    "hint": "Expectation for the future",
+    "explanation": "The psalmist expresses complete dependence on God's word for hope.",
+    "full_verse": "I wait for the LORD, my whole being waits, and in his word I put my hope.",
+    "verse_ref": "Psalm 130:5"
+  },
+  "q_hope_019": {
+    "question": "Fill in the blank: 'Blessed are those whose help is the God of Jacob, whose hope is in the LORD their _____.'",
+    "correct": "God",
+    "wrong": ["Lord", "King", "Savior"],
+    "hint": "Their deity",
+    "explanation": "The psalmist declares blessing on those who hope in the Lord their God.",
+    "full_verse": "Blessed are those whose help is the God of Jacob, whose hope is in the LORD their God.",
+    "verse_ref": "Psalm 146:5"
+  },
+  "q_hope_020": {
+    "question": "Fill in the blank: 'Hope deferred makes the heart sick, but a longing fulfilled is a tree of _____.'",
+    "correct": "life",
+    "wrong": ["joy", "hope", "peace"],
+    "hint": "Something that gives vitality",
+    "explanation": "Solomon contrasts delayed hope with fulfilled desire, which brings life.",
+    "full_verse": "Hope deferred makes the heart sick, but a longing fulfilled is a tree of life.",
+    "verse_ref": "Proverbs 13:12"
+  },
+  "q_hope_021": {
+    "question": "Fill in the blank: 'In that day they will say, \"Surely this is our God; we trusted in him, and he _____ us.\"'",
+    "correct": "saved",
+    "wrong": ["helped", "blessed", "loved"],
+    "hint": "God delivered His people",
+    "explanation": "Isaiah prophesies a day when God's people will celebrate His salvation.",
+    "full_verse": "In that day they will say, 'Surely this is our God; we trusted in him, and he saved us. This is the LORD, we trusted in him; let us rejoice and be glad in his salvation.'",
+    "verse_ref": "Isaiah 25:9"
+  },
+  "q_hope_022": {
+    "question": "Fill in the blank: 'But as for me, I watch in hope for the LORD, I wait for God my Savior; my God will _____ me.'",
+    "correct": "hear",
+    "wrong": ["help", "save", "answer"],
+    "hint": "God responds to prayer",
+    "explanation": "Micah expresses confident hope that God will hear him.",
+    "full_verse": "But as for me, I watch in hope for the LORD, I wait for God my Savior; my God will hear me.",
+    "verse_ref": "Micah 7:7"
+  },
+  "q_hope_023": {
+    "question": "Fill in the blank: 'Return to your fortress, you prisoners of hope; even now I announce that I will restore _____ as much to you.'",
+    "correct": "twice",
+    "wrong": ["double", "much", "all"],
+    "hint": "Two times",
+    "explanation": "God promises double restoration to those who maintain hope.",
+    "full_verse": "Return to your fortress, you prisoners of hope; even now I announce that I will restore twice as much to you.",
+    "verse_ref": "Zechariah 9:12"
+  },
+  "q_hope_024": {
+    "question": "Fill in the blank: 'Perseverance, character; and character, _____.'",
+    "correct": "hope",
+    "wrong": ["faith", "love", "joy"],
+    "hint": "The result of developed character",
+    "explanation": "Paul shows the progression from suffering to perseverance to character to hope.",
+    "full_verse": "Perseverance, character; and character, hope.",
+    "verse_ref": "Romans 5:4"
+  },
+  "q_hope_025": {
+    "question": "Fill in the blank: 'But if we hope for what we do not yet have, we wait for it _____.'",
+    "correct": "patiently",
+    "wrong": ["eagerly", "hopefully", "quietly"],
+    "hint": "With endurance",
+    "explanation": "Paul teaches that hope involves patient waiting for what is not yet seen.",
+    "full_verse": "But if we hope for what we do not yet have, we wait for it patiently.",
+    "verse_ref": "Romans 8:25"
+  },
+  "q_hope_026": {
+    "question": "Fill in the blank: 'Be joyful in hope, patient in affliction, faithful in _____.'",
+    "correct": "prayer",
+    "wrong": ["love", "faith", "service"],
+    "hint": "Communication with God",
+    "explanation": "Paul gives three instructions for Christian living, including joyful hope.",
+    "full_verse": "Be joyful in hope, patient in affliction, faithful in prayer.",
+    "verse_ref": "Romans 12:12"
+  },
+  "q_hope_027": {
+    "question": "Fill in the blank: 'And now these three remain: faith, hope and love. But the greatest of these is _____.'",
+    "correct": "love",
+    "wrong": ["faith", "hope", "grace"],
+    "hint": "The supreme virtue",
+    "explanation": "Paul declares that while faith, hope, and love endure, love is the greatest.",
+    "full_verse": "And now these three remain: faith, hope and love. But the greatest of these is love.",
+    "verse_ref": "1 Corinthians 13:13"
+  },
+  "q_hope_028": {
+    "question": "Fill in the blank: 'For through the Spirit we eagerly await by faith the righteousness for which we _____.'",
+    "correct": "hope",
+    "wrong": ["wait", "pray", "long"],
+    "hint": "Our expectation",
+    "explanation": "Paul describes believers eagerly hoping for the righteousness that faith promises.",
+    "full_verse": "For through the Spirit we eagerly await by faith the righteousness for which we hope.",
+    "verse_ref": "Galatians 5:5"
+  },
+  "q_hope_029": {
+    "question": "Fill in the blank: 'I pray that the eyes of your heart may be enlightened in order that you may know the hope to which he has _____ you.'",
+    "correct": "called",
+    "wrong": ["chosen", "saved", "blessed"],
+    "hint": "God's invitation",
+    "explanation": "Paul prays that believers would understand the hope of their calling in Christ.",
+    "full_verse": "I pray that the eyes of your heart may be enlightened in order that you may know the hope to which he has called you, the riches of his glorious inheritance in his holy people.",
+    "verse_ref": "Ephesians 1:18"
+  },
+  "q_hope_030": {
+    "question": "Fill in the blank: 'There is one body and one Spirit, just as you were called to one hope when you were _____.'",
+    "correct": "called",
+    "wrong": ["saved", "chosen", "born"],
+    "hint": "God's invitation to believers",
+    "explanation": "Paul emphasizes the unity of believers in one hope through their calling.",
+    "full_verse": "There is one body and one Spirit, just as you were called to one hope when you were called.",
+    "verse_ref": "Ephesians 4:4"
+  },
+  "q_hope_031": {
+    "question": "Fill in the blank: 'The faith and love that spring from the hope stored up for you in _____.'",
+    "correct": "heaven",
+    "wrong": ["glory", "God", "Christ"],
+    "hint": "Where God dwells",
+    "explanation": "Paul describes hope as a treasure stored in heaven that produces faith and love.",
+    "full_verse": "The faith and love that spring from the hope stored up for you in heaven and about which you have already heard in the true message of the gospel.",
+    "verse_ref": "Colossians 1:5"
+  },
+  "q_hope_032": {
+    "question": "Fill in the blank: 'We remember before our God and Father your work produced by faith, your labor prompted by love, and your endurance inspired by hope in our Lord Jesus _____.'",
+    "correct": "Christ",
+    "wrong": ["Lord", "Savior", "King"],
+    "hint": "Our Lord's title",
+    "explanation": "Paul commends the Thessalonians for their faith, love, and hope in Christ.",
+    "full_verse": "We remember before our God and Father your work produced by faith, your labor prompted by love, and your endurance inspired by hope in our Lord Jesus Christ.",
+    "verse_ref": "1 Thessalonians 1:3"
+  },
+  "q_hope_033": {
+    "question": "Fill in the blank: 'But since we belong to the day, let us be sober, putting on faith and love as a breastplate, and the hope of salvation as a _____.'",
+    "correct": "helmet",
+    "wrong": ["shield", "sword", "crown"],
+    "hint": "Armor for the head",
+    "explanation": "Paul uses armor imagery, describing hope of salvation as a helmet.",
+    "full_verse": "But since we belong to the day, let us be sober, putting on faith and love as a breastplate, and the hope of salvation as a helmet.",
+    "verse_ref": "1 Thessalonians 5:8"
+  },
+  "q_hope_034": {
+    "question": "Fill in the blank: 'May our Lord Jesus Christ himself and God our Father, who loved us and by his grace gave us eternal encouragement and good _____.'",
+    "correct": "hope",
+    "wrong": ["news", "faith", "promise"],
+    "hint": "Positive expectation for the future",
+    "explanation": "Paul prays for believers to receive eternal encouragement and good hope.",
+    "full_verse": "May our Lord Jesus Christ himself and God our Father, who loved us and by his grace gave us eternal encouragement and good hope.",
+    "verse_ref": "2 Thessalonians 2:16"
+  },
+  "q_hope_035": {
+    "question": "Fill in the blank: 'Paul, an apostle of Christ Jesus by the command of God our Savior and of Christ Jesus our _____.'",
+    "correct": "hope",
+    "wrong": ["Lord", "King", "Savior"],
+    "hint": "Christ is our expectation",
+    "explanation": "Paul identifies Christ Jesus as our hope in his greeting to Timothy.",
+    "full_verse": "Paul, an apostle of Christ Jesus by the command of God our Savior and of Christ Jesus our hope.",
+    "verse_ref": "1 Timothy 1:1"
+  },
+  "q_hope_036": {
+    "question": "Fill in the blank: 'That is why we labor and strive, because we have put our hope in the living God, who is the Savior of all people, and especially of those who _____.'",
+    "correct": "believe",
+    "wrong": ["hope", "trust", "follow"],
+    "hint": "Those who have faith",
+    "explanation": "Paul explains that hope in the living God motivates Christian service.",
+    "full_verse": "That is why we labor and strive, because we have put our hope in the living God, who is the Savior of all people, and especially of those who believe.",
+    "verse_ref": "1 Timothy 4:10"
+  },
+  "q_hope_037": {
+    "question": "Fill in the blank: 'Command those who are rich in this present world not to be arrogant nor to put their hope in wealth, which is so uncertain, but to put their hope in _____.'",
+    "correct": "God",
+    "wrong": ["heaven", "Christ", "the Lord"],
+    "hint": "The proper object of hope",
+    "explanation": "Paul warns against hoping in uncertain wealth instead of in God.",
+    "full_verse": "Command those who are rich in this present world not to be arrogant nor to put their hope in wealth, which is so uncertain, but to put their hope in God, who richly provides us with everything for our enjoyment.",
+    "verse_ref": "1 Timothy 6:17"
+  },
+  "q_hope_038": {
+    "question": "Fill in the blank: 'In the hope of eternal life, which God, who does not _____, promised before the beginning of time.'",
+    "correct": "lie",
+    "wrong": ["fail", "change", "forget"],
+    "hint": "God always tells the truth",
+    "explanation": "Paul grounds hope in eternal life on God's truthful promise.",
+    "full_verse": "In the hope of eternal life, which God, who does not lie, promised before the beginning of time.",
+    "verse_ref": "Titus 1:2"
+  },
+  "q_hope_039": {
+    "question": "Fill in the blank: 'So that, having been justified by his grace, we might become heirs having the hope of eternal _____.'",
+    "correct": "life",
+    "wrong": ["glory", "joy", "peace"],
+    "hint": "Living forever",
+    "explanation": "Paul explains that justification by grace makes us heirs with hope of eternal life.",
+    "full_verse": "So that, having been justified by his grace, we might become heirs having the hope of eternal life.",
+    "verse_ref": "Titus 3:7"
+  },
+  "q_hope_040": {
+    "question": "Fill in the blank: 'But Christ is faithful as the Son over God's house. And we are his house, if indeed we hold firmly to our confidence and the hope in which we _____.'",
+    "correct": "glory",
+    "wrong": ["trust", "stand", "live"],
+    "hint": "We take pride in this hope",
+    "explanation": "The writer encourages believers to hold firmly to their hope in Christ.",
+    "full_verse": "But Christ is faithful as the Son over God's house. And we are his house, if indeed we hold firmly to our confidence and the hope in which we glory.",
+    "verse_ref": "Hebrews 3:6"
+  },
+  "q_hope_041": {
+    "question": "Fill in the blank: 'We who have fled to take hold of the hope set before us may be greatly encouraged. We have this hope as an _____ for the soul.'",
+    "correct": "anchor",
+    "wrong": ["shield", "refuge", "fortress"],
+    "hint": "Something that keeps a ship steady",
+    "explanation": "The writer describes hope as an anchor that stabilizes the soul.",
+    "full_verse": "We who have fled to take hold of the hope set before us may be greatly encouraged. We have this hope as an anchor for the soul, firm and secure.",
+    "verse_ref": "Hebrews 6:18"
+  },
+  "q_hope_042": {
+    "question": "Fill in the blank: 'For the law made nothing perfect, and a better hope is introduced, by which we draw near to _____.'",
+    "correct": "God",
+    "wrong": ["heaven", "Christ", "salvation"],
+    "hint": "Hope brings us closer to Him",
+    "explanation": "The writer contrasts the law with the better hope that brings us near to God.",
+    "full_verse": "For the law made nothing perfect, and a better hope is introduced, by which we draw near to God.",
+    "verse_ref": "Hebrews 7:19"
+  },
+  "q_hope_043": {
+    "question": "Fill in the blank: 'Let us hold unswervingly to the hope we profess, for he who promised is _____.'",
+    "correct": "faithful",
+    "wrong": ["true", "good", "just"],
+    "hint": "God keeps His promises",
+    "explanation": "The writer encourages believers to hold firmly to hope because God is faithful.",
+    "full_verse": "Let us hold unswervingly to the hope we profess, for he who promised is faithful.",
+    "verse_ref": "Hebrews 10:23"
+  },
+  "q_hope_044": {
+    "question": "Fill in the blank: 'Now faith is confidence in what we hope for and assurance about what we do not _____.'",
+    "correct": "see",
+    "wrong": ["know", "have", "understand"],
+    "hint": "Faith relates to the invisible",
+    "explanation": "The writer defines faith in relation to hope and unseen realities.",
+    "full_verse": "Now faith is confidence in what we hope for and assurance about what we do not see.",
+    "verse_ref": "Hebrews 11:1"
+  },
+  "q_hope_045": {
+    "question": "Fill in the blank: 'Therefore, with minds that are alert and fully sober, set your hope on the grace to be brought to you when Jesus Christ is _____ at his coming.'",
+    "correct": "revealed",
+    "wrong": ["seen", "shown", "appearing"],
+    "hint": "When Christ appears",
+    "explanation": "Peter calls believers to set their hope fully on the grace coming at Christ's return.",
+    "full_verse": "Therefore, with minds that are alert and fully sober, set your hope on the grace to be brought to you when Jesus Christ is revealed at his coming.",
+    "verse_ref": "1 Peter 1:13"
+  },
+  "q_hope_046": {
+    "question": "Fill in the blank: 'Through him you believe in God, who raised him from the dead and glorified him, and so your faith and hope are in _____.'",
+    "correct": "God",
+    "wrong": ["Christ", "heaven", "Him"],
+    "hint": "The ultimate object of faith and hope",
+    "explanation": "Peter explains that through Christ, our faith and hope are directed to God.",
+    "full_verse": "Through him you believe in God, who raised him from the dead and glorified him, and so your faith and hope are in God.",
+    "verse_ref": "1 Peter 1:21"
+  },
+  "q_hope_047": {
+    "question": "Fill in the blank: 'But in your hearts revere Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you _____.'",
+    "correct": "have",
+    "wrong": ["hold", "keep", "share"],
+    "hint": "Possessing hope",
+    "explanation": "Peter instructs believers to be ready to explain the hope they possess.",
+    "full_verse": "But in your hearts revere Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect.",
+    "verse_ref": "1 Peter 3:15"
+  },
+  "q_hope_048": {
+    "question": "Fill in the blank: 'All who have this hope in him purify themselves, just as he is _____.'",
+    "correct": "pure",
+    "wrong": ["holy", "righteous", "clean"],
+    "hint": "Free from impurity",
+    "explanation": "John teaches that hope in Christ leads to personal purification.",
+    "full_verse": "All who have this hope in him purify themselves, just as he is pure.",
+    "verse_ref": "1 John 3:3"
+  },
+  "q_hope_049": {
+    "question": "Fill in the blank: 'Yet this I call to mind and therefore I have hope: Because of the LORD's great love we are not _____.'",
+    "correct": "consumed",
+    "wrong": ["destroyed", "abandoned", "forgotten"],
+    "hint": "Not completely destroyed",
+    "explanation": "Jeremiah finds hope by remembering God's faithful love that preserves us.",
+    "full_verse": "Yet this I call to mind and therefore I have hope: Because of the LORD's great love we are not consumed, for his compassions never fail.",
+    "verse_ref": "Lamentations 3:21-22"
+  },
+  "q_hope_050": {
+    "question": "Fill in the blank: 'You will be secure, because there is hope; you will look about you and take your rest in _____.'",
+    "correct": "safety",
+    "wrong": ["peace", "comfort", "security"],
+    "hint": "Protected from danger",
+    "explanation": "Zophar describes the security and rest that comes from hope.",
+    "full_verse": "You will be secure, because there is hope; you will look about you and take your rest in safety.",
+    "verse_ref": "Job 11:18"
+  }
+}

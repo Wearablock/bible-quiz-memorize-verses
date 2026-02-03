@@ -1,1 +1,452 @@
-{}
+{
+  "q_strength_001": {
+    "question": "Selon Philippiens 4:13, « Je puis tout par celui qui me _____. »",
+    "correct": "fortifie",
+    "wrong": ["donne la puissance", "encourage", "soutient"],
+    "hint": "C'est la capacité de surmonter les défis",
+    "explanation": "Christ nous donne la force d'affronter n'importe quelle situation.",
+    "full_verse": "Je puis tout par celui qui me fortifie.",
+    "verse_ref": "Philippiens 4:13"
+  },
+  "q_strength_002": {
+    "question": "Selon Ésaïe 40:31, « Mais ceux qui se confient en l'Éternel renouvellent leur force. Ils prennent le vol comme les _____. »",
+    "correct": "aigles",
+    "wrong": ["anges", "oiseaux", "colombes"],
+    "hint": "C'est un oiseau puissant qui plane haut",
+    "explanation": "Ceux qui font confiance à Dieu reçoivent une force renouvelée pour s'élever au-dessus des difficultés.",
+    "full_verse": "Mais ceux qui se confient en l'Éternel renouvellent leur force. Ils prennent le vol comme les aigles; ils courent, et ne se lassent point, ils marchent, et ne se fatiguent point.",
+    "verse_ref": "Ésaïe 40:31"
+  },
+  "q_strength_003": {
+    "question": "Selon Psaume 46:2, « Dieu est pour nous un refuge et un appui, un secours qui ne manque jamais dans la _____. »",
+    "correct": "détresse",
+    "wrong": ["besoin", "danger", "difficulté"],
+    "hint": "Ce mot signifie difficulté ou épreuve",
+    "explanation": "Dieu est toujours disponible comme source de force et d'aide.",
+    "full_verse": "Dieu est pour nous un refuge et un appui, un secours qui ne manque jamais dans la détresse.",
+    "verse_ref": "Psaume 46:2"
+  },
+  "q_strength_004": {
+    "question": "Selon 2 Corinthiens 12:9, « Ma grâce te suffit, car ma puissance s'accomplit dans la _____. »",
+    "correct": "faiblesse",
+    "wrong": ["humilité", "foi", "épreuve"],
+    "hint": "C'est le contraire de la force",
+    "explanation": "La puissance de Dieu se manifeste le plus quand nous reconnaissons nos propres limites.",
+    "full_verse": "Et il m'a dit: Ma grâce te suffit, car ma puissance s'accomplit dans la faiblesse. Je me glorifierai donc bien plus volontiers de mes faiblesses, afin que la puissance de Christ repose sur moi.",
+    "verse_ref": "2 Corinthiens 12:9"
+  },
+  "q_strength_005": {
+    "question": "Selon Néhémie 8:10, « Ne vous affligez pas, car la joie de l'Éternel sera votre _____. »",
+    "correct": "force",
+    "wrong": ["espoir", "paix", "refuge"],
+    "hint": "C'est ce que la joie de l'Éternel procure",
+    "explanation": "Trouver la joie dans le Seigneur nous donne la force de persévérer.",
+    "full_verse": "Ne vous affligez pas, car la joie de l'Éternel sera votre force.",
+    "verse_ref": "Néhémie 8:10"
+  },
+  "q_strength_006": {
+    "question": "Selon Psaume 28:7, « L'Éternel est ma force et mon bouclier; en lui mon cœur se confie, et je suis secouru; j'ai de l'allégresse dans le cœur, et je le loue par mes _____. »",
+    "correct": "chants",
+    "wrong": ["paroles", "louanges", "prières"],
+    "hint": "C'est une expression musicale de louange",
+    "explanation": "Quand Dieu nous fortifie, notre réponse est une louange joyeuse.",
+    "full_verse": "L'Éternel est ma force et mon bouclier; en lui mon cœur se confie, et je suis secouru; j'ai de l'allégresse dans le cœur, et je le loue par mes chants.",
+    "verse_ref": "Psaume 28:7"
+  },
+  "q_strength_007": {
+    "question": "Selon Ésaïe 41:10, « Ne crains rien, car je suis avec toi; ne promène pas des regards inquiets, car je suis ton Dieu; je te fortifie, je viens à ton secours, je te soutiens de ma droite _____. »",
+    "correct": "triomphante",
+    "wrong": ["puissante", "forte", "victorieuse"],
+    "hint": "Cela décrit une main qui a vaincu",
+    "explanation": "Dieu promet sa présence, sa force et son soutien à ceux qui lui font confiance.",
+    "full_verse": "Ne crains rien, car je suis avec toi; ne promène pas des regards inquiets, car je suis ton Dieu; je te fortifie, je viens à ton secours, je te soutiens de ma droite triomphante.",
+    "verse_ref": "Ésaïe 41:10"
+  },
+  "q_strength_008": {
+    "question": "Selon Éphésiens 6:10, « Au reste, fortifiez-vous dans le Seigneur, et par sa force _____. »",
+    "correct": "toute-puissante",
+    "wrong": ["grande", "divine", "éternelle"],
+    "hint": "C'est la capacité de Dieu à agir",
+    "explanation": "Notre force vient de la puissance illimitée du Seigneur.",
+    "full_verse": "Au reste, fortifiez-vous dans le Seigneur, et par sa force toute-puissante.",
+    "verse_ref": "Éphésiens 6:10"
+  },
+  "q_strength_009": {
+    "question": "Selon Psaume 18:33, « C'est Dieu qui me ceint de force, et qui me conduit dans la voie _____. »",
+    "correct": "droite",
+    "wrong": ["sûre", "parfaite", "claire"],
+    "hint": "Cela signifie le bon chemin",
+    "explanation": "Dieu fournit la force et nous garde sur un chemin sûr.",
+    "full_verse": "C'est Dieu qui me ceint de force, et qui me conduit dans la voie droite.",
+    "verse_ref": "Psaume 18:33"
+  },
+  "q_strength_010": {
+    "question": "Selon Psaume 73:26, « Ma chair et mon cœur peuvent se consumer: Dieu sera toujours le rocher de mon cœur et mon _____ pour toujours. »",
+    "correct": "partage",
+    "wrong": ["espoir", "refuge", "héritage"],
+    "hint": "Cela signifie sa part ou son allocation",
+    "explanation": "Même quand notre corps défaille, Dieu reste notre source éternelle de force.",
+    "full_verse": "Ma chair et mon cœur peuvent se consumer: Dieu sera toujours le rocher de mon cœur et mon partage pour toujours.",
+    "verse_ref": "Psaume 73:26"
+  },
+  "q_strength_011": {
+    "question": "Selon Deutéronome 31:6, « Fortifiez-vous et ayez du courage! Ne craignez point et ne soyez point effrayés, car l'Éternel, ton Dieu, marchera lui-même avec toi, il ne te délaissera point, il ne t'_____point. »",
+    "correct": "abandonnera",
+    "wrong": ["oubliera", "quittera", "laissera"],
+    "hint": "Cela signifie laisser derrière ou déserter",
+    "explanation": "La présence constante de Dieu nous donne force et courage.",
+    "full_verse": "Fortifiez-vous et ayez du courage! Ne craignez point et ne soyez point effrayés devant eux, car l'Éternel, ton Dieu, marchera lui-même avec toi, il ne te délaissera point, il ne t'abandonnera point.",
+    "verse_ref": "Deutéronome 31:6"
+  },
+  "q_strength_012": {
+    "question": "Selon Josué 1:9, « Ne t'ai-je pas donné cet ordre: Fortifie-toi et prends courage? Ne t'effraie point et ne t'épouvante point, car l'Éternel, ton Dieu, est avec toi dans tout ce que tu _____. »",
+    "correct": "entreprendras",
+    "wrong": ["feras", "iras", "accompliras"],
+    "hint": "Cela signifie commencer à faire",
+    "explanation": "Dieu nous commande d'être forts parce qu'il est toujours avec nous.",
+    "full_verse": "Ne t'ai-je pas donné cet ordre: Fortifie-toi et prends courage? Ne t'effraie point et ne t'épouvante point, car l'Éternel, ton Dieu, est avec toi dans tout ce que tu entreprendras.",
+    "verse_ref": "Josué 1:9"
+  },
+  "q_strength_013": {
+    "question": "Selon 1 Chroniques 16:11, « Ayez recours à l'Éternel et à son appui, cherchez continuellement sa _____! »",
+    "correct": "face",
+    "wrong": ["présence", "gloire", "aide"],
+    "hint": "Cela représente la présence de Dieu",
+    "explanation": "Nous devons continuellement chercher la force et la présence de Dieu.",
+    "full_verse": "Ayez recours à l'Éternel et à son appui, cherchez continuellement sa face!",
+    "verse_ref": "1 Chroniques 16:11"
+  },
+  "q_strength_014": {
+    "question": "Selon Psaume 18:2-3, « Je t'aime, ô Éternel, ma force! L'Éternel est mon rocher, ma forteresse, mon libérateur; mon Dieu, mon rocher, où je trouve un _____. »",
+    "correct": "abri",
+    "wrong": ["repos", "confort", "refuge"],
+    "hint": "C'est un lieu de sécurité",
+    "explanation": "Dieu est notre source ultime de force et de protection.",
+    "full_verse": "Je t'aime, ô Éternel, ma force! L'Éternel est mon rocher, ma forteresse, mon libérateur; mon Dieu, mon rocher, où je trouve un abri; mon bouclier, la force qui me sauve, ma haute retraite.",
+    "verse_ref": "Psaume 18:2-3"
+  },
+  "q_strength_015": {
+    "question": "Selon Psaume 27:1, « L'Éternel est ma lumière et mon salut: de qui aurais-je crainte? L'Éternel est le soutien de ma vie: de qui aurais-je _____? »",
+    "correct": "peur",
+    "wrong": ["crainte", "frayeur", "terreur"],
+    "hint": "C'est une émotion de peur",
+    "explanation": "Avec Dieu comme notre force, nous n'avons aucune raison de craindre.",
+    "full_verse": "L'Éternel est ma lumière et mon salut: de qui aurais-je crainte? L'Éternel est le soutien de ma vie: de qui aurais-je peur?",
+    "verse_ref": "Psaume 27:1"
+  },
+  "q_strength_016": {
+    "question": "Selon Psaume 29:11, « L'Éternel donne la force à son peuple; l'Éternel bénit son peuple et lui donne la _____. »",
+    "correct": "paix",
+    "wrong": ["joie", "espérance", "amour"],
+    "hint": "C'est un état de calme et de tranquillité",
+    "explanation": "Dieu donne à son peuple à la fois la force et la paix.",
+    "full_verse": "L'Éternel donne la force à son peuple; l'Éternel bénit son peuple et lui donne la paix.",
+    "verse_ref": "Psaume 29:11"
+  },
+  "q_strength_017": {
+    "question": "Selon Psaume 31:25, « Fortifiez-vous et que votre cœur s'affermisse, vous tous qui _____ en l'Éternel! »",
+    "correct": "espérez",
+    "wrong": ["croyez", "confiance", "reposez"],
+    "hint": "C'est une attente confiante",
+    "explanation": "Ceux qui espèrent en Dieu trouveront force et courage.",
+    "full_verse": "Fortifiez-vous et que votre cœur s'affermisse, vous tous qui espérez en l'Éternel!",
+    "verse_ref": "Psaume 31:25"
+  },
+  "q_strength_018": {
+    "question": "Selon Psaume 37:39, « Le salut des justes vient de l'Éternel; il est leur protecteur au temps de la _____. »",
+    "correct": "détresse",
+    "wrong": ["besoin", "danger", "épreuve"],
+    "hint": "Cela se réfère aux moments difficiles",
+    "explanation": "Dieu est notre forteresse quand les difficultés surviennent.",
+    "full_verse": "Le salut des justes vient de l'Éternel; il est leur protecteur au temps de la détresse.",
+    "verse_ref": "Psaume 37:39"
+  },
+  "q_strength_019": {
+    "question": "Selon Psaume 59:17, « Je chanterai ta force; dès le matin, je célébrerai ta bonté. Car tu es pour moi une haute retraite, un _____ au jour de ma détresse. »",
+    "correct": "refuge",
+    "wrong": ["abri", "havre", "secours"],
+    "hint": "C'est un lieu de protection",
+    "explanation": "Nous louons la force de Dieu parce qu'il est notre refuge.",
+    "full_verse": "Et moi, je chanterai ta force; dès le matin, je célébrerai ta bonté. Car tu es pour moi une haute retraite, un refuge au jour de ma détresse.",
+    "verse_ref": "Psaume 59:17"
+  },
+  "q_strength_020": {
+    "question": "Selon Psaume 68:36, « De ton sanctuaire, ô Dieu, tu es terrible. Le Dieu d'Israël donne à son peuple la force et la _____. Béni soit Dieu! »",
+    "correct": "puissance",
+    "wrong": ["victoire", "courage", "gloire"],
+    "hint": "C'est la capacité de surmonter les défis",
+    "explanation": "Dieu fournit à son peuple force et puissance.",
+    "full_verse": "De ton sanctuaire, ô Dieu, tu es terrible. Le Dieu d'Israël donne à son peuple la force et la puissance. Béni soit Dieu!",
+    "verse_ref": "Psaume 68:36"
+  },
+  "q_strength_021": {
+    "question": "Selon Psaume 84:6, « Heureux ceux qui placent en toi leur appui! Ils trouvent dans leur cœur des chemins tout _____. »",
+    "correct": "tracés",
+    "wrong": ["préparés", "droits", "clairs"],
+    "hint": "Cela signifie déjà préparé",
+    "explanation": "Ceux qui trouvent leur force en Dieu et le poursuivent sont bénis.",
+    "full_verse": "Heureux ceux qui placent en toi leur appui! Ils trouvent dans leur cœur des chemins tout tracés.",
+    "verse_ref": "Psaume 84:6"
+  },
+  "q_strength_022": {
+    "question": "Selon Psaume 118:14, « L'Éternel est ma force et le sujet de mes louanges; c'est lui qui m'a _____. »",
+    "correct": "sauvé",
+    "wrong": ["protégé", "aidé", "secouru"],
+    "hint": "C'est la délivrance du danger",
+    "explanation": "Dieu est notre force, notre défense et notre source de salut.",
+    "full_verse": "L'Éternel est ma force et le sujet de mes louanges; c'est lui qui m'a sauvé.",
+    "verse_ref": "Psaume 118:14"
+  },
+  "q_strength_023": {
+    "question": "Selon Psaume 138:3, « Le jour où je t'ai invoqué, tu m'as exaucé, tu m'as rassuré, tu as fortifié mon _____. »",
+    "correct": "âme",
+    "wrong": ["cœur", "esprit", "courage"],
+    "hint": "C'est la partie spirituelle d'une personne",
+    "explanation": "Dieu répond à nos prières et nous donne une force audacieuse.",
+    "full_verse": "Le jour où je t'ai invoqué, tu m'as exaucé, tu m'as rassuré, tu as fortifié mon âme.",
+    "verse_ref": "Psaume 138:3"
+  },
+  "q_strength_024": {
+    "question": "Selon Ésaïe 12:2, « Voici, Dieu est ma délivrance, je serai plein de confiance, et je ne craindrai rien; car l'Éternel, l'Éternel est ma force et le sujet de mes _____. »",
+    "correct": "louanges",
+    "wrong": ["chants", "prières", "hymnes"],
+    "hint": "C'est l'expression de l'adoration",
+    "explanation": "Dieu est à la fois notre force et notre protection.",
+    "full_verse": "Voici, Dieu est ma délivrance, je serai plein de confiance, et je ne craindrai rien; car l'Éternel, l'Éternel est ma force et le sujet de mes louanges; c'est lui qui m'a sauvé.",
+    "verse_ref": "Ésaïe 12:2"
+  },
+  "q_strength_025": {
+    "question": "Selon Ésaïe 40:29, « Il donne de la force à celui qui est fatigué, et il augmente la vigueur de celui qui tombe en _____. »",
+    "correct": "défaillance",
+    "wrong": ["faiblesse", "épuisement", "découragement"],
+    "hint": "C'est un état de perte de force",
+    "explanation": "Dieu fortifie ceux qui sont fatigués et faibles.",
+    "full_verse": "Il donne de la force à celui qui est fatigué, et il augmente la vigueur de celui qui tombe en défaillance.",
+    "verse_ref": "Ésaïe 40:29"
+  },
+  "q_strength_026": {
+    "question": "Selon Ésaïe 41:13, « Car je suis l'Éternel, ton Dieu, qui fortifie ta droite, qui te dis: Ne crains rien, je viens à ton _____. »",
+    "correct": "secours",
+    "wrong": ["aide", "salut", "soutien"],
+    "hint": "Cela signifie aider ou soutenir",
+    "explanation": "Dieu tient personnellement notre main et promet de nous aider.",
+    "full_verse": "Car je suis l'Éternel, ton Dieu, qui fortifie ta droite, qui te dis: Ne crains rien, je viens à ton secours.",
+    "verse_ref": "Ésaïe 41:13"
+  },
+  "q_strength_027": {
+    "question": "Selon Jérémie 16:19, « Éternel, ma force et mon appui, mon refuge au jour de la détresse! Les nations viendront à toi des extrémités de la _____. »",
+    "correct": "terre",
+    "wrong": ["monde", "pays", "mer"],
+    "hint": "C'est notre planète",
+    "explanation": "Dieu est notre force et notre refuge, et toutes les nations viendront à lui.",
+    "full_verse": "Éternel, ma force et mon appui, mon refuge au jour de la détresse! Les nations viendront à toi des extrémités de la terre.",
+    "verse_ref": "Jérémie 16:19"
+  },
+  "q_strength_028": {
+    "question": "Selon Habacuc 3:19, « L'Éternel, le Seigneur, est ma force; il rend mes pieds semblables à ceux des biches, et il me fait marcher sur mes _____. »",
+    "correct": "lieux élevés",
+    "wrong": ["montagnes", "collines", "rochers"],
+    "hint": "Cela se réfère aux endroits hauts",
+    "explanation": "Dieu nous donne la force de surmonter les obstacles et d'atteindre de nouveaux sommets.",
+    "full_verse": "L'Éternel, le Seigneur, est ma force; il rend mes pieds semblables à ceux des biches, et il me fait marcher sur mes lieux élevés.",
+    "verse_ref": "Habacuc 3:19"
+  },
+  "q_strength_029": {
+    "question": "Selon Zacharie 4:6, « Ce n'est ni par la puissance ni par la force, mais c'est par mon _____, dit l'Éternel des armées. »",
+    "correct": "esprit",
+    "wrong": ["parole", "main", "grâce"],
+    "hint": "C'est la troisième personne de la Trinité",
+    "explanation": "La vraie force ne vient pas de l'effort humain mais de l'Esprit de Dieu.",
+    "full_verse": "Ce n'est ni par la puissance ni par la force, mais c'est par mon esprit, dit l'Éternel des armées.",
+    "verse_ref": "Zacharie 4:6"
+  },
+  "q_strength_030": {
+    "question": "Selon Romains 8:37, « Mais dans toutes ces choses nous sommes plus que _____ par celui qui nous a aimés. »",
+    "correct": "vainqueurs",
+    "wrong": ["victorieux", "gagnants", "champions"],
+    "hint": "Ce sont des personnes qui surmontent et triomphent",
+    "explanation": "Par l'amour de Christ, nous avons une victoire écrasante.",
+    "full_verse": "Mais dans toutes ces choses nous sommes plus que vainqueurs par celui qui nous a aimés.",
+    "verse_ref": "Romains 8:37"
+  },
+  "q_strength_031": {
+    "question": "Selon 1 Corinthiens 1:25, « Car la folie de Dieu est plus sage que les hommes, et la _____ de Dieu est plus forte que les hommes. »",
+    "correct": "faiblesse",
+    "wrong": ["puissance", "force", "grâce"],
+    "hint": "C'est le contraire de la force",
+    "explanation": "Même la 'faiblesse' de Dieu surpasse toute force humaine.",
+    "full_verse": "Car la folie de Dieu est plus sage que les hommes, et la faiblesse de Dieu est plus forte que les hommes.",
+    "verse_ref": "1 Corinthiens 1:25"
+  },
+  "q_strength_032": {
+    "question": "Selon 1 Corinthiens 10:13, « Aucune tentation ne vous est survenue qui n'ait été humaine, et Dieu, qui est fidèle, ne permettra pas que vous soyez tentés au-delà de vos forces; mais avec la tentation il préparera aussi le moyen d'en sortir, afin que vous puissiez la _____. »",
+    "correct": "supporter",
+    "wrong": ["vaincre", "résister", "fuir"],
+    "hint": "Cela signifie persister à travers la difficulté",
+    "explanation": "Dieu nous donne la force de supporter toute tentation.",
+    "full_verse": "Aucune tentation ne vous est survenue qui n'ait été humaine, et Dieu, qui est fidèle, ne permettra pas que vous soyez tentés au-delà de vos forces; mais avec la tentation il préparera aussi le moyen d'en sortir, afin que vous puissiez la supporter.",
+    "verse_ref": "1 Corinthiens 10:13"
+  },
+  "q_strength_033": {
+    "question": "Selon 1 Corinthiens 16:13, « Veillez, demeurez fermes dans la foi, soyez des hommes, _____. »",
+    "correct": "fortifiez-vous",
+    "wrong": ["courageusement", "hardiment", "bravement"],
+    "hint": "C'est la capacité de surmonter les défis",
+    "explanation": "Nous sommes appelés à être vigilants, fidèles, courageux et forts.",
+    "full_verse": "Veillez, demeurez fermes dans la foi, soyez des hommes, fortifiez-vous.",
+    "verse_ref": "1 Corinthiens 16:13"
+  },
+  "q_strength_034": {
+    "question": "Selon 2 Corinthiens 12:10, « C'est pourquoi je me plais dans les faiblesses, dans les outrages, dans les calamités, dans les persécutions, dans les détresses, pour Christ; car, quand je suis faible, c'est alors que je suis _____. »",
+    "correct": "fort",
+    "wrong": ["brave", "hardi", "puissant"],
+    "hint": "C'est le contraire de faible",
+    "explanation": "La puissance de Dieu s'accomplit dans notre faiblesse.",
+    "full_verse": "C'est pourquoi je me plais dans les faiblesses, dans les outrages, dans les calamités, dans les persécutions, dans les détresses, pour Christ; car, quand je suis faible, c'est alors que je suis fort.",
+    "verse_ref": "2 Corinthiens 12:10"
+  },
+  "q_strength_035": {
+    "question": "Selon Éphésiens 3:16, « Afin qu'il vous donne, selon la richesse de sa gloire, d'être puissamment fortifiés par son Esprit dans l'homme _____. »",
+    "correct": "intérieur",
+    "wrong": ["spirituel", "intime", "secret"],
+    "hint": "C'est le cœur de qui vous êtes",
+    "explanation": "Dieu nous fortifie spirituellement de l'intérieur.",
+    "full_verse": "Afin qu'il vous donne, selon la richesse de sa gloire, d'être puissamment fortifiés par son Esprit dans l'homme intérieur.",
+    "verse_ref": "Éphésiens 3:16"
+  },
+  "q_strength_036": {
+    "question": "Selon Colossiens 1:11, « Fortifiés à tous égards par sa puissance glorieuse, en sorte que vous soyez toujours et avec joie persévérants et _____. »",
+    "correct": "patients",
+    "wrong": ["fidèles", "espérants", "paisibles"],
+    "hint": "C'est la capacité d'attendre calmement",
+    "explanation": "La puissance de Dieu nous permet de persévérer avec patience.",
+    "full_verse": "Fortifiés à tous égards par sa puissance glorieuse, en sorte que vous soyez toujours et avec joie persévérants et patients.",
+    "verse_ref": "Colossiens 1:11"
+  },
+  "q_strength_037": {
+    "question": "Selon 2 Timothée 1:7, « Car ce n'est pas un esprit de timidité que Dieu nous a donné, mais un esprit de force, d'amour et de _____. »",
+    "correct": "sagesse",
+    "wrong": ["maîtrise de soi", "courage", "foi"],
+    "hint": "C'est la capacité de discerner",
+    "explanation": "L'Esprit de Dieu nous donne la force, l'amour et la sagesse.",
+    "full_verse": "Car ce n'est pas un esprit de timidité que Dieu nous a donné, mais un esprit de force, d'amour et de sagesse.",
+    "verse_ref": "2 Timothée 1:7"
+  },
+  "q_strength_038": {
+    "question": "Selon 2 Timothée 2:1, « Toi donc, mon enfant, fortifie-toi dans la _____ qui est en Jésus-Christ. »",
+    "correct": "grâce",
+    "wrong": ["foi", "amour", "puissance"],
+    "hint": "C'est la faveur imméritée de Dieu",
+    "explanation": "Notre force vient de la grâce trouvée en Christ.",
+    "full_verse": "Toi donc, mon enfant, fortifie-toi dans la grâce qui est en Jésus-Christ.",
+    "verse_ref": "2 Timothée 2:1"
+  },
+  "q_strength_039": {
+    "question": "Selon 2 Timothée 4:17, « C'est le Seigneur qui m'a assisté et qui m'a fortifié, afin que la prédication fût accomplie par moi et que tous les _____ l'entendissent. »",
+    "correct": "païens",
+    "wrong": ["nations", "peuples", "monde"],
+    "hint": "Cela se réfère aux non-Juifs",
+    "explanation": "Dieu nous fortifie pour accomplir ses desseins.",
+    "full_verse": "C'est le Seigneur qui m'a assisté et qui m'a fortifié, afin que la prédication fût accomplie par moi et que tous les païens l'entendissent.",
+    "verse_ref": "2 Timothée 4:17"
+  },
+  "q_strength_040": {
+    "question": "Selon Hébreux 11:34, « Éteignirent la puissance du feu, échappèrent au tranchant de l'épée, guérirent de leurs maladies, furent vaillants à la guerre, mirent en fuite des armées _____. »",
+    "correct": "étrangères",
+    "wrong": ["ennemies", "puissantes", "hostiles"],
+    "hint": "Cela se réfère à des forces d'autres pays",
+    "explanation": "La foi peut transformer la faiblesse en force pour la victoire.",
+    "full_verse": "Éteignirent la puissance du feu, échappèrent au tranchant de l'épée, guérirent de leurs maladies, furent vaillants à la guerre, mirent en fuite des armées étrangères.",
+    "verse_ref": "Hébreux 11:34"
+  },
+  "q_strength_041": {
+    "question": "Selon 1 Pierre 5:10, « Le Dieu de toute grâce, qui vous a appelés en Jésus-Christ à sa gloire éternelle, après que vous aurez souffert un peu de temps, vous perfectionnera lui-même, vous affermira, vous fortifiera, vous rendra _____. »",
+    "correct": "inébranlables",
+    "wrong": ["stables", "forts", "fidèles"],
+    "hint": "Cela signifie fermement établi",
+    "explanation": "Dieu nous fortifiera et nous établira après que nous aurons enduré des épreuves.",
+    "full_verse": "Le Dieu de toute grâce, qui vous a appelés en Jésus-Christ à sa gloire éternelle, après que vous aurez souffert un peu de temps, vous perfectionnera lui-même, vous affermira, vous fortifiera, vous rendra inébranlables.",
+    "verse_ref": "1 Pierre 5:10"
+  },
+  "q_strength_042": {
+    "question": "Selon 1 Jean 4:4, « Vous, petits enfants, vous êtes de Dieu, et vous les avez vaincus, parce que celui qui est en vous est plus grand que celui qui est dans le _____. »",
+    "correct": "monde",
+    "wrong": ["ténèbres", "ennemi", "chair"],
+    "hint": "C'est l'endroit où le mal opère",
+    "explanation": "Dieu en nous est plus grand que toute force dans le monde.",
+    "full_verse": "Vous, petits enfants, vous êtes de Dieu, et vous les avez vaincus, parce que celui qui est en vous est plus grand que celui qui est dans le monde.",
+    "verse_ref": "1 Jean 4:4"
+  },
+  "q_strength_043": {
+    "question": "Selon Exode 15:2, « L'Éternel est ma force et le sujet de mes louanges; c'est lui qui m'a sauvé. Il est mon Dieu: je le célébrerai; il est le Dieu de mon père: je l'_____. »",
+    "correct": "exalterai",
+    "wrong": ["adorerai", "louerai", "bénirai"],
+    "hint": "Cela signifie élever en louange",
+    "explanation": "Dieu est notre force, notre protection et notre salut.",
+    "full_verse": "L'Éternel est ma force et le sujet de mes louanges; c'est lui qui m'a sauvé. Il est mon Dieu: je le célébrerai; il est le Dieu de mon père: je l'exalterai.",
+    "verse_ref": "Exode 15:2"
+  },
+  "q_strength_044": {
+    "question": "Selon 2 Samuel 22:33, « C'est Dieu qui est ma puissante forteresse, et qui me conduit dans la voie _____. »",
+    "correct": "droite",
+    "wrong": ["sûre", "parfaite", "claire"],
+    "hint": "Cela signifie le bon chemin",
+    "explanation": "Dieu fournit la force et nous guide en sécurité.",
+    "full_verse": "C'est Dieu qui est ma puissante forteresse, et qui me conduit dans la voie droite.",
+    "verse_ref": "2 Samuel 22:33"
+  },
+  "q_strength_045": {
+    "question": "Selon Psaume 8:3, « Par la bouche des enfants et de ceux qui sont à la mamelle tu as fondé ta gloire, pour confondre tes adversaires, pour imposer silence à l'ennemi et au _____. »",
+    "correct": "vindicatif",
+    "wrong": ["ennemi", "adversaire", "méchant"],
+    "hint": "C'est quelqu'un qui cherche la vengeance",
+    "explanation": "La force de Dieu se manifeste même à travers la louange des enfants.",
+    "full_verse": "Par la bouche des enfants et de ceux qui sont à la mamelle tu as fondé ta gloire, pour confondre tes adversaires, pour imposer silence à l'ennemi et au vindicatif.",
+    "verse_ref": "Psaume 8:3"
+  },
+  "q_strength_046": {
+    "question": "Selon Psaume 19:15, « Reçois favorablement les paroles de ma bouche et les sentiments de mon cœur, ô Éternel, mon rocher et mon _____! »",
+    "correct": "libérateur",
+    "wrong": ["sauveur", "force", "refuge"],
+    "hint": "C'est celui qui délivre en payant un prix",
+    "explanation": "Dieu est notre force (Rocher) et notre Rédempteur.",
+    "full_verse": "Reçois favorablement les paroles de ma bouche et les sentiments de mon cœur, ô Éternel, mon rocher et mon libérateur!",
+    "verse_ref": "Psaume 19:15"
+  },
+  "q_strength_047": {
+    "question": "Selon Psaume 89:22, « Ma main le soutiendra, et mon _____ le fortifiera. »",
+    "correct": "bras",
+    "wrong": ["main", "puissance", "force"],
+    "hint": "Cette partie du corps symbolise la force",
+    "explanation": "Le bras de Dieu représente sa puissance pour fortifier et soutenir.",
+    "full_verse": "Ma main le soutiendra, et mon bras le fortifiera.",
+    "verse_ref": "Psaume 89:22"
+  },
+  "q_strength_048": {
+    "question": "Selon Psaume 105:4, « Ayez recours à l'Éternel et à son appui, cherchez _____ sa face! »",
+    "correct": "continuellement",
+    "wrong": ["toujours", "chaque jour", "sans cesse"],
+    "hint": "Cela signifie en tout temps",
+    "explanation": "Nous devons constamment chercher la force et la présence de Dieu.",
+    "full_verse": "Ayez recours à l'Éternel et à son appui, cherchez continuellement sa face!",
+    "verse_ref": "Psaume 105:4"
+  },
+  "q_strength_049": {
+    "question": "Selon Psaume 144:1, « Béni soit l'Éternel, mon rocher, qui exerce mes mains au combat, mes doigts à la _____! »",
+    "correct": "bataille",
+    "wrong": ["guerre", "lutte", "combat"],
+    "hint": "C'est un conflit militaire",
+    "explanation": "Dieu nous équipe et nous fortifie pour les batailles spirituelles.",
+    "full_verse": "Béni soit l'Éternel, mon rocher, qui exerce mes mains au combat, mes doigts à la bataille!",
+    "verse_ref": "Psaume 144:1"
+  },
+  "q_strength_050": {
+    "question": "Selon Proverbes 24:5, « Un homme sage est plein de force, et celui qui a de la science affermit sa _____. »",
+    "correct": "vigueur",
+    "wrong": ["force", "puissance", "courage"],
+    "hint": "C'est la capacité de surmonter les défis",
+    "explanation": "La sagesse et la connaissance augmentent notre force.",
+    "full_verse": "Un homme sage est plein de force, et celui qui a de la science affermit sa vigueur.",
+    "verse_ref": "Proverbes 24:5"
+  }
+}

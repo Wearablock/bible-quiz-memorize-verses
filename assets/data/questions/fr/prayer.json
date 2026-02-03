@@ -1,1 +1,452 @@
-{}
+{
+  "q_prayer_001": {
+    "question": "Selon Philippiens 4:6, « Ne vous inquiétez de rien; mais en toute chose faites connaître vos besoins à _____ par des prières et des supplications. »",
+    "correct": "Dieu",
+    "wrong": ["le ciel", "le Seigneur", "Jésus"],
+    "hint": "Nous présentons nos requêtes à Lui",
+    "explanation": "Paul instruit les croyants à remplacer l'anxiété par la prière et l'action de grâces envers Dieu.",
+    "full_verse": "Ne vous inquiétez de rien; mais en toute chose faites connaître vos besoins à Dieu par des prières et des supplications, avec des actions de grâces.",
+    "verse_ref": "Philippiens 4:6"
+  },
+  "q_prayer_002": {
+    "question": "Selon 1 Thessaloniciens 5:17, « Priez sans _____. »",
+    "correct": "cesse",
+    "wrong": ["arrêt", "fin", "pause"],
+    "hint": "La prière continue",
+    "explanation": "Paul donne le commandement le plus court et le plus profond sur la prière—ne jamais cesser de prier.",
+    "full_verse": "Priez sans cesse.",
+    "verse_ref": "1 Thessaloniciens 5:17"
+  },
+  "q_prayer_003": {
+    "question": "Selon Matthieu 6:9, « Voici donc comment vous devez prier: Notre Père qui es aux cieux! Que ton _____ soit sanctifié. »",
+    "correct": "nom",
+    "wrong": ["trône", "royaume", "gloire"],
+    "hint": "Ce qui doit être honoré comme saint",
+    "explanation": "Jésus commence le Notre Père en nous enseignant à honorer le nom de Dieu comme saint.",
+    "full_verse": "Voici donc comment vous devez prier: Notre Père qui es aux cieux! Que ton nom soit sanctifié.",
+    "verse_ref": "Matthieu 6:9"
+  },
+  "q_prayer_004": {
+    "question": "Selon Jacques 5:16, « La prière fervente du _____ a une grande efficace. »",
+    "correct": "juste",
+    "wrong": ["sage", "fidèle", "saint"],
+    "hint": "Une personne droite devant Dieu",
+    "explanation": "Jacques enseigne que la prière d'une personne juste est puissante et efficace.",
+    "full_verse": "Confessez donc vos péchés les uns aux autres, et priez les uns pour les autres, afin que vous soyez guéris. La prière fervente du juste a une grande efficace.",
+    "verse_ref": "Jacques 5:16"
+  },
+  "q_prayer_005": {
+    "question": "Selon Matthieu 7:7, « Demandez, et l'on vous donnera; cherchez, et vous trouverez; frappez, et l'on vous _____. »",
+    "correct": "ouvrira",
+    "wrong": ["montrera", "révélera", "accueillera"],
+    "hint": "Ce qui arrive à une porte",
+    "explanation": "Jésus encourage la prière persistante avec la promesse que Dieu répondra.",
+    "full_verse": "Demandez, et l'on vous donnera; cherchez, et vous trouverez; frappez, et l'on vous ouvrira.",
+    "verse_ref": "Matthieu 7:7"
+  },
+  "q_prayer_006": {
+    "question": "Selon Jean 14:13, « Et tout ce que vous demanderez en mon nom, je le ferai, afin que le Père soit glorifié dans le _____. »",
+    "correct": "Fils",
+    "wrong": ["prière", "réponse", "croyant"],
+    "hint": "Jésus se réfère à lui-même",
+    "explanation": "Jésus promet de répondre aux prières faites en son nom pour la gloire du Père.",
+    "full_verse": "Et tout ce que vous demanderez en mon nom, je le ferai, afin que le Père soit glorifié dans le Fils.",
+    "verse_ref": "Jean 14:13"
+  },
+  "q_prayer_007": {
+    "question": "Selon 1 Jean 5:14, « Nous avons auprès de lui cette assurance, que si nous demandons quelque chose selon sa volonté, il nous _____. »",
+    "correct": "écoute",
+    "wrong": ["répond", "aide", "bénit"],
+    "hint": "Dieu prête attention à nos prières",
+    "explanation": "Jean assure les croyants que Dieu écoute les prières alignées avec sa volonté.",
+    "full_verse": "Nous avons auprès de lui cette assurance, que si nous demandons quelque chose selon sa volonté, il nous écoute.",
+    "verse_ref": "1 Jean 5:14"
+  },
+  "q_prayer_008": {
+    "question": "Selon Jérémie 29:12, « Vous m'invoquerez, et vous partirez; vous me prierez, et je vous _____. »",
+    "correct": "exaucerai",
+    "wrong": ["parlerai", "répondrai", "écouterai"],
+    "hint": "Dieu répondra favorablement",
+    "explanation": "Dieu promet d'exaucer quand son peuple l'invoquera dans la prière.",
+    "full_verse": "Vous m'invoquerez, et vous partirez; vous me prierez, et je vous exaucerai.",
+    "verse_ref": "Jérémie 29:12"
+  },
+  "q_prayer_009": {
+    "question": "Selon Psaume 145:18, « L'Éternel est près de tous ceux qui l'invoquent, de tous ceux qui l'invoquent avec _____. »",
+    "correct": "sincérité",
+    "wrong": ["foi", "amour", "espérance"],
+    "hint": "Une prière authentique et vraie",
+    "explanation": "Dieu s'approche de ceux qui l'invoquent sincèrement et véritablement.",
+    "full_verse": "L'Éternel est près de tous ceux qui l'invoquent, de tous ceux qui l'invoquent avec sincérité.",
+    "verse_ref": "Psaume 145:18"
+  },
+  "q_prayer_010": {
+    "question": "Selon Romains 8:26, « De même aussi l'Esprit nous aide dans notre faiblesse, car nous ne savons pas ce qu'il nous convient de demander dans nos prières. Mais l'Esprit lui-même intercède par des _____ inexprimables. »",
+    "correct": "soupirs",
+    "wrong": ["prières", "gémissements", "cris"],
+    "hint": "Des expressions profondes au-delà des mots",
+    "explanation": "Paul enseigne que le Saint-Esprit nous aide à prier quand nous ne savons pas comment.",
+    "full_verse": "De même aussi l'Esprit nous aide dans notre faiblesse, car nous ne savons pas ce qu'il nous convient de demander dans nos prières. Mais l'Esprit lui-même intercède par des soupirs inexprimables.",
+    "verse_ref": "Romains 8:26"
+  },
+  "q_prayer_011": {
+    "question": "Selon Matthieu 6:6, « Mais quand tu pries, entre dans ta chambre, ferme ta porte, et prie ton Père qui est là dans le lieu _____. »",
+    "correct": "secret",
+    "wrong": ["privé", "silencieux", "sombre"],
+    "hint": "Caché du regard public",
+    "explanation": "Jésus enseigne la prière privée que Dieu voit et récompense.",
+    "full_verse": "Mais quand tu pries, entre dans ta chambre, ferme ta porte, et prie ton Père qui est là dans le lieu secret; et ton Père, qui voit dans le secret, te le rendra.",
+    "verse_ref": "Matthieu 6:6"
+  },
+  "q_prayer_012": {
+    "question": "Selon Matthieu 18:19, « Si deux d'entre vous s'accordent sur la terre pour demander une chose quelconque, elle leur sera accordée par mon Père qui est dans les _____. »",
+    "correct": "cieux",
+    "wrong": ["gloire", "puissance", "amour"],
+    "hint": "Où Dieu demeure",
+    "explanation": "Jésus promet que la prière unie d'accord sera exaucée par le Père.",
+    "full_verse": "Je vous dis encore que, si deux d'entre vous s'accordent sur la terre pour demander une chose quelconque, elle leur sera accordée par mon Père qui est dans les cieux.",
+    "verse_ref": "Matthieu 18:19"
+  },
+  "q_prayer_013": {
+    "question": "Selon Matthieu 21:22, « Tout ce que vous demanderez avec foi par la _____, vous le recevrez. »",
+    "correct": "prière",
+    "wrong": ["foi", "espérance", "amour"],
+    "hint": "La communication avec Dieu",
+    "explanation": "Jésus relie la foi croyante à la réception des réponses à la prière.",
+    "full_verse": "Tout ce que vous demanderez avec foi par la prière, vous le recevrez.",
+    "verse_ref": "Matthieu 21:22"
+  },
+  "q_prayer_014": {
+    "question": "Selon Marc 11:24, « C'est pourquoi je vous dis: Tout ce que vous demanderez en priant, croyez que vous l'avez _____, et vous le verrez s'accomplir. »",
+    "correct": "reçu",
+    "wrong": ["obtenu", "gagné", "acquis"],
+    "hint": "Déjà posséder ce que vous avez demandé",
+    "explanation": "Jésus enseigne que la foi dans la prière signifie croire que nous avons déjà reçu.",
+    "full_verse": "C'est pourquoi je vous dis: Tout ce que vous demanderez en priant, croyez que vous l'avez reçu, et vous le verrez s'accomplir.",
+    "verse_ref": "Marc 11:24"
+  },
+  "q_prayer_015": {
+    "question": "Selon Luc 11:9, « Et moi, je vous dis: Demandez, et l'on vous donnera; cherchez, et vous trouverez; frappez, et l'on vous _____. »",
+    "correct": "ouvrira",
+    "wrong": ["montrera", "révélera", "accueillera"],
+    "hint": "L'accès est accordé",
+    "explanation": "Jésus encourage à demander, chercher et frapper avec persistance dans la prière.",
+    "full_verse": "Et moi, je vous dis: Demandez, et l'on vous donnera; cherchez, et vous trouverez; frappez, et l'on vous ouvrira.",
+    "verse_ref": "Luc 11:9"
+  },
+  "q_prayer_016": {
+    "question": "Selon Luc 18:1, « Jésus leur adressa une parabole, pour montrer qu'il faut toujours prier, et ne point se _____. »",
+    "correct": "relâcher",
+    "wrong": ["fatiguer", "décourager", "arrêter"],
+    "hint": "Ne pas abandonner",
+    "explanation": "Jésus enseigne par une parabole que nous devons persister dans la prière.",
+    "full_verse": "Jésus leur adressa une parabole, pour montrer qu'il faut toujours prier, et ne point se relâcher.",
+    "verse_ref": "Luc 18:1"
+  },
+  "q_prayer_017": {
+    "question": "Selon Jean 15:7, « Si vous demeurez en moi, et que mes paroles demeurent en vous, demandez ce que vous voudrez, et cela vous sera _____. »",
+    "correct": "accordé",
+    "wrong": ["donné", "offert", "fourni"],
+    "hint": "Cela arrivera",
+    "explanation": "Jésus promet des prières exaucées à ceux qui demeurent en lui et en sa parole.",
+    "full_verse": "Si vous demeurez en moi, et que mes paroles demeurent en vous, demandez ce que vous voudrez, et cela vous sera accordé.",
+    "verse_ref": "Jean 15:7"
+  },
+  "q_prayer_018": {
+    "question": "Selon Jean 16:24, « Jusqu'à présent vous n'avez rien demandé en mon nom. Demandez, et vous recevrez, afin que votre joie soit _____. »",
+    "correct": "parfaite",
+    "wrong": ["complète", "grande", "pleine"],
+    "hint": "La joie atteignant sa plénitude",
+    "explanation": "Jésus encourage ses disciples à prier en son nom pour une joie parfaite.",
+    "full_verse": "Jusqu'à présent vous n'avez rien demandé en mon nom. Demandez, et vous recevrez, afin que votre joie soit parfaite.",
+    "verse_ref": "Jean 16:24"
+  },
+  "q_prayer_019": {
+    "question": "Selon Colossiens 4:2, « Persévérez dans la prière, veillez-y avec actions de _____. »",
+    "correct": "grâces",
+    "wrong": ["foi", "louange", "espérance"],
+    "hint": "Exprimer la gratitude",
+    "explanation": "Paul appelle les croyants à une prière dévouée, vigilante et reconnaissante.",
+    "full_verse": "Persévérez dans la prière, veillez-y avec actions de grâces.",
+    "verse_ref": "Colossiens 4:2"
+  },
+  "q_prayer_020": {
+    "question": "Selon Éphésiens 6:18, « Faites en tout temps par l'Esprit toutes sortes de prières et de supplications. Veillez à cela avec une entière persévérance, et priez pour tous les _____. »",
+    "correct": "saints",
+    "wrong": ["croyants", "fidèles", "chrétiens"],
+    "hint": "Les membres du peuple de Dieu",
+    "explanation": "Paul instruit les croyants à prier dans l'Esprit pour tout le peuple de Dieu.",
+    "full_verse": "Faites en tout temps par l'Esprit toutes sortes de prières et de supplications. Veillez à cela avec une entière persévérance, et priez pour tous les saints.",
+    "verse_ref": "Éphésiens 6:18"
+  },
+  "q_prayer_021": {
+    "question": "Selon 1 Timothée 2:8, « Je veux donc que les hommes prient en tout lieu, en élevant des mains pures, sans colère ni _____. »",
+    "correct": "mauvaises pensées",
+    "wrong": ["dispute", "querelle", "doute"],
+    "hint": "Des pensées négatives ou conflictuelles",
+    "explanation": "Paul instruit les hommes à prier avec des mains saintes et des cœurs paisibles.",
+    "full_verse": "Je veux donc que les hommes prient en tout lieu, en élevant des mains pures, sans colère ni mauvaises pensées.",
+    "verse_ref": "1 Timothée 2:8"
+  },
+  "q_prayer_022": {
+    "question": "Selon Hébreux 4:16, « Approchons-nous donc avec assurance du trône de la grâce, afin d'obtenir miséricorde et de trouver grâce, pour être secourus dans nos _____. »",
+    "correct": "besoins",
+    "wrong": ["difficultés", "détresses", "faiblesses"],
+    "hint": "Quand nous avons besoin d'aide",
+    "explanation": "Nous sommes encouragés à nous approcher hardiment du trône de Dieu pour obtenir de l'aide quand nous en avons besoin.",
+    "full_verse": "Approchons-nous donc avec assurance du trône de la grâce, afin d'obtenir miséricorde et de trouver grâce, pour être secourus dans nos besoins.",
+    "verse_ref": "Hébreux 4:16"
+  },
+  "q_prayer_023": {
+    "question": "Selon Jacques 1:5, « Si quelqu'un d'entre vous manque de sagesse, qu'il la demande à Dieu, qui donne à tous simplement et sans _____. »",
+    "correct": "reproche",
+    "wrong": ["blâme", "erreur", "faute"],
+    "hint": "Dieu ne nous critique pas pour demander",
+    "explanation": "Jacques encourage les croyants à demander à Dieu la sagesse, qui donne généreusement.",
+    "full_verse": "Si quelqu'un d'entre vous manque de sagesse, qu'il la demande à Dieu, qui donne à tous simplement et sans reproche, et elle lui sera donnée.",
+    "verse_ref": "Jacques 1:5"
+  },
+  "q_prayer_024": {
+    "question": "Selon Jacques 4:2, « Vous convoitez, et vous ne possédez pas; vous êtes meurtriers et envieux, et vous ne pouvez pas obtenir; vous avez des querelles et des luttes, et vous ne possédez pas, parce que vous ne _____ pas. »",
+    "correct": "demandez",
+    "wrong": ["priez", "croyez", "cherchez"],
+    "hint": "Simplement faire une requête à Dieu",
+    "explanation": "Jacques souligne que nous manquons souvent parce que nous ne demandons pas à Dieu.",
+    "full_verse": "Vous convoitez, et vous ne possédez pas; vous êtes meurtriers et envieux, et vous ne pouvez pas obtenir; vous avez des querelles et des luttes, et vous ne possédez pas, parce que vous ne demandez pas.",
+    "verse_ref": "Jacques 4:2"
+  },
+  "q_prayer_025": {
+    "question": "Selon 1 Pierre 3:12, « Car les yeux du Seigneur sont sur les justes et ses oreilles sont attentives à leur prière, mais la face du Seigneur est contre ceux qui font le _____. »",
+    "correct": "mal",
+    "wrong": ["péché", "tort", "méchanceté"],
+    "hint": "Le contraire du bien",
+    "explanation": "Pierre cite le Psaume 34, montrant que Dieu entend les prières des justes.",
+    "full_verse": "Car les yeux du Seigneur sont sur les justes et ses oreilles sont attentives à leur prière, mais la face du Seigneur est contre ceux qui font le mal.",
+    "verse_ref": "1 Pierre 3:12"
+  },
+  "q_prayer_026": {
+    "question": "Selon Psaume 4:2, « Quand je crie, réponds-moi, Dieu de ma justice! Quand je suis dans la détresse, mets-moi au large! Aie _____ de moi, écoute ma prière! »",
+    "correct": "pitié",
+    "wrong": ["compassion", "grâce", "merci"],
+    "hint": "David demande la bonté de Dieu",
+    "explanation": "David invoque Dieu pour sa miséricorde et son soulagement dans sa détresse.",
+    "full_verse": "Quand je crie, réponds-moi, Dieu de ma justice! Quand je suis dans la détresse, mets-moi au large! Aie pitié de moi, écoute ma prière!",
+    "verse_ref": "Psaume 4:2"
+  },
+  "q_prayer_027": {
+    "question": "Selon Psaume 5:4, « Éternel! le matin tu entends ma voix; le matin je me tourne vers toi, et je _____. »",
+    "correct": "regarde",
+    "wrong": ["patiemment", "espère", "attends"],
+    "hint": "Avec anticipation vers Dieu",
+    "explanation": "David présente ses prières le matin et attend avec expectative.",
+    "full_verse": "Éternel! le matin tu entends ma voix; le matin je me tourne vers toi, et je regarde.",
+    "verse_ref": "Psaume 5:4"
+  },
+  "q_prayer_028": {
+    "question": "Selon Psaume 17:6, « Je t'invoque, car tu m'exauces, ô Dieu! Incline vers moi ton oreille, écoute ma _____! »",
+    "correct": "parole",
+    "wrong": ["voix", "cri", "prière"],
+    "hint": "Ce que David dit à Dieu",
+    "explanation": "David exprime sa confiance que Dieu entendra et répondra à sa prière.",
+    "full_verse": "Je t'invoque, car tu m'exauces, ô Dieu! Incline vers moi ton oreille, écoute ma parole!",
+    "verse_ref": "Psaume 17:6"
+  },
+  "q_prayer_029": {
+    "question": "Selon Psaume 55:18, « Le soir, le matin, et à midi, je soupire et je gémis, et il _____ ma voix. »",
+    "correct": "entendra",
+    "wrong": ["connaît", "reçoit", "répond"],
+    "hint": "Dieu prête attention",
+    "explanation": "David témoigne que Dieu entend ses prières tout au long de la journée.",
+    "full_verse": "Le soir, le matin, et à midi, je soupire et je gémis, et il entendra ma voix.",
+    "verse_ref": "Psaume 55:18"
+  },
+  "q_prayer_030": {
+    "question": "Selon Psaume 66:19, « Mais Dieu m'a _____, il a été attentif à la voix de ma prière. »",
+    "correct": "exaucé",
+    "wrong": ["entendu", "écouté", "répondu"],
+    "hint": "Dieu a répondu favorablement",
+    "explanation": "Le psalmiste témoigne que Dieu a vraiment écouté sa prière.",
+    "full_verse": "Mais Dieu m'a exaucé, il a été attentif à la voix de ma prière.",
+    "verse_ref": "Psaume 66:19"
+  },
+  "q_prayer_031": {
+    "question": "Selon Psaume 86:6, « Éternel, prête l'oreille à ma prière, sois attentif à la voix de mes _____! »",
+    "correct": "supplications",
+    "wrong": ["demandes", "requêtes", "cris"],
+    "hint": "Des requêtes ardentes",
+    "explanation": "David supplie Dieu d'entendre sa prière et ses supplications.",
+    "full_verse": "Éternel, prête l'oreille à ma prière, sois attentif à la voix de mes supplications!",
+    "verse_ref": "Psaume 86:6"
+  },
+  "q_prayer_032": {
+    "question": "Selon Psaume 102:18, « Il est attentif à la prière du misérable, il ne dédaigne pas sa _____. »",
+    "correct": "prière",
+    "wrong": ["cri", "supplication", "requête"],
+    "hint": "La communication avec Dieu",
+    "explanation": "Le psalmiste assure que Dieu répond aux prières des nécessiteux.",
+    "full_verse": "Il est attentif à la prière du misérable, il ne dédaigne pas sa prière.",
+    "verse_ref": "Psaume 102:18"
+  },
+  "q_prayer_033": {
+    "question": "Selon Psaume 141:2, « Que ma prière soit devant ta face comme l'encens, et l'élévation de mes mains comme l'offrande du _____! »",
+    "correct": "soir",
+    "wrong": ["matin", "sacrifice", "temple"],
+    "hint": "Un moment de la journée",
+    "explanation": "David compare sa prière à l'encens et ses mains levées à une offrande.",
+    "full_verse": "Que ma prière soit devant ta face comme l'encens, et l'élévation de mes mains comme l'offrande du soir!",
+    "verse_ref": "Psaume 141:2"
+  },
+  "q_prayer_034": {
+    "question": "Selon Ésaïe 55:6, « Cherchez l'Éternel pendant qu'il se trouve; invoquez-le, tandis qu'il est _____. »",
+    "correct": "près",
+    "wrong": ["ici", "proche", "présent"],
+    "hint": "À portée",
+    "explanation": "Ésaïe exhorte à chercher Dieu et à l'invoquer pendant qu'il est accessible.",
+    "full_verse": "Cherchez l'Éternel pendant qu'il se trouve; invoquez-le, tandis qu'il est près.",
+    "verse_ref": "Ésaïe 55:6"
+  },
+  "q_prayer_035": {
+    "question": "Selon Ésaïe 65:24, « Avant qu'ils m'invoquent, je répondrai; avant qu'ils aient cessé de parler, j'_____. »",
+    "correct": "exaucerai",
+    "wrong": ["répondrai", "écouterai", "entendrai"],
+    "hint": "Dieu prête attention avant même que nous finissions",
+    "explanation": "Dieu promet d'entendre et de répondre avant même que son peuple finisse de prier.",
+    "full_verse": "Avant qu'ils m'invoquent, je répondrai; avant qu'ils aient cessé de parler, j'exaucerai.",
+    "verse_ref": "Ésaïe 65:24"
+  },
+  "q_prayer_036": {
+    "question": "Selon Jérémie 33:3, « Invoque-moi, et je te répondrai; je t'annoncerai de grandes choses, des choses cachées, que tu ne _____ pas. »",
+    "correct": "connais",
+    "wrong": ["vois", "comprends", "as"],
+    "hint": "Des informations inconnues",
+    "explanation": "Dieu nous invite à l'invoquer et promet de révéler des vérités cachées.",
+    "full_verse": "Invoque-moi, et je te répondrai; je t'annoncerai de grandes choses, des choses cachées, que tu ne connais pas.",
+    "verse_ref": "Jérémie 33:3"
+  },
+  "q_prayer_037": {
+    "question": "Selon Daniel 9:18, « Car ce n'est pas à cause de notre justice que nous te présentons nos supplications, c'est à cause de tes grandes _____. »",
+    "correct": "compassions",
+    "wrong": ["amours", "grâces", "bontés"],
+    "hint": "La bonté de Dieu",
+    "explanation": "Daniel prie en se fondant sur la miséricorde de Dieu, non sur la justice humaine.",
+    "full_verse": "Mon Dieu, prête l'oreille et écoute! ouvre les yeux et regarde nos ruines, regarde la ville sur laquelle ton nom est invoqué! Car ce n'est pas à cause de notre justice que nous te présentons nos supplications, c'est à cause de tes grandes compassions.",
+    "verse_ref": "Daniel 9:18"
+  },
+  "q_prayer_038": {
+    "question": "Selon Matthieu 6:7, « En priant, ne multipliez pas de vaines paroles, comme les païens, qui s'imaginent qu'à force de _____ ils seront exaucés. »",
+    "correct": "paroles",
+    "wrong": ["prières", "demandes", "offrandes"],
+    "hint": "La quantité de discours",
+    "explanation": "Jésus met en garde contre les répétitions vaines dans la prière.",
+    "full_verse": "En priant, ne multipliez pas de vaines paroles, comme les païens, qui s'imaginent qu'à force de paroles ils seront exaucés.",
+    "verse_ref": "Matthieu 6:7"
+  },
+  "q_prayer_039": {
+    "question": "Selon Matthieu 26:41, « Veillez et priez, afin que vous ne tombiez pas dans la tentation; l'esprit est bien disposé, mais la chair est _____. »",
+    "correct": "faible",
+    "wrong": ["fatiguée", "fragile", "pécheresse"],
+    "hint": "Manquant de force",
+    "explanation": "Jésus avertit ses disciples de prier pour éviter de tomber dans la tentation.",
+    "full_verse": "Veillez et priez, afin que vous ne tombiez pas dans la tentation; l'esprit est bien disposé, mais la chair est faible.",
+    "verse_ref": "Matthieu 26:41"
+  },
+  "q_prayer_040": {
+    "question": "Selon Luc 6:12, « En ce temps-là, Jésus se rendit sur la montagne pour prier, et il passa toute la _____ à prier Dieu. »",
+    "correct": "nuit",
+    "wrong": ["journée", "soirée", "matinée"],
+    "hint": "Une longue période d'obscurité",
+    "explanation": "Luc rapporte que Jésus passa une nuit entière en prière à Dieu.",
+    "full_verse": "En ce temps-là, Jésus se rendit sur la montagne pour prier, et il passa toute la nuit à prier Dieu.",
+    "verse_ref": "Luc 6:12"
+  },
+  "q_prayer_041": {
+    "question": "Selon Actes 1:14, « Tous d'un commun accord persévéraient dans la prière, avec les femmes, et Marie, mère de Jésus, et avec les _____ de Jésus. »",
+    "correct": "frères",
+    "wrong": ["disciples", "apôtres", "amis"],
+    "hint": "Les membres de la famille de Jésus",
+    "explanation": "Les premiers croyants, y compris la famille de Jésus, se consacraient à la prière unie.",
+    "full_verse": "Tous d'un commun accord persévéraient dans la prière, avec les femmes, et Marie, mère de Jésus, et avec les frères de Jésus.",
+    "verse_ref": "Actes 1:14"
+  },
+  "q_prayer_042": {
+    "question": "Selon Actes 2:42, « Ils persévéraient dans l'enseignement des apôtres, dans la communion fraternelle, dans la fraction du pain, et dans les _____. »",
+    "correct": "prières",
+    "wrong": ["louanges", "adorations", "jeûnes"],
+    "hint": "La communication avec Dieu",
+    "explanation": "L'Église primitive se consacrait à l'enseignement, la communion, la fraction du pain et la prière.",
+    "full_verse": "Ils persévéraient dans l'enseignement des apôtres, dans la communion fraternelle, dans la fraction du pain, et dans les prières.",
+    "verse_ref": "Actes 2:42"
+  },
+  "q_prayer_043": {
+    "question": "Selon Romains 12:12, « Réjouissez-vous en espérance. Soyez patients dans l'affliction. Persévérez dans la _____. »",
+    "correct": "prière",
+    "wrong": ["foi", "amour", "service"],
+    "hint": "La communication avec Dieu",
+    "explanation": "Paul donne trois instructions pour la vie chrétienne, y compris la prière fidèle.",
+    "full_verse": "Réjouissez-vous en espérance. Soyez patients dans l'affliction. Persévérez dans la prière.",
+    "verse_ref": "Romains 12:12"
+  },
+  "q_prayer_044": {
+    "question": "Selon Éphésiens 3:20, « Or, à celui qui peut faire, par la puissance qui agit en nous, infiniment au-delà de tout ce que nous demandons ou _____. »",
+    "correct": "pensons",
+    "wrong": ["imaginons", "espérons", "rêvons"],
+    "hint": "Ce qui se passe dans notre esprit",
+    "explanation": "Paul loue Dieu qui peut faire bien plus que tout ce que nous pourrions demander ou imaginer.",
+    "full_verse": "Or, à celui qui peut faire, par la puissance qui agit en nous, infiniment au-delà de tout ce que nous demandons ou pensons.",
+    "verse_ref": "Éphésiens 3:20"
+  },
+  "q_prayer_045": {
+    "question": "Selon Philippiens 4:7, « Et la paix de Dieu, qui surpasse toute intelligence, gardera vos cœurs et vos pensées en Jésus-_____. »",
+    "correct": "Christ",
+    "wrong": ["Seigneur", "Sauveur", "Dieu"],
+    "hint": "Le titre complet de notre Seigneur",
+    "explanation": "Paul promet que la paix de Dieu gardera les croyants qui prient avec action de grâces.",
+    "full_verse": "Et la paix de Dieu, qui surpasse toute intelligence, gardera vos cœurs et vos pensées en Jésus-Christ.",
+    "verse_ref": "Philippiens 4:7"
+  },
+  "q_prayer_046": {
+    "question": "Selon 1 Timothée 2:1, « J'exhorte donc, avant toutes choses, à faire des prières, des supplications, des requêtes, des actions de grâces, pour tous les _____. »",
+    "correct": "hommes",
+    "wrong": ["nations", "croyants", "saints"],
+    "hint": "Tout le monde",
+    "explanation": "Paul instruit que les prières doivent être faites pour tous les hommes.",
+    "full_verse": "J'exhorte donc, avant toutes choses, à faire des prières, des supplications, des requêtes, des actions de grâces, pour tous les hommes.",
+    "verse_ref": "1 Timothée 2:1"
+  },
+  "q_prayer_047": {
+    "question": "Selon Hébreux 5:7, « C'est lui qui, dans les jours de sa chair, ayant présenté avec de grands cris et avec larmes des prières et des supplications à celui qui pouvait le sauver de la mort, et ayant été exaucé à cause de sa _____. »",
+    "correct": "piété",
+    "wrong": ["foi", "prière", "obéissance"],
+    "hint": "La révérence humble envers Dieu",
+    "explanation": "L'auteur décrit les prières intenses de Jésus pendant son ministère terrestre.",
+    "full_verse": "C'est lui qui, dans les jours de sa chair, ayant présenté avec de grands cris et avec larmes des prières et des supplications à celui qui pouvait le sauver de la mort, et ayant été exaucé à cause de sa piété.",
+    "verse_ref": "Hébreux 5:7"
+  },
+  "q_prayer_048": {
+    "question": "Selon Jacques 5:15, « La prière de la foi sauvera le malade, et le Seigneur le relèvera; et s'il a commis des péchés, il lui sera _____. »",
+    "correct": "pardonné",
+    "wrong": ["guéri", "restauré", "sauvé"],
+    "hint": "Les péchés sont effacés",
+    "explanation": "Jacques relie la prière fidèle à la guérison et au pardon.",
+    "full_verse": "La prière de la foi sauvera le malade, et le Seigneur le relèvera; et s'il a commis des péchés, il lui sera pardonné.",
+    "verse_ref": "Jacques 5:15"
+  },
+  "q_prayer_049": {
+    "question": "Selon 1 Jean 3:22, « Quoi que ce soit que nous demandions, nous le recevons de lui, parce que nous gardons ses commandements et que nous faisons ce qui lui est _____. »",
+    "correct": "agréable",
+    "wrong": ["honorable", "glorieux", "fidèle"],
+    "hint": "Ce qui plaît à Dieu",
+    "explanation": "Jean relie les prières exaucées à l'obéissance aux commandements de Dieu.",
+    "full_verse": "Quoi que ce soit que nous demandions, nous le recevons de lui, parce que nous gardons ses commandements et que nous faisons ce qui lui est agréable.",
+    "verse_ref": "1 Jean 3:22"
+  },
+  "q_prayer_050": {
+    "question": "Selon Apocalypse 8:4, « La fumée des parfums monta, avec les prières des saints, de la main de l'_____ devant Dieu. »",
+    "correct": "ange",
+    "wrong": ["autel", "trône", "ciel"],
+    "hint": "Un être céleste",
+    "explanation": "La vision de Jean montre les prières des croyants montant devant Dieu comme de l'encens.",
+    "full_verse": "La fumée des parfums monta, avec les prières des saints, de la main de l'ange devant Dieu.",
+    "verse_ref": "Apocalypse 8:4"
+  }
+}

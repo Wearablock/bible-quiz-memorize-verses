@@ -1,1 +1,452 @@
-{}
+{
+  "q_comfort_001": {
+    "question": "Completa el espacio en blanco: 'Aunque ande en valle de sombra de muerte, no temeré mal alguno, porque tú estarás _____.'",
+    "correct": "conmigo",
+    "wrong": ["con nosotros", "con ellos", "con todos"],
+    "hint": "La presencia de Dios es personal",
+    "explanation": "David expresa confianza en que la presencia de Dios brinda consuelo y protección incluso en los momentos más oscuros de la vida.",
+    "full_verse": "Aunque ande en valle de sombra de muerte, no temeré mal alguno, porque tú estarás conmigo; tu vara y tu cayado me infundirán aliento.",
+    "verse_ref": "Salmos 23:4"
+  },
+  "q_comfort_002": {
+    "question": "Completa el espacio en blanco: 'Bendito sea el Dios y Padre de nuestro Señor Jesucristo, Padre de misericordias y Dios de toda _____.'",
+    "correct": "consolación",
+    "wrong": ["misericordia", "gracia", "amor"],
+    "hint": "Esto describe la naturaleza de Dios para consolar",
+    "explanation": "Pablo identifica a Dios como la fuente máxima de todo consuelo, quien nos consuela para que podamos consolar a otros.",
+    "full_verse": "Bendito sea el Dios y Padre de nuestro Señor Jesucristo, Padre de misericordias y Dios de toda consolación, el cual nos consuela en todas nuestras tribulaciones.",
+    "verse_ref": "2 Corintios 1:3-4"
+  },
+  "q_comfort_003": {
+    "question": "Completa el espacio en blanco: 'Bienaventurados los que lloran, porque ellos recibirán _____.'",
+    "correct": "consolación",
+    "wrong": ["sanidad", "bendición", "salvación"],
+    "hint": "Jesús promete consuelo a los que están de luto",
+    "explanation": "En las Bienaventuranzas, Jesús promete consuelo divino a aquellos que están de duelo y lloran.",
+    "full_verse": "Bienaventurados los que lloran, porque ellos recibirán consolación.",
+    "verse_ref": "Mateo 5:4"
+  },
+  "q_comfort_004": {
+    "question": "Completa el espacio en blanco: 'No temas, porque yo estoy contigo; no desmayes, porque yo soy tu _____.'",
+    "correct": "Dios",
+    "wrong": ["Señor", "Salvador", "Rey"],
+    "hint": "Dios declara Su identidad como la razón para no temer",
+    "explanation": "Dios asegura a su pueblo que Su presencia e identidad eliminan la necesidad del temor.",
+    "full_verse": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sustentaré con la diestra de mi justicia.",
+    "verse_ref": "Isaías 41:10"
+  },
+  "q_comfort_005": {
+    "question": "Completa el espacio en blanco: 'La paz os dejo, mi _____ os doy.'",
+    "correct": "paz",
+    "wrong": ["amor", "gozo", "Espíritu"],
+    "hint": "Jesús da lo que deja",
+    "explanation": "Jesús promete a sus discípulos una paz sobrenatural que el mundo no puede dar.",
+    "full_verse": "La paz os dejo, mi paz os doy; yo no os la doy como el mundo la da. No se turbe vuestro corazón, ni tenga miedo.",
+    "verse_ref": "Juan 14:27"
+  },
+  "q_comfort_006": {
+    "question": "Completa el espacio en blanco: 'Cercano está Jehová a los quebrantados de _____.'",
+    "correct": "corazón",
+    "wrong": ["espíritu", "alma", "fe"],
+    "hint": "Dios se acerca a aquellos con corazones heridos",
+    "explanation": "Dios promete Su cercanía especial a aquellos que están emocionalmente heridos y quebrantados de espíritu.",
+    "full_verse": "Cercano está Jehová a los quebrantados de corazón; y salva a los contritos de espíritu.",
+    "verse_ref": "Salmos 34:18"
+  },
+  "q_comfort_007": {
+    "question": "Completa el espacio en blanco: 'Venid a mí todos los que estáis trabajados y cargados, y yo os haré _____.'",
+    "correct": "descansar",
+    "wrong": ["paz", "esperanza", "fuerza"],
+    "hint": "Jesús ofrece alivio del agotamiento",
+    "explanation": "Jesús invita a todos los que están cansados y agobiados a encontrar descanso en Él.",
+    "full_verse": "Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar.",
+    "verse_ref": "Mateo 11:28"
+  },
+  "q_comfort_008": {
+    "question": "Completa el espacio en blanco: 'Y sabemos que a los que aman a Dios, todas las cosas les ayudan a _____.'",
+    "correct": "bien",
+    "wrong": ["beneficio", "bendición", "gloria"],
+    "hint": "El propósito de Dios en todas las circunstancias",
+    "explanation": "Pablo asegura a los creyentes que Dios orquesta todas las cosas para su bien supremo.",
+    "full_verse": "Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien, esto es, a los que conforme a su propósito son llamados.",
+    "verse_ref": "Romanos 8:28"
+  },
+  "q_comfort_009": {
+    "question": "Completa el espacio en blanco: 'Dios es nuestro amparo y fortaleza, nuestro pronto auxilio en las _____.'",
+    "correct": "tribulaciones",
+    "wrong": ["necesidades", "angustias", "peligros"],
+    "hint": "Cuando surgen dificultades, Dios está ahí",
+    "explanation": "El salmista declara a Dios como una fuente constante de protección y ayuda durante los tiempos difíciles.",
+    "full_verse": "Dios es nuestro amparo y fortaleza, nuestro pronto auxilio en las tribulaciones.",
+    "verse_ref": "Salmos 46:1"
+  },
+  "q_comfort_010": {
+    "question": "Completa el espacio en blanco: 'Como aquel a quien consuela su madre, así os _____ yo.'",
+    "correct": "consolaré",
+    "wrong": ["amaré", "protegeré", "guiaré"],
+    "hint": "Dios promete consolación maternal",
+    "explanation": "Dios compara Su consuelo con el tierno cuidado que una madre da a su hijo.",
+    "full_verse": "Como aquel a quien consuela su madre, así os consolaré yo a vosotros, y en Jerusalén tomaréis consuelo.",
+    "verse_ref": "Isaías 66:13"
+  },
+  "q_comfort_011": {
+    "question": "Completa el espacio en blanco: 'Jehová es mi _____; nada me faltará.'",
+    "correct": "pastor",
+    "wrong": ["Dios", "Rey", "Padre"],
+    "hint": "Esta metáfora muestra la guía cuidadosa de Dios",
+    "explanation": "David usa la metáfora del pastor para describir la provisión y cuidado completo de Dios.",
+    "full_verse": "Jehová es mi pastor; nada me faltará.",
+    "verse_ref": "Salmos 23:1"
+  },
+  "q_comfort_012": {
+    "question": "Completa el espacio en blanco: 'Jehová es mi luz y mi salvación; ¿de quién _____?'",
+    "correct": "temeré",
+    "wrong": ["confiaré", "seguiré", "serviré"],
+    "hint": "La presencia de Dios elimina esta emoción",
+    "explanation": "David declara que con Dios como luz y salvación, no hay razón para el temor.",
+    "full_verse": "Jehová es mi luz y mi salvación; ¿de quién temeré? Jehová es la fortaleza de mi vida; ¿de quién he de atemorizarme?",
+    "verse_ref": "Salmos 27:1"
+  },
+  "q_comfort_013": {
+    "question": "Completa el espacio en blanco: 'Echa sobre Jehová tu carga, y él te _____.'",
+    "correct": "sustentará",
+    "wrong": ["consolará", "ayudará", "salvará"],
+    "hint": "Dios te mantendrá en pie",
+    "explanation": "El salmista anima a dar nuestras preocupaciones a Dios, quien nos apoyará y mantendrá.",
+    "full_verse": "Echa sobre Jehová tu carga, y él te sustentará; no dejará para siempre caído al justo.",
+    "verse_ref": "Salmos 55:22"
+  },
+  "q_comfort_014": {
+    "question": "Completa el espacio en blanco: 'Mi carne y mi corazón desfallecen; mas la roca de mi corazón y mi porción es Dios para _____.'",
+    "correct": "siempre",
+    "wrong": ["siempre", "eternamente", "diariamente"],
+    "hint": "La provisión de Dios no tiene fin",
+    "explanation": "Incluso cuando nuestros cuerpos y espíritus fallan, Dios permanece como nuestra fuerza eterna y herencia.",
+    "full_verse": "Mi carne y mi corazón desfallecen; mas la roca de mi corazón y mi porción es Dios para siempre.",
+    "verse_ref": "Salmos 73:26"
+  },
+  "q_comfort_015": {
+    "question": "Completa el espacio en blanco: 'En la multitud de mis pensamientos dentro de mí, tus consolaciones alegraban mi _____.'",
+    "correct": "alma",
+    "wrong": ["corazón", "espíritu", "vida"],
+    "hint": "El consuelo de Dios produce alegría interior",
+    "explanation": "El salmista testifica que el consuelo de Dios transforma la ansiedad abrumadora en gozo.",
+    "full_verse": "En la multitud de mis pensamientos dentro de mí, tus consolaciones alegraban mi alma.",
+    "verse_ref": "Salmos 94:19"
+  },
+  "q_comfort_016": {
+    "question": "Completa el espacio en blanco: 'Ella es mi consuelo en mi aflicción, porque tu _____ me ha vivificado.'",
+    "correct": "dicho",
+    "wrong": ["palabra", "amor", "gracia"],
+    "hint": "El compromiso de Dios da vida",
+    "explanation": "El salmista encuentra consuelo en el sufrimiento a través de las fieles promesas de Dios.",
+    "full_verse": "Ella es mi consuelo en mi aflicción, porque tu dicho me ha vivificado.",
+    "verse_ref": "Salmos 119:50"
+  },
+  "q_comfort_017": {
+    "question": "Completa el espacio en blanco: 'Sea satisfacción mía tu misericordia, como lo has dicho a tu _____.'",
+    "correct": "siervo",
+    "wrong": ["hijo", "pueblo", "amado"],
+    "hint": "El salmista apela a lo que Dios dijo",
+    "explanation": "El salmista pide consuelo basado en el amor inagotable de Dios y Sus promesas.",
+    "full_verse": "Sea satisfacción mía tu misericordia, como lo has dicho a tu siervo.",
+    "verse_ref": "Salmos 119:76"
+  },
+  "q_comfort_018": {
+    "question": "Completa el espacio en blanco: 'El sana a los quebrantados de corazón, y venda sus _____.'",
+    "correct": "heridas",
+    "wrong": ["corazones", "tristezas", "dolores"],
+    "hint": "Dios provee sanidad para las heridas emocionales",
+    "explanation": "Dios no solo sana los corazones rotos sino que también cuida las heridas específicas que llevamos.",
+    "full_verse": "El sana a los quebrantados de corazón, y venda sus heridas.",
+    "verse_ref": "Salmos 147:3"
+  },
+  "q_comfort_019": {
+    "question": "Completa el espacio en blanco: 'Consolaos, consolaos, pueblo _____, dice vuestro Dios.'",
+    "correct": "mío",
+    "wrong": ["de Israel", "santo", "amado"],
+    "hint": "Dios se dirige a Su comunidad",
+    "explanation": "Dios ordena que Su pueblo reciba doble consuelo, enfatizando la importancia de la consolación.",
+    "full_verse": "Consolaos, consolaos, pueblo mío, dice vuestro Dios.",
+    "verse_ref": "Isaías 40:1"
+  },
+  "q_comfort_020": {
+    "question": "Completa el espacio en blanco: 'Cantad alabanzas, oh cielos, y alégrate, tierra; y prorrumpid en alabanzas, oh montes; porque Jehová ha _____ a su pueblo.'",
+    "correct": "consolado",
+    "wrong": ["amado", "salvado", "bendecido"],
+    "hint": "Toda la creación celebra la consolación de Dios",
+    "explanation": "La creación es llamada a celebrar porque Dios proporciona consuelo a Su pueblo.",
+    "full_verse": "Cantad alabanzas, oh cielos, y alégrate, tierra; y prorrumpid en alabanzas, oh montes; porque Jehová ha consolado a su pueblo, y de sus pobres tendrá misericordia.",
+    "verse_ref": "Isaías 49:13"
+  },
+  "q_comfort_021": {
+    "question": "Completa el espacio en blanco: 'Yo, yo soy vuestro _____.'",
+    "correct": "consolador",
+    "wrong": ["salvador", "amador", "protector"],
+    "hint": "Dios personalmente proporciona consolación",
+    "explanation": "Dios declara enfáticamente que Él mismo es quien trae consuelo.",
+    "full_verse": "Yo, yo soy vuestro consolador. ¿Quién eres tú para que tengas temor del hombre, que es mortal, y del hijo de hombre, que es como heno?",
+    "verse_ref": "Isaías 51:12"
+  },
+  "q_comfort_022": {
+    "question": "Completa el espacio en blanco: 'Porque los montes se moverán, y los collados temblarán, pero no se apartará de ti mi misericordia, ni el pacto de mi _____ se quebrantará.'",
+    "correct": "paz",
+    "wrong": ["amor", "gracia", "promesa"],
+    "hint": "El pacto de Dios con nosotros es inquebrantable",
+    "explanation": "Dios promete que Su amor es más estable que las montañas mismas.",
+    "full_verse": "Porque los montes se moverán, y los collados temblarán, pero no se apartará de ti mi misericordia, ni el pacto de mi paz se quebrantará, dijo Jehová, el que tiene misericordia de ti.",
+    "verse_ref": "Isaías 54:10"
+  },
+  "q_comfort_023": {
+    "question": "Completa el espacio en blanco: 'El Espíritu de Jehová el Señor está sobre mí, porque me ungió Jehová; me ha enviado a predicar buenas nuevas a los _____.'",
+    "correct": "abatidos",
+    "wrong": ["perdidos", "quebrantados", "humildes"],
+    "hint": "Las buenas nuevas vienen a los necesitados",
+    "explanation": "Isaías profetiza sobre la misión del Mesías de traer buenas nuevas y consuelo a los necesitados.",
+    "full_verse": "El Espíritu de Jehová el Señor está sobre mí, porque me ungió Jehová; me ha enviado a predicar buenas nuevas a los abatidos, a vendar a los quebrantados de corazón, a publicar libertad a los cautivos.",
+    "verse_ref": "Isaías 61:1"
+  },
+  "q_comfort_024": {
+    "question": "Completa el espacio en blanco: 'Y satisfaré el alma del sacerdote con abundancia, y mi pueblo será satisfecho de mi _____.'",
+    "correct": "bien",
+    "wrong": ["paz", "esperanza", "descanso"],
+    "hint": "Dios transforma el duelo en celebración",
+    "explanation": "Dios promete transformar la tristeza en gozo y reemplazar el luto con alegría.",
+    "full_verse": "Y satisfaré el alma del sacerdote con abundancia, y mi pueblo será satisfecho de mi bien, dice Jehová.",
+    "verse_ref": "Jeremías 31:14"
+  },
+  "q_comfort_025": {
+    "question": "Completa el espacio en blanco: 'Por la misericordia de Jehová no hemos sido consumidos, porque nunca decayeron sus _____.'",
+    "correct": "misericordias",
+    "wrong": ["promesas", "bendiciones", "gracias"],
+    "hint": "Las misericordias de Dios son inagotables",
+    "explanation": "Incluso en el sufrimiento, el amor y la compasión de Dios permanecen constantes y confiables.",
+    "full_verse": "Por la misericordia de Jehová no hemos sido consumidos, porque nunca decayeron sus misericordias. Nuevas son cada mañana; grande es tu fidelidad.",
+    "verse_ref": "Lamentaciones 3:22-23"
+  },
+  "q_comfort_026": {
+    "question": "Completa el espacio en blanco: 'Jehová es bueno, fortaleza en el día de la _____.'",
+    "correct": "angustia",
+    "wrong": ["necesidad", "aflicción", "peligro"],
+    "hint": "Dios es un lugar seguro cuando vienen las dificultades",
+    "explanation": "Nahum declara la bondad de Dios y Su papel como refugio durante los tiempos difíciles.",
+    "full_verse": "Jehová es bueno, fortaleza en el día de la angustia; y conoce a los que en él confían.",
+    "verse_ref": "Nahúm 1:7"
+  },
+  "q_comfort_027": {
+    "question": "Completa el espacio en blanco: 'Jehová está en medio de ti, poderoso, él _____.'",
+    "correct": "salvará",
+    "wrong": ["peleará", "protegerá", "conquistará"],
+    "hint": "Dios como guerrero trae liberación",
+    "explanation": "Sofonías describe a Dios como un guerrero poderoso que salva y se regocija sobre Su pueblo.",
+    "full_verse": "Jehová está en medio de ti, poderoso, él salvará; se gozará sobre ti con alegría, callará de amor, se regocijará sobre ti con cánticos.",
+    "verse_ref": "Sofonías 3:17"
+  },
+  "q_comfort_028": {
+    "question": "Completa el espacio en blanco: 'Llevad mi yugo sobre vosotros, y aprended de mí, que soy manso y humilde de _____.'",
+    "correct": "corazón",
+    "wrong": ["espíritu", "mente", "alma"],
+    "hint": "Jesús describe Su carácter interior",
+    "explanation": "Jesús nos invita a aprender de Su naturaleza gentil y humilde, encontrando descanso para nuestras almas.",
+    "full_verse": "Llevad mi yugo sobre vosotros, y aprended de mí, que soy manso y humilde de corazón; y hallaréis descanso para vuestras almas.",
+    "verse_ref": "Mateo 11:29"
+  },
+  "q_comfort_029": {
+    "question": "Completa el espacio en blanco: 'No se turbe vuestro _____; creéis en Dios, creed también en mí.'",
+    "correct": "corazón",
+    "wrong": ["alma", "espíritu", "mente"],
+    "hint": "Jesús aborda la turbación interior",
+    "explanation": "Jesús consuela a Sus discípulos llamándolos a confiar en Él como confían en Dios.",
+    "full_verse": "No se turbe vuestro corazón; creéis en Dios, creed también en mí.",
+    "verse_ref": "Juan 14:1"
+  },
+  "q_comfort_030": {
+    "question": "Completa el espacio en blanco: 'Y yo rogaré al Padre, y os dará otro Consolador, para que esté con vosotros para _____.'",
+    "correct": "siempre",
+    "wrong": ["siempre", "eternamente", "diariamente"],
+    "hint": "La presencia del Ayudador no tiene fin",
+    "explanation": "Jesús promete el Espíritu Santo como un Consolador y Ayudador permanente.",
+    "full_verse": "Y yo rogaré al Padre, y os dará otro Consolador, para que esté con vosotros para siempre.",
+    "verse_ref": "Juan 14:16"
+  },
+  "q_comfort_031": {
+    "question": "Completa el espacio en blanco: 'No os dejaré _____; vendré a vosotros.'",
+    "correct": "huérfanos",
+    "wrong": ["solos", "abandonados", "desamparados"],
+    "hint": "Jesús promete no dejarnos sin padres",
+    "explanation": "Jesús asegura a Sus discípulos que no los abandonará como niños sin padres.",
+    "full_verse": "No os dejaré huérfanos; vendré a vosotros.",
+    "verse_ref": "Juan 14:18"
+  },
+  "q_comfort_032": {
+    "question": "Completa el espacio en blanco: 'Estas cosas os he hablado para que en mí tengáis paz. En el mundo tendréis aflicción; pero confiad, yo he vencido al _____.'",
+    "correct": "mundo",
+    "wrong": ["enemigo", "oscuridad", "mal"],
+    "hint": "Jesús ha conquistado este reino",
+    "explanation": "Jesús reconoce la tribulación pero anima a los creyentes con Su victoria sobre el mundo.",
+    "full_verse": "Estas cosas os he hablado para que en mí tengáis paz. En el mundo tendréis aflicción; pero confiad, yo he vencido al mundo.",
+    "verse_ref": "Juan 16:33"
+  },
+  "q_comfort_033": {
+    "question": "Completa el espacio en blanco: 'Pues tengo por cierto que las aflicciones del tiempo presente no son comparables con la _____ venidera que en nosotros ha de manifestarse.'",
+    "correct": "gloria",
+    "wrong": ["alegría", "recompensa", "bendición"],
+    "hint": "El esplendor futuro supera el dolor actual",
+    "explanation": "Pablo pone el sufrimiento en perspectiva comparándolo con la incomparable gloria futura.",
+    "full_verse": "Pues tengo por cierto que las aflicciones del tiempo presente no son comparables con la gloria venidera que en nosotros ha de manifestarse.",
+    "verse_ref": "Romanos 8:18"
+  },
+  "q_comfort_034": {
+    "question": "Completa el espacio en blanco: 'Porque las cosas que se escribieron antes, para nuestra enseñanza se escribieron, a fin de que por la paciencia y la consolación de las Escrituras, tengamos _____.'",
+    "correct": "esperanza",
+    "wrong": ["fe", "paz", "gozo"],
+    "hint": "Las Escrituras producen esta expectativa",
+    "explanation": "Pablo explica que las Escrituras proveen paciencia y consolación que producen esperanza.",
+    "full_verse": "Porque las cosas que se escribieron antes, para nuestra enseñanza se escribieron, a fin de que por la paciencia y la consolación de las Escrituras, tengamos esperanza.",
+    "verse_ref": "Romanos 15:4"
+  },
+  "q_comfort_035": {
+    "question": "Completa el espacio en blanco: 'Porque de la manera que abundan en nosotros las aflicciones de Cristo, así abunda también por el mismo Cristo nuestra _____.'",
+    "correct": "consolación",
+    "wrong": ["alegría", "esperanza", "paz"],
+    "hint": "El sufrimiento y la consolación están conectados",
+    "explanation": "Pablo enseña que compartir los sufrimientos de Cristo también significa compartir abundantemente Su consuelo.",
+    "full_verse": "Porque de la manera que abundan en nosotros las aflicciones de Cristo, así abunda también por el mismo Cristo nuestra consolación.",
+    "verse_ref": "2 Corintios 1:5"
+  },
+  "q_comfort_036": {
+    "question": "Completa el espacio en blanco: 'Pero Dios, que consuela a los humildes, nos consoló con la venida de _____.'",
+    "correct": "Tito",
+    "wrong": ["Timoteo", "Pablo", "Bernabé"],
+    "hint": "La llegada de esta persona trajo consuelo",
+    "explanation": "Pablo comparte cómo Dios usó la llegada de Tito para traer consuelo durante un tiempo difícil.",
+    "full_verse": "Pero Dios, que consuela a los humildes, nos consoló con la venida de Tito.",
+    "verse_ref": "2 Corintios 7:6"
+  },
+  "q_comfort_037": {
+    "question": "Completa el espacio en blanco: 'Y el mismo Jesucristo Señor nuestro, y Dios nuestro Padre, el cual nos amó y nos dio consolación eterna y buena _____ por gracia.'",
+    "correct": "esperanza",
+    "wrong": ["nueva", "fe", "promesa"],
+    "hint": "Dios nos da expectativa positiva",
+    "explanation": "Pablo ora para que la consolación eterna y la esperanza de Dios fortalezcan a los creyentes.",
+    "full_verse": "Y el mismo Jesucristo Señor nuestro, y Dios nuestro Padre, el cual nos amó y nos dio consolación eterna y buena esperanza por gracia, consuele vuestros corazones, y os confirme en toda buena palabra y obra.",
+    "verse_ref": "2 Tesalonicenses 2:16-17"
+  },
+  "q_comfort_038": {
+    "question": "Completa el espacio en blanco: 'Acerquémonos, pues, confiadamente al trono de la gracia, para alcanzar misericordia y hallar gracia para el oportuno _____.'",
+    "correct": "socorro",
+    "wrong": ["momento", "tiempo", "auxilio"],
+    "hint": "La gracia está disponible cuando la necesitamos",
+    "explanation": "Somos animados a acercarnos con valentía al trono de Dios para recibir ayuda cuando más la necesitamos.",
+    "full_verse": "Acerquémonos, pues, confiadamente al trono de la gracia, para alcanzar misericordia y hallar gracia para el oportuno socorro.",
+    "verse_ref": "Hebreos 4:16"
+  },
+  "q_comfort_039": {
+    "question": "Completa el espacio en blanco: 'No te desampararé, ni te _____.'",
+    "correct": "dejaré",
+    "wrong": ["abandonaré", "olvidaré", "rechazaré"],
+    "hint": "Dios promete nunca abandonarnos",
+    "explanation": "Dios hace una promesa enfática de nunca dejar ni abandonar a Su pueblo.",
+    "full_verse": "Sean vuestras costumbres sin avaricia, contentos con lo que tenéis ahora; porque él dijo: No te desampararé, ni te dejaré.",
+    "verse_ref": "Hebreos 13:5"
+  },
+  "q_comfort_040": {
+    "question": "Completa el espacio en blanco: 'Echando toda vuestra ansiedad sobre él, porque él tiene _____ de vosotros.'",
+    "correct": "cuidado",
+    "wrong": ["amor", "misericordia", "compasión"],
+    "hint": "La preocupación de Dios motiva darle nuestras preocupaciones",
+    "explanation": "Pedro anima a los creyentes a dar todas sus preocupaciones a Dios porque Él genuinamente se preocupa por ellos.",
+    "full_verse": "Echando toda vuestra ansiedad sobre él, porque él tiene cuidado de vosotros.",
+    "verse_ref": "1 Pedro 5:7"
+  },
+  "q_comfort_041": {
+    "question": "Completa el espacio en blanco: 'Porque el Cordero que está en medio del trono los pastoreará, y los guiará a fuentes de aguas de _____.'",
+    "correct": "vida",
+    "wrong": ["esperanza", "gozo", "gracia"],
+    "hint": "El Cordero provee refrigerio",
+    "explanation": "En Apocalipsis, Jesús como el Cordero pastorea a Su pueblo hacia el refrigerio y consuelo eternos.",
+    "full_verse": "Porque el Cordero que está en medio del trono los pastoreará, y los guiará a fuentes de aguas de vida; y Dios enjugará toda lágrima de los ojos de ellos.",
+    "verse_ref": "Apocalipsis 7:17"
+  },
+  "q_comfort_042": {
+    "question": "Completa el espacio en blanco: 'Enjugará Dios toda _____ de los ojos de ellos.'",
+    "correct": "lágrima",
+    "wrong": ["tristeza", "dolor", "pena"],
+    "hint": "Dios quita la evidencia del llanto",
+    "explanation": "En el nuevo cielo y la nueva tierra, Dios personalmente quitará toda pena y tristeza.",
+    "full_verse": "Enjugará Dios toda lágrima de los ojos de ellos; y ya no habrá muerte, ni habrá más llanto, ni clamor, ni dolor; porque las primeras cosas pasaron.",
+    "verse_ref": "Apocalipsis 21:4"
+  },
+  "q_comfort_043": {
+    "question": "Completa el espacio en blanco: 'Jehová va delante de ti; él estará contigo, no te dejará, ni te desamparará; no temas ni te _____.'",
+    "correct": "intimides",
+    "wrong": ["desanimes", "preocupes", "angusties"],
+    "hint": "Dios nunca abandonará a Su pueblo",
+    "explanation": "Moisés anima a Josué con la promesa de que Dios va delante y nunca abandona a Su pueblo.",
+    "full_verse": "Y Jehová va delante de ti; él estará contigo, no te dejará, ni te desamparará; no temas ni te intimides.",
+    "verse_ref": "Deuteronomio 31:8"
+  },
+  "q_comfort_044": {
+    "question": "Completa el espacio en blanco: 'Mira que te mando que te esfuerces y seas _____; no temas ni desmayes.'",
+    "correct": "valiente",
+    "wrong": ["fiel", "fuerte", "audaz"],
+    "hint": "Dios ordena fuerza y esta cualidad",
+    "explanation": "Dios ordena a Josué ser fuerte y valiente porque Él estará con él dondequiera que vaya.",
+    "full_verse": "Mira que te mando que te esfuerces y seas valiente; no temas ni desmayes, porque Jehová tu Dios estará contigo en dondequiera que vayas.",
+    "verse_ref": "Josué 1:9"
+  },
+  "q_comfort_045": {
+    "question": "Completa el espacio en blanco: 'Jehová será refugio del pobre, refugio para el tiempo de _____.'",
+    "correct": "angustia",
+    "wrong": ["necesidad", "peligro", "aflicción"],
+    "hint": "Dios protege durante temporadas difíciles",
+    "explanation": "El salmista declara a Dios como un lugar seguro para aquellos que son perseguidos y luchan.",
+    "full_verse": "Jehová será refugio del pobre, refugio para el tiempo de angustia.",
+    "verse_ref": "Salmos 9:9"
+  },
+  "q_comfort_046": {
+    "question": "Completa el espacio en blanco: 'Jehová, roca mía y castillo mío, y mi libertador; Dios mío, fortaleza mía, en él _____.'",
+    "correct": "confiaré",
+    "wrong": ["descansaré", "me refugiaré", "esperaré"],
+    "hint": "David encuentra seguridad en Dios",
+    "explanation": "David usa múltiples metáforas para describir a Dios como su fuente suprema de protección y seguridad.",
+    "full_verse": "Jehová, roca mía y castillo mío, y mi libertador; Dios mío, fortaleza mía, en él confiaré; mi escudo, y la fuerza de mi salvación, mi alto refugio.",
+    "verse_ref": "Salmos 18:2"
+  },
+  "q_comfort_047": {
+    "question": "Completa el espacio en blanco: 'Por la noche durará el lloro, y a la _____ vendrá la alegría.'",
+    "correct": "mañana",
+    "wrong": ["aurora", "luz", "día"],
+    "hint": "El gozo viene después de que pasa la oscuridad",
+    "explanation": "El salmista asegura que la tristeza es temporal y el gozo vendrá con el nuevo día.",
+    "full_verse": "Porque un momento será su ira, pero su favor dura toda la vida. Por la noche durará el lloro, y a la mañana vendrá la alegría.",
+    "verse_ref": "Salmos 30:5"
+  },
+  "q_comfort_048": {
+    "question": "Completa el espacio en blanco: '¿Por qué te abates, oh alma mía, y te turbas dentro de mí? Espera en Dios; porque aún he de _____.'",
+    "correct": "alabarle",
+    "wrong": ["agradecerle", "adorarle", "confiar"],
+    "hint": "El salmista anima a la adoración futura",
+    "explanation": "El salmista aconseja a su propia alma a esperar en Dios a pesar del desánimo actual.",
+    "full_verse": "¿Por qué te abates, oh alma mía, y te turbas dentro de mí? Espera en Dios; porque aún he de alabarle, salvación mía y Dios mío.",
+    "verse_ref": "Salmos 42:5"
+  },
+  "q_comfort_049": {
+    "question": "Completa el espacio en blanco: 'El que habita al abrigo del Altísimo morará bajo la sombra del _____.'",
+    "correct": "Omnipotente",
+    "wrong": ["Señor", "Salvador", "Rey"],
+    "hint": "Este título enfatiza el poder de Dios",
+    "explanation": "Aquellos que hacen de Dios su morada encuentran descanso bajo Su presencia protectora.",
+    "full_verse": "El que habita al abrigo del Altísimo morará bajo la sombra del Omnipotente.",
+    "verse_ref": "Salmos 91:1"
+  },
+  "q_comfort_050": {
+    "question": "Completa el espacio en blanco: 'Alzaré mis ojos a los montes; ¿de dónde vendrá mi socorro? Mi socorro viene de _____.'",
+    "correct": "Jehová",
+    "wrong": ["los cielos", "el Altísimo", "el Omnipotente"],
+    "hint": "El salmista identifica la fuente de ayuda",
+    "explanation": "El salmista mira más allá de las fuentes terrenales hacia Dios como el hacedor del cielo y la tierra para recibir ayuda.",
+    "full_verse": "Alzaré mis ojos a los montes; ¿de dónde vendrá mi socorro? Mi socorro viene de Jehová, que hizo los cielos y la tierra.",
+    "verse_ref": "Salmos 121:1-2"
+  }
+}

@@ -1,1 +1,452 @@
-{}
+{
+  "q_jesus_001": {
+    "question": "Selon Jean 3:16, « Car Dieu a tant aimé le monde qu'il a donné son Fils unique, afin que quiconque croit en lui ne périsse point, mais qu'il ait la vie _____. »",
+    "correct": "éternelle",
+    "wrong": ["nouvelle", "abondante", "céleste"],
+    "hint": "Le don de croire en Jésus.",
+    "explanation": "Ce verset célèbre résume l'Évangile : l'amour de Dieu l'a conduit à donner son Fils pour la vie éternelle.",
+    "full_verse": "Car Dieu a tant aimé le monde qu'il a donné son Fils unique, afin que quiconque croit en lui ne périsse point, mais qu'il ait la vie éternelle.",
+    "verse_ref": "Jean 3:16"
+  },
+  "q_jesus_002": {
+    "question": "Selon Jean 14:6, Jésus dit : « Je suis le chemin, la vérité, et la vie. Nul ne vient au Père que par _____. »",
+    "correct": "moi",
+    "wrong": ["la foi", "la grâce", "la prière"],
+    "hint": "Jésus est le seul chemin.",
+    "explanation": "Jésus se déclare comme le chemin exclusif vers Dieu le Père.",
+    "full_verse": "Jésus lui dit: Je suis le chemin, la vérité, et la vie. Nul ne vient au Père que par moi.",
+    "verse_ref": "Jean 14:6"
+  },
+  "q_jesus_003": {
+    "question": "Selon Jean 11:25, Jésus dit : « Je suis la résurrection et la vie. Celui qui croit en moi vivra, quand même il serait _____. »",
+    "correct": "mort",
+    "wrong": ["pécheur", "perdu", "faible"],
+    "hint": "La mort physique ne peut arrêter les croyants.",
+    "explanation": "Jésus déclare qu'il est la source de la vie de résurrection pour tous ceux qui croient.",
+    "full_verse": "Jésus lui dit: Je suis la résurrection et la vie. Celui qui croit en moi vivra, quand même il serait mort.",
+    "verse_ref": "Jean 11:25"
+  },
+  "q_jesus_004": {
+    "question": "Selon Matthieu 11:28, Jésus dit : « Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai du _____. »",
+    "correct": "repos",
+    "wrong": ["réconfort", "courage", "bonheur"],
+    "hint": "Soulagement de l'épuisement.",
+    "explanation": "Jésus invite tous ceux qui sont fatigués et accablés à trouver le repos en lui.",
+    "full_verse": "Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai du repos.",
+    "verse_ref": "Matthieu 11:28"
+  },
+  "q_jesus_005": {
+    "question": "Selon Jean 8:12, Jésus dit : « Je suis la lumière du monde; celui qui me suit ne marchera pas dans les _____. »",
+    "correct": "ténèbres",
+    "wrong": ["péchés", "erreurs", "difficultés"],
+    "hint": "L'opposé de la lumière.",
+    "explanation": "Jésus se déclare comme la lumière qui guide les croyants hors des ténèbres spirituelles.",
+    "full_verse": "Jésus leur parla de nouveau, et dit: Je suis la lumière du monde; celui qui me suit ne marchera pas dans les ténèbres, mais il aura la lumière de la vie.",
+    "verse_ref": "Jean 8:12"
+  },
+  "q_jesus_006": {
+    "question": "Selon Jean 10:11, « Je suis le bon berger. Le bon berger donne sa _____ pour ses brebis. »",
+    "correct": "vie",
+    "wrong": ["force", "sagesse", "protection"],
+    "hint": "Le sacrifice ultime.",
+    "explanation": "Jésus se décrit comme le berger qui sacrifie sa vie pour ses brebis.",
+    "full_verse": "Je suis le bon berger. Le bon berger donne sa vie pour ses brebis.",
+    "verse_ref": "Jean 10:11"
+  },
+  "q_jesus_007": {
+    "question": "Selon Jean 15:5, « Je suis le cep, vous êtes les sarments. Celui qui demeure en moi et en qui je demeure porte beaucoup de _____. »",
+    "correct": "fruit",
+    "wrong": ["joie", "amour", "paix"],
+    "hint": "Ce qui pousse sur les branches.",
+    "explanation": "Jésus utilise la métaphore de la vigne pour enseigner sur la fécondité spirituelle.",
+    "full_verse": "Je suis le cep, vous êtes les sarments. Celui qui demeure en moi et en qui je demeure porte beaucoup de fruit, car sans moi vous ne pouvez rien faire.",
+    "verse_ref": "Jean 15:5"
+  },
+  "q_jesus_008": {
+    "question": "Selon Matthieu 28:20, Jésus dit : « Et voici, je suis avec vous tous les jours, jusqu'à la fin du _____. »",
+    "correct": "monde",
+    "wrong": ["temps", "siècle", "âge"],
+    "hint": "Jusqu'à la fin de cette ère.",
+    "explanation": "Jésus promet sa présence continuelle avec ses disciples jusqu'à la fin du monde.",
+    "full_verse": "et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.",
+    "verse_ref": "Matthieu 28:20"
+  },
+  "q_jesus_009": {
+    "question": "Selon Jean 1:14, « Et la parole a été faite chair, et elle a habité parmi nous, pleine de grâce et de vérité; et nous avons contemplé sa gloire, une gloire comme la gloire du Fils unique venu du _____. »",
+    "correct": "Père",
+    "wrong": ["ciel", "Dieu", "haut"],
+    "hint": "D'où vient Jésus.",
+    "explanation": "Jean déclare que Jésus, la Parole, est devenu humain et a révélé la gloire du Père.",
+    "full_verse": "Et la parole a été faite chair, et elle a habité parmi nous, pleine de grâce et de vérité; et nous avons contemplé sa gloire, une gloire comme la gloire du Fils unique venu du Père.",
+    "verse_ref": "Jean 1:14"
+  },
+  "q_jesus_010": {
+    "question": "Selon Jean 10:30, Jésus dit : « Moi et le Père nous sommes _____. »",
+    "correct": "un",
+    "wrong": ["unis", "ensemble", "égaux"],
+    "hint": "L'unité de Jésus et du Père.",
+    "explanation": "Jésus déclare son unité avec Dieu le Père, affirmant sa divinité.",
+    "full_verse": "Moi et le Père nous sommes un.",
+    "verse_ref": "Jean 10:30"
+  },
+  "q_jesus_011": {
+    "question": "Selon Matthieu 16:16, Simon Pierre répondit : « Tu es le Christ, le Fils du Dieu _____. »",
+    "correct": "vivant",
+    "wrong": ["éternel", "tout-puissant", "saint"],
+    "hint": "Pierre confesse l'identité divine de Jésus.",
+    "explanation": "La confession de Pierre reconnaît Jésus comme le Messie et le Fils de Dieu.",
+    "full_verse": "Simon Pierre répondit: Tu es le Christ, le Fils du Dieu vivant.",
+    "verse_ref": "Matthieu 16:16"
+  },
+  "q_jesus_012": {
+    "question": "Selon Colossiens 1:15, « Il est l'image du Dieu invisible, le premier-né de toute la _____. »",
+    "correct": "création",
+    "wrong": ["terre", "vie", "humanité"],
+    "hint": "Tout ce qui a été fait.",
+    "explanation": "Paul déclare que Jésus est la représentation visible du Dieu invisible.",
+    "full_verse": "Il est l'image du Dieu invisible, le premier-né de toute la création.",
+    "verse_ref": "Colossiens 1:15"
+  },
+  "q_jesus_013": {
+    "question": "Selon Philippiens 2:6-7, Jésus « a pris la forme d'un _____, en devenant semblable aux hommes. »",
+    "correct": "serviteur",
+    "wrong": ["homme", "esclave", "enfant"],
+    "hint": "Jésus s'est humilié à ce rôle.",
+    "explanation": "Paul décrit l'humilité de Jésus qui a quitté la gloire divine pour devenir serviteur.",
+    "full_verse": "lequel, existant en forme de Dieu, n'a point regardé comme une proie à arracher d'être égal avec Dieu, mais s'est dépouillé lui-même, en prenant une forme de serviteur, en devenant semblable aux hommes.",
+    "verse_ref": "Philippiens 2:6-7"
+  },
+  "q_jesus_014": {
+    "question": "Selon Hébreux 1:3, « Le Fils est le reflet de sa gloire et l'empreinte de sa personne, et il soutient toutes choses par sa parole _____. »",
+    "correct": "puissante",
+    "wrong": ["divine", "éternelle", "sainte"],
+    "hint": "Comment Jésus maintient toutes choses.",
+    "explanation": "L'auteur d'Hébreux décrit Jésus comme la révélation parfaite de Dieu.",
+    "full_verse": "Le Fils est le reflet de sa gloire et l'empreinte de sa personne, et il soutient toutes choses par sa parole puissante.",
+    "verse_ref": "Hébreux 1:3"
+  },
+  "q_jesus_015": {
+    "question": "Selon Colossiens 2:9, « Car en lui habite corporellement toute la _____ de la divinité. »",
+    "correct": "plénitude",
+    "wrong": ["gloire", "puissance", "sainteté"],
+    "hint": "La nature divine complète.",
+    "explanation": "Paul déclare que la nature complète de Dieu habite dans le corps de Christ.",
+    "full_verse": "Car en lui habite corporellement toute la plénitude de la divinité.",
+    "verse_ref": "Colossiens 2:9"
+  },
+  "q_jesus_016": {
+    "question": "Selon Jean 1:1, « Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était _____. »",
+    "correct": "Dieu",
+    "wrong": ["divine", "sainte", "éternelle"],
+    "hint": "L'identité de la Parole.",
+    "explanation": "Jean déclare que Jésus, la Parole, était à la fois avec Dieu et était Dieu dès le commencement.",
+    "full_verse": "Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu.",
+    "verse_ref": "Jean 1:1"
+  },
+  "q_jesus_017": {
+    "question": "Selon Jean 6:35, Jésus dit : « Je suis le pain de vie. Celui qui vient à moi n'aura jamais faim, et celui qui croit en moi n'aura jamais _____. »",
+    "correct": "soif",
+    "wrong": ["peur", "besoin", "manque"],
+    "hint": "L'opposé de la faim.",
+    "explanation": "Jésus se déclare comme le pain spirituel qui satisfait toute faim et soif.",
+    "full_verse": "Jésus leur dit: Je suis le pain de vie. Celui qui vient à moi n'aura jamais faim, et celui qui croit en moi n'aura jamais soif.",
+    "verse_ref": "Jean 6:35"
+  },
+  "q_jesus_018": {
+    "question": "Selon Jean 10:9, Jésus dit : « Je suis la porte. Si quelqu'un entre par moi, il sera sauvé; il entrera et il sortira, et il trouvera des _____. »",
+    "correct": "pâturages",
+    "wrong": ["repos", "bénédictions", "trésors"],
+    "hint": "Ce que les brebis trouvent dans un champ.",
+    "explanation": "Jésus se décrit comme la porte par laquelle les gens trouvent le salut et la provision.",
+    "full_verse": "Je suis la porte. Si quelqu'un entre par moi, il sera sauvé; il entrera et il sortira, et il trouvera des pâturages.",
+    "verse_ref": "Jean 10:9"
+  },
+  "q_jesus_019": {
+    "question": "Selon Jean 14:9, Jésus dit : « Celui qui m'a vu a vu le _____. »",
+    "correct": "Père",
+    "wrong": ["Dieu", "ciel", "salut"],
+    "hint": "Jésus révèle cette personne.",
+    "explanation": "Jésus dit à Philippe que le voir équivaut à voir Dieu le Père.",
+    "full_verse": "Jésus lui dit: Il y a si longtemps que je suis avec vous, et tu ne m'as pas connu, Philippe! Celui qui m'a vu a vu le Père; comment dis-tu: Montre-nous le Père?",
+    "verse_ref": "Jean 14:9"
+  },
+  "q_jesus_020": {
+    "question": "Selon Luc 19:10, « Car le Fils de l'homme est venu chercher et sauver ce qui était _____. »",
+    "correct": "perdu",
+    "wrong": ["mort", "pécheur", "brisé"],
+    "hint": "Ceux qui se sont égarés.",
+    "explanation": "Jésus résume sa mission comme chercher et sauver ceux qui sont perdus.",
+    "full_verse": "Car le Fils de l'homme est venu chercher et sauver ce qui était perdu.",
+    "verse_ref": "Luc 19:10"
+  },
+  "q_jesus_021": {
+    "question": "Selon Matthieu 1:21, « elle enfantera un fils, et tu lui donneras le nom de Jésus; c'est lui qui sauvera son peuple de ses _____. »",
+    "correct": "péchés",
+    "wrong": ["ennemis", "troubles", "peurs"],
+    "hint": "Ce dont Jésus nous sauve.",
+    "explanation": "L'ange explique que le nom de Jésus reflète sa mission de sauver des péchés.",
+    "full_verse": "elle enfantera un fils, et tu lui donneras le nom de Jésus; c'est lui qui sauvera son peuple de ses péchés.",
+    "verse_ref": "Matthieu 1:21"
+  },
+  "q_jesus_022": {
+    "question": "Selon Luc 2:11, « c'est qu'aujourd'hui, dans la ville de David, il vous est né un Sauveur, qui est le Christ, le _____. »",
+    "correct": "Seigneur",
+    "wrong": ["Roi", "Fils", "Messie"],
+    "hint": "Un titre d'autorité.",
+    "explanation": "L'ange annonce la naissance de Jésus avec trois titres : Sauveur, Christ et Seigneur.",
+    "full_verse": "c'est qu'aujourd'hui, dans la ville de David, il vous est né un Sauveur, qui est le Christ, le Seigneur.",
+    "verse_ref": "Luc 2:11"
+  },
+  "q_jesus_023": {
+    "question": "Selon Jean 20:31, « Mais ces choses ont été écrites afin que vous croyiez que Jésus est le Christ, le Fils de Dieu, et qu'en croyant vous ayez la _____ en son nom. »",
+    "correct": "vie",
+    "wrong": ["foi", "paix", "joie"],
+    "hint": "Le but de l'Évangile de Jean.",
+    "explanation": "Jean déclare son but : que les lecteurs croient en Jésus et aient la vie.",
+    "full_verse": "Mais ces choses ont été écrites afin que vous croyiez que Jésus est le Christ, le Fils de Dieu, et qu'en croyant vous ayez la vie en son nom.",
+    "verse_ref": "Jean 20:31"
+  },
+  "q_jesus_024": {
+    "question": "Selon Actes 4:12, « Il n'y a de salut en aucun autre; car il n'y a sous le ciel aucun autre nom qui ait été donné parmi les hommes, par lequel nous devions être _____. »",
+    "correct": "sauvés",
+    "wrong": ["guéris", "bénis", "pardonnés"],
+    "hint": "Ce que le nom de Jésus procure.",
+    "explanation": "Pierre déclare que le salut est exclusivement par le nom de Jésus.",
+    "full_verse": "Il n'y a de salut en aucun autre; car il n'y a sous le ciel aucun autre nom qui ait été donné parmi les hommes, par lequel nous devions être sauvés.",
+    "verse_ref": "Actes 4:12"
+  },
+  "q_jesus_025": {
+    "question": "Selon Romains 5:8, « Mais Dieu prouve son amour envers nous, en ce que, lorsque nous étions encore des pécheurs, Christ est _____ pour nous. »",
+    "correct": "mort",
+    "wrong": ["venu", "né", "apparu"],
+    "hint": "Le sacrifice ultime de Christ.",
+    "explanation": "Paul souligne que Christ est mort pour nous alors que nous étions encore pécheurs.",
+    "full_verse": "Mais Dieu prouve son amour envers nous, en ce que, lorsque nous étions encore des pécheurs, Christ est mort pour nous.",
+    "verse_ref": "Romains 5:8"
+  },
+  "q_jesus_026": {
+    "question": "Selon 1 Timothée 2:5, « Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus-Christ _____. »",
+    "correct": "homme",
+    "wrong": ["Seigneur", "Sauveur", "Fils"],
+    "hint": "Jésus est devenu cela.",
+    "explanation": "Paul déclare que Jésus est le seul médiateur entre Dieu et l'humanité.",
+    "full_verse": "Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus-Christ homme.",
+    "verse_ref": "1 Timothée 2:5"
+  },
+  "q_jesus_027": {
+    "question": "Selon Hébreux 4:15, « Car nous n'avons pas un souverain sacrificateur qui ne puisse compatir à nos faiblesses; au contraire, il a été tenté comme nous en toutes choses, sans commettre de _____. »",
+    "correct": "péché",
+    "wrong": ["faute", "erreur", "mal"],
+    "hint": "Jésus est resté sans cela.",
+    "explanation": "L'auteur d'Hébreux explique que Jésus a été tenté mais est resté sans péché.",
+    "full_verse": "Car nous n'avons pas un souverain sacrificateur qui ne puisse compatir à nos faiblesses; au contraire, il a été tenté comme nous en toutes choses, sans commettre de péché.",
+    "verse_ref": "Hébreux 4:15"
+  },
+  "q_jesus_028": {
+    "question": "Selon Hébreux 12:2, « ayant les regards sur Jésus, le chef et le consommateur de la foi, qui, en vue de la joie qui lui était réservée, a souffert la croix, méprisé l'ignominie, et s'est assis à la droite du _____ de Dieu. »",
+    "correct": "trône",
+    "wrong": ["gloire", "ciel", "temple"],
+    "hint": "Où Jésus est maintenant assis.",
+    "explanation": "Jésus a enduré la croix et est maintenant assis à la droite de Dieu dans la gloire.",
+    "full_verse": "ayant les regards sur Jésus, le chef et le consommateur de la foi, qui, en vue de la joie qui lui était réservée, a souffert la croix, méprisé l'ignominie, et s'est assis à la droite du trône de Dieu.",
+    "verse_ref": "Hébreux 12:2"
+  },
+  "q_jesus_029": {
+    "question": "Selon Apocalypse 1:8, « Je suis l'alpha et l'oméga, dit le Seigneur Dieu, celui qui est, qui était, et qui vient, le _____. »",
+    "correct": "Tout-Puissant",
+    "wrong": ["Éternel", "Saint", "Créateur"],
+    "hint": "Un titre soulignant la puissance de Dieu.",
+    "explanation": "Dieu se déclare comme le commencement et la fin, le Tout-Puissant.",
+    "full_verse": "Je suis l'alpha et l'oméga, dit le Seigneur Dieu, celui qui est, qui était, et qui vient, le Tout-Puissant.",
+    "verse_ref": "Apocalypse 1:8"
+  },
+  "q_jesus_030": {
+    "question": "Selon Apocalypse 22:13, « Je suis l'alpha et l'oméga, le premier et le dernier, le commencement et la _____. »",
+    "correct": "fin",
+    "wrong": ["conclusion", "terme", "achèvement"],
+    "hint": "L'opposé du commencement.",
+    "explanation": "Jésus utilise trois expressions parallèles pour déclarer sa nature éternelle.",
+    "full_verse": "Je suis l'alpha et l'oméga, le premier et le dernier, le commencement et la fin.",
+    "verse_ref": "Apocalypse 22:13"
+  },
+  "q_jesus_031": {
+    "question": "Selon Jean 8:58, Jésus dit : « En vérité, en vérité, je vous le dis, avant qu'Abraham fût, je _____. »",
+    "correct": "suis",
+    "wrong": ["étais", "existais", "vivais"],
+    "hint": "Jésus utilise le nom de l'alliance de Dieu.",
+    "explanation": "Jésus déclare son existence éternelle en utilisant le nom divin 'JE SUIS'.",
+    "full_verse": "Jésus leur dit: En vérité, en vérité, je vous le dis, avant qu'Abraham fût, je suis.",
+    "verse_ref": "Jean 8:58"
+  },
+  "q_jesus_032": {
+    "question": "Selon Matthieu 28:18, Jésus dit : « Tout pouvoir m'a été donné dans le ciel et sur la _____. »",
+    "correct": "terre",
+    "wrong": ["création", "monde", "vie"],
+    "hint": "L'endroit où nous vivons.",
+    "explanation": "Le Jésus ressuscité déclare qu'il a reçu tout pouvoir dans le ciel et sur la terre.",
+    "full_verse": "Jésus, s'étant approché, leur parla ainsi: Tout pouvoir m'a été donné dans le ciel et sur la terre.",
+    "verse_ref": "Matthieu 28:18"
+  },
+  "q_jesus_033": {
+    "question": "Selon Jean 17:3, « Or, la vie éternelle, c'est qu'ils te connaissent, toi, le seul vrai Dieu, et celui que tu as _____, Jésus-Christ. »",
+    "correct": "envoyé",
+    "wrong": ["donné", "révélé", "promis"],
+    "hint": "L'action du Père envers Jésus.",
+    "explanation": "Jésus définit la vie éternelle comme connaître Dieu et celui qu'il a envoyé.",
+    "full_verse": "Or, la vie éternelle, c'est qu'ils te connaissent, toi, le seul vrai Dieu, et celui que tu as envoyé, Jésus-Christ.",
+    "verse_ref": "Jean 17:3"
+  },
+  "q_jesus_034": {
+    "question": "Selon 1 Corinthiens 15:3-4, « Christ est mort pour nos péchés, selon les Écritures; il a été enseveli, et il est ressuscité le _____ jour. »",
+    "correct": "troisième",
+    "wrong": ["premier", "deuxième", "dernier"],
+    "hint": "Le jour de la résurrection.",
+    "explanation": "Paul résume l'Évangile : Christ est mort, a été enseveli et est ressuscité le troisième jour.",
+    "full_verse": "Je vous ai enseigné avant tout, comme je l'avais aussi reçu, que Christ est mort pour nos péchés, selon les Écritures; qu'il a été enseveli, et qu'il est ressuscité le troisième jour, selon les Écritures.",
+    "verse_ref": "1 Corinthiens 15:3-4"
+  },
+  "q_jesus_035": {
+    "question": "Selon 2 Corinthiens 5:21, « Celui qui n'a point connu le péché, il l'a fait devenir péché pour nous, afin que nous devenions en lui justice de _____. »",
+    "correct": "Dieu",
+    "wrong": ["Christ", "lui", "vie"],
+    "hint": "De qui nous recevons la justice.",
+    "explanation": "Paul explique le grand échange : Christ a pris notre péché pour que nous recevions la justice de Dieu.",
+    "full_verse": "Celui qui n'a point connu le péché, il l'a fait devenir péché pour nous, afin que nous devenions en lui justice de Dieu.",
+    "verse_ref": "2 Corinthiens 5:21"
+  },
+  "q_jesus_036": {
+    "question": "Selon Galates 4:4-5, « Dieu a envoyé son Fils, né d'une femme, né sous la loi, afin qu'il rachetât ceux qui étaient sous la loi, afin que nous reçussions l'_____ . »",
+    "correct": "adoption",
+    "wrong": ["héritage", "salut", "grâce"],
+    "hint": "Devenir enfants de Dieu.",
+    "explanation": "Paul explique que Jésus est venu nous racheter et nous accorder l'adoption comme enfants de Dieu.",
+    "full_verse": "mais, lorsque les temps ont été accomplis, Dieu a envoyé son Fils, né d'une femme, né sous la loi, afin qu'il rachetât ceux qui étaient sous la loi, afin que nous reçussions l'adoption.",
+    "verse_ref": "Galates 4:4-5"
+  },
+  "q_jesus_037": {
+    "question": "Selon Éphésiens 1:20-21, Dieu « l'a ressuscité des morts, et l'a fait asseoir à sa droite dans les lieux célestes, au-dessus de toute domination, de toute autorité, de toute puissance, de toute _____. »",
+    "correct": "dignité",
+    "wrong": ["gloire", "force", "majesté"],
+    "hint": "Un type d'autorité.",
+    "explanation": "Paul décrit l'exaltation de Christ au-dessus de toutes les puissances et autorités.",
+    "full_verse": "Il l'a déployée en Christ, en le ressuscitant des morts, et en le faisant asseoir à sa droite dans les lieux célestes, au-dessus de toute domination, de toute autorité, de toute puissance, de toute dignité, et de tout nom qui se peut nommer.",
+    "verse_ref": "Éphésiens 1:20-21"
+  },
+  "q_jesus_038": {
+    "question": "Selon Philippiens 2:9-10, « Dieu l'a souverainement élevé, et lui a donné le nom qui est au-dessus de tout nom, afin qu'au nom de Jésus tout _____ fléchisse. »",
+    "correct": "genou",
+    "wrong": ["être", "homme", "cœur"],
+    "hint": "Partie du corps qui se plie pour adorer.",
+    "explanation": "Paul déclare que Dieu a exalté Jésus et lui a donné le nom suprême.",
+    "full_verse": "C'est pourquoi aussi Dieu l'a souverainement élevé, et lui a donné le nom qui est au-dessus de tout nom, afin qu'au nom de Jésus tout genou fléchisse dans les cieux, sur la terre et sous la terre.",
+    "verse_ref": "Philippiens 2:9-10"
+  },
+  "q_jesus_039": {
+    "question": "Selon Colossiens 1:16, « Car en lui ont été créées toutes les choses qui sont dans les cieux et sur la terre... tout a été créé par lui et pour _____. »",
+    "correct": "lui",
+    "wrong": ["Dieu", "nous", "sa gloire"],
+    "hint": "Toute la création est pour Christ.",
+    "explanation": "Paul déclare que toutes choses ont été créées par Christ et pour Christ.",
+    "full_verse": "Car en lui ont été créées toutes les choses qui sont dans les cieux et sur la terre, les visibles et les invisibles, trônes, dignités, dominations, autorités. Tout a été créé par lui et pour lui.",
+    "verse_ref": "Colossiens 1:16"
+  },
+  "q_jesus_040": {
+    "question": "Selon 1 Pierre 2:24, « lui qui a porté lui-même nos péchés en son corps sur le bois, afin que morts aux péchés nous vivions pour la justice; lui par les meurtrissures duquel vous avez été _____. »",
+    "correct": "guéris",
+    "wrong": ["sauvés", "pardonnés", "libérés"],
+    "hint": "Rendus bien par sa souffrance.",
+    "explanation": "Pierre décrit comment le sacrifice de Christ sur la croix nous apporte la guérison.",
+    "full_verse": "lui qui a porté lui-même nos péchés en son corps sur le bois, afin que morts aux péchés nous vivions pour la justice; lui par les meurtrissures duquel vous avez été guéris.",
+    "verse_ref": "1 Pierre 2:24"
+  },
+  "q_jesus_041": {
+    "question": "Selon 1 Jean 2:1, « Et si quelqu'un a péché, nous avons un avocat auprès du Père, Jésus-Christ le _____. »",
+    "correct": "juste",
+    "wrong": ["saint", "fidèle", "bon"],
+    "hint": "Le caractère moral de Jésus.",
+    "explanation": "Jean assure les croyants que Jésus plaide pour nous quand nous péchons.",
+    "full_verse": "Mes petits enfants, je vous écris ces choses, afin que vous ne péchiez point. Et si quelqu'un a péché, nous avons un avocat auprès du Père, Jésus-Christ le juste.",
+    "verse_ref": "1 Jean 2:1"
+  },
+  "q_jesus_042": {
+    "question": "Selon Ésaïe 9:5, « Car un enfant nous est né, un fils nous est donné... On l'appellera Admirable, Conseiller, Dieu puissant, Père éternel, Prince de la _____. »",
+    "correct": "paix",
+    "wrong": ["gloire", "vie", "justice"],
+    "hint": "L'opposé de la guerre.",
+    "explanation": "Ésaïe prophétise sur le Messie avec quatre titres glorieux.",
+    "full_verse": "Car un enfant nous est né, un fils nous est donné, Et la domination reposera sur son épaule; On l'appellera Admirable, Conseiller, Dieu puissant, Père éternel, Prince de la paix.",
+    "verse_ref": "Ésaïe 9:5"
+  },
+  "q_jesus_043": {
+    "question": "Selon Ésaïe 53:5, « Mais il était blessé pour nos péchés, brisé pour nos iniquités; Le châtiment qui nous donne la paix est tombé sur lui, Et c'est par ses _____ que nous sommes guéris. »",
+    "correct": "meurtrissures",
+    "wrong": ["blessures", "souffrances", "plaies"],
+    "hint": "Les blessures physiques.",
+    "explanation": "Ésaïe prophétise sur le serviteur souffrant qui apporte la guérison par ses meurtrissures.",
+    "full_verse": "Mais il était blessé pour nos péchés, Brisé pour nos iniquités; Le châtiment qui nous donne la paix est tombé sur lui, Et c'est par ses meurtrissures que nous sommes guéris.",
+    "verse_ref": "Ésaïe 53:5"
+  },
+  "q_jesus_044": {
+    "question": "Selon Michée 5:1, « Et toi, Bethléhem Éphrata, petite entre les milliers de Juda, De toi sortira pour moi Celui qui dominera sur Israël, Et dont l'origine remonte aux temps anciens, aux jours de l'_____. »",
+    "correct": "éternité",
+    "wrong": ["antiquité", "histoire", "passé"],
+    "hint": "Depuis très longtemps.",
+    "explanation": "Michée prophétise que le Messie viendrait de Bethléhem avec des origines éternelles.",
+    "full_verse": "Et toi, Bethléhem Éphrata, Petite entre les milliers de Juda, De toi sortira pour moi Celui qui dominera sur Israël, Et dont l'origine remonte aux temps anciens, Aux jours de l'éternité.",
+    "verse_ref": "Michée 5:1"
+  },
+  "q_jesus_045": {
+    "question": "Selon Matthieu 4:17, « Dès ce moment Jésus commença à prêcher, et à dire: Repentez-vous, car le royaume des _____ est proche. »",
+    "correct": "cieux",
+    "wrong": ["Dieu", "gloire", "saints"],
+    "hint": "Où Dieu habite.",
+    "explanation": "Jésus commence son ministère en appelant les gens à la repentance car le royaume de Dieu approche.",
+    "full_verse": "Dès ce moment Jésus commença à prêcher, et à dire: Repentez-vous, car le royaume des cieux est proche.",
+    "verse_ref": "Matthieu 4:17"
+  },
+  "q_jesus_046": {
+    "question": "Selon Marc 10:45, « Car le Fils de l'homme est venu, non pour être servi, mais pour servir et donner sa vie comme la rançon de _____. »",
+    "correct": "plusieurs",
+    "wrong": ["tous", "nous", "beaucoup"],
+    "hint": "Un grand nombre de personnes.",
+    "explanation": "Jésus décrit sa mission comme servir et donner sa vie en rançon.",
+    "full_verse": "Car le Fils de l'homme est venu, non pour être servi, mais pour servir et donner sa vie comme la rançon de plusieurs.",
+    "verse_ref": "Marc 10:45"
+  },
+  "q_jesus_047": {
+    "question": "Selon Luc 24:46-47, « le Christ souffrirait, et qu'il ressusciterait des morts le troisième jour, et que la repentance et le pardon des péchés seraient prêchés en son nom à toutes les _____. »",
+    "correct": "nations",
+    "wrong": ["peuples", "personnes", "terres"],
+    "hint": "Tous les groupes ethniques.",
+    "explanation": "Le Jésus ressuscité explique que l'Évangile serait prêché à toutes les nations.",
+    "full_verse": "Et il leur dit: Ainsi il est écrit que le Christ souffrirait, et qu'il ressusciterait des morts le troisième jour, et que la repentance et le pardon des péchés seraient prêchés en son nom à toutes les nations, à commencer par Jérusalem.",
+    "verse_ref": "Luc 24:46-47"
+  },
+  "q_jesus_048": {
+    "question": "Selon Jean 5:24, « celui qui écoute ma parole, et qui croit à celui qui m'a envoyé, a la vie éternelle et ne vient point en jugement, mais il est passé de la mort à la _____. »",
+    "correct": "vie",
+    "wrong": ["gloire", "paix", "lumière"],
+    "hint": "L'opposé de la mort.",
+    "explanation": "Jésus promet la vie éternelle à ceux qui croient, passant de la mort à la vie.",
+    "full_verse": "En vérité, en vérité, je vous le dis, celui qui écoute ma parole, et qui croit à celui qui m'a envoyé, a la vie éternelle et ne vient point en jugement, mais il est passé de la mort à la vie.",
+    "verse_ref": "Jean 5:24"
+  },
+  "q_jesus_049": {
+    "question": "Selon Jean 14:2, « Il y a plusieurs demeures dans la maison de mon Père. Si cela n'était pas, je vous l'aurais dit. Je vais vous préparer une _____. »",
+    "correct": "place",
+    "wrong": ["demeure", "maison", "chambre"],
+    "hint": "Un endroit préparé pour nous.",
+    "explanation": "Jésus réconforte ses disciples avec la promesse de leur préparer une place.",
+    "full_verse": "Il y a plusieurs demeures dans la maison de mon Père. Si cela n'était pas, je vous l'aurais dit. Je vais vous préparer une place.",
+    "verse_ref": "Jean 14:2"
+  },
+  "q_jesus_050": {
+    "question": "Selon Apocalypse 3:20, « Voici, je me tiens à la porte, et je frappe. Si quelqu'un entend ma voix et ouvre la porte, j'entrerai chez lui, je souperai avec lui, et lui avec _____. »",
+    "correct": "moi",
+    "wrong": ["nous", "Dieu", "le Père"],
+    "hint": "Jésus offre la communion.",
+    "explanation": "Jésus offre une communion intime à quiconque lui ouvre la porte.",
+    "full_verse": "Voici, je me tiens à la porte, et je frappe. Si quelqu'un entend ma voix et ouvre la porte, j'entrerai chez lui, je souperai avec lui, et lui avec moi.",
+    "verse_ref": "Apocalypse 3:20"
+  }
+}

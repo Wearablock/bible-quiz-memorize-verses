@@ -1,1 +1,452 @@
-{}
+{
+  "q_jesus_001": {
+    "question": "Fill in the blank: 'For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal _____.'",
+    "correct": "life",
+    "wrong": ["joy", "peace", "hope"],
+    "hint": "The gift of believing in Jesus",
+    "explanation": "This famous verse summarizes the gospel—God's love led Him to give His Son for eternal life.",
+    "full_verse": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
+    "verse_ref": "John 3:16"
+  },
+  "q_jesus_002": {
+    "question": "Fill in the blank: 'Jesus answered, \"I am the way and the truth and the life. No one comes to the Father except through _____.\"'",
+    "correct": "me",
+    "wrong": ["faith", "grace", "prayer"],
+    "hint": "Jesus is the only way",
+    "explanation": "Jesus declares Himself as the exclusive way to God the Father.",
+    "full_verse": "Jesus answered, 'I am the way and the truth and the life. No one comes to the Father except through me.'",
+    "verse_ref": "John 14:6"
+  },
+  "q_jesus_003": {
+    "question": "Fill in the blank: 'Jesus said to her, \"I am the resurrection and the life. The one who believes in me will live, even though they _____.\"'",
+    "correct": "die",
+    "wrong": ["fall", "fail", "sin"],
+    "hint": "Physical death cannot stop believers",
+    "explanation": "Jesus declares that He is the source of resurrection life for all who believe.",
+    "full_verse": "Jesus said to her, 'I am the resurrection and the life. The one who believes in me will live, even though they die.'",
+    "verse_ref": "John 11:25"
+  },
+  "q_jesus_004": {
+    "question": "Fill in the blank: 'Come to me, all you who are weary and burdened, and I will give you _____.'",
+    "correct": "rest",
+    "wrong": ["peace", "hope", "strength"],
+    "hint": "Relief from exhaustion",
+    "explanation": "Jesus invites all who are tired and overwhelmed to find rest in Him.",
+    "full_verse": "Come to me, all you who are weary and burdened, and I will give you rest.",
+    "verse_ref": "Matthew 11:28"
+  },
+  "q_jesus_005": {
+    "question": "Fill in the blank: 'When Jesus spoke again to the people, he said, \"I am the light of the world. Whoever follows me will never walk in _____.\"'",
+    "correct": "darkness",
+    "wrong": ["fear", "sin", "shame"],
+    "hint": "The opposite of light",
+    "explanation": "Jesus declares Himself as the light that guides believers out of spiritual darkness.",
+    "full_verse": "When Jesus spoke again to the people, he said, 'I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.'",
+    "verse_ref": "John 8:12"
+  },
+  "q_jesus_006": {
+    "question": "Fill in the blank: 'I am the good shepherd. The good shepherd lays down his _____ for the sheep.'",
+    "correct": "life",
+    "wrong": ["staff", "rod", "heart"],
+    "hint": "The ultimate sacrifice",
+    "explanation": "Jesus describes Himself as the shepherd who sacrifices His life for His sheep.",
+    "full_verse": "I am the good shepherd. The good shepherd lays down his life for the sheep.",
+    "verse_ref": "John 10:11"
+  },
+  "q_jesus_007": {
+    "question": "Fill in the blank: 'I am the vine; you are the branches. If you remain in me and I in you, you will bear much _____.'",
+    "correct": "fruit",
+    "wrong": ["joy", "love", "hope"],
+    "hint": "What grows on branches",
+    "explanation": "Jesus uses the vine metaphor to teach about abiding in Him for spiritual fruitfulness.",
+    "full_verse": "I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing.",
+    "verse_ref": "John 15:5"
+  },
+  "q_jesus_008": {
+    "question": "Fill in the blank: 'And teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the _____.'",
+    "correct": "age",
+    "wrong": ["world", "time", "days"],
+    "hint": "Until the end of this era",
+    "explanation": "Jesus promises His continual presence with His disciples until the end of the age.",
+    "full_verse": "And teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.",
+    "verse_ref": "Matthew 28:20"
+  },
+  "q_jesus_009": {
+    "question": "Fill in the blank: 'The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the _____.'",
+    "correct": "Father",
+    "wrong": ["heaven", "God", "above"],
+    "hint": "Jesus came from Him",
+    "explanation": "John declares that Jesus, the Word, became human and revealed the Father's glory.",
+    "full_verse": "The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.",
+    "verse_ref": "John 1:14"
+  },
+  "q_jesus_010": {
+    "question": "Fill in the blank: 'I and the Father are _____.'",
+    "correct": "one",
+    "wrong": ["united", "together", "equal"],
+    "hint": "Jesus and the Father's unity",
+    "explanation": "Jesus declares His unity with God the Father, affirming His deity.",
+    "full_verse": "I and the Father are one.",
+    "verse_ref": "John 10:30"
+  },
+  "q_jesus_011": {
+    "question": "Fill in the blank: 'Simon Peter answered, \"You are the Messiah, the Son of the living _____.\"'",
+    "correct": "God",
+    "wrong": ["Lord", "Father", "King"],
+    "hint": "Peter confesses Jesus' divine identity",
+    "explanation": "Peter's confession acknowledges Jesus as both Messiah and Son of God.",
+    "full_verse": "Simon Peter answered, 'You are the Messiah, the Son of the living God.'",
+    "verse_ref": "Matthew 16:16"
+  },
+  "q_jesus_012": {
+    "question": "Fill in the blank: 'The Son is the image of the invisible God, the firstborn over all _____.'",
+    "correct": "creation",
+    "wrong": ["things", "beings", "creatures"],
+    "hint": "Everything that was made",
+    "explanation": "Paul declares that Jesus is the visible representation of the invisible God.",
+    "full_verse": "The Son is the image of the invisible God, the firstborn over all creation.",
+    "verse_ref": "Colossians 1:15"
+  },
+  "q_jesus_013": {
+    "question": "Fill in the blank: 'Who, being in very nature God, did not consider equality with God something to be used to his own advantage; rather, he made himself nothing by taking the very nature of a _____.'",
+    "correct": "servant",
+    "wrong": ["man", "human", "slave"],
+    "hint": "Jesus humbled Himself to this role",
+    "explanation": "Paul describes Jesus' humility in leaving divine glory to become a servant.",
+    "full_verse": "Who, being in very nature God, did not consider equality with God something to be used to his own advantage; rather, he made himself nothing by taking the very nature of a servant, being made in human likeness.",
+    "verse_ref": "Philippians 2:6-7"
+  },
+  "q_jesus_014": {
+    "question": "Fill in the blank: 'The Son is the radiance of God's glory and the exact representation of his being, sustaining all things by his powerful _____.'",
+    "correct": "word",
+    "wrong": ["hand", "will", "might"],
+    "hint": "How Jesus holds all things together",
+    "explanation": "The writer of Hebrews describes Jesus as the perfect revelation of God.",
+    "full_verse": "The Son is the radiance of God's glory and the exact representation of his being, sustaining all things by his powerful word.",
+    "verse_ref": "Hebrews 1:3"
+  },
+  "q_jesus_015": {
+    "question": "Fill in the blank: 'For in Christ all the fullness of the _____ lives in bodily form.'",
+    "correct": "Deity",
+    "wrong": ["God", "Spirit", "Father"],
+    "hint": "The complete divine nature",
+    "explanation": "Paul declares that the complete nature of God dwells in Christ's physical body.",
+    "full_verse": "For in Christ all the fullness of the Deity lives in bodily form.",
+    "verse_ref": "Colossians 2:9"
+  },
+  "q_jesus_016": {
+    "question": "Fill in the blank: 'In the beginning was the Word, and the Word was with God, and the Word was _____.'",
+    "correct": "God",
+    "wrong": ["divine", "holy", "eternal"],
+    "hint": "The Word's identity",
+    "explanation": "John declares that Jesus, the Word, was both with God and was God from the beginning.",
+    "full_verse": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+    "verse_ref": "John 1:1"
+  },
+  "q_jesus_017": {
+    "question": "Fill in the blank: 'Then Jesus declared, \"I am the bread of life. Whoever comes to me will never go hungry, and whoever believes in me will never be _____.\"'",
+    "correct": "thirsty",
+    "wrong": ["empty", "wanting", "lacking"],
+    "hint": "The opposite of hungry",
+    "explanation": "Jesus declares Himself as the spiritual bread that satisfies all hunger and thirst.",
+    "full_verse": "Then Jesus declared, 'I am the bread of life. Whoever comes to me will never go hungry, and whoever believes in me will never be thirsty.'",
+    "verse_ref": "John 6:35"
+  },
+  "q_jesus_018": {
+    "question": "Fill in the blank: 'I am the gate; whoever enters through me will be saved. They will come in and go out, and find _____.'",
+    "correct": "pasture",
+    "wrong": ["rest", "peace", "life"],
+    "hint": "What sheep find in a field",
+    "explanation": "Jesus describes Himself as the gate through which people find salvation and provision.",
+    "full_verse": "I am the gate; whoever enters through me will be saved. They will come in and go out, and find pasture.",
+    "verse_ref": "John 10:9"
+  },
+  "q_jesus_019": {
+    "question": "Fill in the blank: 'Jesus answered: \"Don't you know me, Philip, even after I have been among you such a long time? Anyone who has seen me has seen the _____.\"'",
+    "correct": "Father",
+    "wrong": ["God", "truth", "light"],
+    "hint": "Jesus reveals this person",
+    "explanation": "Jesus tells Philip that seeing Him is equivalent to seeing God the Father.",
+    "full_verse": "Jesus answered: 'Don't you know me, Philip, even after I have been among you such a long time? Anyone who has seen me has seen the Father. How can you say, \"Show us the Father\"?'",
+    "verse_ref": "John 14:9"
+  },
+  "q_jesus_020": {
+    "question": "Fill in the blank: 'For the Son of Man came to seek and to save the _____.'",
+    "correct": "lost",
+    "wrong": ["world", "sinners", "broken"],
+    "hint": "Those who have gone astray",
+    "explanation": "Jesus summarizes His mission as seeking and saving those who are lost.",
+    "full_verse": "For the Son of Man came to seek and to save the lost.",
+    "verse_ref": "Luke 19:10"
+  },
+  "q_jesus_021": {
+    "question": "Fill in the blank: 'She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their _____.'",
+    "correct": "sins",
+    "wrong": ["enemies", "troubles", "fears"],
+    "hint": "What Jesus saves us from",
+    "explanation": "The angel explains that Jesus' name reflects His mission to save from sins.",
+    "full_verse": "She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins.",
+    "verse_ref": "Matthew 1:21"
+  },
+  "q_jesus_022": {
+    "question": "Fill in the blank: 'Today in the town of David a Savior has been born to you; he is the Messiah, the _____.'",
+    "correct": "Lord",
+    "wrong": ["King", "Christ", "Son"],
+    "hint": "A title of authority",
+    "explanation": "The angel announces Jesus' birth with three titles: Savior, Messiah, and Lord.",
+    "full_verse": "Today in the town of David a Savior has been born to you; he is the Messiah, the Lord.",
+    "verse_ref": "Luke 2:11"
+  },
+  "q_jesus_023": {
+    "question": "Fill in the blank: 'But these are written that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have _____ in his name.'",
+    "correct": "life",
+    "wrong": ["hope", "faith", "joy"],
+    "hint": "The purpose of John's Gospel",
+    "explanation": "John states his purpose: that readers would believe in Jesus and have life.",
+    "full_verse": "But these are written that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have life in his name.",
+    "verse_ref": "John 20:31"
+  },
+  "q_jesus_024": {
+    "question": "Fill in the blank: 'Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be _____.'",
+    "correct": "saved",
+    "wrong": ["healed", "blessed", "forgiven"],
+    "hint": "What Jesus' name provides",
+    "explanation": "Peter declares that salvation is exclusively through Jesus' name.",
+    "full_verse": "Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved.",
+    "verse_ref": "Acts 4:12"
+  },
+  "q_jesus_025": {
+    "question": "Fill in the blank: 'But God demonstrates his own love for us in this: While we were still sinners, Christ _____ for us.'",
+    "correct": "died",
+    "wrong": ["came", "lived", "suffered"],
+    "hint": "Christ's ultimate sacrifice",
+    "explanation": "Paul emphasizes that Christ died for us while we were still in our sins.",
+    "full_verse": "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.",
+    "verse_ref": "Romans 5:8"
+  },
+  "q_jesus_026": {
+    "question": "Fill in the blank: 'For there is one God and one mediator between God and mankind, the man Christ _____.'",
+    "correct": "Jesus",
+    "wrong": ["Lord", "Savior", "Messiah"],
+    "hint": "The mediator's name",
+    "explanation": "Paul declares that Jesus is the only mediator between God and humanity.",
+    "full_verse": "For there is one God and one mediator between God and mankind, the man Christ Jesus.",
+    "verse_ref": "1 Timothy 2:5"
+  },
+  "q_jesus_027": {
+    "question": "Fill in the blank: 'For we do not have a high priest who is unable to empathize with our weaknesses, but we have one who has been tempted in every way, just as we are—yet he did not _____.'",
+    "correct": "sin",
+    "wrong": ["fall", "fail", "yield"],
+    "hint": "Jesus remained without this",
+    "explanation": "The writer of Hebrews explains that Jesus was tempted but remained sinless.",
+    "full_verse": "For we do not have a high priest who is unable to empathize with our weaknesses, but we have one who has been tempted in every way, just as we are—yet he did not sin.",
+    "verse_ref": "Hebrews 4:15"
+  },
+  "q_jesus_028": {
+    "question": "Fill in the blank: 'Fixing our eyes on Jesus, the pioneer and perfecter of faith. For the joy set before him he endured the cross, scorning its shame, and sat down at the right hand of the _____ of God.'",
+    "correct": "throne",
+    "wrong": ["glory", "presence", "majesty"],
+    "hint": "Where Jesus now sits",
+    "explanation": "Jesus endured the cross and is now seated at God's right hand in glory.",
+    "full_verse": "Fixing our eyes on Jesus, the pioneer and perfecter of faith. For the joy set before him he endured the cross, scorning its shame, and sat down at the right hand of the throne of God.",
+    "verse_ref": "Hebrews 12:2"
+  },
+  "q_jesus_029": {
+    "question": "Fill in the blank: '\"I am the Alpha and the Omega,\" says the Lord God, \"who is, and who was, and who is to come, the _____.\"'",
+    "correct": "Almighty",
+    "wrong": ["Eternal", "Holy", "Infinite"],
+    "hint": "A title emphasizing God's power",
+    "explanation": "God declares Himself as the beginning and end, the Almighty.",
+    "full_verse": "'I am the Alpha and the Omega,' says the Lord God, 'who is, and who was, and who is to come, the Almighty.'",
+    "verse_ref": "Revelation 1:8"
+  },
+  "q_jesus_030": {
+    "question": "Fill in the blank: 'I am the Alpha and the Omega, the First and the Last, the Beginning and the _____.'",
+    "correct": "End",
+    "wrong": ["Finish", "Final", "Conclusion"],
+    "hint": "The opposite of beginning",
+    "explanation": "Jesus uses three parallel phrases to declare His eternal nature.",
+    "full_verse": "I am the Alpha and the Omega, the First and the Last, the Beginning and the End.",
+    "verse_ref": "Revelation 22:13"
+  },
+  "q_jesus_031": {
+    "question": "Fill in the blank: '\"Very truly I tell you,\" Jesus answered, \"before Abraham was born, I _____!\"'",
+    "correct": "am",
+    "wrong": ["was", "exist", "lived"],
+    "hint": "Jesus uses God's covenant name",
+    "explanation": "Jesus declares His eternal existence using the divine name 'I AM.'",
+    "full_verse": "'Very truly I tell you,' Jesus answered, 'before Abraham was born, I am!'",
+    "verse_ref": "John 8:58"
+  },
+  "q_jesus_032": {
+    "question": "Fill in the blank: 'Then Jesus came to them and said, \"All authority in heaven and on earth has been given to _____.\"'",
+    "correct": "me",
+    "wrong": ["you", "us", "them"],
+    "hint": "Jesus speaks of Himself",
+    "explanation": "The risen Jesus declares that He has received all authority in heaven and earth.",
+    "full_verse": "Then Jesus came to them and said, 'All authority in heaven and on earth has been given to me.'",
+    "verse_ref": "Matthew 28:18"
+  },
+  "q_jesus_033": {
+    "question": "Fill in the blank: 'Now this is eternal life: that they know you, the only true God, and Jesus Christ, whom you have _____.'",
+    "correct": "sent",
+    "wrong": ["given", "revealed", "promised"],
+    "hint": "The Father's action toward Jesus",
+    "explanation": "Jesus defines eternal life as knowing God and the one He sent—Jesus Christ.",
+    "full_verse": "Now this is eternal life: that they know you, the only true God, and Jesus Christ, whom you have sent.",
+    "verse_ref": "John 17:3"
+  },
+  "q_jesus_034": {
+    "question": "Fill in the blank: 'For what I received I passed on to you as of first importance: that Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the _____ day.'",
+    "correct": "third",
+    "wrong": ["first", "second", "next"],
+    "hint": "The day of resurrection",
+    "explanation": "Paul summarizes the gospel: Christ died, was buried, and rose on the third day.",
+    "full_verse": "For what I received I passed on to you as of first importance: that Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day according to the Scriptures.",
+    "verse_ref": "1 Corinthians 15:3-4"
+  },
+  "q_jesus_035": {
+    "question": "Fill in the blank: 'God made him who had no sin to be sin for us, so that in him we might become the righteousness of _____.'",
+    "correct": "God",
+    "wrong": ["Christ", "heaven", "Him"],
+    "hint": "Whose righteousness we receive",
+    "explanation": "Paul explains the great exchange: Christ took our sin so we could receive God's righteousness.",
+    "full_verse": "God made him who had no sin to be sin for us, so that in him we might become the righteousness of God.",
+    "verse_ref": "2 Corinthians 5:21"
+  },
+  "q_jesus_036": {
+    "question": "Fill in the blank: 'But when the set time had fully come, God sent his Son, born of a woman, born under the law, to redeem those under the law, that we might receive adoption to _____.'",
+    "correct": "sonship",
+    "wrong": ["glory", "heaven", "grace"],
+    "hint": "Becoming God's children",
+    "explanation": "Paul explains that Jesus came to redeem us and grant us adoption as God's children.",
+    "full_verse": "But when the set time had fully come, God sent his Son, born of a woman, born under the law, to redeem those under the law, that we might receive adoption to sonship.",
+    "verse_ref": "Galatians 4:4-5"
+  },
+  "q_jesus_037": {
+    "question": "Fill in the blank: 'He raised Christ from the dead and seated him at his right hand in the heavenly realms, far above all rule and authority, power and _____, and every name that is invoked.'",
+    "correct": "dominion",
+    "wrong": ["glory", "might", "throne"],
+    "hint": "A type of authority",
+    "explanation": "Paul describes Christ's exaltation above all powers and authorities.",
+    "full_verse": "He raised Christ from the dead and seated him at his right hand in the heavenly realms, far above all rule and authority, power and dominion, and every name that is invoked.",
+    "verse_ref": "Ephesians 1:20-21"
+  },
+  "q_jesus_038": {
+    "question": "Fill in the blank: 'Therefore God exalted him to the highest place and gave him the name that is above every name, that at the name of Jesus every _____ should bow.'",
+    "correct": "knee",
+    "wrong": ["head", "heart", "soul"],
+    "hint": "Part of the body that bends in worship",
+    "explanation": "Paul declares that God exalted Jesus and gave Him the supreme name.",
+    "full_verse": "Therefore God exalted him to the highest place and gave him the name that is above every name, that at the name of Jesus every knee should bow, in heaven and on earth and under the earth.",
+    "verse_ref": "Philippians 2:9-11"
+  },
+  "q_jesus_039": {
+    "question": "Fill in the blank: 'For in him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things have been created through him and for _____.'",
+    "correct": "him",
+    "wrong": ["God", "us", "glory"],
+    "hint": "All creation is for Christ",
+    "explanation": "Paul declares that all things were created by Christ and for Christ.",
+    "full_verse": "For in him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things have been created through him and for him.",
+    "verse_ref": "Colossians 1:16-17"
+  },
+  "q_jesus_040": {
+    "question": "Fill in the blank: 'He himself bore our sins in his body on the cross, so that we might die to sins and live for righteousness; by his wounds you have been _____.'",
+    "correct": "healed",
+    "wrong": ["saved", "forgiven", "freed"],
+    "hint": "Made well through His suffering",
+    "explanation": "Peter describes how Christ's sacrifice on the cross brings healing to us.",
+    "full_verse": "He himself bore our sins in his body on the cross, so that we might die to sins and live for righteousness; by his wounds you have been healed.",
+    "verse_ref": "1 Peter 2:24"
+  },
+  "q_jesus_041": {
+    "question": "Fill in the blank: 'My dear children, I write this to you so that you will not sin. But if anybody does sin, we have an advocate with the Father—Jesus Christ, the _____ One.'",
+    "correct": "Righteous",
+    "wrong": ["Holy", "Faithful", "Living"],
+    "hint": "Jesus' moral character",
+    "explanation": "John assures believers that Jesus advocates for us when we sin.",
+    "full_verse": "My dear children, I write this to you so that you will not sin. But if anybody does sin, we have an advocate with the Father—Jesus Christ, the Righteous One.",
+    "verse_ref": "1 John 2:1"
+  },
+  "q_jesus_042": {
+    "question": "Fill in the blank: 'For to us a child is born, to us a son is given, and the government will be on his shoulders. And he will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of _____.'",
+    "correct": "Peace",
+    "wrong": ["Glory", "Life", "Kings"],
+    "hint": "The opposite of war",
+    "explanation": "Isaiah prophesies about the Messiah with four glorious titles.",
+    "full_verse": "For to us a child is born, to us a son is given, and the government will be on his shoulders. And he will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.",
+    "verse_ref": "Isaiah 9:6"
+  },
+  "q_jesus_043": {
+    "question": "Fill in the blank: 'But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his _____ we are healed.'",
+    "correct": "wounds",
+    "wrong": ["blood", "death", "stripes"],
+    "hint": "Physical injuries",
+    "explanation": "Isaiah prophesies about the suffering servant who brings healing through His wounds.",
+    "full_verse": "But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed.",
+    "verse_ref": "Isaiah 53:5"
+  },
+  "q_jesus_044": {
+    "question": "Fill in the blank: 'But you, Bethlehem Ephrathah, though you are small among the clans of Judah, out of you will come for me one who will be ruler over Israel, whose origins are from of old, from ancient _____.'",
+    "correct": "times",
+    "wrong": ["days", "ages", "years"],
+    "hint": "From long ago",
+    "explanation": "Micah prophesies that the Messiah would come from Bethlehem with eternal origins.",
+    "full_verse": "But you, Bethlehem Ephrathah, though you are small among the clans of Judah, out of you will come for me one who will be ruler over Israel, whose origins are from of old, from ancient times.",
+    "verse_ref": "Micah 5:2"
+  },
+  "q_jesus_045": {
+    "question": "Fill in the blank: 'From that time on Jesus began to preach, \"Repent, for the kingdom of _____ has come near.\"'",
+    "correct": "heaven",
+    "wrong": ["God", "glory", "peace"],
+    "hint": "Where God dwells",
+    "explanation": "Jesus begins His ministry calling people to repentance as God's kingdom approaches.",
+    "full_verse": "From that time on Jesus began to preach, 'Repent, for the kingdom of heaven has come near.'",
+    "verse_ref": "Matthew 4:17"
+  },
+  "q_jesus_046": {
+    "question": "Fill in the blank: 'For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for _____.'",
+    "correct": "many",
+    "wrong": ["all", "us", "sinners"],
+    "hint": "A large number of people",
+    "explanation": "Jesus describes His mission as serving and giving His life as a ransom.",
+    "full_verse": "For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.",
+    "verse_ref": "Mark 10:45"
+  },
+  "q_jesus_047": {
+    "question": "Fill in the blank: 'He told them, \"This is what is written: The Messiah will suffer and rise from the dead on the third day, and repentance for the forgiveness of sins will be preached in his name to all _____.\"'",
+    "correct": "nations",
+    "wrong": ["people", "peoples", "lands"],
+    "hint": "All ethnic groups",
+    "explanation": "The risen Jesus explains that the gospel would be preached to all nations.",
+    "full_verse": "He told them, 'This is what is written: The Messiah will suffer and rise from the dead on the third day, and repentance for the forgiveness of sins will be preached in his name to all nations, beginning at Jerusalem.'",
+    "verse_ref": "Luke 24:46-47"
+  },
+  "q_jesus_048": {
+    "question": "Fill in the blank: 'Very truly I tell you, whoever hears my word and believes him who sent me has eternal life and will not be judged but has crossed over from death to _____.'",
+    "correct": "life",
+    "wrong": ["glory", "heaven", "peace"],
+    "hint": "The opposite of death",
+    "explanation": "Jesus promises eternal life to those who believe, crossing from death to life.",
+    "full_verse": "Very truly I tell you, whoever hears my word and believes him who sent me has eternal life and will not be judged but has crossed over from death to life.",
+    "verse_ref": "John 5:24"
+  },
+  "q_jesus_049": {
+    "question": "Fill in the blank: 'Do not let your hearts be troubled. You believe in God; believe also in me. My Father's house has many rooms; if that were not so, would I have told you that I am going there to prepare a _____ for you?'",
+    "correct": "place",
+    "wrong": ["room", "home", "mansion"],
+    "hint": "A location prepared for us",
+    "explanation": "Jesus comforts His disciples with the promise of preparing a place for them.",
+    "full_verse": "Do not let your hearts be troubled. You believe in God; believe also in me. My Father's house has many rooms; if that were not so, would I have told you that I am going there to prepare a place for you?",
+    "verse_ref": "John 14:1-3"
+  },
+  "q_jesus_050": {
+    "question": "Fill in the blank: 'Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in and eat with that person, and they with _____.'",
+    "correct": "me",
+    "wrong": ["us", "them", "God"],
+    "hint": "Jesus offers fellowship",
+    "explanation": "Jesus offers intimate fellowship to anyone who opens the door to Him.",
+    "full_verse": "Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in and eat with that person, and they with me.",
+    "verse_ref": "Revelation 3:20"
+  }
+}

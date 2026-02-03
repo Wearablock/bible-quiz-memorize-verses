@@ -1,1 +1,504 @@
-{}
+{
+  "questions": [
+    {
+      "id": "q_proverbs_001",
+      "question": "Completa el espacio en blanco: 'Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia _____; reconócelo en todos tus caminos, y él enderezará tus veredas.'",
+      "correct": "prudencia",
+      "wrong": ["sabiduría", "conocimiento", "fuerza"],
+      "hint": "Esta palabra se relaciona con el intelecto y razonamiento humano",
+      "explanation": "Somos llamados a confiar en Dios completamente en lugar de depender de nuestro limitado entendimiento humano.",
+      "full_verse": "Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia prudencia; reconócelo en todos tus caminos, y él enderezará tus veredas.",
+      "verse_ref": "Proverbios 3:5-6"
+    },
+    {
+      "id": "q_proverbs_002",
+      "question": "Completa el espacio en blanco: 'El principio de la sabiduría es el temor de _____; los insensatos desprecian la sabiduría y la enseñanza.'",
+      "correct": "Jehová",
+      "wrong": ["Dios", "el Señor", "el Altísimo"],
+      "hint": "Este es el nombre del pacto de Dios",
+      "explanation": "La reverencia a Dios es el fundamento de todo verdadero conocimiento.",
+      "full_verse": "El principio de la sabiduría es el temor de Jehová; los insensatos desprecian la sabiduría y la enseñanza.",
+      "verse_ref": "Proverbios 1:7"
+    },
+    {
+      "id": "q_proverbs_003",
+      "question": "Completa el espacio en blanco: 'Instruye al _____ en su camino, y aun cuando fuere viejo no se apartará de él.'",
+      "correct": "niño",
+      "wrong": ["joven", "discípulo", "creyente"],
+      "hint": "Esto se refiere a los pequeños que están siendo criados",
+      "explanation": "La formación espiritual temprana tiene efectos duraderos a lo largo de la vida de una persona.",
+      "full_verse": "Instruye al niño en su camino, y aun cuando fuere viejo no se apartará de él.",
+      "verse_ref": "Proverbios 22:6"
+    },
+    {
+      "id": "q_proverbs_004",
+      "question": "Completa el espacio en blanco: 'Encomienda a Jehová tus obras, y tus _____ serán afirmados.'",
+      "correct": "pensamientos",
+      "wrong": ["caminos", "pasos", "obras"],
+      "hint": "Esta palabra se refiere a tus intenciones para el futuro",
+      "explanation": "Cuando dedicamos nuestro trabajo a Dios, Él guía y establece nuestras intenciones.",
+      "full_verse": "Encomienda a Jehová tus obras, y tus pensamientos serán afirmados.",
+      "verse_ref": "Proverbios 16:3"
+    },
+    {
+      "id": "q_proverbs_005",
+      "question": "Completa el espacio en blanco: 'Nunca se aparten de ti la misericordia y la _____; átalas a tu cuello, escríbelas en la tabla de tu corazón.'",
+      "correct": "verdad",
+      "wrong": ["fidelidad", "bondad", "gracia"],
+      "hint": "Esta virtud se relaciona con ser leal y confiable",
+      "explanation": "La misericordia y la verdad deben ser compañeros constantes, moldeando nuestro carácter.",
+      "full_verse": "Nunca se aparten de ti la misericordia y la verdad; átalas a tu cuello, escríbelas en la tabla de tu corazón.",
+      "verse_ref": "Proverbios 3:3"
+    },
+    {
+      "id": "q_proverbs_006",
+      "question": "Completa el espacio en blanco: 'Sobre toda cosa guardada, guarda tu _____; porque de él mana la vida.'",
+      "correct": "corazón",
+      "wrong": ["mente", "alma", "lengua"],
+      "hint": "Este es el centro de tu ser y emociones",
+      "explanation": "El corazón es la fuente de la vida, afectando todos nuestros pensamientos, palabras y acciones.",
+      "full_verse": "Sobre toda cosa guardada, guarda tu corazón; porque de él mana la vida.",
+      "verse_ref": "Proverbios 4:23"
+    },
+    {
+      "id": "q_proverbs_007",
+      "question": "Completa el espacio en blanco: 'Torre fuerte es el nombre de Jehová; a él correrá el _____, y será levantado.'",
+      "correct": "justo",
+      "wrong": ["creyente", "piadoso", "fiel"],
+      "hint": "Esta es una persona recta",
+      "explanation": "El nombre de Dios representa Su carácter y poder, proporcionando protección para quienes confían en Él.",
+      "full_verse": "Torre fuerte es el nombre de Jehová; a él correrá el justo, y será levantado.",
+      "verse_ref": "Proverbios 18:10"
+    },
+    {
+      "id": "q_proverbs_008",
+      "question": "Completa el espacio en blanco: 'Hierro con hierro se aguza; y así el hombre aguza el rostro de su _____.'",
+      "correct": "amigo",
+      "wrong": ["hermano", "prójimo", "compañero"],
+      "hint": "Esto se refiere a otra persona cercana",
+      "explanation": "Las relaciones saludables nos ayudan a crecer y mejorar a través del aliento y desafío mutuos.",
+      "full_verse": "Hierro con hierro se aguza; y así el hombre aguza el rostro de su amigo.",
+      "verse_ref": "Proverbios 27:17"
+    },
+    {
+      "id": "q_proverbs_009",
+      "question": "Completa el espacio en blanco: 'Engañosa es la gracia, y vana la hermosura; la mujer que teme a Jehová, ésa será _____.'",
+      "correct": "alabada",
+      "wrong": ["honrada", "bendecida", "amada"],
+      "hint": "Esto significa ser elogiada o celebrada",
+      "explanation": "El verdadero valor se encuentra en la reverencia a Dios, no en la apariencia externa.",
+      "full_verse": "Engañosa es la gracia, y vana la hermosura; la mujer que teme a Jehová, ésa será alabada.",
+      "verse_ref": "Proverbios 31:30"
+    },
+    {
+      "id": "q_proverbs_010",
+      "question": "Completa el espacio en blanco: 'El alma generosa será _____; y el que saciare, él también será saciado.'",
+      "correct": "satisfecha",
+      "wrong": ["bendecida", "prosperada", "enriquecida"],
+      "hint": "Esto significa estar lleno o contento",
+      "explanation": "La generosidad trae bendiciones de vuelta al dador.",
+      "full_verse": "El alma generosa será satisfecha; y el que saciare, él también será saciado.",
+      "verse_ref": "Proverbios 11:25"
+    },
+    {
+      "id": "q_proverbs_011",
+      "question": "Completa el espacio en blanco: 'Honra a Jehová con tus bienes, y con las _____ de todos tus frutos.'",
+      "correct": "primicias",
+      "wrong": ["mejores", "diezmos", "cosechas"],
+      "hint": "Esto se refiere a la primera porción de tu cosecha",
+      "explanation": "Dar a Dios lo primero y lo mejor de nuestros ingresos muestra confianza y gratitud.",
+      "full_verse": "Honra a Jehová con tus bienes, y con las primicias de todos tus frutos.",
+      "verse_ref": "Proverbios 3:9"
+    },
+    {
+      "id": "q_proverbs_012",
+      "question": "Completa el espacio en blanco: 'El odio despierta rencillas; pero el amor cubrirá todas las _____.'",
+      "correct": "faltas",
+      "wrong": ["pecados", "errores", "ofensas"],
+      "hint": "Esto se refiere a errores u ofensas",
+      "explanation": "El amor elige perdonar en lugar de guardar rencores.",
+      "full_verse": "El odio despierta rencillas; pero el amor cubrirá todas las faltas.",
+      "verse_ref": "Proverbios 10:12"
+    },
+    {
+      "id": "q_proverbs_013",
+      "question": "Completa el espacio en blanco: 'Cuando viene la soberbia, viene también la _____; mas con los humildes está la sabiduría.'",
+      "correct": "deshonra",
+      "wrong": ["vergüenza", "caída", "destrucción"],
+      "hint": "Esto es lo opuesto al honor",
+      "explanation": "El orgullo lleva a la vergüenza, mientras que la humildad lleva a la sabiduría.",
+      "full_verse": "Cuando viene la soberbia, viene también la deshonra; mas con los humildes está la sabiduría.",
+      "verse_ref": "Proverbios 11:2"
+    },
+    {
+      "id": "q_proverbs_014",
+      "question": "Completa el espacio en blanco: 'La congoja en el corazón del hombre lo abate; mas la buena palabra lo _____.'",
+      "correct": "alegra",
+      "wrong": ["anima", "levanta", "consuela"],
+      "hint": "Esto significa producir gozo",
+      "explanation": "Las palabras de aliento tienen el poder de levantar espíritus agobiados por la preocupación.",
+      "full_verse": "La congoja en el corazón del hombre lo abate; mas la buena palabra lo alegra.",
+      "verse_ref": "Proverbios 12:25"
+    },
+    {
+      "id": "q_proverbs_015",
+      "question": "Completa el espacio en blanco: 'La esperanza que se demora es tormento del corazón; pero árbol de vida es el deseo _____.'",
+      "correct": "cumplido",
+      "wrong": ["realizado", "satisfecho", "logrado"],
+      "hint": "Esto significa que se ha hecho realidad",
+      "explanation": "Las esperanzas retrasadas pueden ser desalentadoras, pero los deseos cumplidos traen vitalidad y gozo.",
+      "full_verse": "La esperanza que se demora es tormento del corazón; pero árbol de vida es el deseo cumplido.",
+      "verse_ref": "Proverbios 13:12"
+    },
+    {
+      "id": "q_proverbs_016",
+      "question": "Completa el espacio en blanco: 'Hay camino que al hombre le parece derecho; pero su fin es camino de _____.'",
+      "correct": "muerte",
+      "wrong": ["ruina", "destrucción", "oscuridad"],
+      "hint": "Esta es la consecuencia final",
+      "explanation": "El juicio humano puede ser engañado; lo que parece correcto puede llevar a la destrucción.",
+      "full_verse": "Hay camino que al hombre le parece derecho; pero su fin es camino de muerte.",
+      "verse_ref": "Proverbios 14:12"
+    },
+    {
+      "id": "q_proverbs_017",
+      "question": "Completa el espacio en blanco: 'La blanda respuesta quita la ira; mas la palabra áspera hace subir el _____.'",
+      "correct": "furor",
+      "wrong": ["enojo", "conflicto", "odio"],
+      "hint": "Esta emoción es provocada por palabras duras",
+      "explanation": "Cómo respondemos puede ya sea desactivar o escalar el conflicto.",
+      "full_verse": "La blanda respuesta quita la ira; mas la palabra áspera hace subir el furor.",
+      "verse_ref": "Proverbios 15:1"
+    },
+    {
+      "id": "q_proverbs_018",
+      "question": "Completa el espacio en blanco: 'El corazón del hombre piensa su camino; mas Jehová endereza sus _____.'",
+      "correct": "pasos",
+      "wrong": ["sendas", "caminos", "planes"],
+      "hint": "Esto se refiere a movimientos individuales hacia adelante",
+      "explanation": "Podemos hacer planes, pero Dios finalmente dirige nuestro camino.",
+      "full_verse": "El corazón del hombre piensa su camino; mas Jehová endereza sus pasos.",
+      "verse_ref": "Proverbios 16:9"
+    },
+    {
+      "id": "q_proverbs_019",
+      "question": "Completa el espacio en blanco: 'En todo tiempo ama el amigo, y es como un hermano en tiempo de _____.'",
+      "correct": "angustia",
+      "wrong": ["dificultad", "necesidad", "tribulación"],
+      "hint": "Esta palabra significa circunstancias difíciles",
+      "explanation": "Los verdaderos amigos y la familia están presentes durante los momentos difíciles.",
+      "full_verse": "En todo tiempo ama el amigo, y es como un hermano en tiempo de angustia.",
+      "verse_ref": "Proverbios 17:17"
+    },
+    {
+      "id": "q_proverbs_020",
+      "question": "Completa el espacio en blanco: 'El hombre que tiene amigos ha de mostrarse amigo; y amigo hay más unido que un _____.'",
+      "correct": "hermano",
+      "wrong": ["padre", "madre", "familiar"],
+      "hint": "Este es un miembro masculino de la familia",
+      "explanation": "La verdadera amistad puede ser incluso más cercana que los lazos familiares.",
+      "full_verse": "El hombre que tiene amigos ha de mostrarse amigo; y amigo hay más unido que un hermano.",
+      "verse_ref": "Proverbios 18:24"
+    },
+    {
+      "id": "q_proverbs_021",
+      "question": "Completa el espacio en blanco: 'Muchos pensamientos hay en el corazón del hombre; mas el consejo de Jehová _____.'",
+      "correct": "permanecerá",
+      "wrong": ["prevalecerá", "vencerá", "triunfará"],
+      "hint": "Esto significa que durará para siempre",
+      "explanation": "Los planes humanos son muchos, pero el propósito soberano de Dios finalmente se cumplirá.",
+      "full_verse": "Muchos pensamientos hay en el corazón del hombre; mas el consejo de Jehová permanecerá.",
+      "verse_ref": "Proverbios 19:21"
+    },
+    {
+      "id": "q_proverbs_022",
+      "question": "Completa el espacio en blanco: 'Camina en su integridad el justo; sus hijos son _____ después de él.'",
+      "correct": "dichosos",
+      "wrong": ["bendecidos", "felices", "prosperados"],
+      "hint": "Esto significa bienaventurados",
+      "explanation": "Una vida recta deja un legado positivo para las generaciones futuras.",
+      "full_verse": "Camina en su integridad el justo; sus hijos son dichosos después de él.",
+      "verse_ref": "Proverbios 20:7"
+    },
+    {
+      "id": "q_proverbs_023",
+      "question": "Completa el espacio en blanco: 'El que sigue la justicia y la misericordia hallará la vida, la justicia y la _____.'",
+      "correct": "honra",
+      "wrong": ["paz", "gozo", "bendición"],
+      "hint": "Esta palabra significa alto respeto o estima",
+      "explanation": "Perseguir la justicia y la misericordia lleva a una vida plena y bendecida.",
+      "full_verse": "El que sigue la justicia y la misericordia hallará la vida, la justicia y la honra.",
+      "verse_ref": "Proverbios 21:21"
+    },
+    {
+      "id": "q_proverbs_024",
+      "question": "Completa el espacio en blanco: 'De más estima es el buen nombre que las muchas _____; y la buena fama más que la plata y el oro.'",
+      "correct": "riquezas",
+      "wrong": ["fortunas", "tesoros", "posesiones"],
+      "hint": "Esta palabra se refiere a abundante riqueza",
+      "explanation": "El carácter y la reputación son más valiosos que la riqueza material.",
+      "full_verse": "De más estima es el buen nombre que las muchas riquezas; y la buena fama más que la plata y el oro.",
+      "verse_ref": "Proverbios 22:1"
+    },
+    {
+      "id": "q_proverbs_025",
+      "question": "Completa el espacio en blanco: 'Aplica tu corazón a la enseñanza, y tus oídos a las palabras de _____.'",
+      "correct": "sabiduría",
+      "wrong": ["conocimiento", "verdad", "entendimiento"],
+      "hint": "Esto es lo que la instrucción busca impartir",
+      "explanation": "Debemos recibir con entusiasmo tanto la instrucción como la sabiduría.",
+      "full_verse": "Aplica tu corazón a la enseñanza, y tus oídos a las palabras de sabiduría.",
+      "verse_ref": "Proverbios 23:12"
+    },
+    {
+      "id": "q_proverbs_026",
+      "question": "Completa el espacio en blanco: 'Porque siete veces cae el justo, y vuelve a _____; mas los impíos caerán en el mal.'",
+      "correct": "levantarse",
+      "wrong": ["pararse", "alzarse", "erguirse"],
+      "hint": "Esta palabra indica ponerse de pie después de caer",
+      "explanation": "Los justos demuestran resiliencia, levantándose después de los fracasos.",
+      "full_verse": "Porque siete veces cae el justo, y vuelve a levantarse; mas los impíos caerán en el mal.",
+      "verse_ref": "Proverbios 24:16"
+    },
+    {
+      "id": "q_proverbs_027",
+      "question": "Completa el espacio en blanco: 'Manzana de oro con figuras de plata es la palabra dicha como _____.'",
+      "correct": "conviene",
+      "wrong": ["corresponde", "debe", "merece"],
+      "hint": "Esto significa en el momento y manera apropiados",
+      "explanation": "Las palabras oportunas y apropiadas son hermosas y valiosas.",
+      "full_verse": "Manzana de oro con figuras de plata es la palabra dicha como conviene.",
+      "verse_ref": "Proverbios 25:11"
+    },
+    {
+      "id": "q_proverbs_028",
+      "question": "Completa el espacio en blanco: 'Sin leña se apaga el fuego, y donde no hay _____ cesa la contienda.'",
+      "correct": "chismoso",
+      "wrong": ["murmurador", "calumniador", "hablador"],
+      "hint": "Esto se refiere a alguien que esparce rumores",
+      "explanation": "El conflicto se mantiene por aquellos que esparcen habladurías negativas sobre otros.",
+      "full_verse": "Sin leña se apaga el fuego, y donde no hay chismoso cesa la contienda.",
+      "verse_ref": "Proverbios 26:20"
+    },
+    {
+      "id": "q_proverbs_029",
+      "question": "Completa el espacio en blanco: 'No te jactes del día de _____; porque no sabes qué dará de sí el día.'",
+      "correct": "mañana",
+      "wrong": ["ti mismo", "el futuro", "tus planes"],
+      "hint": "Esto se refiere al día siguiente",
+      "explanation": "No debemos presumir sobre el futuro, ya que es incierto.",
+      "full_verse": "No te jactes del día de mañana; porque no sabes qué dará de sí el día.",
+      "verse_ref": "Proverbios 27:1"
+    },
+    {
+      "id": "q_proverbs_030",
+      "question": "Completa el espacio en blanco: 'El que encubre sus pecados no prosperará; mas el que los confiesa y se aparta alcanzará _____.'",
+      "correct": "misericordia",
+      "wrong": ["gracia", "perdón", "paz"],
+      "hint": "Esto es trato compasivo",
+      "explanation": "La confesión y el arrepentimiento llevan a la misericordia de Dios.",
+      "full_verse": "El que encubre sus pecados no prosperará; mas el que los confiesa y se aparta alcanzará misericordia.",
+      "verse_ref": "Proverbios 28:13"
+    },
+    {
+      "id": "q_proverbs_031",
+      "question": "Completa el espacio en blanco: 'El temor del hombre pondrá _____; mas el que confía en Jehová será exaltado.'",
+      "correct": "lazo",
+      "wrong": ["trampa", "carga", "maldición"],
+      "hint": "Esto es algo que atrapa",
+      "explanation": "Ser controlado por lo que otros piensan puede atraparnos, pero confiar en Dios trae seguridad.",
+      "full_verse": "El temor del hombre pondrá lazo; mas el que confía en Jehová será exaltado.",
+      "verse_ref": "Proverbios 29:25"
+    },
+    {
+      "id": "q_proverbs_032",
+      "question": "Completa el espacio en blanco: 'Toda palabra de Dios es _____; él es escudo a los que en él esperan.'",
+      "correct": "limpia",
+      "wrong": ["pura", "verdadera", "perfecta"],
+      "hint": "Esto significa sin defectos",
+      "explanation": "La Palabra de Dios es completamente confiable y digna de confianza.",
+      "full_verse": "Toda palabra de Dios es limpia; él es escudo a los que en él esperan.",
+      "verse_ref": "Proverbios 30:5"
+    },
+    {
+      "id": "q_proverbs_033",
+      "question": "Completa el espacio en blanco: 'Porque Jehová da la sabiduría, y de su boca viene el conocimiento y la _____.'",
+      "correct": "inteligencia",
+      "wrong": ["verdad", "prudencia", "discernimiento"],
+      "hint": "Esta es la capacidad de comprender",
+      "explanation": "La verdadera sabiduría, conocimiento e inteligencia vienen todos de Dios.",
+      "full_verse": "Porque Jehová da la sabiduría, y de su boca viene el conocimiento y la inteligencia.",
+      "verse_ref": "Proverbios 2:6"
+    },
+    {
+      "id": "q_proverbs_034",
+      "question": "Completa el espacio en blanco: 'No menosprecies, hijo mío, el castigo de Jehová, ni te fatigues de su _____.'",
+      "correct": "corrección",
+      "wrong": ["disciplina", "reprensión", "guía"],
+      "hint": "Esta es una expresión de desaprobación",
+      "explanation": "Dios disciplina a quienes ama, y debemos aceptar Su corrección.",
+      "full_verse": "No menosprecies, hijo mío, el castigo de Jehová, ni te fatigues de su corrección; porque Jehová al que ama castiga, como el padre al hijo a quien quiere.",
+      "verse_ref": "Proverbios 3:11-12"
+    },
+    {
+      "id": "q_proverbs_035",
+      "question": "Completa el espacio en blanco: 'Sabiduría ante todo; adquiere _____; y sobre todas tus posesiones adquiere inteligencia.'",
+      "correct": "sabiduría",
+      "wrong": ["conocimiento", "prudencia", "entendimiento"],
+      "hint": "Esto es lo que el versículo dice que obtengamos",
+      "explanation": "La sabiduría es tan valiosa que vale la pena perseguirla a cualquier costo.",
+      "full_verse": "Sabiduría ante todo; adquiere sabiduría; y sobre todas tus posesiones adquiere inteligencia.",
+      "verse_ref": "Proverbios 4:7"
+    },
+    {
+      "id": "q_proverbs_036",
+      "question": "Completa el espacio en blanco: 'Seis cosas aborrece Jehová, y aun siete abomina su alma: los ojos altivos, la lengua mentirosa, las manos derramadoras de sangre inocente, el corazón que maquina pensamientos inicuos, los pies presurosos para correr al _____.'",
+      "correct": "mal",
+      "wrong": ["pecado", "daño", "maldad"],
+      "hint": "Esto es lo opuesto al bien",
+      "explanation": "Dios aborrece varias formas de maldad, incluyendo a quienes están ansiosos por hacer el mal.",
+      "full_verse": "Seis cosas aborrece Jehová, y aun siete abomina su alma: los ojos altivos, la lengua mentirosa, las manos derramadoras de sangre inocente, el corazón que maquina pensamientos inicuos, los pies presurosos para correr al mal.",
+      "verse_ref": "Proverbios 6:16-19"
+    },
+    {
+      "id": "q_proverbs_037",
+      "question": "Completa el espacio en blanco: 'El temor de Jehová es el principio de la sabiduría, y el conocimiento del Santísimo es la _____.'",
+      "correct": "inteligencia",
+      "wrong": ["sabiduría", "prudencia", "discernimiento"],
+      "hint": "Esta es la capacidad de comprender profundamente",
+      "explanation": "La verdadera sabiduría comienza con la reverencia a Dios, y conocerlo trae inteligencia.",
+      "full_verse": "El temor de Jehová es el principio de la sabiduría, y el conocimiento del Santísimo es la inteligencia.",
+      "verse_ref": "Proverbios 9:10"
+    },
+    {
+      "id": "q_proverbs_038",
+      "question": "Completa el espacio en blanco: 'La bendición de Jehová es la que enriquece, y no añade tristeza con _____.'",
+      "correct": "ella",
+      "wrong": ["esto", "aquello", "eso"],
+      "hint": "Se refiere a la bendición",
+      "explanation": "La bendición de Dios trae prosperidad sin la carga de esfuerzo ansioso.",
+      "full_verse": "La bendición de Jehová es la que enriquece, y no añade tristeza con ella.",
+      "verse_ref": "Proverbios 10:22"
+    },
+    {
+      "id": "q_proverbs_039",
+      "question": "Completa el espacio en blanco: 'Donde no hay dirección sabia, caerá el pueblo; mas en la multitud de _____ hay seguridad.'",
+      "correct": "consejeros",
+      "wrong": ["sabios", "líderes", "ancianos"],
+      "hint": "Estas son personas que dan consejo",
+      "explanation": "El consejo sabio de muchas fuentes lleva al éxito.",
+      "full_verse": "Donde no hay dirección sabia, caerá el pueblo; mas en la multitud de consejeros hay seguridad.",
+      "verse_ref": "Proverbios 11:14"
+    },
+    {
+      "id": "q_proverbs_040",
+      "question": "Completa el espacio en blanco: 'El camino del necio es derecho en su opinión; mas el que obedece al _____ es sabio.'",
+      "correct": "consejo",
+      "wrong": ["sabio", "prudente", "entendido"],
+      "hint": "Esta es guía o recomendaciones de otros",
+      "explanation": "Los necios confían en su propio juicio; los sabios buscan y escuchan el consejo.",
+      "full_verse": "El camino del necio es derecho en su opinión; mas el que obedece al consejo es sabio.",
+      "verse_ref": "Proverbios 12:15"
+    },
+    {
+      "id": "q_proverbs_041",
+      "question": "Completa el espacio en blanco: 'El que tarda en airarse es grande de entendimiento; mas el que es impaciente de espíritu enaltece la _____.'",
+      "correct": "necedad",
+      "wrong": ["ira", "insensatez", "soberbia"],
+      "hint": "Esto es lo opuesto a la sabiduría",
+      "explanation": "La paciencia refleja sabiduría, mientras que un temperamento rápido muestra necedad.",
+      "full_verse": "El que tarda en airarse es grande de entendimiento; mas el que es impaciente de espíritu enaltece la necedad.",
+      "verse_ref": "Proverbios 14:29"
+    },
+    {
+      "id": "q_proverbs_042",
+      "question": "Completa el espacio en blanco: 'Los pensamientos son frustrados donde no hay _____; mas en la multitud de consejeros se afirman.'",
+      "correct": "consejo",
+      "wrong": ["guía", "dirección", "sabiduría"],
+      "hint": "Esto es consejo o guía",
+      "explanation": "Buscar consejo sabio ayuda a asegurar el éxito en nuestros planes.",
+      "full_verse": "Los pensamientos son frustrados donde no hay consejo; mas en la multitud de consejeros se afirman.",
+      "verse_ref": "Proverbios 15:22"
+    },
+    {
+      "id": "q_proverbs_043",
+      "question": "Completa el espacio en blanco: 'Antes del quebrantamiento es la soberbia, y antes de la caída la altivez de _____.'",
+      "correct": "espíritu",
+      "wrong": ["corazón", "mente", "alma"],
+      "hint": "Esto se refiere a la actitud interior",
+      "explanation": "El orgullo lleva a la destrucción y la caída.",
+      "full_verse": "Antes del quebrantamiento es la soberbia, y antes de la caída la altivez de espíritu.",
+      "verse_ref": "Proverbios 16:18"
+    },
+    {
+      "id": "q_proverbs_044",
+      "question": "Completa el espacio en blanco: 'El corazón alegre constituye buen _____; mas el espíritu triste seca los huesos.'",
+      "correct": "remedio",
+      "wrong": ["medicina", "cura", "sanidad"],
+      "hint": "Esto es algo que sana",
+      "explanation": "El gozo y la alegría tienen un efecto sanador en todo nuestro ser.",
+      "full_verse": "El corazón alegre constituye buen remedio; mas el espíritu triste seca los huesos.",
+      "verse_ref": "Proverbios 17:22"
+    },
+    {
+      "id": "q_proverbs_045",
+      "question": "Completa el espacio en blanco: 'A Jehová presta el que da al pobre, y el bien que ha hecho, se lo _____.'",
+      "correct": "volverá a pagar",
+      "wrong": ["devolverá", "recompensará", "retribuirá"],
+      "hint": "Esto significa que Dios retribuirá",
+      "explanation": "Ayudar a los pobres es como prestarle a Dios, quien promete pagar.",
+      "full_verse": "A Jehová presta el que da al pobre, y el bien que ha hecho, se lo volverá a pagar.",
+      "verse_ref": "Proverbios 19:17"
+    },
+    {
+      "id": "q_proverbs_046",
+      "question": "Completa el espacio en blanco: 'No digas: Yo me vengaré; espera a Jehová, y él te _____.'",
+      "correct": "salvará",
+      "wrong": ["ayudará", "librará", "defenderá"],
+      "hint": "Esto significa que Dios te rescatará",
+      "explanation": "En lugar de buscar venganza, debemos confiar en que Dios traerá justicia.",
+      "full_verse": "No digas: Yo me vengaré; espera a Jehová, y él te salvará.",
+      "verse_ref": "Proverbios 20:22"
+    },
+    {
+      "id": "q_proverbs_047",
+      "question": "Completa el espacio en blanco: 'Hacer justicia y juicio es a Jehová más agradable que _____.'",
+      "correct": "sacrificio",
+      "wrong": ["ofrendas", "adoración", "oración"],
+      "hint": "Esta es una ofrenda religiosa",
+      "explanation": "Dios valora la vida recta sobre los rituales religiosos.",
+      "full_verse": "Hacer justicia y juicio es a Jehová más agradable que sacrificio.",
+      "verse_ref": "Proverbios 21:3"
+    },
+    {
+      "id": "q_proverbs_048",
+      "question": "Completa el espacio en blanco: 'Riquezas, honra y vida son la remuneración de la humildad y del temor de _____.'",
+      "correct": "Jehová",
+      "wrong": ["Dios", "el Señor", "el Altísimo"],
+      "hint": "Este es el nombre del pacto de Dios",
+      "explanation": "La humildad y reverencia a Dios llevan a ricas recompensas incluyendo honor y vida.",
+      "full_verse": "Riquezas, honra y vida son la remuneración de la humildad y del temor de Jehová.",
+      "verse_ref": "Proverbios 22:4"
+    },
+    {
+      "id": "q_proverbs_049",
+      "question": "Completa el espacio en blanco: 'Mujer virtuosa, ¿quién la hallará? Porque su estima sobrepasa largamente a la de las piedras _____.'",
+      "correct": "preciosas",
+      "wrong": ["finas", "costosas", "valiosas"],
+      "hint": "Estas son gemas de gran valor",
+      "explanation": "Una esposa virtuosa es más valiosa que las gemas preciosas.",
+      "full_verse": "Mujer virtuosa, ¿quién la hallará? Porque su estima sobrepasa largamente a la de las piedras preciosas.",
+      "verse_ref": "Proverbios 31:10"
+    },
+    {
+      "id": "q_proverbs_050",
+      "question": "Completa el espacio en blanco: 'No seas sabio en tu propia opinión; teme a Jehová, y apártate del _____.'",
+      "correct": "mal",
+      "wrong": ["pecado", "maldad", "error"],
+      "hint": "Esto es lo que debemos evitar",
+      "explanation": "La verdadera sabiduría implica temer a Dios y alejarse del mal.",
+      "full_verse": "No seas sabio en tu propia opinión; teme a Jehová, y apártate del mal.",
+      "verse_ref": "Proverbios 3:7"
+    }
+  ]
+}

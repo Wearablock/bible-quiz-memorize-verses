@@ -1,1 +1,452 @@
-{}
+{
+  "q_prayer_001": {
+    "question": "Isilah bagian yang kosong: 'Janganlah hendaknya kamu kuatir tentang apa pun juga, tetapi nyatakanlah dalam segala hal keinginanmu kepada Allah dalam doa dan permohonan dengan _____.'",
+    "correct": "ucapan syukur",
+    "wrong": ["surga", "Tuhan", "Yesus"],
+    "hint": "Kita membawa permohonan kita kepada-Nya",
+    "explanation": "Paulus menginstruksikan orang percaya untuk mengganti kecemasan dengan doa dan ucapan syukur kepada Allah.",
+    "full_verse": "Janganlah hendaknya kamu kuatir tentang apa pun juga, tetapi nyatakanlah dalam segala hal keinginanmu kepada Allah dalam doa dan permohonan dengan ucapan syukur.",
+    "verse_ref": "Filipi 4:6"
+  },
+  "q_prayer_002": {
+    "question": "Isilah bagian yang kosong: 'Tetaplah berdoa.'",
+    "correct": "berdoa",
+    "wrong": ["berhenti", "berakhir", "berjeda"],
+    "hint": "Doa yang terus-menerus",
+    "explanation": "Paulus memberikan perintah terpendek dan paling mendalam tentang doa—jangan pernah berhenti berdoa.",
+    "full_verse": "Tetaplah berdoa.",
+    "verse_ref": "1 Tesalonika 5:17"
+  },
+  "q_prayer_003": {
+    "question": "Isilah bagian yang kosong: 'Karena itu berdoalah demikian: Bapa kami yang di surga, dikuduskanlah _____.\"'",
+    "correct": "nama-Mu",
+    "wrong": ["takhta-Mu", "kerajaan-Mu", "kemuliaan-Mu"],
+    "hint": "Apa yang harus dihormati sebagai kudus",
+    "explanation": "Yesus memulai Doa Bapa Kami dengan mengajarkan kita untuk menghormati nama Allah sebagai kudus.",
+    "full_verse": "Karena itu berdoalah demikian: Bapa kami yang di surga, dikuduskanlah nama-Mu.",
+    "verse_ref": "Matius 6:9"
+  },
+  "q_prayer_004": {
+    "question": "Isilah bagian yang kosong: 'Karena itu hendaklah kamu saling mengaku dosamu dan saling mendoakan, supaya kamu sembuh. Doa orang yang benar, bila dengan yakin didoakan, sangat _____.'",
+    "correct": "besar kuasanya",
+    "wrong": ["dahsyat", "kuat", "dijawab"],
+    "hint": "Menghasilkan hasil",
+    "explanation": "Yakobus mengajarkan bahwa doa orang benar sangat berkuasa dan efektif.",
+    "full_verse": "Karena itu hendaklah kamu saling mengaku dosamu dan saling mendoakan, supaya kamu sembuh. Doa orang yang benar, bila dengan yakin didoakan, sangat besar kuasanya.",
+    "verse_ref": "Yakobus 5:16"
+  },
+  "q_prayer_005": {
+    "question": "Isilah bagian yang kosong: 'Mintalah, maka akan diberikan kepadamu; carilah, maka kamu akan mendapat; ketoklah, maka pintu akan _____ bagimu.'",
+    "correct": "dibukakan",
+    "wrong": ["ditunjukkan", "dinyatakan", "dibuka"],
+    "hint": "Apa yang terjadi pada pintu",
+    "explanation": "Yesus mendorong doa yang tekun dengan janji bahwa Allah akan merespons.",
+    "full_verse": "Mintalah, maka akan diberikan kepadamu; carilah, maka kamu akan mendapat; ketoklah, maka pintu akan dibukakan bagimu.",
+    "verse_ref": "Matius 7:7"
+  },
+  "q_prayer_006": {
+    "question": "Isilah bagian yang kosong: 'Dan apa juga yang kamu minta dalam nama-Ku, Aku akan melakukannya, supaya Bapa dipermuliakan di dalam _____.'",
+    "correct": "Anak",
+    "wrong": ["doa", "jawaban", "orang percaya"],
+    "hint": "Yesus mengacu pada diri-Nya sendiri",
+    "explanation": "Yesus berjanji untuk menjawab doa yang dibuat dalam nama-Nya untuk kemuliaan Bapa.",
+    "full_verse": "Dan apa juga yang kamu minta dalam nama-Ku, Aku akan melakukannya, supaya Bapa dipermuliakan di dalam Anak.",
+    "verse_ref": "Yohanes 14:13"
+  },
+  "q_prayer_007": {
+    "question": "Isilah bagian yang kosong: 'Dan inilah keberanian percaya kita kepada-Nya, yaitu bahwa Ia mengabulkan doa kita, jikalau kita meminta sesuatu menurut kehendak-_____.'",
+    "correct": "Nya",
+    "wrong": ["menjawab", "membantu", "memberkati"],
+    "hint": "Allah memperhatikan doa kita",
+    "explanation": "Yohanes meyakinkan orang percaya bahwa Allah mendengar doa yang selaras dengan kehendak-Nya.",
+    "full_verse": "Dan inilah keberanian percaya kita kepada-Nya, yaitu bahwa Ia mengabulkan doa kita, jikalau kita meminta sesuatu menurut kehendak-Nya.",
+    "verse_ref": "1 Yohanes 5:14"
+  },
+  "q_prayer_008": {
+    "question": "Isilah bagian yang kosong: 'Apabila kamu berseru dan datang untuk berdoa kepada-Ku, Aku akan _____ kamu.'",
+    "correct": "mendengarkan",
+    "wrong": ["berbicara", "menjawab", "merespons"],
+    "hint": "Allah memperhatikan",
+    "explanation": "Allah berjanji untuk mendengarkan ketika umat-Nya berseru kepada-Nya dalam doa.",
+    "full_verse": "Apabila kamu berseru dan datang untuk berdoa kepada-Ku, Aku akan mendengarkan kamu.",
+    "verse_ref": "Yeremia 29:12"
+  },
+  "q_prayer_009": {
+    "question": "Isilah bagian yang kosong: 'TUHAN dekat pada setiap orang yang berseru kepada-Nya, pada setiap orang yang berseru kepada-Nya dalam _____.'",
+    "correct": "kesetiaan",
+    "wrong": ["iman", "kasih", "harapan"],
+    "hint": "Doa yang tulus dan sungguh-sungguh",
+    "explanation": "Allah mendekat kepada mereka yang berseru kepada-Nya dengan tulus dan setia.",
+    "full_verse": "TUHAN dekat pada setiap orang yang berseru kepada-Nya, pada setiap orang yang berseru kepada-Nya dalam kesetiaan.",
+    "verse_ref": "Mazmur 145:18"
+  },
+  "q_prayer_010": {
+    "question": "Isilah bagian yang kosong: 'Demikian juga Roh membantu kita dalam kelemahan kita; sebab kita tidak tahu, bagaimana sebenarnya harus berdoa; tetapi Roh sendiri berdoa untuk kita kepada Allah dengan keluhan-keluhan yang tidak terucapkan.'",
+    "correct": "keluhan-keluhan",
+    "wrong": ["doa-doa", "keluh kesah", "tangisan"],
+    "hint": "Ekspresi mendalam melampaui kata-kata",
+    "explanation": "Paulus mengajarkan bahwa Roh Kudus membantu kita berdoa ketika kita tidak tahu bagaimana.",
+    "full_verse": "Demikian juga Roh membantu kita dalam kelemahan kita; sebab kita tidak tahu, bagaimana sebenarnya harus berdoa; tetapi Roh sendiri berdoa untuk kita kepada Allah dengan keluhan-keluhan yang tidak terucapkan.",
+    "verse_ref": "Roma 8:26"
+  },
+  "q_prayer_011": {
+    "question": "Isilah bagian yang kosong: 'Tetapi jika engkau berdoa, masuklah ke dalam kamarmu, tutuplah pintu dan berdoalah kepada Bapamu yang ada di tempat tersembunyi. Maka Bapamu yang melihat yang _____ akan membalasnya kepadamu.'",
+    "correct": "tersembunyi",
+    "wrong": ["pribadi", "keheningan", "kegelapan"],
+    "hint": "Tersembunyi dari pandangan publik",
+    "explanation": "Yesus mengajarkan tentang doa pribadi yang Allah lihat dan balas.",
+    "full_verse": "Tetapi jika engkau berdoa, masuklah ke dalam kamarmu, tutuplah pintu dan berdoalah kepada Bapamu yang ada di tempat tersembunyi. Maka Bapamu yang melihat yang tersembunyi akan membalasnya kepadamu.",
+    "verse_ref": "Matius 6:6"
+  },
+  "q_prayer_012": {
+    "question": "Isilah bagian yang kosong: 'Dan lagi Aku berkata kepadamu: Jika dua orang di antara kamu di dunia ini sepakat meminta apa pun juga, permintaan mereka itu akan dikabulkan oleh Bapa-Ku yang di _____.'",
+    "correct": "sorga",
+    "wrong": ["kemuliaan", "kuasa", "kasih"],
+    "hint": "Tempat Allah berdiam",
+    "explanation": "Yesus berjanji bahwa doa bersepakat akan dijawab oleh Bapa.",
+    "full_verse": "Dan lagi Aku berkata kepadamu: Jika dua orang di antara kamu di dunia ini sepakat meminta apa pun juga, permintaan mereka itu akan dikabulkan oleh Bapa-Ku yang di sorga.",
+    "verse_ref": "Matius 18:19"
+  },
+  "q_prayer_013": {
+    "question": "Isilah bagian yang kosong: 'Dan apa saja yang kamu minta dalam doa dengan penuh kepercayaan, kamu akan _____.'",
+    "correct": "menerimanya",
+    "wrong": ["iman", "harapan", "kasih"],
+    "hint": "Komunikasi dengan Allah",
+    "explanation": "Yesus menghubungkan iman yang percaya dengan menerima jawaban doa.",
+    "full_verse": "Dan apa saja yang kamu minta dalam doa dengan penuh kepercayaan, kamu akan menerimanya.",
+    "verse_ref": "Matius 21:22"
+  },
+  "q_prayer_014": {
+    "question": "Isilah bagian yang kosong: 'Karena itu Aku berkata kepadamu: apa saja yang kamu minta dan doakan, percayalah bahwa kamu telah _____, maka hal itu akan diberikan kepadamu.'",
+    "correct": "menerimanya",
+    "wrong": ["mendapat", "memperoleh", "meraih"],
+    "hint": "Sudah memiliki apa yang kamu minta",
+    "explanation": "Yesus mengajarkan bahwa iman dalam doa berarti percaya bahwa kita sudah menerima.",
+    "full_verse": "Karena itu Aku berkata kepadamu: apa saja yang kamu minta dan doakan, percayalah bahwa kamu telah menerimanya, maka hal itu akan diberikan kepadamu.",
+    "verse_ref": "Markus 11:24"
+  },
+  "q_prayer_015": {
+    "question": "Isilah bagian yang kosong: 'Oleh karena itu Aku berkata kepadamu: Mintalah, maka akan diberikan kepadamu; carilah, maka kamu akan mendapat; ketoklah, maka pintu akan dibukakan _____.'",
+    "correct": "bagimu",
+    "wrong": ["ditunjukkan", "dinyatakan", "dibuka"],
+    "hint": "Akses diberikan",
+    "explanation": "Yesus mendorong meminta, mencari, dan mengetok dengan tekun dalam doa.",
+    "full_verse": "Oleh karena itu Aku berkata kepadamu: Mintalah, maka akan diberikan kepadamu; carilah, maka kamu akan mendapat; ketoklah, maka pintu akan dibukakan bagimu.",
+    "verse_ref": "Lukas 11:9"
+  },
+  "q_prayer_016": {
+    "question": "Isilah bagian yang kosong: 'Yesus mengatakan suatu perumpamaan kepada mereka untuk menegaskan, bahwa mereka harus selalu berdoa dengan tidak jemu-_____.'",
+    "correct": "jemu",
+    "wrong": ["dalam", "luar", "jalan"],
+    "hint": "Tidak berhenti",
+    "explanation": "Yesus mengajarkan melalui perumpamaan bahwa kita harus tekun dalam doa.",
+    "full_verse": "Yesus mengatakan suatu perumpamaan kepada mereka untuk menegaskan, bahwa mereka harus selalu berdoa dengan tidak jemu-jemu.",
+    "verse_ref": "Lukas 18:1"
+  },
+  "q_prayer_017": {
+    "question": "Isilah bagian yang kosong: 'Jikalau kamu tinggal di dalam Aku dan firman-Ku tinggal di dalam kamu, mintalah apa saja yang kamu kehendaki, dan kamu akan _____.'",
+    "correct": "menerimanya",
+    "wrong": ["diberikan", "dikabulkan", "disediakan"],
+    "hint": "Itu akan terjadi",
+    "explanation": "Yesus menjanjikan doa yang dijawab kepada mereka yang tinggal di dalam-Nya dan firman-Nya.",
+    "full_verse": "Jikalau kamu tinggal di dalam Aku dan firman-Ku tinggal di dalam kamu, mintalah apa saja yang kamu kehendaki, dan kamu akan menerimanya.",
+    "verse_ref": "Yohanes 15:7"
+  },
+  "q_prayer_018": {
+    "question": "Isilah bagian yang kosong: 'Sampai sekarang kamu belum meminta sesuatu pun dalam nama-Ku. Mintalah maka kamu akan menerima, supaya _____ kamu menjadi penuh.'",
+    "correct": "sukacitamu",
+    "wrong": ["penuh", "sempurna", "besar"],
+    "hint": "Sukacita mencapai kepenuhan",
+    "explanation": "Yesus mendorong murid-murid-Nya untuk berdoa dalam nama-Nya untuk sukacita yang penuh.",
+    "full_verse": "Sampai sekarang kamu belum meminta sesuatu pun dalam nama-Ku. Mintalah maka kamu akan menerima, supaya sukacitamu menjadi penuh.",
+    "verse_ref": "Yohanes 16:24"
+  },
+  "q_prayer_019": {
+    "question": "Isilah bagian yang kosong: 'Bertekunlah dalam doa dan dalam pada itu berjaga-jagalah sambil mengucap _____!'",
+    "correct": "syukur",
+    "wrong": ["setia", "penuh harapan", "berdoa"],
+    "hint": "Mengungkapkan rasa terima kasih",
+    "explanation": "Paulus memanggil orang percaya untuk doa yang tekun, berjaga-jaga, dan bersyukur.",
+    "full_verse": "Bertekunlah dalam doa dan dalam pada itu berjaga-jagalah sambil mengucap syukur.",
+    "verse_ref": "Kolose 4:2"
+  },
+  "q_prayer_020": {
+    "question": "Isilah bagian yang kosong: 'Dalam segala doa dan permohonan. Berdoalah setiap waktu di dalam Roh dan berjaga-jagalah di dalam doamu itu dengan permohonan yang tak putus-putusnya untuk segala _____.'",
+    "correct": "orang kudus",
+    "wrong": ["orang percaya", "orang-orang", "orang Kristen"],
+    "hint": "Sesama orang percaya",
+    "explanation": "Paulus menginstruksikan orang percaya untuk berdoa di dalam Roh untuk semua umat Allah.",
+    "full_verse": "Dalam segala doa dan permohonan. Berdoalah setiap waktu di dalam Roh dan berjaga-jagalah di dalam doamu itu dengan permohonan yang tak putus-putusnya untuk segala orang kudus.",
+    "verse_ref": "Efesus 6:18"
+  },
+  "q_prayer_021": {
+    "question": "Isilah bagian yang kosong: 'Oleh karena itu aku ingin, supaya di mana-mana orang laki-laki berdoa dengan menadahkan tangan yang suci, tanpa marah dan _____.'",
+    "correct": "perselisihan",
+    "wrong": ["bertengkar", "berkelahi", "ragu"],
+    "hint": "Pertengkaran atau perselisihan",
+    "explanation": "Paulus menginstruksikan pria untuk berdoa dengan tangan yang suci dan hati yang damai.",
+    "full_verse": "Oleh karena itu aku ingin, supaya di mana-mana orang laki-laki berdoa dengan menadahkan tangan yang suci, tanpa marah dan perselisihan.",
+    "verse_ref": "1 Timotius 2:8"
+  },
+  "q_prayer_022": {
+    "question": "Isilah bagian yang kosong: 'Sebab itu marilah kita dengan penuh keberanian menghampiri takhta kasih karunia, supaya kita menerima rahmat dan menemukan kasih karunia untuk mendapat pertolongan kita pada waktunya.'",
+    "correct": "waktunya",
+    "wrong": ["kesusahan", "kesedihan", "kelemahan"],
+    "hint": "Ketika kita membutuhkan pertolongan",
+    "explanation": "Kita didorong untuk dengan berani menghampiri takhta Allah untuk pertolongan ketika kita membutuhkannya.",
+    "full_verse": "Sebab itu marilah kita dengan penuh keberanian menghampiri takhta kasih karunia, supaya kita menerima rahmat dan menemukan kasih karunia untuk mendapat pertolongan kita pada waktunya.",
+    "verse_ref": "Ibrani 4:16"
+  },
+  "q_prayer_023": {
+    "question": "Isilah bagian yang kosong: 'Tetapi apabila di antara kamu ada yang kekurangan hikmat, hendaklah ia memintanya kepada Allah, yang memberikan kepada semua orang dengan murah hati dan dengan tidak membangkit-bangkit kesalahan, maka ia akan _____.'",
+    "correct": "diberikannya",
+    "wrong": ["menyalahkan", "kesalahan", "salah"],
+    "hint": "Allah tidak mengkritik kita karena meminta",
+    "explanation": "Yakobus mendorong orang percaya untuk meminta hikmat dari Allah, yang memberi dengan murah hati.",
+    "full_verse": "Tetapi apabila di antara kamu ada yang kekurangan hikmat, hendaklah ia memintanya kepada Allah, yang memberikan kepada semua orang dengan murah hati dan dengan tidak membangkit-bangkit kesalahan, maka ia akan diberikannya.",
+    "verse_ref": "Yakobus 1:5"
+  },
+  "q_prayer_024": {
+    "question": "Isilah bagian yang kosong: 'Kamu mengingini sesuatu, tetapi kamu tidak memperolehnya, lalu kamu membunuh; kamu iri hati, tetapi kamu tidak mencapai tujuanmu, lalu kamu bertengkar dan berperang. Kamu tidak memperoleh apa-apa, karena kamu tidak _____.'",
+    "correct": "meminta",
+    "wrong": ["berdoa", "percaya", "mencari"],
+    "hint": "Hanya meminta dari Allah",
+    "explanation": "Yakobus menunjukkan bahwa kita sering kekurangan karena kita gagal meminta kepada Allah.",
+    "full_verse": "Kamu mengingini sesuatu, tetapi kamu tidak memperolehnya, lalu kamu membunuh; kamu iri hati, tetapi kamu tidak mencapai tujuanmu, lalu kamu bertengkar dan berperang. Kamu tidak memperoleh apa-apa, karena kamu tidak meminta.",
+    "verse_ref": "Yakobus 4:2"
+  },
+  "q_prayer_025": {
+    "question": "Isilah bagian yang kosong: 'Sebab mata Tuhan tertuju kepada orang-orang benar, dan telinga-Nya kepada permohonan mereka yang minta tolong, tetapi wajah Tuhan menentang orang-orang yang berbuat _____.'",
+    "correct": "jahat",
+    "wrong": ["salah", "dosa", "kejahatan"],
+    "hint": "Kebalikan dari baik",
+    "explanation": "Petrus mengutip Mazmur 34, menunjukkan bahwa Allah mendengar doa orang benar.",
+    "full_verse": "Sebab mata Tuhan tertuju kepada orang-orang benar, dan telinga-Nya kepada permohonan mereka yang minta tolong, tetapi wajah Tuhan menentang orang-orang yang berbuat jahat.",
+    "verse_ref": "1 Petrus 3:12"
+  },
+  "q_prayer_026": {
+    "question": "Isilah bagian yang kosong: 'Jawablah aku, bila aku berseru, ya Allah, yang membenarkan aku; dalam kesesakan Engkau memberi kelegaan kepadaku, kasihanilah aku dan dengarkanlah _____!'",
+    "correct": "doaku",
+    "wrong": ["kasihan", "belas kasihan", "kasih karunia"],
+    "hint": "Daud meminta kebaikan Allah",
+    "explanation": "Daud berseru kepada Allah untuk rahmat dan kelegaan dalam kesesakannya.",
+    "full_verse": "Jawablah aku, bila aku berseru, ya Allah, yang membenarkan aku; dalam kesesakan Engkau memberi kelegaan kepadaku, kasihanilah aku dan dengarkanlah doaku!",
+    "verse_ref": "Mazmur 4:2"
+  },
+  "q_prayer_027": {
+    "question": "Isilah bagian yang kosong: 'Pada waktu pagi Engkau mendengar seruanku, pada waktu pagi aku mengatur persembahan bagi-Mu, dan aku menunggu-_____.'",
+    "correct": "nunggu",
+    "wrong": ["dengan sabar", "dengan harapan", "dengan tenang"],
+    "hint": "Dengan penantian",
+    "explanation": "Daud menyampaikan doanya di pagi hari dan menunggu dengan pengharapan.",
+    "full_verse": "Pada waktu pagi Engkau mendengar seruanku, pada waktu pagi aku mengatur persembahan bagi-Mu, dan aku menunggu-nunggu.",
+    "verse_ref": "Mazmur 5:4"
+  },
+  "q_prayer_028": {
+    "question": "Isilah bagian yang kosong: 'Aku berseru kepada-Mu, sebab Engkau menjawab aku, ya Allah; sendengkanlah telinga-Mu kepadaku, dengarkanlah _____!'",
+    "correct": "perkataanku",
+    "wrong": ["suaraku", "tangisanku", "kata-kataku"],
+    "hint": "Komunikasi dengan Allah",
+    "explanation": "Daud mengungkapkan keyakinan bahwa Allah akan mendengar dan menjawab doanya.",
+    "full_verse": "Aku berseru kepada-Mu, sebab Engkau menjawab aku, ya Allah; sendengkanlah telinga-Mu kepadaku, dengarkanlah perkataanku!",
+    "verse_ref": "Mazmur 17:6"
+  },
+  "q_prayer_029": {
+    "question": "Isilah bagian yang kosong: 'Petang dan pagi dan tengah hari aku bersungut-sungut dan mengeluh, dan Ia mendengarkan _____.'",
+    "correct": "suaraku",
+    "wrong": ["menjawab", "tahu", "menerima"],
+    "hint": "Allah memperhatikan",
+    "explanation": "Daud bersaksi bahwa Allah mendengar doanya sepanjang hari.",
+    "full_verse": "Petang dan pagi dan tengah hari aku bersungut-sungut dan mengeluh, dan Ia mendengarkan suaraku.",
+    "verse_ref": "Mazmur 55:18"
+  },
+  "q_prayer_030": {
+    "question": "Isilah bagian yang kosong: 'Sesungguhnya, Allah telah mendengar, Ia telah memperhatikan _____ doaku.'",
+    "correct": "suara",
+    "wrong": ["suaraku", "tangisanku", "permohonanku"],
+    "hint": "Apa yang Daud ucapkan kepada Allah",
+    "explanation": "Pemazmur bersaksi bahwa Allah sungguh telah mendengarkan doanya.",
+    "full_verse": "Sesungguhnya, Allah telah mendengar, Ia telah memperhatikan suara doaku.",
+    "verse_ref": "Mazmur 66:19"
+  },
+  "q_prayer_031": {
+    "question": "Isilah bagian yang kosong: 'Dengarlah doaku, ya TUHAN, dan perhatikanlah permohonanku minta _____.'",
+    "correct": "tolong",
+    "wrong": ["pertolongan", "kasih karunia", "bantuan"],
+    "hint": "Meminta belas kasihan Allah",
+    "explanation": "Daud memohon kepada Allah untuk mendengar doanya dan permohonannya minta tolong.",
+    "full_verse": "Dengarlah doaku, ya TUHAN, dan perhatikanlah permohonanku minta tolong!",
+    "verse_ref": "Mazmur 86:6"
+  },
+  "q_prayer_032": {
+    "question": "Isilah bagian yang kosong: 'Ia memandang kepada doa orang-orang yang telanjang dan tidak memandang hina kepada _____ mereka.'",
+    "correct": "doa",
+    "wrong": ["tangisan", "permohonan", "permintaan"],
+    "hint": "Permohonan yang sungguh-sungguh",
+    "explanation": "Pemazmur meyakinkan bahwa Allah merespons doa orang-orang yang membutuhkan.",
+    "full_verse": "Ia memandang kepada doa orang-orang yang telanjang dan tidak memandang hina kepada doa mereka.",
+    "verse_ref": "Mazmur 102:18"
+  },
+  "q_prayer_033": {
+    "question": "Isilah bagian yang kosong: 'Biarlah doaku terhitung sebagai ukupan di hadapan-Mu, dan tanganku yang terangkat, sebagai korban petang _____.'",
+    "correct": "hari",
+    "wrong": ["persembahan", "penyembahan", "pujian"],
+    "hint": "Ritual Perjanjian Lama",
+    "explanation": "Daud membandingkan doanya dengan ukupan dan tangan terangkatnya dengan persembahan.",
+    "full_verse": "Biarlah doaku terhitung sebagai ukupan di hadapan-Mu, dan tanganku yang terangkat, sebagai korban petang hari.",
+    "verse_ref": "Mazmur 141:2"
+  },
+  "q_prayer_034": {
+    "question": "Isilah bagian yang kosong: 'Carilah TUHAN selama Ia berkenan ditemui; berserulah kepada-Nya selama Ia _____!'",
+    "correct": "dekat",
+    "wrong": ["di sini", "hadir", "ada"],
+    "hint": "Dalam jangkauan",
+    "explanation": "Yesaya mendesak untuk mencari Allah dan berseru kepada-Nya sementara Ia dapat dijangkau.",
+    "full_verse": "Carilah TUHAN selama Ia berkenan ditemui; berserulah kepada-Nya selama Ia dekat!",
+    "verse_ref": "Yesaya 55:6"
+  },
+  "q_prayer_035": {
+    "question": "Isilah bagian yang kosong: 'Maka sebelum mereka memanggil, Aku sudah menjawab; sementara mereka berbicara, Aku sudah _____.'",
+    "correct": "mendengar",
+    "wrong": ["menjawab", "merespons", "mendengarkan"],
+    "hint": "Allah memperhatikan bahkan sebelum kita selesai",
+    "explanation": "Allah berjanji untuk mendengar dan menjawab bahkan sebelum umat-Nya selesai berdoa.",
+    "full_verse": "Maka sebelum mereka memanggil, Aku sudah menjawab; sementara mereka berbicara, Aku sudah mendengar.",
+    "verse_ref": "Yesaya 65:24"
+  },
+  "q_prayer_036": {
+    "question": "Isilah bagian yang kosong: 'Berserulah kepada-Ku, maka Aku akan menjawab engkau dan akan memberitahukan kepadamu hal-hal yang besar dan yang tidak terpahami, yakni hal-hal yang tidak kamu _____.'",
+    "correct": "ketahui",
+    "wrong": ["lihat", "mengerti", "punya"],
+    "hint": "Informasi tersembunyi",
+    "explanation": "Allah mengundang kita untuk berseru kepada-Nya dan berjanji untuk menyatakan kebenaran tersembunyi.",
+    "full_verse": "Berserulah kepada-Ku, maka Aku akan menjawab engkau dan akan memberitahukan kepadamu hal-hal yang besar dan yang tidak terpahami, yakni hal-hal yang tidak kamu ketahui.",
+    "verse_ref": "Yeremia 33:3"
+  },
+  "q_prayer_037": {
+    "question": "Isilah bagian yang kosong: 'Ya Tuhanku, sendengkanlah telinga-Mu dan dengarlah, bukalah mata-Mu dan lihatlah kebinasaan kami dan kota yang disebut dengan nama-Mu! Sebab kami menyampaikan doa permohonan kami ke hadapan-Mu bukan berdasarkan jasa-jasa kami, tetapi berdasarkan rahmat-Mu yang _____.'",
+    "correct": "besar",
+    "wrong": ["kasih", "kasih karunia", "belas kasihan"],
+    "hint": "Kebaikan Allah",
+    "explanation": "Daniel berdoa berdasarkan rahmat Allah, bukan kebenaran manusia.",
+    "full_verse": "Ya Tuhanku, sendengkanlah telinga-Mu dan dengarlah, bukalah mata-Mu dan lihatlah kebinasaan kami dan kota yang disebut dengan nama-Mu! Sebab kami menyampaikan doa permohonan kami ke hadapan-Mu bukan berdasarkan jasa-jasa kami, tetapi berdasarkan rahmat-Mu yang besar.",
+    "verse_ref": "Daniel 9:18"
+  },
+  "q_prayer_038": {
+    "question": "Isilah bagian yang kosong: 'Lagipula dalam doamu itu janganlah kamu bertele-tele seperti kebiasaan orang yang tidak mengenal Allah, mereka menyangka bahwa karena banyaknya kata-kata doanya akan _____.'",
+    "correct": "dikabulkan",
+    "wrong": ["doa-doa", "permintaan", "persembahan"],
+    "hint": "Jumlah perkataan",
+    "explanation": "Yesus memperingatkan terhadap pengulangan yang tidak bermakna dalam doa.",
+    "full_verse": "Lagipula dalam doamu itu janganlah kamu bertele-tele seperti kebiasaan orang yang tidak mengenal Allah, mereka menyangka bahwa karena banyaknya kata-kata doanya akan dikabulkan.",
+    "verse_ref": "Matius 6:7"
+  },
+  "q_prayer_039": {
+    "question": "Isilah bagian yang kosong: 'Berjaga-jagalah dan berdoalah, supaya kamu jangan jatuh ke dalam pencobaan: roh memang penurut, tetapi daging _____.'",
+    "correct": "lemah",
+    "wrong": ["lelah", "rapuh", "berdosa"],
+    "hint": "Kurang kekuatan",
+    "explanation": "Yesus memperingatkan murid-murid-Nya untuk berdoa agar terhindar dari pencobaan.",
+    "full_verse": "Berjaga-jagalah dan berdoalah, supaya kamu jangan jatuh ke dalam pencobaan: roh memang penurut, tetapi daging lemah.",
+    "verse_ref": "Matius 26:41"
+  },
+  "q_prayer_040": {
+    "question": "Isilah bagian yang kosong: 'Pada waktu itu pergilah Yesus ke bukit untuk berdoa dan semalam-malaman Ia berdoa kepada _____.'",
+    "correct": "Allah",
+    "wrong": ["surga", "Bapa", "Tuhan"],
+    "hint": "Kepada siapa Yesus berdoa",
+    "explanation": "Lukas mencatat Yesus menghabiskan seluruh malam dalam doa kepada Allah.",
+    "full_verse": "Pada waktu itu pergilah Yesus ke bukit untuk berdoa dan semalam-malaman Ia berdoa kepada Allah.",
+    "verse_ref": "Lukas 6:12"
+  },
+  "q_prayer_041": {
+    "question": "Isilah bagian yang kosong: 'Mereka semua bertekun dengan sehati dalam doa bersama-sama, dengan beberapa perempuan serta Maria, ibu Yesus, dan dengan saudara-saudara _____.'",
+    "correct": "Yesus",
+    "wrong": ["murid-murid", "pengikut", "teman-teman"],
+    "hint": "Anggota keluarga Yesus",
+    "explanation": "Orang-orang percaya mula-mula, termasuk keluarga Yesus, mengabdikan diri dalam doa bersama.",
+    "full_verse": "Mereka semua bertekun dengan sehati dalam doa bersama-sama, dengan beberapa perempuan serta Maria, ibu Yesus, dan dengan saudara-saudara Yesus.",
+    "verse_ref": "Kisah Para Rasul 1:14"
+  },
+  "q_prayer_042": {
+    "question": "Isilah bagian yang kosong: 'Mereka bertekun dalam pengajaran rasul-rasul dan dalam persekutuan. Dan mereka selalu berkumpul untuk memecahkan roti dan _____.'",
+    "correct": "berdoa",
+    "wrong": ["menyembah", "memuji", "berpuasa"],
+    "hint": "Komunikasi dengan Allah",
+    "explanation": "Jemaat mula-mula mengabdikan diri dalam pengajaran, persekutuan, perjamuan kudus, dan doa.",
+    "full_verse": "Mereka bertekun dalam pengajaran rasul-rasul dan dalam persekutuan. Dan mereka selalu berkumpul untuk memecahkan roti dan berdoa.",
+    "verse_ref": "Kisah Para Rasul 2:42"
+  },
+  "q_prayer_043": {
+    "question": "Isilah bagian yang kosong: 'Bersukacitalah dalam pengharapan, sabarlah dalam kesesakan, dan bertekunlah dalam _____!'",
+    "correct": "doa",
+    "wrong": ["kasih", "iman", "pelayanan"],
+    "hint": "Komunikasi dengan Allah",
+    "explanation": "Paulus memberikan tiga instruksi untuk kehidupan Kristen, termasuk doa yang tekun.",
+    "full_verse": "Bersukacitalah dalam pengharapan, sabarlah dalam kesesakan, dan bertekunlah dalam doa!",
+    "verse_ref": "Roma 12:12"
+  },
+  "q_prayer_044": {
+    "question": "Isilah bagian yang kosong: 'Bagi Dialah, yang dapat melakukan jauh lebih banyak dari pada yang kita doakan atau pikirkan, seperti yang ternyata dari kuasa yang bekerja di dalam _____.'",
+    "correct": "kita",
+    "wrong": ["kamu", "mereka", "semua"],
+    "hint": "Allah bekerja dalam orang percaya",
+    "explanation": "Paulus memuji Allah yang dapat melakukan jauh lebih dari yang bisa kita minta atau bayangkan.",
+    "full_verse": "Bagi Dialah, yang dapat melakukan jauh lebih banyak dari pada yang kita doakan atau pikirkan, seperti yang ternyata dari kuasa yang bekerja di dalam kita.",
+    "verse_ref": "Efesus 3:20"
+  },
+  "q_prayer_045": {
+    "question": "Isilah bagian yang kosong: 'Damai sejahtera Allah, yang melampaui segala akal, akan memelihara hati dan pikiranmu dalam Kristus _____.'",
+    "correct": "Yesus",
+    "wrong": ["Tuhan", "Juruselamat", "Allah"],
+    "hint": "Nama lengkap Tuhan kita",
+    "explanation": "Paulus menjanjikan bahwa damai sejahtera Allah akan menjaga orang percaya yang berdoa dengan ucapan syukur.",
+    "full_verse": "Damai sejahtera Allah, yang melampaui segala akal, akan memelihara hati dan pikiranmu dalam Kristus Yesus.",
+    "verse_ref": "Filipi 4:7"
+  },
+  "q_prayer_046": {
+    "question": "Isilah bagian yang kosong: 'Pertama-tama aku menasihatkan: Naikkanlah permohonan, doa, syafaat dan ucapan syukur untuk semua _____.'",
+    "correct": "orang",
+    "wrong": ["bangsa", "orang percaya", "orang kudus"],
+    "hint": "Setiap orang",
+    "explanation": "Paulus menginstruksikan bahwa doa harus dinaikkan untuk semua orang.",
+    "full_verse": "Pertama-tama aku menasihatkan: Naikkanlah permohonan, doa, syafaat dan ucapan syukur untuk semua orang.",
+    "verse_ref": "1 Timotius 2:1"
+  },
+  "q_prayer_047": {
+    "question": "Isilah bagian yang kosong: 'Dalam hidup-Nya sebagai manusia, Ia telah mempersembahkan doa dan permohonan dengan ratap tangis dan keluhan kepada Dia, yang sanggup menyelamatkan-Nya dari maut, dan karena kesalehan-Nya Ia telah _____.'",
+    "correct": "didengarkan",
+    "wrong": ["iman", "doa", "ketaatan"],
+    "hint": "Penyerahan yang rendah hati kepada Allah",
+    "explanation": "Penulis menggambarkan doa Yesus yang intens selama pelayanan duniawi-Nya.",
+    "full_verse": "Dalam hidup-Nya sebagai manusia, Ia telah mempersembahkan doa dan permohonan dengan ratap tangis dan keluhan kepada Dia, yang sanggup menyelamatkan-Nya dari maut, dan karena kesalehan-Nya Ia telah didengarkan.",
+    "verse_ref": "Ibrani 5:7"
+  },
+  "q_prayer_048": {
+    "question": "Isilah bagian yang kosong: 'Dan doa yang lahir dari iman akan menyelamatkan orang sakit itu dan Tuhan akan membangunkan dia; dan jika ia telah berbuat dosa, maka dosanya itu akan _____.'",
+    "correct": "diampuni",
+    "wrong": ["disembuhkan", "dipulihkan", "diselamatkan"],
+    "hint": "Dosa-dosa diampuni",
+    "explanation": "Yakobus menghubungkan doa yang beriman dengan kesembuhan dan pengampunan.",
+    "full_verse": "Dan doa yang lahir dari iman akan menyelamatkan orang sakit itu dan Tuhan akan membangunkan dia; dan jika ia telah berbuat dosa, maka dosanya itu akan diampuni.",
+    "verse_ref": "Yakobus 5:15"
+  },
+  "q_prayer_049": {
+    "question": "Isilah bagian yang kosong: 'Dan apa saja yang kita minta, kita memperolehnya dari pada-Nya, karena kita menuruti segala perintah-Nya dan berbuat apa yang berkenan kepada-_____.'",
+    "correct": "Nya",
+    "wrong": ["menghormati", "memuliakan", "melayani"],
+    "hint": "Apa yang membuat Allah senang",
+    "explanation": "Yohanes menghubungkan doa yang dijawab dengan ketaatan kepada perintah Allah.",
+    "full_verse": "Dan apa saja yang kita minta, kita memperolehnya dari pada-Nya, karena kita menuruti segala perintah-Nya dan berbuat apa yang berkenan kepada-Nya.",
+    "verse_ref": "1 Yohanes 3:22"
+  },
+  "q_prayer_050": {
+    "question": "Isilah bagian yang kosong: 'Dan asap dupa naik bersama-sama dengan doa orang-orang kudus dari tangan malaikat itu ke hadapan _____.'",
+    "correct": "Allah",
+    "wrong": ["altar", "takhta", "hadirat"],
+    "hint": "Bagian tubuh malaikat",
+    "explanation": "Penglihatan Yohanes menunjukkan doa orang percaya naik ke hadapan Allah seperti dupa.",
+    "full_verse": "Dan asap dupa naik bersama-sama dengan doa orang-orang kudus dari tangan malaikat itu ke hadapan Allah.",
+    "verse_ref": "Wahyu 8:4"
+  }
+}
