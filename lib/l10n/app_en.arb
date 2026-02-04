@@ -1,6 +1,6 @@
 {
   "@@locale": "en",
-  "appTitle": "Trivia Quiz",
+  "appTitle": "Bible Quiz - Memorize Verses",
   "home": "Home",
   "stats": "Stats",
   "review": "Review",
@@ -81,7 +81,7 @@
   "selectLanguage": "Select Language",
   "systemDefault": "System Default",
   "about": "About",
-  "aboutDescription": "Test your knowledge with questions from around the world!",
+  "aboutDescription": "Memorize famous Bible verses through interactive quizzes!",
   "resetAllData": "Reset All Data",
   "resetAllDataTitle": "Reset All Data?",
   "resetAllDataMessage": "This will delete all your quiz history and settings. This action cannot be undone.",
@@ -101,7 +101,7 @@
   "loading": "Loading...",
   "adLoadingMessage": "Loading ad. Please try again shortly.",
 
-  "messageOutstanding": "Outstanding! You're a trivia master!",
+  "messageOutstanding": "Outstanding! You're a Bible scholar!",
   "messageGreatJob": "Great job! Keep it up!",
   "messageGoodEffort": "Good effort! Practice makes perfect!",
   "messageKeepLearning": "Keep learning! You'll do better next time!",

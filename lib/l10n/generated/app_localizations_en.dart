@@ -9,7 +9,7 @@ class AppLocalizationsEn extends AppLocalizations {
   AppLocalizationsEn([String locale = 'en']) : super(locale);
 
   @override
-  String get appTitle => 'Trivia Quiz';
+  String get appTitle => 'Bible Quiz - Memorize Verses';
 
   @override
   String get home => 'Home';
@@ -179,7 +179,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get aboutDescription =>
-      'Test your knowledge with questions from around the world!';
+      'Memorize famous Bible verses through interactive quizzes!';
 
   @override
   String get resetAllData => 'Reset All Data';
@@ -234,7 +234,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get adLoadingMessage => 'Loading ad. Please try again shortly.';
 
   @override
-  String get messageOutstanding => 'Outstanding! You\'re a trivia master!';
+  String get messageOutstanding => 'Outstanding! You\'re a Bible scholar!';
 
   @override
   String get messageGreatJob => 'Great job! Keep it up!';

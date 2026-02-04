@@ -1,6 +1,6 @@
 {
   "@@locale": "de",
-  "appTitle": "Wissensquiz",
+  "appTitle": "Bibel-Quiz - Verse Merken",
   "home": "Startseite",
   "stats": "Statistik",
   "review": "Überprüfung",
@@ -81,7 +81,7 @@
   "selectLanguage": "Sprache auswählen",
   "systemDefault": "Systemstandard",
   "about": "Über",
-  "aboutDescription": "Testen Sie Ihr Wissen mit Fragen aus aller Welt!",
+  "aboutDescription": "Lernen Sie berühmte Bibelverse durch interaktive Quizfragen auswendig!",
   "resetAllData": "Alle Daten zurücksetzen",
   "resetAllDataTitle": "Alle Daten zurücksetzen?",
   "resetAllDataMessage": "Dies löscht Ihren gesamten Quiz-Verlauf und Einstellungen. Diese Aktion kann nicht rückgängig gemacht werden.",
@@ -101,7 +101,7 @@
   "loading": "Laden...",
   "adLoadingMessage": "Werbung wird geladen. Bitte versuchen Sie es gleich erneut.",
 
-  "messageOutstanding": "Hervorragend! Sie sind ein Trivia-Meister!",
+  "messageOutstanding": "Hervorragend! Sie sind ein Bibelgelehrter!",
   "messageGreatJob": "Gut gemacht! Weiter so!",
   "messageGoodEffort": "Guter Einsatz! Übung macht den Meister!",
   "messageKeepLearning": "Lernen Sie weiter! Beim nächsten Mal wird es besser!",

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../../../core/services/feedback_service.dart';
 import '../../../../providers/quiz_providers.dart';
@@ -102,14 +103,21 @@ class _AnswerResultViewState extends ConsumerState<AnswerResultView> {
                       );
                     }),
 
+                    // Bible Verse Section
+                    if (question.fullVerse != null ||
+                        question.verseRef != null) ...[
+                      const Divider(height: 24),
+                      _buildVerseSection(context, question),
+                    ],
+
                     // Explanation
                     if (question.explanation != null) ...[
-                      const Divider(height: 24),
+                      const SizedBox(height: 16),
                       Row(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
-                          Icon(Icons.info_outline,
-                              color: Colors.grey.shade600, size: 20),
+                          Icon(Icons.lightbulb_outline,
+                              color: Colors.amber.shade700, size: 20),
                           const SizedBox(width: 8),
                           Expanded(
                             child: Text(
@@ -138,6 +146,79 @@ class _AnswerResultViewState extends ConsumerState<AnswerResultView> {
             child: Text(isLastQuestion ? l10n.finish : l10n.next),
           ),
         ],
+      ),
+    );
+  }
+
+  Widget _buildVerseSection(BuildContext context, question) {
+    final theme = Theme.of(context);
+
+    return Container(
+      padding: const EdgeInsets.all(16),
+      decoration: BoxDecoration(
+        color: theme.colorScheme.primaryContainer.withOpacity(0.3),
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(
+          color: theme.colorScheme.primary.withOpacity(0.3),
+        ),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          // Verse Reference (e.g., John 3:16)
+          if (question.verseRef != null)
+            Row(
+              children: [
+                Icon(
+                  Icons.menu_book,
+                  color: theme.colorScheme.primary,
+                  size: 20,
+                ),
+                const SizedBox(width: 8),
+                Expanded(
+                  child: Text(
+                    question.verseRef!,
+                    style: theme.textTheme.titleMedium?.copyWith(
+                      color: theme.colorScheme.primary,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ),
+                // Copy button
+                if (question.fullVerse != null)
+                  IconButton(
+                    icon: const Icon(Icons.copy, size: 20),
+                    onPressed: () => _copyVerse(context, question),
+                    tooltip: 'Copy',
+                    visualDensity: VisualDensity.compact,
+                  ),
+              ],
+            ),
+
+          // Full Verse Text
+          if (question.fullVerse != null) ...[
+            const SizedBox(height: 12),
+            Text(
+              '"${question.fullVerse!}"',
+              style: theme.textTheme.bodyLarge?.copyWith(
+                fontStyle: FontStyle.italic,
+                height: 1.5,
+              ),
+            ),
+          ],
+        ],
+      ),
+    );
+  }
+
+  void _copyVerse(BuildContext context, question) {
+    final text = '${question.fullVerse ?? ''}\n- ${question.verseRef ?? ''}';
+    Clipboard.setData(ClipboardData(text: text.trim()));
+
+    ScaffoldMessenger.of(context).showSnackBar(
+      const SnackBar(
+        content: Text('Verse copied'),
+        duration: Duration(seconds: 2),
       ),
     );
   }

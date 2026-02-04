@@ -9,7 +9,7 @@ class AppLocalizationsJa extends AppLocalizations {
   AppLocalizationsJa([String locale = 'ja']) : super(locale);
 
   @override
-  String get appTitle => 'グローバルトリビアクイズ';
+  String get appTitle => '聖書クイズ - 聖句暗記';
 
   @override
   String get home => 'ホーム';
@@ -178,7 +178,7 @@ class AppLocalizationsJa extends AppLocalizations {
   String get about => 'アプリについて';
 
   @override
-  String get aboutDescription => '世界中のクイズで知識をテストしよう！';
+  String get aboutDescription => 'インタラクティブなクイズで有名な聖書の言葉を暗記しよう！';
 
   @override
   String get resetAllData => 'すべてのデータをリセット';
@@ -232,7 +232,7 @@ class AppLocalizationsJa extends AppLocalizations {
   String get adLoadingMessage => '広告を読み込んでいます。しばらくしてからお試しください。';
 
   @override
-  String get messageOutstanding => '素晴らしい！クイズマスターですね！';
+  String get messageOutstanding => '素晴らしい！聖書博士ですね！';
 
   @override
   String get messageGreatJob => 'よくできました！その調子！';

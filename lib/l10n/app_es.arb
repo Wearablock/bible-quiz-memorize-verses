@@ -1,6 +1,6 @@
 {
   "@@locale": "es",
-  "appTitle": "Quiz de Trivia",
+  "appTitle": "Quiz Bíblico - Versículos",
   "home": "Inicio",
   "stats": "Estadísticas",
   "review": "Revisión",
@@ -81,7 +81,7 @@
   "selectLanguage": "Seleccionar idioma",
   "systemDefault": "Predeterminado del sistema",
   "about": "Acerca de",
-  "aboutDescription": "¡Pon a prueba tus conocimientos con preguntas de todo el mundo!",
+  "aboutDescription": "¡Memoriza versículos bíblicos famosos con cuestionarios interactivos!",
   "resetAllData": "Restablecer todos los datos",
   "resetAllDataTitle": "¿Restablecer todos los datos?",
   "resetAllDataMessage": "Esto eliminará todo tu historial de cuestionarios y configuraciones. Esta acción no se puede deshacer.",
@@ -101,7 +101,7 @@
   "loading": "Cargando...",
   "adLoadingMessage": "Cargando anuncio. Por favor, inténtalo de nuevo en breve.",
 
-  "messageOutstanding": "¡Excelente! ¡Eres un maestro del trivia!",
+  "messageOutstanding": "¡Excelente! ¡Eres un erudito bíblico!",
   "messageGreatJob": "¡Buen trabajo! ¡Sigue así!",
   "messageGoodEffort": "¡Buen esfuerzo! ¡La práctica hace al maestro!",
   "messageKeepLearning": "¡Sigue aprendiendo! ¡Lo harás mejor la próxima vez!",

@@ -1,6 +1,6 @@
 {
   "@@locale": "ja",
-  "appTitle": "グローバルトリビアクイズ",
+  "appTitle": "聖書クイズ - 聖句暗記",
   "home": "ホーム",
   "stats": "統計",
   "review": "復習",
@@ -81,7 +81,7 @@
   "selectLanguage": "言語を選択",
   "systemDefault": "システムデフォルト",
   "about": "アプリについて",
-  "aboutDescription": "世界中のクイズで知識をテストしよう！",
+  "aboutDescription": "インタラクティブなクイズで有名な聖書の言葉を暗記しよう！",
   "resetAllData": "すべてのデータをリセット",
   "resetAllDataTitle": "すべてのデータをリセットしますか？",
   "resetAllDataMessage": "クイズの履歴と設定がすべて削除されます。この操作は元に戻せません。",
@@ -101,7 +101,7 @@
   "loading": "読み込み中...",
   "adLoadingMessage": "広告を読み込んでいます。しばらくしてからお試しください。",
 
-  "messageOutstanding": "素晴らしい！クイズマスターですね！",
+  "messageOutstanding": "素晴らしい！聖書博士ですね！",
   "messageGreatJob": "よくできました！その調子！",
   "messageGoodEffort": "いい努力です！練習あるのみ！",
   "messageKeepLearning": "学び続けましょう！次はもっとうまくいきます！",

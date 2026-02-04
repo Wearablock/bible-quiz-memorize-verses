@@ -1,6 +1,6 @@
 {
   "@@locale": "fr",
-  "appTitle": "Quiz Culture Générale",
+  "appTitle": "Quiz Biblique - Versets",
   "home": "Accueil",
   "stats": "Statistiques",
   "review": "Révision",
@@ -81,7 +81,7 @@
   "selectLanguage": "Sélectionner la langue",
   "systemDefault": "Par défaut du système",
   "about": "À propos",
-  "aboutDescription": "Testez vos connaissances avec des questions du monde entier !",
+  "aboutDescription": "Mémorisez des versets bibliques célèbres grâce à des quiz interactifs !",
   "resetAllData": "Réinitialiser toutes les données",
   "resetAllDataTitle": "Réinitialiser toutes les données ?",
   "resetAllDataMessage": "Cela supprimera tout votre historique de quiz et vos paramètres. Cette action est irréversible.",
@@ -101,7 +101,7 @@
   "loading": "Chargement...",
   "adLoadingMessage": "Chargement de la pub. Veuillez réessayer dans un instant.",
 
-  "messageOutstanding": "Exceptionnel ! Vous êtes un maître du trivia !",
+  "messageOutstanding": "Exceptionnel ! Vous êtes un érudit biblique !",
   "messageGreatJob": "Excellent travail ! Continuez !",
   "messageGoodEffort": "Bon effort ! C'est en forgeant qu'on devient forgeron !",
   "messageKeepLearning": "Continuez à apprendre ! Vous ferez mieux la prochaine fois !",

@@ -117,13 +117,13 @@ class AppConfig {
   static const Map<String, Color> categoryColors = {
     'love': Color(0xFFE91E63),        // Pink
     'faith': Color(0xFF3F51B5),       // Indigo
-    'hope': Color(0xFF00BCD4),        // Cyan
+    'hope': Color(0xFF00897B),        // Teal
     'prayer': Color(0xFF9C27B0),      // Purple
     'forgiveness': Color(0xFF4CAF50), // Green
     'wisdom': Color(0xFFFF9800),      // Orange
     'comfort': Color(0xFF03A9F4),     // Light Blue
     'strength': Color(0xFFF44336),    // Red
-    'salvation': Color(0xFFFFEB3B),   // Yellow
+    'salvation': Color(0xFFF9A825),   // Amber (어두운 금색)
     'psalms': Color(0xFF2196F3),      // Blue
     'proverbs': Color(0xFF795548),    // Brown
     'jesus': Color(0xFF8D6E63),       // Brown Light

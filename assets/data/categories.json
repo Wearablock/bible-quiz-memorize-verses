@@ -66,8 +66,8 @@
         "vi": "Hy vọng",
         "id": "Pengharapan"
       },
-      "color": "#00BCD4",
-      "icon": "wb_sunny"
+      "color": "#00897B",
+      "icon": "anchor"
     },
     {
       "id": "prayer",
@@ -90,7 +90,7 @@
         "id": "Doa"
       },
       "color": "#9C27B0",
-      "icon": "volunteer_activism"
+      "icon": "self_improvement"
     },
     {
       "id": "forgiveness",
@@ -182,7 +182,7 @@
         "id": "Kekuatan"
       },
       "color": "#F44336",
-      "icon": "fitness_center"
+      "icon": "shield"
     },
     {
       "id": "salvation",
@@ -204,8 +204,8 @@
         "vi": "Sự cứu rỗi",
         "id": "Keselamatan"
       },
-      "color": "#FFEB3B",
-      "icon": "star"
+      "color": "#F9A825",
+      "icon": "brightness_7"
     },
     {
       "id": "psalms",

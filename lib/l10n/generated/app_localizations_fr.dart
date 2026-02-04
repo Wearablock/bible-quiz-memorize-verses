@@ -9,7 +9,7 @@ class AppLocalizationsFr extends AppLocalizations {
   AppLocalizationsFr([String locale = 'fr']) : super(locale);
 
   @override
-  String get appTitle => 'Quiz Culture Générale';
+  String get appTitle => 'Quiz Biblique - Versets';
 
   @override
   String get home => 'Accueil';
@@ -181,7 +181,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get aboutDescription =>
-      'Testez vos connaissances avec des questions du monde entier !';
+      'Mémorisez des versets bibliques célèbres grâce à des quiz interactifs !';
 
   @override
   String get resetAllData => 'Réinitialiser toutes les données';
@@ -238,7 +238,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get messageOutstanding =>
-      'Exceptionnel ! Vous êtes un maître du trivia !';
+      'Exceptionnel ! Vous êtes un érudit biblique !';
 
   @override
   String get messageGreatJob => 'Excellent travail ! Continuez !';

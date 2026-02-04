@@ -9,7 +9,7 @@ class AppLocalizationsId extends AppLocalizations {
   AppLocalizationsId([String locale = 'id']) : super(locale);
 
   @override
-  String get appTitle => 'Kuis Trivia';
+  String get appTitle => 'Kuis Alkitab - Hafal Ayat';
 
   @override
   String get home => 'Beranda';
@@ -179,7 +179,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get aboutDescription =>
-      'Uji pengetahuan Anda dengan pertanyaan dari seluruh dunia!';
+      'Hafalkan ayat-ayat Alkitab terkenal melalui kuis interaktif!';
 
   @override
   String get resetAllData => 'Reset semua data';
@@ -234,7 +234,7 @@ class AppLocalizationsId extends AppLocalizations {
   String get adLoadingMessage => 'Memuat iklan. Silakan coba lagi sebentar.';
 
   @override
-  String get messageOutstanding => 'Luar biasa! Anda master trivia!';
+  String get messageOutstanding => 'Luar biasa! Anda ahli Alkitab!';
 
   @override
   String get messageGreatJob => 'Kerja bagus! Terus semangat!';

@@ -39,6 +39,8 @@ class QuestionContent extends Equatable {
   final List<String> wrong; // 오답 3개
   final String? hint; // 힌트 (보상형 광고 후 제공)
   final String? explanation; // 해설 (선택)
+  final String? fullVerse; // 전체 성경 구절
+  final String? verseRef; // 구절 참조 (예: John 3:16)
 
   const QuestionContent({
     required this.question,
@@ -46,6 +48,8 @@ class QuestionContent extends Equatable {
     required this.wrong,
     this.hint,
     this.explanation,
+    this.fullVerse,
+    this.verseRef,
   });
 
   factory QuestionContent.fromJson(Map<String, dynamic> json) {
@@ -55,6 +59,8 @@ class QuestionContent extends Equatable {
       wrong: List<String>.from(json['wrong'] as List),
       hint: json['hint'] as String?,
       explanation: json['explanation'] as String?,
+      fullVerse: json['full_verse'] as String?,
+      verseRef: json['verse_ref'] as String?,
     );
   }
 
@@ -65,11 +71,14 @@ class QuestionContent extends Equatable {
       'wrong': wrong,
       if (hint != null) 'hint': hint,
       if (explanation != null) 'explanation': explanation,
+      if (fullVerse != null) 'full_verse': fullVerse,
+      if (verseRef != null) 'verse_ref': verseRef,
     };
   }
 
   @override
-  List<Object?> get props => [question, correct, wrong, hint, explanation];
+  List<Object?> get props =>
+      [question, correct, wrong, hint, explanation, fullVerse, verseRef];
 }
 
 /// 통합 문제 모델 (메타 + 콘텐츠)
@@ -82,6 +91,8 @@ class Question extends Equatable {
   final List<String> wrong;
   final String? hint;
   final String? explanation;
+  final String? fullVerse; // 전체 성경 구절
+  final String? verseRef; // 구절 참조 (예: John 3:16)
 
   const Question({
     required this.id,
@@ -92,6 +103,8 @@ class Question extends Equatable {
     required this.wrong,
     this.hint,
     this.explanation,
+    this.fullVerse,
+    this.verseRef,
   });
 
   /// 메타와 콘텐츠를 결합하여 Question 생성
@@ -108,6 +121,8 @@ class Question extends Equatable {
       wrong: content.wrong,
       hint: content.hint,
       explanation: content.explanation,
+      fullVerse: content.fullVerse,
+      verseRef: content.verseRef,
     );
   }
 
@@ -133,5 +148,7 @@ class Question extends Equatable {
         wrong,
         hint,
         explanation,
+        fullVerse,
+        verseRef,
       ];
 }

@@ -28,7 +28,7 @@ class QuickQuizCard extends StatelessWidget {
                   borderRadius: BorderRadius.circular(12),
                 ),
                 child: Icon(
-                  Icons.bolt,
+                  Icons.church,
                   color: theme.colorScheme.onPrimary,
                   size: 32,
                 ),
@@ -42,22 +42,22 @@ class QuickQuizCard extends StatelessWidget {
                       l10n.quickQuiz,
                       style: theme.textTheme.titleMedium?.copyWith(
                         fontWeight: FontWeight.bold,
+                        color: Colors.white,
                       ),
                     ),
                     const SizedBox(height: 4),
                     Text(
                       l10n.quickQuizDescription,
                       style: theme.textTheme.bodySmall?.copyWith(
-                        color: theme.colorScheme.onPrimaryContainer
-                            .withOpacity(0.7),
+                        color: Colors.white70,
                       ),
                     ),
                   ],
                 ),
               ),
-              Icon(
+              const Icon(
                 Icons.arrow_forward_ios,
-                color: theme.colorScheme.onPrimaryContainer,
+                color: Colors.white,
               ),
             ],
           ),

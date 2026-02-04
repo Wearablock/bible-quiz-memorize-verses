@@ -9,7 +9,7 @@ class AppLocalizationsVi extends AppLocalizations {
   AppLocalizationsVi([String locale = 'vi']) : super(locale);
 
   @override
-  String get appTitle => 'Đố Vui Kiến Thức';
+  String get appTitle => 'Đố Kinh Thánh - Ghi Nhớ';
 
   @override
   String get home => 'Trang chủ';
@@ -179,7 +179,7 @@ class AppLocalizationsVi extends AppLocalizations {
 
   @override
   String get aboutDescription =>
-      'Kiểm tra kiến thức của bạn với câu hỏi từ khắp nơi trên thế giới!';
+      'Ghi nhớ những câu Kinh Thánh nổi tiếng qua các bài trắc nghiệm tương tác!';
 
   @override
   String get resetAllData => 'Đặt lại tất cả dữ liệu';
@@ -234,7 +234,7 @@ class AppLocalizationsVi extends AppLocalizations {
   String get adLoadingMessage => 'Đang tải quảng cáo. Vui lòng thử lại sau.';
 
   @override
-  String get messageOutstanding => 'Xuất sắc! Bạn là bậc thầy trivia!';
+  String get messageOutstanding => 'Xuất sắc! Bạn là học giả Kinh Thánh!';
 
   @override
   String get messageGreatJob => 'Tuyệt vời! Tiếp tục phát huy!';

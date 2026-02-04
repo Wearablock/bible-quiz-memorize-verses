@@ -62,22 +62,31 @@ class CategoryCard extends StatelessWidget {
 
   IconData _getCategoryIcon(String categoryId) {
     switch (categoryId) {
-      case 'geography':
-        return Icons.public;
-      case 'history':
-        return Icons.history_edu;
-      case 'science':
-        return Icons.science;
-      case 'arts':
-        return Icons.palette;
-      case 'sports':
-        return Icons.sports_soccer;
-      case 'nature':
-        return Icons.eco;
-      case 'technology':
-        return Icons.computer;
-      case 'food':
-        return Icons.restaurant;
+      // Bible Quiz Categories
+      case 'love':
+        return Icons.favorite;
+      case 'faith':
+        return Icons.church;
+      case 'hope':
+        return Icons.anchor;
+      case 'prayer':
+        return Icons.self_improvement;
+      case 'forgiveness':
+        return Icons.handshake;
+      case 'wisdom':
+        return Icons.lightbulb;
+      case 'comfort':
+        return Icons.healing;
+      case 'strength':
+        return Icons.shield;
+      case 'salvation':
+        return Icons.brightness_7;
+      case 'psalms':
+        return Icons.music_note;
+      case 'proverbs':
+        return Icons.menu_book;
+      case 'jesus':
+        return Icons.auto_stories;
       default:
         return Icons.quiz;
     }

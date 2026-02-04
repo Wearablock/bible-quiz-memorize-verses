@@ -126,7 +126,7 @@ abstract class AppLocalizations {
   /// No description provided for @appTitle.
   ///
   /// In en, this message translates to:
-  /// **'Trivia Quiz'**
+  /// **'Bible Quiz - Memorize Verses'**
   String get appTitle;
 
   /// No description provided for @home.
@@ -444,7 +444,7 @@ abstract class AppLocalizations {
   /// No description provided for @aboutDescription.
   ///
   /// In en, this message translates to:
-  /// **'Test your knowledge with questions from around the world!'**
+  /// **'Memorize famous Bible verses through interactive quizzes!'**
   String get aboutDescription;
 
   /// No description provided for @resetAllData.
@@ -552,7 +552,7 @@ abstract class AppLocalizations {
   /// No description provided for @messageOutstanding.
   ///
   /// In en, this message translates to:
-  /// **'Outstanding! You\'re a trivia master!'**
+  /// **'Outstanding! You\'re a Bible scholar!'**
   String get messageOutstanding;
 
   /// No description provided for @messageGreatJob.

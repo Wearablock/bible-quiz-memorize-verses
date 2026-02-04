@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../../../core/theme/app_colors.dart';
 import '../../../../core/utils/category_utils.dart';
-import '../../../../l10n/generated/app_localizations.dart';
 import '../../../../providers/repository_providers.dart';
 
 class WrongAnswerTile extends ConsumerWidget {
@@ -16,11 +15,11 @@ class WrongAnswerTile extends ConsumerWidget {
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
-    final l10n = AppLocalizations.of(context)!;
     final categoryId = _extractCategoryId(questionId);
     final color = AppColors.getCategoryColor(categoryId);
     final locale = Localizations.localeOf(context);
     final localeStr = locale.toLanguageTag().replaceAll('-', '_');
+    final categoriesAsync = ref.watch(categoriesProvider);
 
     return Card(
       margin: const EdgeInsets.only(bottom: 8),
@@ -39,7 +38,7 @@ class WrongAnswerTile extends ConsumerWidget {
           ),
         ),
         title: Text(
-          _getCategoryName(categoryId, l10n),
+          _getLocalizedCategoryName(categoriesAsync, categoryId, locale.languageCode),
           style: const TextStyle(fontWeight: FontWeight.w500),
         ),
         subtitle: FutureBuilder<String>(
@@ -91,47 +90,55 @@ class WrongAnswerTile extends ConsumerWidget {
     return CategoryUtils.extractCategoryIdOrUnknown(questionId);
   }
 
-  String _getCategoryName(String categoryId, AppLocalizations l10n) {
-    switch (categoryId) {
-      case 'geography':
-        return l10n.categoryGeography;
-      case 'history':
-        return l10n.categoryHistory;
-      case 'science':
-        return l10n.categoryScience;
-      case 'arts':
-        return l10n.categoryArts;
-      case 'sports':
-        return l10n.categorySports;
-      case 'nature':
-        return l10n.categoryNature;
-      case 'technology':
-        return l10n.categoryTechnology;
-      case 'food':
-        return l10n.categoryFood;
-      default:
-        return categoryId;
-    }
+  String _getLocalizedCategoryName(
+    AsyncValue<List<dynamic>> categoriesAsync,
+    String categoryId,
+    String languageCode,
+  ) {
+    return categoriesAsync.when(
+      data: (categories) {
+        final category = categories.cast<dynamic>().firstWhere(
+              (c) => c.id == categoryId,
+              orElse: () => null,
+            );
+        if (category != null) {
+          return category.getName(languageCode);
+        }
+        // Fallback: capitalize first letter
+        if (categoryId.isEmpty) return categoryId;
+        return categoryId[0].toUpperCase() + categoryId.substring(1);
+      },
+      loading: () => categoryId,
+      error: (e, st) => categoryId,
+    );
   }
 
   IconData _getCategoryIcon(String categoryId) {
     switch (categoryId) {
-      case 'geography':
-        return Icons.public;
-      case 'history':
-        return Icons.history_edu;
-      case 'science':
-        return Icons.science;
-      case 'arts':
-        return Icons.palette;
-      case 'sports':
-        return Icons.sports_soccer;
-      case 'nature':
-        return Icons.eco;
-      case 'technology':
-        return Icons.computer;
-      case 'food':
-        return Icons.restaurant;
+      case 'love':
+        return Icons.favorite;
+      case 'faith':
+        return Icons.church;
+      case 'hope':
+        return Icons.anchor;
+      case 'prayer':
+        return Icons.self_improvement;
+      case 'forgiveness':
+        return Icons.handshake;
+      case 'wisdom':
+        return Icons.lightbulb;
+      case 'comfort':
+        return Icons.healing;
+      case 'strength':
+        return Icons.shield;
+      case 'salvation':
+        return Icons.brightness_7;
+      case 'psalms':
+        return Icons.music_note;
+      case 'proverbs':
+        return Icons.menu_book;
+      case 'jesus':
+        return Icons.auto_stories;
       default:
         return Icons.quiz;
     }

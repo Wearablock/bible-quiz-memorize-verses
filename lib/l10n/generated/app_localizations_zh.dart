@@ -9,7 +9,7 @@ class AppLocalizationsZh extends AppLocalizations {
   AppLocalizationsZh([String locale = 'zh']) : super(locale);
 
   @override
-  String get appTitle => '全球知识问答';
+  String get appTitle => '圣经问答 - 经文记忆';
 
   @override
   String get home => '首页';
@@ -178,7 +178,7 @@ class AppLocalizationsZh extends AppLocalizations {
   String get about => '关于';
 
   @override
-  String get aboutDescription => '通过世界各地的问答测试您的知识！';
+  String get aboutDescription => '通过互动问答记忆著名圣经经文！';
 
   @override
   String get resetAllData => '重置所有数据';
@@ -232,7 +232,7 @@ class AppLocalizationsZh extends AppLocalizations {
   String get adLoadingMessage => '正在加载广告，请稍后重试。';
 
   @override
-  String get messageOutstanding => '太棒了！你是答题大师！';
+  String get messageOutstanding => '太棒了！你是圣经学者！';
 
   @override
   String get messageGreatJob => '做得好！继续保持！';
@@ -315,7 +315,7 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
   AppLocalizationsZhHant() : super('zh_Hant');
 
   @override
-  String get appTitle => '全球知識問答';
+  String get appTitle => '聖經問答 - 經文記憶';
 
   @override
   String get home => '首頁';
@@ -484,7 +484,7 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
   String get about => '關於';
 
   @override
-  String get aboutDescription => '透過世界各地的問答測試您的知識！';
+  String get aboutDescription => '通過互動問答記憶著名聖經經文！';
 
   @override
   String get resetAllData => '重置所有資料';
@@ -538,7 +538,7 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
   String get adLoadingMessage => '正在載入廣告，請稍後重試。';
 
   @override
-  String get messageOutstanding => '太棒了！你是答題大師！';
+  String get messageOutstanding => '太棒了！你是聖經學者！';
 
   @override
   String get messageGreatJob => '做得好！繼續保持！';

@@ -9,7 +9,7 @@ class AppLocalizationsDe extends AppLocalizations {
   AppLocalizationsDe([String locale = 'de']) : super(locale);
 
   @override
-  String get appTitle => 'Wissensquiz';
+  String get appTitle => 'Bibel-Quiz - Verse Merken';
 
   @override
   String get home => 'Startseite';
@@ -180,7 +180,7 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get aboutDescription =>
-      'Testen Sie Ihr Wissen mit Fragen aus aller Welt!';
+      'Lernen Sie berühmte Bibelverse durch interaktive Quizfragen auswendig!';
 
   @override
   String get resetAllData => 'Alle Daten zurücksetzen';
@@ -236,7 +236,7 @@ class AppLocalizationsDe extends AppLocalizations {
       'Werbung wird geladen. Bitte versuchen Sie es gleich erneut.';
 
   @override
-  String get messageOutstanding => 'Hervorragend! Sie sind ein Trivia-Meister!';
+  String get messageOutstanding => 'Hervorragend! Sie sind ein Bibelgelehrter!';
 
   @override
   String get messageGreatJob => 'Gut gemacht! Weiter so!';

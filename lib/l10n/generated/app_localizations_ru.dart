@@ -9,7 +9,7 @@ class AppLocalizationsRu extends AppLocalizations {
   AppLocalizationsRu([String locale = 'ru']) : super(locale);
 
   @override
-  String get appTitle => 'Глобальная Викторина';
+  String get appTitle => 'Библия Викторина - Стихи';
 
   @override
   String get home => 'Главная';
@@ -180,7 +180,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get aboutDescription =>
-      'Проверьте свои знания с вопросами со всего мира!';
+      'Запоминайте известные библейские стихи с помощью интерактивных викторин!';
 
   @override
   String get resetAllData => 'Сбросить все данные';
@@ -235,7 +235,7 @@ class AppLocalizationsRu extends AppLocalizations {
   String get adLoadingMessage => 'Загрузка рекламы. Попробуйте позже.';
 
   @override
-  String get messageOutstanding => 'Превосходно! Вы мастер викторин!';
+  String get messageOutstanding => 'Превосходно! Вы знаток Библии!';
 
   @override
   String get messageGreatJob => 'Отличная работа! Продолжайте!';

@@ -9,7 +9,7 @@ class AppLocalizationsKo extends AppLocalizations {
   AppLocalizationsKo([String locale = 'ko']) : super(locale);
 
   @override
-  String get appTitle => '글로벌 상식 퀴즈';
+  String get appTitle => '성경 퀴즈 - 구절 암기';
 
   @override
   String get home => '홈';
@@ -178,7 +178,7 @@ class AppLocalizationsKo extends AppLocalizations {
   String get about => '정보';
 
   @override
-  String get aboutDescription => '전 세계의 퀴즈로 지식을 테스트하세요!';
+  String get aboutDescription => '인터랙티브 퀴즈로 유명한 성경 구절을 암기하세요!';
 
   @override
   String get resetAllData => '모든 데이터 초기화';
@@ -232,7 +232,7 @@ class AppLocalizationsKo extends AppLocalizations {
   String get adLoadingMessage => '광고를 불러오는 중입니다. 잠시 후 다시 시도해주세요.';
 
   @override
-  String get messageOutstanding => '훌륭해요! 당신은 퀴즈 마스터입니다!';
+  String get messageOutstanding => '훌륭해요! 성경 박사시네요!';
 
   @override
   String get messageGreatJob => '잘했어요! 계속 화이팅!';

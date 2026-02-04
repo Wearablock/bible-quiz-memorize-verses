@@ -1,6 +1,6 @@
 {
   "@@locale": "zh",
-  "appTitle": "全球知识问答",
+  "appTitle": "圣经问答 - 经文记忆",
   "home": "首页",
   "stats": "统计",
   "review": "复习",
@@ -81,7 +81,7 @@
   "selectLanguage": "选择语言",
   "systemDefault": "系统默认",
   "about": "关于",
-  "aboutDescription": "通过世界各地的问答测试您的知识！",
+  "aboutDescription": "通过互动问答记忆著名圣经经文！",
   "resetAllData": "重置所有数据",
   "resetAllDataTitle": "重置所有数据？",
   "resetAllDataMessage": "这将删除您所有的答题记录和设置。此操作无法撤销。",
@@ -101,7 +101,7 @@
   "loading": "加载中...",
   "adLoadingMessage": "正在加载广告，请稍后重试。",
 
-  "messageOutstanding": "太棒了！你是答题大师！",
+  "messageOutstanding": "太棒了！你是圣经学者！",
   "messageGreatJob": "做得好！继续保持！",
   "messageGoodEffort": "不错的努力！熟能生巧！",
   "messageKeepLearning": "继续学习！下次会更好！",

@@ -8,13 +8,13 @@ class CategoryUtils {
     'q_faith_': 'faith',
     'q_hope_': 'hope',
     'q_prayer_': 'prayer',
-    'q_forgive_': 'forgiveness',
+    'q_forgiveness_': 'forgiveness',
     'q_wisdom_': 'wisdom',
     'q_comfort_': 'comfort',
     'q_strength_': 'strength',
-    'q_salv_': 'salvation',
-    'q_psalm_': 'psalms',
-    'q_prov_': 'proverbs',
+    'q_salvation_': 'salvation',
+    'q_psalms_': 'psalms',
+    'q_proverbs_': 'proverbs',
     'q_jesus_': 'jesus',
   };
 

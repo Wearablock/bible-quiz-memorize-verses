@@ -9,7 +9,7 @@ class AppLocalizationsAr extends AppLocalizations {
   AppLocalizationsAr([String locale = 'ar']) : super(locale);
 
   @override
-  String get appTitle => 'مسابقة المعلومات العامة';
+  String get appTitle => 'مسابقة الكتاب - حفظ الآيات';
 
   @override
   String get home => 'الرئيسية';
@@ -179,7 +179,8 @@ class AppLocalizationsAr extends AppLocalizations {
   String get about => 'حول';
 
   @override
-  String get aboutDescription => 'اختبر معلوماتك بأسئلة من جميع أنحاء العالم!';
+  String get aboutDescription =>
+      'احفظ آيات الكتاب المقدس الشهيرة من خلال اختبارات تفاعلية!';
 
   @override
   String get resetAllData => 'إعادة تعيين جميع البيانات';
@@ -235,7 +236,7 @@ class AppLocalizationsAr extends AppLocalizations {
       'جاري تحميل الإعلان. يرجى المحاولة مرة أخرى قريباً.';
 
   @override
-  String get messageOutstanding => 'رائع! أنت سيد المعلومات!';
+  String get messageOutstanding => 'رائع! أنت عالم بالكتاب المقدس!';
 
   @override
   String get messageGreatJob => 'عمل رائع! استمر!';

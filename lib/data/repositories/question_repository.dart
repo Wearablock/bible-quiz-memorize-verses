@@ -52,6 +52,8 @@ class QuestionRepository {
         wrong: entry.value.wrong,
         hint: entry.value.hint,
         explanation: entry.value.explanation,
+        fullVerse: entry.value.fullVerse,
+        verseRef: entry.value.verseRef,
       );
     }).toList();
 
@@ -95,6 +97,8 @@ class QuestionRepository {
           wrong: content.wrong,
           hint: content.hint,
           explanation: content.explanation,
+          fullVerse: content.fullVerse,
+          verseRef: content.verseRef,
         ));
       }
     }

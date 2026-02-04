@@ -9,7 +9,7 @@ class AppLocalizationsTh extends AppLocalizations {
   AppLocalizationsTh([String locale = 'th']) : super(locale);
 
   @override
-  String get appTitle => 'ควิซความรู้รอบโลก';
+  String get appTitle => 'ควิซพระคัมภีร์ - ท่องจำ';
 
   @override
   String get home => 'หน้าแรก';
@@ -178,7 +178,8 @@ class AppLocalizationsTh extends AppLocalizations {
   String get about => 'เกี่ยวกับ';
 
   @override
-  String get aboutDescription => 'ทดสอบความรู้ของคุณด้วยคำถามจากทั่วโลก!';
+  String get aboutDescription =>
+      'จดจำข้อพระคัมภีร์ที่มีชื่อเสียงผ่านแบบทดสอบแบบโต้ตอบ!';
 
   @override
   String get resetAllData => 'รีเซ็ตข้อมูลทั้งหมด';
@@ -233,7 +234,7 @@ class AppLocalizationsTh extends AppLocalizations {
   String get adLoadingMessage => 'กำลังโหลดโฆษณา กรุณาลองอีกครั้งในอีกสักครู่';
 
   @override
-  String get messageOutstanding => 'ยอดเยี่ยม! คุณเป็นปรมาจารย์ควิซ!';
+  String get messageOutstanding => 'ยอดเยี่ยม! คุณเป็นผู้เชี่ยวชาญพระคัมภีร์!';
 
   @override
   String get messageGreatJob => 'เยี่ยมมาก! ทำต่อไป!';

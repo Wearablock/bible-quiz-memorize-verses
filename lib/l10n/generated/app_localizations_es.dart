@@ -9,7 +9,7 @@ class AppLocalizationsEs extends AppLocalizations {
   AppLocalizationsEs([String locale = 'es']) : super(locale);
 
   @override
-  String get appTitle => 'Quiz de Trivia';
+  String get appTitle => 'Quiz Bíblico - Versículos';
 
   @override
   String get home => 'Inicio';
@@ -181,7 +181,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get aboutDescription =>
-      '¡Pon a prueba tus conocimientos con preguntas de todo el mundo!';
+      '¡Memoriza versículos bíblicos famosos con cuestionarios interactivos!';
 
   @override
   String get resetAllData => 'Restablecer todos los datos';
@@ -237,7 +237,7 @@ class AppLocalizationsEs extends AppLocalizations {
       'Cargando anuncio. Por favor, inténtalo de nuevo en breve.';
 
   @override
-  String get messageOutstanding => '¡Excelente! ¡Eres un maestro del trivia!';
+  String get messageOutstanding => '¡Excelente! ¡Eres un erudito bíblico!';
 
   @override
   String get messageGreatJob => '¡Buen trabajo! ¡Sigue así!';
