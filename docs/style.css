@@ -1,17 +1,19 @@
-/* Trivia Quiz - Terms & Policies Style */
-/* Light Bulb Theme (Amber/Yellow) */
+/* Bible Quiz - Terms & Policies Style */
+/* Navy Blue + Gold Theme */
 
 :root {
-  /* Primary Colors - Light Bulb Theme */
-  --primary: #FFC107;
-  --primary-light: #FFD54F;
-  --primary-dark: #FFA000;
-  --secondary: #5D4037;
-  --secondary-light: #8D6E63;
-  --accent: #FF6F00;
+  /* Primary Colors - Navy Blue Theme */
+  --primary: #1A237E;
+  --primary-light: #3949AB;
+  --primary-dark: #0D1642;
+
+  /* Secondary Colors - Gold Theme */
+  --secondary: #C9A227;
+  --secondary-light: #D4AF37;
+  --accent: #B8860B;
 
   /* Light Mode */
-  --background: #FFFBF5;
+  --background: #FAF8F5;
   --surface: #FFFFFF;
   --text-primary: #1A1A1A;
   --text-secondary: #757575;
@@ -25,11 +27,12 @@
 /* Dark Mode */
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #1A1A1A;
-    --surface: #2D2D2D;
+    --background: #121212;
+    --surface: #1E1E1E;
     --text-primary: #FFFFFF;
     --text-secondary: #B0B0B0;
-    --border: #404040;
+    --border: #333333;
+    --primary-light: #5C6BC0;
   }
 }
 
@@ -79,7 +82,7 @@ header {
 .logo h1 {
   font-size: 1.5rem;
   font-weight: 700;
-  color: var(--primary-dark);
+  color: var(--primary);
 }
 
 /* Language Selector */
@@ -144,12 +147,12 @@ header {
 }
 
 .lang-option:hover {
-  background: var(--primary-light);
+  background: var(--secondary-light);
   color: var(--text-primary);
 }
 
 .lang-option.active {
-  background: var(--primary);
+  background: var(--secondary);
   color: #1A1A1A;
   font-weight: 600;
 }
@@ -170,7 +173,7 @@ main {
 h2 {
   font-size: 2rem;
   font-weight: 700;
-  color: var(--primary-dark);
+  color: var(--primary);
   margin-bottom: 8px;
 }
 
@@ -204,7 +207,7 @@ li {
 }
 
 a {
-  color: var(--primary-dark);
+  color: var(--primary);
   text-decoration: none;
 }
 
@@ -225,7 +228,7 @@ a:hover {
   font-size: 1rem;
   font-weight: 600;
   margin-bottom: 12px;
-  color: var(--primary-dark);
+  color: var(--primary);
 }
 
 /* Support Page Specific */
@@ -284,7 +287,7 @@ a:hover {
 .faq-answer {
   color: var(--text-secondary);
   padding-left: 16px;
-  border-left: 3px solid var(--primary);
+  border-left: 3px solid var(--secondary);
 }
 
 /* Contact Card */
@@ -310,13 +313,13 @@ a:hover {
 }
 
 .contact-card .info h4 {
-  color: #1A1A1A;
+  color: #FFFFFF;
   font-weight: 600;
   margin-bottom: 4px;
 }
 
 .contact-card .info a {
-  color: #1A1A1A;
+  color: var(--secondary-light);
   font-weight: 500;
 }
 
