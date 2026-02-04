@@ -46,7 +46,7 @@ class ReviewScreen extends ConsumerWidget {
                   Text(
                     l10n.youreDoingGreat,
                     style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-                          color: Colors.grey,
+                          color: Theme.of(context).colorScheme.onSurfaceVariant,
                         ),
                   ),
                 ],

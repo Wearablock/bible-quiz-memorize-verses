@@ -91,7 +91,7 @@ class _HintButtonState extends State<_HintButton> {
                   : (isAdReady ? l10n.watchAdForHint : l10n.loading),
               style: TextStyle(
                 fontSize: 12,
-                color: Colors.grey.shade600,
+                color: Theme.of(context).colorScheme.onSurfaceVariant,
               ),
             ),
             trailing: _isLoading

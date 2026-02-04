@@ -122,7 +122,9 @@ class _AnswerResultViewState extends ConsumerState<AnswerResultView> {
                           Expanded(
                             child: Text(
                               question.explanation!,
-                              style: TextStyle(color: Colors.grey.shade700),
+                              style: TextStyle(
+                                color: Theme.of(context).colorScheme.onSurfaceVariant,
+                              ),
                             ),
                           ),
                         ],

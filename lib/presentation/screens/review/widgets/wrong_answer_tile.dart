@@ -48,7 +48,7 @@ class WrongAnswerTile extends ConsumerWidget {
             return Text(
               _truncateText(questionText, 40),
               style: Theme.of(context).textTheme.bodySmall?.copyWith(
-                    color: Colors.grey.shade600,
+                    color: Theme.of(context).colorScheme.onSurfaceVariant,
                   ),
               maxLines: 1,
               overflow: TextOverflow.ellipsis,
@@ -57,7 +57,7 @@ class WrongAnswerTile extends ConsumerWidget {
         ),
         trailing: Icon(
           Icons.chevron_right,
-          color: Colors.grey.shade400,
+          color: Theme.of(context).colorScheme.onSurfaceVariant,
         ),
       ),
     );

@@ -49,7 +49,7 @@ class AppTheme {
         centerTitle: true,
         elevation: 0,
         backgroundColor: AppColors.surfaceLight,
-        foregroundColor: AppColors.onPrimary,
+        foregroundColor: AppColors.primaryDark,
         surfaceTintColor: Colors.transparent,
       ),
       cardTheme: CardThemeData(

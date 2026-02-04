@@ -42,22 +42,23 @@ class QuickQuizCard extends StatelessWidget {
                       l10n.quickQuiz,
                       style: theme.textTheme.titleMedium?.copyWith(
                         fontWeight: FontWeight.bold,
-                        color: Colors.white,
+                        color: theme.colorScheme.onPrimaryContainer,
                       ),
                     ),
                     const SizedBox(height: 4),
                     Text(
                       l10n.quickQuizDescription,
                       style: theme.textTheme.bodySmall?.copyWith(
-                        color: Colors.white70,
+                        color: theme.colorScheme.onPrimaryContainer
+                            .withValues(alpha: 0.7),
                       ),
                     ),
                   ],
                 ),
               ),
-              const Icon(
+              Icon(
                 Icons.arrow_forward_ios,
-                color: Colors.white,
+                color: theme.colorScheme.onPrimaryContainer,
               ),
             ],
           ),
