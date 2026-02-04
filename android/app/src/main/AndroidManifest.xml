@@ -10,7 +10,7 @@
         <!-- AdMob 앱 ID -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-8841058711613546~1163711616"/>
+            android:value="ca-app-pub-8841058711613546~7288319575"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"

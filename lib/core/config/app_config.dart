@@ -171,23 +171,22 @@ class AppConfig {
   //   - AndroidManifest.xml: com.google.android.gms.ads.APPLICATION_ID
   //   - Info.plist: GADApplicationIdentifier
 
-  // ----- 프로덕션 광고 ID -----
-  // TODO: AdMob에서 발급받은 실제 ID로 교체하세요
+  // ----- 프로덕션 광고 ID (Bible Quiz - Memorize Verses) -----
 
   /// Android 배너 광고 ID
-  static const String bannerAdIdAndroid = 'ca-app-pub-8841058711613546/1726640787';
+  static const String bannerAdIdAndroid = 'ca-app-pub-8841058711613546/1057953145';
   /// iOS 배너 광고 ID
-  static const String bannerAdIdIos = 'ca-app-pub-8841058711613546/2575536644';
+  static const String bannerAdIdIos = 'ca-app-pub-8841058711613546/6409917402';
 
   /// Android 전면 광고 ID
-  static const String interstitialAdIdAndroid = 'ca-app-pub-8841058711613546/9413559115';
+  static const String interstitialAdIdAndroid = 'ca-app-pub-8841058711613546/6218345715';
   /// iOS 전면 광고 ID
-  static const String interstitialAdIdIos = 'ca-app-pub-8841058711613546/8020586390';
+  static const String interstitialAdIdIos = 'ca-app-pub-8841058711613546/4997198159';
 
   /// Android 보상형 광고 ID
-  static const String rewardedAdIdAndroid = 'ca-app-pub-8841058711613546/4915254367';
+  static const String rewardedAdIdAndroid = 'ca-app-pub-8841058711613546/7747049803';
   /// iOS 보상형 광고 ID
-  static const String rewardedAdIdIos = 'ca-app-pub-8841058711613546/3836647423';
+  static const String rewardedAdIdIos = 'ca-app-pub-8841058711613546/9970323236';
 
   // ----- 테스트 광고 ID (디버그 모드용, 변경 불필요) -----
 
@@ -227,7 +226,6 @@ class AppConfig {
   // 예시: 'https://raw.githubusercontent.com/YourOrg/movie-quiz/main/github-data'
 
   /// GitHub Raw 콘텐츠 베이스 URL
-  /// TODO: 실제 GitHub 저장소 생성 후 URL 업데이트 필요
   static const String remoteDataBaseUrl =
       'https://raw.githubusercontent.com/Wearablock/bible-quiz-memorize-verses/main/github-data';
 
@@ -247,7 +245,6 @@ class AppConfig {
   // 예시: 'https://yourorg.github.io/movie-quiz'
 
   /// 문서 베이스 URL
-  /// TODO: GitHub Pages 설정 후 URL 업데이트 필요
   static const String docsBaseUrl = 'https://wearablock.github.io/bible-quiz-memorize-verses';
 
   /// 이용약관 URL
