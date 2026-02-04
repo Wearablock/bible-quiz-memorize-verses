@@ -78,6 +78,11 @@ class _QuizScreenState extends ConsumerState<QuizScreen>
           limit: 10,
         );
         break;
+      case QuizMode.srsReview:
+        notifier.startSrsReviewQuiz(
+          locale: localeStr,
+        );
+        break;
     }
   }
 
@@ -95,9 +100,12 @@ class _QuizScreenState extends ConsumerState<QuizScreen>
       },
       child: Scaffold(
         appBar: AppBar(
-          title: Text(_getTitle(l10n)),
+          title: Text(
+            _getTitle(l10n),
+            style: const TextStyle(color: Colors.black87),
+          ),
           leading: IconButton(
-            icon: const Icon(Icons.close),
+            icon: const Icon(Icons.close, color: Colors.black87),
             onPressed: () {
               if (phase == QuizPhase.completed || phase == QuizPhase.error) {
                 Navigator.pop(context);
@@ -144,6 +152,7 @@ class _QuizScreenState extends ConsumerState<QuizScreen>
       case QuizMode.random:
         return l10n.quickQuiz;
       case QuizMode.review:
+      case QuizMode.srsReview:
         return l10n.review;
     }
   }

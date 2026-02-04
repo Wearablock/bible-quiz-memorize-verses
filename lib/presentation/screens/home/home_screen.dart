@@ -8,6 +8,7 @@ import '../quiz/quiz_mode.dart';
 import 'widgets/category_card.dart';
 import 'widgets/quick_quiz_card.dart';
 import 'widgets/stats_summary_card.dart';
+import 'widgets/srs_review_card.dart';
 
 class HomeScreen extends ConsumerWidget {
   const HomeScreen({super.key});
@@ -35,6 +36,12 @@ class HomeScreen extends ConsumerWidget {
                   // Quick Quiz Card
                   QuickQuizCard(
                     onTap: () => _startQuickQuiz(context, ref),
+                  ),
+                  const SizedBox(height: 12),
+
+                  // SRS Review Card (복습 필요 시 표시)
+                  SrsReviewCard(
+                    onTap: () => _startSrsReviewQuiz(context),
                   ),
                   const SizedBox(height: 24),
 
@@ -96,6 +103,15 @@ class HomeScreen extends ConsumerWidget {
       context,
       MaterialPageRoute(
         builder: (context) => const QuizScreen(mode: QuizMode.random),
+      ),
+    );
+  }
+
+  void _startSrsReviewQuiz(BuildContext context) {
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => const QuizScreen(mode: QuizMode.srsReview),
       ),
     );
   }

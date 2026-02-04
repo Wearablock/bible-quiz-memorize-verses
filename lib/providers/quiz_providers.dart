@@ -34,11 +34,13 @@ final quizConfigProvider = StateProvider<QuizConfig>((ref) {
 final quizProvider = StateNotifierProvider<QuizNotifier, QuizState>((ref) {
   final questionRepo = ref.watch(questionRepositoryProvider);
   final historyRepo = ref.watch(quizHistoryRepositoryProvider);
+  final srsService = ref.watch(srsServiceProvider);
   final config = ref.watch(quizConfigProvider);
 
   return QuizNotifier(
     questionRepository: questionRepo,
     historyRepository: historyRepo,
+    srsService: srsService,
     timerEnabled: config.timerEnabled,
     timeLimit: config.timeLimit,
   );

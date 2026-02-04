@@ -7,14 +7,16 @@ import 'package:path/path.dart' as p;
 
 import 'tables/quiz_history.dart';
 import 'tables/user_settings.dart';
+import 'tables/study_records.dart';
 import 'daos/quiz_history_dao.dart';
 import 'daos/user_settings_dao.dart';
+import 'daos/study_record_dao.dart';
 
 part 'app_database.g.dart';
 
 @DriftDatabase(
-  tables: [QuizHistory, UserSettings],
-  daos: [QuizHistoryDao, UserSettingsDao],
+  tables: [QuizHistory, UserSettings, StudyRecords],
+  daos: [QuizHistoryDao, UserSettingsDao, StudyRecordDao],
 )
 class AppDatabase extends _$AppDatabase {
   AppDatabase() : super(_openConnection());
@@ -23,7 +25,7 @@ class AppDatabase extends _$AppDatabase {
   AppDatabase.forTesting(super.e);
 
   @override
-  int get schemaVersion => 1;
+  int get schemaVersion => 2;
 
   @override
   MigrationStrategy get migration {
@@ -32,7 +34,10 @@ class AppDatabase extends _$AppDatabase {
         await m.createAll();
       },
       onUpgrade: (Migrator m, int from, int to) async {
-        // 향후 마이그레이션 로직
+        // v1 → v2: StudyRecords 테이블 추가
+        if (from < 2) {
+          await m.createTable(studyRecords);
+        }
       },
       beforeOpen: (details) async {
         // 외래 키 활성화

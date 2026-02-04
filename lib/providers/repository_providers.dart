@@ -5,6 +5,8 @@ import '../data/repositories/category_repository.dart';
 import '../data/repositories/question_repository.dart';
 import '../data/repositories/quiz_history_repository.dart';
 import '../data/repositories/settings_repository.dart';
+import '../data/repositories/study_record_repository.dart';
+import '../data/services/srs_service.dart';
 import 'database_providers.dart';
 
 /// CategoryRepository Provider
@@ -27,6 +29,22 @@ final quizHistoryRepositoryProvider = Provider<QuizHistoryRepository>((ref) {
 final settingsRepositoryProvider = Provider<SettingsRepository>((ref) {
   final dao = ref.watch(userSettingsDaoProvider);
   return SettingsRepository(dao);
+});
+
+/// StudyRecordRepository Provider
+final studyRecordRepositoryProvider = Provider<StudyRecordRepository>((ref) {
+  final dao = ref.watch(studyRecordDaoProvider);
+  return StudyRecordRepository(dao);
+});
+
+/// SrsService Provider
+final srsServiceProvider = Provider<SrsService>((ref) {
+  final studyRecordRepository = ref.watch(studyRecordRepositoryProvider);
+  final quizHistoryRepository = ref.watch(quizHistoryRepositoryProvider);
+  return SrsService(
+    studyRecordRepository: studyRecordRepository,
+    quizHistoryRepository: quizHistoryRepository,
+  );
 });
 
 // === Derived Providers ===

@@ -704,15 +704,651 @@ class UserSettingsCompanion extends UpdateCompanion<UserSetting> {
   }
 }
 
+class $StudyRecordsTable extends StudyRecords
+    with TableInfo<$StudyRecordsTable, StudyRecord> {
+  @override
+  final GeneratedDatabase attachedDatabase;
+  final String? _alias;
+  $StudyRecordsTable(this.attachedDatabase, [this._alias]);
+  static const VerificationMeta _idMeta = const VerificationMeta('id');
+  @override
+  late final GeneratedColumn<int> id = GeneratedColumn<int>(
+    'id',
+    aliasedName,
+    false,
+    hasAutoIncrement: true,
+    type: DriftSqlType.int,
+    requiredDuringInsert: false,
+    defaultConstraints: GeneratedColumn.constraintIsAlways(
+      'PRIMARY KEY AUTOINCREMENT',
+    ),
+  );
+  static const VerificationMeta _questionIdMeta = const VerificationMeta(
+    'questionId',
+  );
+  @override
+  late final GeneratedColumn<String> questionId = GeneratedColumn<String>(
+    'question_id',
+    aliasedName,
+    false,
+    type: DriftSqlType.string,
+    requiredDuringInsert: true,
+    defaultConstraints: GeneratedColumn.constraintIsAlways('UNIQUE'),
+  );
+  static const VerificationMeta _categoryIdMeta = const VerificationMeta(
+    'categoryId',
+  );
+  @override
+  late final GeneratedColumn<String> categoryId = GeneratedColumn<String>(
+    'category_id',
+    aliasedName,
+    false,
+    type: DriftSqlType.string,
+    requiredDuringInsert: true,
+  );
+  static const VerificationMeta _levelMeta = const VerificationMeta('level');
+  @override
+  late final GeneratedColumn<int> level = GeneratedColumn<int>(
+    'level',
+    aliasedName,
+    false,
+    type: DriftSqlType.int,
+    requiredDuringInsert: false,
+    defaultValue: const Constant(0),
+  );
+  static const VerificationMeta _nextReviewAtMeta = const VerificationMeta(
+    'nextReviewAt',
+  );
+  @override
+  late final GeneratedColumn<DateTime> nextReviewAt = GeneratedColumn<DateTime>(
+    'next_review_at',
+    aliasedName,
+    false,
+    type: DriftSqlType.dateTime,
+    requiredDuringInsert: true,
+  );
+  static const VerificationMeta _lastStudiedAtMeta = const VerificationMeta(
+    'lastStudiedAt',
+  );
+  @override
+  late final GeneratedColumn<DateTime> lastStudiedAt =
+      GeneratedColumn<DateTime>(
+        'last_studied_at',
+        aliasedName,
+        false,
+        type: DriftSqlType.dateTime,
+        requiredDuringInsert: true,
+      );
+  static const VerificationMeta _correctCountMeta = const VerificationMeta(
+    'correctCount',
+  );
+  @override
+  late final GeneratedColumn<int> correctCount = GeneratedColumn<int>(
+    'correct_count',
+    aliasedName,
+    false,
+    type: DriftSqlType.int,
+    requiredDuringInsert: false,
+    defaultValue: const Constant(0),
+  );
+  static const VerificationMeta _wrongCountMeta = const VerificationMeta(
+    'wrongCount',
+  );
+  @override
+  late final GeneratedColumn<int> wrongCount = GeneratedColumn<int>(
+    'wrong_count',
+    aliasedName,
+    false,
+    type: DriftSqlType.int,
+    requiredDuringInsert: false,
+    defaultValue: const Constant(0),
+  );
+  static const VerificationMeta _createdAtMeta = const VerificationMeta(
+    'createdAt',
+  );
+  @override
+  late final GeneratedColumn<DateTime> createdAt = GeneratedColumn<DateTime>(
+    'created_at',
+    aliasedName,
+    false,
+    type: DriftSqlType.dateTime,
+    requiredDuringInsert: true,
+  );
+  static const VerificationMeta _updatedAtMeta = const VerificationMeta(
+    'updatedAt',
+  );
+  @override
+  late final GeneratedColumn<DateTime> updatedAt = GeneratedColumn<DateTime>(
+    'updated_at',
+    aliasedName,
+    false,
+    type: DriftSqlType.dateTime,
+    requiredDuringInsert: true,
+  );
+  @override
+  List<GeneratedColumn> get $columns => [
+    id,
+    questionId,
+    categoryId,
+    level,
+    nextReviewAt,
+    lastStudiedAt,
+    correctCount,
+    wrongCount,
+    createdAt,
+    updatedAt,
+  ];
+  @override
+  String get aliasedName => _alias ?? actualTableName;
+  @override
+  String get actualTableName => $name;
+  static const String $name = 'study_records';
+  @override
+  VerificationContext validateIntegrity(
+    Insertable<StudyRecord> instance, {
+    bool isInserting = false,
+  }) {
+    final context = VerificationContext();
+    final data = instance.toColumns(true);
+    if (data.containsKey('id')) {
+      context.handle(_idMeta, id.isAcceptableOrUnknown(data['id']!, _idMeta));
+    }
+    if (data.containsKey('question_id')) {
+      context.handle(
+        _questionIdMeta,
+        questionId.isAcceptableOrUnknown(data['question_id']!, _questionIdMeta),
+      );
+    } else if (isInserting) {
+      context.missing(_questionIdMeta);
+    }
+    if (data.containsKey('category_id')) {
+      context.handle(
+        _categoryIdMeta,
+        categoryId.isAcceptableOrUnknown(data['category_id']!, _categoryIdMeta),
+      );
+    } else if (isInserting) {
+      context.missing(_categoryIdMeta);
+    }
+    if (data.containsKey('level')) {
+      context.handle(
+        _levelMeta,
+        level.isAcceptableOrUnknown(data['level']!, _levelMeta),
+      );
+    }
+    if (data.containsKey('next_review_at')) {
+      context.handle(
+        _nextReviewAtMeta,
+        nextReviewAt.isAcceptableOrUnknown(
+          data['next_review_at']!,
+          _nextReviewAtMeta,
+        ),
+      );
+    } else if (isInserting) {
+      context.missing(_nextReviewAtMeta);
+    }
+    if (data.containsKey('last_studied_at')) {
+      context.handle(
+        _lastStudiedAtMeta,
+        lastStudiedAt.isAcceptableOrUnknown(
+          data['last_studied_at']!,
+          _lastStudiedAtMeta,
+        ),
+      );
+    } else if (isInserting) {
+      context.missing(_lastStudiedAtMeta);
+    }
+    if (data.containsKey('correct_count')) {
+      context.handle(
+        _correctCountMeta,
+        correctCount.isAcceptableOrUnknown(
+          data['correct_count']!,
+          _correctCountMeta,
+        ),
+      );
+    }
+    if (data.containsKey('wrong_count')) {
+      context.handle(
+        _wrongCountMeta,
+        wrongCount.isAcceptableOrUnknown(data['wrong_count']!, _wrongCountMeta),
+      );
+    }
+    if (data.containsKey('created_at')) {
+      context.handle(
+        _createdAtMeta,
+        createdAt.isAcceptableOrUnknown(data['created_at']!, _createdAtMeta),
+      );
+    } else if (isInserting) {
+      context.missing(_createdAtMeta);
+    }
+    if (data.containsKey('updated_at')) {
+      context.handle(
+        _updatedAtMeta,
+        updatedAt.isAcceptableOrUnknown(data['updated_at']!, _updatedAtMeta),
+      );
+    } else if (isInserting) {
+      context.missing(_updatedAtMeta);
+    }
+    return context;
+  }
+
+  @override
+  Set<GeneratedColumn> get $primaryKey => {id};
+  @override
+  StudyRecord map(Map<String, dynamic> data, {String? tablePrefix}) {
+    final effectivePrefix = tablePrefix != null ? '$tablePrefix.' : '';
+    return StudyRecord(
+      id: attachedDatabase.typeMapping.read(
+        DriftSqlType.int,
+        data['${effectivePrefix}id'],
+      )!,
+      questionId: attachedDatabase.typeMapping.read(
+        DriftSqlType.string,
+        data['${effectivePrefix}question_id'],
+      )!,
+      categoryId: attachedDatabase.typeMapping.read(
+        DriftSqlType.string,
+        data['${effectivePrefix}category_id'],
+      )!,
+      level: attachedDatabase.typeMapping.read(
+        DriftSqlType.int,
+        data['${effectivePrefix}level'],
+      )!,
+      nextReviewAt: attachedDatabase.typeMapping.read(
+        DriftSqlType.dateTime,
+        data['${effectivePrefix}next_review_at'],
+      )!,
+      lastStudiedAt: attachedDatabase.typeMapping.read(
+        DriftSqlType.dateTime,
+        data['${effectivePrefix}last_studied_at'],
+      )!,
+      correctCount: attachedDatabase.typeMapping.read(
+        DriftSqlType.int,
+        data['${effectivePrefix}correct_count'],
+      )!,
+      wrongCount: attachedDatabase.typeMapping.read(
+        DriftSqlType.int,
+        data['${effectivePrefix}wrong_count'],
+      )!,
+      createdAt: attachedDatabase.typeMapping.read(
+        DriftSqlType.dateTime,
+        data['${effectivePrefix}created_at'],
+      )!,
+      updatedAt: attachedDatabase.typeMapping.read(
+        DriftSqlType.dateTime,
+        data['${effectivePrefix}updated_at'],
+      )!,
+    );
+  }
+
+  @override
+  $StudyRecordsTable createAlias(String alias) {
+    return $StudyRecordsTable(attachedDatabase, alias);
+  }
+}
+
+class StudyRecord extends DataClass implements Insertable<StudyRecord> {
+  /// 자동 증가 ID
+  final int id;
+
+  /// 문제 ID (예: "q_love_001") - 고유값
+  final String questionId;
+
+  /// 카테고리 ID (예: "love")
+  final String categoryId;
+
+  /// 현재 레벨 (0: 오답, 1~4: 학습중, 5: 마스터리)
+  final int level;
+
+  /// 다음 복습 예정 시간
+  final DateTime nextReviewAt;
+
+  /// 마지막 학습 시간
+  final DateTime lastStudiedAt;
+
+  /// 정답 횟수
+  final int correctCount;
+
+  /// 오답 횟수
+  final int wrongCount;
+
+  /// 생성 시간
+  final DateTime createdAt;
+
+  /// 수정 시간
+  final DateTime updatedAt;
+  const StudyRecord({
+    required this.id,
+    required this.questionId,
+    required this.categoryId,
+    required this.level,
+    required this.nextReviewAt,
+    required this.lastStudiedAt,
+    required this.correctCount,
+    required this.wrongCount,
+    required this.createdAt,
+    required this.updatedAt,
+  });
+  @override
+  Map<String, Expression> toColumns(bool nullToAbsent) {
+    final map = <String, Expression>{};
+    map['id'] = Variable<int>(id);
+    map['question_id'] = Variable<String>(questionId);
+    map['category_id'] = Variable<String>(categoryId);
+    map['level'] = Variable<int>(level);
+    map['next_review_at'] = Variable<DateTime>(nextReviewAt);
+    map['last_studied_at'] = Variable<DateTime>(lastStudiedAt);
+    map['correct_count'] = Variable<int>(correctCount);
+    map['wrong_count'] = Variable<int>(wrongCount);
+    map['created_at'] = Variable<DateTime>(createdAt);
+    map['updated_at'] = Variable<DateTime>(updatedAt);
+    return map;
+  }
+
+  StudyRecordsCompanion toCompanion(bool nullToAbsent) {
+    return StudyRecordsCompanion(
+      id: Value(id),
+      questionId: Value(questionId),
+      categoryId: Value(categoryId),
+      level: Value(level),
+      nextReviewAt: Value(nextReviewAt),
+      lastStudiedAt: Value(lastStudiedAt),
+      correctCount: Value(correctCount),
+      wrongCount: Value(wrongCount),
+      createdAt: Value(createdAt),
+      updatedAt: Value(updatedAt),
+    );
+  }
+
+  factory StudyRecord.fromJson(
+    Map<String, dynamic> json, {
+    ValueSerializer? serializer,
+  }) {
+    serializer ??= driftRuntimeOptions.defaultSerializer;
+    return StudyRecord(
+      id: serializer.fromJson<int>(json['id']),
+      questionId: serializer.fromJson<String>(json['questionId']),
+      categoryId: serializer.fromJson<String>(json['categoryId']),
+      level: serializer.fromJson<int>(json['level']),
+      nextReviewAt: serializer.fromJson<DateTime>(json['nextReviewAt']),
+      lastStudiedAt: serializer.fromJson<DateTime>(json['lastStudiedAt']),
+      correctCount: serializer.fromJson<int>(json['correctCount']),
+      wrongCount: serializer.fromJson<int>(json['wrongCount']),
+      createdAt: serializer.fromJson<DateTime>(json['createdAt']),
+      updatedAt: serializer.fromJson<DateTime>(json['updatedAt']),
+    );
+  }
+  @override
+  Map<String, dynamic> toJson({ValueSerializer? serializer}) {
+    serializer ??= driftRuntimeOptions.defaultSerializer;
+    return <String, dynamic>{
+      'id': serializer.toJson<int>(id),
+      'questionId': serializer.toJson<String>(questionId),
+      'categoryId': serializer.toJson<String>(categoryId),
+      'level': serializer.toJson<int>(level),
+      'nextReviewAt': serializer.toJson<DateTime>(nextReviewAt),
+      'lastStudiedAt': serializer.toJson<DateTime>(lastStudiedAt),
+      'correctCount': serializer.toJson<int>(correctCount),
+      'wrongCount': serializer.toJson<int>(wrongCount),
+      'createdAt': serializer.toJson<DateTime>(createdAt),
+      'updatedAt': serializer.toJson<DateTime>(updatedAt),
+    };
+  }
+
+  StudyRecord copyWith({
+    int? id,
+    String? questionId,
+    String? categoryId,
+    int? level,
+    DateTime? nextReviewAt,
+    DateTime? lastStudiedAt,
+    int? correctCount,
+    int? wrongCount,
+    DateTime? createdAt,
+    DateTime? updatedAt,
+  }) => StudyRecord(
+    id: id ?? this.id,
+    questionId: questionId ?? this.questionId,
+    categoryId: categoryId ?? this.categoryId,
+    level: level ?? this.level,
+    nextReviewAt: nextReviewAt ?? this.nextReviewAt,
+    lastStudiedAt: lastStudiedAt ?? this.lastStudiedAt,
+    correctCount: correctCount ?? this.correctCount,
+    wrongCount: wrongCount ?? this.wrongCount,
+    createdAt: createdAt ?? this.createdAt,
+    updatedAt: updatedAt ?? this.updatedAt,
+  );
+  StudyRecord copyWithCompanion(StudyRecordsCompanion data) {
+    return StudyRecord(
+      id: data.id.present ? data.id.value : this.id,
+      questionId: data.questionId.present
+          ? data.questionId.value
+          : this.questionId,
+      categoryId: data.categoryId.present
+          ? data.categoryId.value
+          : this.categoryId,
+      level: data.level.present ? data.level.value : this.level,
+      nextReviewAt: data.nextReviewAt.present
+          ? data.nextReviewAt.value
+          : this.nextReviewAt,
+      lastStudiedAt: data.lastStudiedAt.present
+          ? data.lastStudiedAt.value
+          : this.lastStudiedAt,
+      correctCount: data.correctCount.present
+          ? data.correctCount.value
+          : this.correctCount,
+      wrongCount: data.wrongCount.present
+          ? data.wrongCount.value
+          : this.wrongCount,
+      createdAt: data.createdAt.present ? data.createdAt.value : this.createdAt,
+      updatedAt: data.updatedAt.present ? data.updatedAt.value : this.updatedAt,
+    );
+  }
+
+  @override
+  String toString() {
+    return (StringBuffer('StudyRecord(')
+          ..write('id: $id, ')
+          ..write('questionId: $questionId, ')
+          ..write('categoryId: $categoryId, ')
+          ..write('level: $level, ')
+          ..write('nextReviewAt: $nextReviewAt, ')
+          ..write('lastStudiedAt: $lastStudiedAt, ')
+          ..write('correctCount: $correctCount, ')
+          ..write('wrongCount: $wrongCount, ')
+          ..write('createdAt: $createdAt, ')
+          ..write('updatedAt: $updatedAt')
+          ..write(')'))
+        .toString();
+  }
+
+  @override
+  int get hashCode => Object.hash(
+    id,
+    questionId,
+    categoryId,
+    level,
+    nextReviewAt,
+    lastStudiedAt,
+    correctCount,
+    wrongCount,
+    createdAt,
+    updatedAt,
+  );
+  @override
+  bool operator ==(Object other) =>
+      identical(this, other) ||
+      (other is StudyRecord &&
+          other.id == this.id &&
+          other.questionId == this.questionId &&
+          other.categoryId == this.categoryId &&
+          other.level == this.level &&
+          other.nextReviewAt == this.nextReviewAt &&
+          other.lastStudiedAt == this.lastStudiedAt &&
+          other.correctCount == this.correctCount &&
+          other.wrongCount == this.wrongCount &&
+          other.createdAt == this.createdAt &&
+          other.updatedAt == this.updatedAt);
+}
+
+class StudyRecordsCompanion extends UpdateCompanion<StudyRecord> {
+  final Value<int> id;
+  final Value<String> questionId;
+  final Value<String> categoryId;
+  final Value<int> level;
+  final Value<DateTime> nextReviewAt;
+  final Value<DateTime> lastStudiedAt;
+  final Value<int> correctCount;
+  final Value<int> wrongCount;
+  final Value<DateTime> createdAt;
+  final Value<DateTime> updatedAt;
+  const StudyRecordsCompanion({
+    this.id = const Value.absent(),
+    this.questionId = const Value.absent(),
+    this.categoryId = const Value.absent(),
+    this.level = const Value.absent(),
+    this.nextReviewAt = const Value.absent(),
+    this.lastStudiedAt = const Value.absent(),
+    this.correctCount = const Value.absent(),
+    this.wrongCount = const Value.absent(),
+    this.createdAt = const Value.absent(),
+    this.updatedAt = const Value.absent(),
+  });
+  StudyRecordsCompanion.insert({
+    this.id = const Value.absent(),
+    required String questionId,
+    required String categoryId,
+    this.level = const Value.absent(),
+    required DateTime nextReviewAt,
+    required DateTime lastStudiedAt,
+    this.correctCount = const Value.absent(),
+    this.wrongCount = const Value.absent(),
+    required DateTime createdAt,
+    required DateTime updatedAt,
+  }) : questionId = Value(questionId),
+       categoryId = Value(categoryId),
+       nextReviewAt = Value(nextReviewAt),
+       lastStudiedAt = Value(lastStudiedAt),
+       createdAt = Value(createdAt),
+       updatedAt = Value(updatedAt);
+  static Insertable<StudyRecord> custom({
+    Expression<int>? id,
+    Expression<String>? questionId,
+    Expression<String>? categoryId,
+    Expression<int>? level,
+    Expression<DateTime>? nextReviewAt,
+    Expression<DateTime>? lastStudiedAt,
+    Expression<int>? correctCount,
+    Expression<int>? wrongCount,
+    Expression<DateTime>? createdAt,
+    Expression<DateTime>? updatedAt,
+  }) {
+    return RawValuesInsertable({
+      if (id != null) 'id': id,
+      if (questionId != null) 'question_id': questionId,
+      if (categoryId != null) 'category_id': categoryId,
+      if (level != null) 'level': level,
+      if (nextReviewAt != null) 'next_review_at': nextReviewAt,
+      if (lastStudiedAt != null) 'last_studied_at': lastStudiedAt,
+      if (correctCount != null) 'correct_count': correctCount,
+      if (wrongCount != null) 'wrong_count': wrongCount,
+      if (createdAt != null) 'created_at': createdAt,
+      if (updatedAt != null) 'updated_at': updatedAt,
+    });
+  }
+
+  StudyRecordsCompanion copyWith({
+    Value<int>? id,
+    Value<String>? questionId,
+    Value<String>? categoryId,
+    Value<int>? level,
+    Value<DateTime>? nextReviewAt,
+    Value<DateTime>? lastStudiedAt,
+    Value<int>? correctCount,
+    Value<int>? wrongCount,
+    Value<DateTime>? createdAt,
+    Value<DateTime>? updatedAt,
+  }) {
+    return StudyRecordsCompanion(
+      id: id ?? this.id,
+      questionId: questionId ?? this.questionId,
+      categoryId: categoryId ?? this.categoryId,
+      level: level ?? this.level,
+      nextReviewAt: nextReviewAt ?? this.nextReviewAt,
+      lastStudiedAt: lastStudiedAt ?? this.lastStudiedAt,
+      correctCount: correctCount ?? this.correctCount,
+      wrongCount: wrongCount ?? this.wrongCount,
+      createdAt: createdAt ?? this.createdAt,
+      updatedAt: updatedAt ?? this.updatedAt,
+    );
+  }
+
+  @override
+  Map<String, Expression> toColumns(bool nullToAbsent) {
+    final map = <String, Expression>{};
+    if (id.present) {
+      map['id'] = Variable<int>(id.value);
+    }
+    if (questionId.present) {
+      map['question_id'] = Variable<String>(questionId.value);
+    }
+    if (categoryId.present) {
+      map['category_id'] = Variable<String>(categoryId.value);
+    }
+    if (level.present) {
+      map['level'] = Variable<int>(level.value);
+    }
+    if (nextReviewAt.present) {
+      map['next_review_at'] = Variable<DateTime>(nextReviewAt.value);
+    }
+    if (lastStudiedAt.present) {
+      map['last_studied_at'] = Variable<DateTime>(lastStudiedAt.value);
+    }
+    if (correctCount.present) {
+      map['correct_count'] = Variable<int>(correctCount.value);
+    }
+    if (wrongCount.present) {
+      map['wrong_count'] = Variable<int>(wrongCount.value);
+    }
+    if (createdAt.present) {
+      map['created_at'] = Variable<DateTime>(createdAt.value);
+    }
+    if (updatedAt.present) {
+      map['updated_at'] = Variable<DateTime>(updatedAt.value);
+    }
+    return map;
+  }
+
+  @override
+  String toString() {
+    return (StringBuffer('StudyRecordsCompanion(')
+          ..write('id: $id, ')
+          ..write('questionId: $questionId, ')
+          ..write('categoryId: $categoryId, ')
+          ..write('level: $level, ')
+          ..write('nextReviewAt: $nextReviewAt, ')
+          ..write('lastStudiedAt: $lastStudiedAt, ')
+          ..write('correctCount: $correctCount, ')
+          ..write('wrongCount: $wrongCount, ')
+          ..write('createdAt: $createdAt, ')
+          ..write('updatedAt: $updatedAt')
+          ..write(')'))
+        .toString();
+  }
+}
+
 abstract class _$AppDatabase extends GeneratedDatabase {
   _$AppDatabase(QueryExecutor e) : super(e);
   $AppDatabaseManager get managers => $AppDatabaseManager(this);
   late final $QuizHistoryTable quizHistory = $QuizHistoryTable(this);
   late final $UserSettingsTable userSettings = $UserSettingsTable(this);
+  late final $StudyRecordsTable studyRecords = $StudyRecordsTable(this);
   late final QuizHistoryDao quizHistoryDao = QuizHistoryDao(
     this as AppDatabase,
   );
   late final UserSettingsDao userSettingsDao = UserSettingsDao(
+    this as AppDatabase,
+  );
+  late final StudyRecordDao studyRecordDao = StudyRecordDao(
     this as AppDatabase,
   );
   @override
@@ -722,6 +1358,7 @@ abstract class _$AppDatabase extends GeneratedDatabase {
   List<DatabaseSchemaEntity> get allSchemaEntities => [
     quizHistory,
     userSettings,
+    studyRecords,
   ];
 }
 
@@ -1108,6 +1745,307 @@ typedef $$UserSettingsTableProcessedTableManager =
       UserSetting,
       PrefetchHooks Function()
     >;
+typedef $$StudyRecordsTableCreateCompanionBuilder =
+    StudyRecordsCompanion Function({
+      Value<int> id,
+      required String questionId,
+      required String categoryId,
+      Value<int> level,
+      required DateTime nextReviewAt,
+      required DateTime lastStudiedAt,
+      Value<int> correctCount,
+      Value<int> wrongCount,
+      required DateTime createdAt,
+      required DateTime updatedAt,
+    });
+typedef $$StudyRecordsTableUpdateCompanionBuilder =
+    StudyRecordsCompanion Function({
+      Value<int> id,
+      Value<String> questionId,
+      Value<String> categoryId,
+      Value<int> level,
+      Value<DateTime> nextReviewAt,
+      Value<DateTime> lastStudiedAt,
+      Value<int> correctCount,
+      Value<int> wrongCount,
+      Value<DateTime> createdAt,
+      Value<DateTime> updatedAt,
+    });
+
+class $$StudyRecordsTableFilterComposer
+    extends Composer<_$AppDatabase, $StudyRecordsTable> {
+  $$StudyRecordsTableFilterComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  ColumnFilters<int> get id => $composableBuilder(
+    column: $table.id,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<String> get questionId => $composableBuilder(
+    column: $table.questionId,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<String> get categoryId => $composableBuilder(
+    column: $table.categoryId,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<int> get level => $composableBuilder(
+    column: $table.level,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<DateTime> get nextReviewAt => $composableBuilder(
+    column: $table.nextReviewAt,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<DateTime> get lastStudiedAt => $composableBuilder(
+    column: $table.lastStudiedAt,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<int> get correctCount => $composableBuilder(
+    column: $table.correctCount,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<int> get wrongCount => $composableBuilder(
+    column: $table.wrongCount,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<DateTime> get createdAt => $composableBuilder(
+    column: $table.createdAt,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<DateTime> get updatedAt => $composableBuilder(
+    column: $table.updatedAt,
+    builder: (column) => ColumnFilters(column),
+  );
+}
+
+class $$StudyRecordsTableOrderingComposer
+    extends Composer<_$AppDatabase, $StudyRecordsTable> {
+  $$StudyRecordsTableOrderingComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  ColumnOrderings<int> get id => $composableBuilder(
+    column: $table.id,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<String> get questionId => $composableBuilder(
+    column: $table.questionId,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<String> get categoryId => $composableBuilder(
+    column: $table.categoryId,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<int> get level => $composableBuilder(
+    column: $table.level,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<DateTime> get nextReviewAt => $composableBuilder(
+    column: $table.nextReviewAt,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<DateTime> get lastStudiedAt => $composableBuilder(
+    column: $table.lastStudiedAt,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<int> get correctCount => $composableBuilder(
+    column: $table.correctCount,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<int> get wrongCount => $composableBuilder(
+    column: $table.wrongCount,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<DateTime> get createdAt => $composableBuilder(
+    column: $table.createdAt,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<DateTime> get updatedAt => $composableBuilder(
+    column: $table.updatedAt,
+    builder: (column) => ColumnOrderings(column),
+  );
+}
+
+class $$StudyRecordsTableAnnotationComposer
+    extends Composer<_$AppDatabase, $StudyRecordsTable> {
+  $$StudyRecordsTableAnnotationComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  GeneratedColumn<int> get id =>
+      $composableBuilder(column: $table.id, builder: (column) => column);
+
+  GeneratedColumn<String> get questionId => $composableBuilder(
+    column: $table.questionId,
+    builder: (column) => column,
+  );
+
+  GeneratedColumn<String> get categoryId => $composableBuilder(
+    column: $table.categoryId,
+    builder: (column) => column,
+  );
+
+  GeneratedColumn<int> get level =>
+      $composableBuilder(column: $table.level, builder: (column) => column);
+
+  GeneratedColumn<DateTime> get nextReviewAt => $composableBuilder(
+    column: $table.nextReviewAt,
+    builder: (column) => column,
+  );
+
+  GeneratedColumn<DateTime> get lastStudiedAt => $composableBuilder(
+    column: $table.lastStudiedAt,
+    builder: (column) => column,
+  );
+
+  GeneratedColumn<int> get correctCount => $composableBuilder(
+    column: $table.correctCount,
+    builder: (column) => column,
+  );
+
+  GeneratedColumn<int> get wrongCount => $composableBuilder(
+    column: $table.wrongCount,
+    builder: (column) => column,
+  );
+
+  GeneratedColumn<DateTime> get createdAt =>
+      $composableBuilder(column: $table.createdAt, builder: (column) => column);
+
+  GeneratedColumn<DateTime> get updatedAt =>
+      $composableBuilder(column: $table.updatedAt, builder: (column) => column);
+}
+
+class $$StudyRecordsTableTableManager
+    extends
+        RootTableManager<
+          _$AppDatabase,
+          $StudyRecordsTable,
+          StudyRecord,
+          $$StudyRecordsTableFilterComposer,
+          $$StudyRecordsTableOrderingComposer,
+          $$StudyRecordsTableAnnotationComposer,
+          $$StudyRecordsTableCreateCompanionBuilder,
+          $$StudyRecordsTableUpdateCompanionBuilder,
+          (
+            StudyRecord,
+            BaseReferences<_$AppDatabase, $StudyRecordsTable, StudyRecord>,
+          ),
+          StudyRecord,
+          PrefetchHooks Function()
+        > {
+  $$StudyRecordsTableTableManager(_$AppDatabase db, $StudyRecordsTable table)
+    : super(
+        TableManagerState(
+          db: db,
+          table: table,
+          createFilteringComposer: () =>
+              $$StudyRecordsTableFilterComposer($db: db, $table: table),
+          createOrderingComposer: () =>
+              $$StudyRecordsTableOrderingComposer($db: db, $table: table),
+          createComputedFieldComposer: () =>
+              $$StudyRecordsTableAnnotationComposer($db: db, $table: table),
+          updateCompanionCallback:
+              ({
+                Value<int> id = const Value.absent(),
+                Value<String> questionId = const Value.absent(),
+                Value<String> categoryId = const Value.absent(),
+                Value<int> level = const Value.absent(),
+                Value<DateTime> nextReviewAt = const Value.absent(),
+                Value<DateTime> lastStudiedAt = const Value.absent(),
+                Value<int> correctCount = const Value.absent(),
+                Value<int> wrongCount = const Value.absent(),
+                Value<DateTime> createdAt = const Value.absent(),
+                Value<DateTime> updatedAt = const Value.absent(),
+              }) => StudyRecordsCompanion(
+                id: id,
+                questionId: questionId,
+                categoryId: categoryId,
+                level: level,
+                nextReviewAt: nextReviewAt,
+                lastStudiedAt: lastStudiedAt,
+                correctCount: correctCount,
+                wrongCount: wrongCount,
+                createdAt: createdAt,
+                updatedAt: updatedAt,
+              ),
+          createCompanionCallback:
+              ({
+                Value<int> id = const Value.absent(),
+                required String questionId,
+                required String categoryId,
+                Value<int> level = const Value.absent(),
+                required DateTime nextReviewAt,
+                required DateTime lastStudiedAt,
+                Value<int> correctCount = const Value.absent(),
+                Value<int> wrongCount = const Value.absent(),
+                required DateTime createdAt,
+                required DateTime updatedAt,
+              }) => StudyRecordsCompanion.insert(
+                id: id,
+                questionId: questionId,
+                categoryId: categoryId,
+                level: level,
+                nextReviewAt: nextReviewAt,
+                lastStudiedAt: lastStudiedAt,
+                correctCount: correctCount,
+                wrongCount: wrongCount,
+                createdAt: createdAt,
+                updatedAt: updatedAt,
+              ),
+          withReferenceMapper: (p0) => p0
+              .map((e) => (e.readTable(table), BaseReferences(db, table, e)))
+              .toList(),
+          prefetchHooksCallback: null,
+        ),
+      );
+}
+
+typedef $$StudyRecordsTableProcessedTableManager =
+    ProcessedTableManager<
+      _$AppDatabase,
+      $StudyRecordsTable,
+      StudyRecord,
+      $$StudyRecordsTableFilterComposer,
+      $$StudyRecordsTableOrderingComposer,
+      $$StudyRecordsTableAnnotationComposer,
+      $$StudyRecordsTableCreateCompanionBuilder,
+      $$StudyRecordsTableUpdateCompanionBuilder,
+      (
+        StudyRecord,
+        BaseReferences<_$AppDatabase, $StudyRecordsTable, StudyRecord>,
+      ),
+      StudyRecord,
+      PrefetchHooks Function()
+    >;
 
 class $AppDatabaseManager {
   final _$AppDatabase _db;
@@ -1116,4 +2054,6 @@ class $AppDatabaseManager {
       $$QuizHistoryTableTableManager(_db, _db.quizHistory);
   $$UserSettingsTableTableManager get userSettings =>
       $$UserSettingsTableTableManager(_db, _db.userSettings);
+  $$StudyRecordsTableTableManager get studyRecords =>
+      $$StudyRecordsTableTableManager(_db, _db.studyRecords);
 }

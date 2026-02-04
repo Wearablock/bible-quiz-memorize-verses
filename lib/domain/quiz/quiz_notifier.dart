@@ -5,11 +5,13 @@ import '../../data/models/question.dart';
 import '../../data/models/quiz_session.dart';
 import '../../data/repositories/question_repository.dart';
 import '../../data/repositories/quiz_history_repository.dart';
+import '../../data/services/srs_service.dart';
 import 'quiz_state.dart';
 
 class QuizNotifier extends StateNotifier<QuizState> {
   final QuestionRepository _questionRepository;
   final QuizHistoryRepository _historyRepository;
+  final SrsService _srsService;
 
   Timer? _timer;
   static const _uuid = Uuid();
@@ -17,10 +19,12 @@ class QuizNotifier extends StateNotifier<QuizState> {
   QuizNotifier({
     required QuestionRepository questionRepository,
     required QuizHistoryRepository historyRepository,
+    required SrsService srsService,
     bool timerEnabled = true,
     int timeLimit = 30,
   })  : _questionRepository = questionRepository,
         _historyRepository = historyRepository,
+        _srsService = srsService,
         super(QuizState(
           timerEnabled: timerEnabled,
           timeLimit: timeLimit,
@@ -104,7 +108,7 @@ class QuizNotifier extends StateNotifier<QuizState> {
     }
   }
 
-  /// 오답 복습 퀴즈 시작
+  /// 오답 복습 퀴즈 시작 (기존 방식 - quiz_history 기반)
   Future<void> startReviewQuiz({
     required String locale,
     String? categoryId,
@@ -134,6 +138,48 @@ class QuizNotifier extends StateNotifier<QuizState> {
       // 문제 로드
       final questions = await _questionRepository.getQuestionsByIds(
         questionIds: targetIds,
+        locale: locale,
+      );
+
+      if (questions.isEmpty) {
+        state = state.copyWith(
+          phase: QuizPhase.error,
+          errorMessage: 'Failed to load questions',
+        );
+        return;
+      }
+
+      _initializeSession(questions);
+    } catch (e) {
+      state = state.copyWith(
+        phase: QuizPhase.error,
+        errorMessage: e.toString(),
+      );
+    }
+  }
+
+  /// SRS 기반 복습 퀴즈 시작 (간격 반복 알고리즘)
+  /// 오답 복습 + 간격 반복 복습을 함께 진행
+  Future<void> startSrsReviewQuiz({
+    required String locale,
+  }) async {
+    state = state.copyWith(phase: QuizPhase.loading);
+
+    try {
+      // SRS 복습 대상 문제 ID 가져오기
+      final reviewData = await _srsService.getReviewSessionData();
+
+      if (reviewData.isEmpty) {
+        state = state.copyWith(
+          phase: QuizPhase.error,
+          errorMessage: 'No questions due for review',
+        );
+        return;
+      }
+
+      // 문제 로드 (오답 복습 먼저, 그 다음 간격 반복 복습)
+      final questions = await _questionRepository.getQuestionsByIds(
+        questionIds: reviewData.allReviewIds,
         locale: locale,
       );
 
@@ -215,15 +261,17 @@ class QuizNotifier extends StateNotifier<QuizState> {
     _saveAnswerHistory(null);
   }
 
-  /// 답변 기록 저장
+  /// 답변 기록 저장 (SRS + 퀴즈 기록 동시 업데이트)
   Future<void> _saveAnswerHistory(String? answer) async {
     final question = state.currentQuestion;
     if (question == null) return;
 
-    await _historyRepository.recordAnswer(
+    final isCorrect = answer == question.correct;
+
+    // SrsService를 통해 SRS 학습 기록 + 퀴즈 기록 동시 업데이트
+    await _srsService.processAnswer(
       questionId: question.id,
-      categoryId: question.categoryId,
-      isCorrect: answer == question.correct,
+      isCorrect: isCorrect,
       selectedAnswer: answer,
     );
   }
